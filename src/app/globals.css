@@ -1,0 +1,639 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Parchment/Fantasy Map Theme */
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Core colors */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Sidebar */
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Parchment-specific semantic colors */
+  --color-parchment: var(--parchment);
+  --color-parchment-dark: var(--parchment-dark);
+  --color-parchment-light: var(--parchment-light);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-gold: var(--gold);
+  --color-gold-muted: var(--gold-muted);
+
+  /* Location type colors */
+  --color-loc-region: var(--loc-region);
+  --color-loc-city: var(--loc-city);
+  --color-loc-town: var(--loc-town);
+  --color-loc-fortress: var(--loc-fortress);
+  --color-loc-dungeon: var(--loc-dungeon);
+  --color-loc-ruins: var(--loc-ruins);
+  --color-loc-wilderness: var(--loc-wilderness);
+  --color-loc-landmark: var(--loc-landmark);
+  --color-loc-water: var(--loc-water);
+  --color-loc-temple: var(--loc-temple);
+  --color-loc-poi: var(--loc-poi);
+
+  /* Fonts */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-cinzel), ui-serif, Georgia, serif;
+
+  /* Border radius */
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.5rem;
+
+  /* Dark parchment palette - aged leather/dark wood tones */
+  --parchment: #1a1612;
+  --parchment-dark: #0f0d0a;
+  --parchment-light: #2c2416;
+  --ink: #e8e0d0;
+  --ink-muted: #a69a86;
+  --gold: #c9a227;
+  --gold-muted: #a68a4b;
+
+  /* Core theme colors - dark mode */
+  --background: #1a1612;
+  --foreground: #e8e0d0;
+  --card: #2c2416;
+  --card-foreground: #e8e0d0;
+  --popover: #2c2416;
+  --popover-foreground: #e8e0d0;
+  --primary: #c9a227;
+  --primary-foreground: #1a1612;
+  --secondary: #3d3426;
+  --secondary-foreground: #e8e0d0;
+  --muted: #3d3426;
+  --muted-foreground: #a69a86;
+  --accent: #c9a227;
+  --accent-foreground: #1a1612;
+  --destructive: #c45050;
+  --border: #4d4436;
+  --input: #3d3426;
+  --ring: #c9a227;
+
+  /* Sidebar - dark wood tone */
+  --sidebar: #2c2416;
+  --sidebar-foreground: #e8e0d0;
+  --sidebar-primary: #c9a227;
+  --sidebar-primary-foreground: #1a1612;
+  --sidebar-accent: #3d3426;
+  --sidebar-accent-foreground: #e8e0d0;
+  --sidebar-border: #4d4436;
+  --sidebar-ring: #c9a227;
+
+  /* Location type colors - brighter for dark background */
+  --loc-region: #d4a87a;
+  --loc-city: #e0b830;
+  --loc-town: #c4a878;
+  --loc-fortress: #8c8c8c;
+  --loc-dungeon: #b85050;
+  --loc-ruins: #9a9a9a;
+  --loc-wilderness: #5a9c6f;
+  --loc-landmark: #7a9aac;
+  --loc-water: #5aacbc;
+  --loc-temple: #8b6aac;
+  --loc-poi: #5a9c9c;
+
+  /* Atmospheric background tints for immersive UI - adjusted for dark */
+  --atmos-civilization: rgba(201, 162, 39, 0.08);
+  --atmos-sacred: rgba(139, 106, 172, 0.10);
+  --atmos-cursed: rgba(100, 80, 120, 0.12);
+  --atmos-ancient: rgba(154, 154, 154, 0.08);
+  --atmos-dangerous: rgba(184, 80, 80, 0.08);
+  --atmos-trade: rgba(212, 168, 122, 0.06);
+  --atmos-nature: rgba(90, 156, 111, 0.08);
+  --atmos-water: rgba(90, 172, 188, 0.08);
+}
+
+/* We're going light-mode only for the immersive parchment feel */
+/* But keeping .dark for potential future use */
+.dark {
+  --background: #1a1612;
+  --foreground: #e8e0d0;
+  --card: #2c2416;
+  --card-foreground: #e8e0d0;
+  --popover: #2c2416;
+  --popover-foreground: #e8e0d0;
+  --primary: #c9a227;
+  --primary-foreground: #1a1612;
+  --secondary: #3d3426;
+  --secondary-foreground: #e8e0d0;
+  --muted: #3d3426;
+  --muted-foreground: #a69a86;
+  --accent: #c9a227;
+  --accent-foreground: #1a1612;
+  --destructive: #c45050;
+  --border: #4d4436;
+  --input: #3d3426;
+  --ring: #c9a227;
+
+  --sidebar: #2c2416;
+  --sidebar-foreground: #e8e0d0;
+  --sidebar-primary: #c9a227;
+  --sidebar-primary-foreground: #1a1612;
+  --sidebar-accent: #3d3426;
+  --sidebar-accent-foreground: #e8e0d0;
+  --sidebar-border: #4d4436;
+  --sidebar-ring: #c9a227;
+
+  /* Parchment vars also shift in dark mode */
+  --parchment: #2c2416;
+  --parchment-dark: #1a1612;
+  --parchment-light: #3d3426;
+  --ink: #e8e0d0;
+  --ink-muted: #a69a86;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Typography defaults */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  /* Subtle parchment texture overlay - can be enabled on containers */
+  .parchment-texture {
+    background-image:
+      url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%' height='100%' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  }
+}
+
+/* Utility classes for the design system */
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .text-ink {
+    color: var(--ink);
+  }
+
+  .text-ink-muted {
+    color: var(--ink-muted);
+  }
+
+  .bg-parchment {
+    background-color: var(--parchment);
+  }
+
+  .bg-parchment-dark {
+    background-color: var(--parchment-dark);
+  }
+
+  .bg-parchment-light {
+    background-color: var(--parchment-light);
+  }
+
+  .border-parchment {
+    border-color: var(--border);
+  }
+
+  /* Selected location underline */
+  .location-selected {
+    text-decoration: underline;
+    text-decoration-color: var(--gold);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+  }
+
+  /* Atmospheric background tints */
+  .atmosphere-civilization {
+    background-color: var(--atmos-civilization);
+  }
+
+  .atmosphere-sacred {
+    background-color: var(--atmos-sacred);
+  }
+
+  .atmosphere-cursed {
+    background-color: var(--atmos-cursed);
+  }
+
+  .atmosphere-ancient {
+    background-color: var(--atmos-ancient);
+  }
+
+  .atmosphere-dangerous {
+    background-color: var(--atmos-dangerous);
+  }
+
+  .atmosphere-trade {
+    background-color: var(--atmos-trade);
+  }
+
+  .atmosphere-nature {
+    background-color: var(--atmos-nature);
+  }
+
+  .atmosphere-water {
+    background-color: var(--atmos-water);
+  }
+
+  .atmosphere-transition {
+    transition: background-color 600ms ease;
+    will-change: background-color;
+  }
+
+  /* Progressive revelation - collapsed state */
+  .reveal-collapsed {
+    max-height: 6rem;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Fade gradient for collapsed content */
+  .reveal-gradient::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3rem;
+    background: linear-gradient(to bottom, transparent, var(--parchment));
+    pointer-events: none;
+  }
+
+  /* Progressive revelation - expanded animation */
+  @keyframes unfurl {
+    from {
+      max-height: 6rem;
+      opacity: 0.8;
+      transform: translateY(-4px);
+    }
+    to {
+      max-height: 2000px;
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .reveal-expanded {
+    animation: unfurl 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+
+  /* Ornamental corner flourishes */
+  .corner-flourish {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    border-color: rgba(201, 162, 39, 0.3);
+  }
+
+  .corner-flourish-tl {
+    top: 0;
+    left: 0;
+    border-top-width: 2px;
+    border-left-width: 2px;
+  }
+
+  .corner-flourish-tr {
+    top: 0;
+    right: 0;
+    border-top-width: 2px;
+    border-right-width: 2px;
+  }
+
+  .corner-flourish-bl {
+    bottom: 0;
+    left: 0;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+  }
+
+  .corner-flourish-br {
+    bottom: 0;
+    right: 0;
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+  }
+
+  /* Cinematic map loading overlay */
+  @keyframes cinematic-reveal {
+    0% {
+      opacity: 1;
+      backdrop-filter: blur(8px);
+    }
+    30% {
+      opacity: 0.85;
+      backdrop-filter: blur(4px);
+    }
+    100% {
+      opacity: 0;
+      backdrop-filter: blur(0px);
+    }
+  }
+
+  @keyframes title-fade-in {
+    from {
+      opacity: 0;
+      transform: scale(0.92) translateY(10px);
+      letter-spacing: 0.3em;
+    }
+    to {
+      opacity: 1;
+      transform: scale(1) translateY(0);
+      letter-spacing: 0.15em;
+    }
+  }
+
+  @keyframes title-fade-out {
+    from {
+      opacity: 1;
+      transform: scale(1);
+    }
+    to {
+      opacity: 0;
+      transform: scale(1.08);
+    }
+  }
+
+  @keyframes subtitle-fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+      letter-spacing: 0.5em;
+    }
+    to {
+      opacity: 0.7;
+      transform: translateY(0);
+      letter-spacing: 0.3em;
+    }
+  }
+
+  @keyframes title-glow {
+    0%, 100% {
+      text-shadow:
+        0 0 30px rgba(201, 162, 39, 0.6),
+        0 0 60px rgba(201, 162, 39, 0.4),
+        0 0 90px rgba(201, 162, 39, 0.2);
+    }
+    50% {
+      text-shadow:
+        0 0 40px rgba(201, 162, 39, 0.8),
+        0 0 80px rgba(201, 162, 39, 0.5),
+        0 0 120px rgba(201, 162, 39, 0.3);
+    }
+  }
+
+  @keyframes ripple-expand {
+    0% {
+      transform: translate(-50%, -50%) scale(0);
+      opacity: 0.6;
+      border-width: 2px;
+    }
+    100% {
+      transform: translate(-50%, -50%) scale(1);
+      opacity: 0;
+      border-width: 1px;
+    }
+  }
+
+  @keyframes flourish-draw {
+    from {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes compass-spin {
+    from {
+      transform: translate(-50%, -50%) rotate(0deg);
+      opacity: 0;
+    }
+    20% {
+      opacity: 0.3;
+    }
+    to {
+      transform: translate(-50%, -50%) rotate(360deg);
+      opacity: 0;
+    }
+  }
+
+  @keyframes compass-pulse {
+    0%, 100% {
+      box-shadow: 0 0 20px rgba(201, 162, 39, 0.3);
+    }
+    50% {
+      box-shadow: 0 0 40px rgba(201, 162, 39, 0.5);
+    }
+  }
+
+  .cinematic-overlay {
+    position: fixed;
+    inset: 0;
+    background: radial-gradient(ellipse at center, #12100d 0%, #0a0806 50%, #050403 100%);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .cinematic-fade {
+    animation: cinematic-reveal 3.5s cubic-bezier(0.4, 0, 0.1, 1) forwards;
+    pointer-events: none;
+  }
+
+  .cinematic-fade .cinematic-title,
+  .cinematic-fade .cinematic-subtitle {
+    animation: title-fade-out 2s ease-in forwards;
+  }
+
+  .cinematic-title-container {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+  }
+
+  .cinematic-title {
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 8vw, 5rem);
+    font-weight: 600;
+    color: var(--gold);
+    text-align: center;
+    letter-spacing: 0.15em;
+    margin: 0;
+    animation:
+      title-fade-in 1.2s cubic-bezier(0.2, 0, 0.2, 1) forwards,
+      title-glow 3s ease-in-out infinite;
+    animation-delay: 0.5s, 1.2s;
+    opacity: 0;
+  }
+
+  .cinematic-subtitle {
+    font-family: var(--font-display);
+    font-size: clamp(0.875rem, 2vw, 1.25rem);
+    font-weight: 400;
+    color: #a69a86;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin-top: 0.75rem;
+    opacity: 0;
+    animation: subtitle-fade-in 1s ease-out forwards;
+    animation-delay: 1.4s;
+  }
+
+  /* Expanding ripple rings */
+  .cinematic-ripples {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .cinematic-ripple {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150vmax;
+    height: 150vmax;
+    border-radius: 50%;
+    border: 2px solid rgba(201, 162, 39, 0.3);
+    transform: translate(-50%, -50%) scale(0);
+  }
+
+  .cinematic-ripple-1 {
+    animation: ripple-expand 4s ease-out forwards;
+    animation-delay: 0.2s;
+  }
+
+  .cinematic-ripple-2 {
+    animation: ripple-expand 4s ease-out forwards;
+    animation-delay: 0.6s;
+  }
+
+  .cinematic-ripple-3 {
+    animation: ripple-expand 4s ease-out forwards;
+    animation-delay: 1s;
+  }
+
+  /* Corner flourishes */
+  .cinematic-flourish {
+    position: absolute;
+    width: clamp(60px, 12vw, 120px);
+    height: clamp(60px, 12vw, 120px);
+    border-color: rgba(201, 162, 39, 0.4);
+    opacity: 0;
+    animation: flourish-draw 0.8s ease-out forwards;
+  }
+
+  .cinematic-flourish-tl {
+    top: 5%;
+    left: 5%;
+    border-top: 2px solid;
+    border-left: 2px solid;
+    animation-delay: 0.8s;
+  }
+
+  .cinematic-flourish-tr {
+    top: 5%;
+    right: 5%;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    animation-delay: 0.9s;
+  }
+
+  .cinematic-flourish-bl {
+    bottom: 5%;
+    left: 5%;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    animation-delay: 1s;
+  }
+
+  .cinematic-flourish-br {
+    bottom: 5%;
+    right: 5%;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+    animation-delay: 1.1s;
+  }
+
+  /* Compass rose decoration */
+  .cinematic-compass {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: clamp(200px, 40vw, 400px);
+    height: clamp(200px, 40vw, 400px);
+    border: 1px solid rgba(201, 162, 39, 0.15);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    animation:
+      compass-spin 8s linear forwards,
+      compass-pulse 2s ease-in-out infinite;
+    animation-delay: 0s, 0.5s;
+  }
+
+  .cinematic-compass::before,
+  .cinematic-compass::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: rgba(201, 162, 39, 0.2);
+  }
+
+  .cinematic-compass::before {
+    width: 100%;
+    height: 1px;
+    transform: translate(-50%, -50%);
+  }
+
+  .cinematic-compass::after {
+    width: 1px;
+    height: 100%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* Vignette overlay */
+  .cinematic-vignette {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at center, transparent 0%, transparent 40%, rgba(5, 4, 3, 0.6) 100%);
+    pointer-events: none;
+  }
+
+}
