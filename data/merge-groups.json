@@ -1,0 +1,4046 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-02T21:36:53.962Z",
+  "groups": [
+    {
+      "id": "mg-1",
+      "memberIds": [
+        "134",
+        "193"
+      ],
+      "primaryId": "193",
+      "normalizedName": "howlwood"
+    },
+    {
+      "id": "mg-2",
+      "memberIds": [
+        "606",
+        "618"
+      ],
+      "primaryId": "606",
+      "normalizedName": "howlwood"
+    },
+    {
+      "id": "mg-3",
+      "memberIds": [
+        "400",
+        "828"
+      ],
+      "primaryId": "400",
+      "normalizedName": "besnoumeru"
+    },
+    {
+      "id": "mg-4",
+      "memberIds": [
+        "1084",
+        "1189",
+        "4515"
+      ],
+      "primaryId": "1084",
+      "normalizedName": "lacire"
+    },
+    {
+      "id": "mg-5",
+      "memberIds": [
+        "1117",
+        "1135"
+      ],
+      "primaryId": "1117",
+      "normalizedName": "enimogos"
+    },
+    {
+      "id": "mg-6",
+      "memberIds": [
+        "3024",
+        "3048"
+      ],
+      "primaryId": "3048",
+      "normalizedName": "drift"
+    },
+    {
+      "id": "mg-7",
+      "memberIds": [
+        "3948",
+        "4046"
+      ],
+      "primaryId": "4046",
+      "normalizedName": "nox"
+    },
+    {
+      "id": "mg-8",
+      "memberIds": [
+        "4376",
+        "4379",
+        "4503"
+      ],
+      "primaryId": "4376",
+      "normalizedName": "blackport"
+    },
+    {
+      "id": "mg-9",
+      "memberIds": [
+        "110",
+        "153",
+        "158"
+      ],
+      "primaryId": "158",
+      "normalizedName": "golden river"
+    },
+    {
+      "id": "mg-10",
+      "memberIds": [
+        "403",
+        "549",
+        "668"
+      ],
+      "primaryId": "668",
+      "normalizedName": "bay of whispers"
+    },
+    {
+      "id": "mg-11",
+      "memberIds": [
+        "409",
+        "469",
+        "662"
+      ],
+      "primaryId": "469",
+      "normalizedName": "buffalo islands"
+    },
+    {
+      "id": "mg-12",
+      "memberIds": [
+        "489",
+        "547",
+        "671"
+      ],
+      "primaryId": "489",
+      "normalizedName": "devils crest"
+    },
+    {
+      "id": "mg-13",
+      "memberIds": [
+        "548",
+        "557",
+        "682"
+      ],
+      "primaryId": "557",
+      "normalizedName": "gemstone peaks"
+    },
+    {
+      "id": "mg-14",
+      "memberIds": [
+        "601",
+        "648",
+        "730"
+      ],
+      "primaryId": "601",
+      "normalizedName": "gulf of joswik"
+    },
+    {
+      "id": "mg-15",
+      "memberIds": [
+        "467",
+        "725",
+        "841"
+      ],
+      "primaryId": "467",
+      "normalizedName": "blue lake"
+    },
+    {
+      "id": "mg-16",
+      "memberIds": [
+        "470",
+        "502",
+        "781"
+      ],
+      "primaryId": "470",
+      "normalizedName": "bygone hills"
+    },
+    {
+      "id": "mg-17",
+      "memberIds": [
+        "555",
+        "723",
+        "829"
+      ],
+      "primaryId": "555",
+      "normalizedName": "gem crest bay"
+    },
+    {
+      "id": "mg-18",
+      "memberIds": [
+        "724",
+        "757",
+        "846"
+      ],
+      "primaryId": "757",
+      "normalizedName": "shadewood forest"
+    },
+    {
+      "id": "mg-19",
+      "memberIds": [
+        "17",
+        "295"
+      ],
+      "primaryId": "17",
+      "normalizedName": "attla"
+    },
+    {
+      "id": "mg-20",
+      "memberIds": [
+        "36",
+        "120"
+      ],
+      "primaryId": "36",
+      "normalizedName": "blackpits"
+    },
+    {
+      "id": "mg-21",
+      "memberIds": [
+        "53",
+        "75"
+      ],
+      "primaryId": "53",
+      "normalizedName": "blood mountains"
+    },
+    {
+      "id": "mg-22",
+      "memberIds": [
+        "61",
+        "119"
+      ],
+      "primaryId": "61",
+      "normalizedName": "blyss"
+    },
+    {
+      "id": "mg-23",
+      "memberIds": [
+        "78",
+        "220"
+      ],
+      "primaryId": "78",
+      "normalizedName": "chitin cove"
+    },
+    {
+      "id": "mg-24",
+      "memberIds": [
+        "87",
+        "180"
+      ],
+      "primaryId": "87",
+      "normalizedName": "cydoris river"
+    },
+    {
+      "id": "mg-25",
+      "memberIds": [
+        "94",
+        "287"
+      ],
+      "primaryId": "94",
+      "normalizedName": "disaster passage"
+    },
+    {
+      "id": "mg-26",
+      "memberIds": [
+        "107",
+        "255"
+      ],
+      "primaryId": "255",
+      "normalizedName": "orangeport"
+    },
+    {
+      "id": "mg-27",
+      "memberIds": [
+        "118",
+        "274"
+      ],
+      "primaryId": "274",
+      "normalizedName": "phriorys"
+    },
+    {
+      "id": "mg-28",
+      "memberIds": [
+        "144",
+        "325"
+      ],
+      "primaryId": "144",
+      "normalizedName": "glory river"
+    },
+    {
+      "id": "mg-29",
+      "memberIds": [
+        "181",
+        "203"
+      ],
+      "primaryId": "203",
+      "normalizedName": "keshwindi"
+    },
+    {
+      "id": "mg-30",
+      "memberIds": [
+        "231",
+        "332"
+      ],
+      "primaryId": "231",
+      "normalizedName": "lurza"
+    },
+    {
+      "id": "mg-31",
+      "memberIds": [
+        "317",
+        "324"
+      ],
+      "primaryId": "317",
+      "normalizedName": "red desert"
+    },
+    {
+      "id": "mg-32",
+      "memberIds": [
+        "326",
+        "368"
+      ],
+      "primaryId": "368",
+      "normalizedName": "tukiwood"
+    },
+    {
+      "id": "mg-33",
+      "memberIds": [
+        "339",
+        "358"
+      ],
+      "primaryId": "358",
+      "normalizedName": "sunrise mountains"
+    },
+    {
+      "id": "mg-34",
+      "memberIds": [
+        "360",
+        "378"
+      ],
+      "primaryId": "360",
+      "normalizedName": "tomb of theoron"
+    },
+    {
+      "id": "mg-35",
+      "memberIds": [
+        "395",
+        "720"
+      ],
+      "primaryId": "720",
+      "normalizedName": "ofrenia"
+    },
+    {
+      "id": "mg-36",
+      "memberIds": [
+        "408",
+        "652"
+      ],
+      "primaryId": "652",
+      "normalizedName": "kazül"
+    },
+    {
+      "id": "mg-37",
+      "memberIds": [
+        "410",
+        "664"
+      ],
+      "primaryId": "664",
+      "normalizedName": "paviks cave"
+    },
+    {
+      "id": "mg-38",
+      "memberIds": [
+        "424",
+        "556"
+      ],
+      "primaryId": "556",
+      "normalizedName": "gemecas"
+    },
+    {
+      "id": "mg-39",
+      "memberIds": [
+        "429",
+        "464"
+      ],
+      "primaryId": "464",
+      "normalizedName": "black hills"
+    },
+    {
+      "id": "mg-40",
+      "memberIds": [
+        "435",
+        "490"
+      ],
+      "primaryId": "490",
+      "normalizedName": "diamondback mountains"
+    },
+    {
+      "id": "mg-41",
+      "memberIds": [
+        "436",
+        "604"
+      ],
+      "primaryId": "604",
+      "normalizedName": "hallenfell"
+    },
+    {
+      "id": "mg-42",
+      "memberIds": [
+        "437",
+        "466"
+      ],
+      "primaryId": "466",
+      "normalizedName": "blossom valley"
+    },
+    {
+      "id": "mg-43",
+      "memberIds": [
+        "438",
+        "595"
+      ],
+      "primaryId": "438",
+      "normalizedName": "aster"
+    },
+    {
+      "id": "mg-44",
+      "memberIds": [
+        "441",
+        "752"
+      ],
+      "primaryId": "752",
+      "normalizedName": "plains of eregnar"
+    },
+    {
+      "id": "mg-45",
+      "memberIds": [
+        "449",
+        "542"
+      ],
+      "primaryId": "449",
+      "normalizedName": "azuros"
+    },
+    {
+      "id": "mg-46",
+      "memberIds": [
+        "468",
+        "600"
+      ],
+      "primaryId": "468",
+      "normalizedName": "bu"
+    },
+    {
+      "id": "mg-47",
+      "memberIds": [
+        "471",
+        "500"
+      ],
+      "primaryId": "500",
+      "normalizedName": "eidlsandres"
+    },
+    {
+      "id": "mg-48",
+      "memberIds": [
+        "485",
+        "597"
+      ],
+      "primaryId": "485",
+      "normalizedName": "codunp"
+    },
+    {
+      "id": "mg-49",
+      "memberIds": [
+        "493",
+        "594"
+      ],
+      "primaryId": "493",
+      "normalizedName": "dygon"
+    },
+    {
+      "id": "mg-50",
+      "memberIds": [
+        "536",
+        "592"
+      ],
+      "primaryId": "536",
+      "normalizedName": "crags of geth"
+    },
+    {
+      "id": "mg-51",
+      "memberIds": [
+        "543",
+        "666"
+      ],
+      "primaryId": "666",
+      "normalizedName": "lier"
+    },
+    {
+      "id": "mg-52",
+      "memberIds": [
+        "546",
+        "670"
+      ],
+      "primaryId": "670",
+      "normalizedName": "murder hills"
+    },
+    {
+      "id": "mg-53",
+      "memberIds": [
+        "550",
+        "689"
+      ],
+      "primaryId": "689",
+      "normalizedName": "bejeweled palace"
+    },
+    {
+      "id": "mg-54",
+      "memberIds": [
+        "551",
+        "663"
+      ],
+      "primaryId": "663",
+      "normalizedName": "okeshas passage"
+    },
+    {
+      "id": "mg-55",
+      "memberIds": [
+        "559",
+        "721"
+      ],
+      "primaryId": "559",
+      "normalizedName": "gilded coast"
+    },
+    {
+      "id": "mg-56",
+      "memberIds": [
+        "560",
+        "733"
+      ],
+      "primaryId": "560",
+      "normalizedName": "glass forest"
+    },
+    {
+      "id": "mg-57",
+      "memberIds": [
+        "583",
+        "598"
+      ],
+      "primaryId": "583",
+      "normalizedName": "gor"
+    },
+    {
+      "id": "mg-58",
+      "memberIds": [
+        "586",
+        "588"
+      ],
+      "primaryId": "586",
+      "normalizedName": "gray isles"
+    },
+    {
+      "id": "mg-59",
+      "memberIds": [
+        "589",
+        "619"
+      ],
+      "primaryId": "589",
+      "normalizedName": "graymist forest"
+    },
+    {
+      "id": "mg-60",
+      "memberIds": [
+        "590",
+        "599"
+      ],
+      "primaryId": "590",
+      "normalizedName": "grisel"
+    },
+    {
+      "id": "mg-61",
+      "memberIds": [
+        "602",
+        "611"
+      ],
+      "primaryId": "602",
+      "normalizedName": "gwyrdyr forest"
+    },
+    {
+      "id": "mg-62",
+      "memberIds": [
+        "603",
+        "617"
+      ],
+      "primaryId": "603",
+      "normalizedName": "hagwood"
+    },
+    {
+      "id": "mg-63",
+      "memberIds": [
+        "605",
+        "669"
+      ],
+      "primaryId": "605",
+      "normalizedName": "hills of soromun"
+    },
+    {
+      "id": "mg-64",
+      "memberIds": [
+        "630",
+        "727"
+      ],
+      "primaryId": "630",
+      "normalizedName": "joswik"
+    },
+    {
+      "id": "mg-65",
+      "memberIds": [
+        "635",
+        "728"
+      ],
+      "primaryId": "635",
+      "normalizedName": "oshkensi plateau"
+    },
+    {
+      "id": "mg-66",
+      "memberIds": [
+        "665",
+        "753"
+      ],
+      "primaryId": "753",
+      "normalizedName": "porizzon island"
+    },
+    {
+      "id": "mg-67",
+      "memberIds": [
+        "692",
+        "694"
+      ],
+      "primaryId": "692",
+      "normalizedName": "morgnors cradle"
+    },
+    {
+      "id": "mg-68",
+      "memberIds": [
+        "702",
+        "741"
+      ],
+      "primaryId": "702",
+      "normalizedName": "myastor"
+    },
+    {
+      "id": "mg-69",
+      "memberIds": [
+        "717",
+        "729"
+      ],
+      "primaryId": "717",
+      "normalizedName": "myrnals tower"
+    },
+    {
+      "id": "mg-70",
+      "memberIds": [
+        "463",
+        "811",
+        "892"
+      ],
+      "primaryId": "463",
+      "normalizedName": "telphineas strait"
+    },
+    {
+      "id": "mg-71",
+      "memberIds": [
+        "396",
+        "777"
+      ],
+      "primaryId": "396",
+      "normalizedName": "swampdeep"
+    },
+    {
+      "id": "mg-72",
+      "memberIds": [
+        "399",
+        "827"
+      ],
+      "primaryId": "399",
+      "normalizedName": "catalina"
+    },
+    {
+      "id": "mg-73",
+      "memberIds": [
+        "401",
+        "845"
+      ],
+      "primaryId": "401",
+      "normalizedName": "glowbud forest"
+    },
+    {
+      "id": "mg-74",
+      "memberIds": [
+        "416",
+        "814"
+      ],
+      "primaryId": "416",
+      "normalizedName": "blades"
+    },
+    {
+      "id": "mg-75",
+      "memberIds": [
+        "419",
+        "815"
+      ],
+      "primaryId": "419",
+      "normalizedName": "salt moors"
+    },
+    {
+      "id": "mg-76",
+      "memberIds": [
+        "423",
+        "767"
+      ],
+      "primaryId": "423",
+      "normalizedName": "stillstone"
+    },
+    {
+      "id": "mg-77",
+      "memberIds": [
+        "425",
+        "873"
+      ],
+      "primaryId": "425",
+      "normalizedName": "alacayir"
+    },
+    {
+      "id": "mg-78",
+      "memberIds": [
+        "430",
+        "935"
+      ],
+      "primaryId": "430",
+      "normalizedName": "basin"
+    },
+    {
+      "id": "mg-79",
+      "memberIds": [
+        "439",
+        "874"
+      ],
+      "primaryId": "439",
+      "normalizedName": "ataç"
+    },
+    {
+      "id": "mg-80",
+      "memberIds": [
+        "480",
+        "966"
+      ],
+      "primaryId": "480",
+      "normalizedName": "ngül mountains"
+    },
+    {
+      "id": "mg-81",
+      "memberIds": [
+        "483",
+        "809"
+      ],
+      "primaryId": "483",
+      "normalizedName": "chedwin strait"
+    },
+    {
+      "id": "mg-82",
+      "memberIds": [
+        "484",
+        "875"
+      ],
+      "primaryId": "484",
+      "normalizedName": "cirstin"
+    },
+    {
+      "id": "mg-83",
+      "memberIds": [
+        "486",
+        "911"
+      ],
+      "primaryId": "486",
+      "normalizedName": "desert of one million shards"
+    },
+    {
+      "id": "mg-84",
+      "memberIds": [
+        "487",
+        "871"
+      ],
+      "primaryId": "487",
+      "normalizedName": "ulm"
+    },
+    {
+      "id": "mg-85",
+      "memberIds": [
+        "488",
+        "812"
+      ],
+      "primaryId": "488",
+      "normalizedName": "ternor"
+    },
+    {
+      "id": "mg-86",
+      "memberIds": [
+        "491",
+        "876"
+      ],
+      "primaryId": "491",
+      "normalizedName": "diskaya"
+    },
+    {
+      "id": "mg-87",
+      "memberIds": [
+        "492",
+        "878"
+      ],
+      "primaryId": "492",
+      "normalizedName": "donokasi"
+    },
+    {
+      "id": "mg-88",
+      "memberIds": [
+        "518",
+        "882"
+      ],
+      "primaryId": "518",
+      "normalizedName": "urchin bay"
+    },
+    {
+      "id": "mg-89",
+      "memberIds": [
+        "538",
+        "877"
+      ],
+      "primaryId": "538",
+      "normalizedName": "erdel"
+    },
+    {
+      "id": "mg-90",
+      "memberIds": [
+        "552",
+        "824"
+      ],
+      "primaryId": "552",
+      "normalizedName": "tibers passage"
+    },
+    {
+      "id": "mg-91",
+      "memberIds": [
+        "553",
+        "799"
+      ],
+      "primaryId": "553",
+      "normalizedName": "tykon channel"
+    },
+    {
+      "id": "mg-92",
+      "memberIds": [
+        "558",
+        "880"
+      ],
+      "primaryId": "558",
+      "normalizedName": "gherdikhisar"
+    },
+    {
+      "id": "mg-93",
+      "memberIds": [
+        "578",
+        "894"
+      ],
+      "primaryId": "578",
+      "normalizedName": "whistle-stone mountains"
+    },
+    {
+      "id": "mg-94",
+      "memberIds": [
+        "582",
+        "776"
+      ],
+      "primaryId": "582",
+      "normalizedName": "straker"
+    },
+    {
+      "id": "mg-95",
+      "memberIds": [
+        "596",
+        "758"
+      ],
+      "primaryId": "596",
+      "normalizedName": "shinishini"
+    },
+    {
+      "id": "mg-96",
+      "memberIds": [
+        "615",
+        "766"
+      ],
+      "primaryId": "615",
+      "normalizedName": "spinefir forest"
+    },
+    {
+      "id": "mg-97",
+      "memberIds": [
+        "616",
+        "813"
+      ],
+      "primaryId": "616",
+      "normalizedName": "terror grove"
+    },
+    {
+      "id": "mg-98",
+      "memberIds": [
+        "650",
+        "879"
+      ],
+      "primaryId": "650",
+      "normalizedName": "kalemeydani"
+    },
+    {
+      "id": "mg-99",
+      "memberIds": [
+        "651",
+        "807"
+      ],
+      "primaryId": "651",
+      "normalizedName": "kanüli daha plains"
+    },
+    {
+      "id": "mg-100",
+      "memberIds": [
+        "680",
+        "881"
+      ],
+      "primaryId": "680",
+      "normalizedName": "micah inlet"
+    },
+    {
+      "id": "mg-101",
+      "memberIds": [
+        "710",
+        "965"
+      ],
+      "primaryId": "710",
+      "normalizedName": "myorna"
+    },
+    {
+      "id": "mg-102",
+      "memberIds": [
+        "715",
+        "942"
+      ],
+      "primaryId": "715",
+      "normalizedName": "grey mountains"
+    },
+    {
+      "id": "mg-103",
+      "memberIds": [
+        "722",
+        "826"
+      ],
+      "primaryId": "722",
+      "normalizedName": "tornia"
+    },
+    {
+      "id": "mg-104",
+      "memberIds": [
+        "726",
+        "785"
+      ],
+      "primaryId": "726",
+      "normalizedName": "sylke"
+    },
+    {
+      "id": "mg-105",
+      "memberIds": [
+        "754",
+        "818"
+      ],
+      "primaryId": "754",
+      "normalizedName": "salty hills"
+    },
+    {
+      "id": "mg-106",
+      "memberIds": [
+        "3580",
+        "3584",
+        "3588",
+        "3592",
+        "3611"
+      ],
+      "primaryId": "3580",
+      "normalizedName": "evacuation"
+    },
+    {
+      "id": "mg-107",
+      "memberIds": [
+        "1993",
+        "2046",
+        "2070",
+        "2157"
+      ],
+      "primaryId": "1993",
+      "normalizedName": "truth gm information"
+    },
+    {
+      "id": "mg-108",
+      "memberIds": [
+        "2397",
+        "2410",
+        "2414",
+        "2452"
+      ],
+      "primaryId": "2414",
+      "normalizedName": "hildaneir"
+    },
+    {
+      "id": "mg-109",
+      "memberIds": [
+        "2518",
+        "2528",
+        "2601",
+        "2619"
+      ],
+      "primaryId": "2518",
+      "normalizedName": "relationship with other kingdoms"
+    },
+    {
+      "id": "mg-110",
+      "memberIds": [
+        "2697",
+        "2711",
+        "2863",
+        "2899"
+      ],
+      "primaryId": "2697",
+      "normalizedName": "pilgrimage"
+    },
+    {
+      "id": "mg-111",
+      "memberIds": [
+        "3495",
+        "3522",
+        "3555",
+        "3621"
+      ],
+      "primaryId": "3495",
+      "normalizedName": "contamination"
+    },
+    {
+      "id": "mg-112",
+      "memberIds": [
+        "3738",
+        "3746",
+        "3765",
+        "3790"
+      ],
+      "primaryId": "3738",
+      "normalizedName": "arena"
+    },
+    {
+      "id": "mg-113",
+      "memberIds": [
+        "1103",
+        "1131",
+        "1294"
+      ],
+      "primaryId": "1103",
+      "normalizedName": "origins"
+    },
+    {
+      "id": "mg-114",
+      "memberIds": [
+        "1479",
+        "1483",
+        "1534"
+      ],
+      "primaryId": "1534",
+      "normalizedName": "crystal mountains"
+    },
+    {
+      "id": "mg-115",
+      "memberIds": [
+        "1829",
+        "1844",
+        "1856"
+      ],
+      "primaryId": "1856",
+      "normalizedName": "north aphenlein"
+    },
+    {
+      "id": "mg-116",
+      "memberIds": [
+        "1869",
+        "1925",
+        "2154"
+      ],
+      "primaryId": "2154",
+      "normalizedName": "terwin lake"
+    },
+    {
+      "id": "mg-117",
+      "memberIds": [
+        "1874",
+        "1919",
+        "2116"
+      ],
+      "primaryId": "2116",
+      "normalizedName": "reflection lakes"
+    },
+    {
+      "id": "mg-118",
+      "memberIds": [
+        "1884",
+        "2021",
+        "2023"
+      ],
+      "primaryId": "2023",
+      "normalizedName": "hills of meus"
+    },
+    {
+      "id": "mg-119",
+      "memberIds": [
+        "1914",
+        "2062",
+        "2272"
+      ],
+      "primaryId": "2062",
+      "normalizedName": "lonely lakes"
+    },
+    {
+      "id": "mg-120",
+      "memberIds": [
+        "1928",
+        "2028",
+        "2052"
+      ],
+      "primaryId": "2028",
+      "normalizedName": "hills of pentomere"
+    },
+    {
+      "id": "mg-121",
+      "memberIds": [
+        "1930",
+        "1989",
+        "2144"
+      ],
+      "primaryId": "1989",
+      "normalizedName": "dreamburn forest"
+    },
+    {
+      "id": "mg-122",
+      "memberIds": [
+        "1953",
+        "2050",
+        "2056"
+      ],
+      "primaryId": "2056",
+      "normalizedName": "kazisezi"
+    },
+    {
+      "id": "mg-123",
+      "memberIds": [
+        "1963",
+        "1990",
+        "2153"
+      ],
+      "primaryId": "1990",
+      "normalizedName": "durnigan highlands"
+    },
+    {
+      "id": "mg-124",
+      "memberIds": [
+        "2098",
+        "2181",
+        "2184"
+      ],
+      "primaryId": "2098",
+      "normalizedName": "ogre hills"
+    },
+    {
+      "id": "mg-125",
+      "memberIds": [
+        "2255",
+        "2349",
+        "2356"
+      ],
+      "primaryId": "2255",
+      "normalizedName": "settlement"
+    },
+    {
+      "id": "mg-126",
+      "memberIds": [
+        "2527",
+        "2553",
+        "2591"
+      ],
+      "primaryId": "2527",
+      "normalizedName": "relationship with tarkhon"
+    },
+    {
+      "id": "mg-127",
+      "memberIds": [
+        "2558",
+        "2574",
+        "2577"
+      ],
+      "primaryId": "2574",
+      "normalizedName": "tarkhetan"
+    },
+    {
+      "id": "mg-128",
+      "memberIds": [
+        "2623",
+        "2627",
+        "2651"
+      ],
+      "primaryId": "2651",
+      "normalizedName": "dunes of kunagi"
+    },
+    {
+      "id": "mg-129",
+      "memberIds": [
+        "2665",
+        "2800",
+        "2827"
+      ],
+      "primaryId": "2665",
+      "normalizedName": "dragon relations"
+    },
+    {
+      "id": "mg-130",
+      "memberIds": [
+        "2666",
+        "2801",
+        "2829"
+      ],
+      "primaryId": "2666",
+      "normalizedName": "relations with other tribes"
+    },
+    {
+      "id": "mg-131",
+      "memberIds": [
+        "2667",
+        "2889",
+        "2910"
+      ],
+      "primaryId": "2667",
+      "normalizedName": "emyrron the vile"
+    },
+    {
+      "id": "mg-132",
+      "memberIds": [
+        "2823",
+        "2915",
+        "2966"
+      ],
+      "primaryId": "2966",
+      "normalizedName": "scar"
+    },
+    {
+      "id": "mg-133",
+      "memberIds": [
+        "2894",
+        "2948",
+        "2962"
+      ],
+      "primaryId": "2962",
+      "normalizedName": "sakatia"
+    },
+    {
+      "id": "mg-134",
+      "memberIds": [
+        "3068",
+        "3085",
+        "3134"
+      ],
+      "primaryId": "3068",
+      "normalizedName": "smokestack"
+    },
+    {
+      "id": "mg-135",
+      "memberIds": [
+        "3195",
+        "3271",
+        "3274"
+      ],
+      "primaryId": "3274",
+      "normalizedName": "myublin river"
+    },
+    {
+      "id": "mg-136",
+      "memberIds": [
+        "3666",
+        "3680",
+        "3694"
+      ],
+      "primaryId": "3680",
+      "normalizedName": "belu jenari"
+    },
+    {
+      "id": "mg-137",
+      "memberIds": [
+        "3676",
+        "3799",
+        "3822"
+      ],
+      "primaryId": "3799",
+      "normalizedName": "breia"
+    },
+    {
+      "id": "mg-138",
+      "memberIds": [
+        "765",
+        "896"
+      ],
+      "primaryId": "765",
+      "normalizedName": "sighing canyons"
+    },
+    {
+      "id": "mg-139",
+      "memberIds": [
+        "774",
+        "897"
+      ],
+      "primaryId": "774",
+      "normalizedName": "lizards back"
+    },
+    {
+      "id": "mg-140",
+      "memberIds": [
+        "775",
+        "1012"
+      ],
+      "primaryId": "775",
+      "normalizedName": "living forest"
+    },
+    {
+      "id": "mg-141",
+      "memberIds": [
+        "788",
+        "820"
+      ],
+      "primaryId": "788",
+      "normalizedName": "northern settlements"
+    },
+    {
+      "id": "mg-142",
+      "memberIds": [
+        "800",
+        "803"
+      ],
+      "primaryId": "800",
+      "normalizedName": "ta akikis"
+    },
+    {
+      "id": "mg-143",
+      "memberIds": [
+        "851",
+        "1349"
+      ],
+      "primaryId": "851",
+      "normalizedName": "major islands"
+    },
+    {
+      "id": "mg-144",
+      "memberIds": [
+        "909",
+        "939"
+      ],
+      "primaryId": "939",
+      "normalizedName": "egül mountains"
+    },
+    {
+      "id": "mg-145",
+      "memberIds": [
+        "910",
+        "940"
+      ],
+      "primaryId": "940",
+      "normalizedName": "nedgars castle"
+    },
+    {
+      "id": "mg-146",
+      "memberIds": [
+        "985",
+        "1137"
+      ],
+      "primaryId": "1137",
+      "normalizedName": "shazuihn"
+    },
+    {
+      "id": "mg-147",
+      "memberIds": [
+        "989",
+        "1129"
+      ],
+      "primaryId": "1129",
+      "normalizedName": "scorches"
+    },
+    {
+      "id": "mg-148",
+      "memberIds": [
+        "992",
+        "1150"
+      ],
+      "primaryId": "1150",
+      "normalizedName": "tarn"
+    },
+    {
+      "id": "mg-149",
+      "memberIds": [
+        "995",
+        "1112"
+      ],
+      "primaryId": "1112",
+      "normalizedName": "mountains semaphois"
+    },
+    {
+      "id": "mg-150",
+      "memberIds": [
+        "1002",
+        "1130"
+      ],
+      "primaryId": "1130",
+      "normalizedName": "seyiki"
+    },
+    {
+      "id": "mg-151",
+      "memberIds": [
+        "1011",
+        "1082"
+      ],
+      "primaryId": "1011",
+      "normalizedName": "everwood"
+    },
+    {
+      "id": "mg-152",
+      "memberIds": [
+        "1019",
+        "1092"
+      ],
+      "primaryId": "1019",
+      "normalizedName": "legend"
+    },
+    {
+      "id": "mg-153",
+      "memberIds": [
+        "1020",
+        "1193"
+      ],
+      "primaryId": "1020",
+      "normalizedName": "use"
+    },
+    {
+      "id": "mg-154",
+      "memberIds": [
+        "1081",
+        "1127"
+      ],
+      "primaryId": "1127",
+      "normalizedName": "quiet mountain"
+    },
+    {
+      "id": "mg-155",
+      "memberIds": [
+        "1242",
+        "1243"
+      ],
+      "primaryId": "1243",
+      "normalizedName": "ural of the third moon"
+    },
+    {
+      "id": "mg-156",
+      "memberIds": [
+        "1255",
+        "1289"
+      ],
+      "primaryId": "1289",
+      "normalizedName": "predatak"
+    },
+    {
+      "id": "mg-157",
+      "memberIds": [
+        "1256",
+        "1283"
+      ],
+      "primaryId": "1283",
+      "normalizedName": "nisk"
+    },
+    {
+      "id": "mg-158",
+      "memberIds": [
+        "1257",
+        "1260"
+      ],
+      "primaryId": "1260",
+      "normalizedName": "emtus"
+    },
+    {
+      "id": "mg-159",
+      "memberIds": [
+        "1258",
+        "1264"
+      ],
+      "primaryId": "1264",
+      "normalizedName": "hills of the lost"
+    },
+    {
+      "id": "mg-160",
+      "memberIds": [
+        "1259",
+        "1310"
+      ],
+      "primaryId": "1310",
+      "normalizedName": "wolfspine"
+    },
+    {
+      "id": "mg-161",
+      "memberIds": [
+        "1263",
+        "1308"
+      ],
+      "primaryId": "1263",
+      "normalizedName": "hills of starfire"
+    },
+    {
+      "id": "mg-162",
+      "memberIds": [
+        "1265",
+        "1281"
+      ],
+      "primaryId": "1265",
+      "normalizedName": "jotunhills"
+    },
+    {
+      "id": "mg-163",
+      "memberIds": [
+        "1280",
+        "1292"
+      ],
+      "primaryId": "1292",
+      "normalizedName": "soya grei"
+    },
+    {
+      "id": "mg-164",
+      "memberIds": [
+        "1315",
+        "1327"
+      ],
+      "primaryId": "1327",
+      "normalizedName": "northern plains"
+    },
+    {
+      "id": "mg-165",
+      "memberIds": [
+        "1318",
+        "1328"
+      ],
+      "primaryId": "1328",
+      "normalizedName": "nysanna range"
+    },
+    {
+      "id": "mg-166",
+      "memberIds": [
+        "1319",
+        "1345"
+      ],
+      "primaryId": "1345",
+      "normalizedName": "wurmling mountains"
+    },
+    {
+      "id": "mg-167",
+      "memberIds": [
+        "1338",
+        "1344"
+      ],
+      "primaryId": "1338",
+      "normalizedName": "plumes"
+    },
+    {
+      "id": "mg-168",
+      "memberIds": [
+        "1351",
+        "1373"
+      ],
+      "primaryId": "1373",
+      "normalizedName": "iceberg isles"
+    },
+    {
+      "id": "mg-169",
+      "memberIds": [
+        "1360",
+        "1381"
+      ],
+      "primaryId": "1381",
+      "normalizedName": "potalaptuk"
+    },
+    {
+      "id": "mg-170",
+      "memberIds": [
+        "1364",
+        "1382"
+      ],
+      "primaryId": "1382",
+      "normalizedName": "scheyolonae"
+    },
+    {
+      "id": "mg-171",
+      "memberIds": [
+        "1365",
+        "1374"
+      ],
+      "primaryId": "1374",
+      "normalizedName": "iceburn lakes"
+    },
+    {
+      "id": "mg-172",
+      "memberIds": [
+        "1367",
+        "1383"
+      ],
+      "primaryId": "1383",
+      "normalizedName": "smokey bay"
+    },
+    {
+      "id": "mg-173",
+      "memberIds": [
+        "1401",
+        "2394"
+      ],
+      "primaryId": "2394",
+      "normalizedName": "whitewood"
+    },
+    {
+      "id": "mg-174",
+      "memberIds": [
+        "1405",
+        "1409"
+      ],
+      "primaryId": "1409",
+      "normalizedName": "bonecrunch hills"
+    },
+    {
+      "id": "mg-175",
+      "memberIds": [
+        "1420",
+        "1669"
+      ],
+      "primaryId": "1669",
+      "normalizedName": "prowling hills"
+    },
+    {
+      "id": "mg-176",
+      "memberIds": [
+        "1438",
+        "1686"
+      ],
+      "primaryId": "1438",
+      "normalizedName": "passes"
+    },
+    {
+      "id": "mg-177",
+      "memberIds": [
+        "1439",
+        "1473"
+      ],
+      "primaryId": "1439",
+      "normalizedName": "clawsnatch lake"
+    },
+    {
+      "id": "mg-178",
+      "memberIds": [
+        "1466",
+        "1528"
+      ],
+      "primaryId": "1466",
+      "normalizedName": "roads and travel"
+    },
+    {
+      "id": "mg-179",
+      "memberIds": [
+        "1480",
+        "1485"
+      ],
+      "primaryId": "1485",
+      "normalizedName": "morygun mountains"
+    },
+    {
+      "id": "mg-180",
+      "memberIds": [
+        "1487",
+        "1744"
+      ],
+      "primaryId": "1487",
+      "normalizedName": "agony stones"
+    },
+    {
+      "id": "mg-181",
+      "memberIds": [
+        "1510",
+        "1622"
+      ],
+      "primaryId": "1510",
+      "normalizedName": "byvarnül lake"
+    },
+    {
+      "id": "mg-182",
+      "memberIds": [
+        "1514",
+        "1593"
+      ],
+      "primaryId": "1514",
+      "normalizedName": "cañas"
+    },
+    {
+      "id": "mg-183",
+      "memberIds": [
+        "1578",
+        "1582"
+      ],
+      "primaryId": "1578",
+      "normalizedName": "giants corridor"
+    },
+    {
+      "id": "mg-184",
+      "memberIds": [
+        "1581",
+        "1722"
+      ],
+      "primaryId": "1722",
+      "normalizedName": "sunwing peaks"
+    },
+    {
+      "id": "mg-185",
+      "memberIds": [
+        "1585",
+        "1716"
+      ],
+      "primaryId": "1716",
+      "normalizedName": "sobrevire"
+    },
+    {
+      "id": "mg-186",
+      "memberIds": [
+        "1588",
+        "1720"
+      ],
+      "primaryId": "1720",
+      "normalizedName": "sopona fia"
+    },
+    {
+      "id": "mg-187",
+      "memberIds": [
+        "1603",
+        "1715"
+      ],
+      "primaryId": "1715",
+      "normalizedName": "skyloft castle"
+    },
+    {
+      "id": "mg-188",
+      "memberIds": [
+        "1605",
+        "1702"
+      ],
+      "primaryId": "1605",
+      "normalizedName": "horans hut"
+    },
+    {
+      "id": "mg-189",
+      "memberIds": [
+        "1634",
+        "1663"
+      ],
+      "primaryId": "1634",
+      "normalizedName": "palace of the stillbound"
+    },
+    {
+      "id": "mg-190",
+      "memberIds": [
+        "1642",
+        "1753"
+      ],
+      "primaryId": "1642",
+      "normalizedName": "relationship to kadroka"
+    },
+    {
+      "id": "mg-191",
+      "memberIds": [
+        "1648",
+        "1745"
+      ],
+      "primaryId": "1648",
+      "normalizedName": "mumbling forest"
+    },
+    {
+      "id": "mg-192",
+      "memberIds": [
+        "1672",
+        "1721"
+      ],
+      "primaryId": "1721",
+      "normalizedName": "sothills"
+    },
+    {
+      "id": "mg-193",
+      "memberIds": [
+        "1674",
+        "1718"
+      ],
+      "primaryId": "1718",
+      "normalizedName": "sondoros"
+    },
+    {
+      "id": "mg-194",
+      "memberIds": [
+        "1691",
+        "1746"
+      ],
+      "primaryId": "1691",
+      "normalizedName": "redreed lake"
+    },
+    {
+      "id": "mg-195",
+      "memberIds": [
+        "1695",
+        "1739"
+      ],
+      "primaryId": "1695",
+      "normalizedName": "royko river"
+    },
+    {
+      "id": "mg-196",
+      "memberIds": [
+        "1712",
+        "2383"
+      ],
+      "primaryId": "2383",
+      "normalizedName": "lakes"
+    },
+    {
+      "id": "mg-197",
+      "memberIds": [
+        "1741",
+        "2100"
+      ],
+      "primaryId": "1741",
+      "normalizedName": "social structure"
+    },
+    {
+      "id": "mg-198",
+      "memberIds": [
+        "1817",
+        "1852"
+      ],
+      "primaryId": "1817",
+      "normalizedName": "lcoth dhari"
+    },
+    {
+      "id": "mg-199",
+      "memberIds": [
+        "1819",
+        "1848"
+      ],
+      "primaryId": "1848",
+      "normalizedName": "eriyen"
+    },
+    {
+      "id": "mg-200",
+      "memberIds": [
+        "1820",
+        "1861"
+      ],
+      "primaryId": "1861",
+      "normalizedName": "thorne"
+    },
+    {
+      "id": "mg-201",
+      "memberIds": [
+        "1821",
+        "1842"
+      ],
+      "primaryId": "1821",
+      "normalizedName": "apelands"
+    },
+    {
+      "id": "mg-202",
+      "memberIds": [
+        "1822",
+        "1845"
+      ],
+      "primaryId": "1822",
+      "normalizedName": "bloodwood"
+    },
+    {
+      "id": "mg-203",
+      "memberIds": [
+        "1823",
+        "1859"
+      ],
+      "primaryId": "1823",
+      "normalizedName": "seyiy"
+    },
+    {
+      "id": "mg-204",
+      "memberIds": [
+        "1830",
+        "1843"
+      ],
+      "primaryId": "1843",
+      "normalizedName": "aphenlein"
+    },
+    {
+      "id": "mg-205",
+      "memberIds": [
+        "1831",
+        "1847"
+      ],
+      "primaryId": "1831",
+      "normalizedName": "bygos shemazari"
+    },
+    {
+      "id": "mg-206",
+      "memberIds": [
+        "1832",
+        "1858"
+      ],
+      "primaryId": "1832",
+      "normalizedName": "runeglades"
+    },
+    {
+      "id": "mg-207",
+      "memberIds": [
+        "1833",
+        "1851"
+      ],
+      "primaryId": "1833",
+      "normalizedName": "kidwood"
+    },
+    {
+      "id": "mg-208",
+      "memberIds": [
+        "1834",
+        "1854"
+      ],
+      "primaryId": "1834",
+      "normalizedName": "lemru nymor"
+    },
+    {
+      "id": "mg-209",
+      "memberIds": [
+        "1835",
+        "1855"
+      ],
+      "primaryId": "1835",
+      "normalizedName": "minori ezag"
+    },
+    {
+      "id": "mg-210",
+      "memberIds": [
+        "1880",
+        "1950"
+      ],
+      "primaryId": "1880",
+      "normalizedName": "bisaro"
+    },
+    {
+      "id": "mg-211",
+      "memberIds": [
+        "1881",
+        "1933"
+      ],
+      "primaryId": "1881",
+      "normalizedName": "buti"
+    },
+    {
+      "id": "mg-212",
+      "memberIds": [
+        "1883",
+        "2117"
+      ],
+      "primaryId": "2117",
+      "normalizedName": "river of petals"
+    },
+    {
+      "id": "mg-213",
+      "memberIds": [
+        "1895",
+        "1976"
+      ],
+      "primaryId": "1895",
+      "normalizedName": "chilala"
+    },
+    {
+      "id": "mg-214",
+      "memberIds": [
+        "1902",
+        "2036"
+      ],
+      "primaryId": "1902",
+      "normalizedName": "behavior"
+    },
+    {
+      "id": "mg-215",
+      "memberIds": [
+        "1911",
+        "1935"
+      ],
+      "primaryId": "1911",
+      "normalizedName": "daboni"
+    },
+    {
+      "id": "mg-216",
+      "memberIds": [
+        "1912",
+        "1932"
+      ],
+      "primaryId": "1912",
+      "normalizedName": "dalibela"
+    },
+    {
+      "id": "mg-217",
+      "memberIds": [
+        "1915",
+        "2096"
+      ],
+      "primaryId": "2096",
+      "normalizedName": "nozilus lake"
+    },
+    {
+      "id": "mg-218",
+      "memberIds": [
+        "1916",
+        "2196"
+      ],
+      "primaryId": "2196",
+      "normalizedName": "venchi lake"
+    },
+    {
+      "id": "mg-219",
+      "memberIds": [
+        "1917",
+        "1987"
+      ],
+      "primaryId": "1987",
+      "normalizedName": "dedeba river"
+    },
+    {
+      "id": "mg-220",
+      "memberIds": [
+        "1918",
+        "2188"
+      ],
+      "primaryId": "2188",
+      "normalizedName": "tswili lake"
+    },
+    {
+      "id": "mg-221",
+      "memberIds": [
+        "1920",
+        "2108"
+      ],
+      "primaryId": "2108",
+      "normalizedName": "pool to infinity"
+    },
+    {
+      "id": "mg-222",
+      "memberIds": [
+        "1921",
+        "2195"
+      ],
+      "primaryId": "2195",
+      "normalizedName": "umbral hills"
+    },
+    {
+      "id": "mg-223",
+      "memberIds": [
+        "1922",
+        "2097"
+      ],
+      "primaryId": "2097",
+      "normalizedName": "nykotheryx amberylika"
+    },
+    {
+      "id": "mg-224",
+      "memberIds": [
+        "1923",
+        "2197"
+      ],
+      "primaryId": "2197",
+      "normalizedName": "wandering hills"
+    },
+    {
+      "id": "mg-225",
+      "memberIds": [
+        "1924",
+        "2172"
+      ],
+      "primaryId": "2172",
+      "normalizedName": "tongueroot forest"
+    },
+    {
+      "id": "mg-226",
+      "memberIds": [
+        "1927",
+        "2051"
+      ],
+      "primaryId": "2051",
+      "normalizedName": "kagoro"
+    },
+    {
+      "id": "mg-227",
+      "memberIds": [
+        "1929",
+        "2143"
+      ],
+      "primaryId": "2143",
+      "normalizedName": "singa chike"
+    },
+    {
+      "id": "mg-228",
+      "memberIds": [
+        "1931",
+        "2087"
+      ],
+      "primaryId": "2087",
+      "normalizedName": "muyinba"
+    },
+    {
+      "id": "mg-229",
+      "memberIds": [
+        "1934",
+        "2048"
+      ],
+      "primaryId": "2048",
+      "normalizedName": "jowdo"
+    },
+    {
+      "id": "mg-230",
+      "memberIds": [
+        "1936",
+        "2189"
+      ],
+      "primaryId": "2189",
+      "normalizedName": "turbuni"
+    },
+    {
+      "id": "mg-231",
+      "memberIds": [
+        "1937",
+        "2075"
+      ],
+      "primaryId": "2075",
+      "normalizedName": "masadi"
+    },
+    {
+      "id": "mg-232",
+      "memberIds": [
+        "1938",
+        "2199"
+      ],
+      "primaryId": "2199",
+      "normalizedName": "wodhuubo"
+    },
+    {
+      "id": "mg-233",
+      "memberIds": [
+        "1939",
+        "2133"
+      ],
+      "primaryId": "2133",
+      "normalizedName": "sendawane"
+    },
+    {
+      "id": "mg-234",
+      "memberIds": [
+        "1940",
+        "2200"
+      ],
+      "primaryId": "2200",
+      "normalizedName": "yumasa"
+    },
+    {
+      "id": "mg-235",
+      "memberIds": [
+        "1941",
+        "2088"
+      ],
+      "primaryId": "2088",
+      "normalizedName": "namanrombo"
+    },
+    {
+      "id": "mg-236",
+      "memberIds": [
+        "1942",
+        "2130"
+      ],
+      "primaryId": "2130",
+      "normalizedName": "rurbanza"
+    },
+    {
+      "id": "mg-237",
+      "memberIds": [
+        "1943",
+        "2077"
+      ],
+      "primaryId": "2077",
+      "normalizedName": "miruyogoro"
+    },
+    {
+      "id": "mg-238",
+      "memberIds": [
+        "1944",
+        "2090"
+      ],
+      "primaryId": "2090",
+      "normalizedName": "nikpato"
+    },
+    {
+      "id": "mg-239",
+      "memberIds": [
+        "1945",
+        "2134"
+      ],
+      "primaryId": "2134",
+      "normalizedName": "seputoro"
+    },
+    {
+      "id": "mg-240",
+      "memberIds": [
+        "1946",
+        "2053"
+      ],
+      "primaryId": "2053",
+      "normalizedName": "kampaga"
+    },
+    {
+      "id": "mg-241",
+      "memberIds": [
+        "1947",
+        "2054"
+      ],
+      "primaryId": "2054",
+      "normalizedName": "kanguka"
+    },
+    {
+      "id": "mg-242",
+      "memberIds": [
+        "1948",
+        "2151"
+      ],
+      "primaryId": "2151",
+      "normalizedName": "sumda"
+    },
+    {
+      "id": "mg-243",
+      "memberIds": [
+        "1949",
+        "1988"
+      ],
+      "primaryId": "1988",
+      "normalizedName": "dhabisa"
+    },
+    {
+      "id": "mg-244",
+      "memberIds": [
+        "1951",
+        "2142"
+      ],
+      "primaryId": "2142",
+      "normalizedName": "shunde"
+    },
+    {
+      "id": "mg-245",
+      "memberIds": [
+        "1952",
+        "2049"
+      ],
+      "primaryId": "2049",
+      "normalizedName": "kafula"
+    },
+    {
+      "id": "mg-246",
+      "memberIds": [
+        "1954",
+        "2058"
+      ],
+      "primaryId": "2058",
+      "normalizedName": "kibuhanda"
+    },
+    {
+      "id": "mg-247",
+      "memberIds": [
+        "1955",
+        "2057"
+      ],
+      "primaryId": "2057",
+      "normalizedName": "kerikos"
+    },
+    {
+      "id": "mg-248",
+      "memberIds": [
+        "1956",
+        "2198"
+      ],
+      "primaryId": "2198",
+      "normalizedName": "wetu"
+    },
+    {
+      "id": "mg-249",
+      "memberIds": [
+        "1957",
+        "2064"
+      ],
+      "primaryId": "2064",
+      "normalizedName": "magayi"
+    },
+    {
+      "id": "mg-250",
+      "memberIds": [
+        "1958",
+        "2073"
+      ],
+      "primaryId": "2073",
+      "normalizedName": "maruro"
+    },
+    {
+      "id": "mg-251",
+      "memberIds": [
+        "1959",
+        "2055"
+      ],
+      "primaryId": "2055",
+      "normalizedName": "kapsayi"
+    },
+    {
+      "id": "mg-252",
+      "memberIds": [
+        "1960",
+        "2065"
+      ],
+      "primaryId": "2065",
+      "normalizedName": "makuri"
+    },
+    {
+      "id": "mg-253",
+      "memberIds": [
+        "1961",
+        "2076"
+      ],
+      "primaryId": "2076",
+      "normalizedName": "mgangugu"
+    },
+    {
+      "id": "mg-254",
+      "memberIds": [
+        "1962",
+        "2152"
+      ],
+      "primaryId": "2152",
+      "normalizedName": "taulo magi"
+    },
+    {
+      "id": "mg-255",
+      "memberIds": [
+        "1964",
+        "2135"
+      ],
+      "primaryId": "2135",
+      "normalizedName": "shemu"
+    },
+    {
+      "id": "mg-256",
+      "memberIds": [
+        "1965",
+        "2063"
+      ],
+      "primaryId": "2063",
+      "normalizedName": "luyuge"
+    },
+    {
+      "id": "mg-257",
+      "memberIds": [
+        "1966",
+        "2089"
+      ],
+      "primaryId": "2089",
+      "normalizedName": "negamo"
+    },
+    {
+      "id": "mg-258",
+      "memberIds": [
+        "1967",
+        "2086"
+      ],
+      "primaryId": "2086",
+      "normalizedName": "mukorita"
+    },
+    {
+      "id": "mg-259",
+      "memberIds": [
+        "1968",
+        "2085"
+      ],
+      "primaryId": "2085",
+      "normalizedName": "mubegiri"
+    },
+    {
+      "id": "mg-260",
+      "memberIds": [
+        "1969",
+        "2066"
+      ],
+      "primaryId": "2066",
+      "normalizedName": "marjansi"
+    },
+    {
+      "id": "mg-261",
+      "memberIds": [
+        "1970",
+        "2060"
+      ],
+      "primaryId": "2060",
+      "normalizedName": "kyedibugyo"
+    },
+    {
+      "id": "mg-262",
+      "memberIds": [
+        "1971",
+        "2131"
+      ],
+      "primaryId": "2131",
+      "normalizedName": "ruvu"
+    },
+    {
+      "id": "mg-263",
+      "memberIds": [
+        "1972",
+        "2059"
+      ],
+      "primaryId": "2059",
+      "normalizedName": "koisokamba"
+    },
+    {
+      "id": "mg-264",
+      "memberIds": [
+        "1973",
+        "2000"
+      ],
+      "primaryId": "2000",
+      "normalizedName": "finori"
+    },
+    {
+      "id": "mg-265",
+      "memberIds": [
+        "1974",
+        "2061"
+      ],
+      "primaryId": "2061",
+      "normalizedName": "lanwadanzi"
+    },
+    {
+      "id": "mg-266",
+      "memberIds": [
+        "1975",
+        "1981"
+      ],
+      "primaryId": "1981",
+      "normalizedName": "daltimo"
+    },
+    {
+      "id": "mg-267",
+      "memberIds": [
+        "1977",
+        "2132"
+      ],
+      "primaryId": "2132",
+      "normalizedName": "samani"
+    },
+    {
+      "id": "mg-268",
+      "memberIds": [
+        "1978",
+        "2078"
+      ],
+      "primaryId": "2078",
+      "normalizedName": "misanda mulu"
+    },
+    {
+      "id": "mg-269",
+      "memberIds": [
+        "1979",
+        "2084"
+      ],
+      "primaryId": "2084",
+      "normalizedName": "mpaso"
+    },
+    {
+      "id": "mg-270",
+      "memberIds": [
+        "1980",
+        "2074"
+      ],
+      "primaryId": "2074",
+      "normalizedName": "maruzi"
+    },
+    {
+      "id": "mg-271",
+      "memberIds": [
+        "1982",
+        "2005"
+      ],
+      "primaryId": "1982",
+      "normalizedName": "deception creek"
+    },
+    {
+      "id": "mg-272",
+      "memberIds": [
+        "2003",
+        "2034"
+      ],
+      "primaryId": "2034",
+      "normalizedName": "hills of the moon goblins"
+    },
+    {
+      "id": "mg-273",
+      "memberIds": [
+        "2009",
+        "2159"
+      ],
+      "primaryId": "2009",
+      "normalizedName": "fools pass"
+    },
+    {
+      "id": "mg-274",
+      "memberIds": [
+        "2017",
+        "2044"
+      ],
+      "primaryId": "2017",
+      "normalizedName": "hills of false rubies"
+    },
+    {
+      "id": "mg-275",
+      "memberIds": [
+        "2043",
+        "2109"
+      ],
+      "primaryId": "2109",
+      "normalizedName": "rattlespit hills"
+    },
+    {
+      "id": "mg-276",
+      "memberIds": [
+        "2145",
+        "2158"
+      ],
+      "primaryId": "2145",
+      "normalizedName": "south wall"
+    },
+    {
+      "id": "mg-277",
+      "memberIds": [
+        "2205",
+        "2306"
+      ],
+      "primaryId": "2306",
+      "normalizedName": "pindolin islands"
+    },
+    {
+      "id": "mg-278",
+      "memberIds": [
+        "2208",
+        "2223"
+      ],
+      "primaryId": "2208",
+      "normalizedName": "azanfrain"
+    },
+    {
+      "id": "mg-279",
+      "memberIds": [
+        "2233",
+        "2295"
+      ],
+      "primaryId": "2233",
+      "normalizedName": "combat"
+    },
+    {
+      "id": "mg-280",
+      "memberIds": [
+        "2297",
+        "2365"
+      ],
+      "primaryId": "2297",
+      "normalizedName": "what he knows"
+    },
+    {
+      "id": "mg-281",
+      "memberIds": [
+        "2358",
+        "2386"
+      ],
+      "primaryId": "2358",
+      "normalizedName": "thraken lake"
+    },
+    {
+      "id": "mg-282",
+      "memberIds": [
+        "2373",
+        "2443"
+      ],
+      "primaryId": "2443",
+      "normalizedName": "tangiern"
+    },
+    {
+      "id": "mg-283",
+      "memberIds": [
+        "2374",
+        "2430"
+      ],
+      "primaryId": "2430",
+      "normalizedName": "klevnaf"
+    },
+    {
+      "id": "mg-284",
+      "memberIds": [
+        "2375",
+        "2420"
+      ],
+      "primaryId": "2420",
+      "normalizedName": "istora"
+    },
+    {
+      "id": "mg-285",
+      "memberIds": [
+        "2377",
+        "2441"
+      ],
+      "primaryId": "2441",
+      "normalizedName": "river of wights"
+    },
+    {
+      "id": "mg-286",
+      "memberIds": [
+        "2382",
+        "2437"
+      ],
+      "primaryId": "2382",
+      "normalizedName": "mercy falls"
+    },
+    {
+      "id": "mg-287",
+      "memberIds": [
+        "2384",
+        "2440"
+      ],
+      "primaryId": "2440",
+      "normalizedName": "pools of tragedy"
+    },
+    {
+      "id": "mg-288",
+      "memberIds": [
+        "2385",
+        "2439"
+      ],
+      "primaryId": "2439",
+      "normalizedName": "lake of rainbows"
+    },
+    {
+      "id": "mg-289",
+      "memberIds": [
+        "2389",
+        "2442"
+      ],
+      "primaryId": "2442",
+      "normalizedName": "suftos hills"
+    },
+    {
+      "id": "mg-290",
+      "memberIds": [
+        "2392",
+        "2400"
+      ],
+      "primaryId": "2400",
+      "normalizedName": "fragenstor mielthøn"
+    },
+    {
+      "id": "mg-291",
+      "memberIds": [
+        "2393",
+        "2406"
+      ],
+      "primaryId": "2406",
+      "normalizedName": "hildas forest"
+    },
+    {
+      "id": "mg-292",
+      "memberIds": [
+        "2398",
+        "2399"
+      ],
+      "primaryId": "2399",
+      "normalizedName": "feycreek"
+    },
+    {
+      "id": "mg-293",
+      "memberIds": [
+        "2472",
+        "2476"
+      ],
+      "primaryId": "2472",
+      "normalizedName": "chykum"
+    },
+    {
+      "id": "mg-294",
+      "memberIds": [
+        "2473",
+        "2535"
+      ],
+      "primaryId": "2473",
+      "normalizedName": "copper hills"
+    },
+    {
+      "id": "mg-295",
+      "memberIds": [
+        "2482",
+        "2993"
+      ],
+      "primaryId": "2482",
+      "normalizedName": "garrison"
+    },
+    {
+      "id": "mg-296",
+      "memberIds": [
+        "2489",
+        "2604"
+      ],
+      "primaryId": "2604",
+      "normalizedName": "wurn mountains"
+    },
+    {
+      "id": "mg-297",
+      "memberIds": [
+        "2494",
+        "2625"
+      ],
+      "primaryId": "2494",
+      "normalizedName": "eronia range"
+    },
+    {
+      "id": "mg-298",
+      "memberIds": [
+        "2495",
+        "2534"
+      ],
+      "primaryId": "2495",
+      "normalizedName": "fireknife mountains"
+    },
+    {
+      "id": "mg-299",
+      "memberIds": [
+        "2504",
+        "2570"
+      ],
+      "primaryId": "2504",
+      "normalizedName": "fort tenze"
+    },
+    {
+      "id": "mg-300",
+      "memberIds": [
+        "2624",
+        "2712"
+      ],
+      "primaryId": "2712",
+      "normalizedName": "ishnit jungles"
+    },
+    {
+      "id": "mg-301",
+      "memberIds": [
+        "2628",
+        "2701"
+      ],
+      "primaryId": "2701",
+      "normalizedName": "husakas"
+    },
+    {
+      "id": "mg-302",
+      "memberIds": [
+        "2629",
+        "2693"
+      ],
+      "primaryId": "2693",
+      "normalizedName": "house of the scorpion"
+    },
+    {
+      "id": "mg-303",
+      "memberIds": [
+        "2630",
+        "2686"
+      ],
+      "primaryId": "2686",
+      "normalizedName": "gyerekas"
+    },
+    {
+      "id": "mg-304",
+      "memberIds": [
+        "2631",
+        "2830"
+      ],
+      "primaryId": "2830",
+      "normalizedName": "spotted forest"
+    },
+    {
+      "id": "mg-305",
+      "memberIds": [
+        "2632",
+        "2758"
+      ],
+      "primaryId": "2758",
+      "normalizedName": "mueras"
+    },
+    {
+      "id": "mg-306",
+      "memberIds": [
+        "2633",
+        "2634"
+      ],
+      "primaryId": "2634",
+      "normalizedName": "atriik"
+    },
+    {
+      "id": "mg-307",
+      "memberIds": [
+        "2636",
+        "2742"
+      ],
+      "primaryId": "2742",
+      "normalizedName": "lupuno"
+    },
+    {
+      "id": "mg-308",
+      "memberIds": [
+        "2637",
+        "2650"
+      ],
+      "primaryId": "2650",
+      "normalizedName": "byonowidi"
+    },
+    {
+      "id": "mg-309",
+      "memberIds": [
+        "2638",
+        "2815"
+      ],
+      "primaryId": "2815",
+      "normalizedName": "shinii"
+    },
+    {
+      "id": "mg-310",
+      "memberIds": [
+        "2639",
+        "2853"
+      ],
+      "primaryId": "2853",
+      "normalizedName": "wykakas"
+    },
+    {
+      "id": "mg-311",
+      "memberIds": [
+        "2642",
+        "2806"
+      ],
+      "primaryId": "2806",
+      "normalizedName": "sandskull"
+    },
+    {
+      "id": "mg-312",
+      "memberIds": [
+        "2654",
+        "2769"
+      ],
+      "primaryId": "2654",
+      "normalizedName": "dustwind plateau"
+    },
+    {
+      "id": "mg-313",
+      "memberIds": [
+        "2721",
+        "2907"
+      ],
+      "primaryId": "2721",
+      "normalizedName": "koilos mountains"
+    },
+    {
+      "id": "mg-314",
+      "memberIds": [
+        "2744",
+        "2909"
+      ],
+      "primaryId": "2744",
+      "normalizedName": "mighty mountains"
+    },
+    {
+      "id": "mg-315",
+      "memberIds": [
+        "2751",
+        "2768"
+      ],
+      "primaryId": "2751",
+      "normalizedName": "mueras highlands"
+    },
+    {
+      "id": "mg-316",
+      "memberIds": [
+        "2757",
+        "3045"
+      ],
+      "primaryId": "2757",
+      "normalizedName": "relations with the coast"
+    },
+    {
+      "id": "mg-317",
+      "memberIds": [
+        "2794",
+        "2844"
+      ],
+      "primaryId": "2844",
+      "normalizedName": "taflex forest"
+    },
+    {
+      "id": "mg-318",
+      "memberIds": [
+        "2795",
+        "2846"
+      ],
+      "primaryId": "2846",
+      "normalizedName": "eddiwood"
+    },
+    {
+      "id": "mg-319",
+      "memberIds": [
+        "2796",
+        "2848"
+      ],
+      "primaryId": "2796",
+      "normalizedName": "hickton"
+    },
+    {
+      "id": "mg-320",
+      "memberIds": [
+        "2797",
+        "2849"
+      ],
+      "primaryId": "2797",
+      "normalizedName": "sherly & lieler"
+    },
+    {
+      "id": "mg-321",
+      "memberIds": [
+        "2802",
+        "2940"
+      ],
+      "primaryId": "2802",
+      "normalizedName": "old tolaria"
+    },
+    {
+      "id": "mg-322",
+      "memberIds": [
+        "2859",
+        "2967"
+      ],
+      "primaryId": "2967",
+      "normalizedName": "thunder plains"
+    },
+    {
+      "id": "mg-323",
+      "memberIds": [
+        "2868",
+        "2872"
+      ],
+      "primaryId": "2868",
+      "normalizedName": "casa eleo"
+    },
+    {
+      "id": "mg-324",
+      "memberIds": [
+        "2870",
+        "3049"
+      ],
+      "primaryId": "2870",
+      "normalizedName": "cloud mountains"
+    },
+    {
+      "id": "mg-325",
+      "memberIds": [
+        "2874",
+        "2875"
+      ],
+      "primaryId": "2875",
+      "normalizedName": "dreske gemalis"
+    },
+    {
+      "id": "mg-326",
+      "memberIds": [
+        "2879",
+        "2951"
+      ],
+      "primaryId": "2879",
+      "normalizedName": "ekadriel"
+    },
+    {
+      "id": "mg-327",
+      "memberIds": [
+        "2880",
+        "2946"
+      ],
+      "primaryId": "2880",
+      "normalizedName": "elaphant groves"
+    },
+    {
+      "id": "mg-328",
+      "memberIds": [
+        "2881",
+        "2942"
+      ],
+      "primaryId": "2881",
+      "normalizedName": "elderran"
+    },
+    {
+      "id": "mg-329",
+      "memberIds": [
+        "2890",
+        "2947"
+      ],
+      "primaryId": "2890",
+      "normalizedName": "faewoods"
+    },
+    {
+      "id": "mg-330",
+      "memberIds": [
+        "2903",
+        "2943"
+      ],
+      "primaryId": "2903",
+      "normalizedName": "gnarwood forest"
+    },
+    {
+      "id": "mg-331",
+      "memberIds": [
+        "2904",
+        "2945"
+      ],
+      "primaryId": "2904",
+      "normalizedName": "grailwood forest"
+    },
+    {
+      "id": "mg-332",
+      "memberIds": [
+        "2905",
+        "2934"
+      ],
+      "primaryId": "2905",
+      "normalizedName": "jiji river"
+    },
+    {
+      "id": "mg-333",
+      "memberIds": [
+        "2908",
+        "2944"
+      ],
+      "primaryId": "2908",
+      "normalizedName": "lodrian hills"
+    },
+    {
+      "id": "mg-334",
+      "memberIds": [
+        "2911",
+        "2949"
+      ],
+      "primaryId": "2911",
+      "normalizedName": "mount tolaria"
+    },
+    {
+      "id": "mg-335",
+      "memberIds": [
+        "2914",
+        "2997"
+      ],
+      "primaryId": "2997",
+      "normalizedName": "yegnoth"
+    },
+    {
+      "id": "mg-336",
+      "memberIds": [
+        "2916",
+        "2996"
+      ],
+      "primaryId": "2996",
+      "normalizedName": "vykus"
+    },
+    {
+      "id": "mg-337",
+      "memberIds": [
+        "2956",
+        "2989"
+      ],
+      "primaryId": "2989",
+      "normalizedName": "tugons castle"
+    },
+    {
+      "id": "mg-338",
+      "memberIds": [
+        "2968",
+        "2975"
+      ],
+      "primaryId": "2968",
+      "normalizedName": "thunderdark peaks"
+    },
+    {
+      "id": "mg-339",
+      "memberIds": [
+        "2982",
+        "3102"
+      ],
+      "primaryId": "3102",
+      "normalizedName": "duskwood forest"
+    },
+    {
+      "id": "mg-340",
+      "memberIds": [
+        "2983",
+        "3103"
+      ],
+      "primaryId": "3103",
+      "normalizedName": "whispering mangroves"
+    },
+    {
+      "id": "mg-341",
+      "memberIds": [
+        "2985",
+        "3101"
+      ],
+      "primaryId": "2985",
+      "normalizedName": "croaking briars"
+    },
+    {
+      "id": "mg-342",
+      "memberIds": [
+        "3020",
+        "3030"
+      ],
+      "primaryId": "3030",
+      "normalizedName": "crystal caverns"
+    },
+    {
+      "id": "mg-343",
+      "memberIds": [
+        "3021",
+        "3126"
+      ],
+      "primaryId": "3126",
+      "normalizedName": "slumber deep"
+    },
+    {
+      "id": "mg-344",
+      "memberIds": [
+        "3022",
+        "3064"
+      ],
+      "primaryId": "3022",
+      "normalizedName": "cascades of ygg"
+    },
+    {
+      "id": "mg-345",
+      "memberIds": [
+        "3023",
+        "3069"
+      ],
+      "primaryId": "3023",
+      "normalizedName": "hells paradise"
+    },
+    {
+      "id": "mg-346",
+      "memberIds": [
+        "3154",
+        "3178"
+      ],
+      "primaryId": "3178",
+      "normalizedName": "gorath"
+    },
+    {
+      "id": "mg-347",
+      "memberIds": [
+        "3155",
+        "3206"
+      ],
+      "primaryId": "3206",
+      "normalizedName": "kyagos"
+    },
+    {
+      "id": "mg-348",
+      "memberIds": [
+        "3156",
+        "3337"
+      ],
+      "primaryId": "3337",
+      "normalizedName": "tamadrez"
+    },
+    {
+      "id": "mg-349",
+      "memberIds": [
+        "3159",
+        "3205"
+      ],
+      "primaryId": "3205",
+      "normalizedName": "kosko"
+    },
+    {
+      "id": "mg-350",
+      "memberIds": [
+        "3162",
+        "3175"
+      ],
+      "primaryId": "3175",
+      "normalizedName": "free colonies"
+    },
+    {
+      "id": "mg-351",
+      "memberIds": [
+        "3163",
+        "3186"
+      ],
+      "primaryId": "3163",
+      "normalizedName": "bata nujo hills"
+    },
+    {
+      "id": "mg-352",
+      "memberIds": [
+        "3164",
+        "3287"
+      ],
+      "primaryId": "3164",
+      "normalizedName": "chálon forest"
+    },
+    {
+      "id": "mg-353",
+      "memberIds": [
+        "3167",
+        "3187"
+      ],
+      "primaryId": "3167",
+      "normalizedName": "deserted hills"
+    },
+    {
+      "id": "mg-354",
+      "memberIds": [
+        "3168",
+        "3283"
+      ],
+      "primaryId": "3168",
+      "normalizedName": "divinity passage"
+    },
+    {
+      "id": "mg-355",
+      "memberIds": [
+        "3174",
+        "3181"
+      ],
+      "primaryId": "3174",
+      "normalizedName": "droaz river"
+    },
+    {
+      "id": "mg-356",
+      "memberIds": [
+        "3180",
+        "3259"
+      ],
+      "primaryId": "3259",
+      "normalizedName": "lucenia river"
+    },
+    {
+      "id": "mg-357",
+      "memberIds": [
+        "3184",
+        "3288"
+      ],
+      "primaryId": "3288",
+      "normalizedName": "poison hills"
+    },
+    {
+      "id": "mg-358",
+      "memberIds": [
+        "3185",
+        "3200"
+      ],
+      "primaryId": "3200",
+      "normalizedName": "purlin hills"
+    },
+    {
+      "id": "mg-359",
+      "memberIds": [
+        "3217",
+        "3255"
+      ],
+      "primaryId": "3255",
+      "normalizedName": "xyrionn"
+    },
+    {
+      "id": "mg-360",
+      "memberIds": [
+        "3277",
+        "3305"
+      ],
+      "primaryId": "3305",
+      "normalizedName": "slavers coast"
+    },
+    {
+      "id": "mg-361",
+      "memberIds": [
+        "3280",
+        "3290"
+      ],
+      "primaryId": "3290",
+      "normalizedName": "scream strait"
+    },
+    {
+      "id": "mg-362",
+      "memberIds": [
+        "3282",
+        "3340"
+      ],
+      "primaryId": "3340",
+      "normalizedName": "torgan passage"
+    },
+    {
+      "id": "mg-363",
+      "memberIds": [
+        "3285",
+        "3335"
+      ],
+      "primaryId": "3335",
+      "normalizedName": "tafframel hills"
+    },
+    {
+      "id": "mg-364",
+      "memberIds": [
+        "3286",
+        "3336"
+      ],
+      "primaryId": "3336",
+      "normalizedName": "tafleur wood"
+    },
+    {
+      "id": "mg-365",
+      "memberIds": [
+        "3302",
+        "3333"
+      ],
+      "primaryId": "3302",
+      "normalizedName": "turiik forest"
+    },
+    {
+      "id": "mg-366",
+      "memberIds": [
+        "3313",
+        "3334"
+      ],
+      "primaryId": "3313",
+      "normalizedName": "sosa mari"
+    },
+    {
+      "id": "mg-367",
+      "memberIds": [
+        "3372",
+        "3520"
+      ],
+      "primaryId": "3372",
+      "normalizedName": "speculation"
+    },
+    {
+      "id": "mg-368",
+      "memberIds": [
+        "3393",
+        "3915"
+      ],
+      "primaryId": "3393",
+      "normalizedName": "cities"
+    },
+    {
+      "id": "mg-369",
+      "memberIds": [
+        "3414",
+        "3451"
+      ],
+      "primaryId": "3451",
+      "normalizedName": "blackpoint"
+    },
+    {
+      "id": "mg-370",
+      "memberIds": [
+        "3425",
+        "3475"
+      ],
+      "primaryId": "3425",
+      "normalizedName": "isolation"
+    },
+    {
+      "id": "mg-371",
+      "memberIds": [
+        "3459",
+        "3615"
+      ],
+      "primaryId": "3459",
+      "normalizedName": "sunset mountains"
+    },
+    {
+      "id": "mg-372",
+      "memberIds": [
+        "3486",
+        "3515"
+      ],
+      "primaryId": "3515",
+      "normalizedName": "enera savaci"
+    },
+    {
+      "id": "mg-373",
+      "memberIds": [
+        "3487",
+        "3567"
+      ],
+      "primaryId": "3567",
+      "normalizedName": "laeroth esori"
+    },
+    {
+      "id": "mg-374",
+      "memberIds": [
+        "3491",
+        "3617"
+      ],
+      "primaryId": "3491",
+      "normalizedName": "why no one settles"
+    },
+    {
+      "id": "mg-375",
+      "memberIds": [
+        "3496",
+        "3661"
+      ],
+      "primaryId": "3661",
+      "normalizedName": "yzres grave"
+    },
+    {
+      "id": "mg-376",
+      "memberIds": [
+        "3524",
+        "3623"
+      ],
+      "primaryId": "3524",
+      "normalizedName": "ruined settlements"
+    },
+    {
+      "id": "mg-377",
+      "memberIds": [
+        "3544",
+        "3549"
+      ],
+      "primaryId": "3549",
+      "normalizedName": "kilrens palace"
+    },
+    {
+      "id": "mg-378",
+      "memberIds": [
+        "3562",
+        "3651"
+      ],
+      "primaryId": "3562",
+      "normalizedName": "kro shiik"
+    },
+    {
+      "id": "mg-379",
+      "memberIds": [
+        "3638",
+        "3649"
+      ],
+      "primaryId": "3638",
+      "normalizedName": "source"
+    },
+    {
+      "id": "mg-380",
+      "memberIds": [
+        "3667",
+        "3700"
+      ],
+      "primaryId": "3700",
+      "normalizedName": "salt flats"
+    },
+    {
+      "id": "mg-381",
+      "memberIds": [
+        "3677",
+        "3805"
+      ],
+      "primaryId": "3677",
+      "normalizedName": "shtaneres"
+    },
+    {
+      "id": "mg-382",
+      "memberIds": [
+        "3679",
+        "3692"
+      ],
+      "primaryId": "3679",
+      "normalizedName": "bazaar of scales"
+    },
+    {
+      "id": "mg-383",
+      "memberIds": [
+        "3683",
+        "3690"
+      ],
+      "primaryId": "3683",
+      "normalizedName": "dunes of kalamesh"
+    },
+    {
+      "id": "mg-384",
+      "memberIds": [
+        "3684",
+        "3693"
+      ],
+      "primaryId": "3684",
+      "normalizedName": "dustforge"
+    },
+    {
+      "id": "mg-385",
+      "memberIds": [
+        "3691",
+        "3723"
+      ],
+      "primaryId": "3723",
+      "normalizedName": "temple of the sun"
+    },
+    {
+      "id": "mg-386",
+      "memberIds": [
+        "3695",
+        "3724"
+      ],
+      "primaryId": "3724",
+      "normalizedName": "ulkevolm"
+    },
+    {
+      "id": "mg-387",
+      "memberIds": [
+        "3728",
+        "3781"
+      ],
+      "primaryId": "3781",
+      "normalizedName": "xabraedia"
+    },
+    {
+      "id": "mg-388",
+      "memberIds": [
+        "3740",
+        "3773"
+      ],
+      "primaryId": "3740",
+      "normalizedName": "bturis tomb"
+    },
+    {
+      "id": "mg-389",
+      "memberIds": [
+        "3741",
+        "3772"
+      ],
+      "primaryId": "3741",
+      "normalizedName": "dungeon of flowers"
+    },
+    {
+      "id": "mg-390",
+      "memberIds": [
+        "3742",
+        "3782"
+      ],
+      "primaryId": "3742",
+      "normalizedName": "hik"
+    },
+    {
+      "id": "mg-391",
+      "memberIds": [
+        "3756",
+        "3783"
+      ],
+      "primaryId": "3756",
+      "normalizedName": "morglewood"
+    },
+    {
+      "id": "mg-392",
+      "memberIds": [
+        "3767",
+        "3774"
+      ],
+      "primaryId": "3767",
+      "normalizedName": "spire of ascension"
+    },
+    {
+      "id": "mg-393",
+      "memberIds": [
+        "3771",
+        "3775"
+      ],
+      "primaryId": "3775",
+      "normalizedName": "tomb of braggus solas"
+    },
+    {
+      "id": "mg-394",
+      "memberIds": [
+        "3776",
+        "3784"
+      ],
+      "primaryId": "3776",
+      "normalizedName": "veluminante forest"
+    },
+    {
+      "id": "mg-395",
+      "memberIds": [
+        "3811",
+        "3874"
+      ],
+      "primaryId": "3811",
+      "normalizedName": "geographic features"
+    },
+    {
+      "id": "mg-396",
+      "memberIds": [
+        "3813",
+        "4007"
+      ],
+      "primaryId": "4007",
+      "normalizedName": "leyline crossing"
+    },
+    {
+      "id": "mg-397",
+      "memberIds": [
+        "3816",
+        "3944"
+      ],
+      "primaryId": "3816",
+      "normalizedName": "salt tomb"
+    },
+    {
+      "id": "mg-398",
+      "memberIds": [
+        "3829",
+        "3834"
+      ],
+      "primaryId": "3834",
+      "normalizedName": "liars lake"
+    },
+    {
+      "id": "mg-399",
+      "memberIds": [
+        "3833",
+        "3991"
+      ],
+      "primaryId": "3833",
+      "normalizedName": "kilbyurn mountains"
+    },
+    {
+      "id": "mg-400",
+      "memberIds": [
+        "3851",
+        "3868"
+      ],
+      "primaryId": "3851",
+      "normalizedName": "bragkur"
+    },
+    {
+      "id": "mg-401",
+      "memberIds": [
+        "3852",
+        "3894"
+      ],
+      "primaryId": "3852",
+      "normalizedName": "cherruzil"
+    },
+    {
+      "id": "mg-402",
+      "memberIds": [
+        "3853",
+        "3891"
+      ],
+      "primaryId": "3853",
+      "normalizedName": "drigard gakh"
+    },
+    {
+      "id": "mg-403",
+      "memberIds": [
+        "3854",
+        "3871"
+      ],
+      "primaryId": "3854",
+      "normalizedName": "egzahd"
+    },
+    {
+      "id": "mg-404",
+      "memberIds": [
+        "3855",
+        "3892"
+      ],
+      "primaryId": "3855",
+      "normalizedName": "grug rirmor"
+    },
+    {
+      "id": "mg-405",
+      "memberIds": [
+        "3856",
+        "3866"
+      ],
+      "primaryId": "3856",
+      "normalizedName": "kebuz bakh"
+    },
+    {
+      "id": "mg-406",
+      "memberIds": [
+        "3857",
+        "3872"
+      ],
+      "primaryId": "3857",
+      "normalizedName": "khurgril"
+    },
+    {
+      "id": "mg-407",
+      "memberIds": [
+        "3858",
+        "3865"
+      ],
+      "primaryId": "3858",
+      "normalizedName": "kregkard"
+    },
+    {
+      "id": "mg-408",
+      "memberIds": [
+        "3862",
+        "3880"
+      ],
+      "primaryId": "3880",
+      "normalizedName": "morgrad"
+    },
+    {
+      "id": "mg-409",
+      "memberIds": [
+        "3863",
+        "3900"
+      ],
+      "primaryId": "3900",
+      "normalizedName": "zord oshbag"
+    },
+    {
+      "id": "mg-410",
+      "memberIds": [
+        "3864",
+        "3885"
+      ],
+      "primaryId": "3885",
+      "normalizedName": "vrommol"
+    },
+    {
+      "id": "mg-411",
+      "memberIds": [
+        "3867",
+        "3899"
+      ],
+      "primaryId": "3899",
+      "normalizedName": "zeror gokh"
+    },
+    {
+      "id": "mg-412",
+      "memberIds": [
+        "3869",
+        "3884"
+      ],
+      "primaryId": "3884",
+      "normalizedName": "vog dridril"
+    },
+    {
+      "id": "mg-413",
+      "memberIds": [
+        "3870",
+        "3898"
+      ],
+      "primaryId": "3898",
+      "normalizedName": "xhodon"
+    },
+    {
+      "id": "mg-414",
+      "memberIds": [
+        "3873",
+        "3882"
+      ],
+      "primaryId": "3882",
+      "normalizedName": "ulbrizil"
+    },
+    {
+      "id": "mg-415",
+      "memberIds": [
+        "3875",
+        "3887"
+      ],
+      "primaryId": "3887",
+      "normalizedName": "xcraya river valley"
+    },
+    {
+      "id": "mg-416",
+      "memberIds": [
+        "3877",
+        "3881"
+      ],
+      "primaryId": "3881",
+      "normalizedName": "prisoner hills"
+    },
+    {
+      "id": "mg-417",
+      "memberIds": [
+        "3878",
+        "3886"
+      ],
+      "primaryId": "3886",
+      "normalizedName": "xcraya pallir"
+    },
+    {
+      "id": "mg-418",
+      "memberIds": [
+        "3879",
+        "3896"
+      ],
+      "primaryId": "3879",
+      "normalizedName": "minas house"
+    },
+    {
+      "id": "mg-419",
+      "memberIds": [
+        "3883",
+        "3893"
+      ],
+      "primaryId": "3883",
+      "normalizedName": "urkrakr"
+    },
+    {
+      "id": "mg-420",
+      "memberIds": [
+        "3895",
+        "3901"
+      ],
+      "primaryId": "3901",
+      "normalizedName": "zremmad khag"
+    },
+    {
+      "id": "mg-421",
+      "memberIds": [
+        "3906",
+        "3961"
+      ],
+      "primaryId": "3961",
+      "normalizedName": "eyendra"
+    },
+    {
+      "id": "mg-422",
+      "memberIds": [
+        "3907",
+        "4054"
+      ],
+      "primaryId": "4054",
+      "normalizedName": "white wastes"
+    },
+    {
+      "id": "mg-423",
+      "memberIds": [
+        "3908",
+        "4010"
+      ],
+      "primaryId": "4010",
+      "normalizedName": "plains of wycendeula"
+    },
+    {
+      "id": "mg-424",
+      "memberIds": [
+        "3909",
+        "3952"
+      ],
+      "primaryId": "3952",
+      "normalizedName": "eceraen mountains"
+    },
+    {
+      "id": "mg-425",
+      "memberIds": [
+        "3914",
+        "4074"
+      ],
+      "primaryId": "3914",
+      "normalizedName": "geography and position"
+    },
+    {
+      "id": "mg-426",
+      "memberIds": [
+        "3916",
+        "3982"
+      ],
+      "primaryId": "3982",
+      "normalizedName": "graystone"
+    },
+    {
+      "id": "mg-427",
+      "memberIds": [
+        "3925",
+        "3979"
+      ],
+      "primaryId": "3925",
+      "normalizedName": "seasonal patterns"
+    },
+    {
+      "id": "mg-428",
+      "memberIds": [
+        "3939",
+        "3983"
+      ],
+      "primaryId": "3983",
+      "normalizedName": "hills of sharp talons"
+    },
+    {
+      "id": "mg-429",
+      "memberIds": [
+        "3964",
+        "3985"
+      ],
+      "primaryId": "3964",
+      "normalizedName": "why its dangerous"
+    },
+    {
+      "id": "mg-430",
+      "memberIds": [
+        "3966",
+        "3997"
+      ],
+      "primaryId": "3997",
+      "normalizedName": "lean driin"
+    },
+    {
+      "id": "mg-431",
+      "memberIds": [
+        "3981",
+        "4056"
+      ],
+      "primaryId": "3981",
+      "normalizedName": "ginos crypt"
+    },
+    {
+      "id": "mg-432",
+      "memberIds": [
+        "4077",
+        "4080"
+      ],
+      "primaryId": "4077",
+      "normalizedName": "archive"
+    },
+    {
+      "id": "mg-433",
+      "memberIds": [
+        "4172",
+        "4324"
+      ],
+      "primaryId": "4324",
+      "normalizedName": "stratlan sea"
+    },
+    {
+      "id": "mg-434",
+      "memberIds": [
+        "4197",
+        "4270"
+      ],
+      "primaryId": "4270",
+      "normalizedName": "kettle bay"
+    },
+    {
+      "id": "mg-435",
+      "memberIds": [
+        "4210",
+        "4218"
+      ],
+      "primaryId": "4210",
+      "normalizedName": "ember isles"
+    },
+    {
+      "id": "mg-436",
+      "memberIds": [
+        "4212",
+        "4217"
+      ],
+      "primaryId": "4217",
+      "normalizedName": "firefell"
+    },
+    {
+      "id": "mg-437",
+      "memberIds": [
+        "4294",
+        "4313"
+      ],
+      "primaryId": "4294",
+      "normalizedName": "phyndarr sound"
+    },
+    {
+      "id": "mg-438",
+      "memberIds": [
+        "4302",
+        "4334"
+      ],
+      "primaryId": "4302",
+      "normalizedName": "sea of sharks"
+    },
+    {
+      "id": "mg-439",
+      "memberIds": [
+        "4368",
+        "4421"
+      ],
+      "primaryId": "4421",
+      "normalizedName": "prophecy island"
+    },
+    {
+      "id": "mg-440",
+      "memberIds": [
+        "4377",
+        "4444"
+      ],
+      "primaryId": "4377",
+      "normalizedName": "cpygos"
+    },
+    {
+      "id": "mg-441",
+      "memberIds": [
+        "4380",
+        "4434"
+      ],
+      "primaryId": "4380",
+      "normalizedName": "fairn passage"
+    },
+    {
+      "id": "mg-442",
+      "memberIds": [
+        "4402",
+        "4497"
+      ],
+      "primaryId": "4402",
+      "normalizedName": "nekanzi jungle"
+    },
+    {
+      "id": "mg-443",
+      "memberIds": [
+        "4422",
+        "4499"
+      ],
+      "primaryId": "4499",
+      "normalizedName": "zyquirk"
+    }
+  ]
+}
