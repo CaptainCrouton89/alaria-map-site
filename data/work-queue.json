@@ -23511,7 +23511,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A lakeside town on Sopona Strempele, the accessible lake. Fishing, swimming, and a relaxed atmosphere draw visitors from across Grustos—the closest thing the state has to a resort town. The proximity to Enuau Kemjallb adds exotic appeal, even though the sun elf city is neither visible nor accessible from here.",
       "parentEntryId": "1587",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1601",
@@ -23525,7 +23525,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A small village in the southern forest fringe, surviving on herbalism and logging. Zambullón guides are considered essential for anyone entering the Bolsaña P'Suelos—they know which patches of ground will support weight and which will swallow a traveler to the knees. ---",
       "parentEntryId": "1587",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1602",
@@ -23553,7 +23553,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A ruined fortress on the Tasah Evikktus river, its towers collapsed and its walls breached. What happened to Skyloft is unclear—the records are incomplete, and the survivors (if any) didn't explain. The ruins are old, predating the current political arrangement by centuries. Some architecture suggests giant construction; other elements are clearly human-scale. The fortress may have been built cooperatively, in an era when such things were possible. Whatever destroyed Skyloft left traces. The rui",
       "parentEntryId": "1602",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1604",
@@ -23567,7 +23567,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "- **Three peoples, one territory**: Sun elves, blood-goblins, and giant herders share space with humans. The balance is delicate. - **The Light leyline**: Passes through Enuau Kemjallb and affects... something. The sun elves know more than they share. - **Giant migration seasons**: Twice yearly, the state transforms. Trade booms, then vanishes. - **Skyloft's secrets**: Whatever destroyed the castle is still there. Adventurers keep trying to find out what. - **Buffer state**: Grustos sits between",
       "parentEntryId": "1579",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1605",
@@ -23584,7 +23584,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A fortress guarding the Safeway Passage. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1606",
@@ -23602,7 +23602,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Kadroka is a savanna region in southwestern Central Aboyinzu, dominated by open grasslands and the drainage basin of the Royko River system. The region takes its name from the state that controls it—a dragon-ruled territory centered on the capital city of Ponoigari.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1607",
@@ -23616,7 +23616,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The rivers of Kadroka drain generally southwest toward Bluesong Bay, though they pass through Tytheri territory before reaching the coast: - **Noara River**: Major northern river, flowing south through the settled heartland - **Molotai River**: Feeds into the Royko from the Lonesome Lake region - **Hurikono**: Stream system in the north, joining the Molotai - **Sikuri River**: Southern tributary joining the Royko at the Bloodswamp",
       "parentEntryId": "1606",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1608",
@@ -23658,7 +23658,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "For detailed political information, see the state entry for Kadroka in Nations & Powers. The region is ruled by the dragon Melekas from Ponoigari, with a mixed human-naga administration handling day-to-day governance.",
       "parentEntryId": "1606",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1611",
@@ -23674,7 +23674,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Home to Greater Satyr",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1612",
@@ -23691,7 +23691,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Lonesome Lake is a small, isolated body of water in northern Kadroka, notable for having no visible inlet or outlet. The lake simply exists—a still pool amid the savanna that locals have avoided for as long as anyone can remember.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1613",
@@ -23705,7 +23705,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Hydrologically, Lonesome Lake should not exist. Lakes without inlets evaporate. Lakes without outlets stagnate, grow brackish, or overflow. Lonesome Lake does none of these things. The water is fresh, clear, and cold—colder than it should be given the climate. The surface is unnaturally still; even on windy days, the lake barely ripples. Fish swim in its depths, though no one knows how they got there or what they eat. Several theories attempt to explain the lake: - **Underground springs**: The m",
       "parentEntryId": "1612",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1614",
@@ -23733,7 +23733,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Kadrokans treat Lonesome Lake with cautious respect. They don't drink from it (though the water is apparently safe). They don't fish it (though fish are clearly present). They don't build near it (though the land would support settlement). Some traditions hold that the lake grants visions to those who gaze into it at midnight. Others say it swallows anyone who enters the water. Still others claim it's simply cursed and best left alone. The truth may be simpler: the lake is strange, and strange t",
       "parentEntryId": "1612",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1616",

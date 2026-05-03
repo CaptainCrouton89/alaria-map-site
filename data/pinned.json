@@ -6703,5 +6703,68 @@
     "zoomLevel": 5,
     "type": "town",
     "pinnedAt": "2026-05-03T03:55:35.689Z"
+  },
+  "1600": {
+    "coordinates": [
+      280,
+      425
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-03T03:55:39.392Z"
+  },
+  "1601": {
+    "coordinates": [
+      282,
+      424
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-03T03:55:43.064Z"
+  },
+  "1603": {
+    "coordinates": [
+      274,
+      430
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-03T03:55:47.209Z"
+  },
+  "1605": {
+    "coordinates": [
+      245,
+      455
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-03T03:56:05.184Z"
+  },
+  "1606": {
+    "coordinates": [
+      273,
+      504
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-03T03:56:11.444Z"
+  },
+  "1611": {
+    "coordinates": [
+      254,
+      478
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-03T03:56:16.466Z"
+  },
+  "1612": {
+    "coordinates": [
+      269,
+      496
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-03T03:56:25.813Z"
   }
 }
