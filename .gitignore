@@ -45,3 +45,4 @@ public/tiles/**/*.webp
 
 # Large source image (616MB) - tiles are hosted on R2
 public/Alaria.png
+data/backups/
