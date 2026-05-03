@@ -1,6 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
+import Link from 'next/link';
 import { useState, useEffect, useCallback } from 'react';
 import type { MapConfig, LocationType } from '@/types/location';
 import { LOCATION_COLORS } from '@/types/location';
@@ -100,6 +101,8 @@ export default function PinPage() {
   }, []);
 
   useEffect(() => {
+    // Data fetch on mount; setState after await is intentional.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     fetchState();
   }, [fetchState]);
 
@@ -247,7 +250,7 @@ export default function PinPage() {
         <div className="px-4 py-3 border-b border-sidebar-border bg-parchment-light">
           <div className="flex items-center justify-between mb-2">
             <h1 className="font-display text-lg font-semibold text-ink">Location Pinning</h1>
-            <a href="/" className="text-xs text-ink-muted hover:text-ink">← Back to Map</a>
+            <Link href="/" className="text-xs text-ink-muted hover:text-ink">← Back to Map</Link>
           </div>
           {stats && (
             <div className="space-y-1">
