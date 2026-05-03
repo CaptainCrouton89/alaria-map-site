@@ -6,7 +6,7 @@ import type { MapConfig, LocationType } from '@/types/location';
 import { LOCATION_COLORS } from '@/types/location';
 import { LOCATION_ICONS } from '@/lib/icons';
 import { TILES_BASE_URL, fetchTileConfig } from '@/lib/tiles';
-import type { LoreEntry, PinnedData } from '@/types/pinning';
+import type { LoreEntry, PinnedData, EntryContext } from '@/types/pinning';
 import { Button } from '@/components/ui/button';
 
 const PinningMap = dynamic(
@@ -68,6 +68,7 @@ const SOURCE_FILES = [
 export default function PinPage() {
   const [config, setConfig] = useState<MapConfig | null>(null);
   const [currentEntry, setCurrentEntry] = useState<LoreEntry | null>(null);
+  const [currentContext, setCurrentContext] = useState<EntryContext | null>(null);
   const [currentIndex, setCurrentIndex] = useState<number>(-1);
   const [stats, setStats] = useState<Stats | null>(null);
   const [pinnedData, setPinnedData] = useState<PinnedData>({});
@@ -88,6 +89,7 @@ export default function PinPage() {
     const res = await fetch('/api/pin');
     const data = await res.json();
     setCurrentEntry(data.currentEntry);
+    setCurrentContext(data.context ?? null);
     setCurrentIndex(data.currentIndex);
     setStats(data.stats);
     setPinnedData(data.pinnedData);
@@ -155,6 +157,7 @@ export default function PinPage() {
     if (res.ok) {
       const data = await res.json();
       setCurrentEntry(data.currentEntry);
+      setCurrentContext(data.context ?? null);
       setCurrentIndex(data.currentIndex);
       if (data.currentEntry) {
         setSelectedType(normalizeType(data.currentEntry.suggestedType));
@@ -164,6 +167,34 @@ export default function PinPage() {
     setPendingCoords(null);
     setLoading(false);
   }, []);
+
+  // Browse to a neighbor entry without mutating state
+  const handleNavigate = useCallback(async (direction: 1 | -1) => {
+    if (currentIndex < 0) return;
+    const target = currentIndex + direction;
+    if (target < 0) return;
+
+    setLoading(true);
+    const res = await fetch('/api/pin', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ action: 'navigate', targetIndex: target }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      setCurrentEntry(data.currentEntry);
+      setCurrentContext(data.context ?? null);
+      setCurrentIndex(data.currentIndex);
+      if (data.stats) setStats(data.stats);
+      if (data.pinnedData) setPinnedData(data.pinnedData);
+      if (data.currentEntry) {
+        setSelectedType(normalizeType(data.currentEntry.suggestedType));
+        setPendingZoom(data.currentEntry.suggestedZoomLevel);
+      }
+    }
+    setPendingCoords(null);
+    setLoading(false);
+  }, [currentIndex]);
 
   // Go back to previous entry
   const handleBack = useCallback(async () => {
@@ -178,6 +209,7 @@ export default function PinPage() {
     if (res.ok) {
       const data = await res.json();
       setCurrentEntry(data.currentEntry);
+      setCurrentContext(data.context ?? null);
       setCurrentIndex(data.currentIndex);
       setStats(data.stats);
       setPinnedData(data.pinnedData);
@@ -229,15 +261,39 @@ export default function PinPage() {
         handleBack();
         return;
       }
+
+      // Browse next/prev without mutating state: N / P
+      if (key === 'n' && !e.metaKey && !e.ctrlKey) {
+        e.preventDefault();
+        e.stopPropagation();
+        handleNavigate(1);
+        return;
+      }
+      if (key === 'p' && !e.metaKey && !e.ctrlKey) {
+        e.preventDefault();
+        e.stopPropagation();
+        handleNavigate(-1);
+        return;
+      }
     };
     // Use capture phase to intercept events before they reach Leaflet
     document.addEventListener('keydown', handler, true);
     return () => document.removeEventListener('keydown', handler, true);
-  }, [handleSkip, handlePin, handleBack, pendingCoords]);
+  }, [handleSkip, handlePin, handleBack, handleNavigate, pendingCoords]);
 
   if (!config) return <MapLoading />;
 
   const progress = stats ? ((stats.pinned + stats.skipped) / stats.total * 100).toFixed(1) : 0;
+
+  function pickSectionContent(): string {
+    if (currentContext?.fullContent && currentContext.fullContent.trim().length > 0) {
+      return currentContext.fullContent;
+    }
+    if (currentEntry?.contentPreview && currentEntry.contentPreview.trim().length > 0) {
+      return currentEntry.contentPreview;
+    }
+    return '(No content)';
+  }
 
   return (
     <div className="flex h-screen w-screen overflow-hidden">
@@ -282,6 +338,11 @@ export default function PinPage() {
         {currentEntry ? (
           <div className="flex-1 overflow-y-auto">
             <div className="px-4 py-4 border-b border-sidebar-border">
+              {currentContext && currentContext.parentChain.length > 0 && (
+                <div className="text-xs text-ink-muted mb-1 truncate">
+                  {currentContext.parentChain.map(c => c.name).join(' › ')}
+                </div>
+              )}
               <div className="flex items-center gap-2 mb-1">
                 {(() => {
                   const Icon = LOCATION_ICONS[selectedType];
@@ -297,6 +358,18 @@ export default function PinPage() {
                   {currentEntry.headerText}
                 </span>
                 <span>Line {currentEntry.lineNumber}</span>
+                <span>{currentEntry.sourceFile.replace('.md', '')}</span>
+                {currentEntry.status !== 'pending' && (
+                  <span
+                    className={`px-1.5 py-0.5 rounded font-medium ${
+                      currentEntry.status === 'pinned'
+                        ? 'bg-accent-gold/30 text-ink'
+                        : 'bg-ink-muted/20 text-ink'
+                    }`}
+                  >
+                    {currentEntry.status}
+                  </span>
+                )}
               </div>
               {currentEntry.tags.length > 0 && (
                 <div className="flex flex-wrap gap-1 mt-2">
@@ -310,14 +383,78 @@ export default function PinPage() {
                   ))}
                 </div>
               )}
+              {currentContext && currentContext.siblings.length > 0 && (() => {
+                const sibs = currentContext.siblings;
+                const pinned = sibs.filter(s => s.status === 'pinned').length;
+                const skipped = sibs.filter(s => s.status === 'skipped').length;
+                const pending = sibs.filter(s => s.status === 'pending').length;
+                const parentName = currentContext.parentChain.length > 0
+                  ? currentContext.parentChain[currentContext.parentChain.length - 1].name
+                  : currentEntry.sourceFile.replace('.md', '');
+                return (
+                  <p className="text-xs text-ink-muted mt-2">
+                    {sibs.length} sibling{sibs.length === 1 ? '' : 's'} under {parentName}
+                    {' '}
+                    <span className="opacity-70">
+                      ({pinned} pinned, {skipped} skipped, {pending} pending)
+                    </span>
+                  </p>
+                );
+              })()}
             </div>
 
-            {/* Content preview */}
+            {/* Preview summary (flattened, from extraction) */}
+            {currentEntry.contentPreview && currentEntry.contentPreview.trim().length > 0 && (
+              <div className="px-4 py-3 border-b border-sidebar-border">
+                <div className="text-xs font-medium text-ink-muted mb-1">Preview</div>
+                <p className="text-sm text-ink-muted leading-relaxed">
+                  {currentEntry.contentPreview}
+                </p>
+              </div>
+            )}
+
+            {/* Section content */}
             <div className="px-4 py-3 border-b border-sidebar-border">
-              <p className="text-sm text-ink-muted leading-relaxed">
-                {currentEntry.contentPreview || '(No content preview)'}
-              </p>
+              <div className="text-xs font-medium text-ink-muted mb-1">Section content</div>
+              <div className="max-h-72 overflow-y-auto bg-parchment/40 rounded p-2">
+                <pre className="text-sm text-ink-muted leading-relaxed whitespace-pre-wrap font-sans">
+                  {pickSectionContent()}
+                </pre>
+              </div>
             </div>
+
+            {/* Related entries (same name elsewhere in the queue) */}
+            {currentContext && currentContext.related.length > 0 && (
+              <div className="px-4 py-3 border-b border-sidebar-border">
+                <div className="text-xs font-medium text-ink-muted mb-2">
+                  Related entries ({currentContext.related.length})
+                </div>
+                <div className="space-y-3">
+                  {currentContext.related.map(rel => (
+                    <div key={rel.id} className="bg-parchment/40 rounded p-2">
+                      <div className="text-xs text-ink-muted mb-1 truncate">
+                        {[rel.sourceFile.replace('.md', ''), ...rel.parentNames].join(' › ')}
+                      </div>
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-sm font-medium text-ink">{rel.name}</span>
+                        <span className="text-[10px] text-ink-muted bg-parchment px-1 py-0.5 rounded">
+                          {rel.headerText}
+                        </span>
+                        <span className="text-[10px] text-ink-muted">L{rel.lineNumber}</span>
+                        <span className="text-[10px] text-ink-muted ml-auto">{rel.status}</span>
+                      </div>
+                      <div className="max-h-40 overflow-y-auto">
+                        <pre className="text-xs text-ink-muted leading-relaxed whitespace-pre-wrap font-sans">
+                          {rel.content && rel.content.trim().length > 0
+                            ? rel.content
+                            : '(No content)'}
+                        </pre>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
 
             {/* Type selector */}
             <div className="px-4 py-3 border-b border-sidebar-border">
@@ -388,13 +525,33 @@ export default function PinPage() {
 
         {/* Actions */}
         <div className="px-4 py-3 border-t border-sidebar-border bg-parchment-light">
+          <div className="flex gap-2 mb-2">
+            <Button
+              variant="ghost"
+              onClick={() => handleNavigate(-1)}
+              disabled={currentIndex <= 0 || loading}
+              className="flex-1"
+              title="Browse to previous entry (no state change)"
+            >
+              ← Prev <kbd className="ml-1 text-xs opacity-60">P</kbd>
+            </Button>
+            <Button
+              variant="ghost"
+              onClick={() => handleNavigate(1)}
+              disabled={!stats || currentIndex < 0 || currentIndex >= stats.total - 1 || loading}
+              className="flex-1"
+              title="Browse to next entry (no state change)"
+            >
+              Next → <kbd className="ml-1 text-xs opacity-60">N</kbd>
+            </Button>
+          </div>
           <div className="flex gap-2">
             <Button
               variant="ghost"
               onClick={handleBack}
               disabled={currentIndex <= 0 || loading}
               className="px-2"
-              title="Go back to previous entry"
+              title="Revert previous decision and edit it"
             >
               <kbd className="text-xs opacity-60">A</kbd>
             </Button>
