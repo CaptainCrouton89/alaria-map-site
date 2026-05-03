@@ -73,6 +73,8 @@ export default function DedupePage() {
   }, []);
 
   useEffect(() => {
+    // Data fetch on filter change; setState after await is intentional.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     fetchState(filter);
   }, [filter, fetchState]);
 
