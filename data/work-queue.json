@@ -23764,7 +23764,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A four-hundred-mile expanse of dense forest stretching across Central Aboyinzu, bounded by the Cowardly Mountains to the northwest and thinning into savanna grasslands to the south and east. Unlike its northern neighbor M'Svyla—cultivated, inhabited, deliberately shaped by the Ix'Lorett—Luendrokrül is abandoned. Something lived here once. The forest swallowed it.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1618",
@@ -23820,7 +23820,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Safeway Passage through the Cowardly Mountains exists because going *through* Luendrokrül is worse than going around. Caravans that need to move between the western territories and the eastern grasslands take the mountain route despite its difficulty, despite the tariffs at Horan's Hut, despite everything. The forest route is shorter. No one takes it. Expeditions have tried. Military surveyors, merchant scouts, scholars convinced the dangers are exaggerated. Most turn back within a few days,",
       "parentEntryId": "1617",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1622",
@@ -23834,7 +23834,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The forest's heart, if it has one. A broad, still lake in the southeastern reaches, surrounded by the oldest and strangest ruins. See the dedicated entry for details.",
       "parentEntryId": "1617",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1623",
@@ -23852,7 +23852,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A two-hundred-mile stretch of temperate forest running east from the Crystal Mountains into the Central Aboyinzu grasslands. Home to the Ix'Lorett—a lizardfolk people who have turned their homeland into something between a nation and a living gallery.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1624",
@@ -23866,7 +23866,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "M'Svyla is old growth, the kind of forest that remembers when different creatures walked beneath its canopy. Broadleaf trees dominate—oak, ash, and species with no common tongue names—their crowns forming a broken ceiling that filters light into green-gold shafts. The understory is dense but navigable, threaded with game trails that the Ix'Lorett have walked for generations. The forest thins as it stretches east, transitioning gradually from dense woodland to scattered copses to the open savanna",
       "parentEntryId": "1623",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1625",
@@ -23880,7 +23880,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Ix'Lorett are iguana-like lizardfolk—slow-moving, ancient in appearance, patient beyond human comprehension. They live long lives and spend them deliberately. An Ix'Lorett might dedicate thirty years to a single sculpture, or fifty to mastering a particular technique of gem-setting. They do not rush. They do not need to. Their villages are art installations as much as settlements. Mosaic pathways wind between dwellings, each stone placed with intention. Trees bear carved panels depicting loc",
       "parentEntryId": "1623",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1626",
@@ -23908,7 +23908,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Deep in the western forest, where the oldest trees grow, the Ix'Lorett have been building something for six hundred years. They call it the Unfinished Work—a complex of structures, sculptures, gardens, and mosaic installations that sprawls across a square mile of forest floor. Each generation adds to it. Each addition must harmonize with what came before while leaving space for what comes after. The project has no planned endpoint. It will be finished when it is finished, or it will never be fin",
       "parentEntryId": "1623",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1628",
@@ -23922,7 +23922,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "M'Svyla has become, almost by accident, a place where broken people come to mend. It started with the Crystal Mountain defenders. Wounded soldiers stumbled down from the passes and found Ix'Lorett healing stations in the foothills. Some recovered and returned to the fighting. Others didn't—couldn't—and drifted deeper into the forest instead. The Ix'Lorett didn't turn them away. They simply made room. Now M'Svyla hosts a scattered population of refugees, veterans, scholars fleeing war-torn librar",
       "parentEntryId": "1623",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1629",
@@ -23936,7 +23936,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Ix'Lorett know what waits beyond the Crystal Mountains. They've seen what comes down from the passes—the wounded, the traumatized, the ones who've looked into the eyes of Xynoth's legions and somehow survived. They know the defenders are losing. They do not discuss it often. There is no panic, no urgency that would satisfy a human observer. But the Slow Council has been deliberating on the question for three years now: what will M'Svyla do when the mountains fall? Some argue for preparation—",
       "parentEntryId": "1623",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1630",
@@ -23953,7 +23953,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A state in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1631",
@@ -23971,7 +23971,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Melekas is an ancient dragon who rules the state of Kadroka from the capital city of Ponoigari—though \"rules\" understates the complexity of the situation. For nearly eight hundred years, Melekas has been paralyzed from the neck down, fused with the bedrock beneath the city, unable to fly, walk, or leave the spot where the dragon landed after a catastrophic encounter with the Agony Stones.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1632",
@@ -23985,7 +23985,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Around 800 years ago, Melekas flew to investigate the Agony Stones—a vast region of strange, contorted rock formations in the southern reaches of what is now Tythikerys. The dragon landed on the largest formation to examine it more closely. That was a mistake. The stone *reached back*. Petrification raced up the dragon's legs before Melekas could tear free. The dragon barely managed to take flight, but the curse—or infection, or sympathy-bond, scholars still argue—had already spread through most",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1633",
@@ -23999,7 +23999,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Melekas's body is fused with the bedrock beneath the capital. The dragon's immense form—several hundred feet from tail to snout—now serves as the foundation for the palace complex and surrounding government district. Only the head, neck, and one foreleg retain mobility. The scales have taken on a grey-stone cast that wasn't there before, and the line where living tissue meets petrified flesh creeps imperceptibly higher each decade. The dragon can still breathe fire. Still think. Still speak in a",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1634",
@@ -24013,7 +24013,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The royal palace is built *around* and *upon* the dragon's immobile body. Petitioners approach the living head while standing on the dragon's petrified flank. Audience chambers are carved into the spaces between frozen limbs. The dragon's one mobile foreleg occasionally gestures during conversation, a reminder that this is not a statue but a living ruler trapped in stone. The architecture has evolved over centuries to accommodate both the dragon's needs and the practical requirements of governan",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1635",
@@ -24027,7 +24027,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Eight centuries of forced immobility have transformed Melekas from a creature of physical dominance into one of pure political cunning. The dragon who once ruled through terror and flight now rules through manipulation, information networks, and the careful cultivation of loyal agents. Melekas has become the ultimate stationary power—all of Kadroka must come to the dragon, never the reverse. The dragon is patient in ways that shorter-lived beings cannot comprehend. Melekas plans in decades, thin",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1636",
@@ -24041,7 +24041,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The people of Kadroka have a complicated relationship with their immobile ruler. On one hand, Melekas provides genuine protection—the dragon's fire can reach well beyond the city walls, and any army foolish enough to assault Ponoigari directly would face an enemy that cannot be flanked, cannot retreat, and has nothing to lose. On the other hand, Melekas is still a dragon. Taxation is heavy. Dissent is noted and remembered. The dragon's network of informants—humans, naga, and others who serve the",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1637",
@@ -24055,7 +24055,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Melekas's paralysis has emboldened the Tytheri blood orcs to the southwest. They know the dragon cannot hunt them. They know Kadroka's military, without aerial support, struggles to project power into the rough terrain of Tythikerys. They raid with increasing boldness, and Melekas can do nothing but watch and scheme. The dragon's hatred for the Tytheri is matched only by hatred for the Agony Stones that crippled Melekas in the first place—and the orcs' connection to those Stones, their harvestin",
       "parentEntryId": "1631",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1638",
@@ -24073,7 +24073,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Melway Pass is a route through the northern Morygun Mountains, connecting the Korgül forest region to the lands beyond. It is one of the few reliable passages through this section of the range—and one of the most dangerous.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1639",
@@ -24101,7 +24101,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Despite the dangers, Melway Pass sees regular use by those who need to cross the Morygun range: - **Traders** moving goods between Korgül and the eastern territories - **Scholars** seeking Phaerhom or the Valley of the Witches - **Refugees** fleeing various troubles in one direction or another - **Adventurers** with business in the wild mountains",
       "parentEntryId": "1638",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1641",
@@ -24129,7 +24129,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Melway Pass lies north of Kadrokan territory, in the mountains that form the boundary between Central Aboyinzu and the wilder regions beyond. Kadrokans who wish to reach the northern forests without going through Phaerhom (and dealing with fairies) sometimes use this route. The dragon Melekas has no particular interest in the pass, which lies far beyond the range where Kadrokan authority meaningfully extends.",
       "parentEntryId": "1638",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1643",
@@ -24147,7 +24147,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "An ancient forest covering Mikisapi Island, the landmass at the center of Deadloop. Unlike the hostile Dragonsong forests to the east, Mikisapi is inhabited—but on the forest's terms.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1644",
@@ -24221,7 +24221,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The Mumbling Forest dominates the southwestern coast of Tythikerys, a dense woodland that stretches from Bluesong Bay to the southern reaches of the region. It is named for the constant low sound that pervades it—not quite voices, not quite wind, but something in between that never stops.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1649",
@@ -24235,7 +24235,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The \"mumbling\" that gives the forest its name is audible from the forest's edge and grows louder within. It sounds like distant conversation—multiple voices speaking simultaneously in no language anyone has identified. The sound comes from no particular direction; it simply exists throughout the forest, part of the ambient environment. Some who have spent time in the forest report that the mumbling occasionally seems to form words—phrases in their native tongue, names, warnings. Whether this is ",
       "parentEntryId": "1648",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1650",
@@ -24263,7 +24263,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Tytheri blood orcs and the Mumbling Forest have an unspoken arrangement: the orcs do not enter, and whatever lives within does not emerge. This arrangement has held for as long as anyone remembers. Orc camps stay well clear of the forest's edge. Hunting parties that pursue prey into the trees turn back. Even Ichor-maddened raiders, desperate for violence, find reasons to seek it elsewhere. Some scholars theorize the forest's presence is why the Tytheri never developed maritime ambitions—the ",
       "parentEntryId": "1648",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1652",
@@ -24277,7 +24277,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Those who wish to enter the Mumbling Forest should understand that: 1. The sound will become omnipresent and impossible to ignore 2. Navigation will become unreliable—compasses work, but sense of direction does not 3. Time may not pass at the expected rate 4. Something is watching",
       "parentEntryId": "1648",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1653",
@@ -24297,7 +24297,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A crumbling fortress at the heart of Echem Yiakraxes, Nyavminthk Castle is the reason the Terrogones are here—or at least, the reason they stay. The massive Chulpe predators that dominate the surrounding plains don't occupy the ruin, don't hunt within its walls, and don't let anyone else approach it. Family groups that spend generations warring over territory cooperate seamlessly when it comes to the castle's perimeter. Whatever's inside, they want it to stay there.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1654",
@@ -24325,7 +24325,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Terrogones maintain a permanent watch on the castle from a distance of roughly half a mile. Scouts from multiple family groups patrol overlapping routes, ensuring no approach goes unobserved. This cooperation is unprecedented—Terrogones are violently territorial with each other everywhere else in Echem Yiakraxes. They don't enter the castle. They don't approach the walls. When prey animals flee toward the ruin, Terrogones break off pursuit at an invisible boundary line. When intruders attemp",
       "parentEntryId": "1653",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1656",
@@ -24384,7 +24384,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest within Qintas. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1660",
@@ -24401,7 +24401,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1661",
@@ -24419,7 +24419,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Ponoigari is the capital of Kadroka and one of the most unusual cities in Aboyinzu. It is built around, upon, and into the petrified body of the dragon Melekas, who has ruled from this spot for nearly eight hundred years—unable to move, unable to leave, unable to do anything except think, speak, and occasionally breathe fire.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1662",
@@ -24433,7 +24433,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The city radiates outward from the dragon's immobile form in roughly concentric rings: **The Dragon District**: The innermost area, comprising the dragon's body itself and the palace complex built into it. Government functions, the treasury, and the quarters of the dragon's closest servants occupy this zone. Access is restricted and heavily guarded by the Stillwatch. **The Inner City**: Wealthy residential areas, major temples, the homes of naga advisors and prominent human families. Streets are",
       "parentEntryId": "1661",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1663",
@@ -24447,7 +24447,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The heart of Ponoigari is the dragon's body. Melekas's petrified form—several hundred feet from snout to tail—serves as the foundation for the palace complex. The dragon's immobile limbs and torso have been incorporated into the architecture over centuries: audience chambers carved between frozen legs, administrative offices built upon the great stone back, gardens planted in the shadow of wings that will never spread again. The living portions of the dragon—head, neck, and one foreleg—occupy th",
       "parentEntryId": "1661",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1664",
@@ -24489,7 +24489,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The city's elite guard serves the dragon directly. Stillwatch members are fanatically loyal—selection involves extensive vetting, and betrayal is punished with creative severity. They guard the Dragon District, protect the approaches to the palace, and serve as Melekas's eyes and hands throughout the city. In combat, the Stillwatch trains to coordinate with the dragon's fire. They know exactly how far Melekas can reach, exactly how to herd enemies into the kill zone, exactly how to shelter while",
       "parentEntryId": "1661",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1667",
@@ -24517,7 +24517,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Everyone in Ponoigari knows the dragon is dying. The petrification that trapped Melekas eight hundred years ago continues to spread. Slowly—inches per decade—but visibly. The line where living scale meets dead stone creeps higher each generation. The dragon's neck moves a little less freely than it did a century ago. The one mobile foreleg responds a little more slowly. Scholars estimate Melekas has four or five centuries before the head goes still. The dragon knows this. The dragon's advisors k",
       "parentEntryId": "1661",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1669",
@@ -24534,7 +24534,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills within the Crystal Mountains. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1670",
@@ -24551,7 +24551,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A coastal state in Central Aboyinzu, home to a significant Amverela high elf population and famous across Alaria for Sondoros wine. Where neighboring Grustos is rugged and complicated, Qintas is refined and deliberate—a place where decisions are made slowly, buildings are built to last centuries, and outsiders are welcomed with patience that can feel like condescension. The Amverela have lived here for millennia, long enough to have weathered multiple civilizational collapses and rebuilt each ti",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1671",
@@ -24565,7 +24565,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A large bay or sound dominating the northwestern coast, providing Qintas with access to maritime trade. The waters are calm, protected from ocean storms by the peninsula that curves around from Grustos, making Freshwater Sound one of the safest harbors in Central Aboyinzu. The Amverela were never great sailors—they prefer the patience of land-based pursuits to the unpredictability of the sea—but they've always been willing to let others do the sailing. Freshwater Sound's ports welcome traders fr",
       "parentEntryId": "1670",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1672",
@@ -24579,7 +24579,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A range of gentle hills in the northern region, where the land rises from the coastal plain toward the Torulius Mountains of Grustos. The Sothills are pastoral—sheep, goats, and the occasional dairy operation—producing wool and cheese that never quite achieve the fame of Sondoros wine but remain steady exports. The hills are dotted with small estates, many owned by Amverela families who have tended the same flocks for generations. The pace of life here is even slower than in coastal Qintas, whic",
       "parentEntryId": "1670",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1673",
@@ -24607,7 +24607,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "The most famous forest in Qintas—possibly in all of Central Aboyinzu—renowned for the strange grape-like fruit that grows on vines climbing its trees. The wine produced from this fruit is legendary, said to be fit for gods, and is sought after by connoisseurs across Alaria. The Amverela guard the Sondoros jealously. The vines refuse to grow elsewhere—many have tried transplanting them, all have failed—so the wine can only be produced here. This has made Qintas wealthy and has given the high elve",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1675",
@@ -24621,7 +24621,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A southern forest whose name translates to \"watching eyes\"—a reference to the sensation all visitors report of being observed from within the trees. The forest is not hostile, exactly, but it is unsettling. Animals fall silent when travelers approach. Branches seem to track movement. The feeling of scrutiny never quite fades. The Amverela avoid Ojos Goros when possible and refuse to discuss it when asked. Local legends speak of something that dwells in the forest's heart—not a creature, exactly,",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1676",
@@ -24635,7 +24635,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "The capital of Qintas, a city of white stone and silver filigree built on terraces rising from the coastal plain. Constancias is beautiful in the way that only Amverela construction can be—every building positioned to catch light at optimal angles, every street aligned with sight lines to distant landmarks, every public space designed for contemplation. The city is old. Not ancient in the way of ruins, but old in the way of living things that have simply continued existing. Buildings erected in ",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1677",
@@ -24649,7 +24649,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A northern port city on Freshwater Sound, serving as Qintas's primary maritime trade hub. Mataojo is livelier than Constancias—more humans, more visitors, more of the chaos that comes with commercial activity. The Amverela tolerate this because trade is useful and because concentrating foreign activity in Mataojo keeps it away from the rest of the state. The city's architecture is mixed: elven foundations supporting human additions, elegant stonework adjacent to practical wooden warehouses. The ",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1678",
@@ -24663,7 +24663,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A town in the Sothills, serving as the center of Qintas's pastoral economy. Wool markets operate here year-round; cheese aging facilities line the main roads; shepherds from across the hills bring their flocks for sale and breeding. The town's name—\"radial hills\"—refers to the way roads spread from its center like spokes on a wheel, connecting scattered hill estates to a central point. The Amverela planned it this way millennia ago. It still works.",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1679",
@@ -24677,7 +24677,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A town near the Sondoros forest, existing primarily to support the wine industry. During harvest season, Piedritas swells with workers; the rest of the year, it maintains equipment, ages wine in vast cellars, and waits. The town has developed its own culture, distinct from coastal Qintas—rougher, more practical, defined by the annual rhythm of the harvest. Vineyard workers from across the region gather here, sharing techniques and gossip. Some are human; the Amverela prefer to employ outsiders f",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1680",
@@ -24691,7 +24691,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A coastal town south of Mataojo, smaller and quieter. Puerto Carmele was once a significant port; silting and shifting currents have reduced its harbor to shallow-draft vessels only. The town persists on fishing and nostalgia. Some Amverela families maintain estates here specifically because it's unfashionable—a retreat from the sophistication of Constancias and the commerce of Mataojo. The pace of life in Puerto Carmele is slow even by high elf standards.",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1681",
@@ -24705,7 +24705,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A village in the eastern region whose name—\"sad mud\"—reflects its primary characteristic. The ground here is perpetually damp, the weather perpetually overcast, and the mood perpetually melancholic. The village exists because someone has to farm the rich bottomland soils, and the crops grown in sad mud are nutritious if joyless. Barro Triste has produced several notable Amverela poets, all writing extensively about rain, grey skies, and the weight of existence. Literary scholars consider this a ",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1682",
@@ -24719,7 +24719,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A small village in the agricultural interior, unremarkable except for its beans. Soya produces a particular variety of legume that grows nowhere else in Qintas, forming the basis of several traditional dishes. The village is proud of its beans. Visitors are expected to admire them.",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1683",
@@ -24733,7 +24733,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A village on the southern fringe, near the Ojos Goros forest. Valentinas exists in the forest's shadow—not quite within it, but close enough to feel watched. The villagers have adapted, conducting their lives with the awareness that something might be observing. They don't discuss the forest. They don't enter it. They pretend it isn't there. This works about as well as might be expected. ---",
       "parentEntryId": "1673",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1684",
@@ -24747,7 +24747,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "- **Sondoros wine**: Legendary, irreplaceable, and the source of Qintas's wealth and influence. Everyone wants it; only Qintas has it. - **Amverela society**: Long-lived elves who plan in centuries. Their patience is an advantage and a vulnerability—they sometimes fail to respond to fast-moving threats. - **Ojos Goros**: The watching forest. What's in there? The elves won't say. - **Buffer against Chaal Nazzerox**: If the undead break through Grustos, Qintas is next. The Amverela know this. Thei",
       "parentEntryId": "1670",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1685",
@@ -24764,7 +24764,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The Ramakemizi Mountains form the eastern boundary of Kadroka, separating the dragon-ruled savanna state from the Dalizi Confederation and Chechol beyond. They are Kadroka's lifeline—the only reliable route for external trade—and the reason the state has not been completely isolated by the Tytheri blockade.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1686",
@@ -24778,7 +24778,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Several routes cross the Ramakemizi: **The Sukinada Pass:** The primary trade route, connecting the Kadrokan city of Sukinada to Chechol. Wide enough for pack trains, maintained by both sides, and patrolled to discourage bandits. Most Kadrokan external trade flows through here. **The Lagasuki Route:** A secondary passage following the Lagasuki River valley. Less traveled, more difficult, but useful when the main pass is blocked by weather or politics. **Smaller Trails:** Numerous goat paths and ",
       "parentEntryId": "1685",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1687",
@@ -24792,7 +24792,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "With Bluesong Bay controlled by the Tytheri, the Ramakemizi passes are Kadroka's only connection to broader trade networks. Everything that enters or leaves the state by legitimate means crosses these mountains. This gives the eastern cities—particularly Sukinada—disproportionate influence. Control of the passes means control of trade, and control of trade means wealth and power. The relationship between Sukinada's merchant families and the dragon in Ponoigari is complex and occasionally tense.",
       "parentEntryId": "1685",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1688",
@@ -24806,7 +24806,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Beyond the mountains lies the Dalizi Confederation, a massive alliance of city-states that provides Kadroka's primary trading partners. Dalizi merchants are common in Sukinada; Kadrokan goods—particularly leather and cattle—are valued in Dalizi markets. Chechol, the nearest Dalizi territory, serves as an intermediary for much of this trade. The relationship is mutually beneficial: Kadroka gets access to goods they cannot produce; Dalizi gets products from the isolated western regions.",
       "parentEntryId": "1685",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1689",
@@ -24834,7 +24834,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The dragon Melekas understands the mountains' importance and maintains careful relationships with the powers that control the eastern approaches. The dragon cannot personally enforce anything beyond the foothills, but Kadrokan diplomacy ensures the passes remain open. Some in Sukinada wonder how long this arrangement will last—and what happens to Kadroka's trade when the dragon finally falls silent.",
       "parentEntryId": "1685",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1691",
@@ -24851,7 +24851,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Redreed Lake is a terminal lake in southern Tythikerys, fed by the Dutunimako River and ringed by distinctive reddish reeds. It serves as one of the few permanent water sources in the southern reaches of orc territory—and it sits uncomfortably close to the Agony Stones.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1692",
@@ -24865,7 +24865,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Redreed Lake lies roughly 15 miles north of the Agony Stones—close enough that the sympathy effect can sometimes be felt at the lakeside on bad days. The orcs report that the sensation is worse during certain seasons, possibly connected to whatever passes for the Dying One's biological rhythms. On these days, camping at the lake becomes unpleasant: headaches, joint pain, and disturbed sleep. The orcs simply move their camps further north and wait for the effect to pass. This proximity may explai",
       "parentEntryId": "1691",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1693",
@@ -24879,7 +24879,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "During the driest months, orc bands gather at Redreed Lake—one of the only reliable water sources in southern Tythikerys. The gatherings are not formal; different warbands simply end up in the same area when water becomes scarce elsewhere. These seasonal concentrations are the closest the Tytheri come to anything resembling a society beyond individual warbands. Disputes are settled. Information is exchanged. Thralls are traded. Tythmasters size up their rivals. Then the rains return, water becom",
       "parentEntryId": "1691",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1694",
@@ -24893,7 +24893,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Despite its proximity to the Agony Stones, the lake water shows no obvious supernatural properties. It doesn't cause sympathy pain when drunk. It doesn't spread the petrification curse. Whatever affects people near the Stones doesn't seem to transmit through the water. This may be because the Dutunimako River originates far from the Stones, carrying clean water into the basin. Or the lake may simply be far enough away that the effect doesn't reach. Or there may be something about water itself th",
       "parentEntryId": "1691",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1695",
@@ -24911,7 +24911,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The Royko River is the main drainage of the Kadroka-Tythikerys region, collecting waters from multiple tributaries and flowing southwest through orc territory to Bluesong Bay. It is the lifeline of Tytheri existence and a constant reminder to Kadrokans of what they cannot control.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1696",
@@ -24939,7 +24939,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "**From the North (Kadrokan territory):** - **Noara River**: The major northern tributary, flowing south through the Kadrokan heartland - **Molotai River**: Drains the Lonesome Lake region, joining the Royko system via the Hurikono - **Hurikono**: Stream system feeding the Molotai - **Sikuri River**: Southern tributary joining at the Bloodswamp",
       "parentEntryId": "1695",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1698",
@@ -24984,7 +24984,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The only reliable route through the Cowardly Mountains, connecting the western territories to the grasslands and forests of Central Aboyinzu. The name is either optimistic or ironic, depending on who you ask. The passage is safer than the alternatives—which says more about the alternatives than the passage itself.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1701",
@@ -24998,7 +24998,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Safeway Passage runs roughly twelve miles through the Cowardly Mountains' narrowest point. The path follows a river canyon for the first third, climbs through a series of switchbacks to a high saddle, then descends through rockfall-prone slopes to the eastern foothills above the Minas River. The passage is wide enough for wagons in most places, though several pinch points require careful navigation. Spring snowmelt makes the canyon section treacherous, and winter snows can close the upper re",
       "parentEntryId": "1700",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1702",
@@ -25012,7 +25012,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The fortress called Horan's Hut guards the eastern approach to the passage. Despite the diminutive name—a joke that stopped being funny generations ago—the fortification is substantial: thick walls, a defensible gate, and enough garrison space for a hundred soldiers. In practice, the garrison runs thirty to fifty depending on the season and the political situation in the surrounding territories. The fortress serves three purposes: **Tariff collection**: Every caravan passing through pays for the",
       "parentEntryId": "1700",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1703",
@@ -25026,7 +25026,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Every few years, someone proposes cutting a route through Luendrokrül instead. The forest crossing would be shorter, lower, and avoid the passage tariffs entirely. The proposals always fail. Survey expeditions don't return, or return without useful information. Workers sent to clear paths abandon the project within weeks. One attempt to establish a waystation in the forest's western edge ended when the entire work crew walked off the job simultaneously, unable to explain why but unanimous in the",
       "parentEntryId": "1700",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1704",
@@ -25057,7 +25057,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills within Chechol. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1706",
@@ -25074,7 +25074,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A region inhabited by satyrs in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1707",
@@ -25092,7 +25092,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Three hundred miles of dense woodland stretching from Falsehaven Bay to the Fyrsan Al Troikas mountains, and roughly seventy-five miles deep. This is Greater Satyr territory—not merely inhabited by them, but shaped by them over centuries of bloody ritual, caste warfare, and the strange music that echoes through every valley.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1708",
@@ -25120,7 +25120,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The satyrs who rule this forest are the Greater Satyr—warlike, disciplined, organized into a rigid caste system that determines everything from who leads war-bands to who may challenge whom. They stand a head taller than their lesser cousins, with larger horns and the muscular builds of creatures bred for combat. For Greater Satyr, war is not a necessity but a celebration. Battle is worship, conquest is joy, and the chaos of combat is the closest thing to religious ecstasy their culture recogniz",
       "parentEntryId": "1707",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1710",
@@ -25134,7 +25134,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Lesser Satyr exist at the margins of this society—feral, twitchy creatures who lack the discipline for the caste system and the size to challenge their greater cousins. Some serve as scouts and skirmishers for Greater Satyr war-bands, valued for their speed and their talent for spreading panic. Others have been cast out entirely, surviving in the deep forest or the borderlands where Greater Satyr patrols don't reach. The relationship between the two groups is complicated. Greater Satyr view ",
       "parentEntryId": "1707",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1711",
@@ -25148,7 +25148,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Sound defines Satyr Wood more than sight. Pipe-songs echo between the trees at all hours—territorial markers, warnings, invitations to parley, declarations of war. A trained ear can read the forest's political situation from the music alone: which war-bands are ascendant, which are feuding, where the boundaries lie. The Pipe-Lords use music as a weapon. Their songs can charm listeners into compliance, compel enemies to dance until they collapse, or drive prey into panicked flight directly toward",
       "parentEntryId": "1707",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1712",
@@ -25162,7 +25162,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Three lakes punctuate Satyr Wood, each serving as a ritual center for the surrounding territory: **Noso Lake** sits near the coast, fed by streams running down from the forest interior. The western shore touches the edge of Falsehaven Bay's coastal wetlands. This is where satyrs who deal with the outside world—rare as that is—conduct their business. The war-bands here are considered slightly tainted by contact with non-satyrs, but also more worldly and better supplied. **Pirison Lake** lies in t",
       "parentEntryId": "1707",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1713",
@@ -25190,7 +25190,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Satyr Wood is bounded by geography as much as by satyr choice. Falsehaven Bay to the west offers nothing worth taking. The Fyrsan Al Troikas mountains to the east are held by Spine Goblins—enemies the satyrs have fought for generations without either side gaining permanent advantage. The goblins can't take the forest; the satyrs can't take the mountains. The border is a bleeding wound that never heals, constant skirmishing that provides both sides with enemies to fight and glory to claim. To the",
       "parentEntryId": "1707",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1715",
@@ -25207,7 +25207,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Ruined castle within Grustos. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1716",
@@ -25224,7 +25224,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1717",
@@ -25241,7 +25241,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1718",
@@ -25258,7 +25258,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The main forest within Qintas, renowned for a strange grape-like fruit-producing vine that grows on the trees throughout the area. The wine made from this fruit is said to be fit for gods—so delicious that it has become legendary. Sondoros wine is highly prized and sought after by connoisseurs across Alaria.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1719",
@@ -25275,7 +25275,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A lake within Grustos. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1720",
@@ -25292,7 +25292,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A lake within Grustos. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1721",
@@ -25309,7 +25309,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1722",
@@ -25325,7 +25325,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Named after the beautiful, golden, luminant eagles that soar among the mountains. The Kryaaji sun elves train many of them for hunting and magical symbiosis.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1723",
@@ -25343,7 +25343,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A broad, slow-moving river marking the western boundary of Echem Yiakraxes, the Tasqh Evikkris is the only safe passage through the region—and \"safe\" is relative. The name comes from an indigenous Aboyinzan language, roughly translating to \"the watching water\" or \"water that sees.\" Locals claim the river has a spirit, and that spirit dislikes the Terrogones.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1724",
@@ -25357,7 +25357,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "For caravans, pilgrims, and anyone else who needs to transit the northwestern Deadloop region without crossing Terrogone territory, the Tasqh Evikkris is the only option. The river runs roughly north-south, fed by highland tributaries in the Anna P'Sue region and eventually emptying into the Deadloop's western reaches. Traffic stays close to the water. Flat-bottomed barges carry goods and passengers, poled along by crews who know the river's moods intimately. Portage points at rapids and shallow",
       "parentEntryId": "1723",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1725",
@@ -25371,7 +25371,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Terrogones don't hunt the riverbanks. They'll pursue prey to within a hundred yards of the water, then break off. They don't drink from the Tasqh Evikkris when other water sources are available. Family groups whose territories border the river treat it as a hard boundary, not contested ground. **Theories:** - **The current.** The Tasqh Evikkris runs deceptively fast beneath its calm surface. Terrogones are powerful but not buoyant; several have drowned attempting to cross. - **The spirit.** ",
       "parentEntryId": "1723",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1726",
@@ -25385,7 +25385,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Murky brown water, fifty to eighty yards wide in most stretches, deepening to thirty feet in the main channel. The current looks gentle from shore but pulls hard once you're in it. The banks are muddy, thick with reeds and low scrub—the only significant vegetation in this part of Echem Yiakraxes. Wildlife congregates here in stark contrast to the barren plains. Wading birds, small mammals, fish visible in the shallows when the sun hits right. Crocodilian predators (called *krisev* locally) patro",
       "parentEntryId": "1723",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1727",
@@ -25399,7 +25399,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Permanent settlements are rare—the Terrogone proximity makes large populations unwise. Instead, a network of semi-permanent camps serves travelers: - **Portage stations** at rapids and sandbars, where goods transfer between barges - **Wayhouses** offering food, shelter, and local knowledge (for a price) - **Shrine-keepers** who maintain the old worship sites and claim to speak for the river spirit - **Guides** who know the territory east of the river, for those foolish enough to hire them",
       "parentEntryId": "1723",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1728",
@@ -25431,7 +25431,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state at the heart of Mikisapi Forest, built around an ancient grove that the trees have never reclaimed. Tenches controls the only safe maritime route between Central Aboyinzu and the South Sea, and has parlayed that position into wealth, influence, and careful neutrality.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1730",
@@ -25459,7 +25459,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "At Tenches' center stands a ring of seven trees so massive they dwarf everything around them. These are the Heartwood—trees that predate the forest itself, their trunks wider than houses, their canopy spreading over the council halls below. The Grove Council claims to interpret the will of the Heartwood through dreams, omens, and direct communion. Whether the trees actually communicate is debated by outsiders and believed absolutely by locals. What's certain is that decisions attributed to the H",
       "parentEntryId": "1729",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1732",
@@ -25487,7 +25487,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Tenches refuses to take sides in regional conflicts. The Grove Council hosts negotiations, shelters refugees (for appropriate fees), and maintains diplomatic relations with every power in the region—including those at war with each other. This neutrality is enforced absolutely. Violence within city limits results in immediate judgment: exile, imprisonment, or death depending on severity. The guilty party's faction is held collectively responsible—if a Chechol soldier starts a fight, Chechol pays",
       "parentEntryId": "1729",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1734",
@@ -25532,7 +25532,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1737",
@@ -25549,7 +25549,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A mountain range in Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1738",
@@ -25567,7 +25567,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Tythikerys is a vast stretch of arid scrubland in southwestern Central Aboyinzu, homeland of the Tytheri blood orcs. The region is largely empty of permanent settlement—the orcs are raiders and harvesters, not builders—but it serves a crucial strategic purpose: it separates Kadroka from the coast, landlocking the dragon-ruled state and denying it maritime trade.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1739",
@@ -25581,7 +25581,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Royko River is the region's main water artery, flowing southwest from the Bloodswamp through Tytheri territory to Bluesong Bay. The river and its tributaries (Sikuri, Dutunimako) provide the only reliable year-round water in the region. Tytheri camps cluster near the river, moving seasonally to follow water and prey. The orcs have no permanent settlements on the Royko—or anywhere else—but certain traditional camping grounds are used generation after generation.",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1740",
@@ -25595,7 +25595,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Tytheri are not a nation in any conventional sense. They are a raiding culture sustained by addiction. Generations ago, the orcs discovered the Agony Ichor—the weeping fluid of the Dying One that lies at the heart of the Agony Stones. They learned to harvest it, process it, and consume it in rituals that grant strength, pain resistance, and the bleached-white skin that marks their kind. But the Ichor exacts a price. Long-term consumption deadens emotion until violence is the only sensation t",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1741",
@@ -25609,7 +25609,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "**Tythmasters**: Orcs fed the richest concentrations of Ichor grow to enormous size—ten feet or taller—and lead through raw physical dominance. Each warband follows a Tythmaster, and the Tythmasters loosely coordinate through tradition and mutual self-interest rather than formal hierarchy. **Harvesters**: Specialized orcs who approach the Agony Stones to collect Ichor. This is dangerous work—the sympathy pain of the Dying One affects even the hardened Tytheri—but it is also prestigious. Harveste",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1742",
@@ -25623,7 +25623,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Tytheri raids follow seasonal patterns: **Dry Season**: Peak raiding activity. The orcs range far into Kadrokan territory, striking isolated settlements and herding camps. Kadrokan border patrols are spread thin trying to cover all possible approach routes. **Wet Season**: Reduced activity. Flooding along the Royko and its tributaries makes movement difficult, and the orcs focus on internal matters—Ichor processing, thrall management, resolving disputes between warbands. **Harvest Periods**: Sev",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1743",
@@ -25637,7 +25637,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Outsiders sometimes wonder why the Tytheri control such vast territory when they barely use it. The answer is simple: denial. As long as the Tytheri hold the coastal approaches and the land around the Agony Stones, Kadroka cannot access the sea and cannot threaten the Ichor supply. The empty scrubland is a buffer zone, a killing ground for any Kadrokan force that tries to push through. The orcs don't need to build cities. They just need to make sure no one else does either.",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1744",
@@ -25651,7 +25651,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Agony Stones dominate the southern portion of Tythikerys—forty miles east to west, twenty miles north to south of contorted, branching stone formations. Even the Tytheri approach with caution. Harvesting parties know specific routes and timing that minimize exposure to the sympathy pain. They collect Ichor from the outer formations only—no orc goes deep into the Stones. The Harvesters have traditional knowledge passed down through generations: which paths are safer, how long you can stay, wh",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1745",
@@ -25665,7 +25665,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The southwestern coast of Tythikerys is dominated by the Mumbling Forest, a dense woodland that most Tytheri avoid. The forest gets its name from the constant low sound that pervades it—not quite voices, not quite wind, but something in between. Whatever lives in the Mumbling Forest, it does not bother the orcs and the orcs do not bother it. A tacit understanding exists: the forest is not Tytheri territory, regardless of what maps might suggest.",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1746",
@@ -25679,7 +25679,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "In the southern reaches of Tythikerys, the Dutunimako River feeds into Redreed Lake—a terminal lake with no outlet. The water is brackish and the reeds that ring it grow with a distinctive reddish tinge (possibly from mineral content, possibly from something else). The lake is one of the few permanent water sources in southern Tythikerys, and orc camps gather there during the driest months. It is also uncomfortably close to the Agony Stones—close enough that the sympathy effect can sometimes be ",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1747",
@@ -25693,7 +25693,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Outsiders who enter Tytheri territory face three threats: 1. **The Orcs**: Obviously. Small parties will be hunted. Larger parties will be watched and harassed until they leave or die. 2. **The Land**: Harsh terrain with limited water. Navigation is difficult. The orcs know every water source; outsiders do not. 3. **The Stones**: Anyone approaching the Agony Stones faces the same dangers as the orcs—sympathy pain, petrification risk, dream invasion—without the traditional knowledge that makes su",
       "parentEntryId": "1738",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1748",
@@ -25710,7 +25710,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A sea bordering Central Aboyinzu. TODO",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1749",
@@ -25728,7 +25728,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The Valley of the Witches is a secluded vale in the Morygun Mountains, east of Korgül and northwest of Phaerhom. Its name is earned: the valley is home to a coven of powerful witches who have claimed it for generations, and they do not welcome visitors.",
       "parentEntryId": "1475",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1750",
@@ -25742,7 +25742,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The witches of the Valley are not a unified organization but a loose community of practitioners who share the space and certain traditions. Their magic draws on various sources—some use fae connections, others tap darker powers, a few practice stranger arts that defy classification. What unites them is territoriality. The Valley is theirs. Anyone who enters uninvited faces consequences ranging from misdirection (being magically guided out) to curses (being turned into something unpleasant) to de",
       "parentEntryId": "1749",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1751",
@@ -25756,7 +25756,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Finding the Valley of the Witches is itself a challenge. The entrance pass is hidden by illusion, misdirection, and the natural confusion of mountain terrain. Travelers searching for it often walk in circles for days before giving up or stumbling through by accident. Those who do find the entrance face a choice: retreat immediately, or proceed and accept whatever consequences the witches impose. The coven has been known to accept certain visitors—those seeking specific knowledge, those willing t",
       "parentEntryId": "1749",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1752",
@@ -25770,7 +25770,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The witches of the Valley possess knowledge that cannot be found elsewhere. Some specialize in curses and their removal. Others know secrets of transformation, prophecy, or death. A few have studied the Agony Stones from afar and understand more about the Dying One than any lowland scholar. For adventurers desperate enough to seek the Valley, the witches can be invaluable allies—if the price is acceptable. And the price is always terrible.",
       "parentEntryId": "1749",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1753",
@@ -25784,7 +25784,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Valley of the Witches lies beyond Kadrokan territory, in the wild mountains where Melekas's authority does not reach. The dragon knows the witches exist but has never attempted to project power into their domain. Whether this is practical recognition of limits or the result of some past negotiation is unknown. Kadrokan travelers are warned away from the Valley. Most take the warning seriously.",
       "parentEntryId": "1749",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1754",
@@ -25798,7 +25798,7 @@
       "suggestedZoomLevel": 2,
       "contentPreview": "",
       "parentEntryId": "1388",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1755",
@@ -25840,7 +25840,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Wanderlands have no permanent settlements for good reason: - **The North** is cursed. Donclik's Curse prevents anyone from staying on the peninsula or its surrounding waters for more than a few days without being drawn to drown. - **The West** borders Echem Yiakraxes—Terrogone killing grounds that no sane person crosses. - **The East** belongs to Ziru and the ancient Dragonsong forests. The dragon tolerates no intrusion near Dragon's Gate. - **The Center** (Grendenheim) is the only area wher",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1758",
@@ -25854,7 +25854,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The South Sea lies to the west of the Elderwilds and north of the Wanderlands peninsula. This body of water separates the Wanderlands/Elderwilds region from the eastern Shacklands. The peninsula's position could make it a crucial waypoint for maritime traffic—if not for the curse, the dragon, and the Terrogones.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1759",
@@ -25871,7 +25871,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A hill range in the Wanderlands. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1760",
@@ -25888,7 +25888,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest within the Dragonsong region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1761",
@@ -25907,7 +25907,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A windswept finger of land extending north into Donclik Sound, notable primarily for being uninhabitable. The peninsula and surrounding waters are afflicted by Donclik's Curse—a supernatural compulsion that draws anyone who stays too long into the sea.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1762",
@@ -25921,7 +25921,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Three centuries ago, the pirate queen Serisa ruled these waters through a bargain with a kraken-matriarch of the South Sea. When her heir broke that bargain, the dying creature cursed the entire peninsula. **The Call:** After two or three days on the peninsula, you begin to hear the sea. Not the normal sound of waves—a voice, just below hearing, pulling at your attention. After a week, the pull becomes physical. You find yourself walking toward the water without deciding to. After a month, most ",
       "parentEntryId": "1761",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1763",
@@ -25935,7 +25935,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "- **Short visits are safe.** Treasure hunters and explorers can work the peninsula if they're disciplined about timing. Three days is the rule of thumb. Five days if you're lucky. A week is pushing it. - **Permanent settlement is impossible.** Every attempt has ended the same way: a thriving community that slowly, inexorably walks into the sea. The ruins of fishing villages dot the coastline—structures perfectly intact, no signs of violence, just empty. - **The curse can be resisted** with enoug",
       "parentEntryId": "1761",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1764",
@@ -25949,7 +25949,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The original contract between Serisa and the kraken-matriarch still exists, somewhere in the flooded lower levels of Serisa's Palace on the northern islands. Scholars believe the bargain can be fulfilled, renegotiated, or formally nullified—but doing any of those requires reaching the palace, dealing with whatever still lives there, and reading a language no living person understands.",
       "parentEntryId": "1761",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1765",
@@ -25996,7 +25996,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A large bay on the northern edge of the Wanderlands, bounded by the Donclik Peninsula to the east and the mainland coast to the west. The waters are cursed—anything living that spends too long in contact with them becomes drawn to drown.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1768",
@@ -26010,7 +26010,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The waters of Donclik Sound carry Donclik's Curse. Three centuries ago, a dying kraken-matriarch poured her essence into the sound as a final act of vengeance against the humans who had betrayed her. That essence never dissipated. Drinking the water accelerates the curse's effects. Eating fish from the sound does the same. Even breathing the salt spray for extended periods will mark you. Sailors who must cross the sound do so quickly, with sealed water supplies, eating only preserved food brough",
       "parentEntryId": "1767",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1769",
@@ -26057,7 +26057,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A massive natural stone arch rising from the Sonagrev hills in eastern Dragonsong. The arch spans nearly two hundred feet at its apex and hums with a low, subsonic resonance audible from miles away—the same tone that gives the Dragonsong region its name.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1772",
@@ -26071,7 +26071,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Local legends claim the first dragon arrived through Dragon's Gate, stepping from somewhere else entirely. The stone itself vibrates at a frequency that sets teeth on edge and makes campfires gutter. Scholars who've studied it from safe distances believe the arch is a dormant portal—a doorway to somewhere that has been sealed for millennia. Whatever passage it once offered is closed. But it still hums. Still waits.",
       "parentEntryId": "1771",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1773",
@@ -26085,7 +26085,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The dragon Ziru considers Dragon's Gate sacred and destroys anyone who approaches without her explicit permission. The Sonagrev hills surrounding the arch are littered with the bones of the curious—hence the name, which translates loosely to \"song-graves\" in Old Aboyinzan. But Ziru doesn't guard the arch to protect it. She guards it to prevent anything from coming *through*. Those few who've spoken with Ziru and survived report that she never explains what she's watching for. She simply says the",
       "parentEntryId": "1771",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1774",
@@ -26130,7 +26130,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A mystical region known for its ancient forests and the presence of the dragon Ziru. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1777",
@@ -26148,7 +26148,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Rolling moorlands in the Wanderlands. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1778",
@@ -26165,7 +26165,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A low range of hills in central Grendenheim, marking the transition between the open meadowlands and the Dragonsong forest to the east.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1779",
@@ -26211,7 +26211,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A shallow inlet extending south from Donclik Sound, separating the Donclik Peninsula from the Wanderlands mainland. Unlike the strategic straits found elsewhere in Alaria, Grendel Inlet is a dead-end waterway of little practical use.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1782",
@@ -26225,7 +26225,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "In theory, an inlet connecting the sound to the interior could be valuable. In practice, Grendel Inlet offers nothing: - **No through-passage.** It's a dead end, not a strait. Ships that enter must turn around and leave the same way. - **No deep water.** The shallows prevent any serious maritime traffic. - **Cursed waters.** Like the rest of Donclik Sound, the inlet carries the curse. Extended exposure marks you. - **Nothing at the far end.** The inlet terminates in the marshes of Krinea Mikea—n",
       "parentEntryId": "1781",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1783",
@@ -26256,7 +26256,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Pastoral plains and meadows region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1785",
@@ -26273,7 +26273,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills within the Grendenheim region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1786",
@@ -26290,7 +26290,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A marsh in the Wanderlands. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1787",
@@ -26307,7 +26307,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest within the Dragonsong region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1788",
@@ -26324,7 +26324,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest within the Dragonsong region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1789",
@@ -26344,7 +26344,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The crumbling fortress of a pirate queen who made a bargain with the deep—and whose heir broke it.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1790",
@@ -26358,7 +26358,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Serisa was a naval warlord who controlled Donclik Sound three centuries ago. Her fleet dominated the waters between Aboyinzu and the South Sea, extracting tribute from every ship that passed. She built her palace on the northern islands to watch the sea lanes and to be close to the source of her power. That source wasn't her ships. It was something in the deep water.",
       "parentEntryId": "1789",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1791",
@@ -26372,7 +26372,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Serisa made a deal with a **kraken-matriarch**—one of the great cephalopods that rule the abyssal trenches of the South Sea. The creature's spawn would wreck any ship Serisa marked for destruction, and in exchange, Serisa would deliver a tithe: one in ten of every crew her fleet captured, thrown living into the deep. For decades, this arrangement made her untouchable. Rivals who challenged her found their fleets dragged under by things they couldn't fight. Serisa grew wealthy, powerful, and fear",
       "parentEntryId": "1789",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1792",
@@ -26386,7 +26386,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Serisa grew old and her heir refused to continue the tithe. When Serisa died, her daughter Mariselle tried to renegotiate—offering gold, offering ships, offering anything but living flesh. The kraken-matriarch didn't negotiate. It pulled the palace into the sea, killing everyone inside, and laid a curse on the entire peninsula: anyone who stays too long will belong to the deep. This curse—Donclik's Curse—still affects the region today.",
       "parentEntryId": "1789",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1793",
@@ -26459,7 +26459,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills within the Grendenheim region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1798",
@@ -26476,7 +26476,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Hills within the Dragonsong region, home to Dragon's Gate. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1799",
@@ -26496,7 +26496,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A network of deep gorges cutting through the western Wanderlands peninsula, connecting to the sea and flooding violently with each high tide.",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1800",
@@ -26510,7 +26510,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Troughs are narrow canyons—some barely twenty feet wide, others spanning a hundred—carved into the peninsula's rocky western edge. At low tide, they're explorable: winding stone corridors with exposed cave systems, tidal pools, and whatever the South Sea has deposited over centuries. At high tide, they become death traps. Walls of seawater rush through the narrow channels with enough force to pulverize anything caught inside. The tide tables are life-or-death knowledge here. Experienced scav",
       "parentEntryId": "1799",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1801",
@@ -26524,7 +26524,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Troughs act as a natural filter for everything the South Sea carries: shipwrecks break apart on the rocky approaches and their cargo washes into the gorges. Flotsam from a thousand vessels accumulates in the deeper chambers—trade goods, weapons, coin, and occasionally things better left on the ocean floor. The most valuable finds come from the **bone caves**: chambers too deep for casual exploration, accessible only during the lowest tides of the year. These caves contain the compressed rema",
       "parentEntryId": "1799",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1802",
@@ -26538,7 +26538,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A loose community of scavengers works the Troughs during safe seasons—mostly halflings comfortable with tight spaces and quick escapes, plus the occasional desperate fortune-seeker. They've developed informal rules: - **Claim stakes** mark active salvage. Violating another's stake invites violence. - **High chambers** (above the tide line) are communal territory for rest and trade. - **Storm warnings** are shared freely. Even rivals want witnesses to their deaths. - **The deep caves** are first-",
       "parentEntryId": "1799",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1803",
@@ -26583,7 +26583,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A dragon dwelling in the Dragonsong region. TODO",
       "parentEntryId": "1754",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1806",
@@ -26597,7 +26597,7 @@
       "suggestedZoomLevel": 2,
       "contentPreview": "",
       "parentEntryId": "1388",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1807",
@@ -26639,7 +26639,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Three points of interest across 340,000 square miles. The Elder Wilds are not frontier waiting for settlement—they are wilderness that refuses habitation. The beasts here are simply not worth the cost. Forty-foot apes roam the Apelands, territorial and violent. Pterodactyls hunt from the Archfalls. Water hags lurk in the river systems. Brain-eating amoebae infest the pools. Shadow hounds stalk the blue ruins of Everlong. The flooded Aphenlein forests can't support permanent structures—the moats ",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1810",
@@ -26653,7 +26653,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Elder Wilds form a natural barrier between the Wanderlands to the west and the Dalizi Highlands to the south. The South Sea provides water access to both the Wanderlands and the distant Shacklands across the strait. An astral current crosses the region diagonally, but with no settlements along its route, it sees virtually no traffic. ---",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1811",
@@ -26667,7 +26667,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Scattered throughout the Elder Wilds—from the Apelands in the north to the edges of the Dalizi Highlands in the south—stand the Anchor Trees. These colossal individuals dwarf even the ancient rainforest canopy, rising three hundred feet or more, their trunks so massive that small communities could live within hollowed sections.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1812",
@@ -26681,7 +26681,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "When the Ezz Rift flooded Alaria with Melera's music 120 million years ago, the titans experienced emotion for the first time. For beings of pure Deoric order, this contact with raw feeling was unbearable agony. Many killed themselves. Others fled to distant planar stacks. Those who died in the Elder Wilds were buried by the druids—the only beings who could safely handle titan remains while channeling Faesong to bind the cosmic energies. Where druids sang titan corpses into the earth, the Anchor",
       "parentEntryId": "1811",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1813",
@@ -26695,7 +26695,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Anchor Trees are aware. Not individually intelligent—each tree is no more sentient than any ancient oak—but together they form a slow, distributed consciousness. They communicate across decades through root networks and spore dispersal. They remember fragments of the titans they anchor: impressions of an age before emotion, echoes of Deoric speech, the traumatic flood of feeling that ended everything. Druids can sometimes perceive this collective awareness. Faesong practitioners hear it as a",
       "parentEntryId": "1811",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1814",
@@ -26709,7 +26709,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Dotted throughout the Elder Wilds are the remnants of an ancient civilization—step pyramids swallowed by jungle, stone faces worn smooth by millennia of rain, processional ways now choked with strangler figs. These are the ruins of the **Shemazari**, a kingdom that flourished during the early Third Eon before vanishing without historical record.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1815",
@@ -26737,7 +26737,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "No one knows. The Shemazari left no decipherable writing, no clear descendants, no legend of their fall. Scholars have proposed plague, internal war, ecological collapse, or magical catastrophe. The Gamori of L'Coth D'hari claim the Shemazari \"went into the trees\"—whether this is metaphor, myth, or literal truth is unclear. Some adventurers note that the oldest Anchor Trees often stand near Shemazari sites. Whether the Shemazari worshipped the trees, tended them, or were destroyed by them remain",
       "parentEntryId": "1814",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1817",
@@ -26751,7 +26751,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The northern peninsula of the Elder Wilds—a multi-lobed landmass of dense jungle surrounded by the South Sea. L'Coth D'hari is the territory of the **Gamori**, an elven people obsessed with death, transformation, and the sacred hunt.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1818",
@@ -26765,7 +26765,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "L'Coth D'hari functions as a loose republic. Multiple Gamori communities exist throughout the peninsula, each with elected leadership. These leaders gather at **Eriyen** to make decisions affecting the whole territory. The Gamori are elves who have developed a culture centered on: - **Death and rebirth cycles** — They view death not as an ending but as transformation - **Body modification** — Scarification, bone-shaping, implants of natural materials - **Sacred hunting** — Rituals involving the ",
       "parentEntryId": "1817",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1819",
@@ -26779,7 +26779,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The closest thing L'Coth D'hari has to a capital—though \"gathering place\" is more accurate than \"city.\" Eriyen sits in the western lobe near Breathless Bay. Here the elected leaders convene during significant moments: disputes between communities, external threats, or decisions about outsiders seeking passage. Eriyen itself is less a permanent settlement than a ceremonial ground with temporary structures that appear and disappear with the political calendar.",
       "parentEntryId": "1817",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1820",
@@ -26793,7 +26793,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "In the interior of L'Coth D'hari, away from the coasts and the Gamori communities, lies **Thorne**—the domain of a druid who has dwelt in the Elder Wilds since before the Gamori arrived. Thorne (both the place and the being who inhabits it) is not exactly evil, but operates by principles that most mortals find disturbing. The druid Thorne is ancient, immortal in the way of greater elves, and has pursued a path that diverged from traditional Faesong practice long ago. Some whisper of bargains wit",
       "parentEntryId": "1817",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1821",
@@ -26807,7 +26807,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "South of L'Coth D'hari, across Farthing Inlet, lies a stretch of rainforest dominated by its most dangerous inhabitants: the great apes. These are not ordinary primates. The apes of the Apelands stand forty feet tall, covered in dark fur, possessed of terrifying strength and violent territorial instincts. They roam the forest in loose bands, battling each other for dominance, and killing anything they perceive as a threat. No one has successfully studied them. Expeditions that enter the Apelands",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1822",
@@ -26821,7 +26821,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The forest west of the Apelands and north of Seyiy takes its name from its dominant tree species—the bloodwood, a hardwood with deep red heartwood that bleeds crimson sap when cut. Bloodwood timber is extraordinarily valuable: - Rot-resistant even in the wettest conditions - Fire-resistant to temperatures that would char ordinary wood - Beautiful when finished, with rich red grain patterns",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1823",
@@ -26835,7 +26835,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The central highlands of the Elder Wilds—a dramatic region of hills, waterfalls, and treacherous terrain. Seyiy rises from the surrounding lowland jungle like a rumpled blanket, its rivers carving deep valleys and plunging over cliff faces.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1824",
@@ -26863,7 +26863,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "From Seyiy's heights, water drains in three directions: - **North** — Three major rivers flow north through Bloodwood to empty into Farthing Inlet - **West** — Numerous rivers descend through North Aphenlein and Aphenlein to Thrumbling Bay - **East** — The Saploeth River and its tributaries flow through Bygos Shemazari to the eastern coast These rivers are the only practical highways through the Elder Wilds. Overland travel through the jungle is nearly impossible; the rivers offer routes—difficu",
       "parentEntryId": "1823",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1826",
@@ -26877,7 +26877,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "In the southern reaches of Seyiy lies the Archfalls—a maze of waterfalls, ancient stonework, and death. Moss-covered stone arches span the cascades, creating a labyrinth of spray and crumbling masonry. The origin of these arches is unknown; they predate the Shemazari and may be titan-era construction. Whatever purpose they once served has been forgotten. Now they serve as perches for pterodactyls, hunting grounds for water hags, and graves for the unwary. The water here harbors brain-eating amoe",
       "parentEntryId": "1823",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1827",
@@ -26891,7 +26891,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "North of the Archfalls, built beneath massive waterfalls, sits the city of Urzula—the only significant settlement in the Elder Wilds outside L'Coth D'hari. Urzula clings to cliff faces and occupies caves behind the falling water. Climbers hang from ropes, harvesting the plants that grow in the perpetual mist—rare herbs, medicinal mosses, bioluminescent fungi. The city is accessible only by dangerous climbing routes or by navigating the treacherous rivers. Beneath modern Urzula lie the ruins of a",
       "parentEntryId": "1823",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1828",
@@ -26905,7 +26905,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "West of Seyiy, descending toward Thrumbling Bay, the terrain flattens dramatically. Here the Elder Wilds transform into something different: the Aphenlein forests, where the jungle becomes as much water as land.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1829",
@@ -26919,7 +26919,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The transitional zone between Seyiy's hills and the true Aphenlein. Rivers from the highlands spread and slow here, beginning the process of flooding that defines the region. The forest is dense but navigable; the water channels are not yet the impassable moats of the southern reaches.",
       "parentEntryId": "1828",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1830",
@@ -26933,7 +26933,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "True Aphenlein is flat, flooded jungle. Slow-moving rivers weave between ancient trees, their waters forming moat-like channels that separate islands of raised ground. During the dry season, the moats are chest-deep. During the wet season, they rise overhead. Travel here is exclusively by canoe or raft. Walking means wading—or swimming. The trees have adapted to permanent flooding: aerial root systems arch above the water, floating seed pods drift on the current, bioluminescent fungi cling to su",
       "parentEntryId": "1828",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1831",
@@ -26947,7 +26947,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The eastern rainforest of the Elder Wilds—\"Old Shemazari\" in corrupted local usage, and the region where the ancient Shemazari civilization likely centered. The jungle here is dense but punctuated by ruins. Step pyramids rise from the canopy, visible from the eastern coast. Stone faces peer from cliff sides along the Saploeth River. Underground chambers—most collapsed or flooded—honeycomb the ground beneath the forest floor. Modern interest in Bygos Shemazari is limited by its inaccessibility. T",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1832",
@@ -26961,7 +26961,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The coastal lowlands southeast of Seyiy, where the Elder Wilds meet the Slumbering Abyss. The Runeglades flood every year. When the seasonal rains come and the rivers swell, the entire region becomes a shallow inland sea. The jungle here has adapted—trees with stilt roots, floating vegetation mats, wildlife that migrates vertically rather than horizontally. And the dolphins come. Swimming up from the ocean, pods of freshwater dolphins navigate the flooded forest, hunting fish driven from the dee",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1833",
@@ -26975,7 +26975,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The southern forest, between the Aphenlein system and the Dalizi Highlands. Kidwood is less dramatic than the northern regions—standard rainforest without the flooding of Aphenlein or the hills of Seyiy—but it serves as a transition zone where the Elder Wilds begin to give way to the different character of the Dalizi. The Frosnos River flows through Kidwood, one of the primary waterways connecting the interior to the southern coast. Small Shemazari ruins dot the forest, but none of the major pyr",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1834",
@@ -26989,7 +26989,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The southeastern hills, between Kidwood and the coast. Lemru Nymor represents the last of the Elder Wilds before the terrain rises toward the Dalizi Highlands. The forest here is thinner, the hills more pronounced, the climate drier. Anchor Trees are rare in Lemru Nymor—only a handful stand in the hills, suggesting that fewer titans died or were buried in this region. ---",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1835",
@@ -27003,7 +27003,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "In the northeast of the Elder Wilds, where three Anchor Trees stand in unusual proximity, dwells **Minori Ezag**—an ancient druid of extreme power and questionable sanity. Minori Ezag climbs between trees like a primate, moving through the canopy with unsettling speed and grace. Their age is unclear but certainly measured in centuries; their gender is ambiguous or perhaps irrelevant. They have lived among the Anchor Trees for so long that some speculate they've become attuned to the collective c",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1836",
@@ -27017,7 +27017,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The bay on the western coast where the rivers of Aphenlein empty into the South Sea. Thrumbling Bay earned its name from the sound—the constant low rumble of water flowing from dozens of river mouths, creating a background noise that visitors describe as both soothing and unsettling. The bay itself is shallow, the water brown with silt, the coastline a maze of river deltas and mangrove-like vegetation. This is not a natural harbor—ships cannot easily approach, and there's nothing to approach for",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1837",
@@ -27031,7 +27031,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Blue ruins, huge crumbling walls, labyrinthine. The stone itself carries a faint azure tint—some mineral in the original construction, or perhaps staining from the blue and black lotus flowers that grow throughout the ruins. Everlong predates the Shemazari. Its builders are unknown. Its original purpose is lost. What remains are walls that seem to extend forever, turning and twisting in patterns that may once have had meaning. An onyx crystal of significant size and unknown purpose lies somewher",
       "parentEntryId": "1836",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1838",
@@ -27045,7 +27045,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "An ancient, eerily silent expanse of the Elder Wilds where reality bends and time becomes a tangible force. The Forest of Statues is the site of **The Stillness**—a permanent Izzus (time) breach that has existed since the Lost Ages, creating one of the most dangerous and mysterious locations in Alaria.",
       "parentEntryId": "1836",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1839",
@@ -27059,7 +27059,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Within the forest, time flows in deeply inconsistent patterns. The breach itself is not localized to a single point but pervades the entire forest region, creating zones of accelerated, decelerated, and frozen time. Those who venture into the forest without understanding its nature face a horrifying fate: they slow down progressively, their movements becoming increasingly sluggish until they effectively become stone-like—frozen in moments that stretch for centuries from the outside world, yet fe",
       "parentEntryId": "1838",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1840",
@@ -27073,7 +27073,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Over centuries, a society of witches and hags has learned to navigate The Stillness and exploit its power. These **time witches** possess an innate understanding of temporal flow—a gift or curse that allows them to move within the breach as others move through normal space. To outsiders, they appear to move impossibly fast, blurring between moments. They inhabit the forest and guard its secrets jealously. The time witches have become custodians of a unique form of power: **time stones**—artifact",
       "parentEntryId": "1838",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1841",
@@ -27087,7 +27087,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Among the time witches, **Ciri** stands out as a legendary figure—ancient, powerful, and possessor of one of the most potent time stones. She is said to have lived through multiple centuries of subjective experience while only decades passed in the outside world. Ciri has been known to accept capable and determined travelers as students, teaching them to navigate The Stillness and understand temporal magic. However, her price is steep: she demands a piece of her student's soul—a literal fragment",
       "parentEntryId": "1838",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1842",
@@ -27105,7 +27105,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1843",
@@ -27122,7 +27122,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1844",
@@ -27136,7 +27136,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The northern portion of Aphenlein. TODO",
       "parentEntryId": "1843",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1845",
@@ -27154,7 +27154,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1846",
@@ -27171,7 +27171,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A bay in L'Coth D'Hari. TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1847",
@@ -27189,7 +27189,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1848",
@@ -27207,7 +27207,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The primary gathering place of the Gamori republic in L'Coth D'hari. More ceremonial ground than city—where elected leaders convene during significant moments. See: [Elder Wilds - Eriyen](_intro.md#eriyen)",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1849",
@@ -27224,7 +27224,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1850",
@@ -27241,7 +27241,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1851",
@@ -27259,7 +27259,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1852",
@@ -27277,7 +27277,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The northern peninsula of the Elder Wilds—a multi-lobed landmass of dense jungle surrounded by the South Sea. Territory of the **Gamori**, an elven people obsessed with death, transformation, and the sacred hunt. L'Coth D'hari functions as a loose republic with multiple communities and elected leadership. The Gamori consider the Elder Wilds their hunting grounds and rarely welcome outsiders.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1853",
@@ -27291,7 +27291,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "- **Eriyen** — The primary gathering place of the republic - **Thorne** — Domain of an ancient druid who predates the Gamori - **Breathless Bay** — Western inlet, fog-shrouded and still - **Paradise Inlet** — Central waterway dividing the main lobes - **Farthing Inlet** — Southern boundary with the Apelands",
       "parentEntryId": "1852",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1854",
@@ -27308,7 +27308,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1855",
@@ -27325,7 +27325,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The territory of an ancient, powerful, and thoroughly insane druid in the northeastern Elder Wilds. Three Anchor Trees stand in unusual proximity here—the only place in the region where multiple Anchor Trees grow so close together. See: [Elder Wilds - Minori Ezag](_intro.md#minori-ezag) | [Minori Ezag (NPC)](../../history_and_lore/dramatis_personae/Minori%20Ezag.md)",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1856",
@@ -27342,7 +27342,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The northern portion of Aphenlein. TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1857",
@@ -27359,7 +27359,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "An inlet in L'Coth D'Hari. TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1858",
@@ -27376,7 +27376,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Floods every year. Dolphins swim up from the ocean.",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1859",
@@ -27393,7 +27393,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1860",
@@ -27410,7 +27410,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1861",
@@ -27427,7 +27427,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A region in the interior of L'Coth D'hari where an ancient druid of the same name has dwelt since before the Gamori arrived. The grove is a place where the forest has become alien—plants move with purpose, animals watch with intelligence, and visitors lose memory of their passage. See: [Elder Wilds - Thorne](_intro.md#thorne) | [Thorne (NPC)](../../history_and_lore/dramatis_personae/Thorne.md)",
       "parentEntryId": "1806",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1862",
@@ -27441,7 +27441,7 @@
       "suggestedZoomLevel": 2,
       "contentPreview": "",
       "parentEntryId": "1388",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1863",
@@ -27455,7 +27455,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1864",
@@ -27469,7 +27469,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A massive confederation of states occupying the territory **mostly northwest, and also west/southwest** of Lake Tonactlet Chipe. This is a political entity—a collection of allied or federated states sharing cultural and economic ties. The confederation represents one of the largest political bodies in southern Aboyinzu.",
       "parentEntryId": "1863",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1865",
@@ -27483,7 +27483,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A mountainous highland region positioned **north and northeast** of Lake Tonactlet Chipe. This is a geographic designation referring to the elevated, rugged terrain east of the main confederation. The Highlands are characterized by peaks, valleys, and difficult terrain.",
       "parentEntryId": "1863",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1866",
@@ -27511,7 +27511,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The defining geographic feature of the region—a massive freshwater lake roughly 80 miles long and 40 miles wide at its broadest point. The lake serves as the boundary marker between the Dalizi Confederation (to its west/northwest/southwest) and the Dalizi Highlands (to its north/northeast). Lake Tonactlet Chipe is the economic heart of the Confederation. Its waters teem with fish; its shores produce freshwater pearls; its depths contain mineral deposits that divers harvest at considerable risk. ",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1868",
@@ -27525,7 +27525,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A massive ancient forest stretches east of the Dalizi Confederation, between the confederation proper and the Elder Wilds. This wilderness is home to numerous leyline intersections and ancient powers.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1869",
@@ -27539,7 +27539,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A lake within the eastern forest, positioned on a force leyline near where it intersects with a void leyline. The convergence of these two fundamental magical forces creates an area of extreme supernatural power and danger.",
       "parentEntryId": "1868",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1870",
@@ -27553,7 +27553,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "The hidden headquarters of Cynker, a mastermind of dimensional travel who has achieved paragon attunement to force magic. His lair is home to clawed nymph and rusalka-like creatures with adept control over force magic—likely his creations or servants. The convergence of force and void leylines at this location allows Cynker to manipulate dimensional boundaries, enabling him to pull off impossible heists by teleporting objects (and himself) across vast distances or even between planes. The den it",
       "parentEntryId": "1869",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1871",
@@ -27567,7 +27567,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Located at the exact intersection of the force and void leylines on Terwin Lake, Kroikylo's Tomb is one of the most dangerous dungeons in Alaria. The burial place of Kroikylo, an ancient mage who mastered both force and void magic, the tomb is filled with lethal traps that combine both disciplines—crushing force fields that appear from nowhere, spatial rifts that tear flesh from bone, and void zones that simply erase matter. Despite the extreme danger, the tomb draws adventurers seeking the lege",
       "parentEntryId": "1869",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1872",
@@ -27581,7 +27581,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Deep within the Eastern Forest lies Mirror Lake, a body of water with a surface so perfectly still and reflective that it appears as polished glass. It is believed that if you can find your reflection in the lake's mirrored surface, you will see your true self—and within that reflection, discover your true name. Many seekers have journeyed to Mirror Lake in search of this revelation, though few claim to have succeeded in glimpsing what the waters reveal.",
       "parentEntryId": "1868",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1873",
@@ -27595,7 +27595,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The forests in the northeastern reaches of the Dalizi region are known for their strange magical phenomena.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1874",
@@ -27609,7 +27609,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A cluster of interconnected lakes scattered throughout the northeastern Dalizi forests. These lakes possess a remarkable property: stepping into one lake can cause you to instantly reemerge from a different lake up to 50 miles away. The teleportation is unpredictable—there is no way to control which destination lake you will emerge from, making the Reflection Lakes both a potential shortcut and a serious hazard. Travelers have been known to step into a lake seeking to cross a small body of water",
       "parentEntryId": "1873",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1875",
@@ -27623,7 +27623,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Banesnap Hills** run along the eastern face of the Foggy Mountains, forming a broken barrier of ridges and valleys between the mountain wall and the Shipwreck Coast. The hills take their name from the banesnap beetle, an insect whose bite causes agonizing muscle cramps—the hills are home to the largest known population of these creatures in Alaria.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1876",
@@ -27637,7 +27637,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The beetle that gives these hills their name is about an inch long, with iridescent black wing covers and powerful mandibles. They nest in rocky crevices and emerge at dusk to hunt smaller insects. Their bite is not venomous in the traditional sense, but it injects a compound that causes severe muscle spasms lasting several hours. A single bite is painful but not dangerous. Multiple bites can be life-threatening, as the accumulated muscle cramping can affect breathing and the heart. Travelers wh",
       "parentEntryId": "1875",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1877",
@@ -27651,7 +27651,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A peculiar tradition exists among the shepherds of the nearby Dalizi states: young people seeking to prove their courage will climb to the high points of the Banesnap Hills to watch the Shipwreck Coast. From certain vantage points, the wrecks scattered along the shore and in the shallows are visible on clear days. These \"wreck watchers\" compete to identify the most ships, describe the most details, or stay the longest on the exposed ridges. The practice is dangerous—the beetles, the wind, and th",
       "parentEntryId": "1875",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1878",
@@ -27665,7 +27665,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Despite commanding views of the eastern sea, the Banesnap Hills have no military value. No army could climb them in formation, no supplies could be reliably transported across them, and there's nothing on the far side worth defending. The hills exist as a barrier, nothing more—a final obstacle between the Foggy Mountains and the sea that breaks the coast.",
       "parentEntryId": "1875",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1879",
@@ -27697,7 +27697,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1881",
@@ -27715,7 +27715,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1882",
@@ -27729,7 +27729,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Cerulean Crests** are the southernmost major range of the Dalizi Highlands, a chain of blue-tinged peaks that marks the transition between the highland interior and the lowland Dalizi Confederation. The name refers to the distinctive coloration of the stone—a pale blue-gray that appears almost luminous in certain light conditions.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1883",
@@ -27743,7 +27743,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The most notable waterway in the Cerulean Crests is the River of Petals, which rises from springs in the central range and flows south toward the Dalizi lowlands. The river gets its name from the flower petals that cover its surface during spring bloom—the copper-rich soils of the Crests support unique alpine flowers that shed their petals into the streams. The river valley provides the easiest route through the Cerulean Crests, connecting the highland interior to the Dalizi Confederation. This ",
       "parentEntryId": "1882",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1884",
@@ -27757,7 +27757,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The northern slopes of the Cerulean Crests descend into the Hills of Meus, a transitional zone of lower terrain that separates the Crests from the Jackal Mountains and Hills of False Rubies. The Hills of Meus are relatively gentle—rolling grassland with scattered rock outcrops—and provide the easiest walking in the Dalizi Highlands. The hills are named for Meus, a legendary Dalizi prospector who allegedly found copper deposits here before vanishing into the mountains. Whether his find was real, ",
       "parentEntryId": "1882",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1885",
@@ -27771,7 +27771,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Cerulean Crests have been mined intermittently for centuries. The copper that gives the mountains their color is present in extractable quantities, and several Dalizi states have operated mines in the range. The mining operations have always been marginal. The ore is good quality, but the remote location and difficult terrain make extraction expensive. Mines open, operate for a few decades, and close when the easy deposits are exhausted or when transport costs become unsustainable. Currently",
       "parentEntryId": "1882",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1886",
@@ -27785,7 +27785,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Extended exposure to the copper-rich environment of the Cerulean Crests causes health effects collectively known as the Blue Sickness. Symptoms include: - Bluish discoloration of skin, particularly around the eyes and fingernails - Metallic taste in the mouth - Fatigue and weakness - Liver and kidney problems in severe cases",
       "parentEntryId": "1882",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1887",
@@ -27813,7 +27813,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Chalaari River** drains the western Troyan Mountains, cutting a valley that provides the primary route between the central Dalizi Highlands and the lowland states of the Confederation. The river is neither large nor particularly impressive, but its valley is the closest thing to a road through this part of the highlands.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1889",
@@ -27841,7 +27841,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Chalaari Valley is the most practical route through the western Dalizi Highlands. Travelers heading from the lowland states into the central highlands—whether bound for the Chull Lands, the Titan Stairs, or beyond—almost universally use this valley. The alternatives are worse: the Marrow Valley to the east is longer and leads through Moon Goblin territory, while crossing the Troyan Mountains directly is effectively impossible. The route is not easy. The upper valley requires careful navigati",
       "parentEntryId": "1888",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1891",
@@ -27855,7 +27855,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A series of traditional camping spots mark the valley route, located at roughly one-day intervals. These aren't formal waypoints—there are no structures, no services, no authority—but generations of travelers have identified the same defensible positions with good water access. The camps have names passed down through tradition: First Ford, Ogre Watch, High Shelter, The Bend, and several others. Travelers who know the route move from camp to camp; those who don't may find themselves spending nig",
       "parentEntryId": "1888",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1892",
@@ -27869,7 +27869,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Chalaari Valley is most passable in late summer and early autumn, when the river is low and the weather is stable. Spring melt makes the upper valley dangerous or impassable, with the river filling its banks and flash floods possible after rain in the Troyans. Winter brings snow to the upper valley and ice to the river, making travel difficult but not impossible for prepared parties. The ogres of the Ogre Hills are most active in autumn; the dire jackals of the Jackal Mountains are most dang",
       "parentEntryId": "1888",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1893",
@@ -27883,7 +27883,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Chalaari Valley carries most of the traffic between the western Dalizi Highlands and the Confederation proper. This traffic is modest—the highlands produce little that the lowlands need—but it includes: - **Mineral prospectors** heading to or from the Cerulean Crests and surrounding ranges - **Hunters** pursuing game in the highlands, particularly the valuable dire jackal pelts - **Scholars** investigating the mysterious features of the interior highlands - **Exiles** heading somewhere they ",
       "parentEntryId": "1888",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1894",
@@ -27915,7 +27915,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The largest state in the Dalizi Confederation—by population, by territory, by economic output, and by ambition. Chilala controls the eastern shore of Lake Tonactlet Chipe and dominates the Lakeshore Circle's politics. Its ruler, Regent-Queen Mwenekazi, is positioning to become the next Paramount, and everyone knows what that would mean: the end of the Confederation as a loose alliance, and the beginning of Chilala hegemony. The state stretches from the lake shore into the highlands northeast, en",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1896",
@@ -27943,7 +27943,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Mwenekazi wants the Paramount seat. She's been campaigning—discreetly—since Paramount Makisani's health began to fail. **Her Pitch** To states that fear instability: \"The Confederation needs strong leadership. Only Chilala has the resources to provide it.\" To states that fear Shunde: \"Better me than a military strongman who'll turn the Confederate Army on internal enemies.\" To states that want prosperity: \"Lake trade benefits everyone. A Chilala Paramount would invest in infrastructure, reduce i",
       "parentEntryId": "1895",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1898",
@@ -27971,7 +27971,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Chull Lands** occupy a relatively low basin in the western Dalizi Highlands, a pocket of broken terrain surrounded by mountain walls on three sides. The region takes its name from the chulls—large, aggressive crustaceans that infest the wetlands and caves throughout the area. The Chull Lands are the closest thing to accessible terrain in the highland interior, which means they're merely very dangerous rather than impassable.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1900",
@@ -27985,7 +27985,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Chulls are freshwater crustaceans roughly the size of large dogs, with hard-shelled bodies, powerful claws, and an aggressive territorial nature. They're amphibious, equally capable of operating in water or on land, and they're found throughout the Chull Lands wherever moisture is present.",
       "parentEntryId": "1899",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1901",
@@ -27999,7 +27999,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "An adult chull measures three to four feet long, not counting the claws. The shell is dark gray-green, providing excellent camouflage in the muddy terrain. The claws are disproportionately large—the major claw can be a foot across—and powerful enough to sever limbs or crush armor. The creatures move with unsettling speed despite their bulk.",
       "parentEntryId": "1900",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1902",
@@ -28013,7 +28013,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Chulls are primarily nocturnal, spending daylight hours in underwater dens or cave systems. At night, they emerge to hunt, taking fish, amphibians, small mammals, and anything else they can catch—including humans. They're not intelligent in any meaningful sense, but they're cunning predators with excellent senses. Chulls are territorial and will attack anything that enters their claimed areas. Unfortunately, their territories overlap in complex ways, and what seems like empty ground may be a bou",
       "parentEntryId": "1900",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1903",
@@ -28027,7 +28027,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Chulls reproduce in the cave systems, laying eggs in protected pools. The young are vulnerable for their first year, during which they remain near the spawning caves. Adult chulls become increasingly aggressive during spawning season, which occurs in late spring.",
       "parentEntryId": "1900",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1904",
@@ -28055,7 +28055,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Despite the danger, the Chull Lands attract occasional hunting parties. Chull shells make excellent armor components—light, strong, and resistant to piercing. The claws are valued as trophies. The meat is reportedly edible, though few are willing to risk death for a meal. Harvesting chulls is specialized work. Professional hunters know the territory, the chull behavior patterns, and the techniques for killing a creature that can survive most wounds. Amateur expeditions occasionally enter the Chu",
       "parentEntryId": "1899",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1906",
@@ -28083,7 +28083,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A cave system in the northwestern Chull Lands where the creatures congregate to breed. The caves are absolutely off-limits during spawning season—hundreds of chulls in close proximity, all aggressive, all defending their young. Outside spawning season, the caves are merely extremely dangerous.",
       "parentEntryId": "1906",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1908",
@@ -28097,7 +28097,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A section of wetland in the southern Chull Lands where skeletal remains accumulate. The marsh is a feeding ground; the bones are what's left. Human bones are visible among the animal remains.",
       "parentEntryId": "1906",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1909",
@@ -28111,7 +28111,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A limestone ridge running east-west through the central Chull Lands, elevated enough above the waterline that chulls rarely venture there. The ridge is the safest route through the region and the site of the only regular camping spots. Competition for space on the ridge can be fierce during busy travel seasons.",
       "parentEntryId": "1906",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1910",
@@ -28143,7 +28143,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1912",
@@ -28161,7 +28161,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1913",
@@ -28178,7 +28178,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1914",
@@ -28192,7 +28192,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Lakes in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1915",
@@ -28206,7 +28206,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A lake in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1916",
@@ -28220,7 +28220,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A lake in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1917",
@@ -28234,7 +28234,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A river in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1918",
@@ -28248,7 +28248,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A lake in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1919",
@@ -28262,7 +28262,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Lakes in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1920",
@@ -28276,7 +28276,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A lake in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1921",
@@ -28290,7 +28290,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Hills in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1922",
@@ -28304,7 +28304,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "An ancient forest, once home to the Dark Elves. Ancient dragon totems of bone and silver dot the forest. Unbeknownst to many, these totems hold the spirits of powerful dark elves. Rather than go to Celestia, powerful dark elven leaders preferred to remain on the material plane. Like daemons of Celestia, the spirits in these totems still have power. Unlike spirits of Celestia, they will not fade upon being forgotten. Those who find their true names are likely to be showered in power as thanks. Wi",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1923",
@@ -28318,7 +28318,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Hills in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1924",
@@ -28332,7 +28332,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A forest in the Dalizi Wildlands.",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1925",
@@ -28346,7 +28346,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A lake in the Dalizi Wildlands. TODO",
       "parentEntryId": "1913",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1926",
@@ -28364,7 +28364,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A confederation of city-states.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1927",
@@ -28378,7 +28378,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1928",
@@ -28392,7 +28392,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Hills in Kagoro.",
       "parentEntryId": "1927",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1929",
@@ -28406,7 +28406,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1930",
@@ -28420,7 +28420,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A forest in Singa Chike.",
       "parentEntryId": "1929",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1931",
@@ -28434,7 +28434,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1932",
@@ -28448,7 +28448,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1933",
@@ -28462,7 +28462,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1934",
@@ -28476,7 +28476,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1935",
@@ -28490,7 +28490,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1936",
@@ -28504,7 +28504,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1937",
@@ -28518,7 +28518,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1938",
@@ -28532,7 +28532,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1939",
@@ -28546,7 +28546,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1940",
@@ -28560,7 +28560,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1941",
@@ -28574,7 +28574,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1942",
@@ -28588,7 +28588,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1943",
@@ -28602,7 +28602,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1944",
@@ -28616,7 +28616,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1945",
@@ -28630,7 +28630,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1946",
@@ -28644,7 +28644,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1947",
@@ -28658,7 +28658,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1948",
@@ -28672,7 +28672,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1949",
@@ -28686,7 +28686,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1950",
@@ -28700,7 +28700,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1951",
@@ -28714,7 +28714,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1952",
@@ -28728,7 +28728,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1953",
@@ -28742,7 +28742,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A location in Kafula.",
       "parentEntryId": "1952",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1954",
@@ -28756,7 +28756,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1955",
@@ -28770,7 +28770,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1956",
@@ -28784,7 +28784,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1957",
@@ -28798,7 +28798,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1958",
@@ -28812,7 +28812,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1959",
@@ -28826,7 +28826,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1960",
@@ -28840,7 +28840,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1961",
@@ -28854,7 +28854,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1962",
@@ -28868,7 +28868,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1963",
@@ -28882,7 +28882,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Highlands in Taulo Magi.",
       "parentEntryId": "1962",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1964",
@@ -28896,7 +28896,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1965",
@@ -28910,7 +28910,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1966",
@@ -28924,7 +28924,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1967",
@@ -28938,7 +28938,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1968",
@@ -28952,7 +28952,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1969",
@@ -28966,7 +28966,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1970",
@@ -28980,7 +28980,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1971",
@@ -28994,7 +28994,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1972",
@@ -29008,7 +29008,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1973",
@@ -29022,7 +29022,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1974",
@@ -29036,7 +29036,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1975",
@@ -29050,7 +29050,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1976",
@@ -29064,7 +29064,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1977",
@@ -29078,7 +29078,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1978",
@@ -29092,7 +29092,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1979",
@@ -29106,7 +29106,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A state in Dalizi.",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1980",
@@ -29120,7 +29120,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1926",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1981",
@@ -29138,7 +29138,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1982",
@@ -29152,7 +29152,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "**Deception Creek** flows from the Hills of the Moon Goblins through the southern Foggy Mountains before disappearing into a sinkhole system several miles from the Shipwreck Coast. The name refers to the creek's frustrating habit of vanishing underground, reappearing miles away, and generally refusing to behave as water should.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1983",
@@ -29166,7 +29166,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The creek originates in the Hills of the Moon Goblins, fed by springs that surface in the saddle between those hills and the main mass of the Foggy Mountains. The water is cold and clear at its source, with a faintly mineral taste that some find unpleasant. From its source, Deception Creek flows southeast toward the coast—for about four miles. Then it vanishes into a limestone sinkhole, dropping into an underground system that riddles the eastern slopes. The creek reappears three miles to the so",
       "parentEntryId": "1982",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1984",
@@ -29180,7 +29180,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Dalizi named this creek after several expeditions attempted to use it as a route to the coast. Each time, the parties followed the water until it vanished, then tried to pick up its trail on the far side of the underground section. Each time, they found themselves somewhere other than where they expected—sometimes miles from where the creek should have resurfaced. The current theory is that the underground system has multiple outlets, and the creek doesn't always emerge from the same one. Ra",
       "parentEntryId": "1982",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1985",
@@ -29194,7 +29194,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The terrain around Deception Creek is riddled with sinkholes, caves, and sudden drops. The limestone bedrock has been dissolved over millennia into a maze of underground passages, some flooded, some dry, most unexplored. The surface terrain is deceptively solid—grass grows over thin crusts that can collapse under a traveler's weight. Shepherds avoid this area entirely. The handful of explorers who have investigated the cave systems report extensive passages, underground pools, and evidence of ha",
       "parentEntryId": "1982",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1986",
@@ -29225,7 +29225,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A river in the Dalizi Wildlands. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1988",
@@ -29242,7 +29242,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1989",
@@ -29259,7 +29259,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A forest in Singa Chike, Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1990",
@@ -29276,7 +29276,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "Highlands in Taulo Magi, Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1991",
@@ -29290,7 +29290,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Elder Mountains** rise at the southeastern corner of the Dalizi Highlands, a weathered range of ancient stone that connects the Foggy Mountains to the coastal cliffs above the Shipwreck Coast. The mountains take their name from their geological age—these are among the oldest exposed formations in Aboyinzu, predating the upheavals that created the younger ranges to the west.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "1992",
@@ -29304,7 +29304,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Elder Mountains are neither actively hostile like the Foggy Mountains nor merely inconvenient like the ranges farther west. They're simply empty—vast, quiet, and ancient, with an atmosphere that discourages human presence without any obvious threat. Game is scarce. Water is limited, found only in scattered seeps and the upper reaches of Marrow Creek. The vegetation is sparse: wind-bent pines on the lower slopes, lichen and moss on the exposed heights, nothing at all on the upper peaks. The s",
       "parentEntryId": "1991",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1993",
@@ -29318,7 +29318,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "See [Marrow Valley](./Marrow%20Valley.md) for details on **the Shepherd**, the ancient creature that inhabits the high Elder Mountains and is responsible for the bones in the creek.",
       "parentEntryId": "1992",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1994",
@@ -29346,7 +29346,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "The red deposits that color Marrow Creek surface throughout the Elder Mountains, staining the rock in streaks of rust. In several locations, iron-rich water seeps from the rock face, creating pools with a blood-like appearance. The water is mineral-heavy but drinkable. The Dalizi consider the Iron Seeps unlucky but not actively dangerous. They're used as landmarks by the few who travel this way.",
       "parentEntryId": "1994",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1996",
@@ -29360,7 +29360,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "The southern Elder Mountains flatten into a high plateau, roughly 4,000 feet in elevation, before dropping to the coastal lowlands. This plateau offers the only significant level ground in the range—a few square miles of exposed rock and thin soil. Nothing grows here; the wind is constant; the view extends to the Shipwreck Coast on clear days. Someone built here, once. Foundations are visible in the rock, too weathered to identify their original form. The stonework is old—older than the Dalizi C",
       "parentEntryId": "1994",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1997",
@@ -29374,7 +29374,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Where the Elder Mountains meet the Shipwreck Coast, the range ends in dramatic cliffs plunging hundreds of feet directly into the sea. These cliffs are visible from the coastal waters—the one landmark sailors use when avoiding this treacherous shore. They're called the Elder Teeth in maritime charts, for their jagged profile against the sky.",
       "parentEntryId": "1994",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1998",
@@ -29388,7 +29388,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Elder Mountains were named by early Dalizi explorers who recognized the geological antiquity of the range. The name stuck, though it's acquired other meanings over time. The mountains feel old in a way that goes beyond mere rock—there's a weight to the silence, a sense that the range has been watching whatever passed through since before memory began. The ruins on the plateau reinforce this feeling. Something existed here before the Dalizi, before anyone currently living. The mountains remem",
       "parentEntryId": "1991",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "1999",
@@ -29420,7 +29420,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "A city-state in Dalizi. TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2001",
@@ -29434,7 +29434,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Foggy Mountains** form the eastern anchor of the Dalizi Highlands' mountain wall, a range perpetually shrouded in mist that has never been fully explored. Rising to over 12,000 feet at their highest peaks, the mountains mark an absolute barrier between the Dalizi Confederation and the Shipwreck Coast—and hide secrets within their fog-wrapped valleys that few have survived to describe.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2002",
@@ -29448,7 +29448,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Foggy Mountains remain largely unexplored for a simple reason: explorers don't come back. Every expedition sent into the range's interior has either failed to return or emerged with fewer members than it entered with. The survivors report fog so thick they lost companions standing arm's reach away, terrain that seemed to shift overnight, and encounters with things they struggle to describe coherently. The Dalizi Confederation has officially declared the mountains off-limits three times in re",
       "parentEntryId": "2001",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2003",
@@ -29462,7 +29462,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "A distinct range of hills rises within the southern Foggy Mountains, forming a saddle between the main peaks and the approaches to the Elder Mountains. These are the **Hills of the Moon Goblins**, named for their inhabitants. The Moon Goblins are a subrace distinct from other goblin populations in Alaria. They're pale, nearly colorless, with oversized eyes adapted to the perpetual twilight of their foggy domain. They hunt by sound and smell rather than sight, and they're said to see perfectly we",
       "parentEntryId": "2001",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2004",
@@ -29490,7 +29490,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "A waterway that rises in the Hills of the Moon Goblins and flows southeast toward the coast, vanishing underground repeatedly before presumably reaching the sea.",
       "parentEntryId": "2004",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2006",
@@ -29504,7 +29504,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "An altitude—roughly 2,500 feet on the eastern slopes—above which fog coverage becomes nearly constant. Below the fog line, the mountains are merely difficult. Above it, they're actively hostile.",
       "parentEntryId": "2004",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2007",
@@ -29518,7 +29518,7 @@
       "suggestedZoomLevel": 5,
       "contentPreview": "Several of the highest peaks produce sounds in high winds—deep, resonant tones that carry for miles. The Dalizi call these the singing peaks and consider them ill-omened. Some scholars believe the sounds are natural, produced by wind moving through rock formations. Others note that the \"singing\" sometimes occurs on calm days.",
       "parentEntryId": "2004",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2008",
@@ -29546,7 +29546,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "**Fool's Pass** is the only known crossing through the Thundering Mountains, a treacherous route that connects the Dalizi Highlands to the Wanderlands beyond. The name is simultaneously warning and description—only fools use this pass, but sometimes fools have no choice.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2010",
@@ -29574,7 +29574,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The name dates to the earliest Dalizi exploration of the range. The expedition that discovered the route lost half its members to the crossing. The survivors reported that only a fool would attempt it—and only a fool would need to. The name stuck because it accurately describes who uses the pass: - **Fugitives** — People fleeing justice, debts, or enemies who would rather face the mountains than what pursues them - **Exiles** — Those expelled from Dalizi territory who have nowhere else to go - *",
       "parentEntryId": "2009",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2012",
@@ -29588,7 +29588,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Those who survive Fool's Pass emerge in the southern Wanderlands, specifically the approaches to the Dragonsong forest. This is not an improvement in safety. The Dragonsong is the domain of the dragon Ziru, who tolerates no intrusion near the Dragon's Gate. The Wanderlands beyond are cursed, empty, and dangerous. There are no settlements, no supplies, no help. Travelers who cross Fool's Pass had better have a plan for what comes next, because there's nothing waiting for them except more wilderne",
       "parentEntryId": "2009",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2013",
@@ -29602,7 +29602,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Several ruined structures stand at the highland approach to Fool's Pass, apparently the remains of guard posts or waypoints. The architecture is old and unfamiliar—not Dalizi construction. Someone once maintained a presence here, controlling access to the pass. The ruins are empty now. Whatever authority once guarded the pass is long gone. The stones remain, slowly crumbling, a reminder that someone once thought this route worth protecting—or worth blocking. **GM Information:** These structures ",
       "parentEntryId": "2009",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2014",
@@ -29616,7 +29616,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Crossing rates are not officially tracked, but estimates suggest: - Roughly 20-30 individuals attempt the pass each year during the summer window - Approximately half complete the crossing successfully - Of those who fail, some turn back; others die - Very few who cross ever return through the pass",
       "parentEntryId": "2009",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2015",
@@ -29647,7 +29647,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "TODO",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2017",
@@ -29661,7 +29661,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Hills of False Rubies** rise at the western edge of the Jackal Mountains, a cluster of red-tinted terrain that has attracted and ruined treasure hunters for generations. The hills are named for their abundance of crystals that look remarkably like rubies—and are worth nothing.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2018",
@@ -29675,7 +29675,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "The Hills of False Rubies have attracted would-be miners since the Dalizi Confederation first expanded into the region. The first expeditions returned with carts full of \"rubies\" and tales of wealth beyond imagining. The subsequent collapse, when merchants examined the haul and pronounced it worthless, bankrupted several prominent families. Each generation, it seems, must learn the lesson again. Someone discovers the hills, sees the crystals, and becomes convinced that the previous failures must",
       "parentEntryId": "2017",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2019",
@@ -29703,7 +29703,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Despite the well-documented failures, someone always believes. Perhaps the previous expeditions looked in the wrong places. Perhaps real rubies lie just below where the false ones surface. Perhaps the stories of worthlessness are deliberate misdirection, spread by those who want to keep the real wealth hidden. The hills attract occasional prospectors even now, individuals convinced they'll succeed where companies failed. Most leave disappointed. Some don't leave at all—the hills are home to dire",
       "parentEntryId": "2017",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2021",
@@ -29717,7 +29717,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "Southwest of the False Rubies, the terrain transitions into the Hills of Meus, a somewhat gentler landscape that marks the boundary between the Jackal Mountains system and the Cerulean Crests. The Hills of Meus are unremarkable—grassy slopes with occasional rock outcrops—but they offer the easiest passage between the central highlands and the Rivoleta River valley.",
       "parentEntryId": "2017",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2022",
@@ -29745,7 +29745,7 @@
       "suggestedZoomLevel": 3,
       "contentPreview": "The **Hills of Meus** are a transitional zone between the Cerulean Crests and the central Dalizi Highlands, a region of rolling terrain that provides the easiest walking in an otherwise difficult landscape. The hills are named for Meus, a legendary Dalizi prospector whose fate became a cautionary tale about highland wealth.",
       "parentEntryId": "1862",
-      "status": "pending"
+      "status": "pinned"
     },
     {
       "id": "2024",
@@ -29759,7 +29759,7 @@
       "suggestedZoomLevel": 4,
       "contentPreview": "According to Dalizi tradition, Meus was a prospector from the lowland state of Kagoro who explored the Cerulean Crests three centuries ago. He allegedly found a deposit of pure copper—not ore requiring smelting, but native copper in sheets and nuggets, easily extracted and immensely valuable. Meus returned to the lowlands with samples and organized an expedition to exploit his find. The expedition entered the hills that now bear his name and was never seen again. Subsequent searches found no tra",
       "parentEntryId": "2023",
-      "status": "pending"
+      "status": "skipped"
     },
     {
       "id": "2025",
