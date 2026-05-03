@@ -313,7 +313,7 @@ export default function PinPage() {
               </div>
               <div className="h-2 bg-parchment rounded-full overflow-hidden">
                 <div
-                  className="h-full bg-accent-gold transition-all"
+                  className="h-full bg-gold transition-all"
                   style={{ width: `${progress}%` }}
                 />
               </div>
