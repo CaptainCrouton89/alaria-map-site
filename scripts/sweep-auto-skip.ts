@@ -1,7 +1,8 @@
 /**
  * Walk every pending entry in work-queue.json and apply auto-skip rules:
  *   - structural-header matches (auto-skip.json)
- *   - merge-group non-primaries whose primary is pinned (merge-groups.json)
+ *   - merge-group non-primaries (merge-groups.json) — the primary is the
+ *     canonical entry; non-primaries represent the same place written elsewhere.
  *
  * Useful after recording a batch of dedupe decisions, so the queue stats
  * reflect them immediately rather than only when /api/pin walks past each one.
@@ -11,11 +12,10 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import type { WorkQueue, PinnedData, MergeGroupsFile } from '../src/types/pinning';
+import type { WorkQueue, MergeGroupsFile } from '../src/types/pinning';
 
 const ROOT = path.resolve(__dirname, '..');
 const WORK_QUEUE = path.join(ROOT, 'data/work-queue.json');
-const PINNED = path.join(ROOT, 'data/pinned.json');
 const AUTO_SKIP = path.join(ROOT, 'data/auto-skip.json');
 const MERGE_GROUPS = path.join(ROOT, 'data/merge-groups.json');
 const BACKUP_DIR = path.join(ROOT, 'data/backups');
@@ -54,7 +54,6 @@ function ts(): string {
 
 function main() {
   const queue: WorkQueue = JSON.parse(fs.readFileSync(WORK_QUEUE, 'utf-8'));
-  const pinned: PinnedData = JSON.parse(fs.readFileSync(PINNED, 'utf-8'));
   const structural = loadStructuralSet();
   const mergeMap = loadMergeMap();
 
@@ -72,8 +71,7 @@ function main() {
       structuralSkips++;
       continue;
     }
-    const primaryId = mergeMap.get(e.id);
-    if (primaryId && pinned[primaryId]) {
+    if (mergeMap.has(e.id)) {
       e.status = 'skipped';
       mergeSkips++;
     }
@@ -82,9 +80,9 @@ function main() {
   fs.writeFileSync(WORK_QUEUE, JSON.stringify(queue, null, 2));
 
   console.log('Sweep summary:');
-  console.log(`  structural-header skips: ${structuralSkips}`);
-  console.log(`  merge-group non-primary skips (primary pinned): ${mergeSkips}`);
-  console.log(`  total newly skipped: ${structuralSkips + mergeSkips}`);
+  console.log(`  structural-header skips:        ${structuralSkips}`);
+  console.log(`  merge-group non-primary skips:  ${mergeSkips}`);
+  console.log(`  total newly skipped:            ${structuralSkips + mergeSkips}`);
 }
 
 main();

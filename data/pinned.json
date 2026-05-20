@@ -3698,24 +3698,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-02T23:13:55.526Z"
   },
-  "909": {
-    "coordinates": [
-      328,
-      141
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:14:04.283Z"
-  },
-  "910": {
-    "coordinates": [
-      323,
-      143
-    ],
-    "zoomLevel": 5,
-    "type": "ruins",
-    "pinnedAt": "2026-05-02T23:14:10.276Z"
-  },
   "912": {
     "coordinates": [
       235,
@@ -3886,15 +3868,6 @@
     "zoomLevel": 4,
     "type": "region",
     "pinnedAt": "2026-05-02T23:17:53.687Z"
-  },
-  "935": {
-    "coordinates": [
-      319,
-      145
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:17:59.219Z"
   },
   "939": {
     "coordinates": [
@@ -4130,15 +4103,6 @@
     "type": "region",
     "pinnedAt": "2026-05-02T23:30:24.528Z"
   },
-  "985": {
-    "coordinates": [
-      156,
-      164
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-02T23:30:52.938Z"
-  },
   "986": {
     "coordinates": [
       155,
@@ -4157,15 +4121,6 @@
     "type": "poi",
     "pinnedAt": "2026-05-02T23:31:10.376Z"
   },
-  "989": {
-    "coordinates": [
-      168,
-      149
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:31:14.080Z"
-  },
   "990": {
     "coordinates": [
       170,
@@ -4174,15 +4129,6 @@
     "zoomLevel": 5,
     "type": "poi",
     "pinnedAt": "2026-05-02T23:31:17.776Z"
-  },
-  "992": {
-    "coordinates": [
-      140,
-      151
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-02T23:31:29.715Z"
   },
   "993": {
     "coordinates": [
@@ -4201,15 +4147,6 @@
     "zoomLevel": 3,
     "type": "wilderness",
     "pinnedAt": "2026-05-02T23:35:51.956Z"
-  },
-  "995": {
-    "coordinates": [
-      161,
-      86
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:36:25.910Z"
   },
   "996": {
     "coordinates": [
@@ -4318,15 +4255,6 @@
     "zoomLevel": 4,
     "type": "water",
     "pinnedAt": "2026-05-02T23:42:17.376Z"
-  },
-  "1033": {
-    "coordinates": [
-      147,
-      131
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-02T23:42:28.545Z"
   },
   "1035": {
     "coordinates": [
@@ -4444,15 +4372,6 @@
     "zoomLevel": 5,
     "type": "poi",
     "pinnedAt": "2026-05-02T23:52:30.933Z"
-  },
-  "1081": {
-    "coordinates": [
-      32,
-      109
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:52:50.819Z"
   },
   "1084": {
     "coordinates": [
@@ -4931,51 +4850,6 @@
     "type": "poi",
     "pinnedAt": "2026-05-03T00:23:33.910Z"
   },
-  "1255": {
-    "coordinates": [
-      233,
-      28
-    ],
-    "zoomLevel": 3,
-    "type": "poi",
-    "pinnedAt": "2026-05-03T00:23:57.092Z"
-  },
-  "1256": {
-    "coordinates": [
-      240,
-      27
-    ],
-    "zoomLevel": 4,
-    "type": "poi",
-    "pinnedAt": "2026-05-03T00:24:02.392Z"
-  },
-  "1257": {
-    "coordinates": [
-      239,
-      32
-    ],
-    "zoomLevel": 4,
-    "type": "poi",
-    "pinnedAt": "2026-05-03T00:24:06.029Z"
-  },
-  "1258": {
-    "coordinates": [
-      233,
-      45
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:24:39.498Z"
-  },
-  "1259": {
-    "coordinates": [
-      257,
-      43
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:24:43.940Z"
-  },
   "1260": {
     "coordinates": [
       239,
@@ -5111,15 +4985,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T00:29:22.464Z"
   },
-  "1280": {
-    "coordinates": [
-      353,
-      108
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:29:27.395Z"
-  },
   "1282": {
     "coordinates": [
       296,
@@ -5246,15 +5111,6 @@
     "type": "region",
     "pinnedAt": "2026-05-03T00:32:46.135Z"
   },
-  "1315": {
-    "coordinates": [
-      96,
-      68
-    ],
-    "zoomLevel": 1,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:33:37.182Z"
-  },
   "1316": {
     "coordinates": [
       82,
@@ -5272,24 +5128,6 @@
     "zoomLevel": 5,
     "type": "fortress",
     "pinnedAt": "2026-05-03T00:34:08.846Z"
-  },
-  "1318": {
-    "coordinates": [
-      121,
-      28
-    ],
-    "zoomLevel": 1,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:34:20.614Z"
-  },
-  "1319": {
-    "coordinates": [
-      104,
-      72
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:34:33.614Z"
   },
   "1320": {
     "coordinates": [
@@ -5453,15 +5291,6 @@
     "type": "region",
     "pinnedAt": "2026-05-03T00:43:43.155Z"
   },
-  "1351": {
-    "coordinates": [
-      454,
-      40
-    ],
-    "zoomLevel": 2,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:43:55.483Z"
-  },
   "1352": {
     "coordinates": [
       428,
@@ -5525,15 +5354,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T00:46:20.739Z"
   },
-  "1360": {
-    "coordinates": [
-      425,
-      74
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-03T00:46:57.718Z"
-  },
   "1361": {
     "coordinates": [
       409,
@@ -5561,24 +5381,6 @@
     "type": "ruins",
     "pinnedAt": "2026-05-03T00:47:18.086Z"
   },
-  "1364": {
-    "coordinates": [
-      389,
-      28
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:47:29.201Z"
-  },
-  "1365": {
-    "coordinates": [
-      396,
-      29
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-03T00:47:42.588Z"
-  },
   "1366": {
     "coordinates": [
       397,
@@ -5587,15 +5389,6 @@
     "zoomLevel": 5,
     "type": "poi",
     "pinnedAt": "2026-05-03T00:47:49.801Z"
-  },
-  "1367": {
-    "coordinates": [
-      397,
-      53
-    ],
-    "zoomLevel": 3,
-    "type": "water",
-    "pinnedAt": "2026-05-03T00:48:03.304Z"
   },
   "1368": {
     "coordinates": [
@@ -5849,15 +5642,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T00:53:59.849Z"
   },
-  "1405": {
-    "coordinates": [
-      237,
-      388
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:54:07.746Z"
-  },
   "1406": {
     "coordinates": [
       242,
@@ -5956,15 +5740,6 @@
     "zoomLevel": 5,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T00:56:56.435Z"
-  },
-  "1420": {
-    "coordinates": [
-      256,
-      445
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T00:57:02.100Z"
   },
   "1422": {
     "coordinates": [
@@ -6290,33 +6065,6 @@
     "type": "water",
     "pinnedAt": "2026-05-03T02:23:07.668Z"
   },
-  "1479": {
-    "coordinates": [
-      263,
-      443
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T02:23:13.219Z"
-  },
-  "1480": {
-    "coordinates": [
-      268,
-      476
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T02:23:18.547Z"
-  },
-  "1483": {
-    "coordinates": [
-      263,
-      443
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T02:24:32.645Z"
-  },
   "1484": {
     "coordinates": [
       264,
@@ -6569,15 +6317,6 @@
     "type": "region",
     "pinnedAt": "2026-05-03T02:31:52.684Z"
   },
-  "1581": {
-    "coordinates": [
-      274,
-      419
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T02:31:59.170Z"
-  },
   "1583": {
     "coordinates": [
       285,
@@ -6587,15 +6326,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T02:32:13.408Z"
   },
-  "1585": {
-    "coordinates": [
-      292,
-      420
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T02:32:19.789Z"
-  },
   "1586": {
     "coordinates": [
       282,
@@ -6604,15 +6334,6 @@
     "zoomLevel": 4,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T02:32:25.970Z"
-  },
-  "1588": {
-    "coordinates": [
-      285,
-      418
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-03T02:32:34.197Z"
   },
   "1589": {
     "coordinates": [
@@ -6722,15 +6443,6 @@
     "type": "town",
     "pinnedAt": "2026-05-03T03:55:43.064Z"
   },
-  "1603": {
-    "coordinates": [
-      274,
-      430
-    ],
-    "zoomLevel": 5,
-    "type": "ruins",
-    "pinnedAt": "2026-05-03T03:55:47.209Z"
-  },
   "1605": {
     "coordinates": [
       245,
@@ -6775,15 +6487,6 @@
     "zoomLevel": 3,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T03:56:58.716Z"
-  },
-  "1622": {
-    "coordinates": [
-      265,
-      454
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-03T03:57:29.348Z"
   },
   "1623": {
     "coordinates": [
@@ -6892,24 +6595,6 @@
     "zoomLevel": 4,
     "type": "water",
     "pinnedAt": "2026-05-03T04:01:10.481Z"
-  },
-  "1672": {
-    "coordinates": [
-      292,
-      405
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:01:18.281Z"
-  },
-  "1674": {
-    "coordinates": [
-      304,
-      410
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:01:22.337Z"
   },
   "1675": {
     "coordinates": [
@@ -7388,24 +7073,6 @@
     "type": "region",
     "pinnedAt": "2026-05-03T04:22:02.601Z"
   },
-  "1819": {
-    "coordinates": [
-      386,
-      405
-    ],
-    "zoomLevel": 5,
-    "type": "poi",
-    "pinnedAt": "2026-05-03T04:22:21.487Z"
-  },
-  "1820": {
-    "coordinates": [
-      410,
-      411
-    ],
-    "zoomLevel": 5,
-    "type": "poi",
-    "pinnedAt": "2026-05-03T04:22:26.739Z"
-  },
   "1821": {
     "coordinates": [
       391,
@@ -7441,24 +7108,6 @@
     "zoomLevel": 3,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T04:24:02.462Z"
-  },
-  "1829": {
-    "coordinates": [
-      375,
-      444
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:23:56.000Z"
-  },
-  "1830": {
-    "coordinates": [
-      387,
-      454
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:24:08.482Z"
   },
   "1831": {
     "coordinates": [
@@ -7522,15 +7171,6 @@
     "zoomLevel": 4,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T04:26:10.834Z"
-  },
-  "1844": {
-    "coordinates": [
-      375,
-      444
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:26:13.492Z"
   },
   "1846": {
     "coordinates": [
@@ -7640,15 +7280,6 @@
     "type": "water",
     "pinnedAt": "2026-05-03T04:28:26.813Z"
   },
-  "1869": {
-    "coordinates": [
-      397,
-      531
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-03T04:28:54.521Z"
-  },
   "1870": {
     "coordinates": [
       398,
@@ -7666,15 +7297,6 @@
     "zoomLevel": 5,
     "type": "ruins",
     "pinnedAt": "2026-05-03T04:29:15.588Z"
-  },
-  "1874": {
-    "coordinates": [
-      381,
-      527
-    ],
-    "zoomLevel": 4,
-    "type": "water",
-    "pinnedAt": "2026-05-03T04:30:29.246Z"
   },
   "1875": {
     "coordinates": [
@@ -7720,15 +7342,6 @@
     "zoomLevel": 4,
     "type": "water",
     "pinnedAt": "2026-05-03T04:31:15.307Z"
-  },
-  "1884": {
-    "coordinates": [
-      364,
-      502
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:31:22.392Z"
   },
   "1888": {
     "coordinates": [
@@ -7838,15 +7451,6 @@
     "type": "water",
     "pinnedAt": "2026-05-03T04:35:28.023Z"
   },
-  "1920": {
-    "coordinates": [
-      373,
-      523
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-03T04:35:31.424Z"
-  },
   "1921": {
     "coordinates": [
       383,
@@ -7855,15 +7459,6 @@
     "zoomLevel": 5,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T04:35:39.223Z"
-  },
-  "1922": {
-    "coordinates": [
-      398,
-      552
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:35:46.914Z"
   },
   "1923": {
     "coordinates": [
@@ -7918,15 +7513,6 @@
     "zoomLevel": 3,
     "type": "region",
     "pinnedAt": "2026-05-03T04:38:13.102Z"
-  },
-  "1930": {
-    "coordinates": [
-      341,
-      483
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T04:38:18.927Z"
   },
   "1931": {
     "coordinates": [
@@ -8063,15 +7649,6 @@
     "type": "city",
     "pinnedAt": "2026-05-03T18:11:58.478Z"
   },
-  "1949": {
-    "coordinates": [
-      299,
-      515
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-03T18:12:04.852Z"
-  },
   "1951": {
     "coordinates": [
       306,
@@ -8080,24 +7657,6 @@
     "zoomLevel": 3,
     "type": "region",
     "pinnedAt": "2026-05-03T18:12:11.543Z"
-  },
-  "1952": {
-    "coordinates": [
-      313,
-      521
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2026-05-03T18:12:15.025Z"
-  },
-  "1953": {
-    "coordinates": [
-      315,
-      515
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T18:12:33.567Z"
   },
   "1954": {
     "coordinates": [
@@ -8179,15 +7738,6 @@
     "zoomLevel": 3,
     "type": "region",
     "pinnedAt": "2026-05-03T18:13:58.580Z"
-  },
-  "1963": {
-    "coordinates": [
-      316,
-      536
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T18:14:02.103Z"
   },
   "1964": {
     "coordinates": [
@@ -8288,15 +7838,6 @@
     "type": "region",
     "pinnedAt": "2026-05-03T18:15:01.554Z"
   },
-  "1975": {
-    "coordinates": [
-      344,
-      509
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-03T18:15:12.873Z"
-  },
   "1977": {
     "coordinates": [
       349,
@@ -8396,15 +7937,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T18:19:54.244Z"
   },
-  "2003": {
-    "coordinates": [
-      397,
-      489
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T18:20:02.527Z"
-  },
   "2007": {
     "coordinates": [
       401,
@@ -8441,15 +7973,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-03T18:21:46.165Z"
   },
-  "2021": {
-    "coordinates": [
-      364,
-      502
-    ],
-    "zoomLevel": 5,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-03T18:22:02.486Z"
-  },
   "2023": {
     "coordinates": [
       364,
@@ -8458,5 +7981,7979 @@
     "zoomLevel": 5,
     "type": "wilderness",
     "pinnedAt": "2026-05-03T18:22:06.002Z"
+  },
+  "2034": {
+    "coordinates": [
+      397,
+      489
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T03:57:51.185Z"
+  },
+  "2040": {
+    "coordinates": [
+      378,
+      499
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T03:58:06.131Z"
+  },
+  "2043": {
+    "coordinates": [
+      374,
+      497
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T03:58:12.661Z"
+  },
+  "2049": {
+    "coordinates": [
+      313,
+      521
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-04T03:58:59.069Z"
+  },
+  "2050": {
+    "coordinates": [
+      313,
+      517
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-04T03:59:11.244Z"
+  },
+  "2067": {
+    "coordinates": [
+      387,
+      495
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T04:01:07.685Z"
+  },
+  "2079": {
+    "coordinates": [
+      406,
+      475
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T04:01:37.403Z"
+  },
+  "2097": {
+    "coordinates": [
+      398,
+      552
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T04:08:34.699Z"
+  },
+  "2098": {
+    "coordinates": [
+      370,
+      510
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-04T04:09:06.239Z"
+  },
+  "2108": {
+    "coordinates": [
+      373,
+      523
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-04T04:09:20.821Z"
+  },
+  "2124": {
+    "coordinates": [
+      361,
+      499
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T04:49:22.889Z"
+  },
+  "2136": {
+    "coordinates": [
+      406,
+      487
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:49:59.684Z"
+  },
+  "2145": {
+    "coordinates": [
+      371,
+      484
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:51:19.299Z"
+  },
+  "2146": {
+    "coordinates": [
+      407,
+      478
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T04:51:33.190Z"
+  },
+  "2155": {
+    "coordinates": [
+      370,
+      488
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:51:39.912Z"
+  },
+  "2162": {
+    "coordinates": [
+      350,
+      491
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:51:49.116Z"
+  },
+  "2171": {
+    "coordinates": [
+      357,
+      516
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-05T04:52:37.410Z"
+  },
+  "2173": {
+    "coordinates": [
+      344,
+      501
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:52:46.526Z"
+  },
+  "2179": {
+    "coordinates": [
+      375,
+      507
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:53:06.590Z"
+  },
+  "2201": {
+    "coordinates": [
+      452,
+      566
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T04:54:03.171Z"
+  },
+  "2217": {
+    "coordinates": [
+      296,
+      541
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:55:53.077Z"
+  },
+  "2218": {
+    "coordinates": [
+      402,
+      564
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:56:37.891Z"
+  },
+  "2225": {
+    "coordinates": [
+      299,
+      524
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:56:53.971Z"
+  },
+  "2226": {
+    "coordinates": [
+      302,
+      523
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:56:59.313Z"
+  },
+  "2227": {
+    "coordinates": [
+      297,
+      529
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:57:06.630Z"
+  },
+  "2228": {
+    "coordinates": [
+      545,
+      552
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T04:57:24.026Z"
+  },
+  "2236": {
+    "coordinates": [
+      298,
+      528
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T04:57:37.793Z"
+  },
+  "2238": {
+    "coordinates": [
+      551,
+      417
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T04:57:49.736Z"
+  },
+  "2247": {
+    "coordinates": [
+      474,
+      571
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T04:58:14.956Z"
+  },
+  "2253": {
+    "coordinates": [
+      435,
+      566
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:58:51.781Z"
+  },
+  "2259": {
+    "coordinates": [
+      400,
+      560
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T04:59:12.459Z"
+  },
+  "2260": {
+    "coordinates": [
+      401,
+      556
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T04:59:18.941Z"
+  },
+  "2263": {
+    "coordinates": [
+      415,
+      556
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:00:39.241Z"
+  },
+  "2266": {
+    "coordinates": [
+      319,
+      538
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T05:02:05.338Z"
+  },
+  "2267": {
+    "coordinates": [
+      302,
+      535
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:02:11.744Z"
+  },
+  "2268": {
+    "coordinates": [
+      312,
+      530
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:02:16.080Z"
+  },
+  "2270": {
+    "coordinates": [
+      428,
+      554
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:02:40.823Z"
+  },
+  "2271": {
+    "coordinates": [
+      441,
+      555
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:02:47.749Z"
+  },
+  "2273": {
+    "coordinates": [
+      460,
+      550
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:03:10.653Z"
+  },
+  "2274": {
+    "coordinates": [
+      473,
+      543
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:03:16.648Z"
+  },
+  "2275": {
+    "coordinates": [
+      467,
+      552
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:03:19.191Z"
+  },
+  "2277": {
+    "coordinates": [
+      355,
+      557
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:03:33.078Z"
+  },
+  "2278": {
+    "coordinates": [
+      365,
+      562
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:03:37.347Z"
+  },
+  "2282": {
+    "coordinates": [
+      421,
+      572
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:03:56.689Z"
+  },
+  "2283": {
+    "coordinates": [
+      310,
+      537
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:04:11.035Z"
+  },
+  "2289": {
+    "coordinates": [
+      530,
+      539
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:04:24.785Z"
+  },
+  "2298": {
+    "coordinates": [
+      397,
+      568
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:04:42.658Z"
+  },
+  "2305": {
+    "coordinates": [
+      455,
+      552
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:04:54.808Z"
+  },
+  "2306": {
+    "coordinates": [
+      579,
+      479
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:05:04.104Z"
+  },
+  "2314": {
+    "coordinates": [
+      427,
+      562
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:05:33.519Z"
+  },
+  "2317": {
+    "coordinates": [
+      437,
+      557
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:05:41.228Z"
+  },
+  "2321": {
+    "coordinates": [
+      365,
+      568
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:06:20.133Z"
+  },
+  "2322": {
+    "coordinates": [
+      390,
+      568
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:06:29.281Z"
+  },
+  "2323": {
+    "coordinates": [
+      391,
+      572
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:06:31.986Z"
+  },
+  "2325": {
+    "coordinates": [
+      387,
+      577
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:06:36.323Z"
+  },
+  "2326": {
+    "coordinates": [
+      446,
+      570
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:10:27.120Z"
+  },
+  "2332": {
+    "coordinates": [
+      375,
+      572
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:10:42.024Z"
+  },
+  "2337": {
+    "coordinates": [
+      385,
+      563
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:11:04.128Z"
+  },
+  "2342": {
+    "coordinates": [
+      384,
+      562
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:11:18.184Z"
+  },
+  "2345": {
+    "coordinates": [
+      447,
+      555
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:11:48.611Z"
+  },
+  "2352": {
+    "coordinates": [
+      464,
+      556
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:12:34.061Z"
+  },
+  "2358": {
+    "coordinates": [
+      346,
+      554
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:12:53.429Z"
+  },
+  "2368": {
+    "coordinates": [
+      310,
+      574
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:13:37.259Z"
+  },
+  "2372": {
+    "coordinates": [
+      310,
+      574
+    ],
+    "zoomLevel": 1,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:13:41.157Z"
+  },
+  "2378": {
+    "coordinates": [
+      334,
+      564
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:13:49.591Z"
+  },
+  "2379": {
+    "coordinates": [
+      343,
+      562
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:13:56.376Z"
+  },
+  "2380": {
+    "coordinates": [
+      319,
+      559
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:14:07.562Z"
+  },
+  "2381": {
+    "coordinates": [
+      320,
+      554
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:14:11.812Z"
+  },
+  "2382": {
+    "coordinates": [
+      330,
+      554
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:14:15.167Z"
+  },
+  "2388": {
+    "coordinates": [
+      307,
+      545
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:14:23.571Z"
+  },
+  "2390": {
+    "coordinates": [
+      349,
+      549
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:14:31.042Z"
+  },
+  "2395": {
+    "coordinates": [
+      351,
+      564
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:14:33.974Z"
+  },
+  "2398": {
+    "coordinates": [
+      351,
+      564
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:14:36.921Z"
+  },
+  "2399": {
+    "coordinates": [
+      296,
+      547
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:14:52.336Z"
+  },
+  "2400": {
+    "coordinates": [
+      316,
+      558
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:14:59.645Z"
+  },
+  "2406": {
+    "coordinates": [
+      307,
+      553
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:15:07.393Z"
+  },
+  "2410": {
+    "coordinates": [
+      307,
+      552
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:15:16.045Z"
+  },
+  "2414": {
+    "coordinates": [
+      307,
+      552
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:15:21.506Z"
+  },
+  "2420": {
+    "coordinates": [
+      344,
+      563
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:15:28.904Z"
+  },
+  "2421": {
+    "coordinates": [
+      341,
+      565
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:15:33.027Z"
+  },
+  "2422": {
+    "coordinates": [
+      344,
+      561
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:15:38.288Z"
+  },
+  "2423": {
+    "coordinates": [
+      342,
+      563
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:15:41.773Z"
+  },
+  "2424": {
+    "coordinates": [
+      343,
+      566
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:15:44.956Z"
+  },
+  "2430": {
+    "coordinates": [
+      335,
+      565
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:16:08.176Z"
+  },
+  "2431": {
+    "coordinates": [
+      334,
+      563
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:16:15.378Z"
+  },
+  "2432": {
+    "coordinates": [
+      333,
+      565
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:16:23.748Z"
+  },
+  "2433": {
+    "coordinates": [
+      332,
+      566
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:16:28.285Z"
+  },
+  "2434": {
+    "coordinates": [
+      336,
+      561
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:16:31.547Z"
+  },
+  "2439": {
+    "coordinates": [
+      303,
+      554
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:16:44.003Z"
+  },
+  "2440": {
+    "coordinates": [
+      300,
+      551
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:17:02.048Z"
+  },
+  "2441": {
+    "coordinates": [
+      303,
+      545
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:16:52.675Z"
+  },
+  "2442": {
+    "coordinates": [
+      329,
+      558
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:17:12.494Z"
+  },
+  "2443": {
+    "coordinates": [
+      321,
+      559
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:17:16.093Z"
+  },
+  "2444": {
+    "coordinates": [
+      319,
+      556
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:17:22.787Z"
+  },
+  "2445": {
+    "coordinates": [
+      322,
+      557
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:17:28.290Z"
+  },
+  "2446": {
+    "coordinates": [
+      320,
+      558
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:17:31.847Z"
+  },
+  "2447": {
+    "coordinates": [
+      320,
+      561
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:17:34.098Z"
+  },
+  "2448": {
+    "coordinates": [
+      320,
+      553
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:17:36.758Z"
+  },
+  "2449": {
+    "coordinates": [
+      324,
+      555
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:17:39.493Z"
+  },
+  "2453": {
+    "coordinates": [
+      222,
+      272
+    ],
+    "zoomLevel": 0,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:17:57.900Z"
+  },
+  "2455": {
+    "coordinates": [
+      127,
+      211
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:18:16.328Z"
+  },
+  "2460": {
+    "coordinates": [
+      138,
+      207
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:18:28.230Z"
+  },
+  "2462": {
+    "coordinates": [
+      173,
+      172
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:18:38.328Z"
+  },
+  "2463": {
+    "coordinates": [
+      123,
+      218
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:18:44.303Z"
+  },
+  "2467": {
+    "coordinates": [
+      129,
+      208
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-05T05:18:58.137Z"
+  },
+  "2468": {
+    "coordinates": [
+      137,
+      209
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-05T05:19:03.981Z"
+  },
+  "2472": {
+    "coordinates": [
+      174,
+      175
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:19:18.925Z"
+  },
+  "2473": {
+    "coordinates": [
+      177,
+      175
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:19:22.771Z"
+  },
+  "2477": {
+    "coordinates": [
+      148,
+      204
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-05T05:19:31.140Z"
+  },
+  "2484": {
+    "coordinates": [
+      157,
+      192
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:19:47.950Z"
+  },
+  "2487": {
+    "coordinates": [
+      145,
+      201
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:20:24.291Z"
+  },
+  "2488": {
+    "coordinates": [
+      138,
+      196
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:20:29.161Z"
+  },
+  "2490": {
+    "coordinates": [
+      139,
+      201
+    ],
+    "zoomLevel": 4,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T05:20:44.898Z"
+  },
+  "2494": {
+    "coordinates": [
+      154,
+      215
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:20:53.540Z"
+  },
+  "2495": {
+    "coordinates": [
+      174,
+      171
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:21:10.795Z"
+  },
+  "2501": {
+    "coordinates": [
+      144,
+      183
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:22:08.036Z"
+  },
+  "2504": {
+    "coordinates": [
+      113,
+      214
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T05:22:18.608Z"
+  },
+  "2509": {
+    "coordinates": [
+      98,
+      229
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:22:35.211Z"
+  },
+  "2513": {
+    "coordinates": [
+      102,
+      231
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:22:49.356Z"
+  },
+  "2519": {
+    "coordinates": [
+      97,
+      223
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:23:00.500Z"
+  },
+  "2523": {
+    "coordinates": [
+      92,
+      221
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:23:07.575Z"
+  },
+  "2530": {
+    "coordinates": [
+      176,
+      184
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:23:23.839Z"
+  },
+  "2533": {
+    "coordinates": [
+      179,
+      188
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:23:30.633Z"
+  },
+  "2536": {
+    "coordinates": [
+      172,
+      183
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:23:45.164Z"
+  },
+  "2539": {
+    "coordinates": [
+      148,
+      205
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:24:01.409Z"
+  },
+  "2544": {
+    "coordinates": [
+      106,
+      185
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:24:15.661Z"
+  },
+  "2546": {
+    "coordinates": [
+      108,
+      184
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:24:23.067Z"
+  },
+  "2547": {
+    "coordinates": [
+      108,
+      186
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:24:26.358Z"
+  },
+  "2550": {
+    "coordinates": [
+      108,
+      184
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:25:21.195Z"
+  },
+  "2551": {
+    "coordinates": [
+      108,
+      186
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:25:24.087Z"
+  },
+  "2552": {
+    "coordinates": [
+      99,
+      178
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:25:30.908Z"
+  },
+  "2555": {
+    "coordinates": [
+      126,
+      197
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:25:44.977Z"
+  },
+  "2561": {
+    "coordinates": [
+      119,
+      203
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T05:25:57.922Z"
+  },
+  "2562": {
+    "coordinates": [
+      109,
+      210
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:26:07.447Z"
+  },
+  "2563": {
+    "coordinates": [
+      113,
+      214
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T05:26:14.391Z"
+  },
+  "2565": {
+    "coordinates": [
+      130,
+      208
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:26:24.731Z"
+  },
+  "2567": {
+    "coordinates": [
+      119,
+      207
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:26:31.002Z"
+  },
+  "2568": {
+    "coordinates": [
+      109,
+      210
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:26:38.415Z"
+  },
+  "2573": {
+    "coordinates": [
+      85,
+      219
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-05T05:26:50.474Z"
+  },
+  "2574": {
+    "coordinates": [
+      129,
+      207
+    ],
+    "zoomLevel": 3,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:27:09.105Z"
+  },
+  "2575": {
+    "coordinates": [
+      127,
+      212
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:27:22.206Z"
+  },
+  "2582": {
+    "coordinates": [
+      129,
+      184
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:27:44.688Z"
+  },
+  "2593": {
+    "coordinates": [
+      91,
+      235
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:28:05.447Z"
+  },
+  "2597": {
+    "coordinates": [
+      90,
+      237
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:28:14.508Z"
+  },
+  "2603": {
+    "coordinates": [
+      158,
+      178
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:28:45.542Z"
+  },
+  "2604": {
+    "coordinates": [
+      161,
+      180
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T05:28:53.711Z"
+  },
+  "2611": {
+    "coordinates": [
+      106,
+      226
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:29:09.387Z"
+  },
+  "2615": {
+    "coordinates": [
+      105,
+      225
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T05:29:14.160Z"
+  },
+  "2620": {
+    "coordinates": [
+      144,
+      252
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:29:50.486Z"
+  },
+  "2634": {
+    "coordinates": [
+      131,
+      271
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T05:30:00.066Z"
+  },
+  "2640": {
+    "coordinates": [
+      138,
+      276
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T08:01:51.903Z"
+  },
+  "2643": {
+    "coordinates": [
+      128,
+      219
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:02:09.461Z"
+  },
+  "2644": {
+    "coordinates": [
+      137,
+      285
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:02:23.845Z"
+  },
+  "2649": {
+    "coordinates": [
+      128,
+      220
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:02:35.419Z"
+  },
+  "2650": {
+    "coordinates": [
+      130,
+      275
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:02:45.039Z"
+  },
+  "2651": {
+    "coordinates": [
+      152,
+      247
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:02:58.766Z"
+  },
+  "2652": {
+    "coordinates": [
+      166,
+      251
+    ],
+    "zoomLevel": 4,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T08:03:08.859Z"
+  },
+  "2653": {
+    "coordinates": [
+      142,
+      221
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:03:26.656Z"
+  },
+  "2654": {
+    "coordinates": [
+      81,
+      257
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:03:34.282Z"
+  },
+  "2662": {
+    "coordinates": [
+      136,
+      296
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-05T08:04:09.003Z"
+  },
+  "2671": {
+    "coordinates": [
+      131,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:05:02.716Z"
+  },
+  "2674": {
+    "coordinates": [
+      129,
+      281
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T08:05:14.345Z"
+  },
+  "2676": {
+    "coordinates": [
+      206,
+      302
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:05:20.434Z"
+  },
+  "2679": {
+    "coordinates": [
+      209,
+      305
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-05T08:05:30.891Z"
+  },
+  "2680": {
+    "coordinates": [
+      201,
+      307
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T08:05:38.268Z"
+  },
+  "2681": {
+    "coordinates": [
+      196,
+      311
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-05T08:05:41.359Z"
+  },
+  "2682": {
+    "coordinates": [
+      215,
+      291
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:06:34.589Z"
+  },
+  "2683": {
+    "coordinates": [
+      208,
+      300
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T08:06:39.434Z"
+  },
+  "2686": {
+    "coordinates": [
+      173,
+      283
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:06:51.278Z"
+  },
+  "2693": {
+    "coordinates": [
+      176,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T08:07:25.360Z"
+  },
+  "2701": {
+    "coordinates": [
+      180,
+      278
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:07:49.939Z"
+  },
+  "2712": {
+    "coordinates": [
+      145,
+      305
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:08:16.620Z"
+  },
+  "2713": {
+    "coordinates": [
+      142,
+      298
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T08:08:28.550Z"
+  },
+  "2714": {
+    "coordinates": [
+      123,
+      336
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T08:08:34.381Z"
+  },
+  "2720": {
+    "coordinates": [
+      149,
+      243
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T08:09:35.876Z"
+  },
+  "2721": {
+    "coordinates": [
+      241,
+      272
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:10:04.887Z"
+  },
+  "2722": {
+    "coordinates": [
+      140,
+      260
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:10:32.264Z"
+  },
+  "2727": {
+    "coordinates": [
+      118,
+      235
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-05T08:10:53.732Z"
+  },
+  "2729": {
+    "coordinates": [
+      114,
+      240
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:11:01.916Z"
+  },
+  "2730": {
+    "coordinates": [
+      117,
+      240
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T08:11:07.876Z"
+  },
+  "2731": {
+    "coordinates": [
+      109,
+      231
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-05T08:11:14.546Z"
+  },
+  "2732": {
+    "coordinates": [
+      134,
+      238
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:11:22.152Z"
+  },
+  "2733": {
+    "coordinates": [
+      116,
+      241
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-05T08:11:36.731Z"
+  },
+  "2734": {
+    "coordinates": [
+      115,
+      250
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-05T08:12:12.253Z"
+  },
+  "2735": {
+    "coordinates": [
+      179,
+      306
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:12:26.946Z"
+  },
+  "2742": {
+    "coordinates": [
+      130,
+      265
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:12:38.615Z"
+  },
+  "2743": {
+    "coordinates": [
+      134,
+      217
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-05T08:12:49.317Z"
+  },
+  "2744": {
+    "coordinates": [
+      240,
+      265
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:13:03.203Z"
+  },
+  "2745": {
+    "coordinates": [
+      119,
+      257
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-05T08:13:24.625Z"
+  },
+  "2747": {
+    "coordinates": [
+      121,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-05T08:13:32.762Z"
+  },
+  "2749": {
+    "coordinates": [
+      149,
+      241
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T16:52:08.258Z"
+  },
+  "2751": {
+    "coordinates": [
+      74,
+      255
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T16:52:45.333Z"
+  },
+  "2758": {
+    "coordinates": [
+      86,
+      253
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-09T16:53:05.336Z"
+  },
+  "2759": {
+    "coordinates": [
+      72,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T16:53:13.210Z"
+  },
+  "2761": {
+    "coordinates": [
+      79,
+      265
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T16:53:18.680Z"
+  },
+  "2764": {
+    "coordinates": [
+      81,
+      249
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:54:05.299Z"
+  },
+  "2765": {
+    "coordinates": [
+      87,
+      247
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T16:54:26.233Z"
+  },
+  "2767": {
+    "coordinates": [
+      93,
+      245
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T16:54:51.795Z"
+  },
+  "2771": {
+    "coordinates": [
+      84,
+      264
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T16:55:21.463Z"
+  },
+  "2772": {
+    "coordinates": [
+      84,
+      265
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T16:55:16.024Z"
+  },
+  "2773": {
+    "coordinates": [
+      80,
+      264
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:55:46.799Z"
+  },
+  "2774": {
+    "coordinates": [
+      80,
+      261
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:55:58.010Z"
+  },
+  "2776": {
+    "coordinates": [
+      69,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:56:05.570Z"
+  },
+  "2777": {
+    "coordinates": [
+      73,
+      258
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:56:08.360Z"
+  },
+  "2779": {
+    "coordinates": [
+      79,
+      268
+    ],
+    "zoomLevel": 5,
+    "type": "city",
+    "pinnedAt": "2026-05-09T16:56:19.397Z"
+  },
+  "2780": {
+    "coordinates": [
+      74,
+      272
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-09T16:56:29.092Z"
+  },
+  "2781": {
+    "coordinates": [
+      87,
+      277
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-09T16:56:37.931Z"
+  },
+  "2782": {
+    "coordinates": [
+      103,
+      255
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T16:57:09.233Z"
+  },
+  "2783": {
+    "coordinates": [
+      93,
+      262
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:57:12.767Z"
+  },
+  "2784": {
+    "coordinates": [
+      96,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:57:16.140Z"
+  },
+  "2785": {
+    "coordinates": [
+      98,
+      259
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T16:57:23.212Z"
+  },
+  "2786": {
+    "coordinates": [
+      87,
+      264
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T16:57:32.355Z"
+  },
+  "2787": {
+    "coordinates": [
+      108,
+      252
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-09T16:57:46.610Z"
+  },
+  "2788": {
+    "coordinates": [
+      103,
+      244
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:59:14.427Z"
+  },
+  "2789": {
+    "coordinates": [
+      105,
+      248
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:59:17.816Z"
+  },
+  "2790": {
+    "coordinates": [
+      109,
+      250
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:59:22.344Z"
+  },
+  "2791": {
+    "coordinates": [
+      104,
+      246
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T16:59:26.366Z"
+  },
+  "2793": {
+    "coordinates": [
+      103,
+      242
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T17:00:08.716Z"
+  },
+  "2796": {
+    "coordinates": [
+      85,
+      268
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T17:00:18.527Z"
+  },
+  "2797": {
+    "coordinates": [
+      91,
+      258
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T17:00:27.135Z"
+  },
+  "2798": {
+    "coordinates": [
+      136,
+      296
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-09T17:00:47.005Z"
+  },
+  "2802": {
+    "coordinates": [
+      242,
+      256
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-09T17:01:00.291Z"
+  },
+  "2803": {
+    "coordinates": [
+      215,
+      263
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:01:07.737Z"
+  },
+  "2804": {
+    "coordinates": [
+      151,
+      300
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T17:01:30.976Z"
+  },
+  "2805": {
+    "coordinates": [
+      121,
+      223
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:01:56.989Z"
+  },
+  "2806": {
+    "coordinates": [
+      161,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T17:02:22.633Z"
+  },
+  "2811": {
+    "coordinates": [
+      119,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T17:02:44.875Z"
+  },
+  "2815": {
+    "coordinates": [
+      144,
+      274
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-09T17:03:29.984Z"
+  },
+  "2816": {
+    "coordinates": [
+      151,
+      267
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:03:54.622Z"
+  },
+  "2817": {
+    "coordinates": [
+      188,
+      237
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-09T17:04:02.797Z"
+  },
+  "2819": {
+    "coordinates": [
+      192,
+      236
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-09T17:04:26.008Z"
+  },
+  "2822": {
+    "coordinates": [
+      197,
+      233
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T17:04:37.879Z"
+  },
+  "2825": {
+    "coordinates": [
+      134,
+      320
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-09T17:04:52.876Z"
+  },
+  "2830": {
+    "coordinates": [
+      203,
+      260
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:05:59.964Z"
+  },
+  "2840": {
+    "coordinates": [
+      124,
+      266
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:06:43.561Z"
+  },
+  "2843": {
+    "coordinates": [
+      179,
+      306
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T17:07:01.362Z"
+  },
+  "2844": {
+    "coordinates": [
+      93,
+      258
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:07:15.730Z"
+  },
+  "2853": {
+    "coordinates": [
+      138,
+      282
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-09T17:07:35.798Z"
+  },
+  "2854": {
+    "coordinates": [
+      123,
+      251
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T17:07:41.621Z"
+  },
+  "2855": {
+    "coordinates": [
+      129,
+      254
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T17:07:46.683Z"
+  },
+  "2856": {
+    "coordinates": [
+      119,
+      225
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-09T17:07:55.176Z"
+  },
+  "2857": {
+    "coordinates": [
+      276,
+      270
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-09T17:08:25.474Z"
+  },
+  "2862": {
+    "coordinates": [
+      213,
+      261
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T20:47:12.551Z"
+  },
+  "2868": {
+    "coordinates": [
+      282,
+      295
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:47:32.134Z"
+  },
+  "2869": {
+    "coordinates": [
+      251,
+      271
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-09T20:47:42.169Z"
+  },
+  "2870": {
+    "coordinates": [
+      287,
+      292
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:47:46.962Z"
+  },
+  "2873": {
+    "coordinates": [
+      291,
+      296
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T20:47:54.328Z"
+  },
+  "2875": {
+    "coordinates": [
+      299,
+      300
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:47:58.547Z"
+  },
+  "2879": {
+    "coordinates": [
+      245,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:49:15.688Z"
+  },
+  "2880": {
+    "coordinates": [
+      247,
+      248
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:48:15.094Z"
+  },
+  "2881": {
+    "coordinates": [
+      242,
+      256
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T20:48:21.687Z"
+  },
+  "2889": {
+    "coordinates": [
+      243,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T20:49:28.635Z"
+  },
+  "2890": {
+    "coordinates": [
+      245,
+      260
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:48:31.805Z"
+  },
+  "2896": {
+    "coordinates": [
+      243,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T20:49:50.351Z"
+  },
+  "2897": {
+    "coordinates": [
+      251,
+      282
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:50:39.296Z"
+  },
+  "2902": {
+    "coordinates": [
+      245,
+      275
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T20:50:53.522Z"
+  },
+  "2903": {
+    "coordinates": [
+      231,
+      245
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:51:14.103Z"
+  },
+  "2904": {
+    "coordinates": [
+      243,
+      253
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:51:17.959Z"
+  },
+  "2905": {
+    "coordinates": [
+      311,
+      316
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-09T20:51:51.170Z"
+  },
+  "2906": {
+    "coordinates": [
+      244,
+      277
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T20:52:04.909Z"
+  },
+  "2908": {
+    "coordinates": [
+      239,
+      249
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:52:21.025Z"
+  },
+  "2911": {
+    "coordinates": [
+      241,
+      262
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:55:02.253Z"
+  },
+  "2912": {
+    "coordinates": [
+      270,
+      287
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:55:09.243Z"
+  },
+  "2918": {
+    "coordinates": [
+      266,
+      280
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T20:58:36.718Z"
+  },
+  "2919": {
+    "coordinates": [
+      280,
+      300
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T20:58:49.894Z"
+  },
+  "2920": {
+    "coordinates": [
+      286,
+      300
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T20:58:55.474Z"
+  },
+  "2921": {
+    "coordinates": [
+      313,
+      307
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-09T20:59:01.622Z"
+  },
+  "2922": {
+    "coordinates": [
+      311,
+      314
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T20:59:15.274Z"
+  },
+  "2926": {
+    "coordinates": [
+      312,
+      303
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-09T20:59:28.396Z"
+  },
+  "2927": {
+    "coordinates": [
+      308,
+      315
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T20:59:35.729Z"
+  },
+  "2935": {
+    "coordinates": [
+      304,
+      310
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-09T21:00:04.106Z"
+  },
+  "2950": {
+    "coordinates": [
+      243,
+      262
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T21:00:23.768Z"
+  },
+  "2952": {
+    "coordinates": [
+      227,
+      299
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-09T21:00:30.080Z"
+  },
+  "2962": {
+    "coordinates": [
+      244,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-09T21:00:51.860Z"
+  },
+  "2966": {
+    "coordinates": [
+      271,
+      289
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-09T21:01:12.140Z"
+  },
+  "2967": {
+    "coordinates": [
+      235,
+      287
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T21:01:16.957Z"
+  },
+  "2968": {
+    "coordinates": [
+      320,
+      297
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T21:01:37.555Z"
+  },
+  "2974": {
+    "coordinates": [
+      318,
+      298
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-09T21:01:43.249Z"
+  },
+  "2977": {
+    "coordinates": [
+      318,
+      296
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-09T21:01:48.277Z"
+  },
+  "2978": {
+    "coordinates": [
+      319,
+      299
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T21:01:54.086Z"
+  },
+  "2979": {
+    "coordinates": [
+      321,
+      304
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T21:01:58.376Z"
+  },
+  "2980": {
+    "coordinates": [
+      313,
+      292
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-09T21:02:04.226Z"
+  },
+  "2985": {
+    "coordinates": [
+      323,
+      289
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-09T21:02:13.716Z"
+  },
+  "2988": {
+    "coordinates": [
+      250,
+      273
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T02:42:18.191Z"
+  },
+  "2989": {
+    "coordinates": [
+      230,
+      302
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T02:42:29.531Z"
+  },
+  "2995": {
+    "coordinates": [
+      237,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T02:42:48.653Z"
+  },
+  "2996": {
+    "coordinates": [
+      261,
+      284
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T02:42:59.569Z"
+  },
+  "2997": {
+    "coordinates": [
+      264,
+      290
+    ],
+    "zoomLevel": 4,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T02:43:10.028Z"
+  },
+  "3002": {
+    "coordinates": [
+      251,
+      283
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:43:44.209Z"
+  },
+  "3006": {
+    "coordinates": [
+      248,
+      282
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:44:04.169Z"
+  },
+  "3010": {
+    "coordinates": [
+      256,
+      280
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:44:13.928Z"
+  },
+  "3011": {
+    "coordinates": [
+      250,
+      276
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:44:20.546Z"
+  },
+  "3012": {
+    "coordinates": [
+      243,
+      281
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:44:25.817Z"
+  },
+  "3013": {
+    "coordinates": [
+      243,
+      281
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:44:33.997Z"
+  },
+  "3014": {
+    "coordinates": [
+      292,
+      269
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T02:46:11.047Z"
+  },
+  "3022": {
+    "coordinates": [
+      286,
+      270
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:45:54.087Z"
+  },
+  "3023": {
+    "coordinates": [
+      293,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T02:46:41.405Z"
+  },
+  "3025": {
+    "coordinates": [
+      361,
+      292
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T02:47:04.822Z"
+  },
+  "3030": {
+    "coordinates": [
+      306,
+      257
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T02:47:31.562Z"
+  },
+  "3037": {
+    "coordinates": [
+      286,
+      261
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T02:48:42.055Z"
+  },
+  "3038": {
+    "coordinates": [
+      292,
+      257
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T02:49:22.980Z"
+  },
+  "3040": {
+    "coordinates": [
+      283,
+      258
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:03:24.624Z"
+  },
+  "3041": {
+    "coordinates": [
+      285,
+      260
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:03:28.932Z"
+  },
+  "3042": {
+    "coordinates": [
+      290,
+      259
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:03:31.958Z"
+  },
+  "3043": {
+    "coordinates": [
+      287,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:03:35.361Z"
+  },
+  "3044": {
+    "coordinates": [
+      285,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:03:38.064Z"
+  },
+  "3046": {
+    "coordinates": [
+      289,
+      284
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:03:46.104Z"
+  },
+  "3047": {
+    "coordinates": [
+      343,
+      280
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:03:51.465Z"
+  },
+  "3048": {
+    "coordinates": [
+      283,
+      283
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:04:14.741Z"
+  },
+  "3051": {
+    "coordinates": [
+      293,
+      290
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:04:19.537Z"
+  },
+  "3052": {
+    "coordinates": [
+      285,
+      272
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:04:27.874Z"
+  },
+  "3053": {
+    "coordinates": [
+      287,
+      275
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:04:31.395Z"
+  },
+  "3054": {
+    "coordinates": [
+      288,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:04:34.511Z"
+  },
+  "3056": {
+    "coordinates": [
+      325,
+      272
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:04:47.369Z"
+  },
+  "3061": {
+    "coordinates": [
+      285,
+      277
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:04:54.917Z"
+  },
+  "3066": {
+    "coordinates": [
+      304,
+      265
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:05:01.737Z"
+  },
+  "3067": {
+    "coordinates": [
+      303,
+      264
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:05:07.645Z"
+  },
+  "3068": {
+    "coordinates": [
+      306,
+      267
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:05:22.508Z"
+  },
+  "3072": {
+    "coordinates": [
+      308,
+      260
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:05:28.836Z"
+  },
+  "3073": {
+    "coordinates": [
+      313,
+      261
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:05:36.851Z"
+  },
+  "3074": {
+    "coordinates": [
+      302,
+      257
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:05:39.876Z"
+  },
+  "3075": {
+    "coordinates": [
+      298,
+      254
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:05:42.776Z"
+  },
+  "3077": {
+    "coordinates": [
+      303,
+      261
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:05:47.385Z"
+  },
+  "3078": {
+    "coordinates": [
+      303,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:05:51.418Z"
+  },
+  "3079": {
+    "coordinates": [
+      300,
+      259
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:06:00.396Z"
+  },
+  "3080": {
+    "coordinates": [
+      297,
+      256
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:06:07.095Z"
+  },
+  "3081": {
+    "coordinates": [
+      306,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:06:11.491Z"
+  },
+  "3083": {
+    "coordinates": [
+      301,
+      265
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:06:16.964Z"
+  },
+  "3084": {
+    "coordinates": [
+      306,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:06:20.825Z"
+  },
+  "3086": {
+    "coordinates": [
+      363,
+      305
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T05:06:48.130Z"
+  },
+  "3087": {
+    "coordinates": [
+      337,
+      290
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:06:57.647Z"
+  },
+  "3089": {
+    "coordinates": [
+      343,
+      280
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:07:03.577Z"
+  },
+  "3090": {
+    "coordinates": [
+      340,
+      284
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:07:10.867Z"
+  },
+  "3091": {
+    "coordinates": [
+      318,
+      282
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:07:22.249Z"
+  },
+  "3092": {
+    "coordinates": [
+      342,
+      274
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:07:39.020Z"
+  },
+  "3093": {
+    "coordinates": [
+      341,
+      286
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:07:44.052Z"
+  },
+  "3098": {
+    "coordinates": [
+      345,
+      294
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:07:54.916Z"
+  },
+  "3099": {
+    "coordinates": [
+      353,
+      285
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:08:01.267Z"
+  },
+  "3100": {
+    "coordinates": [
+      328,
+      283
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:08:11.069Z"
+  },
+  "3102": {
+    "coordinates": [
+      328,
+      297
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:08:14.846Z"
+  },
+  "3103": {
+    "coordinates": [
+      330,
+      303
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:08:21.949Z"
+  },
+  "3104": {
+    "coordinates": [
+      359,
+      303
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:08:25.476Z"
+  },
+  "3106": {
+    "coordinates": [
+      347,
+      288
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:08:45.199Z"
+  },
+  "3107": {
+    "coordinates": [
+      325,
+      286
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:08:55.447Z"
+  },
+  "3108": {
+    "coordinates": [
+      271,
+      272
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:09:01.972Z"
+  },
+  "3109": {
+    "coordinates": [
+      272,
+      269
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:09:17.970Z"
+  },
+  "3110": {
+    "coordinates": [
+      263,
+      268
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:18:40.857Z"
+  },
+  "3112": {
+    "coordinates": [
+      257,
+      273
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:18:49.839Z"
+  },
+  "3113": {
+    "coordinates": [
+      262,
+      276
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:18:53.600Z"
+  },
+  "3115": {
+    "coordinates": [
+      273,
+      263
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:19:06.885Z"
+  },
+  "3116": {
+    "coordinates": [
+      277,
+      266
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:19:10.360Z"
+  },
+  "3117": {
+    "coordinates": [
+      268,
+      274
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:19:14.214Z"
+  },
+  "3118": {
+    "coordinates": [
+      280,
+      271
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:19:21.181Z"
+  },
+  "3120": {
+    "coordinates": [
+      273,
+      264
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:26.480Z"
+  },
+  "3121": {
+    "coordinates": [
+      259,
+      270
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:35.453Z"
+  },
+  "3122": {
+    "coordinates": [
+      278,
+      271
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:40.634Z"
+  },
+  "3123": {
+    "coordinates": [
+      272,
+      273
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:43.490Z"
+  },
+  "3124": {
+    "coordinates": [
+      262,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:46.492Z"
+  },
+  "3125": {
+    "coordinates": [
+      266,
+      285
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:19:54.744Z"
+  },
+  "3126": {
+    "coordinates": [
+      485,
+      471
+    ],
+    "zoomLevel": 0,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:21:03.245Z"
+  },
+  "3129": {
+    "coordinates": [
+      515,
+      475
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T05:21:10.180Z"
+  },
+  "3133": {
+    "coordinates": [
+      307,
+      280
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:21:28.643Z"
+  },
+  "3137": {
+    "coordinates": [
+      304,
+      275
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:21:39.112Z"
+  },
+  "3138": {
+    "coordinates": [
+      294,
+      273
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:21:43.903Z"
+  },
+  "3139": {
+    "coordinates": [
+      296,
+      274
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:21:46.746Z"
+  },
+  "3140": {
+    "coordinates": [
+      297,
+      276
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:00.235Z"
+  },
+  "3141": {
+    "coordinates": [
+      298,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:03.642Z"
+  },
+  "3142": {
+    "coordinates": [
+      299,
+      272
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:07.184Z"
+  },
+  "3143": {
+    "coordinates": [
+      302,
+      272
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:10.468Z"
+  },
+  "3144": {
+    "coordinates": [
+      302,
+      273
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:17.750Z"
+  },
+  "3146": {
+    "coordinates": [
+      315,
+      271
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:27.262Z"
+  },
+  "3147": {
+    "coordinates": [
+      313,
+      272
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:31.114Z"
+  },
+  "3148": {
+    "coordinates": [
+      317,
+      275
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:22:38.388Z"
+  },
+  "3149": {
+    "coordinates": [
+      315,
+      280
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:22:46.663Z"
+  },
+  "3151": {
+    "coordinates": [
+      282,
+      339
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:23:43.606Z"
+  },
+  "3158": {
+    "coordinates": [
+      240,
+      353
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:24:34.530Z"
+  },
+  "3160": {
+    "coordinates": [
+      217,
+      344
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:30:24.303Z"
+  },
+  "3161": {
+    "coordinates": [
+      272,
+      369
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:26:52.857Z"
+  },
+  "3163": {
+    "coordinates": [
+      294,
+      329
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:27:37.135Z"
+  },
+  "3164": {
+    "coordinates": [
+      145,
+      395
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:28:01.686Z"
+  },
+  "3165": {
+    "coordinates": [
+      380,
+      386
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:28:39.841Z"
+  },
+  "3166": {
+    "coordinates": [
+      283,
+      361
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:28:54.123Z"
+  },
+  "3167": {
+    "coordinates": [
+      307,
+      324
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:29:17.765Z"
+  },
+  "3168": {
+    "coordinates": [
+      260,
+      336
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:29:26.874Z"
+  },
+  "3174": {
+    "coordinates": [
+      281,
+      329
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:29:42.222Z"
+  },
+  "3175": {
+    "coordinates": [
+      272,
+      368
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:29:49.199Z"
+  },
+  "3176": {
+    "coordinates": [
+      234,
+      341
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:30:00.860Z"
+  },
+  "3177": {
+    "coordinates": [
+      216,
+      378
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:30:36.173Z"
+  },
+  "3178": {
+    "coordinates": [
+      281,
+      323
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:30:40.880Z"
+  },
+  "3189": {
+    "coordinates": [
+      263,
+      336
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:32:01.697Z"
+  },
+  "3190": {
+    "coordinates": [
+      265,
+      299
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:32:11.124Z"
+  },
+  "3191": {
+    "coordinates": [
+      288,
+      312
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:32:34.789Z"
+  },
+  "3192": {
+    "coordinates": [
+      292,
+      353
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:32:48.213Z"
+  },
+  "3196": {
+    "coordinates": [
+      270,
+      312
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:32:57.456Z"
+  },
+  "3200": {
+    "coordinates": [
+      280,
+      310
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:33:04.769Z"
+  },
+  "3205": {
+    "coordinates": [
+      240,
+      353
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:33:11.503Z"
+  },
+  "3206": {
+    "coordinates": [
+      367,
+      355
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:33:18.026Z"
+  },
+  "3207": {
+    "coordinates": [
+      371,
+      344
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:33:25.151Z"
+  },
+  "3208": {
+    "coordinates": [
+      364,
+      345
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:33:35.931Z"
+  },
+  "3209": {
+    "coordinates": [
+      354,
+      345
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:33:45.280Z"
+  },
+  "3210": {
+    "coordinates": [
+      369,
+      353
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:33:53.014Z"
+  },
+  "3211": {
+    "coordinates": [
+      363,
+      344
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:33:56.489Z"
+  },
+  "3212": {
+    "coordinates": [
+      364,
+      356
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:03.867Z"
+  },
+  "3213": {
+    "coordinates": [
+      373,
+      350
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:07.458Z"
+  },
+  "3214": {
+    "coordinates": [
+      361,
+      334
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:18.037Z"
+  },
+  "3216": {
+    "coordinates": [
+      370,
+      335
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:28.499Z"
+  },
+  "3218": {
+    "coordinates": [
+      351,
+      335
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:32.130Z"
+  },
+  "3219": {
+    "coordinates": [
+      345,
+      338
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:38.004Z"
+  },
+  "3220": {
+    "coordinates": [
+      395,
+      359
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:34:45.323Z"
+  },
+  "3222": {
+    "coordinates": [
+      380,
+      374
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:35:01.466Z"
+  },
+  "3223": {
+    "coordinates": [
+      375,
+      371
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:35:06.689Z"
+  },
+  "3224": {
+    "coordinates": [
+      355,
+      376
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:35:29.494Z"
+  },
+  "3226": {
+    "coordinates": [
+      361,
+      352
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:35:43.368Z"
+  },
+  "3228": {
+    "coordinates": [
+      360,
+      353
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:35:49.575Z"
+  },
+  "3229": {
+    "coordinates": [
+      353,
+      343
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:35:59.042Z"
+  },
+  "3231": {
+    "coordinates": [
+      372,
+      361
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:36:08.303Z"
+  },
+  "3233": {
+    "coordinates": [
+      374,
+      362
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:36:12.930Z"
+  },
+  "3234": {
+    "coordinates": [
+      380,
+      355
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:36:17.244Z"
+  },
+  "3236": {
+    "coordinates": [
+      385,
+      356
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:36:24.621Z"
+  },
+  "3244": {
+    "coordinates": [
+      353,
+      350
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:36:59.225Z"
+  },
+  "3245": {
+    "coordinates": [
+      388,
+      350
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:37:14.458Z"
+  },
+  "3246": {
+    "coordinates": [
+      384,
+      366
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:37:20.098Z"
+  },
+  "3247": {
+    "coordinates": [
+      357,
+      372
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:37:28.925Z"
+  },
+  "3248": {
+    "coordinates": [
+      370,
+      373
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:37:39.185Z"
+  },
+  "3249": {
+    "coordinates": [
+      350,
+      361
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:37:42.859Z"
+  },
+  "3250": {
+    "coordinates": [
+      308,
+      349
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:37:55.126Z"
+  },
+  "3254": {
+    "coordinates": [
+      327,
+      342
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:38:28.288Z"
+  },
+  "3255": {
+    "coordinates": [
+      317,
+      347
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:38:36.418Z"
+  },
+  "3259": {
+    "coordinates": [
+      270,
+      320
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:38:53.102Z"
+  },
+  "3260": {
+    "coordinates": [
+      336,
+      384
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:39:31.171Z"
+  },
+  "3274": {
+    "coordinates": [
+      238,
+      318
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:46:37.028Z"
+  },
+  "3275": {
+    "coordinates": [
+      198,
+      355
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:46:55.453Z"
+  },
+  "3276": {
+    "coordinates": [
+      205,
+      348
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:47:06.330Z"
+  },
+  "3278": {
+    "coordinates": [
+      152,
+      387
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:47:20.256Z"
+  },
+  "3279": {
+    "coordinates": [
+      158,
+      383
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:47:23.461Z"
+  },
+  "3281": {
+    "coordinates": [
+      185,
+      340
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:47:31.300Z"
+  },
+  "3284": {
+    "coordinates": [
+      142,
+      398
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:47:47.323Z"
+  },
+  "3288": {
+    "coordinates": [
+      257,
+      316
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:48:07.456Z"
+  },
+  "3289": {
+    "coordinates": [
+      158,
+      383
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:48:14.205Z"
+  },
+  "3290": {
+    "coordinates": [
+      154,
+      389
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:48:24.189Z"
+  },
+  "3291": {
+    "coordinates": [
+      327,
+      346
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:48:49.377Z"
+  },
+  "3292": {
+    "coordinates": [
+      181,
+      339
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:49:01.369Z"
+  },
+  "3299": {
+    "coordinates": [
+      159,
+      393
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:49:38.892Z"
+  },
+  "3300": {
+    "coordinates": [
+      317,
+      387
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:49:52.930Z"
+  },
+  "3301": {
+    "coordinates": [
+      321,
+      393
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:49:57.956Z"
+  },
+  "3302": {
+    "coordinates": [
+      318,
+      384
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:50:04.622Z"
+  },
+  "3303": {
+    "coordinates": [
+      323,
+      394
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:50:21.353Z"
+  },
+  "3304": {
+    "coordinates": [
+      307,
+      385
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:50:29.197Z"
+  },
+  "3305": {
+    "coordinates": [
+      208,
+      362
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:50:46.688Z"
+  },
+  "3306": {
+    "coordinates": [
+      222,
+      345
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T05:50:53.391Z"
+  },
+  "3313": {
+    "coordinates": [
+      323,
+      394
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:51:06.508Z"
+  },
+  "3314": {
+    "coordinates": [
+      200,
+      375
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:51:22.376Z"
+  },
+  "3317": {
+    "coordinates": [
+      201,
+      375
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:51:30.855Z"
+  },
+  "3321": {
+    "coordinates": [
+      201,
+      377
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:51:37.000Z"
+  },
+  "3327": {
+    "coordinates": [
+      197,
+      376
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:51:46.541Z"
+  },
+  "3332": {
+    "coordinates": [
+      317,
+      387
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:51:57.667Z"
+  },
+  "3335": {
+    "coordinates": [
+      141,
+      403
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:52:09.714Z"
+  },
+  "3336": {
+    "coordinates": [
+      138,
+      400
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:52:14.562Z"
+  },
+  "3337": {
+    "coordinates": [
+      202,
+      351
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:52:23.704Z"
+  },
+  "3338": {
+    "coordinates": [
+      178,
+      388
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:52:58.777Z"
+  },
+  "3339": {
+    "coordinates": [
+      167,
+      370
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:52:40.158Z"
+  },
+  "3340": {
+    "coordinates": [
+      235,
+      350
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:53:03.123Z"
+  },
+  "3341": {
+    "coordinates": [
+      94,
+      502
+    ],
+    "zoomLevel": 0,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:53:14.227Z"
+  },
+  "3342": {
+    "coordinates": [
+      39,
+      324
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:53:30.622Z"
+  },
+  "3344": {
+    "coordinates": [
+      36,
+      390
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:53:53.792Z"
+  },
+  "3346": {
+    "coordinates": [
+      39,
+      345
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:54:01.672Z"
+  },
+  "3348": {
+    "coordinates": [
+      44,
+      277
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:54:20.132Z"
+  },
+  "3353": {
+    "coordinates": [
+      58,
+      271
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:54:32.430Z"
+  },
+  "3354": {
+    "coordinates": [
+      52,
+      271
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:54:39.230Z"
+  },
+  "3357": {
+    "coordinates": [
+      59,
+      274
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:54:49.368Z"
+  },
+  "3358": {
+    "coordinates": [
+      58,
+      273
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:54:53.391Z"
+  },
+  "3359": {
+    "coordinates": [
+      59,
+      275
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:54:56.509Z"
+  },
+  "3360": {
+    "coordinates": [
+      60,
+      273
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:55:02.825Z"
+  },
+  "3361": {
+    "coordinates": [
+      57,
+      276
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:55:06.895Z"
+  },
+  "3362": {
+    "coordinates": [
+      58,
+      278
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:55:11.428Z"
+  },
+  "3363": {
+    "coordinates": [
+      45,
+      340
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:55:23.121Z"
+  },
+  "3365": {
+    "coordinates": [
+      47,
+      335
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:55:40.971Z"
+  },
+  "3368": {
+    "coordinates": [
+      7,
+      333
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:55:49.694Z"
+  },
+  "3373": {
+    "coordinates": [
+      29,
+      321
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:56:01.778Z"
+  },
+  "3374": {
+    "coordinates": [
+      31,
+      320
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:56:12.145Z"
+  },
+  "3375": {
+    "coordinates": [
+      51,
+      280
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:56:31.858Z"
+  },
+  "3376": {
+    "coordinates": [
+      51,
+      279
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:56:34.811Z"
+  },
+  "3377": {
+    "coordinates": [
+      52,
+      274
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:56:38.356Z"
+  },
+  "3378": {
+    "coordinates": [
+      44,
+      276
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:56:58.414Z"
+  },
+  "3379": {
+    "coordinates": [
+      45,
+      277
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:57:01.409Z"
+  },
+  "3380": {
+    "coordinates": [
+      42,
+      350
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:57:13.163Z"
+  },
+  "3383": {
+    "coordinates": [
+      40,
+      358
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:57:21.450Z"
+  },
+  "3384": {
+    "coordinates": [
+      39,
+      347
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T05:57:26.143Z"
+  },
+  "3385": {
+    "coordinates": [
+      42,
+      298
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T05:58:20.431Z"
+  },
+  "3388": {
+    "coordinates": [
+      45,
+      283
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:58:12.576Z"
+  },
+  "3390": {
+    "coordinates": [
+      44,
+      289
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:58:25.680Z"
+  },
+  "3391": {
+    "coordinates": [
+      38,
+      294
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:58:40.030Z"
+  },
+  "3394": {
+    "coordinates": [
+      50,
+      290
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T05:58:46.254Z"
+  },
+  "3395": {
+    "coordinates": [
+      42,
+      287
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:58:52.983Z"
+  },
+  "3396": {
+    "coordinates": [
+      47,
+      281
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:59:17.004Z"
+  },
+  "3397": {
+    "coordinates": [
+      47,
+      293
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T05:59:21.711Z"
+  },
+  "3399": {
+    "coordinates": [
+      56,
+      296
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T05:59:39.562Z"
+  },
+  "3401": {
+    "coordinates": [
+      64,
+      264
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T05:59:50.845Z"
+  },
+  "3402": {
+    "coordinates": [
+      63,
+      294
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:00:01.675Z"
+  },
+  "3404": {
+    "coordinates": [
+      61,
+      267
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T06:00:20.391Z"
+  },
+  "3405": {
+    "coordinates": [
+      36,
+      339
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:00:25.915Z"
+  },
+  "3407": {
+    "coordinates": [
+      38,
+      339
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:00:32.869Z"
+  },
+  "3411": {
+    "coordinates": [
+      42,
+      332
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:00:55.094Z"
+  },
+  "3412": {
+    "coordinates": [
+      30,
+      321
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:01:05.127Z"
+  },
+  "3413": {
+    "coordinates": [
+      29,
+      321
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:01:09.657Z"
+  },
+  "3415": {
+    "coordinates": [
+      56,
+      288
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:01:19.026Z"
+  },
+  "3420": {
+    "coordinates": [
+      31,
+      352
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:01:41.838Z"
+  },
+  "3426": {
+    "coordinates": [
+      46,
+      346
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T06:02:01.691Z"
+  },
+  "3427": {
+    "coordinates": [
+      48,
+      344
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:02:04.882Z"
+  },
+  "3430": {
+    "coordinates": [
+      41,
+      290
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:02:20.831Z"
+  },
+  "3435": {
+    "coordinates": [
+      33,
+      322
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:02:48.612Z"
+  },
+  "3436": {
+    "coordinates": [
+      35,
+      321
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:03:09.254Z"
+  },
+  "3440": {
+    "coordinates": [
+      39,
+      347
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:03:19.207Z"
+  },
+  "3445": {
+    "coordinates": [
+      45,
+      283
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:06:06.176Z"
+  },
+  "3446": {
+    "coordinates": [
+      40,
+      345
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:06:42.453Z"
+  },
+  "3447": {
+    "coordinates": [
+      56,
+      293
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:06:50.447Z"
+  },
+  "3451": {
+    "coordinates": [
+      58,
+      294
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:06:59.435Z"
+  },
+  "3454": {
+    "coordinates": [
+      60,
+      262
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:07:10.204Z"
+  },
+  "3459": {
+    "coordinates": [
+      31,
+      368
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:07:30.641Z"
+  },
+  "3460": {
+    "coordinates": [
+      23,
+      331
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:07:40.829Z"
+  },
+  "3465": {
+    "coordinates": [
+      45,
+      302
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:08:04.390Z"
+  },
+  "3468": {
+    "coordinates": [
+      46,
+      305
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T06:08:30.710Z"
+  },
+  "3471": {
+    "coordinates": [
+      46,
+      320
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:08:49.349Z"
+  },
+  "3472": {
+    "coordinates": [
+      38,
+      330
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:08:53.249Z"
+  },
+  "3474": {
+    "coordinates": [
+      41,
+      331
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:08:58.004Z"
+  },
+  "3476": {
+    "coordinates": [
+      51,
+      436
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:10:01.295Z"
+  },
+  "3484": {
+    "coordinates": [
+      41,
+      441
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:10:25.607Z"
+  },
+  "3489": {
+    "coordinates": [
+      36,
+      367
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:10:42.700Z"
+  },
+  "3494": {
+    "coordinates": [
+      76,
+      447
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:13:24.690Z"
+  },
+  "3498": {
+    "coordinates": [
+      68,
+      420
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:13:39.651Z"
+  },
+  "3502": {
+    "coordinates": [
+      35,
+      403
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:13:55.863Z"
+  },
+  "3508": {
+    "coordinates": [
+      40,
+      396
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:14:36.902Z"
+  },
+  "3512": {
+    "coordinates": [
+      41,
+      418
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:14:49.117Z"
+  },
+  "3514": {
+    "coordinates": [
+      60,
+      460
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:15:28.732Z"
+  },
+  "3515": {
+    "coordinates": [
+      40,
+      439
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:15:38.839Z"
+  },
+  "3521": {
+    "coordinates": [
+      69,
+      446
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:15:56.733Z"
+  },
+  "3525": {
+    "coordinates": [
+      49,
+      397
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:16:35.903Z"
+  },
+  "3529": {
+    "coordinates": [
+      48,
+      465
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:16:54.136Z"
+  },
+  "3532": {
+    "coordinates": [
+      34,
+      432
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T06:17:09.262Z"
+  },
+  "3539": {
+    "coordinates": [
+      51,
+      449
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:17:36.967Z"
+  },
+  "3540": {
+    "coordinates": [
+      45,
+      468
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:17:48.135Z"
+  },
+  "3543": {
+    "coordinates": [
+      49,
+      467
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:18:18.743Z"
+  },
+  "3544": {
+    "coordinates": [
+      47,
+      463
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:17:58.126Z"
+  },
+  "3547": {
+    "coordinates": [
+      43,
+      380
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T06:19:32.185Z"
+  },
+  "3548": {
+    "coordinates": [
+      69,
+      429
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:19:38.473Z"
+  },
+  "3549": {
+    "coordinates": [
+      47,
+      463
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:19:52.822Z"
+  },
+  "3554": {
+    "coordinates": [
+      71,
+      454
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:20:18.031Z"
+  },
+  "3557": {
+    "coordinates": [
+      72,
+      454
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:20:22.955Z"
+  },
+  "3558": {
+    "coordinates": [
+      42,
+      381
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:20:35.176Z"
+  },
+  "3567": {
+    "coordinates": [
+      52,
+      436
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:22:25.897Z"
+  },
+  "3573": {
+    "coordinates": [
+      44,
+      420
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:22:57.639Z"
+  },
+  "3576": {
+    "coordinates": [
+      82,
+      452
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:23:12.163Z"
+  },
+  "3578": {
+    "coordinates": [
+      69,
+      459
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T06:23:17.407Z"
+  },
+  "3579": {
+    "coordinates": [
+      71,
+      449
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:23:43.852Z"
+  },
+  "3583": {
+    "coordinates": [
+      71,
+      444
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:24:19.853Z"
+  },
+  "3587": {
+    "coordinates": [
+      67,
+      447
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:24:26.044Z"
+  },
+  "3591": {
+    "coordinates": [
+      68,
+      452
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:24:29.535Z"
+  },
+  "3595": {
+    "coordinates": [
+      66,
+      466
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:24:37.512Z"
+  },
+  "3596": {
+    "coordinates": [
+      45,
+      391
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T06:25:05.669Z"
+  },
+  "3602": {
+    "coordinates": [
+      55,
+      488
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:25:30.132Z"
+  },
+  "3603": {
+    "coordinates": [
+      56,
+      448
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:26:14.904Z"
+  },
+  "3604": {
+    "coordinates": [
+      51,
+      400
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:26:20.706Z"
+  },
+  "3606": {
+    "coordinates": [
+      44,
+      390
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:26:30.038Z"
+  },
+  "3607": {
+    "coordinates": [
+      44,
+      398
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:26:34.033Z"
+  },
+  "3608": {
+    "coordinates": [
+      57,
+      401
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:27:07.397Z"
+  },
+  "3610": {
+    "coordinates": [
+      69,
+      446
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T06:27:17.197Z"
+  },
+  "3614": {
+    "coordinates": [
+      51,
+      424
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T06:27:29.214Z"
+  },
+  "3620": {
+    "coordinates": [
+      69,
+      450
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T06:27:35.746Z"
+  },
+  "3624": {
+    "coordinates": [
+      35,
+      362
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T06:27:48.051Z"
+  },
+  "3627": {
+    "coordinates": [
+      47,
+      389
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:23:07.890Z"
+  },
+  "3632": {
+    "coordinates": [
+      57,
+      399
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:23:14.100Z"
+  },
+  "3637": {
+    "coordinates": [
+      44,
+      390
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:23:41.641Z"
+  },
+  "3643": {
+    "coordinates": [
+      57,
+      401
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:23:53.917Z"
+  },
+  "3648": {
+    "coordinates": [
+      44,
+      398
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:23:59.885Z"
+  },
+  "3653": {
+    "coordinates": [
+      36,
+      390
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:24:09.228Z"
+  },
+  "3657": {
+    "coordinates": [
+      50,
+      403
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:24:15.366Z"
+  },
+  "3661": {
+    "coordinates": [
+      75,
+      447
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:24:35.402Z"
+  },
+  "3662": {
+    "coordinates": [
+      134,
+      418
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:24:54.242Z"
+  },
+  "3670": {
+    "coordinates": [
+      167,
+      402
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:25:05.569Z"
+  },
+  "3671": {
+    "coordinates": [
+      180,
+      451
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:25:17.565Z"
+  },
+  "3672": {
+    "coordinates": [
+      163,
+      459
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:25:22.915Z"
+  },
+  "3674": {
+    "coordinates": [
+      184,
+      439
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:25:33.666Z"
+  },
+  "3677": {
+    "coordinates": [
+      136,
+      441
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:26:20.336Z"
+  },
+  "3679": {
+    "coordinates": [
+      164,
+      427
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:26:37.182Z"
+  },
+  "3680": {
+    "coordinates": [
+      126,
+      418
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:26:45.419Z"
+  },
+  "3681": {
+    "coordinates": [
+      125,
+      416
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:26:48.380Z"
+  },
+  "3683": {
+    "coordinates": [
+      178,
+      413
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:27:00.640Z"
+  },
+  "3684": {
+    "coordinates": [
+      144,
+      429
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:27:07.662Z"
+  },
+  "3687": {
+    "coordinates": [
+      143,
+      428
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:27:53.063Z"
+  },
+  "3689": {
+    "coordinates": [
+      160,
+      421
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:27:58.363Z"
+  },
+  "3696": {
+    "coordinates": [
+      105,
+      421
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:28:04.522Z"
+  },
+  "3700": {
+    "coordinates": [
+      193,
+      392
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:28:09.716Z"
+  },
+  "3703": {
+    "coordinates": [
+      198,
+      395
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:28:12.483Z"
+  },
+  "3711": {
+    "coordinates": [
+      189,
+      395
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:28:18.579Z"
+  },
+  "3716": {
+    "coordinates": [
+      199,
+      380
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:28:29.505Z"
+  },
+  "3720": {
+    "coordinates": [
+      139,
+      410
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:28:38.782Z"
+  },
+  "3723": {
+    "coordinates": [
+      168,
+      423
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:28:51.698Z"
+  },
+  "3724": {
+    "coordinates": [
+      79,
+      418
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:29:15.324Z"
+  },
+  "3725": {
+    "coordinates": [
+      204,
+      418
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:29:24.643Z"
+  },
+  "3733": {
+    "coordinates": [
+      199,
+      416
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:29:32.661Z"
+  },
+  "3737": {
+    "coordinates": [
+      199,
+      421
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:29:41.362Z"
+  },
+  "3740": {
+    "coordinates": [
+      211,
+      426
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:29:49.687Z"
+  },
+  "3741": {
+    "coordinates": [
+      209,
+      425
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:29:58.012Z"
+  },
+  "3742": {
+    "coordinates": [
+      219,
+      417
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:30:13.489Z"
+  },
+  "3747": {
+    "coordinates": [
+      223,
+      416
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:30:21.300Z"
+  },
+  "3750": {
+    "coordinates": [
+      210,
+      422
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:30:28.035Z"
+  },
+  "3756": {
+    "coordinates": [
+      223,
+      416
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:30:35.062Z"
+  },
+  "3761": {
+    "coordinates": [
+      203,
+      419
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:30:42.095Z"
+  },
+  "3763": {
+    "coordinates": [
+      205,
+      415
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:30:48.839Z"
+  },
+  "3767": {
+    "coordinates": [
+      209,
+      429
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:31:05.898Z"
+  },
+  "3768": {
+    "coordinates": [
+      208,
+      426
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:31:09.322Z"
+  },
+  "3775": {
+    "coordinates": [
+      209,
+      424
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:31:14.132Z"
+  },
+  "3776": {
+    "coordinates": [
+      221,
+      429
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:31:19.011Z"
+  },
+  "3781": {
+    "coordinates": [
+      222,
+      426
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:31:26.378Z"
+  },
+  "3785": {
+    "coordinates": [
+      223,
+      423
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:31:33.262Z"
+  },
+  "3786": {
+    "coordinates": [
+      206,
+      413
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:31:38.374Z"
+  },
+  "3791": {
+    "coordinates": [
+      208,
+      415
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:31:50.067Z"
+  },
+  "3793": {
+    "coordinates": [
+      124,
+      450
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:32:16.527Z"
+  },
+  "3799": {
+    "coordinates": [
+      131,
+      444
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:32:25.308Z"
+  },
+  "3800": {
+    "coordinates": [
+      140,
+      443
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:35:40.146Z"
+  },
+  "3801": {
+    "coordinates": [
+      130,
+      439
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:35:49.418Z"
+  },
+  "3802": {
+    "coordinates": [
+      127,
+      443
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:35:51.847Z"
+  },
+  "3803": {
+    "coordinates": [
+      132,
+      447
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:35:53.799Z"
+  },
+  "3804": {
+    "coordinates": [
+      120,
+      447
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:35:56.533Z"
+  },
+  "3806": {
+    "coordinates": [
+      118,
+      448
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:35:58.684Z"
+  },
+  "3807": {
+    "coordinates": [
+      146,
+      465
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:36:07.712Z"
+  },
+  "3812": {
+    "coordinates": [
+      138,
+      464
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:36:27.512Z"
+  },
+  "3814": {
+    "coordinates": [
+      121,
+      478
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:36:32.454Z"
+  },
+  "3816": {
+    "coordinates": [
+      122,
+      477
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:36:39.726Z"
+  },
+  "3817": {
+    "coordinates": [
+      130,
+      455
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:36:53.431Z"
+  },
+  "3820": {
+    "coordinates": [
+      129,
+      446
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:37:13.152Z"
+  },
+  "3823": {
+    "coordinates": [
+      144,
+      449
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:37:48.146Z"
+  },
+  "3824": {
+    "coordinates": [
+      133,
+      477
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:38:06.857Z"
+  },
+  "3827": {
+    "coordinates": [
+      129,
+      476
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:38:10.778Z"
+  },
+  "3830": {
+    "coordinates": [
+      127,
+      470
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:38:16.940Z"
+  },
+  "3832": {
+    "coordinates": [
+      99,
+      433
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:38:40.235Z"
+  },
+  "3833": {
+    "coordinates": [
+      114,
+      493
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:38:52.448Z"
+  },
+  "3834": {
+    "coordinates": [
+      122,
+      465
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:38:56.873Z"
+  },
+  "3835": {
+    "coordinates": [
+      170,
+      433
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:39:05.446Z"
+  },
+  "3837": {
+    "coordinates": [
+      144,
+      452
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:39:12.441Z"
+  },
+  "3838": {
+    "coordinates": [
+      143,
+      455
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T07:39:21.981Z"
+  },
+  "3839": {
+    "coordinates": [
+      152,
+      446
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:39:28.307Z"
+  },
+  "3840": {
+    "coordinates": [
+      81,
+      429
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:39:36.332Z"
+  },
+  "3843": {
+    "coordinates": [
+      111,
+      437
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:39:40.264Z"
+  },
+  "3844": {
+    "coordinates": [
+      92,
+      455
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:39:57.625Z"
+  },
+  "3850": {
+    "coordinates": [
+      325,
+      140
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:40:40.602Z"
+  },
+  "3851": {
+    "coordinates": [
+      102,
+      460
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:40:59.928Z"
+  },
+  "3852": {
+    "coordinates": [
+      96,
+      447
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:41:06.687Z"
+  },
+  "3853": {
+    "coordinates": [
+      84,
+      437
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:41:12.271Z"
+  },
+  "3854": {
+    "coordinates": [
+      81,
+      466
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:41:22.492Z"
+  },
+  "3855": {
+    "coordinates": [
+      86,
+      443
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:41:26.114Z"
+  },
+  "3856": {
+    "coordinates": [
+      114,
+      460
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:41:36.763Z"
+  },
+  "3857": {
+    "coordinates": [
+      79,
+      462
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:41:45.268Z"
+  },
+  "3858": {
+    "coordinates": [
+      119,
+      456
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:41:49.964Z"
+  },
+  "3859": {
+    "coordinates": [
+      95,
+      460
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:41:58.463Z"
+  },
+  "3879": {
+    "coordinates": [
+      94,
+      450
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:42:34.710Z"
+  },
+  "3880": {
+    "coordinates": [
+      91,
+      457
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:42:38.278Z"
+  },
+  "3881": {
+    "coordinates": [
+      75,
+      470
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:42:42.838Z"
+  },
+  "3882": {
+    "coordinates": [
+      74,
+      467
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:42:45.923Z"
+  },
+  "3883": {
+    "coordinates": [
+      97,
+      442
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:42:51.594Z"
+  },
+  "3884": {
+    "coordinates": [
+      95,
+      463
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:42:54.560Z"
+  },
+  "3885": {
+    "coordinates": [
+      117,
+      453
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:42:58.847Z"
+  },
+  "3886": {
+    "coordinates": [
+      80,
+      469
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:43:08.730Z"
+  },
+  "3887": {
+    "coordinates": [
+      89,
+      464
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:43:25.031Z"
+  },
+  "3888": {
+    "coordinates": [
+      89,
+      444
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:43:33.313Z"
+  },
+  "3897": {
+    "coordinates": [
+      83,
+      452
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:44:26.431Z"
+  },
+  "3898": {
+    "coordinates": [
+      87,
+      466
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:44:37.225Z"
+  },
+  "3899": {
+    "coordinates": [
+      109,
+      457
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:44:43.508Z"
+  },
+  "3900": {
+    "coordinates": [
+      111,
+      453
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:44:45.947Z"
+  },
+  "3901": {
+    "coordinates": [
+      101,
+      452
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:44:49.412Z"
+  },
+  "3902": {
+    "coordinates": [
+      106,
+      521
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:45:18.801Z"
+  },
+  "3905": {
+    "coordinates": [
+      79,
+      513
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:45:25.303Z"
+  },
+  "3912": {
+    "coordinates": [
+      149,
+      479
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:45:37.572Z"
+  },
+  "3913": {
+    "coordinates": [
+      111,
+      522
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T07:45:47.976Z"
+  },
+  "3917": {
+    "coordinates": [
+      113,
+      523
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:45:56.337Z"
+  },
+  "3918": {
+    "coordinates": [
+      115,
+      520
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-10T07:45:59.608Z"
+  },
+  "3921": {
+    "coordinates": [
+      53,
+      503
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:46:12.075Z"
+  },
+  "3922": {
+    "coordinates": [
+      46,
+      516
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:46:19.586Z"
+  },
+  "3923": {
+    "coordinates": [
+      40,
+      524
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:47:07.779Z"
+  },
+  "3928": {
+    "coordinates": [
+      133,
+      581
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:47:45.124Z"
+  },
+  "3929": {
+    "coordinates": [
+      98,
+      532
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:47:59.033Z"
+  },
+  "3932": {
+    "coordinates": [
+      97,
+      530
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:48:04.967Z"
+  },
+  "3942": {
+    "coordinates": [
+      121,
+      478
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:48:35.964Z"
+  },
+  "3946": {
+    "coordinates": [
+      91,
+      571
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:49:02.568Z"
+  },
+  "3952": {
+    "coordinates": [
+      62,
+      544
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:49:16.314Z"
+  },
+  "3955": {
+    "coordinates": [
+      50,
+      541
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:49:33.967Z"
+  },
+  "3957": {
+    "coordinates": [
+      106,
+      562
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:50:02.405Z"
+  },
+  "3961": {
+    "coordinates": [
+      120,
+      562
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:50:26.785Z"
+  },
+  "3967": {
+    "coordinates": [
+      135,
+      540
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:50:44.143Z"
+  },
+  "3972": {
+    "coordinates": [
+      83,
+      507
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:51:04.406Z"
+  },
+  "3977": {
+    "coordinates": [
+      92,
+      493
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T07:51:15.346Z"
+  },
+  "3981": {
+    "coordinates": [
+      145,
+      479
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:51:24.547Z"
+  },
+  "3982": {
+    "coordinates": [
+      108,
+      525
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T07:51:30.807Z"
+  },
+  "3983": {
+    "coordinates": [
+      163,
+      501
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:52:07.084Z"
+  },
+  "3984": {
+    "coordinates": [
+      106,
+      578
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:52:19.942Z"
+  },
+  "3997": {
+    "coordinates": [
+      135,
+      540
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:52:44.976Z"
+  },
+  "3998": {
+    "coordinates": [
+      96,
+      563
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:52:52.785Z"
+  },
+  "4003": {
+    "coordinates": [
+      154,
+      470
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:53:17.270Z"
+  },
+  "4004": {
+    "coordinates": [
+      164,
+      486
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T07:53:25.767Z"
+  },
+  "4009": {
+    "coordinates": [
+      84,
+      558
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:53:45.546Z"
+  },
+  "4010": {
+    "coordinates": [
+      137,
+      508
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:53:56.639Z"
+  },
+  "4016": {
+    "coordinates": [
+      154,
+      482
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:54:08.265Z"
+  },
+  "4019": {
+    "coordinates": [
+      154,
+      474
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:54:20.138Z"
+  },
+  "4020": {
+    "coordinates": [
+      155,
+      483
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:54:26.267Z"
+  },
+  "4021": {
+    "coordinates": [
+      161,
+      480
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:54:29.573Z"
+  },
+  "4028": {
+    "coordinates": [
+      97,
+      520
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:55:53.699Z"
+  },
+  "4029": {
+    "coordinates": [
+      96,
+      512
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:56:02.171Z"
+  },
+  "4030": {
+    "coordinates": [
+      68,
+      535
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:56:37.559Z"
+  },
+  "4031": {
+    "coordinates": [
+      133,
+      503
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:56:56.975Z"
+  },
+  "4032": {
+    "coordinates": [
+      121,
+      529
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:57:07.501Z"
+  },
+  "4033": {
+    "coordinates": [
+      132,
+      531
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:57:10.617Z"
+  },
+  "4034": {
+    "coordinates": [
+      129,
+      514
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:57:34.243Z"
+  },
+  "4035": {
+    "coordinates": [
+      151,
+      477
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:57:45.399Z"
+  },
+  "4036": {
+    "coordinates": [
+      151,
+      477
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:57:50.084Z"
+  },
+  "4037": {
+    "coordinates": [
+      156,
+      469
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:58:02.109Z"
+  },
+  "4038": {
+    "coordinates": [
+      145,
+      473
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:58:12.744Z"
+  },
+  "4039": {
+    "coordinates": [
+      143,
+      485
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:58:19.006Z"
+  },
+  "4040": {
+    "coordinates": [
+      126,
+      507
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:58:27.388Z"
+  },
+  "4041": {
+    "coordinates": [
+      130,
+      484
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:58:40.705Z"
+  },
+  "4042": {
+    "coordinates": [
+      123,
+      540
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:58:47.588Z"
+  },
+  "4043": {
+    "coordinates": [
+      35,
+      558
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:59:15.961Z"
+  },
+  "4044": {
+    "coordinates": [
+      130,
+      574
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T07:59:24.984Z"
+  },
+  "4045": {
+    "coordinates": [
+      134,
+      563
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:59:33.063Z"
+  },
+  "4046": {
+    "coordinates": [
+      87,
+      568
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:59:41.274Z"
+  },
+  "4054": {
+    "coordinates": [
+      142,
+      478
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T07:59:55.508Z"
+  },
+  "4055": {
+    "coordinates": [
+      151,
+      477
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:00:02.125Z"
+  },
+  "4057": {
+    "coordinates": [
+      28,
+      530
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:00:16.492Z"
+  },
+  "4060": {
+    "coordinates": [
+      108,
+      576
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:00:34.864Z"
+  },
+  "4067": {
+    "coordinates": [
+      120,
+      558
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:00:52.598Z"
+  },
+  "4073": {
+    "coordinates": [
+      140,
+      553
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T08:01:03.366Z"
+  },
+  "4085": {
+    "coordinates": [
+      63,
+      602
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:01:26.828Z"
+  },
+  "4093": {
+    "coordinates": [
+      83,
+      631
+    ],
+    "zoomLevel": 2,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:01:37.672Z"
+  },
+  "4100": {
+    "coordinates": [
+      17,
+      574
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:01:48.011Z"
+  },
+  "4106": {
+    "coordinates": [
+      107,
+      589
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:01:53.638Z"
+  },
+  "4109": {
+    "coordinates": [
+      57,
+      605
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T08:02:11.789Z"
+  },
+  "4116": {
+    "coordinates": [
+      162,
+      607
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:02:20.035Z"
+  },
+  "4117": {
+    "coordinates": [
+      29,
+      589
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:02:24.978Z"
+  },
+  "4123": {
+    "coordinates": [
+      89,
+      593
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:02:37.535Z"
+  },
+  "4139": {
+    "coordinates": [
+      86,
+      612
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:02:50.675Z"
+  },
+  "4140": {
+    "coordinates": [
+      17,
+      622
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:02:53.538Z"
+  },
+  "4145": {
+    "coordinates": [
+      81,
+      579
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:02:59.371Z"
+  },
+  "4153": {
+    "coordinates": [
+      57,
+      563
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:03:46.239Z"
+  },
+  "4154": {
+    "coordinates": [
+      75,
+      553
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:04:12.159Z"
+  },
+  "4158": {
+    "coordinates": [
+      55,
+      581
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:04:17.886Z"
+  },
+  "4165": {
+    "coordinates": [
+      42,
+      224
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:04:33.889Z"
+  },
+  "4166": {
+    "coordinates": [
+      54,
+      207
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:04:50.298Z"
+  },
+  "4175": {
+    "coordinates": [
+      82,
+      200
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:05:43.571Z"
+  },
+  "4184": {
+    "coordinates": [
+      36,
+      202
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:06:06.633Z"
+  },
+  "4194": {
+    "coordinates": [
+      46,
+      174
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:06:18.486Z"
+  },
+  "4201": {
+    "coordinates": [
+      17,
+      179
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-10T08:06:24.064Z"
+  },
+  "4208": {
+    "coordinates": [
+      38,
+      191
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:07:18.132Z"
+  },
+  "4209": {
+    "coordinates": [
+      61,
+      216
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:07:30.844Z"
+  },
+  "4210": {
+    "coordinates": [
+      35,
+      227
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:07:34.950Z"
+  },
+  "4217": {
+    "coordinates": [
+      33,
+      228
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-10T08:07:42.206Z"
+  },
+  "4235": {
+    "coordinates": [
+      7,
+      242
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-10T08:09:55.237Z"
+  },
+  "4236": {
+    "coordinates": [
+      67,
+      193
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T08:10:03.443Z"
+  },
+  "4242": {
+    "coordinates": [
+      57,
+      246
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:10:11.170Z"
+  },
+  "4252": {
+    "coordinates": [
+      75,
+      230
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:10:40.781Z"
+  },
+  "4255": {
+    "coordinates": [
+      82,
+      228
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T08:10:44.981Z"
+  },
+  "4262": {
+    "coordinates": [
+      82,
+      166
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-10T08:11:03.644Z"
+  },
+  "4270": {
+    "coordinates": [
+      32,
+      179
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:11:10.301Z"
+  },
+  "4276": {
+    "coordinates": [
+      67,
+      194
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:11:19.050Z"
+  },
+  "4280": {
+    "coordinates": [
+      65,
+      195
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T08:11:37.208Z"
+  },
+  "4281": {
+    "coordinates": [
+      68,
+      191
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-10T08:11:42.807Z"
+  },
+  "4285": {
+    "coordinates": [
+      82,
+      165
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:11:54.409Z"
+  },
+  "4294": {
+    "coordinates": [
+      91,
+      167
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:12:08.187Z"
+  },
+  "4302": {
+    "coordinates": [
+      56,
+      234
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:12:32.757Z"
+  },
+  "4305": {
+    "coordinates": [
+      63,
+      240
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:12:46.456Z"
+  },
+  "4309": {
+    "coordinates": [
+      54,
+      207
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-10T08:12:54.733Z"
+  },
+  "4310": {
+    "coordinates": [
+      78,
+      207
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:13:00.331Z"
+  },
+  "4318": {
+    "coordinates": [
+      64,
+      204
+    ],
+    "zoomLevel": 5,
+    "type": "region",
+    "pinnedAt": "2026-05-10T08:13:20.269Z"
+  },
+  "4322": {
+    "coordinates": [
+      78,
+      183
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:02:13.134Z"
+  },
+  "4323": {
+    "coordinates": [
+      95,
+      182
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-20T07:02:31.424Z"
+  },
+  "4324": {
+    "coordinates": [
+      12,
+      211
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:02:50.808Z"
+  },
+  "4332": {
+    "coordinates": [
+      62,
+      240
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:03:11.808Z"
+  },
+  "4342": {
+    "coordinates": [
+      85,
+      177
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-20T07:03:36.224Z"
+  },
+  "4352": {
+    "coordinates": [
+      79,
+      183
+    ],
+    "zoomLevel": 5,
+    "type": "fortress",
+    "pinnedAt": "2026-05-20T07:04:20.209Z"
+  },
+  "4354": {
+    "coordinates": [
+      53,
+      174
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:04:31.783Z"
+  },
+  "4355": {
+    "coordinates": [
+      93,
+      200
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:04:39.469Z"
+  },
+  "4363": {
+    "coordinates": [
+      97,
+      348
+    ],
+    "zoomLevel": 1,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:05:50.614Z"
+  },
+  "4369": {
+    "coordinates": [
+      89,
+      302
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:06:12.538Z"
+  },
+  "4370": {
+    "coordinates": [
+      114,
+      297
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:06:16.734Z"
+  },
+  "4375": {
+    "coordinates": [
+      63,
+      378
+    ],
+    "zoomLevel": 2,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:06:29.712Z"
+  },
+  "4376": {
+    "coordinates": [
+      90,
+      292
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:06:38.094Z"
+  },
+  "4377": {
+    "coordinates": [
+      129,
+      378
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-20T07:06:55.442Z"
+  },
+  "4378": {
+    "coordinates": [
+      91,
+      292
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:07:15.296Z"
+  },
+  "4380": {
+    "coordinates": [
+      109,
+      378
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:07:33.256Z"
+  },
+  "4381": {
+    "coordinates": [
+      117,
+      290
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:07:39.176Z"
+  },
+  "4384": {
+    "coordinates": [
+      113,
+      298
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:07:44.540Z"
+  },
+  "4387": {
+    "coordinates": [
+      160,
+      326
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:07:56.920Z"
+  },
+  "4389": {
+    "coordinates": [
+      136,
+      327
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:08:13.267Z"
+  },
+  "4392": {
+    "coordinates": [
+      97,
+      370
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:08:20.594Z"
+  },
+  "4393": {
+    "coordinates": [
+      137,
+      355
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:08:37.914Z"
+  },
+  "4396": {
+    "coordinates": [
+      135,
+      353
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:08:56.475Z"
+  },
+  "4397": {
+    "coordinates": [
+      138,
+      349
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-20T07:09:03.124Z"
+  },
+  "4398": {
+    "coordinates": [
+      141,
+      354
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-20T07:09:06.273Z"
+  },
+  "4399": {
+    "coordinates": [
+      139,
+      351
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:09:09.429Z"
+  },
+  "4400": {
+    "coordinates": [
+      135,
+      358
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:09:13.779Z"
+  },
+  "4401": {
+    "coordinates": [
+      148,
+      341
+    ],
+    "zoomLevel": 5,
+    "type": "poi",
+    "pinnedAt": "2026-05-20T07:09:22.700Z"
+  },
+  "4402": {
+    "coordinates": [
+      104,
+      335
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:09:30.804Z"
+  },
+  "4403": {
+    "coordinates": [
+      108,
+      334
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:10:54.791Z"
+  },
+  "4410": {
+    "coordinates": [
+      110,
+      326
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:10:06.546Z"
+  },
+  "4411": {
+    "coordinates": [
+      108,
+      333
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:11:02.961Z"
+  },
+  "4412": {
+    "coordinates": [
+      102,
+      332
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:11:06.175Z"
+  },
+  "4413": {
+    "coordinates": [
+      101,
+      338
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:11:12.520Z"
+  },
+  "4414": {
+    "coordinates": [
+      108,
+      341
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:11:16.441Z"
+  },
+  "4415": {
+    "coordinates": [
+      96,
+      340
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:11:20.286Z"
+  },
+  "4416": {
+    "coordinates": [
+      113,
+      343
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:11:24.827Z"
+  },
+  "4417": {
+    "coordinates": [
+      106,
+      271
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:11:35.760Z"
+  },
+  "4418": {
+    "coordinates": [
+      108,
+      304
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:11:48.767Z"
+  },
+  "4421": {
+    "coordinates": [
+      92,
+      287
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:11:55.237Z"
+  },
+  "4423": {
+    "coordinates": [
+      100,
+      386
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:12:01.650Z"
+  },
+  "4424": {
+    "coordinates": [
+      99,
+      384
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:12:08.732Z"
+  },
+  "4425": {
+    "coordinates": [
+      98,
+      394
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:12:12.973Z"
+  },
+  "4426": {
+    "coordinates": [
+      98,
+      393
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:12:19.816Z"
+  },
+  "4427": {
+    "coordinates": [
+      101,
+      383
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:12:23.740Z"
+  },
+  "4428": {
+    "coordinates": [
+      94,
+      393
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:12:27.366Z"
+  },
+  "4429": {
+    "coordinates": [
+      98,
+      388
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:12:30.981Z"
+  },
+  "4430": {
+    "coordinates": [
+      103,
+      391
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:12:37.382Z"
+  },
+  "4432": {
+    "coordinates": [
+      94,
+      409
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:13:08.385Z"
+  },
+  "4433": {
+    "coordinates": [
+      93,
+      398
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:13:13.229Z"
+  },
+  "4435": {
+    "coordinates": [
+      104,
+      383
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:13:17.570Z"
+  },
+  "4436": {
+    "coordinates": [
+      95,
+      385
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:13:27.789Z"
+  },
+  "4437": {
+    "coordinates": [
+      91,
+      392
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:13:34.057Z"
+  },
+  "4438": {
+    "coordinates": [
+      100,
+      394
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:13:41.294Z"
+  },
+  "4439": {
+    "coordinates": [
+      110,
+      386
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:13:46.249Z"
+  },
+  "4440": {
+    "coordinates": [
+      98,
+      390
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:13:58.359Z"
+  },
+  "4441": {
+    "coordinates": [
+      95,
+      393
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:14:15.161Z"
+  },
+  "4442": {
+    "coordinates": [
+      57,
+      390
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:14:29.057Z"
+  },
+  "4443": {
+    "coordinates": [
+      129,
+      380
+    ],
+    "zoomLevel": 3,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:14:38.214Z"
+  },
+  "4445": {
+    "coordinates": [
+      102,
+      285
+    ],
+    "zoomLevel": 4,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:14:51.234Z"
+  },
+  "4446": {
+    "coordinates": [
+      89,
+      348
+    ],
+    "zoomLevel": 2,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:15:03.565Z"
+  },
+  "4447": {
+    "coordinates": [
+      71,
+      317
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:15:12.800Z"
+  },
+  "4448": {
+    "coordinates": [
+      75,
+      318
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:15:18.190Z"
+  },
+  "4449": {
+    "coordinates": [
+      70,
+      319
+    ],
+    "zoomLevel": 4,
+    "type": "ruins",
+    "pinnedAt": "2026-05-20T07:15:31.260Z"
+  },
+  "4450": {
+    "coordinates": [
+      75,
+      317
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:15:37.787Z"
+  },
+  "4451": {
+    "coordinates": [
+      76,
+      317
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:15:44.178Z"
+  },
+  "4452": {
+    "coordinates": [
+      79,
+      315
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:15:50.807Z"
+  },
+  "4453": {
+    "coordinates": [
+      77,
+      316
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:15:58.219Z"
+  },
+  "4454": {
+    "coordinates": [
+      75,
+      320
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:16:01.417Z"
+  },
+  "4455": {
+    "coordinates": [
+      74,
+      319
+    ],
+    "zoomLevel": 5,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:16:05.793Z"
+  },
+  "4456": {
+    "coordinates": [
+      74,
+      332
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:16:11.945Z"
+  },
+  "4457": {
+    "coordinates": [
+      73,
+      330
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:16:17.763Z"
+  },
+  "4458": {
+    "coordinates": [
+      69,
+      333
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:22.286Z"
+  },
+  "4459": {
+    "coordinates": [
+      69,
+      335
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:16:26.599Z"
+  },
+  "4460": {
+    "coordinates": [
+      80,
+      332
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:16:30.643Z"
+  },
+  "4461": {
+    "coordinates": [
+      65,
+      327
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:35.321Z"
+  },
+  "4462": {
+    "coordinates": [
+      89,
+      336
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:39.185Z"
+  },
+  "4463": {
+    "coordinates": [
+      72,
+      341
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:41.698Z"
+  },
+  "4464": {
+    "coordinates": [
+      80,
+      328
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:48.928Z"
+  },
+  "4465": {
+    "coordinates": [
+      82,
+      338
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:16:53.072Z"
+  },
+  "4466": {
+    "coordinates": [
+      77,
+      350
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:17:02.103Z"
+  },
+  "4467": {
+    "coordinates": [
+      78,
+      349
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:17:06.717Z"
+  },
+  "4468": {
+    "coordinates": [
+      75,
+      353
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:17:10.115Z"
+  },
+  "4469": {
+    "coordinates": [
+      85,
+      351
+    ],
+    "zoomLevel": 3,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:17:19.300Z"
+  },
+  "4470": {
+    "coordinates": [
+      70,
+      359
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:17:30.405Z"
+  },
+  "4471": {
+    "coordinates": [
+      97,
+      356
+    ],
+    "zoomLevel": 3,
+    "type": "region",
+    "pinnedAt": "2026-05-20T07:17:34.434Z"
+  },
+  "4472": {
+    "coordinates": [
+      85,
+      353
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:17:44.720Z"
+  },
+  "4473": {
+    "coordinates": [
+      96,
+      349
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:18:04.589Z"
+  },
+  "4474": {
+    "coordinates": [
+      102,
+      354
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:18:41.624Z"
+  },
+  "4475": {
+    "coordinates": [
+      87,
+      355
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:18:32.299Z"
+  },
+  "4477": {
+    "coordinates": [
+      111,
+      372
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:18:56.009Z"
+  },
+  "4480": {
+    "coordinates": [
+      73,
+      366
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:19:21.168Z"
+  },
+  "4483": {
+    "coordinates": [
+      76,
+      364
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:19:31.809Z"
+  },
+  "4484": {
+    "coordinates": [
+      78,
+      368
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:19:51.538Z"
+  },
+  "4485": {
+    "coordinates": [
+      84,
+      365
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:19:53.624Z"
+  },
+  "4486": {
+    "coordinates": [
+      77,
+      373
+    ],
+    "zoomLevel": 4,
+    "type": "town",
+    "pinnedAt": "2026-05-20T07:19:57.024Z"
+  },
+  "4487": {
+    "coordinates": [
+      75,
+      360
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:20:01.004Z"
+  },
+  "4488": {
+    "coordinates": [
+      84,
+      370
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:20:05.112Z"
+  },
+  "4489": {
+    "coordinates": [
+      87,
+      361
+    ],
+    "zoomLevel": 5,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:20:09.714Z"
+  },
+  "4496": {
+    "coordinates": [
+      109,
+      351
+    ],
+    "zoomLevel": 4,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:20:25.185Z"
+  },
+  "4498": {
+    "coordinates": [
+      111,
+      372
+    ],
+    "zoomLevel": 4,
+    "type": "wilderness",
+    "pinnedAt": "2026-05-20T07:20:30.297Z"
+  },
+  "4499": {
+    "coordinates": [
+      93,
+      287
+    ],
+    "zoomLevel": 5,
+    "type": "ruins",
+    "pinnedAt": "2026-05-20T07:20:51.706Z"
+  },
+  "4501": {
+    "coordinates": [
+      92,
+      221
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:22:37.740Z"
+  },
+  "4502": {
+    "coordinates": [
+      90,
+      237
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:22:43.406Z"
+  },
+  "4507": {
+    "coordinates": [
+      128,
+      220
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:22:55.334Z"
+  },
+  "4510": {
+    "coordinates": [
+      102,
+      231
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:23:06.931Z"
+  },
+  "4511": {
+    "coordinates": [
+      105,
+      225
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:23:40.661Z"
+  },
+  "4512": {
+    "coordinates": [
+      82,
+      167
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:24:08.816Z"
+  },
+  "4520": {
+    "coordinates": [
+      78,
+      368
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:24:18.434Z"
+  },
+  "4526": {
+    "coordinates": [
+      84,
+      370
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:24:37.188Z"
+  },
+  "4530": {
+    "coordinates": [
+      134,
+      217
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:24:51.493Z"
+  },
+  "4533": {
+    "coordinates": [
+      46,
+      346
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:25:06.408Z"
+  },
+  "4552": {
+    "coordinates": [
+      84,
+      366
+    ],
+    "zoomLevel": 5,
+    "type": "water",
+    "pinnedAt": "2026-05-20T07:26:43.102Z"
+  },
+  "4555": {
+    "coordinates": [
+      140,
+      553
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:27:10.905Z"
+  },
+  "4561": {
+    "coordinates": [
+      119,
+      225
+    ],
+    "zoomLevel": 4,
+    "type": "city",
+    "pinnedAt": "2026-05-20T07:27:27.050Z"
   }
 }

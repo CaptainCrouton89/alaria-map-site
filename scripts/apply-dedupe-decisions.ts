@@ -1,11 +1,15 @@
 /**
  * Bulk-apply dedupe decisions:
- *   - All auto-merge audit groups → merge-all (single merge group, primary picked heuristically)
+ *   - All auto-merge audit groups → single merge group, primary picked heuristically
  *   - All auto-distinct audit groups → all-distinct
- *   - 25 needs-review groups → hand-crafted decisions (declared inline below)
+ *   - Overrides from data/dedupe-overrides.json take precedence over verdicts
+ *   - Uncovered needs-review groups: warned (not thrown) so they're surfaced for follow-up
+ *
+ * Tolerates audit drift: override member IDs are intersected with current audit; merge
+ * groups that lose multi-member status after intersection are dropped, and overrides
+ * that become empty are skipped (the audit's verdict-based path takes over).
  *
  * Backs up data/dedupe-decisions.json and data/merge-groups.json before mutating.
- * Does NOT touch data/pinned.json or data/work-queue.json (sweep-auto-skip handles the queue).
  */
 
 import * as fs from 'fs';
@@ -14,11 +18,13 @@ import type {
   AuditGroup,
   DedupeDecision,
   DedupeDecisions,
+  MergeGroup,
   MergeGroupsFile,
 } from '../src/types/pinning';
 
 const ROOT = path.resolve(__dirname, '..');
 const AUDIT = path.join(ROOT, 'data/duplicate-audit.json');
+const OVERRIDES = path.join(ROOT, 'data/dedupe-overrides.json');
 const DECISIONS = path.join(ROOT, 'data/dedupe-decisions.json');
 const MERGE_GROUPS = path.join(ROOT, 'data/merge-groups.json');
 const BACKUP_DIR = path.join(ROOT, 'data/backups');
@@ -26,6 +32,13 @@ const BACKUP_DIR = path.join(ROOT, 'data/backups');
 interface AuditFile {
   summary: object;
   groups: AuditGroup[];
+}
+
+type Override = Omit<DedupeDecision, 'decidedAt'>;
+
+interface OverridesFile {
+  version: number;
+  overrides: Override[];
 }
 
 function ts(): string {
@@ -39,9 +52,6 @@ function backup(p: string) {
   fs.copyFileSync(p, path.join(BACKUP_DIR, `${base}.${ts()}.json`));
 }
 
-/** Pick a primary id for an auto-merge group:
- *  1. If ≥1 pinned member, prefer pinned with lowest header level (then lowest id).
- *  2. Otherwise lowest header level (then lowest id). */
 function pickPrimary(group: AuditGroup): string {
   const pinned = group.members.filter(m => m.isPinned);
   const pool = pinned.length > 0 ? pinned : group.members;
@@ -52,202 +62,7 @@ function pickPrimary(group: AuditGroup): string {
   return sorted[0].id;
 }
 
-/** Hand-crafted decisions for the 25 needs-review groups. */
-type HandDecision = Omit<DedupeDecision, 'decidedAt'>;
-
-const HAND_DECISIONS: HandDecision[] = [
-  // ─── Real places (split or merge based on parent chain + content) ───
-  {
-    normalizedName: 'howlwood',
-    type: 'merge-subset',
-    mergeGroups: [
-      { memberIds: ['134', '193'], primaryId: '193' },
-      { memberIds: ['606', '618'], primaryId: '606' },
-    ],
-    distinctMemberIds: [],
-    note: 'Two forests: Edari Howlwood (Ve.md, ids 134/193) and Iylovia Howlwood (Clueanda.md, ids 606/618). All 4 pinned, coords confirm split.',
-  },
-  {
-    normalizedName: 'besnoumeru',
-    type: 'merge-subset',
-    mergeGroups: [{ memberIds: ['400', '828'], primaryId: '400' }],
-    distinctMemberIds: ['2561'],
-    note: 'Catalina/Tornia Besnoumeru (400 pinned, 828 stub) is distinct from Nektuna Besnoumeru (2561). States.md confirms two same-named cities.',
-  },
-  {
-    normalizedName: 'lacire',
-    type: 'merge-all',
-    mergeGroups: [{ memberIds: ['1084', '1189', '4515'], primaryId: '1084' }],
-    distinctMemberIds: [],
-    note: 'All three describe the same Walking Forest city-state on Springs of Vyowehr.',
-  },
-  {
-    normalizedName: 'enimogos',
-    type: 'merge-subset',
-    mergeGroups: [{ memberIds: ['1117', '1135'], primaryId: '1117' }],
-    distinctMemberIds: ['3848'],
-    note: 'Postronamas ruins (1117/1135 in Clueanda) merged. 3848 in Upoceax is unrelated giant artifact.',
-  },
-  {
-    normalizedName: 'deadmans lake',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: ['1422', '3814', '3942'],
-    note: 'Three different lakes: Aboyinzu Chaal Nazzerox, Upoceax Sandreach, Upoceax Wycendeula/Kilbyurn.',
-  },
-  {
-    normalizedName: 'drift',
-    type: 'merge-subset',
-    mergeGroups: [{ memberIds: ['3024', '3048'], primaryId: '3048' }],
-    distinctMemberIds: ['4316'],
-    note: 'Eoga Drift (3024 stub + 3048 detail) merged. Sheîr/Bledreon Drift (4316) is unrelated.',
-  },
-  {
-    normalizedName: 'nox',
-    type: 'merge-subset',
-    mergeGroups: [{ memberIds: ['3948', '4046'], primaryId: '4046' }],
-    distinctMemberIds: ['4452'],
-    note: 'Eberri Ygonzi Nox (3948 stub + 4046 detail) merged. Zelidian Nox (4452) is a different village.',
-  },
-  {
-    normalizedName: 'blackport',
-    type: 'merge-all',
-    mergeGroups: [{ memberIds: ['4376', '4379', '4503'], primaryId: '4376' }],
-    distinctMemberIds: [],
-    note: 'All three describe Crab Island pirate haven.',
-  },
-
-  // ─── Real places that share a name across continents (all-distinct) ───
-  {
-    normalizedName: 'sound',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: ['1105', '1649', '2219', '2353'],
-    note: '"The Sound" subsections under different unrelated places (Melodia, Mumbling Forest, Bellowing Mountains, Screech).',
-  },
-  {
-    normalizedName: 'forest',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: ['1165', '1231', '1624'],
-    note: 'Different forests: The Guiles, Knulak, M\'Svyla.',
-  },
-  {
-    normalizedName: 'islands',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: ['3369', '4307', '4359'],
-    note: 'Different island groups: Floating Islands, Sea of Sharks, Xibli.',
-  },
-
-  // ─── Section-name clashes (subsections under different parents → all-distinct) ───
-  {
-    normalizedName: 'position and borders',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [
-      '2464', '2485', '2510', '2520', '2531', '2545', '2556', '2583', '2594', '2612',
-      '4185', '4253', '4277', '4311',
-    ],
-    note: 'Country-level subsection. Each describes a different country.',
-  },
-  {
-    normalizedName: 'points of interest',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [
-      '1602', '1906', '1994', '2103', '2112', '2166', '2183', '2396', '2426', '2436', '2451',
-      '2493', '2554',
-    ],
-    note: 'Region-level subsection clash.',
-  },
-  {
-    normalizedName: 'terrain and climate',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'PLACEHOLDER - members filled in from audit',
-  },
-  {
-    normalizedName: 'borders',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'current status',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'relations with neighbors',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'territory',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'surrounding seas',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'city-states',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'nature',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'position and extent',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'daily life',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'what lies below',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-  {
-    normalizedName: 'what lives there',
-    type: 'all-distinct',
-    mergeGroups: [],
-    distinctMemberIds: [],
-    note: 'Section subheader clash.',
-  },
-];
-
-function buildAutoMergeDecision(g: AuditGroup): HandDecision {
+function buildAutoMergeDecision(g: AuditGroup): Override {
   return {
     normalizedName: g.normalizedName,
     type: 'merge-all',
@@ -257,13 +72,80 @@ function buildAutoMergeDecision(g: AuditGroup): HandDecision {
   };
 }
 
-function buildAutoDistinctDecision(g: AuditGroup): HandDecision {
+function buildAutoDistinctDecision(g: AuditGroup): Override {
   return {
     normalizedName: g.normalizedName,
     type: 'all-distinct',
     mergeGroups: [],
     distinctMemberIds: g.members.map(m => m.id),
     note: `auto-applied (audit verdict: auto-distinct, ${g.confidence})`,
+  };
+}
+
+/**
+ * Reduce an override to only the audit members that still exist.
+ * Returns null if the override has nothing left to say.
+ */
+function reconcileOverride(
+  override: Override,
+  auditGroup: AuditGroup
+): { decision: Override; warnings: string[] } | null {
+  const validIds = new Set(auditGroup.members.map(m => m.id));
+  const warnings: string[] = [];
+
+  // Filter and validate primary IDs
+  const filteredMergeGroups: MergeGroup[] = [];
+  for (const mg of override.mergeGroups) {
+    const keptIds = mg.memberIds.filter(id => validIds.has(id));
+    const droppedIds = mg.memberIds.filter(id => !validIds.has(id));
+    if (droppedIds.length > 0) {
+      warnings.push(`  - merge group dropped members [${droppedIds.join(',')}] (no longer in audit)`);
+    }
+    if (keptIds.length < 2) {
+      if (keptIds.length === 1) {
+        warnings.push(`  - merge group reduced to single member [${keptIds[0]}], dropping group`);
+      }
+      continue;
+    }
+    let primaryId = mg.primaryId;
+    if (!keptIds.includes(primaryId)) {
+      // Original primary was dropped; pick the lowest-id remaining as new primary
+      primaryId = [...keptIds].sort((a, b) => Number(a) - Number(b))[0];
+      warnings.push(`  - primary ${mg.primaryId} dropped, new primary: ${primaryId}`);
+    }
+    filteredMergeGroups.push({ memberIds: keptIds, primaryId });
+  }
+
+  const filteredDistinct = override.distinctMemberIds.filter(id => validIds.has(id));
+  const droppedDistinct = override.distinctMemberIds.filter(id => !validIds.has(id));
+  if (droppedDistinct.length > 0) {
+    warnings.push(`  - distinct list dropped [${droppedDistinct.join(',')}] (no longer in audit)`);
+  }
+
+  // Members the override didn't account for (audit grew unexpectedly)
+  const accounted = new Set<string>(filteredDistinct);
+  for (const mg of filteredMergeGroups) for (const id of mg.memberIds) accounted.add(id);
+  const unaccounted = auditGroup.members.map(m => m.id).filter(id => !accounted.has(id));
+  if (unaccounted.length > 0) {
+    // New members appeared since the override was written. Treat as distinct.
+    warnings.push(`  - new audit members not covered by override [${unaccounted.join(',')}] — treating as distinct`);
+    filteredDistinct.push(...unaccounted);
+  }
+
+  if (filteredMergeGroups.length === 0 && filteredDistinct.length === 0) {
+    warnings.push(`  - override is empty after reconciliation, skipping (audit verdict will apply)`);
+    return null;
+  }
+
+  return {
+    decision: {
+      normalizedName: override.normalizedName,
+      type: override.type,
+      mergeGroups: filteredMergeGroups,
+      distinctMemberIds: filteredDistinct,
+      note: override.note,
+    },
+    warnings,
   };
 }
 
@@ -289,63 +171,60 @@ function rebuildMergeGroupsFile(decisions: DedupeDecisions) {
 
 function main() {
   const audit: AuditFile = JSON.parse(fs.readFileSync(AUDIT, 'utf-8'));
+  const overridesFile: OverridesFile = fs.existsSync(OVERRIDES)
+    ? JSON.parse(fs.readFileSync(OVERRIDES, 'utf-8'))
+    : { version: 1, overrides: [] };
+
   const groupByName = new Map(audit.groups.map(g => [g.normalizedName, g]));
+  const overrideByName = new Map(overridesFile.overrides.map(o => [o.normalizedName, o]));
 
-  // Resolve hand-decisions: for placeholder ones (empty distinctMemberIds with all-distinct),
-  // populate from audit members.
-  const handByName = new Map<string, HandDecision>();
-  for (const h of HAND_DECISIONS) {
-    const auditGroup = groupByName.get(h.normalizedName);
-    if (!auditGroup) {
-      throw new Error(`Hand decision references unknown normalizedName: ${h.normalizedName}`);
-    }
-    if (h.type === 'all-distinct' && h.distinctMemberIds.length === 0) {
-      h.distinctMemberIds = auditGroup.members.map(m => m.id);
-    }
-    // Validate every member is accounted for
-    const accounted = new Set<string>(h.distinctMemberIds);
-    for (const mg of h.mergeGroups) for (const id of mg.memberIds) accounted.add(id);
-    for (const m of auditGroup.members) {
-      if (!accounted.has(m.id)) {
-        throw new Error(
-          `Hand decision for ${h.normalizedName} missing member ${m.id} (${m.name} from ${m.sourceFile})`
-        );
-      }
-    }
-    // Validate no extras
-    const valid = new Set(auditGroup.members.map(m => m.id));
-    for (const id of accounted) {
-      if (!valid.has(id)) {
-        throw new Error(`Hand decision for ${h.normalizedName} references unknown id ${id}`);
-      }
-    }
-    handByName.set(h.normalizedName, h);
-  }
-
-  // Build decision list: hand-decisions take precedence, otherwise verdict-based
   const decisions: DedupeDecision[] = [];
   const now = new Date().toISOString();
-  let autoMergeCount = 0;
-  let autoDistinctCount = 0;
-  let handCount = 0;
+
+  let overrideUsed = 0;
+  let overrideDriftSkipped = 0;
+  let overrideMissingFromAudit = 0;
+  let autoMerge = 0;
+  let autoDistinct = 0;
+  let needsReviewUncovered: AuditGroup[] = [];
+
+  // Track which overrides we've consumed
+  const usedOverrides = new Set<string>();
 
   for (const g of audit.groups) {
-    const hand = handByName.get(g.normalizedName);
-    if (hand) {
-      decisions.push({ ...hand, decidedAt: now });
-      handCount++;
-      continue;
+    const override = overrideByName.get(g.normalizedName);
+    if (override) {
+      usedOverrides.add(g.normalizedName);
+      const reconciled = reconcileOverride(override, g);
+      if (reconciled) {
+        if (reconciled.warnings.length > 0) {
+          console.log(`override "${g.normalizedName}" reconciled with drift:`);
+          for (const w of reconciled.warnings) console.log(w);
+        }
+        decisions.push({ ...reconciled.decision, decidedAt: now });
+        overrideUsed++;
+        continue;
+      }
+      console.log(`override "${g.normalizedName}" empty after reconciliation, falling through to verdict`);
+      overrideDriftSkipped++;
     }
+
     if (g.verdict === 'auto-merge') {
       decisions.push({ ...buildAutoMergeDecision(g), decidedAt: now });
-      autoMergeCount++;
+      autoMerge++;
     } else if (g.verdict === 'auto-distinct') {
       decisions.push({ ...buildAutoDistinctDecision(g), decidedAt: now });
-      autoDistinctCount++;
+      autoDistinct++;
     } else {
-      throw new Error(
-        `No hand decision and verdict is ${g.verdict} for ${g.normalizedName}`
-      );
+      needsReviewUncovered.push(g);
+    }
+  }
+
+  // Overrides whose normalizedName isn't in the current audit
+  for (const o of overridesFile.overrides) {
+    if (!usedOverrides.has(o.normalizedName)) {
+      overrideMissingFromAudit++;
+      console.log(`override "${o.normalizedName}" not in current audit, skipped`);
     }
   }
 
@@ -357,7 +236,6 @@ function main() {
   fs.writeFileSync(DECISIONS, JSON.stringify(out, null, 2));
   rebuildMergeGroupsFile(out);
 
-  // Stats: how many merge groups, members affected
   let mergeGroupCount = 0;
   let mergeMemberCount = 0;
   let distinctCount = 0;
@@ -367,16 +245,28 @@ function main() {
     distinctCount += d.distinctMemberIds.length;
   }
 
+  console.log('');
   console.log('Decision summary:');
-  console.log(`  hand-crafted: ${handCount}`);
-  console.log(`  auto-merge:   ${autoMergeCount}`);
-  console.log(`  auto-distinct: ${autoDistinctCount}`);
-  console.log(`  total decisions: ${decisions.length}`);
+  console.log(`  override used:           ${overrideUsed}`);
+  console.log(`  override drift-skipped:  ${overrideDriftSkipped}`);
+  console.log(`  override not in audit:   ${overrideMissingFromAudit}`);
+  console.log(`  auto-merge:              ${autoMerge}`);
+  console.log(`  auto-distinct:           ${autoDistinct}`);
+  console.log(`  total decisions:         ${decisions.length}`);
   console.log('');
   console.log('Merge groups in output:');
-  console.log(`  groups: ${mergeGroupCount}`);
+  console.log(`  groups:                  ${mergeGroupCount}`);
   console.log(`  members in merge groups: ${mergeMemberCount}`);
-  console.log(`  distinct members: ${distinctCount}`);
+  console.log(`  distinct members:        ${distinctCount}`);
+
+  if (needsReviewUncovered.length > 0) {
+    console.log('');
+    console.log(`WARNING: ${needsReviewUncovered.length} needs-review group(s) have no override:`);
+    for (const g of needsReviewUncovered) {
+      console.log(`  - ${g.normalizedName} (${g.size} members across ${new Set(g.members.map(m => m.sourceFile)).size} files, ${g.pinnedCount} pinned)`);
+    }
+    console.log('Add overrides for these in data/dedupe-overrides.json, then re-run.');
+  }
 }
 
 main();

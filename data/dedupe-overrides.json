@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "_doc": "Manual overrides to the audit's auto-classification. The apply script intersects each override's member IDs with the current audit; drift (members no longer in audit because they were skipped) is silently filtered. Add new overrides here when audit refresh produces uncovered needs-review groups.",
+  "overrides": [
+    {
+      "normalizedName": "howlwood",
+      "type": "merge-subset",
+      "mergeGroups": [
+        { "memberIds": ["134", "193"], "primaryId": "193" },
+        { "memberIds": ["606", "618"], "primaryId": "606" }
+      ],
+      "distinctMemberIds": [],
+      "note": "Two forests: Edari Howlwood (Ve.md, ids 134/193) and Iylovia Howlwood (Clueanda.md, ids 606/618)."
+    },
+    {
+      "normalizedName": "besnoumeru",
+      "type": "merge-subset",
+      "mergeGroups": [
+        { "memberIds": ["400", "828"], "primaryId": "400" }
+      ],
+      "distinctMemberIds": ["2561"],
+      "note": "Catalina/Tornia Besnoumeru (400 + stub 828) is distinct from Nektuna Besnoumeru (2561)."
+    },
+    {
+      "normalizedName": "lacire",
+      "type": "merge-all",
+      "mergeGroups": [
+        { "memberIds": ["1084", "1189", "4515"], "primaryId": "1084" }
+      ],
+      "distinctMemberIds": [],
+      "note": "All three describe the Walking Forest city-state on Springs of Vyowehr."
+    },
+    {
+      "normalizedName": "enimogos",
+      "type": "merge-subset",
+      "mergeGroups": [
+        { "memberIds": ["1117", "1135"], "primaryId": "1117" }
+      ],
+      "distinctMemberIds": ["3848"],
+      "note": "Postronamas ruins (1117/1135) merged. 3848 in Upoceax is unrelated giant artifact."
+    },
+    {
+      "normalizedName": "deadmans lake",
+      "type": "all-distinct",
+      "mergeGroups": [],
+      "distinctMemberIds": ["1422", "3814", "3942"],
+      "note": "Three different lakes: Aboyinzu Chaal Nazzerox, Upoceax Sandreach, Upoceax Wycendeula/Kilbyurn."
+    },
+    {
+      "normalizedName": "drift",
+      "type": "merge-subset",
+      "mergeGroups": [
+        { "memberIds": ["3024", "3048"], "primaryId": "3048" }
+      ],
+      "distinctMemberIds": ["4316"],
+      "note": "Eoga Drift (3024 stub + 3048 detail) merged. Sheîr/Bledreon Drift (4316) is unrelated."
+    },
+    {
+      "normalizedName": "nox",
+      "type": "merge-subset",
+      "mergeGroups": [
+        { "memberIds": ["3948", "4046"], "primaryId": "4046" }
+      ],
+      "distinctMemberIds": ["4452"],
+      "note": "Eberri Ygonzi Nox (3948 stub + 4046 detail) merged. Zelidian Nox (4452) is a different village."
+    },
+    {
+      "normalizedName": "blackport",
+      "type": "merge-all",
+      "mergeGroups": [
+        { "memberIds": ["4376", "4379", "4503"], "primaryId": "4376" }
+      ],
+      "distinctMemberIds": [],
+      "note": "All three describe Crab Island pirate haven."
+    },
+    {
+      "normalizedName": "sound",
+      "type": "all-distinct",
+      "mergeGroups": [],
+      "distinctMemberIds": ["1105", "1649", "2219", "2353"],
+      "note": "\"The Sound\" subsections under different unrelated places (Melodia, Mumbling Forest, Bellowing Mountains, Screech)."
+    },
+    {
+      "normalizedName": "islands",
+      "type": "all-distinct",
+      "mergeGroups": [],
+      "distinctMemberIds": ["3369", "4307", "4359"],
+      "note": "Different island groups: Floating Islands, Sea of Sharks, Xibli."
+    }
+  ]
+}

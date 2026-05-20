@@ -1,15 +1,6 @@
 ---
 name: pinning
 description: Context for the /pin admin workflow — what location pinning is for, how the data flows, and what invariants must not break. Use when working in src/app/pin/, src/app/api/pin/, scripts/extract-locations.ts, scripts/finalize-locations.ts, data/work-queue.json, data/pinned.json, or when planning changes that touch lore data, the work queue, or pinned coordinates.
-paths:
-  - "src/app/pin/**"
-  - "src/app/api/pin/**"
-  - "scripts/extract-locations.ts"
-  - "scripts/finalize-locations.ts"
-  - "data/work-queue.json"
-  - "data/pinned.json"
-  - "data/locations.json"
-  - "src/types/pinning.ts"
 ---
 
 # Pinning workflow

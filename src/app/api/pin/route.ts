@@ -77,7 +77,9 @@ interface MergeGroupSkipEntry {
 
 /**
  * Returns a map: nonPrimaryEntryId → primaryId.
- * Used to skip non-primary members when their merge-group's primary is pinned.
+ * Membership in this map means "this entry is a non-primary in a merge group" —
+ * such entries are auto-skipped because the merge-group's primary is the canonical
+ * entry for that place.
  */
 function loadMergeGroupSkipMap(): Map<string, string> {
   const out = new Map<string, string>();
@@ -106,7 +108,8 @@ function normalizeName(name: string): string {
 /**
  * Find the first pending entry, auto-skipping along the way:
  *   - structural-header matches (always)
- *   - merge-group non-primaries whose primary is already pinned
+ *   - merge-group non-primaries (always — primary is the canonical entry,
+ *     non-primaries represent the same place written about elsewhere)
  */
 function findNextPending(
   queue: WorkQueue,
@@ -123,8 +126,7 @@ function findNextPending(
       mutated = true;
       continue;
     }
-    const primaryId = mergeGroupSkipMap.get(e.id);
-    if (primaryId && pinned[primaryId]) {
+    if (mergeGroupSkipMap.has(e.id)) {
       e.status = 'skipped';
       mutated = true;
       continue;
@@ -332,6 +334,9 @@ export async function POST(request: NextRequest) {
     entry.status = 'pinned';
   } else if (action === 'skip') {
     entry.status = 'skipped';
+    // If this entry was previously pinned (e.g. user pinned then changed mind),
+    // clear the pin record so the public map doesn't show a marker for a skipped entry.
+    if (pinned[id]) delete pinned[id];
   }
 
   // Save both files
@@ -387,8 +392,7 @@ export async function PUT(request: NextRequest) {
         mutated = true;
         continue;
       }
-      const primaryId = mergeGroupSkipMap.get(e.id);
-      if (primaryId && pinned[primaryId]) {
+      if (mergeGroupSkipMap.has(e.id)) {
         e.status = 'skipped';
         mutated = true;
         continue;
