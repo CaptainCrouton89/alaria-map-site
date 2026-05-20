@@ -3,6 +3,8 @@
 import dynamic from 'next/dynamic';
 import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import type { Location, MapConfig } from '@/types/location';
 import { LOCATION_COLORS } from '@/types/location';
 import { LOCATION_ICONS } from '@/lib/icons';
@@ -48,29 +50,28 @@ function CinematicOverlay({ isFading }: { isFading: boolean }) {
   );
 }
 
-// Sample locations for testing - these would come from compiled markdown frontmatter
-const SAMPLE_LOCATIONS: Location[] = [
-  {
-    id: 'alaria-continent',
-    name: 'Alaria',
-    type: 'region',
-    coordinates: [2500, 2500],
-    zoomLevel: 0,
-    parentId: null,
-    relatedIds: [],
-  },
-];
-
 export default function Home() {
   const router = useRouter();
   const [config, setConfig] = useState<MapConfig | null>(null);
+  const [locations, setLocations] = useState<Location[]>([]);
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(null);
   const [mapReady, setMapReady] = useState(false);
   const [overlayVisible, setOverlayVisible] = useState(true);
+  const [pinsVisible, setPinsVisible] = useState(true);
 
   useEffect(() => {
     fetchTileConfig()
       .then(setConfig)
+      .catch(console.error);
+  }, []);
+
+  useEffect(() => {
+    fetch('/locations.json')
+      .then((res) => {
+        if (!res.ok) throw new Error(`Failed to fetch locations: ${res.status}`);
+        return res.json();
+      })
+      .then((data: Location[]) => setLocations(data))
       .catch(console.error);
   }, []);
 
@@ -88,6 +89,22 @@ export default function Home() {
     }
   }, [mapReady]);
 
+  // Space bar toggles pin visibility (ignore when typing in an input)
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.code !== 'Space' && e.key !== ' ') return;
+      const target = e.target as HTMLElement | null;
+      const tag = target?.tagName;
+      if (target?.isContentEditable || tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') {
+        return;
+      }
+      e.preventDefault();
+      setPinsVisible((v) => !v);
+    };
+    window.addEventListener('keydown', handleKey);
+    return () => window.removeEventListener('keydown', handleKey);
+  }, []);
+
   return (
     <div className="relative h-screen w-screen overflow-hidden">
       {/* Cinematic loading overlay */}
@@ -95,24 +112,25 @@ export default function Home() {
 
       {config && (
         <InteractiveMap
-          locations={SAMPLE_LOCATIONS}
+          locations={locations}
           config={config}
           tilesPath={TILES_BASE_URL}
           onLocationSelect={setSelectedLocation}
           selectedLocationId={selectedLocation?.id}
           onMapReady={handleMapReady}
+          pinsVisible={pinsVisible}
         />
       )}
 
-      {/* Sidebar for selected location */}
+      {/* Sidebar for selected location (right side) */}
       {selectedLocation && (
         <div
-          className="absolute left-0 top-0 h-full w-[380px] bg-sidebar flex flex-col"
+          className="absolute right-0 top-0 h-full w-[420px] bg-sidebar flex flex-col z-[1000]"
           style={{
-            boxShadow: '4px 0 24px rgba(44, 36, 22, 0.15)',
+            boxShadow: '-4px 0 24px rgba(44, 36, 22, 0.15)',
           }}
         >
-          {/* Breadcrumb / Close */}
+          {/* Close */}
           <div className="px-6 py-4">
             <Button
               variant="ghost"
@@ -120,7 +138,7 @@ export default function Home() {
               onClick={() => setSelectedLocation(null)}
               className="h-auto p-0 text-sm"
             >
-              &larr; Back to Map
+              Close &times;
             </Button>
           </div>
 
@@ -149,15 +167,23 @@ export default function Home() {
 
           {/* Content area with scroll */}
           <ScrollArea className="flex-1 px-6 py-5">
-            <p className="text-ink-muted text-sm italic">
-              Lore content will appear here...
-            </p>
+            {selectedLocation.content ? (
+              <div className="location-markdown text-sm text-ink leading-relaxed">
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                  {selectedLocation.content}
+                </ReactMarkdown>
+              </div>
+            ) : (
+              <p className="text-ink-muted text-sm italic">
+                No lore content yet.
+              </p>
+            )}
           </ScrollArea>
         </div>
       )}
 
-      {/* Floating header buttons */}
-      <div className="absolute top-4 right-4 flex gap-2">
+      {/* Floating header buttons (top-left to avoid sidebar overlap) */}
+      <div className="absolute top-4 left-4 flex gap-2 z-[900]">
         <Button
           variant="nav-active"
           size="sm"
@@ -171,6 +197,12 @@ export default function Home() {
         >
           Codex
         </Button>
+      </div>
+
+      {/* Pin toggle hint */}
+      <div className="absolute bottom-4 left-4 text-xs text-ink-muted bg-sidebar/80 backdrop-blur-sm px-3 py-1.5 rounded border border-border/40 z-[900]">
+        <kbd className="font-mono text-[10px] px-1.5 py-0.5 bg-ink/10 rounded border border-border/40">space</kbd>
+        <span className="ml-2">{pinsVisible ? 'pins on' : 'pins off'}</span>
       </div>
     </div>
   );

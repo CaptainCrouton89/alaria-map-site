@@ -18,6 +18,7 @@ export interface Location {
   relatedIds: string[];
   loreFile?: string;
   tags?: string[];
+  content?: string; // raw markdown body, baked in by finalize-locations
 }
 
 export interface MapConfig {

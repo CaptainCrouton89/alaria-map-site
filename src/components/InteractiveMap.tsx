@@ -14,6 +14,7 @@ interface InteractiveMapProps {
   onLocationSelect?: (location: Location) => void;
   selectedLocationId?: string;
   onMapReady?: () => void;
+  pinsVisible?: boolean;
 }
 
 export function InteractiveMap({
@@ -23,6 +24,7 @@ export function InteractiveMap({
   onLocationSelect,
   selectedLocationId,
   onMapReady,
+  pinsVisible = true,
 }: InteractiveMapProps) {
   const mapRef = useRef<HTMLDivElement>(null);
   const leafletMapRef = useRef<L.Map | null>(null);
@@ -110,100 +112,106 @@ export function InteractiveMap({
     markersRef.current.forEach((marker) => marker.remove());
     markersRef.current = [];
 
-    // Filter locations visible at current zoom level
-    const visibleLocations = locations.filter(
-      (loc) => loc.zoomLevel <= currentZoom
-    );
+    if (!pinsVisible) return;
 
-    // Add markers for visible locations
-    visibleLocations.forEach((location) => {
+    // Visibility by tier (matches /pin):
+    //   delta = currentZoom - pin.zoomLevel
+    //   delta == 0 → at the pin's main zoom — full brightness
+    //   delta == 1 → one zoom closer in — slightly faded
+    //   anything else → hidden
+    const tierFor = (delta: number) => {
+      if (delta === 0) return { size: 28, svg: 18, iconOpacity: 1, bgOpacity: 0.85, badgeOpacity: 1 };
+      if (delta === 1) return { size: 24, svg: 16, iconOpacity: 0.85, bgOpacity: 0.55, badgeOpacity: 0.8 };
+      return null;
+    };
+
+    locations.forEach((location) => {
+      const tier = tierFor(currentZoom - location.zoomLevel);
+      if (!tier) return;
+
       const [x, y] = location.coordinates;
       const color = LOCATION_COLORS[location.type];
       const isSelected = location.id === selectedLocationId;
       const iconSvg = getLocationIconSvgV2(location.type, color);
 
-      // Flip Y coordinate (image coords: top-left origin, Leaflet Simple: bottom-left)
-      const latLng: L.LatLngExpression = [config.imageHeight - y, x];
+      // Match /pin's coordinate system: image-y stored as-is, placed at -y in CRS.Simple
+      const latLng: L.LatLngExpression = [-y, x];
 
-      // Create custom icon with SVG
       const icon = L.divIcon({
-        className: 'custom-marker',
+        className: `pinned-marker${isSelected ? ' pinned-marker-selected' : ''}`,
         html: `
-          <div class="marker-container ${isSelected ? 'marker-selected' : ''}" style="--marker-color: ${color}">
-            <span class="marker-icon">${iconSvg}</span>
-            <span class="marker-label ${isSelected ? 'label-selected' : ''}">${location.name}</span>
+          <div class="pinned-marker-container" style="--marker-color: ${color}; width: ${tier.size}px; height: ${tier.size}px;">
+            <span class="pinned-marker-bg" style="opacity: ${tier.bgOpacity};"></span>
+            <span class="pinned-marker-icon" style="opacity: ${tier.iconOpacity};">
+              <span style="display: inline-flex; width: ${tier.svg}px; height: ${tier.svg}px;">${iconSvg}</span>
+            </span>
           </div>
         `,
-        iconSize: [0, 0],
-        iconAnchor: [0, 0],
+        iconSize: [tier.size, tier.size],
+        iconAnchor: [tier.size / 2, tier.size / 2],
       });
 
       const marker = L.marker(latLng, { icon }).addTo(map);
-
-      marker.on('click', () => {
-        onLocationSelect?.(location);
-      });
+      marker.bindTooltip(location.name, { direction: 'top', offset: [0, -tier.size / 2 - 2] });
+      marker.on('click', () => onLocationSelect?.(location));
 
       markersRef.current.push(marker);
     });
-  }, [locations, currentZoom, config.imageHeight, onLocationSelect, selectedLocationId]);
+  }, [locations, currentZoom, onLocationSelect, selectedLocationId, pinsVisible]);
 
   return (
     <>
       <style jsx global>{`
-        .custom-marker {
+        .pinned-marker {
           background: transparent !important;
           border: none !important;
         }
 
-        .marker-container {
-          display: flex;
-          align-items: center;
-          gap: 6px;
-          white-space: nowrap;
-          cursor: pointer;
-          transition: transform 0.15s ease;
-        }
-
-        .marker-container:hover {
-          transform: scale(1.05);
-        }
-
-        .marker-selected {
-          transform: scale(1.05);
-        }
-
-        .marker-icon {
+        .pinned-marker-container {
+          position: relative;
           display: flex;
           align-items: center;
           justify-content: center;
-          filter: drop-shadow(0 1px 2px rgba(44, 36, 22, 0.5));
+          cursor: pointer;
+          transition: opacity 120ms ease, width 120ms ease, height 120ms ease, transform 120ms ease;
         }
 
-        .marker-icon svg {
-          width: 18px;
-          height: 18px;
+        .pinned-marker-container:hover {
+          transform: scale(1.12);
         }
 
-        .marker-label {
-          font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-          font-size: 0.875rem;
-          font-weight: 500;
-          color: #e8e0d0;
-          text-shadow:
-            -1px -1px 0 rgba(10, 8, 6, 0.9),
-            1px -1px 0 rgba(10, 8, 6, 0.9),
-            -1px 1px 0 rgba(10, 8, 6, 0.9),
-            1px 1px 0 rgba(10, 8, 6, 0.9),
-            0 0 8px rgba(10, 8, 6, 0.9);
+        .pinned-marker-selected .pinned-marker-container {
+          transform: scale(1.15);
         }
 
-        /* Selected label - gold underline */
-        .label-selected {
-          text-decoration: underline;
-          text-decoration-color: #c9a227;
-          text-decoration-thickness: 2px;
-          text-underline-offset: 3px;
+        .pinned-marker-selected .pinned-marker-bg {
+          border-width: 2.5px !important;
+          box-shadow: 0 0 0 2px rgba(201, 162, 39, 0.55), 0 1px 3px rgba(0,0,0,0.3) !important;
+        }
+
+        .pinned-marker-bg {
+          position: absolute;
+          inset: 0;
+          border-radius: 50%;
+          background: rgba(250, 248, 243, 0.85);
+          border: 1.5px solid var(--marker-color);
+          box-shadow: 0 1px 2px rgba(0,0,0,0.18);
+          z-index: 0;
+          transition: opacity 120ms ease, border-width 120ms ease, box-shadow 120ms ease;
+        }
+
+        .pinned-marker-icon {
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 1;
+          transition: opacity 120ms ease;
+        }
+
+        .pinned-marker-icon svg {
+          width: 100%;
+          height: 100%;
         }
 
         .leaflet-container {

@@ -4,10 +4,14 @@ import type { Location } from '../src/types/location';
 import type { WorkQueue, PinnedData, LoreEntry } from '../src/types/pinning';
 
 const DATA_DIR = path.resolve(__dirname, '../data');
-const LORE_DIR = path.resolve(__dirname, '../../world-wikis/alaria/all_sections_formatted');
+const PUBLIC_DIR = path.resolve(__dirname, '../public');
+const LORE_DIR =
+  process.env.ALARIA_LORE_DIR ||
+  path.resolve(__dirname, '../../heart-rush-tools/world-wikis/alaria/all_sections_formatted');
 const WORK_QUEUE_PATH = path.join(DATA_DIR, 'work-queue.json');
 const PINNED_PATH = path.join(DATA_DIR, 'pinned.json');
 const OUTPUT_PATH = path.join(DATA_DIR, 'locations.json');
+const PUBLIC_OUTPUT_PATH = path.join(PUBLIC_DIR, 'locations.json');
 const AMBIGUOUS_PATH = path.join(DATA_DIR, 'ambiguous-references.json');
 
 interface ContentSection {
@@ -305,6 +309,8 @@ function main() {
 
     const relatedIds = Array.from(relatedByIds.get(id) || []);
 
+    const content = contentById.get(entry.id);
+
     const location: Location = {
       id: entry.id,
       name: entry.name,
@@ -315,6 +321,7 @@ function main() {
       relatedIds,
       loreFile: entry.sourceFile,
       tags: entry.tags,
+      content: content ? content.trim() : undefined,
     };
 
     locations.push(location);
@@ -328,6 +335,9 @@ function main() {
 
   // Write outputs
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(locations, null, 2));
+  // Compact copy in public/ so the browser can fetch it without an API route
+  fs.writeFileSync(PUBLIC_OUTPUT_PATH, JSON.stringify(locations));
+  console.log(`Public copy: ${PUBLIC_OUTPUT_PATH}`);
 
   if (ambiguousReferences.length > 0) {
     fs.writeFileSync(AMBIGUOUS_PATH, JSON.stringify(ambiguousReferences, null, 2));

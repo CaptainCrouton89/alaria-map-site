@@ -636,4 +636,106 @@
     pointer-events: none;
   }
 
+  /* Markdown rendering inside the location sidebar */
+  .location-markdown h1,
+  .location-markdown h2,
+  .location-markdown h3,
+  .location-markdown h4,
+  .location-markdown h5,
+  .location-markdown h6 {
+    font-family: var(--font-display);
+    color: var(--ink);
+    font-weight: 600;
+    margin-top: 1.25em;
+    margin-bottom: 0.5em;
+    line-height: 1.25;
+  }
+  .location-markdown h1 { font-size: 1.35rem; }
+  .location-markdown h2 { font-size: 1.2rem; }
+  .location-markdown h3 { font-size: 1.05rem; }
+  .location-markdown h4,
+  .location-markdown h5,
+  .location-markdown h6 { font-size: 0.95rem; }
+
+  .location-markdown > *:first-child { margin-top: 0; }
+
+  .location-markdown p {
+    margin: 0 0 0.85em 0;
+  }
+
+  .location-markdown ul,
+  .location-markdown ol {
+    margin: 0 0 0.85em 0;
+    padding-left: 1.25em;
+  }
+  .location-markdown ul { list-style: disc; }
+  .location-markdown ol { list-style: decimal; }
+  .location-markdown li { margin-bottom: 0.25em; }
+  .location-markdown li > p { margin-bottom: 0.25em; }
+
+  .location-markdown strong {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .location-markdown em { font-style: italic; }
+
+  .location-markdown a {
+    color: var(--sidebar-primary);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .location-markdown blockquote {
+    border-left: 2px solid var(--sidebar-border);
+    padding-left: 0.85em;
+    margin: 0 0 0.85em 0;
+    color: var(--ink-muted);
+    font-style: italic;
+  }
+
+  .location-markdown code {
+    font-family: var(--font-mono, ui-monospace, monospace);
+    font-size: 0.85em;
+    background: rgba(232, 224, 208, 0.08);
+    border: 1px solid var(--sidebar-border);
+    border-radius: 3px;
+    padding: 0.05em 0.35em;
+  }
+
+  .location-markdown pre {
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--sidebar-border);
+    border-radius: 4px;
+    padding: 0.75em;
+    overflow-x: auto;
+    margin: 0 0 0.85em 0;
+  }
+  .location-markdown pre code {
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  .location-markdown hr {
+    border: none;
+    border-top: 1px solid var(--sidebar-border);
+    margin: 1.25em 0;
+  }
+
+  .location-markdown table {
+    border-collapse: collapse;
+    margin: 0 0 0.85em 0;
+    font-size: 0.875em;
+  }
+  .location-markdown th,
+  .location-markdown td {
+    border: 1px solid var(--sidebar-border);
+    padding: 0.4em 0.65em;
+    text-align: left;
+  }
+  .location-markdown th {
+    background: rgba(232, 224, 208, 0.05);
+    font-weight: 600;
+  }
+
 }
