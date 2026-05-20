@@ -1,0 +1,11 @@
+- Make rules for how naming should work
+- Let gemini navigate the page, look at coordinates, find name, assess type, and correct places
+  - Need to have agent figure out best way to make corrections on the map
+- humanizer skill
+- Agent automatically reads relevant sections to make edits to its section
+- Tons of rule files for what docs need to be read for different topics. Maybe tons of skills for different systems that should be read up on.
+- Give it samples of writing styles
+- A database/table of topics? Maybe it should operate over table of tropes
+- Need to be systematic. Voice my concerns, ask agent for advice on how to make sure there aren't gaps
+- I want to be able to step through map, quickly make corrections, have them delegated out without wasting context window
+- Find duplicates
