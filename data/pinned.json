@@ -58,8 +58,8 @@
       368,
       197
     ],
-    "zoomLevel": 4,
-    "type": "wilderness",
+    "zoomLevel": 3,
+    "type": "region",
     "pinnedAt": "2025-12-04T08:58:45.284Z"
   },
   "12": {
@@ -1474,24 +1474,6 @@
     "zoomLevel": 3,
     "type": "region",
     "pinnedAt": "2025-12-05T08:32:12.263Z"
-  },
-  "433": {
-    "coordinates": [
-      366,
-      199
-    ],
-    "zoomLevel": 3,
-    "type": "region",
-    "pinnedAt": "2025-12-05T08:32:45.959Z"
-  },
-  "434": {
-    "coordinates": [
-      369,
-      196
-    ],
-    "zoomLevel": 2,
-    "type": "region",
-    "pinnedAt": "2025-12-05T08:33:06.500Z"
   },
   "438": {
     "coordinates": [
@@ -3850,15 +3832,6 @@
     "zoomLevel": 4,
     "type": "water",
     "pinnedAt": "2026-05-02T23:17:38.917Z"
-  },
-  "933": {
-    "coordinates": [
-      241,
-      104
-    ],
-    "zoomLevel": 4,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-02T23:17:44.619Z"
   },
   "934": {
     "coordinates": [
@@ -8675,15 +8648,6 @@
     "type": "poi",
     "pinnedAt": "2026-05-05T05:15:16.045Z"
   },
-  "2414": {
-    "coordinates": [
-      307,
-      552
-    ],
-    "zoomLevel": 5,
-    "type": "poi",
-    "pinnedAt": "2026-05-05T05:15:21.506Z"
-  },
   "2420": {
     "coordinates": [
       344,
@@ -9151,15 +9115,6 @@
     "zoomLevel": 4,
     "type": "city",
     "pinnedAt": "2026-05-05T05:25:24.087Z"
-  },
-  "2552": {
-    "coordinates": [
-      99,
-      178
-    ],
-    "zoomLevel": 3,
-    "type": "wilderness",
-    "pinnedAt": "2026-05-05T05:25:30.908Z"
   },
   "2555": {
     "coordinates": [
@@ -12887,15 +12842,6 @@
     "type": "wilderness",
     "pinnedAt": "2026-05-10T06:19:38.473Z"
   },
-  "3549": {
-    "coordinates": [
-      47,
-      463
-    ],
-    "zoomLevel": 5,
-    "type": "ruins",
-    "pinnedAt": "2026-05-10T06:19:52.822Z"
-  },
   "3554": {
     "coordinates": [
       71,
@@ -13624,15 +13570,6 @@
     "zoomLevel": 4,
     "type": "water",
     "pinnedAt": "2026-05-10T07:36:27.512Z"
-  },
-  "3814": {
-    "coordinates": [
-      121,
-      478
-    ],
-    "zoomLevel": 4,
-    "type": "water",
-    "pinnedAt": "2026-05-10T07:36:32.454Z"
   },
   "3816": {
     "coordinates": [
@@ -15857,15 +15794,6 @@
     "type": "city",
     "pinnedAt": "2026-05-20T07:22:43.406Z"
   },
-  "4507": {
-    "coordinates": [
-      128,
-      220
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:22:55.334Z"
-  },
   "4510": {
     "coordinates": [
       102,
@@ -15884,51 +15812,6 @@
     "type": "city",
     "pinnedAt": "2026-05-20T07:23:40.661Z"
   },
-  "4512": {
-    "coordinates": [
-      82,
-      167
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:24:08.816Z"
-  },
-  "4520": {
-    "coordinates": [
-      78,
-      368
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:24:18.434Z"
-  },
-  "4526": {
-    "coordinates": [
-      84,
-      370
-    ],
-    "zoomLevel": 5,
-    "type": "water",
-    "pinnedAt": "2026-05-20T07:24:37.188Z"
-  },
-  "4530": {
-    "coordinates": [
-      134,
-      217
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:24:51.493Z"
-  },
-  "4533": {
-    "coordinates": [
-      46,
-      346
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:25:06.408Z"
-  },
   "4552": {
     "coordinates": [
       84,
@@ -15937,15 +15820,6 @@
     "zoomLevel": 5,
     "type": "water",
     "pinnedAt": "2026-05-20T07:26:43.102Z"
-  },
-  "4555": {
-    "coordinates": [
-      140,
-      553
-    ],
-    "zoomLevel": 4,
-    "type": "city",
-    "pinnedAt": "2026-05-20T07:27:10.905Z"
   },
   "4561": {
     "coordinates": [
