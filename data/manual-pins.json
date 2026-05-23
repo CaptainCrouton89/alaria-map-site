@@ -14531,6 +14531,39 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-23T15:30:18.845Z"
+    },
+    {
+      "id": "manual-mpiird9y-fwh9o",
+      "name": "Cobbled Coast",
+      "type": "water",
+      "coordinates": [
+        167,
+        503
+      ],
+      "zoomLevel": 4,
+      "createdAt": "2026-05-23T15:44:29.686Z"
+    },
+    {
+      "id": "manual-mpiirqrv-zgz99",
+      "name": "Mdornik Bay",
+      "type": "water",
+      "coordinates": [
+        146,
+        552
+      ],
+      "zoomLevel": 4,
+      "createdAt": "2026-05-23T15:44:47.179Z"
+    },
+    {
+      "id": "manual-mpiish5n-jpftt",
+      "name": "Ljusan River",
+      "type": "water",
+      "coordinates": [
+        65,
+        523
+      ],
+      "zoomLevel": 4,
+      "createdAt": "2026-05-23T15:45:21.371Z"
     }
   ]
 }
