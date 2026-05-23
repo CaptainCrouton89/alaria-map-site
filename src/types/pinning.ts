@@ -34,6 +34,23 @@ export interface PinnedData {
   [id: string]: PinnedLocation;
 }
 
+// Free-form pins placed directly on the map (not derived from the wiki queue).
+// Stored separately in data/manual-pins.json; ids are prefixed `manual-` so they
+// never collide with the numeric extraction ids in work-queue.json / pinned.json.
+export interface ManualPin {
+  id: string;
+  name: string;
+  type: LocationType;
+  coordinates: [number, number];
+  zoomLevel: number;
+  createdAt: string;
+}
+
+export interface ManualPinsFile {
+  version: 1;
+  pins: ManualPin[];
+}
+
 export interface ParentCrumb {
   id: string;
   name: string;

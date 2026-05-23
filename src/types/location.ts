@@ -6,7 +6,8 @@ export type LocationType =
   | 'ruins'
   | 'wilderness'
   | 'water'
-  | 'poi';
+  | 'poi'
+  | 'uncategorized';
 
 export interface Location {
   id: string;
@@ -40,4 +41,5 @@ export const LOCATION_COLORS: Record<LocationType, string> = {
   wilderness: '#4a7c59', // forest green
   water: '#4a8c9c',     // ocean blue
   poi: '#5a7a8c',       // slate blue
+  uncategorized: '#9a8f7a', // neutral taupe — placed but not yet typed
 };

@@ -284,11 +284,19 @@ export async function GET() {
   const byId = indexQueue(queue);
   const nameIndex = buildNameIndex(queue);
 
+  // id → name for every pinned entry, so the map can show name labels.
+  const pinnedNames: Record<string, string> = {};
+  for (const id of Object.keys(pinned)) {
+    const e = byId.get(id);
+    if (e) pinnedNames[id] = e.name;
+  }
+
   return NextResponse.json({
     currentEntry,
     currentIndex,
     stats: computeStats(queue),
     pinnedData: pinned,
+    pinnedNames,
     context: enrichEntry(currentEntry, queue, byId, nameIndex),
   });
 }

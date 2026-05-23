@@ -57,6 +57,7 @@
   --color-loc-water: var(--loc-water);
   --color-loc-temple: var(--loc-temple);
   --color-loc-poi: var(--loc-poi);
+  --color-loc-uncategorized: var(--loc-uncategorized);
 
   /* Fonts */
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
@@ -123,6 +124,7 @@
   --loc-water: #5aacbc;
   --loc-temple: #8b6aac;
   --loc-poi: #5a9c9c;
+  --loc-uncategorized: #9a8f7a;
 
   /* Atmospheric background tints for immersive UI - adjusted for dark */
   --atmos-civilization: rgba(201, 162, 39, 0.08);

@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import type { Location } from '../src/types/location';
-import type { WorkQueue, PinnedData, LoreEntry } from '../src/types/pinning';
+import type { WorkQueue, PinnedData, LoreEntry, ManualPinsFile } from '../src/types/pinning';
 
 const DATA_DIR = path.resolve(__dirname, '../data');
 const PUBLIC_DIR = path.resolve(__dirname, '../public');
@@ -10,6 +10,7 @@ const LORE_DIR =
   path.resolve(__dirname, '../../heart-rush-tools/world-wikis/alaria/all_sections_formatted');
 const WORK_QUEUE_PATH = path.join(DATA_DIR, 'work-queue.json');
 const PINNED_PATH = path.join(DATA_DIR, 'pinned.json');
+const MANUAL_PINS_PATH = path.join(DATA_DIR, 'manual-pins.json');
 const OUTPUT_PATH = path.join(DATA_DIR, 'locations.json');
 const PUBLIC_OUTPUT_PATH = path.join(PUBLIC_DIR, 'locations.json');
 const AMBIGUOUS_PATH = path.join(DATA_DIR, 'ambiguous-references.json');
@@ -325,6 +326,25 @@ function main() {
     };
 
     locations.push(location);
+  }
+
+  // Merge free-form manual pins (placed via /pin Quick Label mode).
+  // These have no wiki entry, so they carry no parent/related/content.
+  if (fs.existsSync(MANUAL_PINS_PATH)) {
+    const manualFile: ManualPinsFile = JSON.parse(fs.readFileSync(MANUAL_PINS_PATH, 'utf-8'));
+    const manualPins = Array.isArray(manualFile.pins) ? manualFile.pins : [];
+    for (const pin of manualPins) {
+      locations.push({
+        id: pin.id,
+        name: pin.name,
+        type: pin.type,
+        coordinates: pin.coordinates,
+        zoomLevel: pin.zoomLevel,
+        parentId: null,
+        relatedIds: [],
+      });
+    }
+    console.log(`Merged ${manualPins.length} manual pins`);
   }
 
   // Sort by zoom level, then by name

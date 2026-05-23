@@ -8,13 +8,93 @@ import { LOCATION_COLORS } from '@/types/location';
 import { getLocationIconSvgV2 } from '@/lib/icons';
 import type { PinnedData } from '@/types/pinning';
 
+function escapeHtml(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// Visibility tiers based on delta = currentZoom - pin.zoomLevel.
+// delta < 0: not yet reached (hidden) · 0: peak · >0: faded background context.
+function tierFor(delta: number) {
+  if (delta < 0) return null;
+  if (delta === 0) return { size: 28, svg: 18, iconOpacity: 1, bgOpacity: 0.7, badgeOpacity: 1 };
+  if (delta === 1) return { size: 24, svg: 16, iconOpacity: 0.75, bgOpacity: 0.4, badgeOpacity: 0.7 };
+  if (delta === 2) return { size: 20, svg: 14, iconOpacity: 0.5, bgOpacity: 0.25, badgeOpacity: 0.4 };
+  return { size: 18, svg: 12, iconOpacity: 0.35, bgOpacity: 0.15, badgeOpacity: 0.25 };
+}
+
+// Rebuild a marker layer onto `map`, returning the created markers.
+function buildPinLayer(
+  map: L.Map,
+  data: PinnedData,
+  labels: Record<string, string> | undefined,
+  currentZoom: number,
+  highlightId: string | null | undefined
+): L.Marker[] {
+  const markers: L.Marker[] = [];
+  Object.entries(data).forEach(([id, pinned]) => {
+    const isHighlighted = !!highlightId && id === highlightId;
+    // Highlighted pins always show (at peak tier) even if zoomed out past them.
+    const tier = tierFor(currentZoom - pinned.zoomLevel) ?? (isHighlighted ? tierFor(0)! : null);
+    if (!tier) return;
+
+    const [x, y] = pinned.coordinates;
+    const latLng: L.LatLngExpression = [-y, x];
+    const color = LOCATION_COLORS[pinned.type];
+    const iconSvg = getLocationIconSvgV2(pinned.type, color);
+    const badgeHtml = tier.badgeOpacity > 0
+      ? `<span class="pinned-marker-badge" style="opacity: ${tier.badgeOpacity}">${pinned.zoomLevel}</span>`
+      : '';
+    const name = labels?.[id];
+    const labelOpacity = isHighlighted ? 1 : tier.iconOpacity;
+    const labelHtml = name
+      ? `<span class="pinned-marker-name${isHighlighted ? ' selected' : ''}" style="opacity: ${labelOpacity};">${escapeHtml(name)}</span>`
+      : '';
+
+    const icon = L.divIcon({
+      className: `pinned-marker${isHighlighted ? ' selected' : ''}`,
+      html: `
+        <div class="pinned-marker-container" style="--marker-color: ${color}; width: ${tier.size}px; height: ${tier.size}px;">
+          <span class="pinned-marker-bg" style="opacity: ${isHighlighted ? 0.95 : tier.bgOpacity};"></span>
+          <span class="pinned-marker-icon" style="opacity: ${isHighlighted ? 1 : tier.iconOpacity};">
+            <span style="display: inline-flex; width: ${tier.svg}px; height: ${tier.svg}px;">${iconSvg}</span>
+          </span>
+          ${badgeHtml}
+          ${labelHtml}
+        </div>
+      `,
+      iconSize: [tier.size, tier.size],
+      iconAnchor: [tier.size / 2, tier.size / 2],
+    });
+
+    markers.push(L.marker(latLng, { icon, interactive: false, keyboard: false }).addTo(map));
+  });
+  return markers;
+}
+
 interface PinningMapProps {
   config: MapConfig;
   tilesPath: string;
   onMapClick: (coords: [number, number], zoom: number) => void;
   pendingCoords: [number, number] | null;
   pendingType: LocationType;
+  /** Heavy, stable wiki-pin layer — rebuilt only on zoom. */
   pinnedData: PinnedData;
+  /** id → name for the wiki pins. */
+  labels?: Record<string, string>;
+  /** Small, frequently-changing manual-pin layer — rebuilt on edits. */
+  manualData?: PinnedData;
+  /** id → name for the manual pins. */
+  manualLabels?: Record<string, string>;
+  /** Live label rendered next to the pending marker (e.g. the name being typed). */
+  pendingLabel?: string;
+  /** id of a manual pin to highlight (the one selected for editing). */
+  highlightId?: string | null;
+  /** image coords to pan the map to when they change (follows the selection). */
+  panTo?: [number, number] | null;
 }
 
 export function PinningMap({
@@ -24,11 +104,18 @@ export function PinningMap({
   pendingCoords,
   pendingType,
   pinnedData,
+  labels,
+  manualData,
+  manualLabels,
+  pendingLabel,
+  highlightId,
+  panTo,
 }: PinningMapProps) {
   const mapRef = useRef<HTMLDivElement>(null);
   const leafletMapRef = useRef<L.Map | null>(null);
   const pendingMarkerRef = useRef<L.Marker | null>(null);
   const pinnedMarkersRef = useRef<L.Marker[]>([]);
+  const manualMarkersRef = useRef<L.Marker[]>([]);
   const [currentZoom, setCurrentZoom] = useState(config.minZoom);
 
   // Initialize map
@@ -109,6 +196,10 @@ export function PinningMap({
     const latLng: L.LatLngExpression = [-y, x];
     const color = LOCATION_COLORS[pendingType];
     const iconSvg = getLocationIconSvgV2(pendingType, color);
+    const labelText = pendingLabel && pendingLabel.trim() ? pendingLabel.trim() : '';
+    const labelHtml = labelText
+      ? `<span class="pending-marker-label">${escapeHtml(labelText)}</span>`
+      : '';
 
     const icon = L.divIcon({
       className: 'pending-marker',
@@ -117,6 +208,7 @@ export function PinningMap({
           <span class="pending-marker-pulse"></span>
           <span class="pending-marker-bg"></span>
           <span class="pending-marker-icon">${iconSvg}</span>
+          ${labelHtml}
         </div>
       `,
       iconSize: [40, 40],
@@ -124,62 +216,36 @@ export function PinningMap({
     });
 
     pendingMarkerRef.current = L.marker(latLng, { icon }).addTo(map);
-  }, [pendingCoords, pendingType]);
+  }, [pendingCoords, pendingType, pendingLabel]);
 
-  // Update pinned markers (visibility tracks current zoom vs each pin's zoomLevel)
+  // Pan to follow the selected pin (negative-y image space → Leaflet coords).
+  useEffect(() => {
+    const map = leafletMapRef.current;
+    if (!map || !panTo) return;
+    const [x, y] = panTo;
+    map.panTo([-y, x]);
+  }, [panTo]);
+
+  // Wiki-pin layer: heavy (~1.7k) but stable, so it only rebuilds on zoom.
+  // Deliberately excludes highlightId — highlights only apply to manual pins,
+  // so editing a manual pin never rebuilds this layer.
   useEffect(() => {
     const map = leafletMapRef.current;
     if (!map) return;
-
-    // Remove old markers
     pinnedMarkersRef.current.forEach((m) => m.remove());
-    pinnedMarkersRef.current = [];
+    pinnedMarkersRef.current = buildPinLayer(map, pinnedData, labels, currentZoom, null);
+  }, [pinnedData, currentZoom, labels]);
 
-    // Visibility tiers based on delta = currentZoom - pin.zoomLevel.
-    // delta < 0:  pin's level not yet reached — hide entirely.
-    // delta == 0: at the pin's level — peak visibility.
-    // delta > 0:  zoomed past — fade into background context.
-    const tierFor = (delta: number) => {
-      if (delta < 0) return null;
-      if (delta === 0) return { size: 28, svg: 18, iconOpacity: 1, bgOpacity: 0.7, badgeOpacity: 1 };
-      if (delta === 1) return { size: 24, svg: 16, iconOpacity: 0.75, bgOpacity: 0.4, badgeOpacity: 0.7 };
-      if (delta === 2) return { size: 20, svg: 14, iconOpacity: 0.5, bgOpacity: 0.25, badgeOpacity: 0.4 };
-      return { size: 18, svg: 12, iconOpacity: 0.35, bgOpacity: 0.15, badgeOpacity: 0.25 };
-    };
-
-    Object.entries(pinnedData).forEach(([id, pinned]) => {
-      const tier = tierFor(currentZoom - pinned.zoomLevel);
-      if (!tier) return;
-
-      const [x, y] = pinned.coordinates;
-      // Convert image coords to Leaflet coords (negative y space)
-      const latLng: L.LatLngExpression = [-y, x];
-      const color = LOCATION_COLORS[pinned.type];
-      const iconSvg = getLocationIconSvgV2(pinned.type, color);
-      const badgeHtml = tier.badgeOpacity > 0
-        ? `<span class="pinned-marker-badge" style="opacity: ${tier.badgeOpacity}">${pinned.zoomLevel}</span>`
-        : '';
-
-      const icon = L.divIcon({
-        className: 'pinned-marker',
-        html: `
-          <div class="pinned-marker-container" style="--marker-color: ${color}; width: ${tier.size}px; height: ${tier.size}px;">
-            <span class="pinned-marker-bg" style="opacity: ${tier.bgOpacity};"></span>
-            <span class="pinned-marker-icon" style="opacity: ${tier.iconOpacity};">
-              <span style="display: inline-flex; width: ${tier.svg}px; height: ${tier.svg}px;">${iconSvg}</span>
-            </span>
-            ${badgeHtml}
-          </div>
-        `,
-        iconSize: [tier.size, tier.size],
-        iconAnchor: [tier.size / 2, tier.size / 2],
-      });
-
-      const marker = L.marker(latLng, { icon, interactive: false, keyboard: false }).addTo(map);
-      marker.bindTooltip(`${id} · z${pinned.zoomLevel}`, { direction: 'top', offset: [0, -10] });
-      pinnedMarkersRef.current.push(marker);
-    });
-  }, [pinnedData, currentZoom]);
+  // Manual-pin layer: small and frequently edited, so rebuilding it on each
+  // add/retype/selection is cheap and doesn't touch the wiki layer.
+  useEffect(() => {
+    const map = leafletMapRef.current;
+    if (!map) return;
+    manualMarkersRef.current.forEach((m) => m.remove());
+    manualMarkersRef.current = manualData
+      ? buildPinLayer(map, manualData, manualLabels, currentZoom, highlightId)
+      : [];
+  }, [manualData, manualLabels, currentZoom, highlightId]);
 
   return (
     <>
@@ -220,6 +286,24 @@ export function PinningMap({
         .pending-marker-icon svg {
           width: 24px;
           height: 24px;
+        }
+
+        .pending-marker-label {
+          position: absolute;
+          top: 100%;
+          left: 50%;
+          transform: translateX(-50%);
+          margin-top: 4px;
+          white-space: nowrap;
+          background: var(--marker-color);
+          color: #faf8f3;
+          font-size: 12px;
+          font-weight: 600;
+          padding: 2px 7px;
+          border-radius: 4px;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.35);
+          z-index: 3;
+          pointer-events: none;
         }
 
         .pending-marker-pulse {
@@ -297,6 +381,42 @@ export function PinningMap({
         .leaflet-container {
           background: #e8e0d0;
           cursor: crosshair !important;
+        }
+
+        /* Selected pin (Quick Label edit target) */
+        .pinned-marker.selected {
+          z-index: 1000 !important;
+        }
+        .pinned-marker.selected .pinned-marker-bg {
+          border-width: 2.5px;
+          box-shadow: 0 0 0 3px rgba(201, 162, 39, 0.55), 0 1px 3px rgba(0,0,0,0.3);
+        }
+        .pinned-marker-name.selected {
+          background: var(--marker-color);
+          color: #faf8f3;
+          border-color: var(--marker-color);
+          font-size: 11px;
+        }
+
+        /* Name labels baked into each pinned marker */
+        .pinned-marker-name {
+          position: absolute;
+          top: 50%;
+          left: 100%;
+          transform: translateY(-50%);
+          margin-left: 4px;
+          white-space: nowrap;
+          background: rgba(250, 248, 243, 0.85);
+          border: 1px solid #d4c5a9;
+          color: #2c2416;
+          font-size: 10px;
+          font-weight: 600;
+          line-height: 1.3;
+          padding: 0 4px;
+          border-radius: 3px;
+          box-shadow: 0 1px 2px rgba(44, 36, 22, 0.2);
+          pointer-events: none;
+          z-index: 2;
         }
 
         /* Fix tile seams during pan/zoom */
