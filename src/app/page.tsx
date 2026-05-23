@@ -166,7 +166,7 @@ export default function Home() {
           <Separator />
 
           {/* Content area with scroll */}
-          <ScrollArea className="flex-1 px-6 py-5">
+          <ScrollArea className="flex-1 min-h-0 px-6 py-5">
             {selectedLocation.content ? (
               <div className="location-markdown text-sm text-ink leading-relaxed">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
@@ -179,6 +179,25 @@ export default function Home() {
               </p>
             )}
           </ScrollArea>
+
+          <Separator />
+
+          {/* Contribute footer */}
+          <div className="px-6 py-5">
+            <p className="text-sm text-ink-muted leading-relaxed mb-3">
+              Interested in contributing to the lore of Alaria? Message me on
+              Discord at <span className="text-ink font-medium">@CaptainCrouton89</span>.
+            </p>
+            <Button asChild variant="ghost" size="sm" className="btn-gold w-full font-medium tracking-wide">
+              <a
+                href="https://discord.com/users/304156551210467328"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Message me on Discord
+              </a>
+            </Button>
+          </div>
         </div>
       )}
 

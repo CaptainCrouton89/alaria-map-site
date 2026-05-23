@@ -741,3 +741,74 @@
   }
 
 }
+
+/* Gold contribute button with a reflection that runs along the outline only */
+.btn-gold {
+  position: relative;
+  border: 1px solid var(--gold-muted);
+  color: var(--gold);
+  background:
+    linear-gradient(180deg, rgba(201, 162, 39, 0.10), rgba(201, 162, 39, 0.02));
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  transition:
+    color 0.3s ease,
+    border-color 0.4s ease,
+    box-shadow 0.4s ease,
+    transform 0.15s ease;
+}
+
+/* Moving specular highlight, masked to just the 1px border ring */
+.btn-gold::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(
+    100deg,
+    transparent 38%,
+    rgba(255, 247, 214, 0.7) 47%,
+    rgba(255, 255, 255, 0.95) 50%,
+    rgba(255, 247, 214, 0.7) 53%,
+    transparent 62%
+  );
+  background-size: 250% 100%;
+  background-position: 175% 0;
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: btn-gold-sheen 4.5s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.btn-gold:hover {
+  color: #f3dd8a;
+  border-color: var(--gold);
+  box-shadow: 0 0 14px rgba(201, 162, 39, 0.3);
+}
+
+.btn-gold:hover::before {
+  animation-duration: 1.3s;
+}
+
+.btn-gold:active {
+  transform: translateY(1px);
+}
+
+@keyframes btn-gold-sheen {
+  0% {
+    background-position: 175% 0;
+  }
+  55%,
+  100% {
+    background-position: -75% 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn-gold::before {
+    animation: none;
+  }
+}
