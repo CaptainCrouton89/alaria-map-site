@@ -22,6 +22,24 @@ export interface Location {
   content?: string; // raw markdown body, baked in by finalize-locations
 }
 
+// Authored relationship edges between pins, emitted to public/codex-edges.json.
+export type EdgeKind = 'within' | 'borders' | 'capitalOf' | 'separatedBy';
+
+export interface MapEdge {
+  source: string; // entity id
+  target: string; // entity id
+  kind: EdgeKind;
+  note?: string;
+}
+
+// Per-kind line styling + label for the relationship overlay.
+export const EDGE_KINDS: Record<EdgeKind, { label: string; color: string; defaultOn: boolean }> = {
+  borders: { label: 'Borders', color: '#e0883b', defaultOn: true },
+  capitalOf: { label: 'Capital of', color: '#c9a227', defaultOn: true },
+  separatedBy: { label: 'Separated by', color: '#14b8a6', defaultOn: true },
+  within: { label: 'Within (containment)', color: '#5a8fd6', defaultOn: false },
+};
+
 export interface MapConfig {
   imageWidth: number;
   imageHeight: number;

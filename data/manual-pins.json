@@ -2,6 +2,17 @@
   "version": 1,
   "pins": [
     {
+      "id": "manual-mpkmfw20-zmzyd",
+      "name": "The Wastes of Al G'hesh",
+      "type": "region",
+      "coordinates": [
+        102,
+        197
+      ],
+      "zoomLevel": 3,
+      "createdAt": "2026-05-24T00:00:00.000Z"
+    },
+    {
       "id": "manual-mpgbtk1t-r07lj",
       "name": "Mingrign Kusi",
       "type": "uncategorized",
@@ -376,17 +387,6 @@
       "createdAt": "2026-05-22T05:28:57.197Z"
     },
     {
-      "id": "manual-mpghc6kj-0qqcz",
-      "name": "Vergis River",
-      "type": "water",
-      "coordinates": [
-        214,
-        112
-      ],
-      "zoomLevel": 4,
-      "createdAt": "2026-05-22T05:29:09.187Z"
-    },
-    {
       "id": "manual-mpghcz4e-tmih8",
       "name": "River Gris",
       "type": "water",
@@ -484,17 +484,6 @@
       ],
       "zoomLevel": 3,
       "createdAt": "2026-05-22T05:31:47.500Z"
-    },
-    {
-      "id": "manual-mpghg0i2-6b2rn",
-      "name": "Denrik Sea",
-      "type": "water",
-      "coordinates": [
-        365,
-        170
-      ],
-      "zoomLevel": 2,
-      "createdAt": "2026-05-22T05:32:07.946Z"
     },
     {
       "id": "manual-mpghg6p3-p561m",
@@ -1080,28 +1069,6 @@
       "createdAt": "2026-05-22T16:25:21.824Z"
     },
     {
-      "id": "manual-mph4sdwx-r8qlq",
-      "name": "Keshwindi",
-      "type": "city",
-      "coordinates": [
-        518,
-        223
-      ],
-      "zoomLevel": 4,
-      "createdAt": "2026-05-22T16:25:36.369Z"
-    },
-    {
-      "id": "manual-mph4swtn-35odd",
-      "name": "Garlow",
-      "type": "city",
-      "coordinates": [
-        541,
-        260
-      ],
-      "zoomLevel": 4,
-      "createdAt": "2026-05-22T16:26:00.875Z"
-    },
-    {
       "id": "manual-mph4tcjt-4wsqf",
       "name": "Chimus",
       "type": "city",
@@ -1210,17 +1177,6 @@
       ],
       "zoomLevel": 4,
       "createdAt": "2026-05-22T16:27:57.295Z"
-    },
-    {
-      "id": "manual-mph4vrg5-6rq7e",
-      "name": "Old Tyabb",
-      "type": "town",
-      "coordinates": [
-        494,
-        264
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T16:28:13.877Z"
     },
     {
       "id": "manual-mph4w0cm-gmofx",
@@ -2871,17 +2827,6 @@
       ],
       "zoomLevel": 4,
       "createdAt": "2026-05-22T17:02:12.273Z"
-    },
-    {
-      "id": "manual-mph63roz-wnr8m",
-      "name": "Luendrokrül",
-      "type": "wilderness",
-      "coordinates": [
-        263,
-        453
-      ],
-      "zoomLevel": 4,
-      "createdAt": "2026-05-22T17:02:27.059Z"
     },
     {
       "id": "manual-mph63ykf-geqmi",
@@ -5370,17 +5315,6 @@
       "createdAt": "2026-05-22T19:03:53.961Z"
     },
     {
-      "id": "manual-mphag8lm-wpvq1",
-      "name": "Toothy Hills",
-      "type": "wilderness",
-      "coordinates": [
-        205,
-        168
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:04:07.306Z"
-    },
-    {
       "id": "manual-mphaggyd-zemun",
       "name": "Shyakl",
       "type": "wilderness",
@@ -5390,17 +5324,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T19:04:18.133Z"
-    },
-    {
-      "id": "manual-mphagrai-llqfw",
-      "name": "Yompur Liko",
-      "type": "ruins",
-      "coordinates": [
-        213,
-        172
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:04:31.530Z"
     },
     {
       "id": "manual-mphagyxt-9ay2t",
@@ -5689,17 +5612,6 @@
       "createdAt": "2026-05-22T19:09:42.303Z"
     },
     {
-      "id": "manual-mphapvzc-ahdil",
-      "name": "Zikatas Domari",
-      "type": "water",
-      "coordinates": [
-        254,
-        265
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:11:37.512Z"
-    },
-    {
       "id": "manual-mphaq92f-do33a",
       "name": "Twindle Creek",
       "type": "water",
@@ -5865,17 +5777,6 @@
       "createdAt": "2026-05-22T19:17:18.990Z"
     },
     {
-      "id": "manual-mphaxchb-7jeic",
-      "name": "Kessus Lake",
-      "type": "water",
-      "coordinates": [
-        385,
-        356
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:17:25.487Z"
-    },
-    {
       "id": "manual-mphaxqlz-w1u3a",
       "name": "Sygosa",
       "type": "town",
@@ -5984,17 +5885,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T19:19:22.648Z"
-    },
-    {
-      "id": "manual-mphb02iy-0ddri",
-      "name": "Prowling Hills",
-      "type": "wilderness",
-      "coordinates": [
-        256,
-        445
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:19:32.554Z"
     },
     {
       "id": "manual-mphb0cgc-9npnm",
@@ -6116,17 +6006,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T19:22:26.011Z"
-    },
-    {
-      "id": "manual-mphb45z7-yupbn",
-      "name": "Kazisezi",
-      "type": "wilderness",
-      "coordinates": [
-        315,
-        515
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:22:43.651Z"
     },
     {
       "id": "manual-mphb4e0x-jj6b3",
@@ -6270,17 +6149,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T19:25:49.333Z"
-    },
-    {
-      "id": "manual-mphb8er2-18j0f",
-      "name": "River Gorn",
-      "type": "water",
-      "coordinates": [
-        343,
-        517
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:26:01.646Z"
     },
     {
       "id": "manual-mphb92zt-ywe1d",
@@ -6468,17 +6336,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T19:39:37.945Z"
-    },
-    {
-      "id": "manual-mphbq7mv-2psi6",
-      "name": "Merrin Thamla",
-      "type": "water",
-      "coordinates": [
-        392,
-        550
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T19:39:52.231Z"
     },
     {
       "id": "manual-mphbqcfn-er4pc",
@@ -9385,17 +9242,6 @@
       "createdAt": "2026-05-22T21:00:46.948Z"
     },
     {
-      "id": "manual-mphemf6f-hfmcj",
-      "name": "Suinong",
-      "type": "water",
-      "coordinates": [
-        205,
-        357
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-22T21:00:54.231Z"
-    },
-    {
       "id": "manual-mphemsnt-rozyy",
       "name": "Shinini",
       "type": "water",
@@ -9900,17 +9746,6 @@
       ],
       "zoomLevel": 5,
       "createdAt": "2026-05-22T21:07:45.976Z"
-    },
-    {
-      "id": "manual-mphevj6g-v86qj",
-      "name": "Agorf Island",
-      "type": "region",
-      "coordinates": [
-        239,
-        354
-      ],
-      "zoomLevel": 4,
-      "createdAt": "2026-05-22T21:07:59.320Z"
     },
     {
       "id": "manual-mphewmlg-iyc5a",
@@ -11090,17 +10925,6 @@
       "createdAt": "2026-05-23T14:34:17.653Z"
     },
     {
-      "id": "manual-mpigafjk-ppep8",
-      "name": "Husanaka River",
-      "type": "water",
-      "coordinates": [
-        31,
-        158
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-23T14:35:20.240Z"
-    },
-    {
       "id": "manual-mpigbyow-uoy6g",
       "name": "Clifwreck Bay",
       "type": "water",
@@ -12278,17 +12102,6 @@
       "createdAt": "2026-05-23T14:54:58.998Z"
     },
     {
-      "id": "manual-mpih0b6i-qc2se",
-      "name": "Nutenze",
-      "type": "water",
-      "coordinates": [
-        350,
-        525
-      ],
-      "zoomLevel": 5,
-      "createdAt": "2026-05-23T14:55:27.642Z"
-    },
-    {
       "id": "manual-mpih0flo-ie0n2",
       "name": "Kirenda",
       "type": "town",
@@ -12760,17 +12573,6 @@
       ],
       "zoomLevel": 4,
       "createdAt": "2026-05-23T15:02:13.661Z"
-    },
-    {
-      "id": "manual-mpih9dvx-ecfjl",
-      "name": "Xcraya Palir",
-      "type": "wilderness",
-      "coordinates": [
-        97,
-        469
-      ],
-      "zoomLevel": 3,
-      "createdAt": "2026-05-23T15:02:31.053Z"
     },
     {
       "id": "manual-mpihag8q-6jotp",
@@ -14564,6 +14366,28 @@
       ],
       "zoomLevel": 4,
       "createdAt": "2026-05-23T15:45:21.371Z"
+    },
+    {
+      "id": "manual-mplrjh9o-1lpps",
+      "name": "Vaelthyr Hollows",
+      "type": "poi",
+      "coordinates": [
+        539,
+        454
+      ],
+      "zoomLevel": 5,
+      "createdAt": "2026-05-25T22:13:36.684Z"
+    },
+    {
+      "id": "manual-mplrk736-up4t5",
+      "name": "Voidlock Passage",
+      "type": "ruins",
+      "coordinates": [
+        487,
+        395
+      ],
+      "zoomLevel": 5,
+      "createdAt": "2026-05-25T22:14:10.146Z"
     }
   ]
 }

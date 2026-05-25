@@ -3,3 +3,13 @@
 ## Constraints
 
 - **Leaflet coordinate system**: The map uses `L.CRS.Simple` with pixel coordinates. Y-axis is flipped when placing markers — Leaflet has bottom-left origin, images have top-left. Always invert Y when converting image pixel coords to `L.LatLng`.
+
+- **Codex generator**: `scripts/build-codex.mts` is the active generator — run it with `node scripts/build-codex.mts` (or `alaria-codex build`). Scripts are `.mts` and run on Node's native TypeScript type-stripping — no tsx. `finalize-locations.ts` is still listed in `package.json` scripts but is superseded; do not use it.
+
+- **Codex CLI** (`alaria-codex`): `edge add --kind within` silently skips (logs `within-conflict`) if a `within` edge already exists — `edge rm` the old one first. `map shot` renders with saturation by default (borders/rivers/capital stars legible at radius ~6-10); pass `--enhance none` for raw tiles.
+
+- **Entity files are canonical**: never hand-edit `data/locations.json`, `public/locations.json`, `data/codex/compiled.json`, or `public/codex-search.json` — edit the entity file in `content/codex/entities/` and re-run the generator.
+
+- **Containment uses edges, not frontmatter**: the `parent` frontmatter field is retired and silently ignored — use `edge add --kind within` instead.
+
+- **Entity `id` immutable**: an entity's `id` must match its original pin id in `data/pinned.json` — reassigning it silently breaks the map.

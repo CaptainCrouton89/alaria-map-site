@@ -11,6 +11,32 @@ export type AtmosphereType =
   | 'water'
   | 'default';
 
+/** A resolved pointer to another entity, for graph navigation. */
+export interface EntityRef {
+  id: string;
+  name: string;
+}
+
+/** An authored typed edge leaving this entity (e.g. polity/capitalOf -> nation). */
+export interface OutEdge {
+  rel: string;
+  kind: string;
+  target: string;
+  targetName: string;
+  when?: string;
+  note?: string;
+}
+
+/** The reverse of an OutEdge: another entity points a typed edge AT this one. */
+export interface InEdge {
+  rel: string;
+  kind: string;
+  source: string;
+  sourceName: string;
+  when?: string;
+  note?: string;
+}
+
 export interface CodexEntry {
   id: string;
   name: string;
@@ -24,6 +50,28 @@ export interface CodexEntry {
   mapLocationId?: string;
   parentLocationId?: string;
   weight?: EntryWeight;
+  // New entity model (baked by scripts/build-codex.mts from content/codex/entities/)
+  entityType?: string;
+  blurb?: string;
+  atmosphere?: AtmosphereType;
+  coordinates?: [number, number];
+  zoomLevel?: number;
+  // Graph navigation (the codex travels by relation, not by category tree)
+  partOf?: EntityRef | null;   // containment parent ("part of X")
+  contains?: EntityRef[];      // direct children ("contains …")
+  relations?: OutEdge[];       // authored typed edges leaving this entity
+  incoming?: InEdge[];         // authored typed edges pointing at this entity
+  seeAlso?: EntityRef[];       // mention-scan links not already covered above
+}
+
+/** Lightweight record shipped to the client for codex search (public/codex-search.json). */
+export interface SearchEntry {
+  id: string;
+  name: string;
+  entityType: string;
+  blurb: string;
+  weight: EntryWeight;
+  aliases?: string[];
 }
 
 export interface AtmosphereStyle {

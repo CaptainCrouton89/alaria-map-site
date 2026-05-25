@@ -1,0 +1,17 @@
+---
+id: "679"
+name: "Majesty Mountains"
+entityType: wilderness
+blurb: "Home to numerous Kimril, copious quantities of red gold, and the an infamous dwarf bandit."
+coordinates: [339, 158]
+zoomLevel: 4
+tags: ["mountains"]
+sources: ["all_sections_formatted/Clueanda.md#L1723"]
+relations:
+  - { rel: spatial, kind: within, target: "411" }
+---
+Home to numerous Kimril, copious quantities of red gold, and the an infamous dwarf bandit. 
+
+Used to be homeland of stone dwarves, but it was destroyed by dragonriders from Adron. All of the underground cities and ruins of the stone dwarves are now infested with goblins and other nasties that the Adron government has given up trying to eradicate.
+
+They removed the dwarves by just flaming the tunnels with their dragons, but now they don't really have the same dragon population they used to, and they can't ever quite get the last of the goblins, which is all it takes for them all to immediately repopulate the mountains.
