@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Cinzel, Inter } from "next/font/google";
+import { Cinzel, Inter, EB_Garamond } from "next/font/google";
 import "./globals.css";
 
 const cinzel = Cinzel({
@@ -14,6 +14,13 @@ const inter = Inter({
   display: "swap",
 });
 
+// Reading serif for codex prose — a humanist old-style face that pairs with Cinzel.
+const ebGaramond = EB_Garamond({
+  subsets: ["latin"],
+  variable: "--font-serif",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
   title: "Alaria Interactive Map",
   description: "Explore the world of Alaria",
@@ -25,7 +32,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${cinzel.variable} ${inter.variable}`}>
+    <html lang="en" className={`${cinzel.variable} ${inter.variable} ${ebGaramond.variable}`}>
       <body className="font-sans antialiased">
         {children}
       </body>

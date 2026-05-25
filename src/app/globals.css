@@ -740,6 +740,171 @@
     font-weight: 600;
   }
 
+  /* =========================================================================
+     Codex reading column — the article body of a codex entry.
+     The map sidebar uses .location-markdown (cramped); the codex page is a
+     full reading surface, so it gets its own, more generous rhythm.
+     ========================================================================= */
+  .codex-prose {
+    color: var(--ink);
+    font-family: var(--font-serif), Georgia, 'Times New Roman', serif;
+    font-size: 1.2rem;
+    line-height: 1.72;
+    letter-spacing: 0.002em;
+    --rule: color-mix(in srgb, var(--border) 80%, transparent);
+  }
+  .codex-prose > *:first-child { margin-top: 0; }
+
+  .codex-prose h1,
+  .codex-prose h2,
+  .codex-prose h3,
+  .codex-prose h4,
+  .codex-prose h5,
+  .codex-prose h6 {
+    font-family: var(--font-display);
+    color: var(--ink);
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0.005em;
+    margin: 1.9em 0 0.6em;
+  }
+  .codex-prose h2 {
+    font-size: 1.6rem;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid var(--rule);
+  }
+  .codex-prose h3 { font-size: 1.3rem; }
+  .codex-prose h4 { font-size: 1.08rem; color: var(--ink-muted); text-transform: uppercase; letter-spacing: 0.08em; }
+  .codex-prose h5,
+  .codex-prose h6 { font-size: 0.95rem; color: var(--ink-muted); }
+
+  .codex-prose p { margin: 0 0 1.15em; }
+
+  .codex-prose strong { color: var(--ink); font-weight: 600; }
+  .codex-prose em { font-style: italic; color: color-mix(in srgb, var(--ink) 92%, var(--gold)); }
+
+  .codex-prose a {
+    color: var(--gold);
+    text-decoration: underline;
+    text-decoration-color: var(--gold-muted);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+  }
+  .codex-prose a:hover {
+    color: #f3dd8a;
+    text-decoration-color: #f3dd8a;
+  }
+
+  .codex-prose ul,
+  .codex-prose ol { margin: 0 0 1.15em; padding-left: 1.4em; }
+  .codex-prose ul { list-style: none; }
+  .codex-prose ul > li { position: relative; }
+  .codex-prose ul > li::before {
+    content: '';
+    position: absolute;
+    left: -1.05em;
+    top: 0.72em;
+    width: 5px;
+    height: 5px;
+    background: var(--gold-muted);
+    transform: rotate(45deg);
+  }
+  .codex-prose ol { list-style: decimal; }
+  .codex-prose li { margin-bottom: 0.35em; }
+  .codex-prose li > p { margin-bottom: 0.35em; }
+
+  .codex-prose blockquote {
+    border-left: 2px solid var(--gold-muted);
+    padding: 0.1em 0 0.1em 1.1em;
+    margin: 0 0 1.15em;
+    color: var(--ink-muted);
+    font-style: italic;
+  }
+
+  /* A centered fleuron rather than a hard line — manuscript section break. */
+  .codex-prose hr {
+    border: none;
+    margin: 2em auto;
+    width: 100%;
+    text-align: center;
+    overflow: visible;
+  }
+  .codex-prose hr::before {
+    content: '❧';
+    color: var(--gold-muted);
+    font-size: 1.1rem;
+    display: inline-block;
+    background: var(--parchment);
+    padding: 0 0.75em;
+  }
+  .codex-prose hr {
+    border-top: 1px solid var(--rule);
+    line-height: 0;
+  }
+
+  .codex-prose code {
+    font-family: var(--font-mono, ui-monospace, monospace);
+    font-size: 0.85em;
+    background: rgba(232, 224, 208, 0.08);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 0.05em 0.35em;
+  }
+  .codex-prose pre {
+    background: rgba(0, 0, 0, 0.28);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.85em 1em;
+    overflow-x: auto;
+    margin: 0 0 1.15em;
+  }
+  .codex-prose pre code { background: transparent; border: none; padding: 0; }
+
+  .codex-prose table {
+    border-collapse: collapse;
+    margin: 0 0 1.3em;
+    font-size: 0.94em;
+    width: 100%;
+  }
+  .codex-prose th,
+  .codex-prose td {
+    border: 1px solid var(--rule);
+    padding: 0.5em 0.75em;
+    text-align: left;
+  }
+  .codex-prose th {
+    background: rgba(201, 162, 39, 0.07);
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .codex-prose tbody tr:nth-child(even) { background: rgba(232, 224, 208, 0.025); }
+
+  /* Adjacency-map node — label + dot brighten on hover. */
+  .codex-mapnode { cursor: pointer; }
+  .codex-mapnode text { transition: fill 0.15s ease; }
+  .codex-mapnode:hover text { fill: var(--gold); }
+  .codex-mapnode:hover circle { fill: var(--gold); }
+
+  /* Relation chip — border lights up in the entry's atmosphere hue on hover. */
+  .codex-chip:hover {
+    border-color: var(--accent, var(--gold));
+    color: var(--accent, var(--gold));
+    background: color-mix(in srgb, var(--accent, var(--gold)) 9%, var(--parchment));
+  }
+
+  /* Illuminated initial — drop cap on the opening paragraph of weighty entries. */
+  .codex-prose--dropcap > p:first-of-type::first-letter {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 3.4em;
+    line-height: 0.74;
+    float: left;
+    margin: 0.06em 0.1em -0.04em 0;
+    color: var(--gold);
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+  }
 }
 
 /* Gold contribute button with a reflection that runs along the outline only */

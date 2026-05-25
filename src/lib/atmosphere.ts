@@ -1,5 +1,4 @@
 import type { AtmosphereType, AtmosphereStyle } from '@/types/codex';
-import { cn } from '@/lib/utils';
 
 /**
  * Atmosphere styles: subtle tints (2-6% opacity) for emotional resonance.
@@ -130,12 +129,37 @@ export function getAtmosphereStyle(type: AtmosphereType): AtmosphereStyle {
 }
 
 /**
- * Get Tailwind classes for atmosphere transitions and effects.
- * Includes reduced motion support.
+ * Rich visual descriptor for an atmosphere — the "bold & immersive" treatment.
+ * `rgb` is the accent hue; everything else (rules, labels, header band, page wash,
+ * seal tint, hover borders) is derived from it at the chosen opacity so the whole
+ * page reads as one mood without any single element shouting.
  */
-export function getAtmosphereClasses(type: AtmosphereType): string {
-  const baseClasses = 'transition-colors duration-[600ms] ease-in-out will-change-[background-color]';
-  const reducedMotionClasses = 'motion-reduce:transition-none';
+export interface AtmosphereVisual {
+  type: AtmosphereType;
+  /** Human label shown beside the entry; empty string means "don't show a label". */
+  label: string;
+  /** Accent hue as an [r,g,b] triplet. */
+  rgb: [number, number, number];
+}
 
-  return cn(baseClasses, reducedMotionClasses);
+const ATMOSPHERE_VISUALS: Record<AtmosphereType, AtmosphereVisual> = {
+  civilization: { type: 'civilization', label: 'Civilization', rgb: [216, 178, 74] },
+  sacred:       { type: 'sacred',       label: 'Sacred',       rgb: [169, 136, 214] },
+  cursed:       { type: 'cursed',       label: 'Cursed',       rgb: [140, 107, 176] },
+  ancient:      { type: 'ancient',      label: 'Ancient',      rgb: [179, 169, 143] },
+  dangerous:    { type: 'dangerous',    label: 'Perilous',     rgb: [208, 106, 90] },
+  trade:        { type: 'trade',        label: 'Trade',        rgb: [210, 168, 120] },
+  nature:       { type: 'nature',       label: 'Wilds',        rgb: [111, 174, 126] },
+  water:        { type: 'water',        label: 'Waters',       rgb: [95, 180, 198] },
+  default:      { type: 'default',      label: '',             rgb: [182, 155, 84] },
+};
+
+export function getAtmosphereVisual(type: AtmosphereType): AtmosphereVisual {
+  return ATMOSPHERE_VISUALS[type];
+}
+
+/** `rgba(r,g,b,a)` string for an atmosphere accent at the given opacity. */
+export function atmosRgba(v: AtmosphereVisual, alpha: number): string {
+  const [r, g, b] = v.rgb;
+  return `rgba(${r}, ${g}, ${b}, ${alpha})`;
 }
