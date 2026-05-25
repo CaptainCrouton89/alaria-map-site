@@ -3,8 +3,8 @@
 import { useEffect, useRef, useState } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import type { Location, MapConfig } from '@/types/location';
-import { LOCATION_COLORS } from '@/types/location';
+import type { Location, MapConfig, MapEdge, EdgeKind } from '@/types/location';
+import { LOCATION_COLORS, EDGE_KINDS } from '@/types/location';
 import { getLocationIconSvgV2 } from '@/lib/icons';
 
 interface InteractiveMapProps {
@@ -15,6 +15,9 @@ interface InteractiveMapProps {
   selectedLocationId?: string;
   onMapReady?: () => void;
   pinsVisible?: boolean;
+  flyTo?: { coordinates: [number, number]; zoomLevel: number } | null;
+  edges?: MapEdge[];
+  visibleEdgeKinds?: Set<EdgeKind>;
 }
 
 export function InteractiveMap({
@@ -25,10 +28,14 @@ export function InteractiveMap({
   selectedLocationId,
   onMapReady,
   pinsVisible = true,
+  flyTo,
+  edges,
+  visibleEdgeKinds,
 }: InteractiveMapProps) {
   const mapRef = useRef<HTMLDivElement>(null);
   const leafletMapRef = useRef<L.Map | null>(null);
   const markersRef = useRef<L.Marker[]>([]);
+  const edgeLayerRef = useRef<L.LayerGroup | null>(null);
   const hasNotifiedReady = useRef(false);
   const [currentZoom, setCurrentZoom] = useState(2);
 
@@ -159,6 +166,68 @@ export function InteractiveMap({
     });
   }, [locations, currentZoom, onLocationSelect, selectedLocationId, pinsVisible]);
 
+  // Draw relationship edges as colored polylines beneath the pins.
+  useEffect(() => {
+    const map = leafletMapRef.current;
+    if (!map) return;
+
+    // Tear down the previous layer
+    if (edgeLayerRef.current) {
+      edgeLayerRef.current.remove();
+      edgeLayerRef.current = null;
+    }
+    if (!edges || !visibleEdgeKinds || visibleEdgeKinds.size === 0) return;
+
+    const byId = new Map(locations.map((l) => [l.id, l]));
+    const layer = L.layerGroup();
+
+    for (const edge of edges) {
+      if (!visibleEdgeKinds.has(edge.kind)) continue;
+      const a = byId.get(edge.source);
+      const b = byId.get(edge.target);
+      if (!a || !b) continue;
+
+      const { color, label } = EDGE_KINDS[edge.kind];
+      const [ax, ay] = a.coordinates;
+      const [bx, by] = b.coordinates;
+      // Match the pin coordinate system: image-y placed at -y in CRS.Simple
+      const line = L.polyline(
+        [
+          [-ay, ax],
+          [-by, bx],
+        ],
+        { color, weight: 1.5, opacity: 0.55, interactive: true, bubblingMouseEvents: false },
+      );
+
+      const noteHtml = edge.note ? ` <span style="opacity:0.7">(${edge.note})</span>` : '';
+      line.bindTooltip(
+        `<strong>${a.name}</strong> &mdash;<span style="color:${color}">${label}</span>&rarr; <strong>${b.name}</strong>${noteHtml}`,
+        { sticky: true, direction: 'top', className: 'edge-tooltip' },
+      );
+      line.on('mouseover', () => line.setStyle({ weight: 3.5, opacity: 0.95 }));
+      line.on('mouseout', () => line.setStyle({ weight: 1.5, opacity: 0.55 }));
+      layer.addTo(map);
+      line.addTo(layer);
+    }
+
+    edgeLayerRef.current = layer;
+
+    return () => {
+      layer.remove();
+      if (edgeLayerRef.current === layer) edgeLayerRef.current = null;
+    };
+  }, [edges, visibleEdgeKinds, locations]);
+
+  // Fly to a target location when requested (e.g. from search)
+  useEffect(() => {
+    const map = leafletMapRef.current;
+    if (!map || !flyTo) return;
+    const [x, y] = flyTo.coordinates;
+    // Target the pin's own zoom level so it renders at full brightness (delta 0)
+    const targetZoom = Math.min(Math.max(flyTo.zoomLevel, config.minZoom), config.maxZoom);
+    map.flyTo([-y, x], targetZoom, { duration: 1.2 });
+  }, [flyTo, config.minZoom, config.maxZoom]);
+
   return (
     <>
       <style jsx global>{`
@@ -212,6 +281,19 @@ export function InteractiveMap({
         .pinned-marker-icon svg {
           width: 100%;
           height: 100%;
+        }
+
+        .edge-tooltip {
+          background: #2c2416;
+          color: #e8e0d0;
+          border: 1px solid #4d4436;
+          border-radius: 6px;
+          padding: 4px 8px;
+          font-size: 12px;
+          box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+        }
+        .edge-tooltip::before {
+          display: none;
         }
 
         .leaflet-container {

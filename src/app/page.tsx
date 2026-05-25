@@ -1,17 +1,23 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import { useState, useEffect, useCallback } from 'react';
+import Link from 'next/link';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { useRouter } from 'next/navigation';
+import { BookOpen, ArrowRight } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import type { Location, MapConfig } from '@/types/location';
-import { LOCATION_COLORS } from '@/types/location';
+import type { Location, MapConfig, MapEdge, EdgeKind } from '@/types/location';
+import { LOCATION_COLORS, EDGE_KINDS } from '@/types/location';
 import { LOCATION_ICONS } from '@/lib/icons';
 import { TILES_BASE_URL, fetchTileConfig } from '@/lib/tiles';
 import { Button } from '@/components/ui/button';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { Separator } from '@/components/ui/separator';
+
+import { MapSearch } from '@/components/MapSearch';
+import { AdminPanel } from '@/components/AdminPanel';
+import { useAdmin } from '@/hooks/useAdmin';
 
 // Dynamically import the map component to avoid SSR issues with Leaflet
 const InteractiveMap = dynamic(
@@ -58,6 +64,17 @@ export default function Home() {
   const [mapReady, setMapReady] = useState(false);
   const [overlayVisible, setOverlayVisible] = useState(true);
   const [pinsVisible, setPinsVisible] = useState(true);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [flyTo, setFlyTo] = useState<{ coordinates: [number, number]; zoomLevel: number } | null>(null);
+  // Set of codex entry ids, lazily loaded the first time a location sidebar opens.
+  // A location maps to its codex entry by shared id (location.id === codex entry id),
+  // so this set tells us whether to surface the "full codex entry" link.
+  const [codexIds, setCodexIds] = useState<Set<string> | null>(null);
+  const [edges, setEdges] = useState<MapEdge[]>([]);
+  const [visibleEdgeKinds, setVisibleEdgeKinds] = useState<Set<EdgeKind>>(
+    () => new Set((Object.keys(EDGE_KINDS) as EdgeKind[]).filter((k) => EDGE_KINDS[k].defaultOn)),
+  );
+  const { isAdmin, error: adminError, login, logout } = useAdmin();
 
   useEffect(() => {
     fetchTileConfig()
@@ -75,6 +92,41 @@ export default function Home() {
       .catch(console.error);
   }, []);
 
+  // Lazily load the set of codex entry ids the first time a location is selected,
+  // so we only pay for it when someone actually opens a sidebar. Used to gate the
+  // "full codex entry" link to locations that really have an entry.
+  useEffect(() => {
+    if (!selectedLocation || codexIds) return;
+    fetch('/codex-search.json')
+      .then((res) => {
+        if (!res.ok) throw new Error(`Failed to fetch codex index: ${res.status}`);
+        return res.json();
+      })
+      .then((data: { id: string }[]) => setCodexIds(new Set(data.map((e) => e.id))))
+      .catch(console.error);
+  }, [selectedLocation, codexIds]);
+
+  // Relationship edges are an admin-only overlay — only fetch them once logged in.
+  useEffect(() => {
+    if (!isAdmin || edges.length > 0) return;
+    fetch('/codex-edges.json')
+      .then((res) => {
+        if (!res.ok) throw new Error(`Failed to fetch edges: ${res.status}`);
+        return res.json();
+      })
+      .then((data: MapEdge[]) => setEdges(data))
+      .catch(console.error);
+  }, [isAdmin, edges.length]);
+
+  const toggleEdgeKind = useCallback((kind: EdgeKind) => {
+    setVisibleEdgeKinds((prev) => {
+      const next = new Set(prev);
+      if (next.has(kind)) next.delete(kind);
+      else next.add(kind);
+      return next;
+    });
+  }, []);
+
   const handleMapReady = useCallback(() => {
     setMapReady(true);
   }, []);
@@ -89,21 +141,56 @@ export default function Home() {
     }
   }, [mapReady]);
 
-  // Space bar toggles pin visibility (ignore when typing in an input)
+  // Keyboard shortcuts (ignore when typing in an input)
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
-      if (e.code !== 'Space' && e.key !== ' ') return;
       const target = e.target as HTMLElement | null;
       const tag = target?.tagName;
-      if (target?.isContentEditable || tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') {
+      const isTyping =
+        target?.isContentEditable || tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT';
+      if (isTyping) return;
+
+      // 'f' opens the place search
+      if (e.key === 'f' || e.key === 'F') {
+        e.preventDefault();
+        setSearchOpen(true);
         return;
       }
-      e.preventDefault();
-      setPinsVisible((v) => !v);
+
+      // Space toggles pin visibility
+      if (e.code === 'Space' || e.key === ' ') {
+        e.preventDefault();
+        setPinsVisible((v) => !v);
+      }
     };
     window.addEventListener('keydown', handleKey);
     return () => window.removeEventListener('keydown', handleKey);
   }, []);
+
+  const handleSearchSelect = useCallback((location: Location) => {
+    setSelectedLocation(location);
+    setFlyTo({ coordinates: location.coordinates, zoomLevel: location.zoomLevel });
+    setSearchOpen(false);
+  }, []);
+
+  // Deep link from the codex ("View on map"): /?loc=<id> selects a location and
+  // flies to it. Runs once the map is ready and locations are loaded.
+  const deepLinkDone = useRef(false);
+  useEffect(() => {
+    if (deepLinkDone.current || !mapReady || locations.length === 0) return;
+    const id = new URLSearchParams(window.location.search).get('loc');
+    if (!id) return;
+    deepLinkDone.current = true;
+    const loc = locations.find((l) => l.id === id);
+    if (!loc) return;
+    // Defer to the next tick so the map has painted before we fly/select.
+    const t = setTimeout(() => {
+      setSelectedLocation(loc);
+      setFlyTo({ coordinates: loc.coordinates, zoomLevel: loc.zoomLevel });
+      setOverlayVisible(false); // skip the intro veil when arriving at a target
+    }, 0);
+    return () => clearTimeout(t);
+  }, [mapReady, locations]);
 
   return (
     <div className="relative h-screen w-screen overflow-hidden">
@@ -119,6 +206,29 @@ export default function Home() {
           selectedLocationId={selectedLocation?.id}
           onMapReady={handleMapReady}
           pinsVisible={pinsVisible}
+          flyTo={flyTo}
+          edges={isAdmin ? edges : undefined}
+          visibleEdgeKinds={isAdmin ? visibleEdgeKinds : undefined}
+        />
+      )}
+
+      {/* Admin panel: login + relationship overlay controls */}
+      <AdminPanel
+        isAdmin={isAdmin}
+        error={adminError}
+        login={login}
+        logout={logout}
+        edges={edges}
+        visibleEdgeKinds={visibleEdgeKinds}
+        toggleEdgeKind={toggleEdgeKind}
+      />
+
+      {/* Place search (press "f") */}
+      {searchOpen && (
+        <MapSearch
+          locations={locations}
+          onSelect={handleSearchSelect}
+          onClose={() => setSearchOpen(false)}
         />
       )}
 
@@ -164,6 +274,32 @@ export default function Home() {
           </div>
 
           <Separator />
+
+          {/* Primary action: open the full codex entry for this location.
+              A location maps to its codex entry by shared id; show the link only
+              when that entry exists (set still loading → optimistic, since every
+              mapped location currently has one). */}
+          {(!codexIds || codexIds.has(selectedLocation.id)) && (
+            <>
+              <div className="px-6 py-4">
+                <Button
+                  asChild
+                  variant="accent"
+                  className="w-full justify-between font-medium tracking-wide text-[var(--parchment-dark)] hover:text-[var(--parchment-dark)]"
+                >
+                  <Link
+                    href={`/codex/${selectedLocation.id}`}
+                    aria-label={`Open the full codex entry for ${selectedLocation.name}`}
+                  >
+                    <BookOpen className="w-4 h-4" />
+                    <span className="flex-1 text-center">Open full codex entry</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
+                </Button>
+              </div>
+              <Separator />
+            </>
+          )}
 
           {/* Content area with scroll */}
           <ScrollArea className="flex-1 min-h-0 px-6 py-5">
@@ -218,10 +354,17 @@ export default function Home() {
         </Button>
       </div>
 
-      {/* Pin toggle hint */}
-      <div className="absolute bottom-4 left-4 text-xs text-ink-muted bg-sidebar/80 backdrop-blur-sm px-3 py-1.5 rounded border border-border/40 z-[900]">
-        <kbd className="font-mono text-[10px] px-1.5 py-0.5 bg-ink/10 rounded border border-border/40">space</kbd>
-        <span className="ml-2">{pinsVisible ? 'pins on' : 'pins off'}</span>
+      {/* Keyboard hints */}
+      <div className="absolute bottom-4 left-4 flex items-center gap-3 text-xs text-ink-muted bg-sidebar/80 backdrop-blur-sm px-3 py-1.5 rounded border border-border/40 z-[900]">
+        <span>
+          <kbd className="font-mono text-[10px] px-1.5 py-0.5 bg-ink/10 rounded border border-border/40">space</kbd>
+          <span className="ml-2">{pinsVisible ? 'pins on' : 'pins off'}</span>
+        </span>
+        <span className="opacity-40">·</span>
+        <span>
+          <kbd className="font-mono text-[10px] px-1.5 py-0.5 bg-ink/10 rounded border border-border/40">f</kbd>
+          <span className="ml-2">search</span>
+        </span>
       </div>
     </div>
   );
