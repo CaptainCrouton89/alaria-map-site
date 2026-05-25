@@ -49,3 +49,12 @@ data/backups/
 
 # Claude scheduler runtime
 .claude/scheduled_tasks.lock
+
+# local map-shot renders / scratch
+tmp/
+
+# Sisyphus
+.sisyphus
+
+# crtr local tooling state
+.crouter/
