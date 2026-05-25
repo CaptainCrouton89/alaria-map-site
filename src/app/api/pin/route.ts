@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import * as fs from 'fs';
 import * as path from 'path';
+import { isAdmin } from '@/lib/admin';
 import type {
   WorkQueue,
   PinnedData,
@@ -303,6 +304,7 @@ export async function GET() {
 
 // POST: Pin a location or skip it
 export async function POST(request: NextRequest) {
+  if (!isAdmin(request)) return NextResponse.json({ error: 'unauthorized' }, { status: 401 });
   const body = await request.json();
   const { id, action, coordinates, zoomLevel, type } = body as {
     id: string;
@@ -375,6 +377,7 @@ export async function POST(request: NextRequest) {
 
 // PUT: Jump to a specific entry (for navigation)
 export async function PUT(request: NextRequest) {
+  if (!isAdmin(request)) return NextResponse.json({ error: 'unauthorized' }, { status: 401 });
   const body = await request.json();
   const { action, sourceFile, fromIndex, targetIndex } = body as {
     action: 'jump' | 'jumpToFile' | 'back' | 'navigate';

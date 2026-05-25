@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import * as fs from 'fs';
 import * as path from 'path';
+import { isAdmin } from '@/lib/admin';
 import type { ManualPin, ManualPinsFile } from '@/types/pinning';
 import type { LocationType } from '@/types/location';
 
@@ -29,6 +30,7 @@ export async function GET() {
 
 // POST: create a manual pin { name, coordinates, zoomLevel, type? }
 export async function POST(request: NextRequest) {
+  if (!isAdmin(request)) return NextResponse.json({ error: 'unauthorized' }, { status: 401 });
   const body = await request.json();
   const { name, coordinates, zoomLevel, type } = body as {
     name?: string;
@@ -67,6 +69,7 @@ export async function POST(request: NextRequest) {
 
 // PATCH: update an existing manual pin { id, type?, name?, zoomLevel? }
 export async function PATCH(request: NextRequest) {
+  if (!isAdmin(request)) return NextResponse.json({ error: 'unauthorized' }, { status: 401 });
   const body = await request.json();
   const { id, type, name, zoomLevel } = body as {
     id?: string;
@@ -97,6 +100,7 @@ export async function PATCH(request: NextRequest) {
 
 // DELETE: remove a manual pin by ?id=
 export async function DELETE(request: NextRequest) {
+  if (!isAdmin(request)) return NextResponse.json({ error: 'unauthorized' }, { status: 401 });
   const id = new URL(request.url).searchParams.get('id');
   if (!id) {
     return NextResponse.json({ error: 'Missing id' }, { status: 400 });
