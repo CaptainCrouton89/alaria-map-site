@@ -9,7 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L1595"]
 relations:
   - { rel: spatial, kind: borders, target: "895", note: "NE" }
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: false
   archetype: ai-ok

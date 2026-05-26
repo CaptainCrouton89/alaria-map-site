@@ -7,7 +7,7 @@ coordinates: [215, 291]
 zoomLevel: 5
 sources: ["all_sections_formatted/Rimihuica.md#L2137"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2620" }
 ---
 Where the Green Wilds meet the Dunes of Kunagi, the forest thins into scrubland. The Royon stretches for perhaps thirty miles—trees growing shorter and sparser until they give way to thornbush, then to sand and heat shimmer.
 

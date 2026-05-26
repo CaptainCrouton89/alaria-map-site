@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L4414"]
 relations:
   - { rel: spatial, kind: borders, target: "2921", note: "southwest" }
   - { rel: spatial, kind: borders, target: "3087", note: "east, across the Croaking Briars" }
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "3014" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -8,7 +8,7 @@ zoomLevel: 2
 tags: ["steppe", "plains", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4849"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 A vast expanse of dry grassland stretching east from the three eastern forests (Pystinwood, Milrar, and Telwood) toward the distant Kharvorn Mountains and the territories beyond. The steppe is named for Aziirn, a legendary figure—variously described as a giant, a hero, or a god—who is said to have walked these plains in ages past, his footsteps so heavy they flattened the land.
 

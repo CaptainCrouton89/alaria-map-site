@@ -8,10 +8,10 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L1211"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "801", note: "W" }
   - { rel: spatial, kind: borders, target: "426", note: "N" }
   - { rel: spatial, kind: borders, target: "529", note: "E" }
+  - { rel: spatial, kind: within, target: "426" }
 review:
   aiWritten: true
   archetype: ai-ok

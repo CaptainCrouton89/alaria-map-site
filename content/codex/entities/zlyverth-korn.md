@@ -7,7 +7,7 @@ coordinates: [206, 100]
 zoomLevel: 3
 sources: ["all_sections_formatted/Clueanda.md#L5128"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 The central forest is where the fire ley line enters Twaan territory, running north-south along the eastern edge of the woodland before converging with the Earth ley line at the Magma Pits. This convergence has created something extraordinary: the Burning Corridor.
 

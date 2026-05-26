@@ -8,7 +8,7 @@ zoomLevel: 3
 tags: ["desert", "geography", "yolus breach", "scorching of clueanda", "Yolus breach", "Scorching of Clueanda"]
 sources: ["all_sections_formatted/Clueanda.md#L597"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 The Desert of One Million Shards is the scarred remains of **The Scorching of Clueanda**, a catastrophic breach of the Yolus plane approximately 25,000 BSD. Three Infernals—building-sized entities of pure fire—emerged from the breach and walked the land for weeks, their passage incinerating everything in their wake. The oasis kingdoms that once flourished in this region were utterly obliterated.
 

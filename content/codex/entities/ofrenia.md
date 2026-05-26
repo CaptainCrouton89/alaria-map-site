@@ -8,7 +8,7 @@ zoomLevel: 2
 tags: ["island", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L1958"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "390" }
 review:
   aiWritten: true
   archetype: ai-ok

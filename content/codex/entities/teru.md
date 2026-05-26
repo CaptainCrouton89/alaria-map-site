@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L5028"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 A forest in the Westwilds.
 

@@ -8,8 +8,8 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L2748"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "457", note: "Ubrik refugees and silvertongue raids spill west into Bestacia" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

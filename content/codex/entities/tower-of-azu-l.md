@@ -7,7 +7,7 @@ coordinates: [175, 50]
 zoomLevel: 5
 sources: ["all_sections_formatted/Clueanda.md#L6193"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "1311" }
 ---
 Where the Beathamuir River crosses a water leyline, the Tower of Azül rises from an island in the river's center. The tower is ancient—built of blue-black stone that seems to drink in light—and has served many masters over the millennia. Currently it stands empty, its last occupant having departed (or died) within living memory.
 

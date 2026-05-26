@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["valley", "sacred-site", "giants", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L3841"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2857" }
 ---
 A bowl-shaped valley nestled between the Koilos and Myjornis mountain ranges, containing two sacred lakes central to giant spiritual tradition. This is where giants believe their race was born, and where they come to die.
 

@@ -8,10 +8,10 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L2852"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "529", note: "north" }
   - { rel: spatial, kind: borders, target: "457", note: "east, tensions over the Telphineas Strait" }
   - { rel: spatial, kind: borders, target: "494", note: "south; Echea occupies the mountainous tip of the peninsula" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,7 +9,7 @@ tags: ["valley", "foxborne"]
 sources: ["all_sections_formatted/Rimihuica.md#L3626"]
 relations:
   - { rel: spatial, kind: borders, target: "3108", note: "E — national border at the jungle/mountain frontier; Qet Yemani lies east across the drawn boundary line" }
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2857" }
 review:
   aiWritten: false
   archetype: stub

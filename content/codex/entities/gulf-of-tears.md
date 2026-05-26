@@ -8,7 +8,7 @@ zoomLevel: 3
 tags: ["sea", "bay", "geography", "emerald coast"]
 sources: ["all_sections_formatted/Rimihuica.md#L5056"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "3014" }
 ---
 The body of water separating Phirexes from the broader Emerald Coast region to the northwest, where the Sweet Water River empties into the sea and the fogs of the swamp finally release their hold. The gulf is named for the tears of Dengar refugees who have made it this far—close enough to smell freedom, to see the fog-free horizons—only to realize they cannot go further.
 

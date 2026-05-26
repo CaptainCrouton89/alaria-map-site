@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "692", note: "NW" }
   - { rel: spatial, kind: borders, target: "768", note: "E" }
   - { rel: spatial, kind: borders, target: "801", note: "N" }
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "801" }
 review:
   aiWritten: false
   archetype: ai-ok

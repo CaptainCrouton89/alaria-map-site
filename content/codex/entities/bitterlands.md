@@ -7,7 +7,7 @@ coordinates: [319, 107]
 zoomLevel: 3
 sources: ["all_sections_formatted/Clueanda.md#L5933"]
 relations:
-  - { rel: spatial, kind: within, target: "388", note: "Continent-level: northern badlands contiguous with Clueanda landmass S of Celedrim Plains; no enclosing sub-region border (orchestrator auto-resolve per continent rule)" }
+  - { rel: spatial, kind: within, target: "1248" }
 ---
 South of Shargon, the terrain rises into a desolate expanse of rocky highlands, ice fields, and howling wind—the Bitterlands. This wasteland stretches between the frozen Konai Mora basin to the north and the Plutachranes forest to the south, with the Gorthe Hills marking its eastern edge.
 

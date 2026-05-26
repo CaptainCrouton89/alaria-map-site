@@ -8,6 +8,6 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L166"]
 relations:
   - { rel: spatial, kind: borders, target: "411", note: "east" }
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "411" }
 ---
 A collection of islands off the southwest coast. Chavux, a green dragon, lairs on one of the northern islands and terrorizes ships passing through the strait.

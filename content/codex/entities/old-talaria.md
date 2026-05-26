@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Coherent, on-theme catastrophe-region lore. Map-consistent (central ruins/wilderness, no political border). Spelling corrected to 'Old Tolaria' in frontmatter + body; cross-file correction applied (jinxz-plains.md, eloesi.md, glass-forest.md, glidwyn-forest.md) — 0 residual 'Old Talaria' remain."
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2857" }
 ---
 Old Tolaria is what remains after the greatest magical catastrophe in recorded history—a land where wizards reached too far and shattered the boundary between the material world and Ezz itself. The empire that once stood here was the magical heart of Alaria, home to the most powerful practitioners of every arcane tradition. Now it's a haunted wilderness where Faesong bleeds into reality unchecked, and nothing is quite what it seems.
 

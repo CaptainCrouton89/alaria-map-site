@@ -8,7 +8,6 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L865"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "710", note: "northeast" }
   - { rel: spatial, kind: borders, target: "477", note: "east" }
   - { rel: spatial, kind: borders, target: "864", note: "southeast" }
@@ -16,6 +15,7 @@ relations:
   - { rel: spatial, kind: borders, target: "426" }
   - { rel: spatial, kind: borders, target: "591", note: "Griselian goblin city-states, west" }
   - { rel: spatial, kind: borders, target: "457", note: "south (map-confirmed; Erasnus prose omits it)" }
+  - { rel: spatial, kind: within, target: "426" }
 review:
   aiWritten: true
   archetype: ai-ok

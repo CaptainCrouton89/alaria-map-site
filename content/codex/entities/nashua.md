@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L4001"]
 relations:
   - { rel: spatial, kind: borders, target: "2974", note: "northeast" }
   - { rel: spatial, kind: borders, target: "3178", note: "southwest" }
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "3014" }
 review:
   aiWritten: true
   archetype: ai-ok

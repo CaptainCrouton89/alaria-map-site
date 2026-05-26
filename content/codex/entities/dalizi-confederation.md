@@ -7,7 +7,7 @@ coordinates: [319, 506]
 zoomLevel: 2
 sources: ["all_sections_formatted/Aboyinzu.md#L3948"]
 relations:
-  - { rel: spatial, kind: within, target: "1388" }
+  - { rel: spatial, kind: within, target: "1475" }
 review:
   aiWritten: true
   archetype: ai-ok

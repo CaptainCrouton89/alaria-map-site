@@ -9,7 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L142"]
 relations:
   - { rel: spatial, kind: borders, target: "416", note: "SW (islands off southwest coast, across the strait)" }
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

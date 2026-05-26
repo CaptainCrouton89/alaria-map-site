@@ -4,7 +4,7 @@ name: "Giant Lands"
 entityType: region
 blurb: "The Giant Lands occupy the central region of Upoceax—a hilly territory surrounded by mountains on multiple sides."
 coordinates: [92, 455]
-zoomLevel: 2
+zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L3942"]
 relations:
   - { rel: spatial, kind: within, target: "3341" }

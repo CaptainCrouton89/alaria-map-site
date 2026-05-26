@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["river", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L5253"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 The northern tributary of the Grand Tolkarsus river system, the West Tolkarsus flows from the highlands north of the Westwilds, passing through the Homdrum Hills before joining with other waterways to form the larger river that eventually reaches the Grieb Lakes and Plenjorn Swamp.
 

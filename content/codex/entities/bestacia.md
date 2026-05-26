@@ -8,9 +8,9 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L409"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "529", note: "north" }
   - { rel: spatial, kind: borders, target: "884", note: "tensions over the Telphineas Strait" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

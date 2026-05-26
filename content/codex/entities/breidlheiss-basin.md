@@ -9,8 +9,8 @@ tags: ["region", "giants"]
 sources: ["all_sections_formatted/Clueanda.md#L3159", "all_sections_formatted/Clueanda.md#L555"]
 relations:
   - { rel: spatial, kind: borders, target: "477", note: "W" }
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "411", note: "S (Breidleheis basin lies north of Adron, between Camaran and Adron)" }
+  - { rel: spatial, kind: within, target: "477" }
 review:
   aiWritten: true
   archetype: ai-ok

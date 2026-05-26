@@ -8,11 +8,11 @@ zoomLevel: 2
 tags: ["region", "jungle", "empire"]
 sources: ["all_sections_formatted/Rimihuica.md#L5881"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
   - { rel: spatial, kind: borders, target: "2912", note: "N" }
   - { rel: spatial, kind: borders, target: "manual-mphcqwrl-01eaj", note: "W" }
   - { rel: spatial, kind: borders, target: "2921", note: "E" }
   - { rel: spatial, kind: borders, target: "3151", note: "S" }
+  - { rel: spatial, kind: within, target: "3151" }
 review:
   aiWritten: true
   archetype: ai-ok

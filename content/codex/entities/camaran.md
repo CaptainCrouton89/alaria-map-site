@@ -8,10 +8,10 @@ zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L541"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "864", note: "fortified frontier; Ubrik silvertongue refugees flee into eastern Camaran" }
   - { rel: spatial, kind: borders, target: "710" }
   - { rel: spatial, kind: borders, target: "479", note: "giant-inhabited basin on the eastern frontier" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

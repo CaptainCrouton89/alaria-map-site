@@ -7,7 +7,7 @@ coordinates: [196, 311]
 zoomLevel: 5
 sources: ["all_sections_formatted/Rimihuica.md#L2131"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2620" }
 ---
 The Morsuye marks the southern edge of anything that could be called the Green Wilds. Beyond it, the forest thickens into true Ishnit—Naruaghin territory, or worse. The river itself flows toward the cursed waters near Demortik Bay, and nothing good comes from that direction.
 

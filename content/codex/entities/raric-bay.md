@@ -8,7 +8,7 @@ zoomLevel: 3
 tags: ["bay", "water", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L4220"]
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2967" }
 ---
 A large crescent bay along the southern Innerrim coast where the fish are already dead when you catch them.
 

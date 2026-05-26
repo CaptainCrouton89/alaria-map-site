@@ -6,5 +6,5 @@ blurb: ""
 coordinates: [241, 296]
 zoomLevel: 5
 relations:
-  - { rel: spatial, kind: within, target: "2453" }
+  - { rel: spatial, kind: within, target: "2967" }
 ---

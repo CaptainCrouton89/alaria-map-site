@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L216"]
 relations:
   - { rel: spatial, kind: borders, target: "918", note: "north" }
   - { rel: spatial, kind: borders, target: "591", note: "south" }
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "9000" }
 review:
   aiWritten: true
   archetype: ai-ok

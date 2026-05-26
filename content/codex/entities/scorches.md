@@ -8,6 +8,6 @@ zoomLevel: 4
 tags: ["desert", "major land feature"]
 sources: ["all_sections_formatted/Clueanda.md#L4735"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 The Scorches is a brutally hot desert that is known to literally ignite into flames in the middle of the day. Heat stroke can strike within an hour of travel.

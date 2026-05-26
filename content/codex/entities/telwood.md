@@ -8,7 +8,7 @@ zoomLevel: 3
 tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4960"]
 relations:
-  - { rel: spatial, kind: within, target: "388" }
+  - { rel: spatial, kind: within, target: "981" }
 ---
 The southernmost of the three eastern forests, Telwood lies between Milrar Forest to the north and the Grieb Lakes region to the southwest. Unlike its mysterious northern neighbor, Telwood is thoroughly mapped, frequently traveled, and historically significant—it was the site of the first diplomatic contact between the expanding orc states and the human settlements of the northern Westwilds.
 
