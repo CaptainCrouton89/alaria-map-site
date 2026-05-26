@@ -13,6 +13,7 @@
       "2453",
       "2201",
       "1867",
+      "nation-dalizi-confederation",
       "1534",
       "1475",
       "1865",
@@ -546,6 +547,7 @@
     "parentId": "1388",
     "relatedIds": [
       "1388",
+      "nation-dalizi-confederation",
       "2218",
       "1485",
       "1865",
@@ -630,6 +632,7 @@
       "1848",
       "faction-druids",
       "magic-deoric",
+      "nation-urzula",
       "1861",
       "creature-titan",
       "magic-earth",
@@ -1791,6 +1794,7 @@
       "2495",
       "2501",
       "faction-first-brotherhood",
+      "nation-kingdoms-of-fire",
       "2573",
       "2651",
       "2494",
@@ -2258,6 +2262,7 @@
       "2455",
       "1112",
       "905",
+      "nation-postronamas-empire",
       "994",
       "1141",
       "9000",
@@ -2289,6 +2294,7 @@
       "1057",
       "1154",
       "1179",
+      "nation-seyiki",
       "race-goblin",
       "2372",
       "creature-twaan",
@@ -2891,6 +2897,7 @@
       "1475",
       "2097",
       "1867",
+      "nation-dalizi-confederation",
       "2155",
       "1865",
       "1913",
@@ -3885,6 +3892,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
+      "nation-postronamas-empire",
       "3030",
       "creature-sand-dragons",
       "998",
@@ -4078,6 +4086,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2040",
       "1882",
       "1991",
@@ -4854,7 +4863,9 @@
     ],
     "zoomLevel": 3,
     "parentId": null,
-    "relatedIds": [],
+    "relatedIds": [
+      "nation-kosko"
+    ],
     "loreFile": "Rimihuica.md",
     "tags": [
       "island",
@@ -5065,6 +5076,7 @@
       "2805",
       "2643",
       "manual-mpha4gzt-vjyu9",
+      "nation-kingdoms-of-fire",
       "2494",
       "390",
       "manual-mpha3di4-etrb5",
@@ -5410,6 +5422,7 @@
       "529",
       "884",
       "9000",
+      "faction-aldriktch-trade-alliance",
       "463",
       "390",
       "creature-undead",
@@ -5732,6 +5745,7 @@
       "710",
       "479",
       "9000",
+      "faction-aldriktch-trade-alliance",
       "905",
       "390",
       "magic-deoric",
@@ -5792,6 +5806,7 @@
     "relatedIds": [
       "1865",
       "2017",
+      "nation-dalizi-confederation",
       "2173",
       "2040",
       "2179",
@@ -5823,8 +5838,10 @@
     "parentId": "1114",
     "relatedIds": [
       "1114",
+      "nation-postronamas-empire",
       "creature-sand-dragons",
       "creature-dragons",
+      "nation-seyiki",
       "race-giant",
       "magic-twyl"
     ],
@@ -5870,6 +5887,7 @@
       "1475",
       "manual-mphq9hhq-nmjbl",
       "1867",
+      "nation-dalizi-confederation",
       "1865",
       "1520",
       "manual-mpii94rh-4ulqj",
@@ -6085,6 +6103,7 @@
       "1864",
       "1776",
       "1867",
+      "nation-dalizi-confederation",
       "2001",
       "1875",
       "1520",
@@ -6343,6 +6362,7 @@
       "1944",
       "1951",
       "2236",
+      "nation-dalizi-confederation",
       "manual-mpih306v-z1roz",
       "manual-mph5yr5t-a92a2",
       "manual-mph5wxow-ii4aj",
@@ -6544,6 +6564,7 @@
     "parentId": "884",
     "relatedIds": [
       "884",
+      "faction-aldriktch-trade-alliance",
       "497",
       "390",
       "477"
@@ -6842,6 +6863,7 @@
       "426",
       "591",
       "457",
+      "faction-aldriktch-trade-alliance",
       "390",
       "race-halfling",
       "2372",
@@ -7155,6 +7177,7 @@
     "relatedIds": [
       "1865",
       "2034",
+      "nation-dalizi-confederation",
       "1982",
       "1991",
       "2136",
@@ -7342,6 +7365,7 @@
       "2611",
       "2593",
       "2455",
+      "nation-kingdoms-of-fire",
       "2573",
       "2574",
       "race-neferati",
@@ -8824,6 +8848,7 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
+      "nation-dalizi-confederation",
       "1685",
       "1612",
       "1487",
@@ -9467,6 +9492,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "1978",
       "1895",
       "1977",
@@ -10007,6 +10033,7 @@
       "1979",
       "1977",
       "1867",
+      "nation-dalizi-confederation",
       "manual-mph5qecy-rp3k6",
       "manual-mpigx8cf-7yzcs",
       "manual-mph5qnsd-i1l38",
@@ -10425,6 +10452,7 @@
     "relatedIds": [
       "994",
       "2462",
+      "nation-kingdoms-of-fire",
       "2455",
       "person-queen-eranes",
       "manual-mph728ir-59ztz",
@@ -10563,6 +10591,7 @@
       "2582",
       "2455",
       "2467",
+      "nation-kingdoms-of-fire",
       "2488",
       "2565",
       "manual-mpha3di4-etrb5",
@@ -10651,6 +10680,7 @@
     "relatedIds": [
       "1864",
       "1988",
+      "nation-dalizi-confederation",
       "manual-mph5worh-zau4t",
       "manual-mpigvj2l-btfmj"
     ],
@@ -11828,6 +11858,7 @@
       "1817",
       "1822",
       "creature-shemazari",
+      "nation-urzula",
       "creature-titan",
       "magic-water",
       "creature-hags"
@@ -12734,6 +12765,7 @@
       "1864",
       "1964",
       "2049",
+      "nation-dalizi-confederation",
       "1990",
       "2266",
       "manual-mphboyus-0zjag",
@@ -13213,6 +13245,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "1761",
       "2040",
       "2001",
@@ -13561,6 +13594,7 @@
     "relatedIds": [
       "457",
       "9000",
+      "faction-aldriktch-trade-alliance",
       "390",
       "477",
       "2372",
@@ -13808,6 +13842,7 @@
     "relatedIds": [
       "2509",
       "2455",
+      "nation-kingdoms-of-fire",
       "manual-mpha3di4-etrb5",
       "manual-mpii94rh-4ulqj",
       "2574",
@@ -13852,6 +13887,7 @@
       "457",
       "494",
       "9000",
+      "faction-aldriktch-trade-alliance",
       "463",
       "390",
       "race-dwarblin"
@@ -14220,6 +14256,7 @@
       "2509",
       "2727",
       "2455",
+      "nation-kingdoms-of-fire",
       "2573",
       "manual-mpha3di4-etrb5",
       "2574",
@@ -14534,6 +14571,7 @@
     "parentId": "2519",
     "relatedIds": [
       "2519",
+      "nation-kingdoms-of-fire",
       "race-neferati",
       "magic-fire"
     ],
@@ -16388,6 +16426,7 @@
     "relatedIds": [
       "1864",
       "1867",
+      "nation-dalizi-confederation",
       "1883",
       "1520",
       "1806",
@@ -18163,6 +18202,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2040",
       "2001",
       "2136",
@@ -18332,6 +18372,7 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
+      "nation-kingdoms-of-fire",
       "4302",
       "4324",
       "manual-mpii94rh-4ulqj",
@@ -18814,6 +18855,7 @@
     "parentId": "4210",
     "relatedIds": [
       "4210",
+      "nation-kingdoms-of-fire",
       "2455",
       "4165",
       "manual-mpii94rh-4ulqj",
@@ -20999,6 +21041,7 @@
     "relatedIds": [
       "1865",
       "2017",
+      "nation-dalizi-confederation",
       "2155",
       "2179",
       "2001",
@@ -21194,6 +21237,7 @@
       "manual-mpii94rh-4ulqj",
       "1101",
       "1084",
+      "nation-seyiki",
       "2372",
       "manual-mph6mttf-l1v32",
       "magic-water",
@@ -23834,6 +23878,7 @@
       "529",
       "952",
       "905",
+      "faction-aldriktch-trade-alliance",
       "715"
     ],
     "loreFile": "Clueanda.md",
@@ -24900,6 +24945,7 @@
     "parentId": "1606",
     "relatedIds": [
       "1606",
+      "nation-dalizi-confederation",
       "manual-mpii94rh-4ulqj",
       "1388",
       "creature-dragons",
@@ -25330,6 +25376,7 @@
     "parentId": "1606",
     "relatedIds": [
       "1606",
+      "nation-dalizi-confederation",
       "1503",
       "1661",
       "1515",
@@ -29061,6 +29108,7 @@
     "parentId": "1882",
     "relatedIds": [
       "1882",
+      "nation-dalizi-confederation",
       "2179",
       "1520",
       "2162",
@@ -29573,6 +29621,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2155",
       "2173",
       "2040",
@@ -29839,6 +29888,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2040",
       "1882",
       "1991",
@@ -35932,6 +35982,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2040",
       "2179",
       "1882",
@@ -39120,7 +39171,9 @@
     "parentId": "1114",
     "relatedIds": [
       "1114",
-      "magic-languages"
+      "nation-postronamas-empire",
+      "magic-languages",
+      "nation-seyiki"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -40583,6 +40636,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2155",
       "2162",
       "1899",
@@ -43349,6 +43403,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2040",
       "1882",
       "2124",
@@ -58509,6 +58564,7 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
+      "nation-dalizi-confederation",
       "2155",
       "2009",
       "2372",
