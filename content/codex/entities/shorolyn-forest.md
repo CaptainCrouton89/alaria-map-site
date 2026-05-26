@@ -43,4 +43,4 @@ The interior has no permanent settlements—just logging camps that move as oper
 
 Shorolyn Forest fills eastern Avalon between the Honor River valley and the Dern border, roughly 50 miles east of Tarolin at its nearest point.
 
-See [Avalon](./Avalon.md) for broader context.
+See Avalon for broader context.

@@ -37,4 +37,4 @@ Why apes of this size evolved here—whether natural adaptation, magical interve
 ### Anchor Tree Connection
 Some scholars note that Anchor Trees are particularly numerous in and around the Apelands. Whether the apes and the trees share some relationship—whether the apes guard them, avoid them, or are somehow connected to the titan remains beneath—is pure speculation.
 
-See: [Elder Wilds - The Apelands](../atlas_of_alaria/elder_wilds/_intro.md#the-apelands)
+See: Elder Wilds - The Apelands

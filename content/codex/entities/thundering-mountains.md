@@ -64,10 +64,10 @@ The most recent significant attempt—the Confederation Survey of 3,312 SD—spe
 
 #### Related Locations
 
-- [Fool's Pass](./Fool's%20Pass.md) — Western pass, the only crossing
-- [Jackal Mountains](./Jackal%20Mountains.md) — South, the central highland spine
-- [Rattlespit Hills](./Rattlespit%20Hills.md) — South, transitional terrain
-- [Titan Stairs](./Titan%20Stairs.md) — Southwest, approach from the lowlands
-- [Chull Lands](./Chull%20Lands.md) — South, accessible from the western slopes
-- [Dragonsong](../wanderlands/Dragonsong.md) — North, beyond the pass
-- [Hills of Tharoz](./Hills%20of%20Tharoz.md) — East, transitional terrain toward the Foggy Mountains
+- Fool's Pass — Western pass, the only crossing
+- Jackal Mountains — South, the central highland spine
+- Rattlespit Hills — South, transitional terrain
+- Titan Stairs — Southwest, approach from the lowlands
+- Chull Lands — South, accessible from the western slopes
+- Dragonsong — North, beyond the pass
+- Hills of Tharoz — East, transitional terrain toward the Foggy Mountains

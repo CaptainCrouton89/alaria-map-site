@@ -41,6 +41,6 @@ The cave crawlers are not connected to the Vetharak civilization or the titan—
 
 #### Related Locations
 
-- [Hills of the Moon Goblins](./Hills%20of%20the%20Moon%20Goblins.md) — Northwest, source of the creek
-- [Foggy Mountains](./Foggy%20Mountains.md) — The range the creek cuts through
-- [Shipwreck Coast](./Shipwreck%20Coast.md) — East, where the creek presumably reaches the sea underground
+- Hills of the Moon Goblins — Northwest, source of the creek
+- Foggy Mountains — The range the creek cuts through
+- Shipwreck Coast — East, where the creek presumably reaches the sea underground

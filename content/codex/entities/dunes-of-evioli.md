@@ -33,7 +33,7 @@ The **Golden River** is the lifeblood of the region, flowing from Gnotobi's lake
 
 The river carved its course before the dunes existed, when this basin was wetter. Now it flows through a relatively stable channel where the water table remains high enough to prevent sand encroachment. The banks support scattered vegetation—date palms, reeds, scrubby trees—creating a green ribbon through the otherwise barren landscape.
 
-See [Golden River](Golden%20River.md) for full details.
+See Golden River for full details.
 
 ### Hazards
 

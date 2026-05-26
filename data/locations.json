@@ -628,6 +628,7 @@
       "magic-faesong",
       "creature-gamori",
       "1848",
+      "faction-druids",
       "magic-deoric",
       "1861",
       "creature-titan",
@@ -1789,6 +1790,7 @@
       "2453",
       "2495",
       "2501",
+      "faction-first-brotherhood",
       "2573",
       "2651",
       "2494",
@@ -2083,6 +2085,7 @@
       "4302",
       "manual-mphcu2e4-q94ei",
       "manual-mph71w5l-wkyy0",
+      "faction-pity-knights",
       "manual-mphcvgcl-rt1fj",
       "4210",
       "manual-mpifts0q-rkqps",
@@ -2859,7 +2862,6 @@
       "254",
       "2453",
       "manual-mph4tcjt-4wsqf",
-      "2372",
       "manual-mph5fi43-tkms5",
       "race-gnome"
     ],
@@ -3578,7 +3580,6 @@
       "8",
       "race-minotaur",
       "race-triton",
-      "2372",
       "7"
     ],
     "loreFile": "Ve.md",
@@ -4248,8 +4249,7 @@
     "relatedIds": [
       "3275",
       "3276",
-      "3305",
-      "2372"
+      "3305"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -4309,8 +4309,7 @@
       "3292",
       "manual-mphcrkzw-dyizg",
       "creature-agtakkeri",
-      "3275",
-      "creature-dragons"
+      "3275"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -4606,8 +4605,7 @@
     "relatedIds": [
       "8",
       "race-bfaspeen",
-      "race-triton",
-      "2372"
+      "race-triton"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -6253,7 +6251,6 @@
       "manual-mpihi6y6-yupjp",
       "manual-mpihchh6-uf7kf",
       "manual-mpihd5cm-1f5fw",
-      "2372",
       "creature-titan",
       "manual-mphqwz19-951b6"
     ],
@@ -7110,7 +7107,6 @@
       "4418",
       "2634",
       "2758",
-      "2372",
       "manual-mphqwz19-951b6"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -7391,7 +7387,6 @@
       "4418",
       "4369",
       "race-bfaspeen",
-      "2372",
       "magic-water",
       "race-giant"
     ],
@@ -7645,6 +7640,7 @@
       "2682",
       "magic-faesong",
       "creature-monkin",
+      "faction-druids",
       "race-dwelyn",
       "manual-mphqwz19-951b6",
       "2735",
@@ -8260,7 +8256,6 @@
       "3902",
       "manual-mpihbdvh-xue3f",
       "manual-mpihb6u5-600t7",
-      "2372",
       "creature-titan",
       "manual-mphqwz19-951b6"
     ],
@@ -9529,8 +9524,7 @@
       "manual-mpihmqzr-swwmh",
       "manual-mpihl3cq-7b6vq",
       "manual-mpihlpxh-7wo54",
-      "manual-mpihkv1d-htg8h",
-      "2372"
+      "manual-mpihkv1d-htg8h"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -9581,6 +9575,7 @@
       "3254",
       "3189",
       "3255",
+      "faction-druids",
       "2372",
       "manual-mphqoxh1-jg43e",
       "magic-earth",
@@ -10893,7 +10888,6 @@
       "4384",
       "4369",
       "race-bfaspeen",
-      "2372",
       "magic-water",
       "manual-mphqwz19-951b6",
       "magic-fire"
@@ -15825,6 +15819,7 @@
     "parentId": "3337",
     "relatedIds": [
       "3337",
+      "faction-the-ivory-hand",
       "3177",
       "3725",
       "3700",
@@ -16686,6 +16681,7 @@
     "parentId": "2530",
     "relatedIds": [
       "2530",
+      "faction-first-brotherhood",
       "magic-languages",
       "manual-mpii94rh-4ulqj",
       "race-halfling",
@@ -18341,6 +18337,7 @@
       "manual-mpii94rh-4ulqj",
       "4217",
       "race-neferati",
+      "faction-druids",
       "magic-earth",
       "magic-force",
       "magic-water",
@@ -21057,8 +21054,7 @@
     "relatedIds": [
       "3604",
       "3558",
-      "3476",
-      "2372"
+      "3476"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -22292,6 +22288,7 @@
       "race-naruaghin",
       "magic-faesong",
       "2620",
+      "faction-druids",
       "race-dwelyn",
       "magic-water",
       "manual-mphqwz19-951b6"
@@ -22899,7 +22896,8 @@
     "zoomLevel": 4,
     "parentId": "2455",
     "relatedIds": [
-      "2455"
+      "2455",
+      "faction-first-brotherhood"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -30191,6 +30189,7 @@
     "parentId": "2455",
     "relatedIds": [
       "2455",
+      "faction-first-brotherhood",
       "2494",
       "2649",
       "2743",
@@ -36325,6 +36324,7 @@
     "parentId": "952",
     "relatedIds": [
       "952",
+      "faction-church-of-margia",
       "927",
       "925",
       "918"
@@ -45511,7 +45511,6 @@
       "2236",
       "2283",
       "creature-kanzekill",
-      "creature-dragons",
       "magic-force"
     ],
     "loreFile": "Aboyinzu.md",
@@ -46953,6 +46952,7 @@
     "parentId": "2727",
     "relatedIds": [
       "2727",
+      "faction-first-brotherhood",
       "2494",
       "2649",
       "2743",
@@ -51849,7 +51849,6 @@
       "969",
       "980",
       "creature-nyinsylys",
-      "creature-dragons",
       "creature-kyth",
       "manual-mphqwz19-951b6"
     ],
@@ -53361,7 +53360,6 @@
     "relatedIds": [
       "2345",
       "2273",
-      "creature-dragons",
       "creature-pelera",
       "race-human",
       "manual-mphqwz19-951b6",
@@ -59215,6 +59213,7 @@
       "creature-true-name",
       "magic-languages",
       "2372",
+      "daemon-solas",
       "magic-light",
       "magic-water",
       "race-giant",
@@ -61500,7 +61499,8 @@
     "zoomLevel": 5,
     "parentId": "298",
     "relatedIds": [
-      "298"
+      "298",
+      "faction-druids"
     ],
     "loreFile": "Ve.md",
     "tags": [],

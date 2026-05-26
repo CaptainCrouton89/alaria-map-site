@@ -17,7 +17,7 @@ review:
 ---
 The mountain kingdom, occupying the Kelder Mountains along the eastern edge of the Farlands. Governed by the Titanic Priesthood, keepers of the titan bones. Source of approximately 95% of the world's titan-bone supply.
 
-For full political and cultural details, see the [Deo Esari state entry](../../nations_and_powers/states/Deo%20Esari.md).
+For full political and cultural details, see the Deo Esari state entry.
 
 #### Geography
 

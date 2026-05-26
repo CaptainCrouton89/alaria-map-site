@@ -69,10 +69,10 @@ A limestone ridge running east-west through the central Chull Lands, elevated en
 
 #### Related Locations
 
-- [Titan Stairs](./Titan%20Stairs.md) — West, the primary approach from the lowlands
-- [Thundering Mountains](./Thundering%20Mountains.md) — North, rising beyond the basin
-- [Fool's Pass](./Fool's%20Pass.md) — Northeast, visible from the northern edges
-- [Jackal Mountains](./Jackal%20Mountains.md) — East, the central highland spine
-- [Hills of False Rubies](./Hills%20of%20False%20Rubies.md) — Southeast, transitional terrain
-- [Rivoleta River](./Rivoleta%20River.md) — Draining the eastern basin
-- [Cerulean Crests](./Cerulean%20Crests.md) — South, where the Rivoleta flows
+- Titan Stairs — West, the primary approach from the lowlands
+- Thundering Mountains — North, rising beyond the basin
+- Fool's Pass — Northeast, visible from the northern edges
+- Jackal Mountains — East, the central highland spine
+- Hills of False Rubies — Southeast, transitional terrain
+- Rivoleta River — Draining the eastern basin
+- Cerulean Crests — South, where the Rivoleta flows

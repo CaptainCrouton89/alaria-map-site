@@ -40,4 +40,4 @@ Trade occurs reluctantly through intermediaries, usually at Urzula or the edges 
 ### Thorne
 The Gamori's relationship with the druid Thorne predates their own history in L'Coth D'hari. They give the druid's territory wide berth and refuse to discuss the terms of their understanding. Whatever Thorne represents to them—whether spiritual power, existential threat, or something else—shapes their behavior in ways outsiders find difficult to interpret.
 
-See: [L'Coth D'hari](../nations_and_powers/states/L'coth%20D'hari.md) | [Elder Wilds](../atlas_of_alaria/elder_wilds/_intro.md#lcoth-dhari)
+See: L'Coth D'hari | Elder Wilds

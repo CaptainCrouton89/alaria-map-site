@@ -36,4 +36,4 @@ Ships flying certain flags pay reduced rates. Ships carrying Orange Flake for Ha
 
 The town of **Orangeport** dominates Droughd Sound's southern shore, existing entirely because of the sound's position as the Golden River's outlet.
 
-See [Orangeport](Orangeport.md) for full details.
+See Orangeport for full details.

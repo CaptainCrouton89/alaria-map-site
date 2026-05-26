@@ -10,7 +10,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Aphoryis is the sunken fortress of Mirsalyenar the Cruel, constructed at the heart of [Slumber Deep](../atlas_of_alaria/emerald_coast/Slumber%20Deep.md)—the abyssal trench where Force and Water leylines intersect to create a zone of absolute stasis. The fortress is built from the preserved bodies of ships and leviathans caught in the Deep, assembled into impossible architecture by a lich who has mastered movement where nothing should be able to move.
+Aphoryis is the sunken fortress of Mirsalyenar the Cruel, constructed at the heart of Slumber Deep—the abyssal trench where Force and Water leylines intersect to create a zone of absolute stasis. The fortress is built from the preserved bodies of ships and leviathans caught in the Deep, assembled into impossible architecture by a lich who has mastered movement where nothing should be able to move.
 
 Mirsalyenar appears as a human head—male, middle-aged, with features that suggest Chimeyan ancestry—attached to the body of a massive octopus. Eight tentacles, each thirty feet long and covered in suckers that gleam with bioluminescent patterns, extend from where his neck should be. His eyes are human but dead, filmed over with the milky corruption of undeath. When he speaks, which is rarely, his voice resonates through water as if the ocean itself were his throat.
 

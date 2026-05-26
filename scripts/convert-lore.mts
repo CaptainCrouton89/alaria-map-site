@@ -55,6 +55,10 @@ const MECH_MARKERS: RegExp[] = [
 ];
 const isMechanics = (text: string) => MECH_MARKERS.some((re) => re.test(text));
 
+// Inter-wiki links (`[text](../path/File.md)`) point at source files that don't exist in the codex.
+// Strip them to plain text — the build's name mention-scan re-links them as real codex links.
+const stripWikiLinks = (text: string) => text.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
+
 const slug = (s: string) =>
   s.toLowerCase().normalize('NFKD').replace(/[^\w\s-]/g, '').trim().replace(/[\s_]+/g, '-').replace(/-+/g, '-');
 
@@ -63,9 +67,7 @@ function makeBlurb(loreLines: string[]): string {
   const para = loreLines.find((l) =>
     l.trim() && !l.startsWith('#') && !l.startsWith('-') && !l.startsWith('*') && !/^Tags:/i.test(l.trim()));
   if (!para) return '';
-  const plain = para
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // [text](url) -> text
-    .replace(/[*_`]/g, '');                   // strip emphasis / code ticks
+  const plain = stripWikiLinks(para).replace(/[*_`]/g, ''); // de-link, strip emphasis / code ticks
   const sentence = plain.split(/(?<=[.!?])\s/)[0].trim();
   const words = sentence.split(/\s+/);
   return (words.length > 25 ? words.slice(0, 25).join(' ') + '…' : sentence).replace(/"/g, "'");
@@ -126,8 +128,8 @@ function convert(srcPath: string, fileName: string) {
     }
   }
 
-  const loreText = loreOut.join('\n').replace(/\n{3,}/g, '\n\n').trim();
-  const mechText = mechOut.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+  const loreText = stripWikiLinks(loreOut.join('\n')).replace(/\n{3,}/g, '\n\n').trim();
+  const mechText = stripWikiLinks(mechOut.join('\n')).replace(/\n{3,}/g, '\n\n').trim();
   const blurb = makeBlurb(loreText.split('\n'));
 
   const id = `${prefix}-${slug(name)}`;

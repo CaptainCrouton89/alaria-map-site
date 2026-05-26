@@ -17,7 +17,7 @@ review:
 ---
 The southernmost and most traditional of the three elven kingdoms. Most of Illron's nominal territory is Iyaklomori Grera—a vast forest that belongs to the fae under an ancient treaty. The elves live only on the edges.
 
-For full political and cultural details, see the [Illron state entry](../../nations_and_powers/states/Illron.md).
+For full political and cultural details, see the Illron state entry.
 
 #### Geography
 

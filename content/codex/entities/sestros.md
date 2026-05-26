@@ -33,7 +33,7 @@ The kingdom is well-connected by road. A main route runs east from the capital a
 
 The northern reaches of Sestros give way to true desert—the Red Desert, named for its iron-rich sands that glow crimson at sunset. Few live here permanently. Shepherds bring flocks to the desert's edges during the brief winter rains, when seasonal grasses sprout, but retreat south when the heat returns.
 
-The ruins of Lurza stand at the desert's western edge, where it meets the Shepherds' Stones. See [Shepherds' Stones](./Shepherds' Stones.md) for details on that cursed place.
+The ruins of Lurza stand at the desert's western edge, where it meets the Shepherds' Stones. See Shepherds' Stones for details on that cursed place.
 
 ### Glory River
 

@@ -13,4 +13,4 @@ The lake at the heart of the Dunes is an anomaly—a vast, shallow body of water
 
 The water is warm, brackish, and rich in minerals that support the unique orange algae found nowhere else in the world. From the dunes surrounding it, the lake glows like molten copper at sunset—one of Ve's most striking natural sights, and the source of its most controversial product.
 
-See [Gnotobi](Gnotobi.md) for details on the city-state and the Orange Flake trade.
+See Gnotobi for details on the city-state and the Orange Flake trade.

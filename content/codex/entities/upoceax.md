@@ -25,23 +25,23 @@ The continent's mountain geography is interconnected. The Kelder Mountains (nort
 
 ### Major Regions
 
-**[Seacleft Coast](/codex/3342)** — The rugged northwestern archipelago where dramatic cliffs drop into the Ocean of Elorinia. Island city-states control the western maritime gateway, with merchant-dominant Iqes pressing commercial tribute on its smaller neighbors while piracy simmers in the outer isles.
+**Seacleft Coast** — The rugged northwestern archipelago where dramatic cliffs drop into the Ocean of Elorinia. Island city-states control the western maritime gateway, with merchant-dominant Iqes pressing commercial tribute on its smaller neighbors while piracy simmers in the outer isles.
 
-**[Eskiloko](/codex/manual-mpii5qyj-9mpv2)** — A small region on the northern fringe, sitting between the Seacleft Coast to the southwest and the continent's interior. Details are sparse.
+**Eskiloko** — A small region on the northern fringe, sitting between the Seacleft Coast to the southwest and the continent's interior. Details are sparse.
 
-**[Farlands](/codex/3476)** — The western coastal strip running nearly 600 miles north to south. Civilization concentrates in the south under three ancient elven kingdoms—Lenora, Illron, and Deo Esari—bound by a confederation treaty four thousand years old, with the nomadic Rakite buffalo-hunters occupying the eastern plains. The northern two-thirds is uninhabited wilderness.
+**Farlands** — The western coastal strip running nearly 600 miles north to south. Civilization concentrates in the south under three ancient elven kingdoms—Lenora, Illron, and Deo Esari—bound by a confederation treaty four thousand years old, with the nomadic Rakite buffalo-hunters occupying the eastern plains. The northern two-thirds is uninhabited wilderness.
 
-**[Sandreach](/codex/3662)** — The massive desert occupying Upoceax's entire northern expanse, split into the Mendari and Luquihn deserts. The volcanic Belu Jenari rises from its center; the northeastern Salt Flats mark where the desert meets the coast. Politically ungoverned and nearly uninhabited.
+**Sandreach** — The massive desert occupying Upoceax's entire northern expanse, split into the Mendari and Luquihn deserts. The volcanic Belu Jenari rises from its center; the northeastern Salt Flats mark where the desert meets the coast. Politically ungoverned and nearly uninhabited.
 
-**[Sandreach Mountains](/codex/3793)** — The continent's central east-west mountain spine, separating the desert from the southern lowlands. Multiple sub-ranges run through it—Drystone, Lyagnadarr, Scarlet Peaks, Caffas—along with rival force-user tribes, a dragon in the eastern range, and the eerie Deadman's Lake in the western foothills.
+**Sandreach Mountains** — The continent's central east-west mountain spine, separating the desert from the southern lowlands. Multiple sub-ranges run through it—Drystone, Lyagnadarr, Scarlet Peaks, Caffas—along with rival force-user tribes, a dragon in the eastern range, and the eerie Deadman's Lake in the western foothills.
 
-**[Giant Lands](/codex/3844)** — The hilly interior enclosed by the Sandreach and Kelder Mountains, inhabited primarily by giant populations and the Güli mountain giants. The Cyclops Forges of Phlethagoros—six cyclops who craft some of the finest weapons in the world—are the region's most significant landmark.
+**Giant Lands** — The hilly interior enclosed by the Sandreach and Kelder Mountains, inhabited primarily by giant populations and the Güli mountain giants. The Cyclops Forges of Phlethagoros—six cyclops who craft some of the finest weapons in the world—are the region's most significant landmark.
 
-**[Free Isles](/codex/3725)** — A western merchant archipelago of four city-states, each owned by one of the great patron families under the Blood Pact: the Valdrossi, Gattorini, Torvachi, and Marrovini. Disputes are settled in the arena; the cities are opulent, deadly, and officially abolitionist in practice more complicated than that word implies.
+**Free Isles** — A western merchant archipelago of four city-states, each owned by one of the great patron families under the Blood Pact: the Valdrossi, Gattorini, Torvachi, and Marrovini. Disputes are settled in the arena; the cities are opulent, deadly, and officially abolitionist in practice more complicated than that word implies.
 
-**[Wycendeula](/codex/3902)** — The continent's vast southern expanse: the haunted Eyendra boreal forest in the southeast (where the ancient Riin civilization merged with the land), open plains roamed by satyr herds, and the Eceraen Mountains forming the boundary with Venalthier. Its scale dwarfs most individual nations.
+**Wycendeula** — The continent's vast southern expanse: the haunted Eyendra boreal forest in the southeast (where the ancient Riin civilization merged with the land), open plains roamed by satyr herds, and the Eceraen Mountains forming the boundary with Venalthier. Its scale dwarfs most individual nations.
 
-**[Venalthier](/codex/4085)** — The frozen polar region of the extreme southwest, roughly 1,100 miles wide. A world of ice plains, katabatic winds, and glacial cliffs with fewer than a thousand permanent residents. The Nabuhe dwarves control the only reliable heat source—Frostfire mines at East Whitewall—and by extension hold what little political power the region has.
+**Venalthier** — The frozen polar region of the extreme southwest, roughly 1,100 miles wide. A world of ice plains, katabatic winds, and glacial cliffs with fewer than a thousand permanent residents. The Nabuhe dwarves control the only reliable heat source—Frostfire mines at East Whitewall—and by extension hold what little political power the region has.
 
 ### Peoples and Powers
 

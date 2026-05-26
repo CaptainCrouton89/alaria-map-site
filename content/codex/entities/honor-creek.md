@@ -31,4 +31,4 @@ These towns are small, dependent on forestry and the creek's water supply. Their
 
 Honor Creek flows through northeastern Avalon, roughly 30 miles from the Dern border at its closest point.
 
-See [Honor River](./Honor River.md) and [Avalon](./Avalon.md) for broader context.
+See Honor River and Avalon for broader context.

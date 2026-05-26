@@ -68,10 +68,10 @@ An altitude—roughly 2,500 feet on the eastern slopes—above which fog coverag
 
 #### Related Locations
 
-- [Hills of the Moon Goblins](./Hills%20of%20the%20Moon%20Goblins.md) — Southern hills, goblin territory
-- [Misty Valley](./Misty%20Valley.md) — Northeast, where the fog drains toward the sea
-- [Banesnap Hills](./Banesnap%20Hills.md) — East, above the Shipwreck Coast
-- [Elder Mountains](./Elder%20Mountains.md) — South, connected via the Marrow Valley
-- [Hills of Tharoz](./Hills%20of%20Tharoz.md) — North, transitional terrain toward the Wanderlands
-- [Deception Creek](./Deception%20Creek.md) — Waterway draining the goblin hills
-- [Marrow Valley](./Marrow%20Valley.md) — Southwest, passage to the western highlands
+- Hills of the Moon Goblins — Southern hills, goblin territory
+- Misty Valley — Northeast, where the fog drains toward the sea
+- Banesnap Hills — East, above the Shipwreck Coast
+- Elder Mountains — South, connected via the Marrow Valley
+- Hills of Tharoz — North, transitional terrain toward the Wanderlands
+- Deception Creek — Waterway draining the goblin hills
+- Marrow Valley — Southwest, passage to the western highlands

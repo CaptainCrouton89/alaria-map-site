@@ -153,7 +153,7 @@ L'Coth D'hari functions as a loose republic with multiple communities and electe
 - **Paradise Inlet** — Central waterway dividing the main lobes
 - **Farthing Inlet** — Southern boundary with the Apelands
 
-See: [Elder Wilds - L'Coth D'hari](_intro.md#lcoth-dhari)
+See: Elder Wilds - L'Coth D'hari
 
 ### Lemru Nymor
 
@@ -163,7 +163,7 @@ TODO
 
 The territory of an ancient, powerful, and thoroughly insane druid in the northeastern Elder Wilds. Three Anchor Trees stand in unusual proximity here—the only place in the region where multiple Anchor Trees grow so close together.
 
-See: [Elder Wilds - Minori Ezag](_intro.md#minori-ezag) | [Minori Ezag (NPC)](../../history_and_lore/dramatis_personae/Minori%20Ezag.md)
+See: Elder Wilds - Minori Ezag | Minori Ezag (NPC)
 
 ### Runeglades
 

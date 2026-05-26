@@ -10,6 +10,6 @@ sources: ["all_sections_formatted/Rimihuica.md#L6936"]
 relations:
   - { rel: spatial, kind: within, target: "3275" }
 ---
-See [Pesalolo](Pesalolo.md#slavers-coast) for full details.
+See Pesalolo for full details.
 
 The southern coast of Pesalolo, where Gorath operates its slave extraction operation. Ships run port-to-port collecting Drasnian dwarves for transport through Divinity Passage to Azantir.

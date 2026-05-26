@@ -37,7 +37,7 @@ Despite commanding views of the eastern sea, the Banesnap Hills have no military
 
 #### Related Locations
 
-- [Foggy Mountains](./Foggy%20Mountains.md) — West, the perpetually shrouded peaks
-- [Misty Valley](./Misty%20Valley.md) — North, where the hills descend toward the Strangle River
-- [Elder Mountains](./Elder%20Mountains.md) — South, the continuation of the coastal highlands
-- [Shipwreck Coast](./Shipwreck%20Coast.md) — East, visible from the ridgelines
+- Foggy Mountains — West, the perpetually shrouded peaks
+- Misty Valley — North, where the hills descend toward the Strangle River
+- Elder Mountains — South, the continuation of the coastal highlands
+- Shipwreck Coast — East, visible from the ridgelines

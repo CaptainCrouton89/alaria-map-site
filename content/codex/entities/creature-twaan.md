@@ -43,4 +43,4 @@ Some scholars believe the betrayal was real—perhaps connected to one of the gr
 **With Everyone Else**: Suspicion at best. The Twaan trade at the forest's edge, briefly, with weapons visible. They don't invite guests. They don't accept invitations. They watch, they wait, and they remember.
 
 ### Homeland
-The Twaan Forests—comprising Turxis Golathi, Sorix Melar, and Zlyverth Korn—occupy the northeastern Westwilds. See the [Twaan Forests](../atlas_of_alaria/westwilds/Twaan%20Forests.md) atlas entry for details on the region.
+The Twaan Forests—comprising Turxis Golathi, Sorix Melar, and Zlyverth Korn—occupy the northeastern Westwilds. See the Twaan Forests atlas entry for details on the region.

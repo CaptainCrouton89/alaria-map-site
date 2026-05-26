@@ -9,4 +9,4 @@ sources: ["all_sections_formatted/Aboyinzu.md#L8537"]
 relations:
   - { rel: spatial, kind: within, target: "2443" }
 ---
-The ruins of Hildaneir lie within the forest, perhaps a day's travel from the edge for those who can find the way. The ruins predate the forest—or rather, the forest grew up around them, consuming what was once cleared land. See [Hildaneir](./Hildaneir.md) for details.
+The ruins of Hildaneir lie within the forest, perhaps a day's travel from the edge for those who can find the way. The ruins predate the forest—or rather, the forest grew up around them, consuming what was once cleared land. See Hildaneir for details.

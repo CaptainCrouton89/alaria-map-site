@@ -38,7 +38,7 @@ The interior is trackless. No roads cross Edari—the Korel don't build them, an
 
 The one major forest in Edari sprawls across the northeastern corner of the region, near where Coquray Sound meets the coast. The forest takes its name from the eerie sounds that drift from its depths at night—whether from wildlife, wind, or something else is debated by the few outsiders who've heard it.
 
-See [Howlwood](./Howlwood.md) for details.
+See Howlwood for details.
 
 ### The Korel
 
@@ -46,7 +46,7 @@ Edari has no cities, towns, or villages because its inhabitants don't build them
 
 The Korel are not a unified people. Each pack operates independently, sometimes cooperating with neighbors, sometimes fighting them. Attempting to cross Edari without Korel permission is extremely dangerous. Attempting to settle is suicide.
 
-See [Koren](../../../races/Koren.md) for details on the Korel.
+See Koren for details on the Korel.
 
 ### Why It Matters
 

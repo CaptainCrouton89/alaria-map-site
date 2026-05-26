@@ -45,7 +45,7 @@ The violent season also deposits debris throughout the river corridor, including
 
 #### Related Locations
 
-- [Chull Lands](./Chull%20Lands.md) — North, source of the river
-- [Hills of Meus](./Hills%20of%20Meus.md) — Middle section of the river's course
-- [River of Petals](./River%20of%20Petals.md) — South, where the Rivoleta joins
-- [Cerulean Crests](./Cerulean%20Crests.md) — South, surrounding the confluence
+- Chull Lands — North, source of the river
+- Hills of Meus — Middle section of the river's course
+- River of Petals — South, where the Rivoleta joins
+- Cerulean Crests — South, surrounding the confluence

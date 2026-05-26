@@ -48,4 +48,4 @@ Talresses solved this problem by making the place taboo. Easier than destroying 
 
 Lurza sits where the Shepherds' Stones meet the Red Desert, roughly 50 miles northwest of any Sestran settlement. The approach crosses barren terrain with minimal water. Reaching the fortress requires planning; reaching it and returning requires more.
 
-See [Shepherds' Stones](./Shepherds' Stones.md) for the broader geographic context.
+See Shepherds' Stones for the broader geographic context.

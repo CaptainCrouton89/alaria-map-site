@@ -52,4 +52,4 @@ In the Runeglades, markings appear on certain trees and stones that may be Shema
 
 What it does, no one has determined.
 
-See: [Elder Wilds - The Shemazari Ruins](../atlas_of_alaria/elder_wilds/_intro.md#the-shemazari-ruins) | [Bygos Shemazari](../atlas_of_alaria/elder_wilds/_intro.md#bygos-shemazari)
+See: Elder Wilds - The Shemazari Ruins | Bygos Shemazari

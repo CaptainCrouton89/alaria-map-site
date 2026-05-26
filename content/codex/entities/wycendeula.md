@@ -67,7 +67,7 @@ A rugged peninsula on Wycendeula's southeastern shore where the Plains meet God'
 
 ### Kilbyurn Mountains
 
-The massive range forming Wycendeula's western boundary, separating the plains from the Farlands beyond. See the [Kilbyurn Mountains](/codex/3833) entry for terrain, river headwaters, and crossing routes.
+The massive range forming Wycendeula's western boundary, separating the plains from the Farlands beyond. See the Kilbyurn Mountains entry for terrain, river headwaters, and crossing routes.
 
 ### Rivers of Wycendeula
 

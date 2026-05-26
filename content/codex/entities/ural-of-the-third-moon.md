@@ -11,4 +11,4 @@ relations:
 ---
 The dragon Ural of the Third Moon dwells somewhere in or near the Twilight Forest, though its exact lair remains unknown. This creature of darkness drove the Spindral ancestors underground and continues to cast its shadow over the region. The Spindral believe Ural will one day return in force, and they prepare endlessly for that reckoning.
 
-See [Ural of the Third Moon](Ural%20of%20the%20Third%20Moon.md) for more information.
+See Ural of the Third Moon for more information.

@@ -39,4 +39,4 @@ Flurin stretches roughly 120 miles north to south, a scattered constellation of 
 
 More cosmopolitan than Glador, more commercially-minded than Pelaria. Flurin has developed extensive infrastructure for air-breathers and maintains the closest relationships with surface nations. The Pelaendor subrace dominates, their practical pragmatism suited to constant dealings with outsiders.
 
-See [Flurin (State)](../../nations_and_powers/states/Flurin.md) for governance, culture, and political details.
+See Flurin (State) for governance, culture, and political details.

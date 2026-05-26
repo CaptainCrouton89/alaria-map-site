@@ -67,6 +67,6 @@ The valley sees light traffic: the occasional merchant shortcutting between Dali
 
 #### Related Locations
 
-- [Elder Mountains](./Elder%20Mountains.md) — Northeast, where the valley originates
-- [Foggy Mountains](./Foggy%20Mountains.md) — North, forming the valley's left wall
-- [Jackal Mountains](./Jackal%20Mountains.md) — Southwest, where the valley opens onto the central highlands
+- Elder Mountains — Northeast, where the valley originates
+- Foggy Mountains — North, forming the valley's left wall
+- Jackal Mountains — Southwest, where the valley opens onto the central highlands

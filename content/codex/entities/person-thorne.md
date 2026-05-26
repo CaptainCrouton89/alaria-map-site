@@ -28,4 +28,4 @@ The Gamori of L'Coth D'hari give it wide berth. They have an understanding with 
 ### Appearance
 Unknown. Those who have glimpsed Thorne describe contradictory impressions—sometimes humanoid, sometimes more like a growth of the forest itself. Whether this is shapeshifting, illusion, or the confusion of the grove is unclear.
 
-See: [Elder Wilds - Thorne](../../atlas_of_alaria/elder_wilds/_intro.md#thorne)
+See: Elder Wilds - Thorne

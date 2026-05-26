@@ -84,8 +84,8 @@ The Dalizi Confederation maintains no presence at the pass. Anyone who wants to 
 
 #### Related Locations
 
-- [Thundering Mountains](./Thundering%20Mountains.md) — The range the pass crosses
-- [Titan Stairs](./Titan%20Stairs.md) — West, approach from the lowlands
-- [Chull Lands](./Chull%20Lands.md) — South, the highland interior
-- [Dragonsong](../wanderlands/Dragonsong.md) — North, beyond the pass
-- [Dragon's Gate](../wanderlands/Dragon's%20Gate.md) — Northeast, Ziru's domain
+- Thundering Mountains — The range the pass crosses
+- Titan Stairs — West, approach from the lowlands
+- Chull Lands — South, the highland interior
+- Dragonsong — North, beyond the pass
+- Dragon's Gate — Northeast, Ziru's domain

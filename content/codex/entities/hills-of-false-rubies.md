@@ -50,7 +50,7 @@ Southwest of the False Rubies, the terrain transitions into the Hills of Meus, a
 
 #### Related Locations
 
-- [Jackal Mountains](./Jackal%20Mountains.md) — East, the central spine they descend from
-- [Chull Lands](./Chull%20Lands.md) — North, the lowland beyond
-- [Hills of Meus](./Hills%20of%20Meus.md) — Southwest, transitional terrain toward the Cerulean Crests
-- [Cerulean Crests](./Cerulean%20Crests.md) — South, visible from the higher points
+- Jackal Mountains — East, the central spine they descend from
+- Chull Lands — North, the lowland beyond
+- Hills of Meus — Southwest, transitional terrain toward the Cerulean Crests
+- Cerulean Crests — South, visible from the higher points

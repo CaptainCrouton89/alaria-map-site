@@ -39,7 +39,7 @@ Caravans pause at the hills' eastern foot to rest, resupply, and nerve themselve
 
 #### Notable Features
 
-**Sandskull**: At the hills' southern extent, where the ridges flatten into desert plain, stands the ruin of Sandskull—a skull-shaped rock formation housing ancient structures of unknown origin. See [Atriik](Atriik.md#sandskull) for details.
+**Sandskull**: At the hills' southern extent, where the ridges flatten into desert plain, stands the ruin of Sandskull—a skull-shaped rock formation housing ancient structures of unknown origin. See Atriik for details.
 
 **The Shinii Watchtowers**: A chain of signal towers running along the hills' spine, allowing Shinii to track caravan movements and respond to desert threats. The towers are manned in rotation by Shinii militia.
 

@@ -34,7 +34,7 @@ The mountains are not entirely uninhabited. Something lives in the high places�
 
 ##### The Truth (GM Information)
 
-See [Marrow Valley](./Marrow%20Valley.md) for details on **the Shepherd**, the ancient creature that inhabits the high Elder Mountains and is responsible for the bones in the creek.
+See Marrow Valley for details on **the Shepherd**, the ancient creature that inhabits the high Elder Mountains and is responsible for the bones in the creek.
 
 ##### The Iron Seeps
 
@@ -62,7 +62,7 @@ The ruins on the plateau reinforce this feeling. Something existed here before t
 
 #### Related Locations
 
-- [Marrow Valley](./Marrow%20Valley.md) — North, connecting to the Foggy Mountains
-- [Foggy Mountains](./Foggy%20Mountains.md) — North, the fog-shrouded range
-- [Shipwreck Coast](./Shipwreck%20Coast.md) — East, where the mountains meet the sea
-- [Jackal Mountains](./Jackal%20Mountains.md) — West, visible from the plateau
+- Marrow Valley — North, connecting to the Foggy Mountains
+- Foggy Mountains — North, the fog-shrouded range
+- Shipwreck Coast — East, where the mountains meet the sea
+- Jackal Mountains — West, visible from the plateau

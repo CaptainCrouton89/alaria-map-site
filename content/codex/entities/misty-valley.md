@@ -63,8 +63,8 @@ The road was deliberately destroyed during the civilization's collapse, its ston
 
 #### Related Locations
 
-- [Strangle River](./Strangle%20River.md) — The fog-shrouded waterway that drains the valley
-- [Hills of Tharoz](./Hills%20of%20Tharoz.md) — North, marking the edge of the Wanderlands
-- [Banesnap Hills](./Banesnap%20Hills.md) — South, the beetle-infested coastal hills
-- [Foggy Mountains](./Foggy%20Mountains.md) — West, source of the perpetual mist
-- [Shipwreck Coast](./Shipwreck%20Coast.md) — East, where the valley meets the sea
+- Strangle River — The fog-shrouded waterway that drains the valley
+- Hills of Tharoz — North, marking the edge of the Wanderlands
+- Banesnap Hills — South, the beetle-infested coastal hills
+- Foggy Mountains — West, source of the perpetual mist
+- Shipwreck Coast — East, where the valley meets the sea

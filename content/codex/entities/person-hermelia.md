@@ -36,4 +36,4 @@ Hermelia's Lair remains a site of interest for treasure hunters and fire mages. 
 
 The "fire echoes" around her lair—flames that replay old events, heat mirages that show the past—may contain fragments of her knowledge, imprinted on the ley line itself. Scholars who've studied the phenomenon believe careful observation could teach techniques she developed. The danger is significant, but so is the potential reward.
 
-See [Hellion Hills](../../atlas_of_alaria/westwilds/Hellion%20Hills.md) for details on her lair and the surrounding region.
+See Hellion Hills for details on her lair and the surrounding region.

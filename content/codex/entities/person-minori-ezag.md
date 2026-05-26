@@ -27,4 +27,4 @@ Travelers who pass too close to their territory find themselves... redirected. N
 ### The Three Trees
 The three Anchor Trees near Minori Ezag's territory are the only ones in the Elder Wilds that stand so close together—within a few hundred yards of each other. Some speculate that Minori Ezag has become attuned to the collective consciousness of the Anchor Trees—that they hear what the trees remember, perceive what the trees perceive. Whether the druid chose this location because of the trees, or whether their presence has somehow caused the unusual proximity, is unknown.
 
-See: [Elder Wilds - Minori Ezag](../../atlas_of_alaria/elder_wilds/_intro.md#minori-ezag)
+See: Elder Wilds - Minori Ezag

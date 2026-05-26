@@ -53,7 +53,7 @@ There are no reliable charts of the underwater hazards. The seafloor here is a m
 
 #### Related Locations
 
-- [Misty Valley](./Misty%20Valley.md) — Northern terminus, where the coast briefly becomes accessible
-- [Banesnap Hills](./Banesnap%20Hills.md) — Coastal hills overlooking the central stretch
-- [Elder Mountains](./Elder%20Mountains.md) — The southern highlands above the coast
-- [Foggy Mountains](./Foggy%20Mountains.md) — Source of the perpetual fog bank
+- Misty Valley — Northern terminus, where the coast briefly becomes accessible
+- Banesnap Hills — Coastal hills overlooking the central stretch
+- Elder Mountains — The southern highlands above the coast
+- Foggy Mountains — Source of the perpetual fog bank

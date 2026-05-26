@@ -22,4 +22,4 @@ The city's de facto port is Glintwater, a smaller settlement at the Sunbeam's mo
 
 Sweivyon smells like money and sulfur—the refineries run constantly, and the wealth shows in silver-inlaid architecture, ostentatious markets, and the calculating demeanor of a population raised to think in terms of investments and returns.
 
-For full political, economic, and cultural details, see the city-state entry: [Sweivyon](../../nations_and_powers/city_states/Sweivyon.md)
+For full political, economic, and cultural details, see the city-state entry: Sweivyon

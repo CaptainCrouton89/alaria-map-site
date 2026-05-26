@@ -9,4 +9,4 @@ sources: ["all_sections_formatted/Rimihuica.md#L4812"]
 relations:
   - { rel: spatial, kind: within, target: "3061" }
 ---
-See [Jungles of Godahi](./Jungles%20of%20Godahi.md) for details on this sacred waterfall site.
+See Jungles of Godahi for details on this sacred waterfall site.

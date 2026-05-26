@@ -17,6 +17,6 @@ review:
   action: keep
   notes: "Coherent, on-theme cross-ref stub. Map-consistent: northern coast = Tamadrez, southern = Slaver's Coast, Freedom Mountains spine divides. No capital city pin exists (loose village collection) - correctly no capitalOf. Defers geo to Pesalolo, politics to Tamadrez(state) - keep as-is."
 ---
-See [Pesalolo](Pesalolo.md) for geographic details and [Tamadrez (state)](../../nations_and_powers/states/Tamadrez.md) for political details.
+See Pesalolo for geographic details and Tamadrez (state) for political details.
 
 The nominal state occupying the island of Pesalolo. Barely a nation—more a loose collection of villages and towns that share a common misery. The south is Gorathi territory in all but name; the north survives by treaty, bribery, and the strategic value of being too poor to bother conquering.

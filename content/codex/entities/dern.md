@@ -17,7 +17,7 @@ review:
 ---
 The middle child of the Widebarrow mountain states, Dern occupies the central peaks between Thorum's northern strongholds and Mez's nightmare warrens below. A kingdom defined by siege—not the dramatic kind, but the grinding, generational kind. The Lyzine have been coming up from below for centuries. The Dernish have been pushing them back down for just as long.
 
-For full political details, see the [state entry](../../nations_and_powers/states/Dern.md).
+For full political details, see the state entry.
 
 ### Settlements
 

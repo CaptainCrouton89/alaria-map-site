@@ -55,15 +55,15 @@ The Beastlands divide into several distinct zones, each with its own character a
 
 #### Phriorys
 
-The hilly region in the northwest, where the jungle gives way to scattered groves and grassland. Home to the dragon Pyaganos. See [Phriorys](Phriorys.md) for details.
+The hilly region in the northwest, where the jungle gives way to scattered groves and grassland. Home to the dragon Pyaganos. See Phriorys for details.
 
 #### Blyss
 
-The eastern jungle, denser and darker than the rest of the Beastlands. Territory of the dragon Draphilir. See [Blyss](Blyss.md) for details.
+The eastern jungle, denser and darker than the rest of the Beastlands. Territory of the dragon Draphilir. See Blyss for details.
 
 #### Blackpits
 
-A swamp in the north-central Beastlands, where dark water pools beneath the canopy. See [Blackpits](Blackpits.md) for details.
+A swamp in the north-central Beastlands, where dark water pools beneath the canopy. See Blackpits for details.
 
 ### Creatures
 
@@ -90,7 +90,7 @@ Currently, they maintain an uneasy truce. Each claims their territory as soverei
 
 When the dragons fight, the Beastlands suffer. Their last war, from 3,201 to 3,219 SD, killed thousands of Ix'Meglyakuk caught between their territories and drove entire tribes from their traditional grounds. The lizardfolk pray the current peace holds.
 
-See [Pyaganos](../../bestiary/dragons/Pyaganos.md) and [Draphilir](../../bestiary/dragons/Draphilir.md) for details on each dragon.
+See Pyaganos and Draphilir for details on each dragon.
 
 #### For Players
 

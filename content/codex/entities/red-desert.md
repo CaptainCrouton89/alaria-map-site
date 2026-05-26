@@ -28,7 +28,7 @@ Water exists but is scarce. A few permanent springs emerge from the rock near th
 
 None permanent. Seasonal shepherds follow the winter grasses. Occasional traders cut through the desert's edge rather than taking the longer route around. Prospectors sometimes search for mineral deposits, though the heat makes sustained mining operations impractical.
 
-The ruins of Lurza sit at the desert's western edge, but no one goes there. See [Shepherds' Stones](./Shepherds' Stones.md) for why.
+The ruins of Lurza sit at the desert's western edge, but no one goes there. See Shepherds' Stones for why.
 
 ### Significance
 

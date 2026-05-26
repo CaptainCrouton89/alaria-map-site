@@ -14,4 +14,4 @@ review:
   action: keep
   notes: "Coherent, on-theme lich-tower landmark (Bzulakar's domain) at center of the archipelago; consistent with map placement on the Potalaptuk landmass. No geographic conflict."
 ---
-In the very center of the Northern Isles stands [Bzulakar's](../../dramatis_personae/Bzulakar.md) domain—a 2-mile-high tower of permanently frozen ice where the ancient lich resides. His power has frozen the surrounding thousand-mile area and stilled the nearby seas to whispers. The tower is visible from much of the archipelago, a landmark and a warning.
+In the very center of the Northern Isles stands Bzulakar's domain—a 2-mile-high tower of permanently frozen ice where the ancient lich resides. His power has frozen the surrounding thousand-mile area and stilled the nearby seas to whispers. The tower is visible from much of the archipelago, a landmark and a warning.

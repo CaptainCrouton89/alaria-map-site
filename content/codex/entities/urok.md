@@ -59,4 +59,4 @@ SW Urok is defined by its waterways. The mountains catch rain; the rivers carry 
 
 The northeastern peninsula of Urok, dominated by dense rainforest split by the Firespine—a surface breach of the Yolus fire leyline. Home to the Neka gnomes, a confederacy of five villages (Tyunigogo, Hyhi, Kanamazi, Yanayazi, and Sygozoki) who have built their culture around negotiating with the fire spirits that emerge from the leyline. The Neka are territorial but trade through Tyunigogo with outsiders, offering fire-resistant materials and distinctive flame-touched metalwork from Sygozoki's spirit-powered forges.
 
-See the full entry in [Nekanzi Jungle](Nekanzi%20Jungle.md) for details on the villages, the Firespine, and Neka society.
+See the full entry in Nekanzi Jungle for details on the villages, the Firespine, and Neka society.

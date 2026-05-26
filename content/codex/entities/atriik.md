@@ -76,7 +76,7 @@ Sandskull predates Atriik's founding. Local legends connect it to the wyrm-keepe
 
 #### Culture
 
-See also: [Atriik (state entry)](../../nations_and_powers/states/Atriik.md)
+See also: Atriik (state entry)
 
 The Kor and Sharabha of Atriik share a culture of elaborate courtesy, formal speech, and social hierarchy. Direct confrontation is avoided; indirect implication is the weapon of choice. Political disputes play out through carefully worded letters, deliberate scheduling of meetings, and the studied application of hospitality or its absence.
 

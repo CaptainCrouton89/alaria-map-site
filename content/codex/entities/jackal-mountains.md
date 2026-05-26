@@ -67,10 +67,10 @@ The warm cave mouths and snowless valleys are side effects of Vetharak's power s
 
 #### Related Locations
 
-- [Thundering Mountains](./Thundering%20Mountains.md) — North, the continuation of the highland wall
-- [Rattlespit Hills](./Rattlespit%20Hills.md) — Northern transitional terrain
-- [Hills of False Rubies](./Hills%20of%20False%20Rubies.md) — Western edge, site of the disappointing crystals
-- [Troyan Mountains](./Troyan%20Mountains.md) — South, separated by the Chalaari River valley
-- [Marrow Valley](./Marrow%20Valley.md) — East, route to the Foggy Mountains
-- [Chull Lands](./Chull%20Lands.md) — West, the lowland between ranges
-- [Titan Stairs](./Titan%20Stairs.md) — Northwest, the western highland approach
+- Thundering Mountains — North, the continuation of the highland wall
+- Rattlespit Hills — Northern transitional terrain
+- Hills of False Rubies — Western edge, site of the disappointing crystals
+- Troyan Mountains — South, separated by the Chalaari River valley
+- Marrow Valley — East, route to the Foggy Mountains
+- Chull Lands — West, the lowland between ranges
+- Titan Stairs — Northwest, the western highland approach

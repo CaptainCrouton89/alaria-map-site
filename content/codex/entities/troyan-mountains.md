@@ -66,8 +66,8 @@ The temples are empty because the civilization stripped them before fleeing (if 
 
 #### Related Locations
 
-- [Ogre Hills](./Ogre%20Hills.md) — East, ogre territory within the range
-- [Jackal Mountains](./Jackal%20Mountains.md) — North, the central spine of the highlands
-- [Chalaari River](./Chalaari%20River.md) — West, route through the mountains
-- [Elder Mountains](./Elder%20Mountains.md) — East, the ancient range beyond
-- [Cerulean Crests](./Cerulean%20Crests.md) — Southwest, visible from the western peaks
+- Ogre Hills — East, ogre territory within the range
+- Jackal Mountains — North, the central spine of the highlands
+- Chalaari River — West, route through the mountains
+- Elder Mountains — East, the ancient range beyond
+- Cerulean Crests — Southwest, visible from the western peaks

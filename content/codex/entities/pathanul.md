@@ -42,4 +42,4 @@ Logging operations work the eastern edges, where the forest is younger and the t
 
 Pathanul lies north of the Honor River valley, spreading from Avalon's settled heartland toward Sestros. The forest is roughly 60 miles across at its widest point.
 
-See [Avalon](./Avalon.md) for broader context.
+See Avalon for broader context.

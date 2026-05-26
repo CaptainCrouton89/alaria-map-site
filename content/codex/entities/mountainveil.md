@@ -72,4 +72,4 @@ Mountainveil lies somewhere in the southern Dragon's Spine, within a day's fligh
 
 The Force leyline passes directly beneath it, continuing east toward the city-state that bears the fortress's name: Mountainveil the city, which has no connection to Mountainveil the fortress beyond an ironic coincidence of naming.
 
-See also: [Kanzekill](../../bestiary/dragons/Kanzekill.md)
+See also: Kanzekill

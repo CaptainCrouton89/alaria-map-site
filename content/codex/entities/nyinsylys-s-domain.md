@@ -12,7 +12,7 @@ relations:
 ---
 The glacial highlands between the Nirvanis Mountains and the Knives are claimed by the white dragon Nyinsylys. This desolate region of ice fields, frozen peaks, and howling wind serves as her hunting ground and lair.
 
-See [Nyinsylys](../../bestiary/dragons/Nyinsylys.md) for details on the dragon herself.
+See Nyinsylys for details on the dragon herself.
 
 #### Character
 

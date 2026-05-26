@@ -39,4 +39,4 @@ The strait between Pesalolo and Agorf Island to the south. Slave ships use this 
 
 The major maritime corridor separating Pesalolo from Gorath's mainland. All slave traffic ultimately flows through Divinity Passage on its way to Azantir. The passage is heavily traveled, well-patrolled by Gorathi naval vessels, and—for the enslaved—the last sight of home they will ever see.
 
-See [Divinity Passage](Divinity%20Passage.md) for full details.
+See Divinity Passage for full details.

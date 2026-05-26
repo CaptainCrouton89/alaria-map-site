@@ -43,4 +43,4 @@ Glador sprawls across roughly 200 miles of the Agreben's eastern waters, from th
 
 Insular, refined, and utterly convinced of its own superiority. Glador is Court Kendrel territory—the iridescent-scaled aristocrats who elevated social manipulation to art form. Violence remains the ultimate obscenity; all conflicts are resolved through social pressure, reputation warfare, and (when necessary) quiet Cendoriln intervention.
 
-See [Glador (State)](../../nations_and_powers/states/Glador.md) for governance, culture, and political details.
+See Glador (State) for governance, culture, and political details.

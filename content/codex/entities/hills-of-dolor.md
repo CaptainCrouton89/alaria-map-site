@@ -47,7 +47,7 @@ When the exiles who became Keshwindi decided to live instead of die, they broke 
 
 The city-state of **Keshwindi** occupies the most habitable portion of the Hills of Dolor, clustered around a series of deep wells in a protected valley. It is the only significant settlement in the region.
 
-See [Keshwindi](Keshwindi.md) for full details.
+See Keshwindi for full details.
 
 ### Hazards
 

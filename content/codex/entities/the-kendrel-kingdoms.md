@@ -16,10 +16,10 @@ review:
 ---
 Three Kendrel states occupy the eastern Agreben, collectively known as the Kendrel Kingdoms despite their distinct governments and occasional rivalry:
 
-**Flurin** (north): The cosmopolitan gateway, handling most trade with surface nations. See [Flurin](Flurin.md).
+**Flurin** (north): The cosmopolitan gateway, handling most trade with surface nations. See Flurin.
 
-**Glador** (center): The traditional heartland, largest and most insular of the three. See [Glador](Glador.md).
+**Glador** (center): The traditional heartland, largest and most insular of the three. See Glador.
 
-**Pelaria** (south): The volcanic kingdom, fire-attuned and militarized. See [Pelaria](Pelaria.md).
+**Pelaria** (south): The volcanic kingdom, fire-attuned and militarized. See Pelaria.
 
 The kingdoms maintain formal alliance against external threats (primarily Bfaspeen) while competing fiercely in trade, prestige, and the elaborate courtship-politics that define Kendrel society.

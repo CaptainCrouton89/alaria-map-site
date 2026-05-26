@@ -66,25 +66,25 @@ TODO
 
 A desert region in the southwest Dunes of Kunagi, roamed by scorpion riders who have adapted to the harsh conditions. The water here carries a terrible curse—drinking causes complete loss of long-term memory. This has shaped the Husakas people's entire culture around memory preservation and scorpion symbiosis.
 
-See the full [Husakas](Husakas.md) entry for the scorpion rider culture, the Twice-Born, and notable locations.
+See the full Husakas entry for the scorpion rider culture, the Twice-Born, and notable locations.
 
 ##### House of the Scorpion
 
 A half-buried palace in northern Husakas where the Prince of Scorpions dwells—a tragic, transformed figure who maintains all scorpions in the desert. The Husakas make bicentennial pilgrimages here, trading memories for the continued survival of their bonded mounts.
 
-See the full [House of the Scorpion](House%20of%20the%20Scorpion.md) entry for the Prince, the pilgrimage ritual, and why killing him would be catastrophic.
+See the full House of the Scorpion entry for the Prince, the pilgrimage ritual, and why killing him would be catastrophic.
 
 ##### Gyerekas
 
 The fossil reef hills marking Husakas's southern boundary—ancient coral formations and the bones of creatures from a vanished sea. The Husakas call it the Bone Garden. It serves as neutral trading ground and contains dangerous cave systems leading into unknown depths.
 
-See the full [Gyerekas](Gyerekas.md) entry for the reef's resources, the Leviathan's Rest, and the Dwellers Below.
+See the full Gyerekas entry for the reef's resources, the Leviathan's Rest, and the Dwellers Below.
 
 ##### Spotted Forest
 
 Where the Dunes of Kunagi surrender to the savanna, the land fractures into scattered oases—the Spotted Forest. A patchwork of verdant islands fed by underground springs, home to the Spotted Ones (mixed Husakas-Chule descent) who serve as intermediaries between desert and grassland cultures.
 
-See the full [Spotted Forest](Spotted%20Forest.md) entry for the oasis ecology, trading crossroads, and current tensions.
+See the full Spotted Forest entry for the oasis ecology, trading crossroads, and current tensions.
 
 #### Mueras
 
@@ -100,7 +100,7 @@ Key features include:
 - **The Darkened Coast**: A stretch of shoreline perpetually shrouded in shadow, home to dark-attuned sea creatures
 - **Sal'emri Bay**: Tarkhon trading enclaves maintaining careful neutrality in merchant-king politics
 
-See the full [Mueras](Mueras.md) entry for detailed coverage of settlements, merchant houses, and regional hazards.
+See the full Mueras entry for detailed coverage of settlements, merchant houses, and regional hazards.
 
 #### Atriik
 
@@ -116,7 +116,7 @@ Key features include:
 - **The Bloodlands**: Scarred buffer zone between Atriik and Naruaghin territory
 - **Kunagi Hills**: Eastern transitional zone, gateway to the desert trade
 
-See the full [Atriik](Atriik.md) entry for detailed coverage of the city-states and regional features.
+See the full Atriik entry for detailed coverage of the city-states and regional features.
 
 ### Emyrron the Vile
 
@@ -128,7 +128,7 @@ TODO
 
 The ancient Dwelyn monarchy occupying the Green Wilds at the edge of the Ishnit Jungles. Enapay has been the Dwelyn homeland since before written history, its queens bonded to the emerald dragon Surrey Mahaila through a ritual known only to the royal line.
 
-For full details on government, culture, and current crisis, see the state entry: [Enapay](../../nations_and_powers/states/Enapay.md)
+For full details on government, culture, and current crisis, see the state entry: Enapay
 
 #### Territory
 
@@ -138,8 +138,8 @@ The nation has no coastline. The Gulf of Norag lies thirty miles south of Lise, 
 
 #### Key Locations
 
-- **[Lise](Lise.md)**: Capital city, seat of Queen Teyara Greenmantle
-- **[Green Wilds](Green%20Wilds.md)**: The forest territory Enapay claims
+- **Lise**: Capital city, seat of Queen Teyara Greenmantle
+- **Green Wilds**: The forest territory Enapay claims
 - **Dragon's Roost**: Surrey Mahaila's lair, built into a colossal tree near Lise
 - **Ishtar Ford**: Contested border crossing with East Naruaghin
 - **The Green Marches**: Vulnerable frontier settlements

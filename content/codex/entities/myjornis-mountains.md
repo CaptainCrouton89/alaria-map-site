@@ -14,12 +14,12 @@ A mountain range in the western Innerrim, forming the boundary between the Inner
 
 ##### Yegnoth
 
-A deep pit descending into the earth. See [Yegnoth](./Yegnoth.md) for details.
+A deep pit descending into the earth. See Yegnoth for details.
 
 ##### Scar
 
-A brownish dragon that claims territory across the central passes. See [Scar](./Scar.md) for details.
+A brownish dragon that claims territory across the central passes. See Scar for details.
 
 ##### Vykus
 
-The elven city-state perched at a mountain peak. See [Vykus](./Vykus.md) for details.
+The elven city-state perched at a mountain peak. See Vykus for details.

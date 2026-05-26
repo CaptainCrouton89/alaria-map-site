@@ -61,6 +61,6 @@ The mountains also provide a natural defensive barrier for the lowland states. A
 
 #### Related Locations
 
-- [Titan Stairs](./Titan%20Stairs.md) — Northwest, the primary alternate route
-- [Cerulean Crests](./Cerulean%20Crests.md) — East, the southern alternate route
-- [Chalaari River](./Chalaari%20River.md) — Northeast, accessible via the Cerulean Crests
+- Titan Stairs — Northwest, the primary alternate route
+- Cerulean Crests — East, the southern alternate route
+- Chalaari River — Northeast, accessible via the Cerulean Crests

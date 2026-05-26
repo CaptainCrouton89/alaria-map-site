@@ -61,7 +61,7 @@ The vast frozen grasslands that stretch between the Titanwurm mountain ranges, w
 
 #### Nysanna Range
 
-The massive east-west mountain chain that forms the northern boundary of the Northlands, marking the edge of habitable territory before the polar wastes. The tallest mountains in the world, home to two white dragons, the Wydling ice goblins, and countless glaciers. See the dedicated [Nysanna Range](./Nysanna%20Range.md) entry for details.
+The massive east-west mountain chain that forms the northern boundary of the Northlands, marking the edge of habitable territory before the polar wastes. The tallest mountains in the world, home to two white dragons, the Wydling ice goblins, and countless glaciers. See the dedicated Nysanna Range entry for details.
 
 #### Wurmling Mountains
 

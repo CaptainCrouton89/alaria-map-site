@@ -16,8 +16,8 @@ The range is named for the perpetual cloud cover that blankets its peaks—moist
 
 ##### Casa Eleo
 
-A forest in a sheltered valley. See [Casa Eleo](./Casa%20Eleo.md) for details.
+A forest in a sheltered valley. See Casa Eleo for details.
 
 ##### Dreske Gemalis
 
-A river or waterway in the southeastern Cloud Mountains. See [Dreske Gemalis](./Dreske%20Gemalis.md) for details.
+A river or waterway in the southeastern Cloud Mountains. See Dreske Gemalis for details.

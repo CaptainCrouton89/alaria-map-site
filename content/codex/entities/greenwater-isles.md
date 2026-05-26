@@ -28,12 +28,12 @@ The largest landmass in the Greenwater Isles, Urok dominates the center of the r
 
 ### Surrounding Waters (Clockwise from North)
 
-**Agreben Sea** (North): The northern waters of the archipelago, bounded by Mueras to the north, Atriik to the east, and Urok to the south. Contested between the elegant Kendrel Kingdoms along the eastern shelf and Bfaspeen broods in the deeper waters. See [Agreben Sea](Agreben%20Sea.md) for full details.
+**Agreben Sea** (North): The northern waters of the archipelago, bounded by Mueras to the north, Atriik to the east, and Urok to the south. Contested between the elegant Kendrel Kingdoms along the eastern shelf and Bfaspeen broods in the deeper waters. See Agreben Sea for full details.
 
 The **Kendrel Kingdoms**—three allied states of aquatic Kendrel civilization:
-- **Flurin** (north): Cosmopolitan gateway, handling most surface trade. See [Flurin](Flurin.md).
-- **Glador** (center): Traditional heartland, largest and most insular. See [Glador](Glador.md).
-- **Pelaria** (south): Volcanic kingdom, fire-attuned and militarized. See [Pelaria](Pelaria.md).
+- **Flurin** (north): Cosmopolitan gateway, handling most surface trade. See Flurin.
+- **Glador** (center): Traditional heartland, largest and most insular. See Glador.
+- **Pelaria** (south): Volcanic kingdom, fire-attuned and militarized. See Pelaria.
 
 Western islands outside Kendrel territory:
 - **Crab Island**: Home to the pirate city-state of **Blackport**

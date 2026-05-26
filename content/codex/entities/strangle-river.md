@@ -35,6 +35,6 @@ The sound of the river is audible throughout much of the valley, even when the w
 
 #### Related Locations
 
-- [Misty Valley](./Misty%20Valley.md) — The lowland valley the river drains
-- [Foggy Mountains](./Foggy%20Mountains.md) — Source of the river's headwaters
-- [Shipwreck Coast](./Shipwreck%20Coast.md) — Where the river meets the sea
+- Misty Valley — The lowland valley the river drains
+- Foggy Mountains — Source of the river's headwaters
+- Shipwreck Coast — Where the river meets the sea

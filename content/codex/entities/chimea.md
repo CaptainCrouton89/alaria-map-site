@@ -17,7 +17,7 @@ review:
 ---
 A hungry empire sprawling across southwestern Ve—its jungles stretch from the Blood Mountains to the Gulf of Chimea, its mines burrow into conquered Aureum territory, its colonies spread across distant Rimihuica. Chimea is built on expansion, exploitation, and relentless opportunism.
 
-For full political details, see the [state entry](../../nations_and_powers/states/Chimea.md).
+For full political details, see the state entry.
 
 ### Blood Mountains
 
@@ -25,7 +25,7 @@ The northwestern mountain range, conquered from the Aureum dwarves roughly a cen
 
 The Aureum population resists assimilation; the Bloodlings (vampiric gnomes) control the deepest mines and emerge at night to prey on workers. Every gemstone that reaches Chimus is stained with blood.
 
-For details on the Bloodlings, see the [gnome racial entry](../../races/Gnome.md#bloodlings-vampire-gnome).
+For details on the Bloodlings, see the gnome racial entry.
 
 #### Major Blood Mountain Settlements
 

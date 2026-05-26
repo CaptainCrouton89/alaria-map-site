@@ -16,4 +16,4 @@ review:
 ---
 The Lorean minotaur democracy occupying Apketrii island. Keletus produces the finest naval officers in the world—a fact that makes them valuable to everyone and allied to no one. King Varrosh maintains stubborn neutrality in the Vetral-Bfaspeik conflict, refusing both triton overtures and brood mother offers.
 
-See [Keletus](../../nations_and_powers/states/Keletus.md) for full details.
+See Keletus for full details.

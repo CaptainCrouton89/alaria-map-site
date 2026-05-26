@@ -28,9 +28,9 @@ The Agreben Sea occupies roughly 400 miles east-to-west and 300 miles north-to-s
 
 Several smaller islands dot the central and western Agreben, outside Kendrel territory:
 
-**Crab Island**: Volcanic island hosting the city-state of Blackport—a notorious pirate haven controlled by the retired Nyolci captain Bridger Blindeyes. Black lavarock bluffs give the port its name. Ships seeking to cross the central Agreben often stop here, whatever their opinion of the management. See [Blackport](Blackport.md).
+**Crab Island**: Volcanic island hosting the city-state of Blackport—a notorious pirate haven controlled by the retired Nyolci captain Bridger Blindeyes. Black lavarock bluffs give the port its name. Ships seeking to cross the central Agreben often stop here, whatever their opinion of the management. See Blackport.
 
-**Prophecy Island**: North of Crab Island, a volcanic island with a grim history. Colonists built a thriving settlement here, believing the island a divine gift. Two years later, the volcano erupted, burying everything. The ruins of Zyquirk village remain visible among hardened lava flows. See [Zyquirk](Zyquirk.md).
+**Prophecy Island**: North of Crab Island, a volcanic island with a grim history. Colonists built a thriving settlement here, believing the island a divine gift. Two years later, the volcano erupted, burying everything. The ruins of Zyquirk village remain visible among hardened lava flows. See Zyquirk.
 
 **Smokestack Island**: An active volcanic island east of Prophecy Island, wreathed in perpetual steam and smoke. Home to a reclusive pyromancer who has built a dungeon-complex into the volcano itself. Locals give it wide berth.
 

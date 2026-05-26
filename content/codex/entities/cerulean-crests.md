@@ -48,10 +48,10 @@ The Blue Sickness is treatable if caught early—removing the affected person fr
 
 #### Related Locations
 
-- [River of Petals](./River%20of%20Petals.md) — Primary waterway through the range
-- [Hills of Meus](./Hills%20of%20Meus.md) — Northern transitional hills
-- [Toothlar Mountains](./Toothlar%20Mountains.md) — West, the impassable barrier
-- [Troyan Mountains](./Troyan%20Mountains.md) — Northeast, ogre territory
-- [Chalaari River](./Chalaari%20River.md) — East, alternate route through the highlands
-- [Hills of False Rubies](./Hills%20of%20False%20Rubies.md) — North, site of disappointing crystals
-- [Rivoleta River](./Rivoleta%20River.md) — North, draining the Chull Lands
+- River of Petals — Primary waterway through the range
+- Hills of Meus — Northern transitional hills
+- Toothlar Mountains — West, the impassable barrier
+- Troyan Mountains — Northeast, ogre territory
+- Chalaari River — East, alternate route through the highlands
+- Hills of False Rubies — North, site of disappointing crystals
+- Rivoleta River — North, draining the Chull Lands

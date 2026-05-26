@@ -18,4 +18,4 @@ The triton theocracy claims sovereignty over every drop of the Alrock. In practi
 
 Vetral is losing its war against the Bfaspeen. The Depths Conclave has begun reaching out to surface nations for alliance—something unthinkable a generation ago. So far, they've met mostly rejection.
 
-See [Vetral](../../nations_and_powers/states/Vetral.md) for full details.
+See Vetral for full details.

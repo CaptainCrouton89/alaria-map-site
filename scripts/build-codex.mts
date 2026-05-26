@@ -231,6 +231,7 @@ const CATEGORY_BY_TYPE: Record<string, { name: string; slug: string }> = {
   uncategorized: { name: 'Geography & Places', slug: 'geography' },
   nation: { name: 'Geography & Places', slug: 'geography' },
   deity: { name: 'Deities & Religion', slug: 'deities' },
+  daemon: { name: 'Deities & Religion', slug: 'deities' },
   plane: { name: 'Deities & Religion', slug: 'deities' },
   faction: { name: 'Factions & Organizations', slug: 'factions' },
   creature: { name: 'Creatures & Beings', slug: 'creatures' },

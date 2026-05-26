@@ -60,7 +60,7 @@ When their masters vanished, the Moon Goblins claimed the hills as their own. Th
 
 #### Related Locations
 
-- [Foggy Mountains](./Foggy%20Mountains.md) — The larger range surrounding the hills
-- [Deception Creek](./Deception%20Creek.md) — Waterway rising in the eastern hills
-- [Elder Mountains](./Elder%20Mountains.md) — South, separated by the Marrow Valley
-- [Marrow Valley](./Marrow%20Valley.md) — Southwest, route to the western highlands
+- Foggy Mountains — The larger range surrounding the hills
+- Deception Creek — Waterway rising in the eastern hills
+- Elder Mountains — South, separated by the Marrow Valley
+- Marrow Valley — Southwest, route to the western highlands

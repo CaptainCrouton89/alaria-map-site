@@ -57,4 +57,4 @@ They view the elves with a mixture of resentment (for centuries of tribute extra
 
 Ruins in the northwest, within Hilda's Forest. The Tangier people avoid this place; their grandparents' grandparents told stories about why it should be left alone, though the specific reasons have been lost. Occasionally adventurers or scholars investigate. Most return changed; some don't return at all.
 
-*See: [Hildaneir](./Hildaneir.md) for details.*
+*See: Hildaneir for details.*

@@ -21,7 +21,7 @@ review:
 ---
 The agricultural heartland of the elven confederation, occupying the fertile lowlands and coastal forests of the western Farlands. Largest of the three kingdoms by population (~400,000), governed by the Landsmeet—a council of landholders.
 
-For full political and cultural details, see the [Lenora state entry](../../nations_and_powers/states/Lenora.md).
+For full political and cultural details, see the Lenora state entry.
 
 #### Geography
 

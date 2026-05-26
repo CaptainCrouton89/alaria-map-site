@@ -34,4 +34,4 @@ The forest also provides game, nuts, and medicinal plants. Temptari declared for
 
 Goldwood lies between the main population centers and Munari Inlet, roughly 30 miles west of Tarolin. The main road to Ismail skirts its northern edge.
 
-See [Avalon](./Avalon.md) for broader context.
+See Avalon for broader context.

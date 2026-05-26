@@ -64,8 +64,8 @@ A series of carved marks on the escarpment between the First and Second Steps, a
 
 #### Related Locations
 
-- [Chull Lands](./Chull%20Lands.md) — East, accessible from the upper steps
-- [Thundering Mountains](./Thundering%20Mountains.md) — North, rising beyond the Fourth Step
-- [Fool's Pass](./Fool's%20Pass.md) — Northeast, the route through the mountains
-- [Toothlar Mountains](./Toothlar%20Mountains.md) — South, blocking alternative approaches
-- [Jackal Mountains](./Jackal%20Mountains.md) — East, the central highland spine
+- Chull Lands — East, accessible from the upper steps
+- Thundering Mountains — North, rising beyond the Fourth Step
+- Fool's Pass — Northeast, the route through the mountains
+- Toothlar Mountains — South, blocking alternative approaches
+- Jackal Mountains — East, the central highland spine

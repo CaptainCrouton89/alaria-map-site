@@ -42,4 +42,4 @@ Pelaria stretches across the volcanic ridge marking the southern edge of the Agr
 
 Pelaria has diverged significantly from traditional Kendrel culture. The fire-attuned population practices metalwork, maintains a standing military (the Ember Guard), and conducts active operations against Bfaspeen broods. The northern kingdoms find this deeply unsettling. Pelarians find the northern kingdoms naive.
 
-See [Pelaria (State)](../../nations_and_powers/states/Pelaria.md) for governance, culture, and political details.
+See Pelaria (State) for governance, culture, and political details.

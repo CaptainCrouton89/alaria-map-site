@@ -50,6 +50,6 @@ Anchor Trees are rare in Lemru Nymor and absent from the Dalizi region, suggesti
 ### The Shemazari Connection
 The oldest Anchor Trees often stand near Shemazari ruins. Whether the ancient civilization worshipped the trees, tended them, or was destroyed by them remains unknown. The Gamori claim the Shemazari "went into the trees"—a phrase they do not explain.
 
-See: [Elder Wilds - The Anchor Trees](../atlas_of_alaria/elder_wilds/_intro.md#the-anchor-trees)
+See: Elder Wilds - The Anchor Trees
 
 Now lets do the NW: Edari, Sestros, and the two city states.

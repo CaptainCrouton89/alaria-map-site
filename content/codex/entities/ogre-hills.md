@@ -60,6 +60,6 @@ A valley in the southern hills where regular clan warfare has destroyed most veg
 
 #### Related Locations
 
-- [Troyan Mountains](./Troyan%20Mountains.md) — West and north, the larger range containing the hills
-- [Elder Mountains](./Elder%20Mountains.md) — East, the ancient range beyond
-- [Chalaari River](./Chalaari%20River.md) — West, in the opposite direction from the hills
+- Troyan Mountains — West and north, the larger range containing the hills
+- Elder Mountains — East, the ancient range beyond
+- Chalaari River — West, in the opposite direction from the hills

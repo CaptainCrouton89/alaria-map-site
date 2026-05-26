@@ -18,4 +18,4 @@ A cluster of islands north of Pesalolo, between the mainland and Pukot Island. T
 
 The islands are largely uninhabited due to Agtakkeri's presence. Fishermen from the Tamadrezan coast give them wide berth. The waters between the archipelago and Pesalolo are called the Skinning Grounds by Gorathi sailors, who refuse to enter them.
 
-See [Agtakkeri](../../bestiary/dragons/Agtakkeri.md) for details on the dragon's territory and behavior.
+See Agtakkeri for details on the dragon's territory and behavior.

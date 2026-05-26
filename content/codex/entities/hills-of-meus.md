@@ -61,9 +61,9 @@ Several Dalizi states have discussed building a waystation in the Hills of Meus�
 
 #### Related Locations
 
-- [Cerulean Crests](./Cerulean%20Crests.md) — South, the copper-rich mountains
-- [Rivoleta River](./Rivoleta%20River.md) — East, cutting through the hills
-- [River of Petals](./River%20of%20Petals.md) — South, accessible via the hills
-- [Hills of False Rubies](./Hills%20of%20False%20Rubies.md) — Northeast, the disappointing crystals
-- [Jackal Mountains](./Jackal%20Mountains.md) — North, the central spine
-- [Chalaari River](./Chalaari%20River.md) — East, alternate route to the lowlands
+- Cerulean Crests — South, the copper-rich mountains
+- Rivoleta River — East, cutting through the hills
+- River of Petals — South, accessible via the hills
+- Hills of False Rubies — Northeast, the disappointing crystals
+- Jackal Mountains — North, the central spine
+- Chalaari River — East, alternate route to the lowlands

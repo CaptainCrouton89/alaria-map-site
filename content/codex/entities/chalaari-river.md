@@ -53,8 +53,8 @@ The Dalizi states along the lower Chalaari have considered establishing formal c
 
 #### Related Locations
 
-- [Troyan Mountains](./Troyan%20Mountains.md) — North, source of the river
-- [Ogre Hills](./Ogre%20Hills.md) — East, visible from the upper valley
-- [Hills of Meus](./Hills%20of%20Meus.md) — North, bordering the valley
-- [Cerulean Crests](./Cerulean%20Crests.md) — Northwest, accessible via the valley
-- [Chull Lands](./Chull%20Lands.md) — North, where the valley route leads
+- Troyan Mountains — North, source of the river
+- Ogre Hills — East, visible from the upper valley
+- Hills of Meus — North, bordering the valley
+- Cerulean Crests — Northwest, accessible via the valley
+- Chull Lands — North, where the valley route leads

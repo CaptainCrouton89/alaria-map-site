@@ -61,15 +61,15 @@ Meanwhile, the coastal states remain focused on their trade rivalries, oblivious
 
 Submarine cave systems beneath the coastal waters of New Chimea, located at the intersection of Force and Earth leylines. The caverns contain volatile force-attuned crystals that store immense kinetic potential—highly valuable to mages and artificers, but catastrophically dangerous to harvest. New Chimea controls the primary access points and has built a profitable (and increasingly unsustainable) industry around crystal extraction.
 
-See [Crystal Caverns](./Crystal%20Caverns.md) for full details.
+See Crystal Caverns for full details.
 
 #### Slumber Deep
 
-An abyssal trench forty miles off the coast of Phirexes, where Force and Water leylines intersect to create a zone of absolute stasis. Ships and creatures that drift into the Deep hang frozen forever, preserved but conscious. At its heart lies [Aphoryis](../../bestiary/Aphoryis.md), the fortress of the octopus-lich Mirsalyenar the Cruel.
+An abyssal trench forty miles off the coast of Phirexes, where Force and Water leylines intersect to create a zone of absolute stasis. Ships and creatures that drift into the Deep hang frozen forever, preserved but conscious. At its heart lies Aphoryis, the fortress of the octopus-lich Mirsalyenar the Cruel.
 
-See [Slumber Deep](./Slumber%20Deep.md) for full details.
+See Slumber Deep for full details.
 
 #### The Drift
 
-A treacherous region of unstable terrain in Eoga. See [Eoga](./Eoga.md) for details.
+A treacherous region of unstable terrain in Eoga. See Eoga for details.
 
