@@ -1,3 +1,5 @@
+import type { AtmosphereType } from './codex';
+
 export type LocationType =
   | 'region'
   | 'city'
@@ -19,7 +21,13 @@ export interface Location {
   relatedIds: string[];
   loreFile?: string;
   tags?: string[];
-  content?: string; // raw markdown body, baked in by finalize-locations
+  // Sidebar summary fields, baked by scripts/build-codex.mts (see "emit map locations.json").
+  atmosphere?: AtmosphereType; // drives the sidebar hero accent
+  blurb?: string; // authored blurb, else first sentence of the body + ellipsis
+  parentName?: string; // display name of parentId (the containing region)
+  containsCount?: number; // number of places contained within
+  borders?: { id: string; name: string }[]; // adjacent entities (borders edges)
+  meta?: { label: string; value: string }[]; // extensible facts from frontmatter (population, ruler…)
 }
 
 // Authored relationship edges between pins, emitted to public/codex-edges.json.

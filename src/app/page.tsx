@@ -2,22 +2,31 @@
 
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef, type ReactNode } from 'react';
 import { useRouter } from 'next/navigation';
-import { BookOpen, ArrowRight } from 'lucide-react';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
+import { BookOpen, ArrowRight, X } from 'lucide-react';
 import type { Location, MapConfig, MapEdge, EdgeKind } from '@/types/location';
-import { LOCATION_COLORS, EDGE_KINDS } from '@/types/location';
-import { LOCATION_ICONS } from '@/lib/icons';
+import { EDGE_KINDS } from '@/types/location';
 import { TILES_BASE_URL, fetchTileConfig } from '@/lib/tiles';
+import { determineAtmosphere, getAtmosphereVisual, atmosRgba } from '@/lib/atmosphere';
 import { Button } from '@/components/ui/button';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import { Separator } from '@/components/ui/separator';
+import { EntitySeal } from '@/components/codex/EntitySeal';
 
 import { MapSearch } from '@/components/MapSearch';
 import { AdminPanel } from '@/components/AdminPanel';
 import { useAdmin } from '@/hooks/useAdmin';
+
+/** A wiki-infobox row: label on the left, value on the right. */
+function Fact({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <div className="flex items-baseline justify-between gap-3 py-1.5">
+      <dt className="text-[11px] uppercase tracking-[0.12em] text-ink-muted shrink-0">{label}</dt>
+      <dd className="text-sm text-ink text-right min-w-0">{children}</dd>
+    </div>
+  );
+}
 
 // Dynamically import the map component to avoid SSR issues with Leaflet
 const InteractiveMap = dynamic(
@@ -232,110 +241,141 @@ export default function Home() {
         />
       )}
 
-      {/* Sidebar for selected location (right side) */}
-      {selectedLocation && (
-        <div
-          className="absolute right-0 top-0 h-full w-[420px] bg-sidebar flex flex-col z-[1000]"
-          style={{
-            boxShadow: '-4px 0 24px rgba(44, 36, 22, 0.15)',
-          }}
-        >
-          {/* Close */}
-          <div className="px-6 py-4">
-            <Button
-              variant="ghost"
-              size="sm"
-              onClick={() => setSelectedLocation(null)}
-              className="h-auto p-0 text-sm"
+      {/* Sidebar for selected location (right side) — a summary "preview" of the
+          codex entry: atmosphere hero, blurb, the full-entry CTA, and quick facts. */}
+      {selectedLocation && (() => {
+        const loc = selectedLocation;
+        const visual = getAtmosphereVisual(loc.atmosphere ?? determineAtmosphere(loc.tags ?? []));
+        const accent = atmosRgba(visual, 1);
+        const typeText = loc.type.charAt(0).toUpperCase() + loc.type.slice(1);
+        const hasCodex = !codexIds || codexIds.has(loc.id);
+        return (
+          <div
+            className="absolute right-0 top-0 h-full w-[420px] bg-sidebar flex flex-col z-[1000]"
+            style={{ boxShadow: '-4px 0 24px rgba(44, 36, 22, 0.15)' }}
+          >
+            {/* Atmosphere hero band — mirrors the codex EntityHero */}
+            <div
+              className="relative overflow-hidden border-b border-border"
+              style={{ background: `linear-gradient(180deg, ${atmosRgba(visual, 0.18)} 0%, ${atmosRgba(visual, 0.06)} 50%, transparent 100%)` }}
             >
-              Close &times;
-            </Button>
-          </div>
-
-          <Separator />
-
-          {/* Header */}
-          <div className="px-6 py-5">
-            <div className="flex items-center gap-3">
-              {(() => {
-                const Icon = LOCATION_ICONS[selectedLocation.type];
-                const color = LOCATION_COLORS[selectedLocation.type];
-                return <Icon className="w-6 h-6" style={{ color }} />;
-              })()}
-              <div>
-                <h2 className="font-display text-2xl font-semibold text-ink">
-                  {selectedLocation.name}
-                </h2>
-                <p className="text-sm capitalize text-ink-muted">
-                  {selectedLocation.type}
-                </p>
+              <div
+                className="pointer-events-none absolute inset-0"
+                style={{ background: `radial-gradient(120% 90% at 18% -10%, ${atmosRgba(visual, 0.16)}, transparent 60%)` }}
+              />
+              <div className="relative px-6 pt-4 pb-5">
+                <div className="flex justify-end mb-1">
+                  <button
+                    type="button"
+                    onClick={() => setSelectedLocation(null)}
+                    aria-label="Close"
+                    className="-mr-1.5 rounded-md p-1.5 text-ink-muted hover:text-ink hover:bg-ink/10 transition-colors cursor-pointer"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+                </div>
+                <div className="flex items-center gap-4">
+                  <EntitySeal entry={{ entityType: loc.type, tags: loc.tags ?? [] }} visual={visual} size="lg" />
+                  <div className="min-w-0">
+                    <h2 className="font-display text-2xl font-semibold text-ink leading-tight truncate">
+                      {loc.name}
+                    </h2>
+                    <div className="mt-1.5 flex items-center gap-2 text-ink-muted">
+                      <span aria-hidden className="inline-block w-1.5 h-1.5 rotate-45" style={{ background: accent }} />
+                      <span className="uppercase tracking-[0.14em] text-xs font-display">{typeText}</span>
+                    </div>
+                  </div>
+                </div>
+                <div className="mt-4 h-px w-full" style={{ background: `linear-gradient(90deg, ${accent}, transparent)` }} />
               </div>
             </div>
-          </div>
 
-          <Separator />
+            {/* Scrollable summary: blurb → CTA → quick facts → borders */}
+            <ScrollArea className="flex-1 min-h-0 px-6 py-5">
+              {loc.blurb ? (
+                <p className="text-[15px] leading-relaxed text-ink mb-4" style={{ fontFamily: 'var(--font-serif)' }}>
+                  {loc.blurb}
+                </p>
+              ) : (
+                <p className="text-sm italic text-ink-muted mb-4">
+                  No description yet — open the codex entry to read more.
+                </p>
+              )}
 
-          {/* Primary action: open the full codex entry for this location.
-              A location maps to its codex entry by shared id; show the link only
-              when that entry exists (set still loading → optimistic, since every
-              mapped location currently has one). */}
-          {(!codexIds || codexIds.has(selectedLocation.id)) && (
-            <>
-              <div className="px-6 py-4">
+              {hasCodex && (
                 <Button
                   asChild
                   variant="accent"
                   className="w-full justify-between font-medium tracking-wide text-[var(--parchment-dark)] hover:text-[var(--parchment-dark)]"
                 >
-                  <Link
-                    href={`/codex/${selectedLocation.id}`}
-                    aria-label={`Open the full codex entry for ${selectedLocation.name}`}
-                  >
+                  <Link href={`/codex/${loc.id}`} aria-label={`Open the full codex entry for ${loc.name}`}>
                     <BookOpen className="w-4 h-4" />
                     <span className="flex-1 text-center">Open full codex entry</span>
                     <ArrowRight className="w-4 h-4" />
                   </Link>
                 </Button>
-              </div>
-              <Separator />
-            </>
-          )}
+              )}
 
-          {/* Content area with scroll */}
-          <ScrollArea className="flex-1 min-h-0 px-6 py-5">
-            {selectedLocation.content ? (
-              <div className="location-markdown text-sm text-ink leading-relaxed">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {selectedLocation.content}
-                </ReactMarkdown>
-              </div>
-            ) : (
-              <p className="text-ink-muted text-sm italic">
-                No lore content yet.
+              <dl className="mt-5 divide-y divide-border/60">
+                <Fact label="Type">{typeText}</Fact>
+                {loc.parentId && loc.parentName && (
+                  <Fact label="Within">
+                    <Link
+                      href={`/codex/${loc.parentId}`}
+                      className="text-gold hover:text-[#f3dd8a] underline underline-offset-2 decoration-gold-muted"
+                    >
+                      {loc.parentName}
+                    </Link>
+                  </Fact>
+                )}
+                {loc.containsCount ? (
+                  <Fact label="Contains">
+                    {loc.containsCount.toLocaleString()} {loc.containsCount === 1 ? 'place' : 'places'}
+                  </Fact>
+                ) : null}
+                {loc.meta?.map((m) => (
+                  <Fact key={m.label} label={m.label}>{m.value}</Fact>
+                ))}
+              </dl>
+
+              {loc.borders && loc.borders.length > 0 && (
+                <div className="mt-5">
+                  <h3 className="text-[11px] uppercase tracking-[0.13em] font-display mb-2" style={{ color: accent }}>
+                    Borders
+                  </h3>
+                  <div className="flex flex-wrap gap-1.5">
+                    {loc.borders.map((b) => (
+                      <Link
+                        key={b.id}
+                        href={`/codex/${b.id}`}
+                        className="inline-block px-2 py-0.5 text-[13px] bg-parchment border border-border text-ink rounded-sm hover:border-gold-muted transition-colors"
+                      >
+                        {b.name}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </ScrollArea>
+
+            {/* Slim contribute footer */}
+            <Separator />
+            <div className="px-6 py-4">
+              <p className="text-sm text-ink-muted leading-relaxed">
+                Know more about this place?{' '}
+                <a
+                  href="https://discord.com/users/304156551210467328"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gold hover:text-[#f3dd8a] transition-colors"
+                >
+                  Contribute lore &rarr;
+                </a>
               </p>
-            )}
-          </ScrollArea>
-
-          <Separator />
-
-          {/* Contribute footer */}
-          <div className="px-6 py-5">
-            <p className="text-sm text-ink-muted leading-relaxed mb-3">
-              Interested in contributing to the lore of Alaria? Message me on
-              Discord at <span className="text-ink font-medium">@CaptainCrouton89</span>.
-            </p>
-            <Button asChild variant="ghost" size="sm" className="btn-gold w-full font-medium tracking-wide">
-              <a
-                href="https://discord.com/users/304156551210467328"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Message me on Discord
-              </a>
-            </Button>
+            </div>
           </div>
-        </div>
-      )}
+        );
+      })()}
 
       {/* Floating header buttons (top-left to avoid sidebar overlap) */}
       <div className="absolute top-4 left-4 flex gap-2 z-[900]">

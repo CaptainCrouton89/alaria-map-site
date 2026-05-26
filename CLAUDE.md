@@ -6,7 +6,7 @@
 
 - **Codex generator**: `scripts/build-codex.mts` is the active generator — run it with `node scripts/build-codex.mts` (or `alaria-codex build`). Scripts are `.mts` and run on Node's native TypeScript type-stripping — no tsx. `finalize-locations.ts` is still listed in `package.json` scripts but is superseded; do not use it.
 
-- **Codex CLI** (`alaria-codex`): `edge add --kind within` silently skips (logs `within-conflict`) if a `within` edge already exists — `edge rm` the old one first. `map shot` renders with saturation by default (borders/rivers/capital stars legible at radius ~6-10); pass `--enhance none` for raw tiles.
+- **Codex CLI** (`alaria-codex`): `edge add --kind within` silently skips (logs `within-conflict`) if a `within` edge already exists — `edge rm` the old one first.
 
 - **Entity files are canonical**: never hand-edit `data/locations.json`, `public/locations.json`, `data/codex/compiled.json`, or `public/codex-search.json` — edit the entity file in `content/codex/entities/` and re-run the generator.
 

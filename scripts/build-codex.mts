@@ -38,8 +38,16 @@ interface Entity {
   relations: Relation[];
   weight?: EntryWeight;
   atmosphere?: AtmosphereType;
+  /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
+  metadata?: Record<string, unknown>;
   body: string;
 }
+
+// Frontmatter keys with a dedicated home; everything else falls through to `metadata`.
+const RESERVED_FM = new Set([
+  'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
+  'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review',
+]);
 
 // ---- load + parse entity files ----
 const entities: Entity[] = [];
@@ -61,6 +69,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     relations: Array.isArray(d.relations) ? (d.relations as Relation[]) : [],
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
+    metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
     body: parsed.content.trim(),
   });
 }
@@ -220,21 +229,62 @@ const CATEGORY_BY_TYPE: Record<string, { name: string; slug: string }> = {
 };
 const loreFileOf = (e: Entity) => e.sources[0]?.replace(/^.*\//, '').replace(/#.*$/, '');
 
+const humanizeKey = (k: string) =>
+  k.replace(/[_-]+/g, ' ').replace(/([a-z])([A-Z])/g, '$1 $2').replace(/^./, (c) => c.toUpperCase());
+const formatMetaValue = (v: unknown): string =>
+  typeof v === 'number' ? v.toLocaleString('en-US')
+    : Array.isArray(v) ? v.map(formatMetaValue).join(', ')
+      : String(v);
+
+/** Sidebar blurb: the authored blurb verbatim, else the body's first real sentence + an ellipsis.
+ *  Skips headings and placeholder paragraphs (TODO/WIP/stub) so we never surface scaffolding. */
+const PLACEHOLDER_RE = /^(todo|tbd|wip|stub|n\/?a|xxx|placeholder|\.\.\.)\b/i;
+function deriveBlurb(e: Entity): string {
+  if (e.blurb.trim()) return e.blurb.trim();
+  for (const raw of e.body.split('\n')) {
+    const line = raw.trim();
+    if (!line || line.startsWith('#') || PLACEHOLDER_RE.test(line)) continue;
+    const text = line.replace(/[*_`>#[\]]/g, '').trim();
+    const m = text.match(/^(.*?[.!?])(\s|$)/);
+    const sentence = (m ? m[1] : text).trim().replace(/[.!?]+$/, '');
+    if (sentence.length >= 12 && /\s/.test(sentence)) return `${sentence}…`;
+  }
+  return '';
+}
+
 // ---- emit map locations.json ----
+// Beyond the raw pin, each location carries the bits the map sidebar needs to render a
+// summary (blurb + facts) without loading the multi-MB codex: a resolved blurb, atmosphere
+// for the accent, parent/contains/borders relations, and a generic `meta` passthrough so
+// future frontmatter (population, ruler…) surfaces as facts with no UI change.
 const locations: Location[] = entities
   .filter((e) => e.coordinates)
-  .map((e) => ({
-    id: e.id,
-    name: e.name,
-    type: e.entityType as LocationType,
-    coordinates: e.coordinates!,
-    zoomLevel: e.zoomLevel ?? 5,
-    parentId: e.parent,
-    relatedIds: [...related.get(e.id)!],
-    ...(loreFileOf(e) ? { loreFile: loreFileOf(e) } : {}),
-    tags: e.tags,
-    ...(e.body ? { content: e.body } : {}),
-  }))
+  .map((e) => {
+    const blurb = deriveBlurb(e);
+    const parent = e.parent ? byId.get(e.parent) : undefined;
+    const borders = e.relations
+      .filter((r) => r.kind === 'borders' && byId.has(r.target))
+      .map((r) => ({ id: r.target, name: byId.get(r.target)!.name }));
+    const containsCount = childrenOf.get(e.id)?.length ?? 0;
+    const meta = Object.entries(e.metadata ?? {}).map(([k, v]) => ({ label: humanizeKey(k), value: formatMetaValue(v) }));
+    return {
+      id: e.id,
+      name: e.name,
+      type: e.entityType as LocationType,
+      coordinates: e.coordinates!,
+      zoomLevel: e.zoomLevel ?? 5,
+      parentId: e.parent,
+      relatedIds: [...related.get(e.id)!],
+      ...(loreFileOf(e) ? { loreFile: loreFileOf(e) } : {}),
+      tags: e.tags,
+      atmosphere: computeAtmosphere(e),
+      ...(blurb ? { blurb } : {}),
+      ...(parent ? { parentName: parent.name } : {}),
+      ...(containsCount ? { containsCount } : {}),
+      ...(borders.length ? { borders } : {}),
+      ...(meta.length ? { meta } : {}),
+    };
+  })
   .sort((a, b) => (a.zoomLevel !== b.zoomLevel ? a.zoomLevel - b.zoomLevel : a.name.localeCompare(b.name)));
 
 fs.writeFileSync(path.join(DATA, 'locations.json'), JSON.stringify(locations, null, 2));

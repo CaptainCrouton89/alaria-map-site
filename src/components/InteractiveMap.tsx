@@ -7,6 +7,9 @@ import type { Location, MapConfig, MapEdge, EdgeKind } from '@/types/location';
 import { LOCATION_COLORS, EDGE_KINDS } from '@/types/location';
 import { getLocationIconSvgV2 } from '@/lib/icons';
 
+const escapeHtml = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
 interface InteractiveMapProps {
   locations: Location[];
   config: MapConfig;
@@ -159,7 +162,27 @@ export function InteractiveMap({
       });
 
       const marker = L.marker(latLng, { icon }).addTo(map);
-      marker.bindTooltip(location.name, { direction: 'top', offset: [0, -tier.size / 2 - 2] });
+
+      // Hover peek: name + type, plus the blurb when we have one, and a "click for more"
+      // hint. The richer card is the desktop tier-1 of hover → click (sidebar) → codex page.
+      const typeText = location.type.charAt(0).toUpperCase() + location.type.slice(1);
+      const blurbHtml = location.blurb
+        ? `<div class="pin-tip-blurb">${escapeHtml(location.blurb)}</div>`
+        : '';
+      marker.bindTooltip(
+        `<div class="pin-tip">
+          <div class="pin-tip-head">
+            <span class="pin-tip-icon" style="--marker-color: ${color};">${iconSvg}</span>
+            <span class="pin-tip-id">
+              <span class="pin-tip-name">${escapeHtml(location.name)}</span>
+              <span class="pin-tip-type">${escapeHtml(typeText)}</span>
+            </span>
+          </div>
+          ${blurbHtml}
+          <span class="pin-tip-hint">Click for more &rarr;</span>
+        </div>`,
+        { direction: 'top', offset: [0, -tier.size / 2 - 2], className: 'pin-tooltip', opacity: 1 },
+      );
       marker.on('click', () => onLocationSelect?.(location));
 
       markersRef.current.push(marker);
@@ -294,6 +317,69 @@ export function InteractiveMap({
         }
         .edge-tooltip::before {
           display: none;
+        }
+
+        /* Hover-peek card */
+        .pin-tooltip.leaflet-tooltip {
+          background: #221c12;
+          color: #e8e0d0;
+          border: 1px solid #4d4436;
+          border-radius: 8px;
+          padding: 10px 13px;
+          width: max-content;
+          max-width: 300px;
+          white-space: normal;
+          box-shadow: 0 6px 22px rgba(0, 0, 0, 0.5);
+          font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+        }
+        .pin-tooltip.leaflet-tooltip-top::before {
+          border-top-color: #4d4436;
+        }
+        .pin-tip-head {
+          display: flex;
+          align-items: center;
+          gap: 7px;
+        }
+        .pin-tip-icon {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          width: 18px;
+          height: 18px;
+          flex-shrink: 0;
+        }
+        .pin-tip-icon svg {
+          width: 16px;
+          height: 16px;
+        }
+        .pin-tip-name {
+          display: block;
+          font-family: var(--font-display), ui-serif, Georgia, serif;
+          font-weight: 600;
+          font-size: 13px;
+          line-height: 1.15;
+          color: #e8e0d0;
+        }
+        .pin-tip-type {
+          display: block;
+          margin-top: 1px;
+          font-size: 9px;
+          letter-spacing: 0.12em;
+          text-transform: uppercase;
+          color: #a69a86;
+        }
+        .pin-tip-blurb {
+          margin: 6px 0 5px;
+          font-family: var(--font-serif), Georgia, serif;
+          font-size: 12px;
+          line-height: 1.4;
+          color: #cfc6b4;
+        }
+        .pin-tip-hint {
+          display: inline-flex;
+          align-items: center;
+          font-size: 10px;
+          color: #c9a227;
         }
 
         .leaflet-container {
