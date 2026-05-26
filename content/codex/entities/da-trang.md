@@ -16,6 +16,7 @@ relations:
   - { rel: spatial, kind: within, target: "2857" }
   - { rel: spatial, kind: borders, target: "3066", note: "east" }
   - { rel: spatial, kind: borders, target: "3108", note: "west" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk" }
 ---
 Da Trang controls the northern reaches of the Jungles of Godahi, a territory defined by its position between the Green Mountains and the deeper jungle to the south. The nation commands the jungle interior and the vital mountain passes connecting the Godahi basin to the coastal settlements around Micah Inlet.
 

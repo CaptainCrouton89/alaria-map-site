@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
 ---
 Belagria is the upper half of the Material Plane—the inhabited world where most of "life" occurs. It consists of two major layers: the **Surfacelands**, where kingdoms and civilizations rise and fall, and the **Underrealms**, a 200-mile thick crust of stone crisscrossed with tunnels, caves, and mysteries.
 

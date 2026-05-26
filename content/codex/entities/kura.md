@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2463", note: "N" }
   - { rel: spatial, kind: borders, target: "2509", note: "W" }
   - { rel: spatial, kind: borders, target: "2634", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

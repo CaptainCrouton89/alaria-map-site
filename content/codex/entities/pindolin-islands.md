@@ -12,6 +12,10 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Region body coherent and on-theme: archipelago of drowned Dragon's Spine peaks, three-dragon truce, three leylines. Matches NE-SW island chain on map and the 3 dragon member pins. Long but rich worldbuilding, not generic filler."
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "creature-oboros-the-cunning" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-elebria" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-findra-the-glassy-eyed" }
 ---
 A sprawling archipelago stretching roughly 800 miles east-to-west and 500 miles north-to-south off the Dragon's Spine Coast, where the mountain range fragments into the sea and eventually dissolves into the Abyssal Ocean. The Pindolins are cold, misty, dragon-haunted, and almost entirely uninhabited by anything that wants to stay that way.
 

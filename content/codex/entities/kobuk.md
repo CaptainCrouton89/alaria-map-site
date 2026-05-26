@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1040", note: "north" }
   - { rel: spatial, kind: borders, target: "1047", note: "south" }
   - { rel: spatial, kind: borders, target: "1164", note: "northeast" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
 review:
   aiWritten: true
   archetype: ai-ok

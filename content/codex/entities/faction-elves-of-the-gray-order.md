@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: worships, target: "creature-hykravones" }
 ---
 Worshippers of Hykravones. They believe his return is needed to reset society. 
 

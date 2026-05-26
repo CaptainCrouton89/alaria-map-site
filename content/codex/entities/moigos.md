@@ -9,6 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Upoceax.md#L499"]
 relations:
   - { rel: spatial, kind: within, target: "3346" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kappa" }
 review:
   aiWritten: true
   archetype: ai-ok

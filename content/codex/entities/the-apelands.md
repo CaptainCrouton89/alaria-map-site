@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Aboyinzu.md#L3626"]
 relations:
   - { rel: spatial, kind: within, target: "1806" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-great-apes-of-the-apelands" }
 ---
 South of L'Coth D'hari, across Farthing Inlet, lies a stretch of rainforest dominated by its most dangerous inhabitants: the great apes.
 

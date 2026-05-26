@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L3579"]
 relations:
   - { rel: spatial, kind: within, target: "1150" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
 review:
   aiWritten: true
   archetype: ai-ok

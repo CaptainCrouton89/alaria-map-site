@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "529", note: "north" }
   - { rel: spatial, kind: borders, target: "884", note: "tensions over the Telphineas Strait" }
   - { rel: spatial, kind: within, target: "9000" }
+  - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
 review:
   aiWritten: true
   archetype: ai-ok

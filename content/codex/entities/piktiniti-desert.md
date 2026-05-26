@@ -9,6 +9,7 @@ tags: ["desert", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4615"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: economy, kind: produces, target: "magic-twyl" }
 ---
 A vast arid expanse south of the Everwood, the Piktiniti is less a sea of sand dunes than a harsh shrubland—cracked earth, scrub vegetation, and stony barrens stretching to the horizon. The desert exists because the Everwood to the north has drained the water table dry, pulling every drop of moisture northward to feed its immortal growth.
 

@@ -11,5 +11,6 @@ relations:
   - { rel: spatial, kind: borders, target: "2817", note: "SE" }
   - { rel: spatial, kind: borders, target: "2455", note: "W" }
   - { rel: spatial, kind: within, target: "2620" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
 ---
 TODO

@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Ve.md#L2870"]
 relations:
   - { rel: polity, kind: capitalOf, target: "322" }
   - { rel: spatial, kind: within, target: "322" }
+  - { rel: culture, kind: worships, target: "daemon-talressses" }
 ---
 The capital sits on Nuin Bay in the southwest, where the coastal trade meets the inland ranching economy. Mu is a modest city by continental standards—perhaps 15,000 people—but it's the largest settlement in Sestros by far. The royal palace dominates the skyline, a sprawling complex of whitewashed stone and silk banners that serves as both seat of government and primary temple to Talresses.
 

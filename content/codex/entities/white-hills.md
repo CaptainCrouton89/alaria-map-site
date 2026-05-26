@@ -9,6 +9,7 @@ tags: ["hills"]
 sources: ["all_sections_formatted/Upoceax.md#L3936"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
 review:
   aiWritten: true
   archetype: ai-ok

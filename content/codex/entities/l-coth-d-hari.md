@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L3584"]
 relations:
   - { rel: spatial, kind: within, target: "1806" }
   - { rel: spatial, kind: borders, target: "1821", note: "south, across Farthing Inlet" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-gamori" }
 review:
   aiWritten: true
   archetype: ai-ok

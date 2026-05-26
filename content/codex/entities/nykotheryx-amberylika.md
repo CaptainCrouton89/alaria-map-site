@@ -9,6 +9,8 @@ tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Aboyinzu.md#L5810"]
 relations:
   - { rel: spatial, kind: within, target: "1913" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie" }
 ---
 A dream-warped subregion of the Rootspire Wilds, lying east of Dalizi territory. Known for its reality-bending properties and the dangerous Real Forest within.
 

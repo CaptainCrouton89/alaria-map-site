@@ -9,6 +9,7 @@ tags: ["mountains", "Mnurvlyon", "giants"]
 sources: ["all_sections_formatted/Clueanda.md#L2952"]
 relations:
   - { rel: spatial, kind: within, target: "388" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-nyinsylys" }
 review:
   aiWritten: true
   archetype: ai-ok

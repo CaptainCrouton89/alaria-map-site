@@ -9,6 +9,9 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: flipSideOf, target: "plane-malstaris" }
+  - { rel: cosmology, kind: sourceOf, target: "plane-malstaris" }
 ---
 Eindumor is the flip side of Malstaris—but unlike other planar flip-sides, it is not truly a "place" in the conventional sense. Eindumor is **Nydus himself**, unfiltered and unmediated.
 

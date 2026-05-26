@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Clueanda.md#L3490"]
 relations:
   - { rel: spatial, kind: within, target: "905" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-xislmere" }
 ---
 A mountain range in the Kharvorn Mountains region.
 

@@ -9,5 +9,7 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
 ---
 Home to the Zylogmus Eternus and the Stalactites of Geth. Really, really sucky place.

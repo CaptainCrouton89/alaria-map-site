@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: sourceOf, target: "plane-belagria" }
 ---
 Bryn is not a god, nor a titan, nor any creature that ever walked or breathed. Bryn *is* the sun—or rather, Bryn is the sun's awakened spirit.
 

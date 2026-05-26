@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Clueanda.md#L4641"]
 relations:
   - { rel: spatial, kind: within, target: "1114" }
+  - { rel: polity, kind: capitalOf, target: "nation-postronamas-empire", when: "until the Collapse", note: "shattered capital; empire fallen" }
 ---
 At the desert's heart stands Enimogos—the shattered capital of the Postronamas Empire.
 

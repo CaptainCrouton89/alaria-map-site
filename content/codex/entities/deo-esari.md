@@ -9,6 +9,7 @@ tags: ["state", "nation", "elven", "confederation", "titans"]
 sources: ["all_sections_formatted/Upoceax.md#L1273"]
 relations:
   - { rel: spatial, kind: within, target: "3476" }
+  - { rel: economy, kind: produces, target: "magic-titan-blood-bones" }
 review:
   aiWritten: true
   archetype: ai-ok

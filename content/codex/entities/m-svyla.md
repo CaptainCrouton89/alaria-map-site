@@ -10,6 +10,7 @@ tags: ["state", "nation", "forest"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1940", "all_sections_formatted/Aboyinzu.md#L1946", "all_sections_formatted/Aboyinzu.md#L2002"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk" }
 review:
   aiWritten: true
   archetype: ai-ok

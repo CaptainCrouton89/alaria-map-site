@@ -9,6 +9,7 @@ tags: ["state", "nation", "winter-elf", "istori"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8613"]
 relations:
   - { rel: spatial, kind: within, target: "2368" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
 review:
   aiWritten: true
   archetype: ai-ok

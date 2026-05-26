@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L142"]
 relations:
   - { rel: spatial, kind: within, target: "4378" }
   - { rel: polity, kind: capitalOf, target: "4378" }
+  - { rel: polity, kind: ruledBy, target: "person-bridger-blindeyes" }
 review:
   aiWritten: false
   archetype: ai-ok

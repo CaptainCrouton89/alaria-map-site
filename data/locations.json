@@ -548,6 +548,7 @@
     "parentId": "1388",
     "relatedIds": [
       "1388",
+      "creature-kanzekill",
       "nation-dalizi-confederation",
       "2218",
       "1485",
@@ -608,6 +609,7 @@
     "parentId": "1388",
     "relatedIds": [
       "1388",
+      "creature-anchor-trees",
       "manual-mphbzhol-zkrha",
       "1865",
       "1831",
@@ -616,7 +618,6 @@
       "1857",
       "plane-material-plane",
       "1817",
-      "creature-anchor-trees",
       "1821",
       "1834",
       "1835",
@@ -801,6 +802,7 @@
     "relatedIds": [
       "3781",
       "3341",
+      "race-human",
       "person-red-the-screaming-blade",
       "3737",
       "3767",
@@ -1108,6 +1110,7 @@
     "parentId": "388",
     "relatedIds": [
       "388",
+      "creature-nyinsylys",
       "486",
       "969",
       "715",
@@ -1293,6 +1296,8 @@
     "parentId": "388",
     "relatedIds": [
       "388",
+      "creature-niquous",
+      "creature-shananae",
       "1339",
       "plane-material-plane",
       "1340",
@@ -1407,6 +1412,9 @@
     "zoomLevel": 1,
     "parentId": null,
     "relatedIds": [
+      "creature-oboros-the-cunning",
+      "creature-elebria",
+      "creature-findra-the-glassy-eyed",
       "2238",
       "2201",
       "2289",
@@ -1622,13 +1630,13 @@
     "parentId": "3341",
     "relatedIds": [
       "3341",
+      "race-centaur",
       "3835",
       "3793",
       "manual-mpih7bat-clo5a",
       "3725",
       "3662",
-      "manual-mpii94rh-4ulqj",
-      "race-centaur"
+      "manual-mpii94rh-4ulqj"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -2443,13 +2451,13 @@
     "relatedIds": [
       "416",
       "9000",
+      "magic-red-gold",
       "679",
       "585",
       "764",
       "404",
       "390",
       "421",
-      "magic-red-gold",
       "556",
       "magic-water",
       "race-dwarf",
@@ -2596,10 +2604,10 @@
       "918",
       "591",
       "9000",
+      "creature-tepheranos",
       "905",
       "536",
       "464",
-      "creature-tepheranos",
       "430",
       "creature-dragons",
       "race-goblin",
@@ -2796,12 +2804,12 @@
       "1395",
       "1579",
       "1623",
+      "person-xynoth-azkonor",
       "1534",
       "1419",
       "1414",
       "1417",
       "manual-mphazuvs-vcycm",
-      "person-xynoth-azkonor",
       "1669",
       "manual-mphq4u1j-dga75",
       "manual-mph66bcx-1e0eq",
@@ -2866,6 +2874,7 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "race-halfling",
       "53",
       "manual-mph5fmss-zyrmy",
       "366",
@@ -3186,6 +3195,7 @@
     "parentId": "2620",
     "relatedIds": [
       "2620",
+      "race-goblin",
       "race-giant"
     ],
     "loreFile": "Rimihuica.md",
@@ -3208,9 +3218,9 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "race-lizardfolk",
       "122",
       "124",
-      "race-lizardfolk",
       "36",
       "creature-dinosaurs",
       "96",
@@ -3380,7 +3390,8 @@
     "relatedIds": [
       "2817",
       "2455",
-      "2620"
+      "2620",
+      "race-elf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -3509,6 +3520,7 @@
       "manual-mphcqwrl-01eaj",
       "2921",
       "3151",
+      "race-elf",
       "3196",
       "3168",
       "3200",
@@ -3783,6 +3795,7 @@
     "zoomLevel": 2,
     "parentId": null,
     "relatedIds": [
+      "race-human",
       "3207",
       "manual-mphcf46l-3ua62",
       "3219",
@@ -4005,6 +4018,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
+      "magic-twyl",
       "nation-postronamas-empire",
       "3030",
       "creature-sand-dragons",
@@ -4015,8 +4029,7 @@
       "manual-mphcbgsb-wykgk",
       "magic-earth",
       "magic-water",
-      "race-giant",
-      "magic-twyl"
+      "race-giant"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -4193,6 +4206,8 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "daemon-talressses",
+      "race-halfling",
       "3",
       "329",
       "108",
@@ -4268,6 +4283,7 @@
       "539",
       "607",
       "2620",
+      "race-ogre",
       "2819",
       "1327",
       "magic-earth",
@@ -4667,6 +4683,7 @@
       "3399",
       "3390",
       "manual-mpii5qyj-9mpv2",
+      "creature-lady",
       "3468",
       "manual-mpii6khk-6c4c3",
       "race-tuktuk",
@@ -4841,6 +4858,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
+      "creature-symonair",
       "969",
       "1141",
       "1023",
@@ -5709,6 +5727,7 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "race-human",
       "3820",
       "1041",
       "3680",
@@ -5828,6 +5847,7 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
+      "race-elf",
       "4201",
       "4166",
       "4208",
@@ -6033,6 +6053,7 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
+      "race-minotaur",
       "manual-mphq9hhq-nmjbl",
       "1867",
       "nation-dalizi-confederation",
@@ -6407,6 +6428,7 @@
     "parentId": "3476",
     "relatedIds": [
       "3476",
+      "magic-titan-blood-bones",
       "3576",
       "3548",
       "3554",
@@ -7014,8 +7036,8 @@
       "591",
       "457",
       "faction-aldriktch-trade-alliance",
-      "390",
       "race-halfling",
+      "390",
       "2372",
       "manual-mphr471a-m34fc"
     ],
@@ -7196,9 +7218,9 @@
     "parentId": "3902",
     "relatedIds": [
       "3902",
+      "creature-ezra-olkanis",
       "3952",
       "4009",
-      "creature-ezra-olkanis",
       "3997",
       "4033",
       "3967",
@@ -7679,7 +7701,8 @@
     "relatedIds": [
       "2260",
       "2298",
-      "2218"
+      "2218",
+      "race-dwarf"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -7803,6 +7826,7 @@
     "parentId": "manual-mpjrcf71-enapy",
     "relatedIds": [
       "manual-mpjrcf71-enapy",
+      "creature-surrey-mahaila",
       "2651",
       "2843",
       "2712",
@@ -7874,7 +7898,8 @@
     "zoomLevel": 3,
     "parentId": "1754",
     "relatedIds": [
-      "1754"
+      "1754",
+      "race-halfling"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -8608,6 +8633,8 @@
     "parentId": "2620",
     "relatedIds": [
       "2620",
+      "creature-pythalomos",
+      "creature-senwyn-the-agonizer",
       "race-naruaghin",
       "creature-monsters"
     ],
@@ -8705,6 +8732,7 @@
     "parentId": "2368",
     "relatedIds": [
       "2368",
+      "race-elf",
       "2201",
       "2442",
       "2358",
@@ -8930,6 +8958,7 @@
     "parentId": "3178",
     "relatedIds": [
       "3178",
+      "race-gnome",
       "2912",
       "race-skaag"
     ],
@@ -8979,6 +9008,7 @@
       "2509",
       "2611",
       "2455",
+      "nation-kingdoms-of-fire",
       "2573",
       "manual-mpha3di4-etrb5",
       "2574",
@@ -9457,12 +9487,12 @@
       "1040",
       "1047",
       "1164",
+      "race-goblin",
       "497",
       "1041",
       "wilderness-twaan-forests",
       "981",
       "person-hermelia",
-      "race-goblin",
       "creature-twaan",
       "494",
       "magic-water",
@@ -9582,6 +9612,7 @@
       "2463",
       "2509",
       "2634",
+      "race-human",
       "2651",
       "2805",
       "magic-midnight-fire",
@@ -9631,13 +9662,13 @@
     "relatedIds": [
       "1806",
       "1821",
+      "creature-gamori",
       "1846",
       "1849",
       "1857",
       "plane-life-and-death",
       "manual-mphbt2hf-hd923",
       "magic-faesong",
-      "creature-gamori",
       "1848",
       "1861"
     ],
@@ -9769,8 +9800,9 @@
     "relatedIds": [
       "3151",
       "3178",
-      "manual-mphbsmjd-2lbk0",
       "creature-darklings",
+      "race-goblin",
+      "manual-mphbsmjd-2lbk0",
       "magic-languages",
       "3254",
       "3189",
@@ -9933,6 +9965,8 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "creature-svorinthak",
+      "race-naga",
       "3820",
       "3679",
       "manual-mpih7bat-clo5a",
@@ -9964,11 +9998,11 @@
     "relatedIds": [
       "3300",
       "3151",
+      "race-goblin",
       "creature-dinosaurs",
       "manual-mpii94rh-4ulqj",
       "manual-mphayxz1-j0vk3",
       "race-alekroin",
-      "race-goblin",
       "manual-mphqwz19-951b6"
     ],
     "loreFile": "Rimihuica.md",
@@ -10000,8 +10034,8 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
-      "1534",
       "race-lizardfolk",
+      "1534",
       "1388",
       "manual-mph6558x-37uls",
       "magic-light",
@@ -10363,6 +10397,7 @@
     "parentId": "3346",
     "relatedIds": [
       "3346",
+      "race-kappa",
       "3412",
       "3435",
       "3440",
@@ -10375,7 +10410,6 @@
       "manual-mpii3r77-xn5l8",
       "manual-mpii4by2-01ufq",
       "magic-water",
-      "race-kappa",
       "manual-mphqwz19-951b6"
     ],
     "loreFile": "Upoceax.md",
@@ -10447,6 +10481,7 @@
     "parentId": "4085",
     "relatedIds": [
       "4085",
+      "race-halfling",
       "wilderness-scepter-mountains",
       "4140",
       "4106",
@@ -10741,6 +10776,7 @@
       "2974",
       "3178",
       "3014",
+      "race-lizardfolk",
       "2922",
       "2968",
       "2870",
@@ -10750,7 +10786,6 @@
       "creature-strmgodden",
       "2935",
       "2905",
-      "race-lizardfolk",
       "manual-mphqvfo9-1z7oe",
       "2926",
       "race-sylthik",
@@ -10792,6 +10827,7 @@
     "parentId": "4446",
     "relatedIds": [
       "4446",
+      "race-gnome",
       "4363",
       "4403",
       "manual-mpii94rh-4ulqj",
@@ -10949,8 +10985,8 @@
     "parentId": "905",
     "relatedIds": [
       "905",
-      "creature-ghosts",
-      "creature-kyth"
+      "creature-kyth",
+      "creature-ghosts"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -11007,6 +11043,8 @@
     "parentId": "1913",
     "relatedIds": [
       "1913",
+      "race-gnome",
+      "race-pixie",
       "manual-mph5px3o-6xkh4",
       "manual-mphbqcfn-er4pc",
       "manual-mph5opas-u7aq5"
@@ -11263,6 +11301,8 @@
     "relatedIds": [
       "3014",
       "2974",
+      "creature-pfustias",
+      "race-halfling",
       "person-phendexelas-the-beautiful",
       "2985",
       "2968",
@@ -11605,7 +11645,8 @@
     "relatedIds": [
       "3476",
       "3573",
-      "3498"
+      "3498",
+      "event-campaign-roule-invades"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -11723,6 +11764,7 @@
     "parentId": "4363",
     "relatedIds": [
       "4363",
+      "event-campaign-roule-invades",
       "4433",
       "4380",
       "302",
@@ -12306,6 +12348,7 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
+      "race-human",
       "4318",
       "4166",
       "2573",
@@ -13196,6 +13239,7 @@
     "parentId": "1806",
     "relatedIds": [
       "1806",
+      "creature-great-apes-of-the-apelands",
       "1849",
       "1817",
       "creature-anchor-trees",
@@ -13355,6 +13399,7 @@
     "parentId": "905",
     "relatedIds": [
       "905",
+      "creature-xislmere",
       "453"
     ],
     "loreFile": "Clueanda.md",
@@ -13864,6 +13909,7 @@
     "parentId": "1214",
     "relatedIds": [
       "1214",
+      "creature-ural-of-the-third-moon",
       "1242",
       "388",
       "creature-monsters",
@@ -14050,6 +14096,7 @@
     "relatedIds": [
       "3662",
       "3498",
+      "race-human",
       "3689"
     ],
     "loreFile": "Upoceax.md",
@@ -14568,13 +14615,13 @@
     "parentId": "2484",
     "relatedIds": [
       "2484",
+      "race-human",
       "2488",
       "1036",
       "manual-mpii94rh-4ulqj",
       "2582",
       "2372",
-      "creature-titan",
-      "race-human"
+      "creature-titan"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -14743,6 +14790,7 @@
     "parentId": "4446",
     "relatedIds": [
       "4446",
+      "race-pixie",
       "4447",
       "4369",
       "4448",
@@ -15307,6 +15355,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
+      "race-human",
       "3223",
       "race-sylthik",
       "3226"
@@ -15978,6 +16027,7 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "race-gnome",
       "3",
       "72",
       "creature-suki-jungle",
@@ -16067,6 +16117,7 @@
     "parentId": "1806",
     "relatedIds": [
       "1806",
+      "race-orc",
       "3196",
       "1821",
       "3151",
@@ -16265,6 +16316,7 @@
     "parentId": "3337",
     "relatedIds": [
       "3337",
+      "race-elf",
       "faction-the-ivory-hand",
       "3177",
       "3725",
@@ -16803,6 +16855,7 @@
     "relatedIds": [
       "3108",
       "2857",
+      "race-gnome",
       "magic-water"
     ],
     "loreFile": "Rimihuica.md",
@@ -17129,6 +17182,7 @@
     "parentId": "2530",
     "relatedIds": [
       "2530",
+      "race-goblin",
       "faction-first-brotherhood",
       "magic-languages",
       "manual-mpii94rh-4ulqj",
@@ -17270,9 +17324,9 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
+      "race-lizardfolk",
       "1410",
       "1669",
-      "race-lizardfolk",
       "453",
       "1388",
       "1390",
@@ -17360,6 +17414,7 @@
       "2857",
       "3066",
       "3108",
+      "race-lizardfolk",
       "3061",
       "3116",
       "3038",
@@ -17859,10 +17914,10 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "creature-cendelle",
       "3859",
       "3837",
       "3662",
-      "creature-cendelle",
       "3799",
       "3803",
       "magic-earth",
@@ -18946,6 +19001,7 @@
     "parentId": "1579",
     "relatedIds": [
       "1579",
+      "race-elf",
       "1590",
       "1722",
       "1720",
@@ -20531,6 +20587,7 @@
     "parentId": "1270",
     "relatedIds": [
       "1270",
+      "creature-zosuun",
       "1272",
       "1378",
       "creature-valkyries",
@@ -20822,6 +20879,7 @@
     "parentId": "3781",
     "relatedIds": [
       "3781",
+      "race-elf",
       "3776",
       "3725",
       "magic-languages",
@@ -20988,6 +21046,7 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "race-human",
       "3662",
       "manual-mpii94rh-4ulqj",
       "magic-water",
@@ -21034,7 +21093,9 @@
     "zoomLevel": 4,
     "parentId": "692",
     "relatedIds": [
-      "692"
+      "692",
+      "magic-red-gold",
+      "creature-morgnor-dragon"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -21234,8 +21295,8 @@
     "parentId": "129",
     "relatedIds": [
       "129",
-      "131",
       "creature-wind-singers",
+      "131",
       "606",
       "race-giant",
       "magic-dark",
@@ -21611,6 +21672,7 @@
     "parentId": "3604",
     "relatedIds": [
       "3604",
+      "race-orc",
       "3558",
       "3476"
     ],
@@ -22188,6 +22250,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
+      "race-human",
       "3222",
       "2372",
       "3231"
@@ -23568,7 +23631,8 @@
     "parentId": "4165",
     "relatedIds": [
       "4355",
-      "4165"
+      "4165",
+      "race-goblin"
     ],
     "tags": [],
     "atmosphere": "civilization",
@@ -23643,7 +23707,8 @@
     "zoomLevel": 4,
     "parentId": "1977",
     "relatedIds": [
-      "1977"
+      "1977",
+      "nation-dalizi-confederation"
     ],
     "tags": [],
     "atmosphere": "civilization",
@@ -23900,8 +23965,8 @@
     "relatedIds": [
       "540",
       "666",
-      "557",
       "magic-diamonds",
+      "557",
       "449",
       "magic-light",
       "race-gnome"
@@ -24198,6 +24263,7 @@
     "parentId": "322",
     "relatedIds": [
       "322",
+      "daemon-talressses",
       "327"
     ],
     "loreFile": "Ve.md",
@@ -24454,6 +24520,8 @@
       "952",
       "905",
       "faction-aldriktch-trade-alliance",
+      "race-elf",
+      "person-king-samaryn",
       "715"
     ],
     "loreFile": "Clueanda.md",
@@ -25026,11 +25094,11 @@
     "parentId": "2201",
     "relatedIds": [
       "2201",
+      "creature-frostwalkers",
+      "creature-ice-wyrms",
       "creature-the-cold-that-hungers",
       "2332",
-      "creature-frostwalkers",
       "manual-mph5o478-ilww3",
-      "creature-ice-wyrms",
       "453",
       "creature-dragons",
       "creature-undead",
@@ -25097,7 +25165,8 @@
       "4318",
       "4184",
       "manual-mpifts0q-rkqps",
-      "4208"
+      "4208",
+      "race-gnome"
     ],
     "tags": [],
     "atmosphere": "civilization",
@@ -25448,6 +25517,7 @@
     "parentId": "1150",
     "relatedIds": [
       "1150",
+      "race-orc",
       "969",
       "4166",
       "1023",
@@ -26773,7 +26843,8 @@
     "zoomLevel": 4,
     "parentId": "1248",
     "relatedIds": [
-      "1248"
+      "1248",
+      "race-dwarf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -27089,9 +27160,9 @@
     "relatedIds": [
       "3281",
       "manual-mphcrkzw-dyizg",
+      "creature-agtakkeri",
       "3168",
       "3306",
-      "creature-agtakkeri",
       "3275",
       "3178",
       "magic-water",
@@ -29295,6 +29366,7 @@
     "parentId": "2201",
     "relatedIds": [
       "2201",
+      "creature-pelera",
       "2326",
       "2314",
       "2317",
@@ -30680,6 +30752,7 @@
     "parentId": "4446",
     "relatedIds": [
       "4446",
+      "race-gnome",
       "4469",
       "manual-mpii94rh-4ulqj",
       "creature-monsters",
@@ -31477,6 +31550,7 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "race-orc",
       "3832",
       "3662",
       "manual-mphcbgsb-wykgk",
@@ -32632,6 +32706,7 @@
     "parentId": "1738",
     "relatedIds": [
       "1738",
+      "race-orc",
       "1539",
       "1488",
       "1569",
@@ -42105,6 +42180,7 @@
     "parentId": "681",
     "relatedIds": [
       "681",
+      "race-gnome",
       "453"
     ],
     "loreFile": "Clueanda.md",
@@ -46866,6 +46942,7 @@
     "parentId": "3604",
     "relatedIds": [
       "3604",
+      "event-campaign-roule-invades",
       "creature-monsters",
       "4423"
     ],

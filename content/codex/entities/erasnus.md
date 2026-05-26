@@ -16,6 +16,8 @@ relations:
   - { rel: spatial, kind: borders, target: "591", note: "Griselian goblin city-states, west" }
   - { rel: spatial, kind: borders, target: "457", note: "south (map-confirmed; Erasnus prose omits it)" }
   - { rel: spatial, kind: within, target: "426" }
+  - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
 review:
   aiWritten: true
   archetype: ai-ok

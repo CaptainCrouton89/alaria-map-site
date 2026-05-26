@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L1338"]
 relations:
   - { rel: spatial, kind: borders, target: "2509", note: "N" }
   - { rel: spatial, kind: within, target: "2455", note: "Kingdom of Fire under Tarkhon Empire per user" }
+  - { rel: polity, kind: memberOf, target: "nation-kingdoms-of-fire" }
 review:
   aiWritten: true
   archetype: ai-ok

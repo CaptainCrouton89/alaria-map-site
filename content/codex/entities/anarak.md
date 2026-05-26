@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "918", note: "north" }
   - { rel: spatial, kind: borders, target: "591", note: "south" }
   - { rel: spatial, kind: within, target: "9000" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-tepheranos" }
 review:
   aiWritten: true
   archetype: ai-ok

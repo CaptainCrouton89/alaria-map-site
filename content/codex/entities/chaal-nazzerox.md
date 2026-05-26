@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1395", note: "NW" }
   - { rel: spatial, kind: borders, target: "1579", note: "E" }
   - { rel: spatial, kind: borders, target: "1623", note: "SE" }
+  - { rel: polity, kind: ruledBy, target: "person-xynoth-azkonor", note: "was the old king, now a lich" }
 review:
   aiWritten: true
   archetype: ai-ok

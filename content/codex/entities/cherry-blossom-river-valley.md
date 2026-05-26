@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L3626"]
 relations:
   - { rel: spatial, kind: borders, target: "3108", note: "E — national border at the jungle/mountain frontier; Qet Yemani lies east across the drawn boundary line" }
   - { rel: spatial, kind: within, target: "2857" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 review:
   aiWritten: false
   archetype: stub

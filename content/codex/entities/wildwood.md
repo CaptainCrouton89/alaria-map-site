@@ -9,6 +9,7 @@ tags: ["forest", "geography", "orc"]
 sources: ["all_sections_formatted/Clueanda.md#L5291"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-symonair" }
 review:
   aiWritten: true
   archetype: ai-ok

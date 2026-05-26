@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Greenwater_Isles.md#L1075"]
 relations:
   - { rel: spatial, kind: within, target: "4446" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 ---
 South of the Pearly Mountains, where the land descends toward the coast, Tyberoskos spreads across rolling hills of limestone and clay. This is not a forest that welcomes travelers. The ground is treacherous—riddled with sinkholes that open without warning, swallowing the unwary into darkness. The trees have adapted with vast root systems that grip the unstable earth, their canopy so thick that the forest floor exists in perpetual twilight.
 

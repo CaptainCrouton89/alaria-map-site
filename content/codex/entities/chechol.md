@@ -9,6 +9,7 @@ tags: ["region", "state"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1085"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur" }
 review:
   aiWritten: true
   archetype: ai-ok

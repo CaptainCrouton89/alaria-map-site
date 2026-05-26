@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "race-bogies" }
 ---
 ### Government & Peoples
 **Government Type**:

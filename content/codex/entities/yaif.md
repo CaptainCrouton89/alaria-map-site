@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2509", note: "SW" }
   - { rel: spatial, kind: borders, target: "2727", note: "SE" }
   - { rel: spatial, kind: within, target: "2455", note: "Kingdom of Fire under Tarkhon Empire per user" }
+  - { rel: polity, kind: memberOf, target: "nation-kingdoms-of-fire" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["mountains"]
 sources: ["all_sections_formatted/Clueanda.md#L1723"]
 relations:
   - { rel: spatial, kind: within, target: "411" }
+  - { rel: economy, kind: produces, target: "magic-red-gold" }
 ---
 Home to numerous Kimril, copious quantities of red gold, and the an infamous dwarf bandit. 
 

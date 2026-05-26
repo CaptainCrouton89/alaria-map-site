@@ -9,6 +9,7 @@ tags: ["state", "nation", "jungle", "empire"]
 sources: ["all_sections_formatted/Ve.md#L615"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
 review:
   aiWritten: true
   archetype: ai-ok

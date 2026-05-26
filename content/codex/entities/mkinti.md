@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L1741"]
 relations:
   - { rel: spatial, kind: within, target: "540" }
   - { rel: spatial, kind: borders, target: "666", note: "north" }
+  - { rel: economy, kind: produces, target: "magic-diamonds" }
 review:
   aiWritten: true
   archetype: ai-ok

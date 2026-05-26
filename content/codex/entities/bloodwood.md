@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Aboyinzu.md#L3642"]
 relations:
   - { rel: spatial, kind: within, target: "1806" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
 ---
 The forest west of the Apelands and north of Seyiy takes its name from its dominant tree species—the bloodwood, a hardwood with deep red heartwood that bleeds crimson sap when cut.
 

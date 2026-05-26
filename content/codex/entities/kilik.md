@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Greenwater_Isles.md#L785"]
 relations:
   - { rel: spatial, kind: within, target: "3604" }
+  - { rel: history, kind: participatedIn, target: "event-campaign-roule-invades" }
 review:
   aiWritten: true
   archetype: ai-ok

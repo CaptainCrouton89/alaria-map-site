@@ -9,6 +9,7 @@ tags: ["rainforest", "jungle", "geography", "state", "nation", "gamori", "hills"
 sources: ["all_sections_formatted/Aboyinzu.md#L3504"]
 relations:
   - { rel: spatial, kind: within, target: "1388" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-anchor-trees" }
 review:
   aiWritten: true
   archetype: ai-ok

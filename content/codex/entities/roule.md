@@ -9,6 +9,7 @@ tags: ["island", "state", "nation", "geography"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L643"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
+  - { rel: history, kind: caused, target: "event-campaign-roule-invades" }
 review:
   aiWritten: true
   archetype: ai-ok

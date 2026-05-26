@@ -9,6 +9,8 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Upoceax.md#L3878"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-svorinthak" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naga" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["city", "ruins", "magical-disaster", "old-tolaria"]
 sources: ["all_sections_formatted/Rimihuica.md#L3698"]
 relations:
   - { rel: spatial, kind: within, target: "732" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-velorax-the-unfinished" }
 review:
   aiWritten: true
   archetype: ai-ok

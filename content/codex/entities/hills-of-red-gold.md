@@ -8,6 +8,8 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L1823"]
 relations:
   - { rel: spatial, kind: within, target: "692" }
+  - { rel: economy, kind: produces, target: "magic-red-gold" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-morgnor-dragon" }
 review:
   aiWritten: false
   archetype: stub

@@ -10,6 +10,8 @@ sources: ["all_sections_formatted/Rimihuica.md#L6395"]
 relations:
   - { rel: spatial, kind: within, target: "3151" }
   - { rel: spatial, kind: borders, target: "3178", note: "north" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-darklings" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
 review:
   aiWritten: true
   archetype: ai-ok

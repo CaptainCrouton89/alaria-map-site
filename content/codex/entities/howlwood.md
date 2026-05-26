@@ -9,6 +9,7 @@ tags: ["forest", "geography", "edari", "ve"]
 sources: ["all_sections_formatted/Ve.md#L1705"]
 relations:
   - { rel: spatial, kind: within, target: "129" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-wind-singers" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,8 @@ tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L2451"]
 relations:
   - { rel: spatial, kind: within, target: "2620" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-pythalomos" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-senwyn-the-agonizer" }
 ---
 Superduper fucking deadly unless your quite powerful. Lots of nasty monsters.
 

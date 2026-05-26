@@ -9,6 +9,7 @@ tags: ["forest", "geography", "pelera"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8056"]
 relations:
   - { rel: spatial, kind: within, target: "2201" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-pelera" }
 ---
 A vast expanse of dense, waterlogged forest sprawling across the northern Dragon's Spine coast between the open sea and the mountains. The Glog earned its name from the sound boots make in its perpetually sodden ground—a wet, sucking noise that accompanies every step. The forest is cold, dark, and deeply unwelcoming, but it's also one of the few relatively flat, accessible regions on this stretch of coast.
 

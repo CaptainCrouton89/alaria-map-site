@@ -10,6 +10,9 @@ sources: ["all_sections_formatted/Rimihuica.md#L5233"]
 relations:
   - { rel: spatial, kind: within, target: "3014" }
   - { rel: spatial, kind: borders, target: "2974", note: "SW" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-pfustias" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
+  - { rel: polity, kind: ruledBy, target: "person-phendexelas-the-beautiful" }
 review:
   aiWritten: true
   archetype: ai-ok

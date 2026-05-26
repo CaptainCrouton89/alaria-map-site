@@ -9,6 +9,8 @@ tags: ["mountains"]
 sources: ["all_sections_formatted/Clueanda.md#L6267"]
 relations:
   - { rel: spatial, kind: within, target: "388" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-niquous" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-shananae" }
 review:
   aiWritten: true
   archetype: ai-ok

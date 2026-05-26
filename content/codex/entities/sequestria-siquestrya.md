@@ -8,6 +8,7 @@ zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L2650"]
 relations:
   - { rel: spatial, kind: within, target: "3341" }
+  - { rel: culture, kind: inhabitedBy, target: "race-centaur" }
 ---
 South of the Sandreach Desert and east of the Sandreach Mountains lies Sequestria—a plain savannah wasteland south and west of the Free Isles. North and west of this region rise the Lyagnadarr Mountains, home to Svorinthak the dragon.
 

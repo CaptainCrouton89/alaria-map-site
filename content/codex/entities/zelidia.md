@@ -13,6 +13,7 @@ review:
   notes: "Rewrote from stub: Zelle theocracy along Sovia River, capital Glezamos (Temple of Hungry Canopy, Bleeding Court), fallen Iirmos ruins, 5 river villages, Kameesi/Agreben geography."
 relations:
   - { rel: spatial, kind: within, target: "4446" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie" }
 ---
 Zelidia stretches along the Sovia River from the edge of the Kameesi Jungle to the coast of the Agreben Sea. It is the only organized polity of the Zelle people: a theocracy governed by the High Priestesses, who sustain the jungle-spirits through blood sacrifice and maintain Zelidia's borders through isolation rather than armies.
 

@@ -9,6 +9,7 @@ tags: ["mountains"]
 sources: ["all_sections_formatted/Clueanda.md#L3410"]
 relations:
   - { rel: spatial, kind: within, target: "905" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-kyth" }
 ---
 The Nirvanis Mountains were once home to an ancient civilization of people who died out hundreds of years ago to overhunting. All the remains are the massive stone statues dotted throughout the land, under which the dead were buried. These statues were believed to protect the mountains from evil spirits.
 

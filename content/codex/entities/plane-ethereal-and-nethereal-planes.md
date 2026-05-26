@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
 ---
 The Ethereal and Nethereal planes are two thin planes that overlay all other planes within Alaria. They are counterparts to one another—and together, they form the substrate through which all living beings are bound to their souls and shadows.
 

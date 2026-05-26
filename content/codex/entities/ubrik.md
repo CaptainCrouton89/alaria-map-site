@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L2748"]
 relations:
   - { rel: spatial, kind: borders, target: "457", note: "Ubrik refugees and silvertongue raids spill west into Bestacia" }
   - { rel: spatial, kind: within, target: "9000" }
+  - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
 review:
   aiWritten: true
   archetype: ai-ok

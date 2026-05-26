@@ -9,6 +9,7 @@ tags: ["geography", "cursed", "landmark", "danger"]
 sources: ["all_sections_formatted/Aboyinzu.md#L809"]
 relations:
   - { rel: spatial, kind: within, target: "1738" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
 ---
 The Agony Stones are not ruins. They are not a monument. They are not the remnants of some ancient civilization. They are the still-dying body of something that has been dying for millennia.
 

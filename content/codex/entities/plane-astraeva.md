@@ -9,6 +9,9 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: flipSideOf, target: "plane-astral-plane" }
+  - { rel: cosmology, kind: sourceOf, target: "plane-astral-plane" }
 ---
 Astraeva is the flip side of the Astral Plane—but unlike other planar flip-sides, it is not truly a "place" in the conventional sense. Astraeva is **Aurus himself**, unfiltered and unmediated.
 

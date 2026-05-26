@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: sourceOf, target: "magic-psy-magic" }
 ---
 The flow of all thoughts, ideas, and emotions across Alaria. The Psywinds are currents of flowing Ezz that carry the collective mental activity of all living beings within the planar stack. These thoughts pass through all, connecting mind to mind across any distance.
 

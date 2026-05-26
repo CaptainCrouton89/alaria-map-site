@@ -9,6 +9,7 @@ tags: ["forest", "geography", "riin", "dangerous"]
 sources: ["all_sections_formatted/Upoceax.md#L4847"]
 relations:
   - { rel: spatial, kind: within, target: "3902" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-ezra-olkanis" }
 ---
 The Eyendra is one of Alaria's great forests—a vast expanse of boreal woodland stretching across southeastern Wycendeula, from the Eceraen Mountains in the south to the Neurian Hills in the northwest, bounded by the coast and Moornik Bay to the east. At over 200 miles north to south and 300 miles east to west, it rivals the Filvrae Sylvrym in scale, though the two forests could not be more different in character.
 

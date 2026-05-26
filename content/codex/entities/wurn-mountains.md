@@ -9,6 +9,7 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L1476"]
 relations:
   - { rel: spatial, kind: within, target: "2484" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 Part of the greater Wurmspine range, the Wurn Mountains form Enymu's northern border. Home to the Stone Men—a human subculture whose gray, rock-hard skin marks generations of elemental exposure. Switzerland vibes: alpine meadows, dramatic peaks, isolated valleys, and a people who want to be left alone.
 

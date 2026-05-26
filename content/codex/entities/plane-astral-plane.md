@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: sourceOf, target: "magic-sky-stone" }
 ---
 ### Geography
 The Astral Plane consists of a massive sea with floating islands, consisting of a special stone-like material that floats in Astral solution. Like icebergs, larger islands are cliff-edged, and tower into the sky, while smaller islands ride much lower. Huge disasters occur when an island rolls over due to the massiver earthquakes they deal with (due to structural instability). These quakes can cause astral stone to break free, showering down on the earth. 

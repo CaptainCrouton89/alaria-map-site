@@ -8,4 +8,5 @@ zoomLevel: 4
 relations:
   - { rel: spatial, kind: within, target: "1977" }
   - { rel: polity, kind: capitalOf, target: "1977" }
+  - { rel: polity, kind: capitalOf, target: "nation-dalizi-confederation", note: "seat of the Dalizi Diet; the Confederation has no sovereign capital" }
 ---

@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L6806"]
 relations:
   - { rel: spatial, kind: within, target: "3281" }
   - { rel: spatial, kind: borders, target: "manual-mphcrkzw-dyizg", note: "NE" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-agtakkeri" }
 review:
   aiWritten: true
   archetype: ai-ok

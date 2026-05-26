@@ -9,6 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Western_Isles.md#L1501"]
 relations:
   - { rel: spatial, kind: within, target: "4165" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

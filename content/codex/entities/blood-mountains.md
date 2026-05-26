@@ -9,6 +9,7 @@ tags: ["mountains", "geography", "ve", "chimea"]
 sources: ["all_sections_formatted/Ve.md#L460"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["forest", "spindral", "elves", "darkness"]
 sources: ["all_sections_formatted/Clueanda.md#L5665"]
 relations:
   - { rel: spatial, kind: within, target: "1214" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-ural-of-the-third-moon" }
 review:
   aiWritten: true
   archetype: ai-ok

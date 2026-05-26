@@ -8,4 +8,5 @@ zoomLevel: 4
 relations:
   - { rel: spatial, kind: borders, target: "4355", note: "S" }
   - { rel: spatial, kind: within, target: "4165" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
 ---
