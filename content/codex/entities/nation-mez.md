@@ -2,16 +2,18 @@
 id: "nation-mez"
 name: "Mez"
 entityType: nation
-blurb: "Links: States"
+blurb: "A claimed domain beneath the southwestern Widebarrow Mountains where the Lyzine spider-folk hold absolute sway."
+coordinates: [530, 245]
+zoomLevel: 3
 tags: ["state"]
 sources:
   - "nations_and_powers/states/Mez.md"
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: spatial, kind: within, target: "3" }
 ---
-Links: States
-
 Mez is not a nation in any sense the surface world would recognize. It is a territory—a claimed domain beneath the southwestern Widebarrow Mountains where the Lyzine hold absolute sway. To call it a "state" insults the concept; to ignore it would be suicide. The spider-folk have ruled these depths for millennia, and they consider the entire surface world a temporary inconvenience on land that is rightfully theirs.
 
 The Lyzine are fallen nobility, or so they insist. Their origin myths speak of vast surface kingdoms, elegant courts, and a glorious civilization brought low by jealous lesser races who conspired to drive them underground. Whether any of this is true—scholars outside Ve have never heard of these supposed kingdoms—matters less than the Lyzine belief in it. They consider themselves exiled royalty, and they intend to reclaim their throne. Every raid is a step toward restoration. Every human they kill or enslave is a correction of historical injustice.

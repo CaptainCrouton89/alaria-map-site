@@ -31,7 +31,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "Aboyinzu stretches like a hooked tail along the southwestern edge of the known world.",
-    "containsCount": 6
+    "containsCount": 7
   },
   {
     "id": "388",
@@ -659,7 +659,7 @@
     "atmosphere": "civilization",
     "blurb": "The Elder Wilds occupy the entire eastern peninsula of Aboyinzu—a vast region of ancient rainforest, winding rivers, and primordial wilderness.",
     "parentName": "Aboyinzu",
-    "containsCount": 14
+    "containsCount": 15
   },
   {
     "id": "1011",
@@ -1003,7 +1003,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "The Greenwater Isles are a tropical archipelago lying between Upoceax to the west and south, and Rimihuica to the north and east.",
-    "containsCount": 11,
+    "containsCount": 12,
     "borders": [
       {
         "id": "4450",
@@ -1836,7 +1836,7 @@
     "atmosphere": "civilization",
     "blurb": "The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle…",
     "parentName": "Rimihuica",
-    "containsCount": 22,
+    "containsCount": 23,
     "borders": [
       {
         "id": "2555",
@@ -1878,7 +1878,7 @@
     "atmosphere": "water",
     "blurb": "Terrenia occupies the northwestern reaches of Aboyinzu, a region of temperate states stretching from the coast down to the Crystal Mountains.",
     "parentName": "Aboyinzu",
-    "containsCount": 6
+    "containsCount": 7
   },
   {
     "id": "1",
@@ -2922,6 +2922,74 @@
     "containsCount": 83
   },
   {
+    "id": "nation-dalizi-confederation",
+    "name": "Dalizi Confederation",
+    "type": "nation",
+    "coordinates": [
+      350,
+      520
+    ],
+    "zoomLevel": 2,
+    "parentId": "1388",
+    "relatedIds": [
+      "1388",
+      "manual-mphq9hhq-nmjbl",
+      "1867",
+      "1475",
+      "1865",
+      "1520",
+      "1978",
+      "1806",
+      "1974",
+      "2145",
+      "1962",
+      "1954",
+      "magic-languages",
+      "creature-monsters",
+      "1544",
+      "manual-mphb7vl4-ptsg6",
+      "manual-mphb5jhz-waq7k",
+      "1390",
+      "1938",
+      "1515",
+      "1895",
+      "1981",
+      "1988",
+      "1946",
+      "1955",
+      "manual-mph5wgyx-6vfzb",
+      "1944",
+      "1936",
+      "1880",
+      "1911",
+      "2049",
+      "1957",
+      "1958",
+      "manual-mph5r16f-ucyiz",
+      "1977",
+      "1951",
+      "2372",
+      "1934",
+      "manual-mph5r6im-wurpc",
+      "magic-force",
+      "magic-water",
+      "1979",
+      "1964",
+      "1948",
+      "1881",
+      "magic-dark",
+      "1956"
+    ],
+    "loreFile": "Dalizi Confederation.md",
+    "tags": [
+      "state",
+      "confederation"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A sprawling political entity comprising over forty member states—some true nations, others mere city-states—bound together by ancient treaties, mutual defense obligations, and a bewildering tangle…",
+    "parentName": "Aboyinzu"
+  },
+  {
     "id": "3166",
     "name": "Deaddorf Strait",
     "type": "water",
@@ -3597,6 +3665,44 @@
     "containsCount": 7
   },
   {
+    "id": "nation-kingdoms-of-fire",
+    "name": "Kingdoms of Fire",
+    "type": "nation",
+    "coordinates": [
+      99,
+      229
+    ],
+    "zoomLevel": 2,
+    "parentId": "2455",
+    "relatedIds": [
+      "2455",
+      "2460",
+      "2573",
+      "manual-mpha3di4-etrb5",
+      "2509",
+      "2574",
+      "race-neferati",
+      "2555",
+      "2593",
+      "2519",
+      "magic-light",
+      "race-human",
+      "manual-mphqwz19-951b6",
+      "magic-dark",
+      "magic-fire",
+      "magic-time",
+      "2611"
+    ],
+    "loreFile": "Kingdoms of Fire.md",
+    "tags": [
+      "alliance",
+      "state"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "The Kingdoms of Fire are four Neferati monarchies—Yaif, Kabir, Gissemari, and Wadiyah—that occupy a peninsula in southwestern Tarkhon.",
+    "parentName": "Tarkhon Empire"
+  },
+  {
     "id": "1270",
     "name": "Konai Mora",
     "type": "wilderness",
@@ -3913,7 +4019,7 @@
     "atmosphere": "nature",
     "blurb": "A vast arid expanse south of the Everwood, the Piktiniti is less a sea of sand dunes than a harsh shrubland—cracked earth, scrub vegetation, and…",
     "parentName": "Westwilds",
-    "containsCount": 4
+    "containsCount": 6
   },
   {
     "id": "4010",
@@ -3970,6 +4076,39 @@
     "atmosphere": "nature",
     "blurb": "A vast forest in the Celedrim Plains.",
     "parentName": "Celedrim Plains"
+  },
+  {
+    "id": "nation-postronamas-empire",
+    "name": "Postronamas Empire",
+    "type": "nation",
+    "coordinates": [
+      25,
+      155
+    ],
+    "zoomLevel": 2,
+    "parentId": "1114",
+    "relatedIds": [
+      "1114",
+      "1200",
+      "3030",
+      "998",
+      "981",
+      "1117",
+      "1101",
+      "nation-seyiki",
+      "race-giant",
+      "magic-twyl"
+    ],
+    "loreFile": "Postronamas Empire.md",
+    "tags": [
+      "ruins",
+      "state",
+      "fallen",
+      "westwilds"
+    ],
+    "atmosphere": "ancient",
+    "blurb": "An ancient civilization that rose to greatness through mastery of twyl crystals, built an empire spanning the western Westwilds, and collapsed into madness and civil…",
+    "parentName": "Piktiniti Desert"
   },
   {
     "id": "manual-mphbsu90-fz7jf",
@@ -8392,6 +8531,28 @@
     ]
   },
   {
+    "id": "nation-iques",
+    "name": "Iques",
+    "type": "nation",
+    "coordinates": [
+      98,
+      286
+    ],
+    "zoomLevel": 3,
+    "parentId": "4363",
+    "relatedIds": [
+      "4363",
+      "4376"
+    ],
+    "loreFile": "Iques.md",
+    "tags": [
+      "state"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "Land of coral and black gold (micah).",
+    "parentName": "Greenwater Isles"
+  },
+  {
     "id": "manual-mph71itd-6g6tw",
     "name": "Iron Sea",
     "type": "water",
@@ -9995,6 +10156,40 @@
     "parentName": "Edari"
   },
   {
+    "id": "nation-mez",
+    "name": "Mez",
+    "type": "nation",
+    "coordinates": [
+      530,
+      245
+    ],
+    "zoomLevel": 3,
+    "parentId": "3",
+    "relatedIds": [
+      "3",
+      "77",
+      "53",
+      "73",
+      "manual-mph5fb8n-1revj",
+      "manual-mph5fg9z-x69z4",
+      "race-lyzine",
+      "338",
+      "magic-force",
+      "magic-light",
+      "race-human",
+      "92",
+      "manual-mph4venj-lkmzf",
+      "magic-time"
+    ],
+    "loreFile": "Mez.md",
+    "tags": [
+      "state"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A claimed domain beneath the southwestern Widebarrow Mountains where the Lyzine spider-folk hold absolute sway.",
+    "parentName": "The Widebarrow Mountains"
+  },
+  {
     "id": "680",
     "name": "Micah Inlet",
     "type": "water",
@@ -11208,6 +11403,29 @@
     ]
   },
   {
+    "id": "nation-poum-titch",
+    "name": "Poum-Titch",
+    "type": "nation",
+    "coordinates": [
+      265,
+      370
+    ],
+    "zoomLevel": 3,
+    "parentId": "1390",
+    "relatedIds": [
+      "1390",
+      "1435",
+      "1395"
+    ],
+    "loreFile": "Poum-Titch.md",
+    "tags": [
+      "state"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "Located in Terrenia, south of the Green Mountains and east of Aal Salma.",
+    "parentName": "Terrenia"
+  },
+  {
     "id": "1289",
     "name": "Predatak",
     "type": "poi",
@@ -11838,6 +12056,40 @@
     "atmosphere": "nature",
     "blurb": "The Senaveer Mountains rise northwest of Anu'Itiklik, a rugged barrier between the frozen wastes and the polar approaches.",
     "parentName": "Northlands"
+  },
+  {
+    "id": "nation-seyiki",
+    "name": "Seyiki",
+    "type": "nation",
+    "coordinates": [
+      10,
+      162
+    ],
+    "zoomLevel": 3,
+    "parentId": "1114",
+    "relatedIds": [
+      "1114",
+      "nation-postronamas-empire",
+      "creature-the-fallen",
+      "998",
+      "981",
+      "1117",
+      "2372",
+      "magic-force",
+      "race-giant",
+      "race-gnome",
+      "creature-orcs",
+      "magic-twyl"
+    ],
+    "loreFile": "Seyiki.md",
+    "tags": [
+      "state",
+      "gnome",
+      "westwilds"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A distributed nation of dragonfly-riding gnomes living among the Chakatann pillars—the massive stone monuments left by the fallen Postronamas Empire in the western Piktiniti Desert.",
+    "parentName": "Piktiniti Desert"
   },
   {
     "id": "1823",
@@ -13157,7 +13409,7 @@
     "atmosphere": "nature",
     "blurb": "A moderate-sized mountain range runs diagonally from the southwest to the northeast, roughly bisecting the continent.",
     "parentName": "Ve",
-    "containsCount": 2
+    "containsCount": 3
   },
   {
     "id": "816",
@@ -13782,6 +14034,37 @@
     ],
     "atmosphere": "water",
     "blurb": "A sea bordering Central Aboyinzu."
+  },
+  {
+    "id": "nation-urzula",
+    "name": "Urzula",
+    "type": "nation",
+    "coordinates": [
+      395,
+      435
+    ],
+    "zoomLevel": 3,
+    "parentId": "1806",
+    "relatedIds": [
+      "1806",
+      "nation-dalizi-confederation",
+      "1817",
+      "1388",
+      "creature-gamori",
+      "creature-titan",
+      "magic-water",
+      "1823",
+      "creature-hags"
+    ],
+    "loreFile": "Urzula.md",
+    "tags": [
+      "state",
+      "city_state",
+      "elder_wilds"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A city-state built beneath massive waterfalls in the Seyiy region of the Elder Wilds—the only significant settlement in the region outside L'Coth D'hari.",
+    "parentName": "Elder Wilds"
   },
   {
     "id": "2582",
@@ -18429,6 +18712,34 @@
     "atmosphere": "civilization",
     "blurb": "An impact crater in the Celedrim Plains that resists being mapped or approached.",
     "parentName": "The Impact Craters"
+  },
+  {
+    "id": "manual-mpjrcf71-enapy",
+    "name": "Enapay",
+    "type": "nation",
+    "coordinates": [
+      185,
+      308
+    ],
+    "zoomLevel": 4,
+    "parentId": "2620",
+    "relatedIds": [
+      "2620",
+      "2662",
+      "2843",
+      "2712",
+      "4387",
+      "2676",
+      "race-naruaghin",
+      "race-dwelyn",
+      "manual-mphqwz19-951b6",
+      "2735"
+    ],
+    "tags": [],
+    "atmosphere": "civilization",
+    "blurb": "Ancient Dwelyn monarchy occupying the Green Wilds, its queens bonded to the emerald dragon Surrey Mahaila.",
+    "parentName": "Westrim",
+    "containsCount": 3
   },
   {
     "id": "3357",
@@ -30657,6 +30968,28 @@
     "atmosphere": "civilization",
     "blurb": "The capital of Vystrilik, situated in the central-western jungle at the base of the Tambrielle Mountains.",
     "parentName": "Vystrilik"
+  },
+  {
+    "id": "manual-mpjrcf71-vystr",
+    "name": "Vystrilik",
+    "type": "nation",
+    "coordinates": [
+      304,
+      275
+    ],
+    "zoomLevel": 4,
+    "parentId": "2857",
+    "relatedIds": [
+      "2857",
+      "3133",
+      "3014",
+      "3137"
+    ],
+    "tags": [],
+    "atmosphere": "civilization",
+    "blurb": "Trading nation controlling the Tambrielle mountain passes, capital at Vystril in the central-western jungle.",
+    "parentName": "Innerrim",
+    "containsCount": 13
   },
   {
     "id": "883",

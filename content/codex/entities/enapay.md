@@ -3,6 +3,8 @@ id: "manual-mpjrcf71-enapy"
 name: "Enapay"
 entityType: nation
 blurb: "Ancient Dwelyn monarchy occupying the Green Wilds, its queens bonded to the emerald dragon Surrey Mahaila."
+coordinates: [185, 308]
+zoomLevel: 4
 relations:
   - { rel: spatial, kind: within, target: "2620" }
 review:

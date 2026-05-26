@@ -3,6 +3,8 @@ id: "manual-mpjrcf71-vystr"
 name: "Vystrilik"
 entityType: nation
 blurb: "Trading nation controlling the Tambrielle mountain passes, capital at Vystril in the central-western jungle."
+coordinates: [304, 275]
+zoomLevel: 4
 review:
   aiWritten: true
   archetype: ai-ok

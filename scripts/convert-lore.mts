@@ -65,7 +65,7 @@ const slug = (s: string) =>
 /** First sentence of the first prose paragraph, ≤25 words, plain text. */
 function makeBlurb(loreLines: string[]): string {
   const para = loreLines.find((l) =>
-    l.trim() && !l.startsWith('#') && !l.startsWith('-') && !l.startsWith('*') && !/^Tags:/i.test(l.trim()));
+    l.trim() && !l.startsWith('#') && !l.startsWith('-') && !l.startsWith('*') && !/^(Tags|Links):/i.test(l.trim()));
   if (!para) return '';
   const plain = stripWikiLinks(para).replace(/[*_`]/g, ''); // de-link, strip emphasis / code ticks
   const sentence = plain.split(/(?<=[.!?])\s/)[0].trim();
@@ -102,6 +102,7 @@ function convert(srcPath: string, fileName: string) {
     text.split('\n').filter((l) => {
       const m = l.trim().match(/^Tags:\s*(.+)$/i);
       if (m) { m[1].split(',').forEach((t) => { const v = t.trim(); if (v) tags.add(v); }); return false; }
+      if (/^Links:/i.test(l.trim())) return false; // wiki nav artifact — drop
       return true;
     }).join('\n');
 

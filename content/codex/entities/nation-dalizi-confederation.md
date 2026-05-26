@@ -3,12 +3,16 @@ id: "nation-dalizi-confederation"
 name: "Dalizi Confederation"
 entityType: nation
 blurb: "A sprawling political entity comprising over forty member states—some true nations, others mere city-states—bound together by ancient treaties, mutual defense obligations, and a bewildering tangle…"
+coordinates: [350, 520]
+zoomLevel: 2
 tags: ["state", "confederation"]
 sources:
   - "nations_and_powers/states/Dalizi Confederation.md"
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: spatial, kind: within, target: "1388" }
 ---
 A sprawling political entity comprising over forty member states—some true nations, others mere city-states—bound together by ancient treaties, mutual defense obligations, and a bewildering tangle of marriages, debts, and grudges. The Confederation occupies the territories northwest, west, and southwest of Lake Tonactlet Chipe, making it one of the largest political entities in southern Aboyinzu.
 
