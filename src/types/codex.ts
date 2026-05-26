@@ -44,6 +44,8 @@ export interface CodexEntry {
   section: string;
   tags: string[];
   content: string;
+  /** TTRPG rules text, shown behind a toggle (off by default). */
+  mechanics?: string;
   sourceFile: string;
   sourceHeader: string;
   relatedIds?: string[];

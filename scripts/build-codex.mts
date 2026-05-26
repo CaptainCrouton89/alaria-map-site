@@ -41,6 +41,18 @@ interface Entity {
   /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
   metadata?: Record<string, unknown>;
   body: string;
+  /** TTRPG rules text split off from the lore body at the `<!-- mechanics -->` sentinel. */
+  mechanics?: string;
+}
+
+const MECH_SENTINEL = '<!-- mechanics -->';
+/** Split a body on the mechanics sentinel into lore `body` + optional `mechanics`. */
+function splitMechanics(content: string): { body: string; mechanics?: string } {
+  const i = content.indexOf(MECH_SENTINEL);
+  if (i < 0) return { body: content };
+  const body = content.slice(0, i).trim();
+  const mechanics = content.slice(i + MECH_SENTINEL.length).trim();
+  return mechanics ? { body, mechanics } : { body };
 }
 
 // Frontmatter keys with a dedicated home; everything else falls through to `metadata`.
@@ -70,7 +82,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
     metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
-    body: parsed.content.trim(),
+    ...splitMechanics(parsed.content.trim()),
   });
 }
 const byId = new Map(entities.map((e) => [e.id, e]));
@@ -222,6 +234,8 @@ const CATEGORY_BY_TYPE: Record<string, { name: string; slug: string }> = {
   plane: { name: 'Deities & Religion', slug: 'deities' },
   faction: { name: 'Factions & Organizations', slug: 'factions' },
   creature: { name: 'Creatures & Beings', slug: 'creatures' },
+  race: { name: 'Races & Peoples', slug: 'races' },
+  magic: { name: 'Magic & Knowledge', slug: 'magic' },
   artifact: { name: 'Artifacts & Relics', slug: 'artifacts' },
   event: { name: 'History & Events', slug: 'history' },
   era: { name: 'History & Events', slug: 'history' },
@@ -345,6 +359,7 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     section: cat.slug === 'geography' ? root.name : cat.name,
     tags: e.tags,
     content: e.body,
+    ...(e.mechanics ? { mechanics: e.mechanics } : {}),
     sourceFile: loreFileOf(e) ?? '',
     sourceHeader: e.name,
     relatedIds: [...related.get(e.id)!],

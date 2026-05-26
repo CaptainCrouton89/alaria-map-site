@@ -1,0 +1,100 @@
+---
+id: "creature-the-cold-that-hungers"
+name: "The Cold That Hungers"
+entityType: creature
+blurb: "The Cold That Hungers is the name the Fengruk give to whatever killed the titan Vorukar during the Second Eon."
+tags: ["entity", "ancient", "pale-peaks", "cosmic", "dormant", "titan-killer"]
+sources:
+  - "bestiary/The Cold That Hungers.md"
+review:
+  aiWritten: false
+  action: keep
+---
+The Cold That Hungers is the name the Fengruk give to whatever killed the titan Vorukar during the Second Eon. The stonescripts don't describe it directly—they describe only its effects: winter that moved with purpose, cold that consumed rather than preserved, and a presence so vast that Vorukar's death merely wounded it. The entity has not been seen since the Sundering, but the Fengruk believe it still exists, dormant somewhere beneath the Pale Peaks or the polar waste beyond.
+
+### What the Stonescripts Say
+The Fengruk records of Vorukar's death are fragmented, damaged by the very cataclysm they describe. What survives paints a picture of something that defies normal categorization:
+
+*"It came from the south in the deep winter, when the ice had swallowed the sea. Not a creature but a condition—the cold itself given will and hunger. Where it passed, the heat died. Not extinguished but consumed, drawn into something that grew colder with each feeding."*
+
+*"Vorukar stood against it at the mountain's edge. Force against entropy, will against absence. The titan struck with power enough to shatter continents. The Cold did not resist—it absorbed. Each blow fed it. Each exertion warmed it, and it drank that warmth."*
+
+*"In the end, Vorukar released everything he held—all his Force, all at once, in a single annihilating pulse. The mountains broke. The sea rushed in. And the Cold... retreated. Wounded, perhaps. Satisfied, perhaps. Or simply waiting."*
+
+The stonescripts don't claim Vorukar won. They claim he bought time.
+
+### Nature
+If the Cold That Hungers exists, it is not a creature in any conventional sense. The stonescripts describe it as a living absence—not a being that generates cold, but cold itself become aware and hungry. It doesn't attack; it consumes. Heat, life, motion, will—anything that represents energy or vitality feeds it.
+
+Scholars who study the records have proposed various theories:
+
+**Elemental manifestation**: A concentration of ice-aligned elemental force that achieved something like consciousness. The problem with this theory is that elemental manifestations don't normally possess hunger or purpose—they simply exist.
+
+**Planar intrusion**: Something from beyond the known planes, perhaps from the space between them. The Cold might be what exists in the absence of everything else—the natural state of reality when nothing warm enough to matter intrudes.
+
+**Primordial fragment**: A piece of the universe from before creation, when nothing existed to generate heat or light. Azus imposed order; Melera imposed harmony; but perhaps something remains that predates both—entropy given form, the universe's tendency toward cold death become an active force.
+
+**The Void's shadow**: A connection to Nilus, the Void plane, filtered through ice and absence rather than the typical manifestations of nothingness. The Cold might be what Void looks like when it touches a material world.
+
+None of these theories are verifiable. The Cold That Hungers, if it exists, has not manifested in any form scholars can study.
+
+### The Frostwalker Connection
+The Fengruk believe frostwalkers are extensions of the Cold That Hungers—not servants in any organized sense, but fragments of its nature wearing stolen forms. When something dies in the polar waste, the Cold fills the absence, animating the corpse with a pale reflection of its own hunger for warmth.
+
+This would explain several frostwalker characteristics: their single-minded pursuit of heat, their complete lack of self-preservation, their apparent inability to communicate or negotiate. They're not creatures with instincts—they're symptoms of something larger, probes sent north to feed the greater absence they serve.
+
+If this theory is correct, every frostwalker that reaches a settlement and extinguishes its fires is feeding the Cold That Hungers. Every life frozen contributes to something growing stronger in the south.
+
+### The Ice Wyrm Question
+Ice wyrms are harder to fit into the theory. They're clearly alive in ways frostwalkers are not—they eat, they grow, they avoid danger when possible. Some scholars argue they evolved naturally in the polar environment and have no connection to the Cold.
+
+Others point to the wyrms' ice-swimming ability—a property that seems to violate normal physics—and suggest they're a different kind of manifestation. Where frostwalkers are the Cold's hunger given form, ice wyrms might be its patience: predators that wait in the frozen dark, striking when opportunity presents, maintaining the Cold's presence without actively spreading it.
+
+The Fengruk officially take no position. What matters is that ice wyrms and frostwalkers both emerge from the Pale Peaks, both threaten Gondurak, and both must be stopped regardless of their ultimate nature.
+
+### Dormancy
+The Cold That Hungers has not manifested directly since the Sundering. Either Vorukar's final attack destroyed it, wounded it severely enough to require millennia of recovery, or satisfied it enough that it retreated to digest what it had consumed.
+
+The Fengruk prepare for the possibility that it's merely dormant. The Frostwatch exists not just to contain frostwalkers and ice wyrms, but to watch for signs that something larger is stirring. The priests of Azanfrain maintain vigils specifically to detect changes in the Pale Peaks—temperature drops that shouldn't happen, darkness that persists past dawn, ice that spreads against the normal patterns.
+
+They've detected nothing conclusive. Small anomalies occur occasionally, but nothing that definitively indicates the Cold is awakening. The Fengruk remain vigilant anyway. Vorukar bought time; they don't intend to waste it.
+
+### The Bleached Ruins
+The structures on the northern Pale Peaks slopes—ancient walls, foundations, towers frozen in permanent ice—may be connected to the Cold That Hungers. The architecture predates Fengruk settlement and doesn't match titan construction. Someone or something built in the Pale Peaks before the Sundering, and whatever they were doing there, they stopped.
+
+The Fengruk don't investigate these ruins. Their official position is that some knowledge isn't worth the risk of acquiring. Unofficially, the few expeditions that have approached the ruins have reported intense cold, visual distortions, and an overwhelming sense of being watched. One expedition didn't return at all.
+
+Whether the ruins were built to serve the Cold, contain it, study it, or some other purpose entirely remains unknown. The Fengruk have decided they don't need to know.
+
+### Signs of Awakening
+The Fengruk maintain a list of phenomena that would indicate the Cold That Hungers is becoming active again:
+
+**Temperature inversions**: Cold that flows uphill, against normal air patterns. Cold that persists in sheltered areas that should be warmer.
+
+**Light consumption**: Darkness that spreads despite adequate illumination. Fires that burn cold. Light sources that dim without apparent cause.
+
+**Mass frostwalker emergence**: Normal incursions involve dozens of frostwalkers per winter. Hundreds would suggest something is actively producing them rather than merely animating whatever corpses the waste provides.
+
+**Ice wyrm coordination**: The creatures are solitary predators. If they begin acting in concert—herding prey, coordinating attacks—something is directing them.
+
+**The sound**: Fengruk legends describe the Cold That Hungers as silent in its presence but preceded by a sound like wind through empty spaces. If the priests of Azanfrain hear that sound, they have standing orders to begin immediate evacuation of all populations south of the Bellowing Mountains.
+
+None of these signs have been observed at concerning levels. The Fengruk continue to watch.
+
+### What Would Happen
+If the Cold That Hungers fully awakens, the Fengruk don't believe they can stop it. Vorukar was a titan—a being of godlike power—and he could only wound it at the cost of his own existence. The Fengruk have no comparable force.
+
+Their contingency plans focus on delay and evacuation: hold the passes as long as possible, move the population north, and hope that whatever cosmic force balanced the Cold during the Second Eon manifests again. The forges would be lost. Gondurak would end. But some Fengruk might survive.
+
+This is the fear that underlies every aspect of Fengruk culture: that someday, their vigilance won't be enough, and the cold that took everything from them once will return to finish the job.
+
+### Hooks
+**The Warm Corpse**: A frostwalker has been captured that generates heat instead of cold—a body that should be frozen but burns with inner fire. The Frostwatch believes this is unprecedented. Someone in Morgrundar believes it's a sign that the Cold is learning to hide.
+
+**The Speaking Ice**: A trader claims to have heard words in the wind on the Shrapnel Strait—whispers in a language no one recognizes, coming from the direction of the Pale Peaks. The Fengruk officially dismiss this as imagination. Unofficially, scholars are reviewing the stonescripts for any mention of the Cold communicating.
+
+**The Retreat**: For the first time in recorded history, frostwalkers have been observed moving south—returning to the Pale Peaks rather than pressing north. The Frostwatch doesn't know what this means. The optimistic interpretation is that something is calling them back. The pessimistic interpretation is that something is gathering them.
+
+**The Dream**: Multiple Fengruk have reported the same nightmare: standing on ice under a black sky, watching something vast rise from the horizon. The dreams started three months ago and are becoming more frequent. The priests want to know if this is supernatural communication or coincidental anxiety. Either answer is troubling.
+
+**Vorukar's Bones**: A scholar claims to have found evidence that something of Vorukar survived the Sundering—that the titan's remains lie beneath the strait, and that the Force energy he released in his final moments is still contained there. If this reservoir could be accessed, it might provide a weapon against the Cold. Or it might release something that should stay contained.
