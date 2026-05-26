@@ -322,7 +322,6 @@ function main() {
       relatedIds,
       loreFile: entry.sourceFile,
       tags: entry.tags,
-      content: content ? content.trim() : undefined,
     };
 
     locations.push(location);
