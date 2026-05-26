@@ -31,7 +31,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "Aboyinzu stretches like a hooked tail along the southwestern edge of the known world.",
-    "containsCount": 7
+    "containsCount": 8
   },
   {
     "id": "388",
@@ -407,6 +407,7 @@
       "1485",
       "1648",
       "1700",
+      "wilderness-mikisapi-forest",
       "1410",
       "1488",
       "1487",
@@ -737,6 +738,7 @@
       "3498",
       "3558",
       "453",
+      "water-kro-shiik",
       "manual-mpihb6u5-600t7",
       "3547",
       "3607",
@@ -1897,6 +1899,7 @@
       "108",
       "72",
       "179",
+      "water-marmoroy-river",
       "131",
       "104",
       "340",
@@ -1945,7 +1948,7 @@
     ],
     "atmosphere": "water",
     "blurb": "Ve is a large, isolated continent to the far east of Alaria, separated from the main landmasses by vast ocean expanses.",
-    "containsCount": 36
+    "containsCount": 37
   },
   {
     "id": "4085",
@@ -1964,6 +1967,7 @@
       "4139",
       "3952",
       "4153",
+      "wilderness-scepter-mountains",
       "4093",
       "4140",
       "4106",
@@ -1995,7 +1999,7 @@
     "atmosphere": "civilization",
     "blurb": "Venalthier is the frozen polar region occupying the extreme southwest of Upoceax.",
     "parentName": "Upoceax",
-    "containsCount": 13,
+    "containsCount": 14,
     "borders": [
       {
         "id": "3902",
@@ -2027,6 +2031,7 @@
       "1767",
       "1781",
       "1788",
+      "poi-dragons-gate",
       "2217",
       "1777",
       "1786",
@@ -2096,6 +2101,7 @@
       "4270",
       "race-swordsmen",
       "2453",
+      "city-tollgate",
       "388",
       "creature-qorgath",
       "4342",
@@ -2118,7 +2124,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "The Western Isles occupy the waters between Clueanda to the north and Rimihuica to the south, marking the edge of the known world to the…",
-    "containsCount": 32,
+    "containsCount": 33,
     "borders": [
       {
         "id": "4324",
@@ -2271,6 +2277,7 @@
       "1172",
       "1107",
       "4165",
+      "wilderness-twaan-forests",
       "1174",
       "988",
       "1032",
@@ -2329,7 +2336,7 @@
     "atmosphere": "civilization",
     "blurb": "The Westwilds occupy the southwestern corner of Clueanda, forming a transitional zone between the frozen Northlands and the maritime regions to the south.",
     "parentName": "Clueanda",
-    "containsCount": 55,
+    "containsCount": 56,
     "borders": [
       {
         "id": "1327",
@@ -3126,7 +3133,7 @@
     "atmosphere": "civilization",
     "blurb": "A mystical region known for its ancient forests and the presence of the dragon Ziru.",
     "parentName": "Wanderlands",
-    "containsCount": 6,
+    "containsCount": 7,
     "borders": [
       {
         "id": "1865",
@@ -4139,7 +4146,8 @@
     ],
     "tags": [],
     "atmosphere": "nature",
-    "parentName": "Dalizi Wildlands"
+    "parentName": "Dalizi Wildlands",
+    "containsCount": 1
   },
   {
     "id": "manual-mph53941-93a8z",
@@ -4634,6 +4642,7 @@
       "4085",
       "3952",
       "4153",
+      "wilderness-scepter-mountains",
       "4106",
       "creature-nabuhe",
       "4154"
@@ -6190,6 +6199,7 @@
     "parentId": "4085",
     "relatedIds": [
       "4085",
+      "wilderness-scepter-mountains",
       "4106",
       "manual-mpihyyf5-f1xtw",
       "4117",
@@ -6244,6 +6254,7 @@
       "1867",
       "nation-dalizi-confederation",
       "2001",
+      "wilderness-hills-of-tharoz",
       "1875",
       "1520",
       "2079",
@@ -6262,7 +6273,7 @@
     "atmosphere": "civilization",
     "blurb": "A mountainous highland region positioned north and northeast of Lake Tonactlet Chipe.",
     "parentName": "Dalizi (Confederation)",
-    "containsCount": 26,
+    "containsCount": 27,
     "borders": [
       {
         "id": "1776",
@@ -7320,6 +7331,7 @@
       "1982",
       "1991",
       "2136",
+      "wilderness-hills-of-tharoz",
       "1875",
       "2067",
       "1520",
@@ -9447,6 +9459,7 @@
       "1164",
       "497",
       "1041",
+      "wilderness-twaan-forests",
       "981",
       "person-hermelia",
       "race-goblin",
@@ -10214,6 +10227,35 @@
     "parentName": "United Free Nations"
   },
   {
+    "id": "wilderness-mikisapi-forest",
+    "name": "Mikisapi Forest",
+    "type": "wilderness",
+    "coordinates": [
+      300,
+      460
+    ],
+    "zoomLevel": 3,
+    "parentId": "1388",
+    "relatedIds": [
+      "1388",
+      "1776",
+      "1544",
+      "1729",
+      "magic-light",
+      "magic-water",
+      "magic-dark"
+    ],
+    "loreFile": "Mikisapi Forest.md",
+    "tags": [
+      "forest",
+      "geography",
+      "island"
+    ],
+    "atmosphere": "nature",
+    "blurb": "An ancient forest covering Mikisapi Island, the landmass at the center of Deadloop.",
+    "parentName": "Aboyinzu"
+  },
+  {
     "id": "1978",
     "name": "Misanda Mulu",
     "type": "region",
@@ -10291,8 +10333,10 @@
       "1865",
       "2001",
       "2136",
+      "wilderness-hills-of-tharoz",
       "1875",
       "2146",
+      "poi-dragons-gate",
       "1754",
       "430",
       "race-goblin",
@@ -10403,6 +10447,7 @@
     "parentId": "4085",
     "relatedIds": [
       "4085",
+      "wilderness-scepter-mountains",
       "4140",
       "4106",
       "4100",
@@ -11570,7 +11615,7 @@
     "atmosphere": "civilization",
     "blurb": "A state in the Farlands.",
     "parentName": "Farlands",
-    "containsCount": 18,
+    "containsCount": 19,
     "borders": [
       {
         "id": "3573",
@@ -11856,6 +11901,37 @@
     "blurb": "A dramatic mountain range in the southeastern Sandreach Mountains, known for the distinctive red-orange coloration of its rock faces.",
     "parentName": "Sandreach Mountains",
     "containsCount": 2
+  },
+  {
+    "id": "wilderness-scepter-mountains",
+    "name": "Scepter Mountains",
+    "type": "wilderness",
+    "coordinates": [
+      58,
+      600
+    ],
+    "zoomLevel": 3,
+    "parentId": "4085",
+    "relatedIds": [
+      "4085",
+      "manual-mpihzt0w-8ry2f",
+      "manual-mpihyyf5-f1xtw",
+      "453",
+      "creature-nabuhe",
+      "magic-light",
+      "magic-water",
+      "manual-mphqwz19-951b6",
+      "magic-dark"
+    ],
+    "loreFile": "Scepter Mountains.md",
+    "tags": [
+      "mountains",
+      "geography",
+      "coast"
+    ],
+    "atmosphere": "nature",
+    "blurb": "A rugged coastal mountain range running along the western edge of Venalthier, from the Eceraen junction in the north to where the peaks disappear beneath…",
+    "parentName": "Venalthier"
   },
   {
     "id": "1382",
@@ -13501,6 +13577,7 @@
       "1761",
       "2040",
       "2001",
+      "wilderness-hills-of-tharoz",
       "plane-life-and-death",
       "1520",
       "2162",
@@ -13717,6 +13794,7 @@
     "relatedIds": [
       "981",
       "creature-turxis-golathi",
+      "wilderness-twaan-forests",
       "1095",
       "creature-twaan",
       "magic-earth",
@@ -13726,6 +13804,52 @@
     "tags": [],
     "atmosphere": "nature",
     "blurb": "The northern section of the Twaan Forests, Turxis Golathi is the oldest and densest part of the woodland.",
+    "parentName": "Westwilds"
+  },
+  {
+    "id": "wilderness-twaan-forests",
+    "name": "Twaan Forests",
+    "type": "wilderness",
+    "coordinates": [
+      112,
+      120
+    ],
+    "zoomLevel": 3,
+    "parentId": "981",
+    "relatedIds": [
+      "981",
+      "905",
+      "1172",
+      "1174",
+      "1173",
+      "1095",
+      "creature-cirthikin",
+      "manual-mpii94rh-4ulqj",
+      "947",
+      "race-goblin",
+      "2372",
+      "creature-twaan",
+      "magic-earth",
+      "magic-force",
+      "magic-light",
+      "magic-water",
+      "race-human",
+      "race-skaag",
+      "creature-orcs",
+      "manual-mphqwz19-951b6",
+      "magic-fire",
+      "magic-time"
+    ],
+    "loreFile": "Twaan Forests.md",
+    "tags": [
+      "forest",
+      "twaan",
+      "ley lines",
+      "fire",
+      "geography"
+    ],
+    "atmosphere": "nature",
+    "blurb": "The Twaan Forests are a sprawling woodland complex in the northeastern Westwilds, bounded by the Kharvorn Mountains to the east and the arid scrublands to…",
     "parentName": "Westwilds"
   },
   {
@@ -14280,6 +14404,7 @@
     "parentId": "4085",
     "relatedIds": [
       "4085",
+      "wilderness-scepter-mountains",
       "4106",
       "manual-mpihzt0w-8ry2f",
       "manual-mpihyyf5-f1xtw",
@@ -16938,6 +17063,7 @@
       "4166",
       "4294",
       "4324",
+      "city-tollgate",
       "manual-mph71itd-6g6tw",
       "magic-light",
       "magic-water",
@@ -17831,6 +17957,35 @@
     "tags": [],
     "atmosphere": "civilization",
     "parentName": "Thorum"
+  },
+  {
+    "id": "poi-dragons-gate",
+    "name": "Dragon's Gate",
+    "type": "poi",
+    "coordinates": [
+      374,
+      469
+    ],
+    "zoomLevel": 4,
+    "parentId": "1776",
+    "relatedIds": [
+      "1776",
+      "1798",
+      "manual-mphqwz19-951b6",
+      "magic-dark",
+      "magic-void",
+      "1805"
+    ],
+    "loreFile": "Dragon's Gate.md",
+    "tags": [
+      "poi",
+      "landmark",
+      "dragon",
+      "portal"
+    ],
+    "atmosphere": "dangerous",
+    "blurb": "A massive natural stone arch rising from the Sonagrev hills in eastern Dragonsong.",
+    "parentName": "Dragonsong"
   },
   {
     "id": "4208",
@@ -20933,6 +21088,55 @@
     "parentName": "Lier"
   },
   {
+    "id": "wilderness-hills-of-sorrow",
+    "name": "Hills of Sorrow",
+    "type": "wilderness",
+    "coordinates": [
+      392,
+      552
+    ],
+    "zoomLevel": 4,
+    "parentId": "manual-mph5px3o-6xkh4",
+    "relatedIds": [
+      "manual-mph5px3o-6xkh4"
+    ],
+    "loreFile": "Hills of Sorrow.md",
+    "tags": [],
+    "atmosphere": "nature",
+    "blurb": "The Hills of Sorrow form the southern boundary of the Rootspire Wilds, a broken range of sharp ridges and deep valleys that descend toward unknown…",
+    "parentName": "Rootspire Wilds"
+  },
+  {
+    "id": "wilderness-hills-of-tharoz",
+    "name": "Hills of Tharoz",
+    "type": "wilderness",
+    "coordinates": [
+      386,
+      484
+    ],
+    "zoomLevel": 4,
+    "parentId": "1865",
+    "relatedIds": [
+      "1865",
+      "2001",
+      "1875",
+      "1520",
+      "2079",
+      "1754",
+      "1776",
+      "manual-mpii94rh-4ulqj",
+      "1927",
+      "2372",
+      "magic-force",
+      "manual-mphqwz19-951b6"
+    ],
+    "loreFile": "Hills of Tharoz.md",
+    "tags": [],
+    "atmosphere": "nature",
+    "blurb": "The Hills of Tharoz mark the northeastern approach to the Foggy Mountains, a rumpled expanse of wind-scoured ridges and shallow valleys that separates the Dragonsong…",
+    "parentName": "Dalizi Highlands"
+  },
+  {
     "id": "1047",
     "name": "Hills to Nowhere",
     "type": "wilderness",
@@ -22223,6 +22427,35 @@
     "parentName": "Malo Kon Greikh"
   },
   {
+    "id": "water-kro-shiik",
+    "name": "Kro Shiik",
+    "type": "water",
+    "coordinates": [
+      55,
+      400
+    ],
+    "zoomLevel": 4,
+    "parentId": "3604",
+    "relatedIds": [
+      "3604",
+      "3607",
+      "manual-mphcbgsb-wykgk",
+      "magic-water",
+      "4423",
+      "manual-mphqwz19-951b6",
+      "magic-time"
+    ],
+    "loreFile": "Kro Shiik.md",
+    "tags": [
+      "lake",
+      "geography",
+      "rakite"
+    ],
+    "atmosphere": "water",
+    "blurb": "The central lake of Rakite—a long, shallow body of water fed by the Ver Pes river and drained toward the eastern coast.",
+    "parentName": "Rakite"
+  },
+  {
     "id": "4473",
     "name": "Kumi Wood",
     "type": "wilderness",
@@ -22897,6 +23130,7 @@
       "1174",
       "905",
       "plane-elemental-planes",
+      "wilderness-twaan-forests",
       "creature-cirthikin",
       "981",
       "947",
@@ -23000,6 +23234,36 @@
     "atmosphere": "civilization",
     "blurb": "A city-state in Dalizi.",
     "parentName": "Shemu"
+  },
+  {
+    "id": "water-marmoroy-river",
+    "name": "Marmoroy River",
+    "type": "water",
+    "coordinates": [
+      548,
+      232
+    ],
+    "zoomLevel": 4,
+    "parentId": "1",
+    "relatedIds": [
+      "1",
+      "1520",
+      "32",
+      "245",
+      "224",
+      "338",
+      "magic-water",
+      "race-pixie"
+    ],
+    "loreFile": "Marmoroy River.md",
+    "tags": [
+      "river",
+      "geography",
+      "ve"
+    ],
+    "atmosphere": "water",
+    "blurb": "The largest northern tributary of the Misery River, the Marmoroy flows south from the highlands near Shyona's interior before joining the main channel east of…",
+    "parentName": "Ve"
   },
   {
     "id": "2067",
@@ -27278,7 +27542,8 @@
     "zoomLevel": 4,
     "parentId": "1776",
     "relatedIds": [
-      "1776"
+      "1776",
+      "poi-dragons-gate"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -28557,6 +28822,7 @@
     "relatedIds": [
       "1475",
       "1731",
+      "wilderness-mikisapi-forest",
       "manual-mphbt2hf-hd923",
       "1388",
       "1544",
@@ -29127,6 +29393,7 @@
     "relatedIds": [
       "1066",
       "1040",
+      "wilderness-twaan-forests",
       "manual-mpii94rh-4ulqj",
       "creature-twaan",
       "manual-mphqwz19-951b6",
@@ -29967,6 +30234,41 @@
     "parentName": "Ios"
   },
   {
+    "id": "city-tollgate",
+    "name": "Tollgate",
+    "type": "city",
+    "coordinates": [
+      40,
+      220
+    ],
+    "zoomLevel": 4,
+    "parentId": "4165",
+    "relatedIds": [
+      "4165",
+      "4201",
+      "4166",
+      "4294",
+      "388",
+      "manual-mph71itd-6g6tw",
+      "4262",
+      "4276",
+      "magic-force",
+      "magic-water",
+      "4285",
+      "4310",
+      "magic-fire"
+    ],
+    "loreFile": "Tollgate.md",
+    "tags": [
+      "city",
+      "state",
+      "nation"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A fortified city-state occupying a strategic island at the mouth of Phyndarr Sound—the self-proclaimed 'Gatekeepers of the North.' Tollgate charges tolls on ships passing between…",
+    "parentName": "Western Isles"
+  },
+  {
     "id": "1924",
     "name": "Tongueroot Forest",
     "type": "wilderness",
@@ -30462,6 +30764,7 @@
       "315",
       "3657",
       "3627",
+      "water-kro-shiik",
       "4423",
       "manual-mphqwz19-951b6",
       "magic-fire",
@@ -39044,6 +39347,7 @@
     "relatedIds": [
       "4085",
       "4139",
+      "wilderness-scepter-mountains",
       "plane-life-and-death",
       "magic-languages",
       "manual-mpii94rh-4ulqj",
@@ -40971,6 +41275,7 @@
       "1865",
       "nation-dalizi-confederation",
       "2155",
+      "poi-dragons-gate",
       "2162",
       "1899",
       "1754",
@@ -64971,6 +65276,7 @@
       "creature-the-fallen",
       "3627",
       "manual-mpii94rh-4ulqj",
+      "water-kro-shiik",
       "magic-light",
       "magic-water",
       "manual-mphqwz19-951b6",
@@ -64996,6 +65302,7 @@
     "relatedIds": [
       "3604",
       "3632",
+      "water-kro-shiik",
       "manual-mpii11ug-g92kn",
       "race-halfling",
       "manual-mpii16li-ifz3i",
@@ -65028,6 +65335,7 @@
       "3525",
       "3657",
       "3606",
+      "water-kro-shiik",
       "manual-mphcbgsb-wykgk",
       "magic-earth",
       "magic-water",
