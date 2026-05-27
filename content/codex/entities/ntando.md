@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Upoceax.md#L403"]
 relations:
   - { rel: spatial, kind: within, target: "3390" }
   - { rel: spatial, kind: borders, target: "manual-mpii72yw-mnsjt", note: "east" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-qindo" }
 review:
   aiWritten: true
   archetype: ai-ok

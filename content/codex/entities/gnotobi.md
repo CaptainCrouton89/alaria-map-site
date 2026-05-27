@@ -2,7 +2,7 @@
 id: "148"
 name: "Gnotobi"
 entityType: city
-blurb: "The orange city."
+blurb: "Lakeside monopoly city in the Dunes of Evioli where the oligarchic Harvest Council grows obscenely rich selling Orange Flake to the world."
 coordinates: [529, 223]
 zoomLevel: 4
 tags: ["citystate", "settlement"]
@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Ve.md#L1307"]
 relations:
   - { rel: spatial, kind: within, target: "108" }
 ---
-The orange city. Gnotobi sprawls along the shores of its vast lake in the Dunes of Evioli, a haze of refinement smoke hanging over its warehouses and the sweet-chemical smell of processing hanging in the air. This is the only place in the world where Orange Flake is made—and that monopoly has made Gnotobi obscenely wealthy.
+Gnotobi sprawls along the shores of its vast lake in the Dunes of Evioli, a haze of refinement smoke hanging over its warehouses and the sweet-chemical smell of processing hanging in the air. This is the only place in the world where Orange Flake is made—and that monopoly has made Gnotobi obscenely wealthy.
 
 The lake itself dominates everything. Miles across, shallow, warm, and carpeted with the distinctive orange algae that grows nowhere else. From the surrounding dunes, the water looks like molten copper at sunset. Up close, it smells of salt and something faintly medicinal.
 

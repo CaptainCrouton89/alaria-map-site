@@ -9,6 +9,7 @@ tags: ["jungle", "dangerous", "frontier"]
 sources: ["all_sections_formatted/Rimihuica.md#L5629"]
 relations:
   - { rel: spatial, kind: within, target: "2453" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-drasnian" }
 review:
   aiWritten: true
   archetype: ai-ok

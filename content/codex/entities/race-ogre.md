@@ -18,23 +18,9 @@ Culturally, ogres mate for life but live in separate tribes divided by gender, r
 - **Height:** 7-8 feet
 - **Weight:** 300-400 pounds
 
-### Silzar (Plains Ogre)
-The Silzar are nomadic ogres who have mastered the art of mounted warfare on massive war mammoths. They roam the plains of Silwyn, their mounts serving as mobile artillery platforms mounted with massive cannons and ballistae. Gruff and patriarchal, they adhere to a strict code of honor that governs their nomadic lives.
-
-The Silzar value their weapons above all else, treating them as sacred objects passed down through generations. A Silzar's cannon has a name, a history, and is considered an extension of the warrior's soul. To lose one's weapon to an enemy is a shame that can only be cleansed by reclaiming it or dying in the attempt.
-
-#### Aspects
-- Mobile artillery
-- Code of the plains
-
-### Groyza (Swamp Ogre)
-The Groyza are swamp-dwelling ogres who have adapted to the murky waters and dense vegetation of the southern marshlands. Their skin has taken on a greenish-brown mottled pattern that blends perfectly with their boggy homes, and their bodies have grown slightly leaner than their plains cousins—though still massive by any other race's standards.
-
-The Groyza are master ambush predators, using the swamp's natural concealment to surprise prey and enemies alike. They are also skilled herbalists, brewing potent poisons and medicines from the unique flora of their wetland homes. Other races approach Groyza territory with extreme caution, for the swamps are full of hidden dangers—and the ogres are often the least of them.
-
-#### Aspects
-- The swamp provides
-- Patient as a crocodile
+### Heritages
+- **Silzar** (Plains Ogre) — Nomadic mounted warriors who ride war mammoths equipped with cannons and ballistae across the plains of Silwyn. See [[race-ogre-silzar]].
+- **Groyza** (Swamp Ogre) — Camouflaged swamp ambushers and skilled herbalists who brew potent poisons from the flora of the southern marshlands. See [[race-ogre-groyza]].
 
 <!-- mechanics -->
 

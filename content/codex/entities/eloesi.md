@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "732", note: "S" }
   - { rel: spatial, kind: borders, target: "567", note: "E" }
   - { rel: spatial, kind: within, target: "9000" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-eloweir" }
 review:
   aiWritten: true
   archetype: ai-ok

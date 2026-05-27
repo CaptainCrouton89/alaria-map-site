@@ -9,6 +9,8 @@ tags: ["poi", "landmark", "dragon", "portal"]
 sources: ["all_sections_formatted/Aboyinzu.md#L3061"]
 relations:
   - { rel: spatial, kind: within, target: "1388" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-wispen" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-grendel" }
 review:
   aiWritten: true
   archetype: ai-ok

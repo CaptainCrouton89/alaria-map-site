@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3573", note: "S" }
   - { rel: spatial, kind: borders, target: "3498", note: "SE" }
   - { rel: history, kind: participatedIn, target: "event-campaign-roule-invades" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-rakiten" }
 ---
 A state in the Farlands.
 

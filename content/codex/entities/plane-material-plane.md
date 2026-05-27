@@ -37,6 +37,6 @@ Massive, low hanging stalactites constantly pour forth lava from above the Waste
 #### The Edges of the World
 **North/South/East/West**: if you walk far enough in any of the cardinal direction, eventually you will wrap around the side of the world and into Celestia.
 
-**Up**: Although it is difficult, by traveling directly up far enough, you eventually reach the Astral Sea, and then the Astral Plane itself. 
+**Up**: Although it is difficult, by traveling directly up far enough, you eventually reach the Astral Sea, and then the Astral Plane itself.
 
-**Down**: Reaching Malstaris by foot is by all practical means—impossible. Instead, those who wish to journey there travel via Deoric magic.
+**Down**: The material slab continues physically downward through rock into Emphathum, then Phlethageros, then the Wastes. Continuing past the Wastes—off the underside of the slab itself—brings you into Malstaris. Malstaris is both the direct counterpart to the Astral Plane (Astral is up; shadows, Nydus, the Black Sun are down) and the literal destination of physical descent past the Wastes.

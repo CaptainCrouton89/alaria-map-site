@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L682"]
 relations:
   - { rel: spatial, kind: within, target: "1464" }
   - { rel: polity, kind: capitalOf, target: "1464" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-windorf" }
 review:
   aiWritten: true
   archetype: ai-ok

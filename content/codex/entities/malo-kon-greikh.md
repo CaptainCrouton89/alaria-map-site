@@ -9,6 +9,7 @@ tags: ["state", "nation", "giants"]
 sources: ["all_sections_formatted/Upoceax.md#L4053"]
 relations:
   - { rel: spatial, kind: within, target: "3844" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant" }
 review:
   aiWritten: true
   archetype: ai-ok

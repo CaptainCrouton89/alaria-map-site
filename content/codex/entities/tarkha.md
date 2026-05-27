@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L748"]
 relations:
   - { rel: spatial, kind: within, target: "2530" }
   - { rel: polity, kind: capitalOf, target: "2530" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
 review:
   aiWritten: true
   archetype: ai-ok

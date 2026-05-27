@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L6888"]
 relations:
   - { rel: spatial, kind: within, target: "3300" }
   - { rel: polity, kind: capitalOf, target: "3300" }
+  - { rel: culture, kind: inhabitedBy, target: "race-alekroin" }
 review:
   aiWritten: true
   archetype: ai-ok

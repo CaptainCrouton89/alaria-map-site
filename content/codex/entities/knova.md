@@ -9,6 +9,8 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Western_Isles.md#L1161"]
 relations:
   - { rel: spatial, kind: within, target: "4165" }
+  - { rel: culture, kind: inhabitedBy, target: "race-triton" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-drachma" }
 review:
   aiWritten: true
   archetype: ai-ok

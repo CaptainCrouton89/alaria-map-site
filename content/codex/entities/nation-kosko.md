@@ -1,7 +1,7 @@
 ---
 id: "nation-kosko"
 name: "Kosko"
-entityType: nation
+entityType: region
 blurb: ""
 tags: ["state"]
 sources:

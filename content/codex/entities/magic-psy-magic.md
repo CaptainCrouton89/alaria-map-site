@@ -52,7 +52,7 @@ Some are born with natural sensitivity; for them, training focuses on control. O
 | **Perception** | Heard as whispers/images | Felt as harmony/dissonance |
 | **Users** | Telepaths, syncopaths, psy mages | Druids, fae, bards |
 
-Some scholars believe Faesong and Psywinds are two aspects of the same phenomenon—that Melera's music is what gives Ezz its capacity for carrying thought and emotion. Others argue they are distinct but complementary, like two instruments playing in the same orchestra.
+Faesong and the Psywinds are two faces of the same Ezz — not the same force, but two halves of one substrate. Psywinds carry thought and intention; Faesong carries emotion and harmony. Together they are what Ezz is.
 
 ### Dangers
 The Psywinds are not a safe medium:

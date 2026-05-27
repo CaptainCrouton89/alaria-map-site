@@ -8,7 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L6001"]
 relations:
   - { rel: spatial, kind: within, target: "1248" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-sennites" }
 ---
 A city-state in the Celedrim Plains.
 

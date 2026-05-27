@@ -14,6 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1179", note: "NW" }
   - { rel: spatial, kind: borders, target: "1036", note: "SW" }
   - { rel: spatial, kind: borders, target: "1137", note: "SE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-tarni" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["lake", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L3865"]
 relations:
   - { rel: spatial, kind: within, target: "1035" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-griebi" }
 review:
   aiWritten: false
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["state", "nation", "human"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8836"]
 relations:
   - { rel: spatial, kind: within, target: "2368" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -1,7 +1,7 @@
 ---
 id: "nation-postronamas-empire"
 name: "Postronamas Empire"
-entityType: nation
+entityType: region
 blurb: "An ancient civilization that rose to greatness through mastery of twyl crystals, built an empire spanning the western Westwilds, and collapsed into madness and civil…"
 coordinates: [25, 155]
 zoomLevel: 2
@@ -13,6 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "1114" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 ---
 An ancient civilization that rose to greatness through mastery of twyl crystals, built an empire spanning the western Westwilds, and collapsed into madness and civil war when they pushed too deep into their own power.
 

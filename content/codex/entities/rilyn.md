@@ -9,6 +9,7 @@ tags: ["state", "citystate", "nation"]
 sources: ["all_sections_formatted/Upoceax.md#L663"]
 relations:
   - { rel: spatial, kind: within, target: "3346" }
+  - { rel: culture, kind: inhabitedBy, target: "race-splinkreen" }
 ---
 A city-state on Petrona Septia Island in the Seacleft Coast region. Located north/northeast of Ios and southeast of Moigos, Rilyn sits within the forest of Puma Wood on the northeastern side of the Screech Peaks (Ios lies on the southwestern side of the range).
 

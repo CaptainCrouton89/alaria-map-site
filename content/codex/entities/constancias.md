@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L2420"]
 relations:
   - { rel: spatial, kind: within, target: "1670" }
   - { rel: polity, kind: capitalOf, target: "1670" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-amverela" }
 ---
 The capital of Qintas, a city of white stone and silver filigree built on terraces rising from the coastal plain. Constancias is beautiful in the way that only Amverela construction can be—every building positioned to catch light at optimal angles, every street aligned with sight lines to distant landmarks, every public space designed for contemplation.
 

@@ -16,27 +16,9 @@ Savage, bestial humanoids that combine the worst aspects of predatory animals wi
 - **Height:** Varies by subrace
 - **Weight:** Varies by subrace
 
-### Skree (The Pack Runners)
-The smaller and more numerous of the Chulpe subspecies, Skree are vicious pack hunters roughly the size of large wolves. What they lack in individual strength compared to their Terrogone cousins, they more than make up for in speed, cunning, and sheer bloodthirsty aggression. Skree society is built around loose pack structures that form and dissolve based on hunting success and dominance displays. They are known for their hit-and-run tactics, using their superior numbers and coordination to bring down prey much larger than themselves.
-
-Skree live in the harsh borderlands and wilderness areas, often competing with their larger Terrogone relatives for territory and prey. Their lean, wiry builds make them excellent climbers and runners, allowing them to pursue fleeing victims across virtually any terrain. While less intelligent than Terrogones, Skree possess a feral cunning that makes them expert ambush predators. They communicate through a complex series of growls, yips, and body language that allows entire packs to coordinate attacks with frightening efficiency.
-
-The social structure of Skree packs is fluid and violent, with leadership constantly shifting as members challenge each other for dominance. They have no permanent settlements, instead following game trails and establishing temporary camps wherever the hunting is good. Skree reproduction is rapid, with large litters ensuring their numbers remain high despite their dangerous lifestyle and frequent conflicts with other predators.
-
-#### Aspects
-- Bloodthirsty pack hunter
-- Recklessly aggressive
-
-### Terrogones (The Bone Crushers)
-The massive, terrifying cousins of the Skree, Terrogones are apex predators that stand six feet high even when moving on all fours. These hulking monstrosities make their home in the savage wasteland of Echem Yiakraxis, where they have adapted to be the ultimate hunters in one of the world's most dangerous regions. Unlike their smaller Skree relatives, Terrogones possess enough intelligence to use crude tools, set elaborate traps, and employ sophisticated hunting strategies that have made them the undisputed masters of their domain.
-
-Terrogone society is built around small family groups led by the largest and most successful hunters. These family units claim vast territories within Echem Yiakraxis, marking their borders with the bones of their victims and engaging in brutal conflicts with neighboring groups over prime hunting grounds. Their intelligence, while not matching that of most humanoid races, is sufficient for them to understand fear as a weapon, often keeping captured prey alive for days to terrorize other potential victims.
-
-The physical presence of a Terrogone is overwhelming—their massive frames are covered in thick, mottled fur that provides protection against the harsh environment of their homeland, while their enormous heads house jaws capable of crushing armor and bone with equal ease. They have developed a complex relationship with the twisted ecosystem of Echem Yiakraxis, serving as both apex predator and, in some cases, protector of the region's most dangerous secrets. Their reproduction is slow and deliberate, with mated pairs raising their young together for several years before the offspring are strong enough to claim their own territory.
-
-#### Aspects
-- Apex predator with insatiable hunger
-- Monstrous and intimidating presence
+### Heritages
+- **Skree** (The Pack Runners) — Vicious pack hunters who use speed and coordination to overwhelm prey much larger than themselves. See [[race-chulpe-skree]].
+- **Terrogones** (The Bone Crushers) — Massive apex predators of Echem Yiakraxis with jaws that crush armor; sophisticated hunters and undisputed masters of their domain. See [[race-chulpe-terrogones]].
 
 <!-- mechanics -->
 

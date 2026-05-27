@@ -11,6 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "3341" }
   - { rel: spatial, kind: borders, target: "3662", note: "north" }
   - { rel: spatial, kind: borders, target: "3844", note: "west" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-gezzerin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-thrygun" }
 review:
   aiWritten: true
   archetype: ai-ok

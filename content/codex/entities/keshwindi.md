@@ -9,6 +9,7 @@ tags: ["citystate", "settlement"]
 sources: ["all_sections_formatted/Ve.md#L1801"]
 relations:
   - { rel: spatial, kind: within, target: "179" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
 ---
 The city-state of the nameless. Keshwindi rises from the Hills of Dolor like a rebuke to the desert that was meant to kill its founders—a sprawl of mud-brick buildings, shaded markets, and terraced gardens fed by deep wells. Its people are halflings: small in stature, fierce in pride, and bound together by the shared disgrace that brought them here.
 

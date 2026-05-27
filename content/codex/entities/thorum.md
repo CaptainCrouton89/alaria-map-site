@@ -2,7 +2,7 @@
 id: "359"
 name: "Thorum"
 entityType: region
-blurb: "A state in Ve."
+blurb: "Northernmost of the Widebarrow mountain states—a dwarven highland kingdom caught between Shyona's cultural gravity and the isolation of altitude."
 coordinates: [557, 229]
 zoomLevel: 2
 tags: ["state", "nation"]
@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: spatial, kind: borders, target: "338", note: "north" }
   - { rel: spatial, kind: borders, target: "92", note: "south" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -18,6 +19,8 @@ review:
   notes: "Corrected: Dappled Forest direction changed from 'eastern face' to 'western face' of Steadfast range (Dappled Forest [541,229] is west of Steadfast [554,229]). Graph fix applied: south border changed from 224 (Locquine) to 92 (Dern)."
 ---
 Thorum is the northernmost of the Widebarrow mountain states, the uppermost tier of a range whose middle layer belongs to Dern and whose lowest, most contested depths give way to Mez. Where Dern endures a grinding, generational siege from below, Thorum endures altitude, isolation, and a frontier with Shyona that is more often cold than contested.
+
+Like its southern neighbor, Thorum is dwarven in foundation—highland clans whose strongholds predate the current state structure by centuries. Over time, the northern frontier with Shyona drew a secondary population of migrants from across the border, whose descendants gave Thorum's eastern towns their distinctive naming patterns. The two communities have grown into a common highland identity, but the older dwarven clans still hold the Steadfast passes and the deeper mines.
 
 The state's western half is defined by the Steadfast Mountains—more dramatic and less forgiving than Dern's central peaks—and the Dappled Forest that runs along their western face. The terrain opens eastward into the Greumtuk plains, the flattest and most workable ground in Thorum, where most of the population concentrates.
 

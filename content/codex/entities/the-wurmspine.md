@@ -8,6 +8,10 @@ zoomLevel: 2
 sources: ["all_sections_formatted/Rimihuica.md#L51"]
 relations:
   - { rel: spatial, kind: within, target: "2455" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-coghead" }
+  - { rel: culture, kind: inhabitedBy, target: "race-rhea" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-stone-men" }
 ---
 The massive mountain range that forms Tarkhon's northern frontier, separating the empire from the orcish Wildwood and stretching from the coastal regions in the west to the steppes in the east. The Wurmspine is not a single chain but a complex system of interconnected ranges, peaks, and highland regions.
 

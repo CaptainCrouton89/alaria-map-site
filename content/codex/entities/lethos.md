@@ -11,8 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "3151" }
   - { rel: spatial, kind: borders, target: "3178", note: "north" }
   - { rel: culture, kind: inhabitedBy, target: "creature-darklings" }
-  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
   - { rel: culture, kind: inhabitedBy, target: "race-faeja" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-darkling" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -45,7 +45,7 @@ Then came the Night of Roots.
 
 The provincial records end on the 15th of Third Quarter, 452 PR. The next morning, Gorathi scouts from a border outpost found Qlyp Augo silent. Every building stood intact. Every door was closed. Inside, nothing—no bodies, no blood, no signs of violence. Three thousand people simply *gone*. The only trace was the roots. Roots had grown up through the stone floors overnight, threading through every room, and when the scouts looked closely, they found the roots had shapes. Hands. Faces. The impression of screaming mouths.
 
-The survivors—a few hundred who'd somehow been changed rather than taken—emerged from the swamps days later. They were no longer fully human. The jungle had accepted them as its own. They became the Gillykin.
+The survivors—a few hundred who'd somehow been changed rather than taken—emerged from the swamps days later. They were no longer fully human. The jungle had accepted them as its own. They became the Rootborn.
 
 Gorath does not speak of what happened at Qlyp Augo. The provincial records were sealed, then lost, then deliberately destroyed. But somewhere in the military archives in Azantir, there is a single standing order: *Lethos is forbidden.*
 
@@ -71,9 +71,9 @@ The villages of Lethos are small, rarely exceeding a few hundred residents. They
 
 **Ohoka** — A Darkling village in the deep jungle, where the canopy is so thick that true daylight never reaches the forest floor. Ohoka's residents are the keepers of the darkness, the specialists who ensure that the supernatural shadow blanketing Lethos remains deep enough to hide and strong enough to trap. They are also the closest thing Lethos has to a military—when threats arise, Ohoka's hunters move through the darkness to eliminate them.
 
-**Mintai** — Built around a freshwater spring that somehow remains clear despite the brackish swamp surrounding it, Mintai is the village of memory. Its residents—a mix of Faeja, Darklings, and a few Gillykin—maintain the oral histories of Lethos, including the true account of the Binding and the Night of Roots. They are the only ones who speak the names of the Gorathi dead, because someone must remember them to keep them bound.
+**Mintai** — Built around a freshwater spring that somehow remains clear despite the brackish swamp surrounding it, Mintai is the village of memory. Its residents—a mix of Faeja, Darklings, and a few Rootborn—maintain the oral histories of Lethos, including the true account of the Binding and the Night of Roots. They are the only ones who speak the names of the Gorathi dead, because someone must remember them to keep them bound.
 
-**Eptos** — The newest village, established only a century ago near the ruins of Qlyp Augo. Eptos serves as a buffer between the ruins and the living jungle, monitoring the Gillykin and ensuring that whatever sleeps in the drowned towers stays sleeping. Its residents are grim, fatalistic, and drink more than the other villages consider healthy.
+**Eptos** — The newest village, established only a century ago near the ruins of Qlyp Augo. Eptos serves as a buffer between the ruins and the living jungle, monitoring the Rootborn and ensuring that whatever sleeps in the drowned towers stays sleeping. Its residents are grim, fatalistic, and drink more than the other villages consider healthy.
 
 #### The Jungle That Remembers
 
@@ -105,7 +105,7 @@ Some in Lethos believe this is fear. Others believe it's calculation—better to
 
 **The Binding Weakens** — The druids of Erua report that the Binding has been weakening for decades. The maintenance rituals require more effort each year; the dead are more restless; the roots grow more aggressively. Someone needs to find out why—and whether it can be reversed.
 
-**Gillykin Secrets** — A Gillykin has contacted outsiders for the first time in living memory, claiming to have information about something buried beneath Qlyp Augo. Something the original Gorathi found. Something that might be why the druids chose this particular place for the Binding.
+**Rootborn Secrets** — A Rootborn has contacted outsiders for the first time in living memory, claiming to have information about something buried beneath Qlyp Augo. Something the original Gorathi found. Something that might be why the druids chose this particular place for the Binding.
 
 **Veleth's Heir** — The druid at Xyrionn is finally dying—truly dying, after centuries of maintaining their vigil. They need a successor, someone willing to learn the maze, the Binding, and the names of three thousand dead. They're looking beyond Lethos, because everyone in Lethos knows what the job actually requires.
 

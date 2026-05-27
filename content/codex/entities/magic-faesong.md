@@ -35,7 +35,7 @@ Faesong and the Psywinds are counterparts—two ambient magical forces that flow
 | **Perception** | Felt as harmony/dissonance | Heard as whispers/images |
 | **Users** | Druids, fae, bards | Telepaths, syncopaths, psy mages |
 
-Some scholars believe Faesong and Psywinds are two aspects of the same phenomenon—that Melera's music *is* what gives Ezz its capacity for carrying thought and emotion. Others argue they are distinct but complementary, like two instruments playing in the same orchestra.
+Faesong and the Psywinds are two faces of the same Ezz — not the same force, but two halves of one substrate. Psywinds carry thought and intention; Faesong carries emotion and harmony. Together they are what Ezz is.
 
 ### Melera's Influence
 Though imprisoned, Melera's presence is felt wherever Faesong is strong:

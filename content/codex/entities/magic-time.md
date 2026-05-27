@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: channels, target: "400", note: "Izzus thread surfaces in Besnoumeru's time-strangeness" }
 ---
 Time is one of the nine fundamental elements in Kethic elementalism.
 

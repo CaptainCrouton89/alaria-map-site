@@ -18,117 +18,19 @@ Most goblins live in communities around a single goblin lineage. Therefore, all 
 - **Height:** 2.5-3.5 feet
 - **Weight:** 40-100 pounds
 
-### Scalawag
-Scalawag goblins are aptly named for their mischievous, sneaky, and up-to-no-good nature. They are viewed more as pests than as people by many of the intelligent beings of Alaria, and from a scientific perspective, their behaviors is somewhat similar to that of ants. However; living among Scalawag society shows a vivid, colorful culture of merriment, passion, and duty. Most Scalawag are born into enormous broods, and are expected to defend their lineage of goblins. These goblins will spend most of their lives doing just that, along with anything else they feel like doing. Besides the general wellbeing of the community, though, scalawags have few other obligations, and will sometimes devote horrifying amounts of time to the most absurd activities for fun or curiosity.
-
-Scalawag can be found across the mountains and scattered throughout most cultural hubs, and are known for their incredible performers, parties, and oddly enough, philosophers.
-
-#### Aspects
-- Emotionally turbulent
-- Impulsive and improvisational
-
-### Etherweaver
-Etherweavers get their name for their longtime mastery over the non-basic elements—light, dark, force, time, and void. The entire etherweaver bloodline is interwoven with these elements, and every goblin is born with an attunement to one of those elements.
-
-Etherweavers are generally more reserved and cautious than their Scalawag cousins. They value preparation, and are usually more conscientious, even if not knowledgable, of the world beyond the brood. Etherweavers are also usually adept at protecting their broods using magic, and therefore require fewer goblins to protect, meaning that etherweaver communities are much smaller, ranging in the 10s to 100s. The smaller numbers leads to a greater sense of individuality among the etherweavers, and means that serving the brood is less of a duty and more of a commitment to family.
-
-The etherweavers who leave the brood usually go on to become mystics and shamans, as their natural affinity for the more non-basic elements gives them a leg up over others, though etherweavers can be found in nearly any other profession as well—having elemental attunements can always come in handy.
-
-#### Aspects
-- Level-headed
-- Reflective and thoughtful
-
-### Coghead
-The Cogheads are ingenious goblins who have embraced the marriage of flesh and machinery. Living within a massive hollowed-out machine in Kobuk, they have spent generations perfecting the art of mechanical augmentation, replacing or enhancing their natural body parts with intricate contraptions and gear-driven devices.
-
-These goblins harbor a particular hatred for the Echean gnomes, viewing them as inferior tinkerers who lack the courage to truly commit to their craft. Where gnomes merely build external devices, Cogheads integrate machinery directly into their bodies, becoming living testaments to their engineering prowess.
-
-#### Aspects
-- Flesh is weakness, gears are strength
-- Gnomes are inferior tinkerers
-
-### Darkling
-The Darklings are pitch-black goblins who dwell in the shadowy realm of Lethos, their skin so dark it seems to absorb light itself. These unsettling creatures have adapted to perpetual darkness, subsisting on a diet of rodents and bats while developing an unnatural mastery over shadow itself.
-
-Unlike other goblins, Darklings are genuinely frightening, their darkness attunement creating impenetrable shadows that only they can see through. They move like living nightmares through their underground lairs, and those who encounter them in the dark rarely live to tell the tale.
-
-#### Aspects
-- Child of eternal darkness
-- Predator in the shadows
-
-### Rudding
-The Ruddings are small, mysterious goblins with beady red eyes who inhabit the otherworldly copper and brick temples of the Copper Hills. These enigmatic creatures are driven by an unrelenting sense of justice and vengeance, carefully tracking every slight and wrong committed against them or their kin.
-
-Despite their vengeful nature, Ruddings are remarkably skilled Deoric enchanters who have domesticated the massive Desert Mammoths. They will pursue slow, methodical revenge against wrongdoers unless proper reparations are offered in the form of copper or copper jewelry, which they prize above all else.
-
-#### Aspects
-- Vengeance delayed is vengeance perfected
-- Copper is the currency of justice
-
-### Blitzling
-The Blitzlings possess the strange and dangerous property of accumulating massive amounts of static electricity in their bodies before discharging it all at once in devastating electrical bursts. These energetic goblins inhabit the chain of hills south of the Dunes of Kunagi, in the settlement of Shyalaviin.
-
-Their unique physiology makes them both fascinating and hazardous to be around, as they constantly crackle with barely contained electrical energy. When threatened or excited, they can release this stored power in spectacular and deadly displays.
-
-#### Aspects
-- Living lightning rod
-- Electricity courses through me
-
-### Mudzwiti
-The Mudzwiti are tribal goblins who dwell in the dense Lyoki Ingi Ingi jungle, their bodies adorned with elaborate bone piercings and ritualistic scarification. These fierce warriors have formed a symbiotic relationship with the utahraptors that roam their jungle home, riding them into battle while wearing the skulls of fallen dinosaurs as helmets.
-
-Their culture revolves around death and legacy, constructing incredibly elaborate tombs for their deceased leaders, complete with buried servants and accumulated riches. Their kings consume rare jungle plants that extend their lifespans dramatically, allowing them to accumulate vast wealth over centuries.
-
-#### Aspects
-- Dinosaur rider of the deep jungle
-- Death builds the greatest monuments
-
-### Spine Goblin
-The Spine Goblins are perhaps the most disturbing of all goblin subraces, afflicted with a leprosy-like disease that causes their bones to pierce through their skin. Their spinal columns protrude grotesquely from their backs, and rather than hide this deformity, they have embraced it by binding nails, spikes, and other sharp implements to their exposed bones.
-
-These crude and malevolent creatures represent the darkest aspects of goblin nature, using their horrifying appearance and weaponized deformities to terrorize their enemies. They are among the most feared and reviled of all goblins, and for good reason.
-
-#### Aspects
-- My deformity is my weapon
-- Pain has made me stronger
-
-### Wydling
-Wydlings, also known as icelings, are the frost-touched cousins of the goblin family tree. Born in the frozen wastes and glacial caverns of the far north, these pale blue goblins have adapted to survive in the harshest cold. Unlike their more communal relatives, Wydling broods are smaller and more nomadic, following the seasonal migrations of their prey across the tundra. Their razor-sharp icicle teeth have evolved to strip frozen meat from bones and crack through ice to reach fish below.
-
-Wydling society values patience and cunning over the impulsiveness of their southern kin. They are master hunters and trackers, capable of waiting motionless in snowdrifts for hours before striking. Their long noses serve a practical purpose—warming frigid air before it reaches their lungs and detecting the faintest scents carried on arctic winds. While other goblins might gather in hundreds, Wydlings move in small hunting packs of extended family, each member knowing their role in the hunt.
-
-Those Wydlings who venture south often find work as guides through mountain passes, ice sculptors, or surprisingly effective fishmongers—their natural affinity for cold keeping goods fresh far longer than normal.
-
-#### Aspects
-- Patient predator
-- Cold pragmatism over warm emotions
-
-### Stravlar
-The Stravlar are a sophisticated goblin subrace marked by extensive, embossed tattoos that cover their bodies. Their skin is either yellow with red tattoos or red with yellow tattoos—scholars still argue over which is the base color. These tattoos are not mere decoration but a living record of their family's history and achievements, inked with crushed mussel shells infused with fire magic.
-
-They are fire-attuned scholars, merchants, and guild leaders who value knowledge and preservation above all else. A Stravlar treats physical scarring as a tragedy greater than death, for it erases their history. Their communities maintain vast oral and visual libraries, with the eldest members serving as living encyclopedias whose skin tells the stories of generations.
-
-#### Aspects
-- My skin is my story
-- Fire in the ink
-
-### Aciabro
-The Aciabro are a unique offshoot of goblin-kind, somewhat related to the Cogheads but distinct in their dark ingenuity. While Cogheads use aether and steam to power their creations, the Aciabro have turned to a more visceral source of energy: their own blood. These "cyborgs" of the goblin world replace their limbs and organs with terrifying machines that run on vital essence, making them formidable but perpetually teetering on the edge of exhaustion.
-
-Specializing in invention that others would deem mad, they live in secluded workshops where the scent of oil and copper is overwhelming. They are driven by an obsessive need to upgrade themselves, viewing flesh as weak and fuel-inefficient.
-
-#### Aspects
-- Blood fuels the gear
-- Invention over safety
-
-### Xibli
-The Xibli are an aquatic offshoot of goblins inhabiting the islands around Melrox. They have blue skin, webbed hands and feet, and spiny backs. Unlike their land-bound cousins, they are excellent swimmers who live a semi-aquatic life in the intertidal zones.
-
-They are freedom-loving hedonists who sleep on the beach and party in the waves. While they trade with outsiders, they view anyone who can't hold their breath for five minutes as lesser beings.
-
-#### Aspects
-- Slippery as a fish
-- Tide-born
+### Heritages
+- **Scalawag** — Mischievous, communal goblins born into enormous broods; fiercely loyal to their lineage and devoted to vibrant culture and absurd pursuits. See [[race-goblin-scalawag]].
+- **Etherweaver** — Reserved goblins born with an attunement to non-basic elements; form smaller broods with stronger individual identity than their Scalawag cousins. See [[race-goblin-etherweaver]].
+- **Coghead** — Flesh-and-machinery goblins of Kobuk who integrate mechanical augmentations directly into their bodies, holding deep contempt for gnomish tinkering. See [[race-goblin-coghead]].
+- **Darkling** — Pitch-black shadow goblins of Lethos who subsist on rodents and bats, wielding impenetrable darkness that only they can see through. See [[race-goblin-darkling]].
+- **Rudding** — Vengeful, justice-driven goblins of the Copper Hills who practice Deoric enchantment, ride domesticated Desert Mammoths, and prize copper above all. See [[race-goblin-rudding]].
+- **Blitzling** — Electric goblins of the hills south of the Dunes of Kunagi who accumulate and discharge devastating bursts of static electricity. See [[race-goblin-blitzling]].
+- **Mudzwiti** — Tribal jungle goblins adorned with bone piercings who ride utahraptors into battle and build elaborate tombs for their centuries-long-lived kings. See [[race-goblin-mudzwiti]].
+- **Spine Goblin** — Goblins afflicted with a leprosy-like disease that drives bones through their skin; they weaponize the deformity by binding spikes to exposed bone. See [[race-goblin-spine-goblin]].
+- **Wydling** (Icelings) — Pale blue frost goblins of the frozen north; patient nomadic hunters who track prey across the tundra in small family packs. See [[race-goblin-wydling]].
+- **Stravlar** — Fire-attuned goblin scholars whose embossed tattoos record family history in living ink; skin scarring is considered a tragedy greater than death. See [[race-goblin-stravlar]].
+- **Aciabro** — Blood-powered cyborg goblins who replace limbs and organs with machines fueled by vital essence, driven by an obsessive need for self-modification. See [[race-goblin-aciabro]].
+- **Xibli** — Blue-skinned aquatic goblins of the islands around Melrox living semi-aquatic lives in intertidal zones as freedom-loving hedonists. See [[race-goblin-xibli]].
 
 <!-- mechanics -->
 

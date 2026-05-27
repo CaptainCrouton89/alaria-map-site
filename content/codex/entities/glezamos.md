@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L843"]
 relations:
   - { rel: spatial, kind: within, target: "4450" }
   - { rel: polity, kind: capitalOf, target: "4450" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-zelle" }
 review:
   aiWritten: true
   archetype: ai-ok

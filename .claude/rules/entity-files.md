@@ -15,7 +15,7 @@ relationships live in frontmatter. These files are the single source for BOTH th
 id: "1742"               # string; equals the existing pin/codex id. NEVER change it — pins key on it.
 name: Hillat Abu Hizam
 entityType: city         # places: region|city|town|fortress|ruins|wilderness|water|poi
-                         # non-places: nation|faction|deity|plane|magic|event|era|person|artifact|race|creature
+                         # non-places: nation|faction|daemon|plane|magic|event|era|person|artifact|race|creature
 blurb: "≤25 words, plain text. The map-hover line and the codex one-liner."
 ```
 
@@ -40,7 +40,7 @@ A capital is a `polity/capitalOf` relation on the settlement (target = its natio
 ## Body
 
 The full markdown article. `blurb` is the summary; the body is the entry. Don't restate a member's
-lore in its container (see `lore-context.md`).
+lore in its container (see `docs/worldbuilding/lore-style-guide.md` §Process).
 
 The build DERIVES codex `category`/`section` (from `entityType`), `relatedIds` and containment
 (`contains`/`partOf`, from `within` edges in `relations`), and map links (from `coordinates`).

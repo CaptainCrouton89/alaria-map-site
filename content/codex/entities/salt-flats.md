@@ -9,6 +9,7 @@ tags: ["desert", "geography", "region"]
 sources: ["all_sections_formatted/Upoceax.md#L2822"]
 relations:
   - { rel: spatial, kind: within, target: "3689" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-kuzagt" }
 ---
 The Salt Flats mark where the Luquihn Desert meets the Gindrik Sea—a blinding white expanse of crystallized salt stretching roughly a hundred miles along the coast. What was once a shallow inland sea dried up over millennia, leaving behind salt deposits dozens of feet thick in places. The terrain is brutally flat, offering no shade and reflecting the sun with punishing intensity.
 

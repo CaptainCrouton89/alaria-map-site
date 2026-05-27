@@ -12,6 +12,8 @@ relations:
   - { rel: spatial, kind: borders, target: "2805", note: "S (Eronia Range foothills)" }
   - { rel: spatial, kind: borders, target: "2643", note: "E" }
   - { rel: spatial, kind: borders, target: "manual-mpha4gzt-vjyu9", note: "N" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-craven" }
 review:
   aiWritten: true
   archetype: ai-ok

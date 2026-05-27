@@ -8,6 +8,8 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L6257"]
 relations:
   - { rel: spatial, kind: within, target: "3206" }
+  - { rel: culture, kind: inhabitedBy, target: "race-sylthik" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-drasnian" }
 review:
   aiWritten: true
   archetype: ai-ok

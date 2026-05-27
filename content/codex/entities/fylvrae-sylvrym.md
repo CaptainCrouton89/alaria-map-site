@@ -10,6 +10,8 @@ tags: ["forest", "ulvsjael", "geography"]
 sources: ["all_sections_formatted/Upoceax.md#L4964"]
 relations:
   - { rel: spatial, kind: within, target: "3902" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ulvsjael-ulvsein" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ulvsjael-ulvskyn" }
 review:
   aiWritten: true
   archetype: ai-ok

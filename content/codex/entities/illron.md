@@ -9,6 +9,7 @@ tags: ["state", "nation", "elven", "confederation", "fae"]
 sources: ["all_sections_formatted/Upoceax.md#L1521"]
 relations:
   - { rel: spatial, kind: within, target: "3476" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-amverela" }
 review:
   aiWritten: true
   archetype: ai-ok

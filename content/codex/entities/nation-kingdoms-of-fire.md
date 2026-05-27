@@ -1,7 +1,7 @@
 ---
 id: "nation-kingdoms-of-fire"
 name: "Kingdoms of Fire"
-entityType: nation
+entityType: region
 blurb: "The Kingdoms of Fire are four Neferati monarchies—Yaif, Kabir, Gissemari, and Wadiyah—that occupy a peninsula in southwestern Tarkhon."
 coordinates: [99, 229]
 zoomLevel: 2
@@ -14,6 +14,7 @@ review:
 relations:
   - { rel: spatial, kind: within, target: "2455" }
   - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
+  - { rel: polity, kind: rivalOf, target: "2455", when: "since the Severance", note: "founders-in-exile tension" }
 ---
 ### Overview
 The Kingdoms of Fire are four Neferati monarchies—Yaif, Kabir, Gissemari, and Wadiyah—that occupy a peninsula in southwestern Tarkhon. Though each kingdom is independent with its own ruler, they act as a political bloc, coordinating foreign policy and presenting a united front to the wider empire.

@@ -1,7 +1,7 @@
 ---
 id: "nation-dalizi-confederation"
 name: "Dalizi Confederation"
-entityType: nation
+entityType: region
 blurb: "A sprawling political entity comprising over forty member states—some true nations, others mere city-states—bound together by ancient treaties, mutual defense obligations, and a bewildering tangle…"
 coordinates: [350, 520]
 zoomLevel: 2

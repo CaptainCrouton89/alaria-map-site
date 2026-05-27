@@ -23,36 +23,10 @@ At the core of every Naga is the potential for transformation - the ability to p
 - Iron determination
 - Pride runs deeper than blood
 
-### Nagakani (Scale Riders)
-The Nagakani, known to outsiders as Scale Riders, have built their civilization in the harsh peaks of the Lyagnadarr Mountains. These dragon-blooded warriors have formed an unbreakable bond with the giant lizards that inhabit their mountain homes, developing a culture that blends draconic pride with mounted warfare.
-
-At the heart of their empire lies an ancient orange dragon who has commanded them to spread their dominion across the world. The Nagakani have interpreted this decree as a holy crusade, establishing mountain fortresses and patrolling the borders of their ever-expanding territory. They see themselves as crusader knights of a draconic order, destined to bring the world under their scaled banner.
-
-Their discovery of ancient tombs in the nearby deserts has only reinforced their belief in their divine mandate. They believe that when the time comes for the final conquest, their dragon lord will descend from the mountains to lead them personally into glorious battle.
-
-#### Aspects
-- Conquest is our divine mandate
-- My mount and I fight as one
-
-### Nagashi (Dragonheart)
-The Nagashi represent the most common expression of draconic heritage among the Naga peoples. Found across Alaria in great numbers, they have integrated into countless societies while maintaining their distinctive pride and passion. Their scales manifest in subtle patterns across their skin - sometimes only visible in certain light - marking them as carriers of Nagatayora's legacy.
-
-Nagashi communities are centers of art, learning, and philosophical debate. They approach every endeavor with the burning intensity of their draconic blood, whether crafting a masterpiece, engaging in scholarly pursuit, or seeking vengeance for wrongs done to their kin. This passion makes them both inspiring allies and terrifying enemies.
-
-Their transformation is perhaps the purest expression of their heritage - a direct channeling of Nagatayora's fury that served him in his final battle. The Nagashi see this ability not as a tool but as a sacred trust, a reminder of their ancestor's sacrifice and their duty to live with the same unwavering determination.
-
-#### Aspects
-- Boiling vengeance
-- Excellence demands total commitment
-
-### Megélren (Shadow Naga)
-The Megélren are the black-scaled outcasts of the Naga race. Viewed as treacherous traitors who betrayed the great dragon-father Nagatayora during his final battle against Hykravones, they are universally distrusted by other Naga. In reality, they are simply pragmatic survivors who saw the futility of the ancient war and chose self-preservation over glorious death.
-
-Lithe, clever, and sly, they have adapted to life in the shadows. They are masters of espionage, poison, and assassination, serving as spies and killers for hire across Alaria. A Megélren knows that honor is a comfort for the dead, while the living rely on wit. Their scales are obsidian black, absorbing light rather than reflecting it, and their eyes gleam with calculating intelligence.
-
-#### Aspects
-- Betrayer's legacy
-- Survival through cunning
+### Heritages
+- **Nagakani** (Scale Riders) — Mountain conquerors of the Lyagnadarr peaks serving an ancient orange dragon's holy crusade, riding giant lizards. See [[race-naga-nagakani]].
+- **Nagashi** (Dragonheart) — The most common Naga, found across Alaria; passionate artists and scholars who treat draconic transformation as sacred trust. See [[race-naga-nagashi]].
+- **Megélren** (Shadow Naga) — Obsidian-scaled outcasts condemned as ancient traitors; masters of espionage, poison, and assassination across Alaria. See [[race-naga-megelren]].
 
 <!-- mechanics -->
 

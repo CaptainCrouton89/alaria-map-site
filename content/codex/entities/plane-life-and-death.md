@@ -21,6 +21,20 @@ The shadow is made of pure negative energy from Nydus, the Black Sun. A long, fa
 #### The Spirit
 One's spirit is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with both thought and emotion all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have emotion, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with Aether.
 
+### The First Death and Lyzaria's Architecture
+
+The three-strand death described above is not eternal — it is the present-day result of two distinct events separated by tens of millions of years.
+
+Souls and shadows predate Ezz. When Alaria was first created it opened without psyic energy, and Celestia existed only as an unformed seed within Celest's sacrifice. There were no spirits yet; the Ezz that would power them had not yet flooded the planar stack. Yet death still existed, because souls and shadows still existed.
+
+Lyzaria, the first titan, was the architect of mortality. In an act of radical sacrifice, she became the first being in Alaria to willingly die — and in doing so, she carved the channels that all later deaths flow through. Her soul spread across the Astral Sea, forming the substrate that every subsequent soul settles into. Her shadow became the first and most ancient presence in Malstaris. These grooves she cut into reality — the Dreaming of Lyzaria and the First Dark — were chosen acts, and they persist.
+
+That original death had only two strands: soul to the Astral Plane, shadow to Malstaris. There was no spirit to thread a third path, and Celestia had not yet bloomed into a full plane. The dead were accounted for entirely by Aurus and Nydus.
+
+The third strand came with the Ezz Rift, roughly 11.5 million years after Alaria's founding. When Melera's music cracked the planar stack and Ezz flooded in, Celest's seed bloomed into Celestia, and spirit-substance became possible for the first time. Death acquired its third arc: the spirit fading to Celestia, to persist only as long as the name is remembered. This strand was threaded through the framework Lyzaria had already built — her two channels remained; the Ezz Rift added a third alongside them.
+
+The three-strand death mortals experience today is thus the product of two architects: Lyzaria, who carved the soul and shadow channels at the dawn of mortality, and the Ezz Rift, which added the spirit's path to Celestia after Ezz made spirit-life possible.
+
 ### Astral & Malstaric Thread
 Binding the soul and shadow to the spirit is a creature's astral and malstaric thread. These threads are not metaphors—they are literal strands of binding energy that run through the Ethereal and Nethereal planes respectively.
 

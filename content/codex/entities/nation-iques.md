@@ -1,7 +1,7 @@
 ---
 id: "nation-iques"
 name: "Iques"
-entityType: nation
+entityType: region
 blurb: "Land of coral and black gold (micah)."
 coordinates: [98, 286]
 zoomLevel: 3

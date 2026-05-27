@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L5277"]
 relations:
   - { rel: spatial, kind: within, target: "3087" }
   - { rel: polity, kind: capitalOf, target: "3087" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-dengar" }
 review:
   aiWritten: true
   archetype: ai-ok

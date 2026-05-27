@@ -9,6 +9,7 @@ tags: ["hills", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L3165"]
 relations:
   - { rel: spatial, kind: within, target: "2634" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-blitzling" }
 ---
 Hills just south of the Eronia range that poke into the northern edge of the Dunes of Kunagi. This region, also known as Malasi Karkus, is home to the Blitzling—creatures that inhabit these transitional hills between the mountains and the desert sands.
 

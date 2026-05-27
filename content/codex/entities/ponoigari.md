@@ -10,6 +10,8 @@ sources: ["all_sections_formatted/Aboyinzu.md#L2282"]
 relations:
   - { rel: spatial, kind: within, target: "1606" }
   - { rel: polity, kind: capitalOf, target: "1606" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naga" }
 ---
 Ponoigari is the capital of Kadroka and one of the most unusual cities in Aboyinzu. It is built around, upon, and into the petrified body of the dragon Melekas, who has ruled from this spot for nearly eight hundred years—unable to move, unable to leave, unable to do anything except think, speak, and occasionally breathe fire.
 

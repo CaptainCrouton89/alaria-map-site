@@ -19,115 +19,18 @@ While often misunderstood by other races as purely savage, orcish cultures are r
 - **Weight:** 160-280 pounds
 - **Age:** 50-70 years
 
-### Hedroscobbi (Black Orc)
-The Hedroscobbi are master smiths who have learned to forge iron combined with corrosive algae from rivers and swamps to create incredibly heavy armor. This armor is so abrasive that only their naturally tough skin can withstand wearing it. Their mastery of this unique metallurgy makes them nearly impervious to conventional weapons.
-
-The Hedroscobbi's dark skin has adapted over generations to resist the corrosive properties of their algae-iron alloys. They are often found in the contested swamplands, where they fight alongside and against other orc clans for territory and resources.
-
-#### Aspects
-- Master of algae-iron smithing
-- Skin like leather armor
-
-### Glivornaxi (Gray Orc)
-The Glivornaxi have dark eyes and muddy green skin, living in harmony with the natural world around the Grand Tolkarsus as it passes through the Plenjorn Swamp. This mystical swamp has regenerative properties that heal those who bathe in its waters, and the Glivornaxi have become its guardians.
-
-They are skilled spear-fighters, using their weapons primarily as defense against the Shazuihni boar riders who frequently raid their territory. Their connection to nature runs deep, and they understand the swamp's moods and secrets better than any outsider ever could.
-
-#### Aspects
-- Guardian of the healing swamp
-- One with the wetlands
-
-### Tarni (Darkeyes)
-The Tarni are orcs strong not just in body, but in spirit. They are virtually unkillable through conventional means, as they have learned to fortify their very souls against destruction. Their warriors wield special spirit weapons that can attack the essence of their enemies directly, bypassing physical defenses entirely.
-
-These orcs have developed a unique understanding of the connection between spirit and flesh, making them formidable opponents who can fight on multiple planes of existence simultaneously.
-
-#### Aspects
-- Unbreakable spirit
-- Warrior of two realms
-
-### Uihonaii (Wooden Men)
-The Uihonaii have an extraordinary bond with trees—their bloodline is literally tied to the forest. When they die, they become trees, and when the time is right, they are reborn from their wooden forms. These walking forests possess bark-like skin when in their tree form and can live for centuries, accumulating vast wisdom.
-
-However, they can only take root and transform in special soil, requiring them to always return to their homeland. Weapons crafted from their sacred wood are incredibly powerful, often becoming sentient artifacts.
-
-#### Aspects
-- Born from sacred groves
-- Wisdom of centuries
-
-### Shazuihni (Boar Rider)
-The Shazuihni are hairy, ogre-like orcs with limited intelligence but incredible ferocity. They ride massive giant boars into battle, wielding enormous axes that can cleave through multiple enemies. Their brutal simplicity makes them unpredictable and extremely dangerous in combat.
-
-These orcs live for the thrill of battle and the bond with their boar mounts. Their society is based on strength and the ability to control their savage beasts.
-
-#### Aspects
-- Savage boar rider
-- Simple but deadly
-
-### Griebi (Lakemen)
-The Griebi are blueish-gray skinned orcs who can breathe underwater and rarely speak above the surface. They hunt and fish in the depths of lakes and rivers, using their terrifyingly rows of long, needle-like teeth to catch prey underwater. Their society is ruled by a mysterious hag queen who dwells in the deepest waters.
-
-These silent orcs are perfectly adapted for aquatic life, making them formidable opponents both above and below the water's surface.
-
-#### Aspects
-- Silent hunter of the depths
-- Servant of the hag queen
-
-### Tytheri (Blood Orc)
-The Tytheri are musclebound orcs with bleached-white skin and razor-sharp teeth, capable of smelling blood from miles away. Their pallor comes from generations of consuming a substance they harvest from the Agony Stones—a cursed region in their territory that even other Tytheri approach with caution. The ichor they collect there is the blood of something ancient and dying, and it has transformed them over centuries.
-
-Within their society, Tythmasters—orcs fed the richest concentrations of this magical blood—grow to enormous size, reaching 10 feet in height as they become the leaders of their people. But the ichor exacts a price: long-term consumption deadens emotion until violence is the only thing that makes them feel alive.
-
-These orcs are constantly at war with neighboring Kadroka, whose dragon-king they have trapped through means they do not fully understand. Their entire culture revolves around blood, combat, and the pursuit of ever-greater physical power—a pursuit that has become an addiction with no cure.
-
-#### Aspects
-- Hunter who smells blood on the wind
-- Devoted to the crimson path
-
-### Xi'ivrach (Divine Orc)
-The Xi'ivrach are deeply religious orcs who live in Jeh Bli, adorning themselves with heavy stone jewelry and clothing. They must be incredibly strong to bear the weight of their sacred stone garments. Their bodies are covered in ritual scarification, and their high priests are masters of Deoric magic.
-
-Their entire culture is built around religious devotion and the pursuit of divine favor through physical and spiritual trials.
-
-#### Aspects
-- Bearer of sacred stone
-- Marked by divine ritual
-
-### Thrygun (Wild Orc)
-The Thrygun are blue-skinned, red-haired orcs with prominent tusks who dwell in the White Hills. They represent the most primal and untamed aspects of orcish nature, living in small tribes and following ancient traditions that predate most civilizations.
-
-Their wild nature makes them unpredictable allies and dangerous enemies, as they follow instinct and tribal law above all else.
-
-#### Aspects
-- Child of the wild hills
-- Untamed and free
-
-### Bloodreavers
-The Bloodreavers inhabit Bloodwood and practice the ancient art of blood tattooing, using blood treated with preservative tree sap to mark their skin. All their clothing, armor, and weapons are stained with blood—not from cruelty, but from deep respect, as they believe blood imbues items with the aspects of its source.
-
-Despite their terrifying appearance, they are actually protective and loyal, though generally quiet and reserved. They are frequently misunderstood by other races who see only the blood and miss the honor beneath.
-
-#### Aspects
-- Marked by honored blood
-- Silent guardian of family
-
-### Enti
-The Enti are brutal slave traders from the north, constantly at war with the Danaki minotaurs. They are huge, aggressive orcs who wear furs and gold as symbols of their wealth and conquests. Their no-nonsense approach to conflict has made them both feared and wealthy through their harsh trade practices.
-
-These orcs believe that might makes right and that the strong have every right to profit from the weakness of others.
-
-#### Aspects
-- Trader in chains and gold
-- Northern raider
-
-### Xi'ivrach (Stone Bearers)
-The Xi'ivrach are deeply religious orcs who have built their entire culture around devotion to their stone gods. Living in the sacred lands of Jeh Bli, they wear elaborate stone jewelry and garments as acts of worship, their bodies strengthened over generations to bear these tremendous weights. Their skin is marked with intricate ritual scarification that tells the stories of their faith and accomplishments.
-
-Their priests are among the few mortals who have mastered fragments of Deoric, the language of truth, using it to channel divine power through their scarred flesh. The Xi'ivrach believe that the weight of stone brings them closer to their gods, and that each scar is a prayer written in flesh.
-
-#### Aspects
-- Bearer of sacred stones
-- Scarred vessel of divine truth
+### Heritages
+- **Hedroscobbi** (Black Orc) — Master smiths who forge algae-iron alloys into abrasive heavy armor; nearly impervious to conventional weapons. See [[race-orc-hedroscobbi]].
+- **Glivornaxi** (Gray Orc) — Guardians of the regenerative Plenjorn Swamp, skilled spear-fighters deeply attuned to its moods and secrets. See [[race-orc-glivornaxi]].
+- **Tarni** (Darkeyes) — Soul-fortified orcs whose spirit weapons bypass physical defenses, letting them fight on multiple planes of existence. See [[race-orc-tarni]].
+- **Uihonaii** (Wooden Men) — Forest-bonded orcs whose dead become trees and are reborn from sacred wood; weapons crafted from it often turn sentient. See [[race-orc-uihonaii]].
+- **Shazuihni** (Boar Rider) — Hairy, ogre-like orcs of brutal simplicity who ride massive giant boars into battle and live for the bond with their mounts. See [[race-orc-shazuihni]].
+- **Griebi** (Lakemen) — Silent, blueish-gray aquatic orcs who breathe underwater and hunt with needle-like teeth under the rule of a hag queen. See [[race-orc-griebi]].
+- **Tytheri** (Blood Orc) — Bleached-white orcs transformed by ichor from the Agony Stones; Tythmasters grow to ten feet and are consumed by the addiction to power. See [[race-orc-tytheri]].
+- **Xi'ivrach** (Divine Orc, Stone Bearers) — Deeply religious stone-bearing orcs of Jeh Bli whose ritual scarification and Deoric mastery express devotion to their stone gods. See [[race-orc-xiivrach]].
+- **Thrygun** (Wild Orc) — Blue-skinned, red-haired orcs of the White Hills following ancient traditions that predate most civilizations. See [[race-orc-thrygun]].
+- **Bloodreavers** — Blood-tattooing orcs of Bloodwood who honor the dead through blood-stained armor and weapons; fiercely protective and widely misunderstood. See [[race-orc-bloodreavers]].
+- **Enti** — Northern slave-trading raiders who wear furs and gold as conquest trophies, locked in constant war with the Danaki minotaurs. See [[race-orc-enti]].
 
 <!-- mechanics -->
 

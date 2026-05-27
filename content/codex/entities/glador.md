@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "4370" }
   - { rel: spatial, kind: borders, target: "4381", note: "north" }
   - { rel: spatial, kind: borders, target: "4418", note: "south" }
-  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-kendrel" }
 review:
   aiWritten: true
   archetype: ai-ok

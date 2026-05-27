@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L523"]
 relations:
   - { rel: spatial, kind: within, target: "1444" }
   - { rel: polity, kind: capitalOf, target: "1444" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: ai-ok

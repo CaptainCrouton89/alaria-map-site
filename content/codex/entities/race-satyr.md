@@ -20,23 +20,9 @@ Normal clothing and armor cannot accommodate their unique physiology, forcing th
 - **Height:** 5-6 feet
 - **Weight:** 100-200 pounds
 
-### Greater Satyr
-The Greater Satyr are a warlike and disciplined evolution of the satyr race. Unlike their hedonistic lesser cousins, the Greater Satyr have organized into a rigid, caste-based society dedicated to conquest. They are physically imposing, standing a full head taller than other satyrs, with larger horns and more muscular builds.
-
-They view war as the ultimate celebration—a festival of strength and dominance. Their armies march to the beat of war-drums and the skirl of pipes, terrifying enemies before the first blow is struck. Where lesser satyrs spread chaos, the Greater Satyr channel that chaos into devastating military force.
-
-#### Aspects
-- War is a celebration
-- Caste hierarchy
-
-### Lesser Satyr
-The Lesser Satyr are the feral, chaotic cousins of the Greater Satyr. While their larger kin build armies, the Lesser Satyr spread panic and pandemonium. They are bloodthirsty tricksters, reveling in confusion and fear. Their bodies are leaner, their movements twitchy and frantic, their laughter unsettling.
-
-They are often found in the retinue of dark fey or serving as skirmishers for larger chaotic armies. To a Lesser Satyr, a fair fight is a boring fight—ambush, misdirection, and terror are the tools of their trade.
-
-#### Aspects
-- Panic and pandemonium
-- Never fight fair
+### Heritages
+- **Greater Satyr** — Warlike, caste-organized satyrs who channel primal chaos into military conquest, viewing war itself as the ultimate celebration. See [[race-satyr-greater-satyr]].
+- **Lesser Satyr** — Feral, chaotic tricksters who spread panic and pandemonium, preferring ambush and terror over direct combat. See [[race-satyr-lesser-satyr]].
 
 <!-- mechanics -->
 

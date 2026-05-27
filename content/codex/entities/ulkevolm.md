@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Upoceax.md#L3030"]
 relations:
   - { rel: spatial, kind: within, target: "3662" }
   - { rel: spatial, kind: borders, target: "3498", note: "west" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-tarnak" }
 review:
   aiWritten: false
   archetype: stub

@@ -14,6 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "4252", note: "SE" }
   - { rel: spatial, kind: borders, target: "manual-mpiftlzz-35uhf", note: "NW" }
   - { rel: culture, kind: inhabitedBy, target: "race-swordsmen" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-drachma" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Upoceax.md#L3673"]
 relations:
   - { rel: spatial, kind: within, target: "3799" }
   - { rel: polity, kind: capitalOf, target: "3799" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

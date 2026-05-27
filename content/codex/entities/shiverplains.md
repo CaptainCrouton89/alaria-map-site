@@ -15,6 +15,7 @@ relations:
   - { rel: spatial, kind: borders, target: "507", note: "south" }
   - { rel: spatial, kind: borders, target: "560", note: "southwest" }
   - { rel: spatial, kind: within, target: "2857" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: ai-ok

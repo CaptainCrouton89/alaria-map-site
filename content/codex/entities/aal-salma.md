@@ -12,6 +12,8 @@ relations:
   - { rel: spatial, kind: borders, target: "1464", note: "N" }
   - { rel: spatial, kind: borders, target: "1444", note: "E" }
   - { rel: spatial, kind: borders, target: "1410", note: "SE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-trollkin" }
 review:
   aiWritten: true
   archetype: ai-ok

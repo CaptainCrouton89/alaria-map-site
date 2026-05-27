@@ -9,6 +9,8 @@ sources: ["all_sections_formatted/Aboyinzu.md#L1154"]
 relations:
   - { rel: spatial, kind: within, target: "1515" }
   - { rel: polity, kind: capitalOf, target: "1515" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-rentar" }
 ---
 The capital city, where the Chechik River widens into a marshy delta before joining the Deadloop drainage. Sevich sprawls along both banks, connected by three bridges. The ducal palace sits on the western bank's highest point; the Grand Temple of Communion dominates the eastern bank.
 

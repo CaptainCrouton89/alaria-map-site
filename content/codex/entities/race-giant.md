@@ -11,9 +11,9 @@ review:
 ---
 Giants are huge, lumbering humanoids of limited intelligence but terrifying strength. They are divided into two main groups: Hill Giants and Gorgers.
 
-**Hill Giants** are sedentary, living in sparsely populated communities where they herd massive sheep and throw boulders at intruders. They are territorial but can be reasoned with if one speaks their simple language and brings enough food.
-
-**Gorgers** are nomadic scavengers, massive engines of consumption that roam the land eating everything in their path—entire herds of cattle, trees, and unlucky travelers. They are universally feared and reviled.
+### Heritages
+- **Hill Giants** — Sedentary community-dwellers who herd massive sheep and guard their territory; territorial but willing to parley with food and their simple language. See [[race-giant-hill]].
+- **Gorgers** — Nomadic engines of consumption that roam the land eating everything in their path; universally feared and reviled. See [[race-giant-gorger]].
 
 ### Vitals
 - **Size:** Huge

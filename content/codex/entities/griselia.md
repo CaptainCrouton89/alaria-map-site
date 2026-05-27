@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "426", note: "N" }
   - { rel: spatial, kind: borders, target: "529", note: "E" }
   - { rel: spatial, kind: within, target: "426" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: ai-ok

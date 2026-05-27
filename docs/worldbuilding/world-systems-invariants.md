@@ -1,0 +1,43 @@
+# World-systems invariants reference
+
+## How to use this reference
+
+This document is the binding canon for Alaria's world-systems. No entity may contradict anything in the hard-rule table below. The design log at `docs/worldbuilding/cosmology-decisions.md` is the record of *why* decisions were made — cite it for rationale, but consult this file for authority.
+
+If your entity touches a thread listed under "do not author yet": state only what is settled in the entity, flag the open part in an `<!-- author-notes -->` block, and defer. Do not invent resolutions.
+
+---
+
+## The spine
+
+Everything traces back here. Azus is order, thought, structure, and specificity. His language is Deoric — a command tongue that reshapes reality and costs life. Melera is chaos, emotion, beauty, and harmony. Her output is Faesong, ambient music that pervades existence. Together they made Ezz, the universal substrate: equal parts thought and emotion.
+
+Melera is imprisoned. Her escaped ripple of music caused the Ezz Rift 12 million years ago, flooding Alaria with Ezz. That flood birthed spirit and emotion as forces in the world, woke Bryn, drove the titans to madness, and caused Celestia to bloom. Every claim about magic, planes, or death must trace cleanly back to this.
+
+---
+
+## Hard-rule table
+
+The rows below are non-negotiable. An entity that contradicts any of them is wrong. Each system links to its per-system detail file in `docs/worldbuilding/systems/`.
+
+| System | Invariant |
+|--------|-----------|
+| [Planes](systems/planar-stack.md) | 4 true planes: Material, Astral, Malstaris, Celestia. 2 overlays: Ethereal (carries astral threads), Nethereal (carries malstaric threads). These six are the canonical "six planes." Astraeva and Eindumor are presence-cores of Aurus/Nydus, not planes. Psywinds and Faesong are forces within Ezz, not planes. The 9 Elemental Planes are a separate adjacent stack reached only via leylines. Unified vertical stack: Astral (up) / Material slab + Phlethageros (middle) / Malstaris (bottom, directly below the Wastes). Malstaris is reachable by physical descent past the Wastes; the "two-axis" model is superseded. |
+| [Magic](systems/magic.md) | Four sources: Deoric (Azus; costs life), Psywinds (Ezz's thought/intention aspect), Faesong (Melera's emotion/harmony aspect of Ezz), Kethic (the caster's own emotion structured through the Elemental Planes via leylines). Psywinds and Faesong are two faces of the same Ezz — thought vs emotion — with no scholarly ambiguity. |
+| [Seasons](systems/seasons.md) | No axial tilt. Bryn is a spotlight-sun; day is Bryn overhead, night is Bryn over the far side, with no under-slab travel. Congregations sing Bryn onto north or south trails. The regular ~200-day calendar is a recent political treaty (the Solar Accord), not physics; seasons are variable-length. Poles are cold because the sun's band never reaches them. |
+| [Daemons](systems/daemon-economics.md) | Deoric spends life. Prayer is a life-tithe pooling into reserve R. R must stay above the remembrance-floor R_min (zero means forgotten, which ends the daemon) and also funds miracles (a miracle withdraws life L from R). Deficit spending below R_min kills the daemon. Model and Calibration-A numbers are both canon — see `systems/daemon-economics.md` for the full scale (ε ≈ 0.1 HP/prayer; R_min ≈ 50 HP-equiv; minor miracle ≈ 34 HP; major ≈ 89 HP; world-altering ≈ 50,000 HP; blood sacrifice ≈ 40–50 HP/life). |
+| [Calendar](systems/calendar.md) | F/B is the absolute astronomical clock (the Great Cycle, tied to Aurus/Nydus drift and lunar alignments; observer-independent). SD/BSD is civil reckoning. Seventh Dawn is the current era. Now = 3376 SD. World Fire (10 BSD) ≈ year zero. Any SD date converts to F/B via the F/B position of the Seventh Dawn's start. |
+| [Death](systems/first-death.md) | Three strands: soul → Astral (cycles through Aurus), shadow → Malstaris (cycles through Nydus), spirit → Celestia (lasts only while the true name is remembered; forgotten means it ends permanently). |
+| [Celestia](systems/celestia-return.md) | Celestia is the Material Plane's mirror flip-side, reached sideways across any edge. Return from Celestia requires that a soul or shadow anchor was preserved on the material side. The God War destroyed most anchors, trapping those who had crossed without one. |
+| [Races](systems/races.md) | Interbreeding follows origin-substance. Gaea-flesh family (humans, beastmen, giants, trolls) interbreed; half-giants and trollkin exist. Druid-crafted elves (wood, stone, river-mud) cannot cross with flesh; no half-elves. Daemon-descended lines follow their own rules. Beastmen are Gaea's minor animal-children. The sacred three sons are Wolf, Lion, and Dragon (Ulvma / Shara Bolasi / Nagatayora → Ulvsjael / Sharabha / Naga). Gaea's dormancy is the cumulative self-expenditure of Kethic across ~12 My of creation: psyic energy spent through Kethic diffused into the Ezz via Psywinds and did not return — she is diffused into her own creations, not worship-starved. The Gaea entity (`person-gaea.md`) is fully authored. |
+| [Deep time / stasis](systems/races.md) | Species are Deoric-defined and do not biologically drift (true name = definition). Canonical trimmed deep-prehistory dates: Age of Titans 23.5 Mya; Ezz Rift / Gaea born 12 Mya; Reign of Dragons 10–2.5 Mya; Walk of Elves 2.5 Mya; Eyachria vs Gaea 600,000 ya; Birth of Man 500,000 ya; Golden Age onward unchanged. See `systems/races.md` for the full trim table. |
+| [Celest-origin](../cosmology-decisions.md) | All three titan-gods (Aurus, Nydus, Celest) began as genuine individuated beings. Aurus and Nydus diffused — shedding selfhood into the impersonal forces they embody. Celest uniquely did NOT diffuse: she preserved a dormant, identity-bearing selfhood sealed in Celestia's core (present without will, ancient without voice — the core of a plane, not the plane itself). The titan-god / titan distinction is preserved. Celest's core is sealed and silent: it cannot reach Celestia's surface across the insulating Ezz and cannot transmit Deoric — Celest is NOT a Deoric source. The Celestia seed was an empty latent vessel for its first 11.5 My (the "refuge for the dead" framing is a retrospective mortal reading); the Ezz flood condensed into it because it was the only Deorically-shaped non-corporeal vessel in Alaria. See `cosmology-decisions.md §10`. |
+| [Deoric transmission](systems/magic.md) | Deoric is the titans' native language. The titans inscribed it on stone, bone, and varied media; titan-bone inscriptions do not decay (bone invariant); stone and organic inscriptions weathered and were mostly lost over 12+ million years. Mortal Deoric is a fragmentary reconstruction — the Vyanoweir civilization led this reconstruction; their burned libraries were a catastrophic setback. Daemons are supreme practitioners through deep-time study and direct-era titan exposure; they are not the language's originators or transmitters. For functional handmagic and charged ritual work, titan blood/bone remains required (only titan materials hold Deoric charge durably). |
+
+Per-system detail — extended prose, inline open flags, and worked examples — lives in `docs/worldbuilding/systems/`. Each table link leads directly to the relevant file.
+
+---
+
+## Do not author yet
+
+_Queue empty._ When a thread is opened, list it here with its settled-vs-open split: state only the settled part in entity lore and defer the open part in an `<!-- author-notes -->` block.

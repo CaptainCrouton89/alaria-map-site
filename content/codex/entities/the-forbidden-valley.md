@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Clueanda.md#L1922"]
 relations:
   - { rel: spatial, kind: within, target: "710" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-sivakr" }
 review:
   aiWritten: true
   archetype: ai-ok

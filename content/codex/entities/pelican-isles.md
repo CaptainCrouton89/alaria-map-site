@@ -11,5 +11,5 @@ relations:
   - { rel: spatial, kind: borders, target: "4184", note: "W" }
   - { rel: spatial, kind: borders, target: "manual-mpifts0q-rkqps", note: "N" }
   - { rel: spatial, kind: borders, target: "4208", note: "NW" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-ansari" }
 ---

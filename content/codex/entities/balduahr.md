@@ -9,6 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Upoceax.md#L4353"]
 relations:
   - { rel: spatial, kind: within, target: "3902" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
 review:
   aiWritten: true
   archetype: ai-ok

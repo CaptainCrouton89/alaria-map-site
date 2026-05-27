@@ -2,10 +2,10 @@
 id: "3014"
 name: "Emerald Coast"
 entityType: region
-blurb: "The Emerald Coast occupies the eastern seaboard of Rimihuica, a verdant strip of jungle and coastline running from south of Ofrenia all the way to…"
+blurb: "A stateless jungle coastline along Rimihuica's eastern seaboard—no overarching authority, just scattered harbor settlements, sub-nations, and slowly building catastrophe."
 coordinates: [292, 269]
 zoomLevel: 2
-tags: ["state", "nation"]
+tags: ["region", "coast", "jungle"]
 sources: ["all_sections_formatted/Rimihuica.md#L4728"]
 relations:
   - { rel: spatial, kind: borders, target: "2870", note: "S" }

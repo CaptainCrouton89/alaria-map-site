@@ -9,7 +9,7 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1238"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
-  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixlorett" }
 ---
 A fifty-mile spine of peaks running northwest to southeast through Central Aboyinzu, separating Terrenia and the horrors of Chaal Nazzerox from the forests of M'Svyla and the southern grasslands. The range takes its name from the dense quartz formations that stud its slopes—on clear days, the peaks catch the sun and throw light across the foothills in blinding sheets.
 

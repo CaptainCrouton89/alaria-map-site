@@ -47,7 +47,7 @@ The phrase "will fuck you up in the dark" is apparently how the Darklings themse
 ### Relations with Others
 **Faeja**: Respectful coexistence. The Faeja are the majority population of Lethos, and the Darklings work alongside them to maintain the Binding. They do not socialize extensively, but neither do they conflict. Each people has their role; each respects the other's contribution.
 
-**Gillykin**: Wary tolerance. The Darklings remember what the Gillykin's ancestors were—Gorathi occupiers. But three centuries have passed, and the Gillykin have proven their commitment to Lethos by remaining and guarding Qlyp Augo. The Darklings accept them as fellow inhabitants, if not quite as kin.
+**Rootborn**: Wary tolerance. The Darklings remember what the Rootborn's ancestors were—Gorathi occupiers. But three centuries have passed, and the Rootborn have proven their commitment to Lethos by remaining and guarding Qlyp Augo. The Darklings accept them as fellow inhabitants, if not quite as kin.
 
 **Druids**: Deep respect. The druids designed the Binding; the Darklings helped power it. There is an old partnership here, predating the occupation, and the Darklings still defer to the druids of Erua on matters relating to the ritual.
 

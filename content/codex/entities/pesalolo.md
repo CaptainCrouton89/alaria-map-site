@@ -12,6 +12,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Island region body coherent & map-consistent: thousand-mile NE-SW island, Freedom Mtns spine bisecting into independent Tamadrez (north) + Gorath-occupied Slaver's Coast (south). Subheads (Scream Strait/Torgan Passage/Divinity Passage) describe adjacent water entities, not duplicate regions. Keep."
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-drasnian", note: "Drasnian dwarves enslaved as the native population of the Slaver's Coast" }
 ---
 A thousand-mile island running northeast to southwest, split in half by geography and politics alike. The Freedom Mountains form an unbroken spine from one end to the other, dividing Pesalolo into two coasts that rarely interact overland. The southern coast belongs to Gorath in all but name—the Slaver's Coast, where ships collect their human cargo for the crossing to Azantir. The northern coast is nominally independent Tamadrez, a scattering of villages and towns that survive by being too poor to conquer and too useful to destroy.
 

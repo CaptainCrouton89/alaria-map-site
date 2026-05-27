@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L2674"]
 relations:
   - { rel: spatial, kind: within, target: "849" }
   - { rel: polity, kind: capitalOf, target: "849" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-korlan" }
 review:
   aiWritten: true
   archetype: ai-ok

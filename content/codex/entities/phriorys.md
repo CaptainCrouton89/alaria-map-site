@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: spatial, kind: borders, target: "71", note: "NW" }
   - { rel: spatial, kind: borders, target: "315", note: "E" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixmeglyakuk" }
 review:
   aiWritten: true
   archetype: ai-ok

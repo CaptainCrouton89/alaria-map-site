@@ -9,6 +9,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-starborn" }
 ---
 ### Stars
 Built by the titans to illuminate the darkness of the world. The sun did not exist yet. No night and day yet, just eternal stars. Consist of glowing orbs, containing incredibly rare celestial glass, which emits lots of light. Taken care of by the Starborn, who live within the stars, tending to the magical cores.
@@ -95,7 +97,7 @@ There *was* a third moon, once.
 
 During the Age of Titans, three moons orbited Alaria—Auris and Nyxara as they exist now, plus a third whose true name has been lost. Some scholars believe it was balanced between the two, neutral, stabilizing. Others believe it was Celest's moon, tied to her essence before she sacrificed herself to become Celestia.
 
-When the Ezz Rift flooded Alaria 120 million years ago, something happened to the third moon. Perhaps it shattered. Perhaps it fell. Perhaps it was pulled into interdimensional space when the surviving titans fled. The Desert of One Million Shards, the strange crater lake of Morgnor's Cradle, the void-locked darkness where the dragon Ural lairs—all have been proposed as fragments of its grave.
+When the Ezz Rift flooded Alaria 12 million years ago, something happened to the third moon. Perhaps it shattered. Perhaps it fell. Perhaps it was pulled into interdimensional space when the surviving titans fled. The Desert of One Million Shards, the strange crater lake of Morgnor's Cradle, the void-locked darkness where the dragon Ural lairs—all have been proposed as fragments of its grave.
 
 What seems certain: the third moon is gone, and its absence may be what allows the destabilization cycles to occur. It was the keystone. Without it, Auris and Nyxara eventually drift into destructive resonance.
 

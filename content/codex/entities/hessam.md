@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L1661"]
 relations:
   - { rel: spatial, kind: within, target: "666" }
   - { rel: polity, kind: capitalOf, target: "666" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

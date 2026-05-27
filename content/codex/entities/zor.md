@@ -9,6 +9,7 @@ tags: ["city", "state", "nation", "wycendeula", "eyendra"]
 sources: ["all_sections_formatted/Upoceax.md#L5867"]
 relations:
   - { rel: spatial, kind: within, target: "3902" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 Zor is the only permanent settlement in the Eyendra forest—a city-state of roughly 15,000 souls perched on the western shore of Moornik Bay, facing outward toward the sea and deliberately turning its back on the forest that surrounds it on three sides.
 

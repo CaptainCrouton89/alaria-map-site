@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2582", note: "N" }
   - { rel: spatial, kind: borders, target: "2455", note: "S" }
   - { rel: spatial, kind: within, target: "2455" }
+  - { rel: culture, kind: inhabitedBy, target: "race-craven" }
 review:
   aiWritten: true
   archetype: ai-ok

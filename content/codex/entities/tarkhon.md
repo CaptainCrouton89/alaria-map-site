@@ -11,11 +11,13 @@ sources: ["all_sections_formatted/Rimihuica.md#L13", "all_sections_formatted/Rim
 relations:
   - { rel: spatial, kind: borders, target: "2555", note: "N" }
   - { rel: spatial, kind: within, target: "2453", note: "Featured region of Rimihuica per rimihuica page" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Detailed, on-theme empire description; geography (strait chokepoint, Clueanda/Rimihuica holdings, Eronia Range boundary) is coherent and matches map. Near-DUPLICATE of 2575 Tarkhon Empire (same coords [127,211]/[127,212], same Evertorch/Selron II/Tarkhetan lore) — flag for reconciliation/merge. Trailing 'The Rash: TODO' stub section should be filled or removed."
+  notes: "Detailed, on-theme empire description; geography (strait chokepoint, Clueanda/Rimihuica holdings, Eronia Range boundary) is coherent and matches map. Reconciled: single canonical entity 2455 (the former 2575 duplicate is deduped — no entity file or pin carries 2575; it survives only as skipped pipeline provenance in data/work-queue.json). Pincer-prototype region for the Foundations super-phase."
 ---
 ### Geography
 

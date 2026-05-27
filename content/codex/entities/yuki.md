@@ -9,6 +9,8 @@ tags: ["citystate", "ve", "frontier", "goblin"]
 sources: ["all_sections_formatted/Ve.md#L3375"]
 relations:
   - { rel: spatial, kind: within, target: "351" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-etherweaver" }
 ---
 A fortified city-state in the Suki Hills, standing as the first line of defense against Krell expansion into Chimean territory. Yuki is a city of watchers, trappers, and survivors—people who've built their lives around the knowledge that the swarm could come any day.
 

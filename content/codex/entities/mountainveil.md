@@ -9,6 +9,7 @@ tags: ["fortress", "hidden", "force-leyline", "vael"]
 sources: ["all_sections_formatted/Aboyinzu.md#L7443"]
 relations:
   - { rel: spatial, kind: within, target: "2201" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 A hidden fortress in the southern Dragon's Spine, built four centuries ago by survivors of the Kingdom of Vael after Kanzekill destroyed their realm. Mountainveil uses the Force leyline to render itself unfindable—not invisible, but *unreachable*, surrounded by subtle misdirections that turn away anyone who draws near.
 

@@ -9,6 +9,7 @@ tags: ["city", "state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L1155"]
 relations:
   - { rel: spatial, kind: within, target: "591" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: ai-ok

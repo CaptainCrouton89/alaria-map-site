@@ -8,6 +8,7 @@ zoomLevel: 3
 tags: ["state", "nation", "island", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L2666"]
 relations:
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-korlan" }
 review:
   aiWritten: true
   archetype: ai-ok

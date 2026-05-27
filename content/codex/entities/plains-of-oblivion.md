@@ -8,7 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Clueanda.md#L3585"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-vyanoweir" }
 ---
 Northwest of the mountains of Murth (a state in Tarkhon), stretching from the Western Isles coast in the west to the orc state of Hedroscobb in the northeast, lie the Plains of Oblivion. These cursed grasslands cause all who enter to gradually forget everything except their oldest long-term memories and events from the past year. Recent memories, learned skills, and personal identity slip away like water through fingers.
 

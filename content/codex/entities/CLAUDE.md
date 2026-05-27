@@ -1,0 +1,1 @@
+- `<!-- mechanics -->` in an entity body splits the file: content **above** the sentinel is lore (rendered in the public codex); content **below** is game mechanics (stripped from the build). Omitting the sentinel causes mechanics text to leak into the public codex output.

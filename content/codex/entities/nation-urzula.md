@@ -1,7 +1,7 @@
 ---
 id: "nation-urzula"
 name: "Urzula"
-entityType: nation
+entityType: region
 blurb: "A city-state built beneath massive waterfalls in the Seyiy region of the Elder Wilds—the only significant settlement in the region outside L'Coth D'hari."
 coordinates: [395, 435]
 zoomLevel: 3
@@ -13,6 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "1806" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 A city-state built beneath massive waterfalls in the Seyiy region of the Elder Wilds—the only significant settlement in the region outside L'Coth D'hari.
 

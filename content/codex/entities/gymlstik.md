@@ -2,7 +2,7 @@
 id: "947"
 name: "Gymlstik"
 entityType: region
-blurb: "Gymlstik is a sub-range of the Kharvorn Mountains, positioned between the Blueshale Peaks to the northwest and the Aqueandrekons to the southeast."
+blurb: "Goblin and Cirthikin-held mountain sub-range of the Kharvorn, honeycombed with tunnels beneath rugged terrain—no permanent above-ground settlements remain."
 coordinates: [228, 94]
 zoomLevel: 3
 tags: ["mountains", "goblin territory"]
@@ -11,6 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "905" }
   - { rel: spatial, kind: borders, target: "927", note: "SE" }
   - { rel: spatial, kind: borders, target: "914", note: "NW" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-surry" }
 review:
   aiWritten: true
   archetype: ai-ok

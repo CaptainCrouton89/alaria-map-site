@@ -9,6 +9,7 @@ tags: ["island", "geography"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L809"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-neka" }
 review:
   aiWritten: true
   archetype: ai-ok

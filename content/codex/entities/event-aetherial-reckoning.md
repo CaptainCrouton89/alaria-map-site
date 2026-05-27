@@ -4,6 +4,8 @@ name: "Aetherial Reckoning"
 entityType: event
 blurb: "A mysterious cult known as the Aetherial Reckoners exists, claiming to possess knowledge of an impending cosmic event called the Aetherial Reckoning."
 tags: ["event"]
+relations:
+  - { rel: history, kind: occurredDuring, target: "era-seventh-dawn", when: "3376 SD (cult active now; the Reckoning itself is prophesied/future)" }
 sources:
   - "history_and_lore/events/Aetherial Reckoning.md"
 review:

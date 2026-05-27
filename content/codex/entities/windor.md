@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1395", note: "S" }
   - { rel: spatial, kind: borders, target: "1444", note: "SE" }
   - { rel: spatial, kind: borders, target: "1435", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-windorf" }
 review:
   aiWritten: true
   archetype: ai-ok

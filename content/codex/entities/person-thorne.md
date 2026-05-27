@@ -13,7 +13,7 @@ review:
 An ancient druid who dwells in the interior of L'Coth D'hari, in the Elder Wilds. Thorne (both the being and the grove they inhabit) predates the Gamori arrival on the peninsula by an unknown span of time—possibly millennia.
 
 ### Nature
-Thorne is immortal in the manner of greater elves—the original druids who emerged alongside Gaea 120 million years ago. They have pursued a path that diverged from traditional Faesong practice long ago, though the specifics are unknown. Thorne is not exactly evil, but operates by principles that most mortals find disturbing.
+Thorne is immortal in the manner of greater elves—the original druids who emerged alongside Gaea 12 million years ago. They have pursued a path that diverged from traditional Faesong practice long ago, though the specifics are unknown. Thorne is not exactly evil, but operates by principles that most mortals find disturbing.
 
 Rumors suggest:
 - Bargains with entities in the Anchor Tree collective

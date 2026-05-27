@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "4209", note: "S" }
   - { rel: spatial, kind: borders, target: "4276", note: "N" }
   - { rel: spatial, kind: borders, target: "manual-mpiftlzz-35uhf", note: "W" }
+  - { rel: culture, kind: inhabitedBy, target: "race-triton" }
 review:
   aiWritten: true
   archetype: ai-ok

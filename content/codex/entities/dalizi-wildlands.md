@@ -9,6 +9,8 @@ tags: ["region", "geography"]
 sources: ["all_sections_formatted/Aboyinzu.md#L4445"]
 relations:
   - { rel: spatial, kind: within, target: "1864" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-luma" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-shyoka-saseidi" }
 review:
   aiWritten: true
   archetype: ai-ok

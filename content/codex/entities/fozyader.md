@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L727"]
 relations:
   - { rel: spatial, kind: within, target: "4423" }
   - { rel: polity, kind: capitalOf, target: "4423" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-arinsfold" }
 review:
   aiWritten: true
   archetype: ai-ok

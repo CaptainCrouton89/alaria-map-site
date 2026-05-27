@@ -2,7 +2,7 @@
 id: "3046"
 name: "Eoga"
 entityType: region
-blurb: "Eoga controls the southern reaches of the Jungles of Godahi, a territory defined by its wetlands and its position at the edge of the mountain…"
+blurb: "The most isolated of the five Jungles of Godahi nations—hemmed by the Cloud Mountains and known for cunning diplomacy over military strength."
 coordinates: [289, 284]
 zoomLevel: 3
 tags: ["state", "nation"]
@@ -25,7 +25,7 @@ Eoga's territory extends roughly 80 miles east to west and 70 miles north to sou
 - **North**: Borders Qet Yemani through the Jungles of Godahi
 - **East**: Borders Vystrilik
 - **South**: The Cloud Mountains rise abruptly from the jungle floor
-- **West**: The Drift dominates the western territory; the Misty Marsh lies to the east
+- **West**: The Drift dominates the western territory
 
 The **Ellis Cozwa** river winds through Eoga, providing the primary water route through the territory.
 
@@ -41,6 +41,6 @@ These passes are high, cold, and dangerous, crossing through terrain utterly dif
 
 #### Political Character
 
-Eoga's rulers have a reputation across the Jungles for duplicity. Surrounded by more powerful neighbors and controlling land that others consider worthless, Eoga has survived through cunning rather than strength. The nation frequently plays its neighbors against each other, sells information to all sides, and breaks agreements when advantageous.
+Eogans have a reputation across the Jungles for duplicity. Surrounded by more powerful neighbors and controlling land that others consider worthless, Eoga has survived through cunning rather than strength. The nation frequently plays its neighbors against each other, sells information to all sides, and breaks agreements when advantageous.
 
-This reputation is partly deserved and partly cultivated—Eoga's leaders find it useful when others expect treachery. A nation everyone distrusts is a nation no one bothers to conquer.
+This reputation is partly deserved and partly cultivated—Eogan leaders find it useful when others expect treachery. A nation everyone distrusts is a nation no one bothers to conquer.

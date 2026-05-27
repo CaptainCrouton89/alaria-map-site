@@ -23,27 +23,9 @@ All Sharabha carry within them Shara Bolasi's legacy - not just his leonine stre
 - My honor before my life
 - The pride stands together or falls together
 
-### Sharakari (Pride Guardians)
-The Sharakari embody Shara Bolasi's role as protector and leader. These Sharabha have developed their transformation to emphasize defending their pride rather than destroying enemies. In Sharakari communities, the measure of a warrior is not how many foes they've slain, but how many allies they've saved.
-
-Sharakari society revolves around the concept of the "Pride Circle" - concentric rings of loyalty starting with immediate family, extending to clan, community, and finally to all honorable beings. They train from childhood in formations designed to protect the vulnerable, and their transformation reflects this philosophy. A Sharakari who allows harm to come to those under their protection while they still draw breath is considered to have failed their most sacred duty.
-
-Their settlements are built like fortresses turned inside-out, with the strongest warriors living on the perimeter and the most vulnerable at the protected center. Every Sharakari knows their place in the defensive formation and can assume it instantly when danger threatens.
-
-#### Aspects
-- Shield of the innocent
-- I am strongest when others need me
-
-### Sharadin (Oathspeakers)
-The Sharadin have taken Shara Bolasi's final stand and transformed it into a living philosophy. They believe that words spoken with true conviction carry the same power as the lion father's roar - they can shake the earth, bind fate, and change the course of history. These Sharabha have developed elaborate oath-taking ceremonies where their transformation serves as both witness and seal to their vows.
-
-In Sharadin society, an oath sworn in lion form is absolutely unbreakable. They believe that breaking such a vow would not just dishonor them but would retroactively dishonor Shara Bolasi's sacrifice. This has led to a culture where words are chosen with extreme care and promises are rare but absolute. Sharadin often serve as judges, arbiters, and oath-witnesses for other cultures who value their supernatural inability to break their word.
-
-The most powerful Sharadin can even bind others with their oaths, creating mystical contracts that enforce themselves. They say that when a Sharadin speaks an oath, Shara Bolasi himself listens from beyond death to ensure it is kept.
-
-#### Aspects
-- My word is iron law
-- Truth has the power to change worlds
+### Heritages
+- **Sharakari** (Pride Guardians) — Protector-focused Sharabha whose defensive formations and Pride Circle loyalty measure honor by allies saved, not enemies slain. See [[race-sharabha-sharakari]].
+- **Sharadin** (Oathspeakers) — Oath-bound Sharabha who serve as judges and arbiters; their vows sworn in lion form are supernaturally unbreakable. See [[race-sharabha-sharadin]].
 
 <!-- mechanics -->
 

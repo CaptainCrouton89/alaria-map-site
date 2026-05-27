@@ -10,10 +10,10 @@ review:
   aiWritten: false
   action: keep
 ---
-The blood and bones of the titans are among the rarest and most valuable substances in Alaria. They are the only known materials capable of holding Deoric charge—the reality-warping power of the language of creation.
+The blood and bones of the titans are among the rarest and most valuable substances in Alaria. They are the only known materials capable of holding Deoric charge durably — the reality-warping power of the language of creation.
 
 ### Origins
-The titans were the first beings created by Azus, 235 million years ago. They were cosmic entities of pure structure and will, powered by Deoric itself rather than by soul and shadow. When the Ezz Rift flooded Alaria with Melera's music 120 million years ago, most titans experienced emotion for the first time—an agony they had no framework to process. Many killed themselves. Others fled to distant planar stacks across the cosmos.
+The titans were the first beings created by Azus, 23.5 million years ago. They were cosmic entities of pure structure and will, powered by Deoric itself rather than by soul and shadow. When the Ezz Rift flooded Alaria with Melera's music 12 million years ago, most titans experienced emotion for the first time—an agony they had no framework to process. Many killed themselves. Others fled to distant planar stacks across the cosmos.
 
 The bodies that remain are the source of all titan blood and titan bone used today.
 
@@ -35,12 +35,12 @@ Titans were cosmic beings whose very existence was bound to Aurus and Nydus. The
 
 This resonance allows titan materials to act as a buffer for Deoric power. When Deoric runes are inscribed in titan blood, the blood holds the charge without disintegrating, creating stable anchor points that can channel reality-warping force through a mortal's threads without immediately tearing them apart.
 
-Nothing else works. No mortal blood, no alchemical substitute, no synthetic compound can replicate this cosmic resonance.
+For functional handmagic and charged ritual use, nothing else works — no mortal blood, no alchemical substitute, no synthetic compound can replicate this cosmic resonance. The titans themselves inscribed Deoric on stone and other materials, but those inscriptions bear the script without holding an active charge; they decay as the medium weathers, leaving the script as inert history rather than live working.
 
 ### Uses
 **Handmagic**: Titan blood or bone paste is used to tattoo Deoric runes onto the back of the hands. The runes are activated through specific hand articulations.
 
-**Deoric Ink**: Titan materials can be processed into ink for recording Deoric text. Writing Deoric is magically draining—each rune or simple command takes about an hour to inscribe and costs the scribe 10 hitpoints, recovered at only 1 hitpoint per week. Once Deoric text is read by anyone other than the author, it disintegrates into ash.
+**Deoric Ink**: Titan materials can be processed into ink for recording Deoric text. Writing Deoric is magically draining—each rune or simple command takes about an hour to inscribe and costs the scribe 10 hitpoints, recovered at only 1 hitpoint per week. Once Deoric text is read by anyone other than the author, it disintegrates into ash. The titans also inscribed Deoric on stone and varied media across ancient Alaria; most of those inscriptions have weathered to illegibility over millions of years, leaving titan-bone records as the primary surviving source for scholars attempting to reconstruct the language.
 
 **Ritual Components**: Some Deoric rituals require titan blood as a component, though the sacrifice of mortal life remains the primary power source.
 

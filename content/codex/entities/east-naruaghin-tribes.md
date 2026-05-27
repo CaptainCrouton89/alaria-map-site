@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "2620" }
   - { rel: spatial, kind: borders, target: "2798", note: "adjacent sibling tribe; coords coincide [136,296] — coord collision" }
   - { rel: spatial, kind: borders, target: "2825", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
 review:
   aiWritten: true
   archetype: ai-ok

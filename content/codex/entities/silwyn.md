@@ -11,7 +11,8 @@ relations:
   - { rel: spatial, kind: borders, target: "539", note: "N" }
   - { rel: spatial, kind: borders, target: "607", note: "NE" }
   - { rel: spatial, kind: within, target: "2620" }
-  - { rel: culture, kind: inhabitedBy, target: "race-ogre" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ogre-silzar" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ogre-groyza" }
 review:
   aiWritten: true
   archetype: ai-ok

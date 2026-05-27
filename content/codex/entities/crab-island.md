@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L158"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
   - { rel: spatial, kind: borders, target: "4421", note: "N (nearest sibling island, Greenwater Isles)" }
+  - { rel: culture, kind: inhabitedBy, target: "race-nyolci" }
 review:
   aiWritten: true
   archetype: ai-ok

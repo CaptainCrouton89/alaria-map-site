@@ -8,6 +8,7 @@ zoomLevel: 1
 sources: ["all_sections_formatted/Clueanda.md#L6261"]
 relations:
   - { rel: spatial, kind: within, target: "1311" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-neth" }
 review:
   aiWritten: true
   archetype: ai-ok

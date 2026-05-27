@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "816", note: "SE" }
   - { rel: spatial, kind: borders, target: "1005", note: "W" }
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-etherweaver" }
 review:
   aiWritten: false
   archetype: ai-ok

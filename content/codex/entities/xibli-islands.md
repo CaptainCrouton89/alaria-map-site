@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "4165" }
   - { rel: spatial, kind: borders, target: "4175", note: "W" }
   - { rel: spatial, kind: borders, target: "manual-mph9r4cg-3z250", note: "N" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-xibli" }
 review:
   aiWritten: true
   archetype: ai-ok

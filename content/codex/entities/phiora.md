@@ -9,6 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L2148"]
 relations:
   - { rel: spatial, kind: borders, target: "748", note: "NE (small island offshore)" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-verucan" }
 review:
   aiWritten: true
   archetype: ai-ok

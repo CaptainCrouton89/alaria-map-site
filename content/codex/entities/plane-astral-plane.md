@@ -32,11 +32,13 @@ The Astral Plane is illuminated by Aurus, the White Sun (counterpart to Nydus, t
 All souls of the living go to the Astral Plane upon death. The Astral Plane is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the souls of the dead.
 
 #### The Dreaming of Lyzaria
-The very fabric of the Astral Sea is woven from the essence of Lyzaria, the first titan to die. When she chose death 235 million years ago, her soul spread across the Astral Plane, becoming the foundational substrate that all later souls settle into. Every soul that enters the Astral Sea flows through traces of her essence.
+The very fabric of the Astral Sea is woven from the essence of Lyzaria, the first titan to die. When she chose death 23.5 million years ago, her soul spread across the Astral Plane, becoming the foundational substrate that all later souls settle into. Every soul that enters the Astral Sea flows through traces of her essence.
 
 The Dreaming of Lyzaria is not a region—it is the Astral Sea itself. Her memories are diffused throughout the waters. Those who sail far enough from the known islands sometimes report strange visions: glimpses of the titan age, echoes of thoughts that are not their own, the faint sense that something vast and ancient is watching. In the deepest waters, it is said that the boundary between your memories and Lyzaria's becomes thin. Travelers who linger too long may forget who they are and remember someone else instead.
 
 Lyzaria's presence also makes the Astral Plane a repository for souls—she carved the grooves that allow the dead to persist here rather than simply dissipating. Without her sacrifice, there would be no afterlife as mortals understand it.
+
+The channel she carved—soul to the Astral Plane upon death—was the first strand of what became mortality itself, and it predated the Ezz Rift entirely. Her death also defined the second strand: shadow to Malstaris. Together these two channels constituted the original death, the two-strand structure that every mortal death followed for millions of years before Ezz existed in Alaria. When the Ezz Rift flooded the world, it threaded a third strand into the framework Lyzaria had built: spirit to Celestia. That addition was made possible because the channels were already there. She had made the road; the Rift opened a third lane.
 
 ### Fauna
 ##### Astral Sentinels

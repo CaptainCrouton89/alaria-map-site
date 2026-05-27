@@ -7,6 +7,7 @@ coordinates: [193, 333]
 zoomLevel: 4
 relations:
   - { rel: spatial, kind: within, target: "3281" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

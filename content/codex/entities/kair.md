@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L805"]
 relations:
   - { rel: spatial, kind: within, target: "514" }
   - { rel: polity, kind: capitalOf, target: "514" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-eloweir" }
 review:
   aiWritten: true
   archetype: ai-ok

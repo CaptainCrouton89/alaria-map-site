@@ -9,7 +9,14 @@ sources: ["all_sections_formatted/Upoceax.md#L3038"]
 relations:
   - { rel: spatial, kind: borders, target: "3781", note: "East, across The Spout channel" }
   - { rel: spatial, kind: within, target: "3341" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-chargon" }
+  - { rel: culture, kind: inhabitedBy, target: "race-nyolci" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-eloweir" }
+  - { rel: culture, kind: inhabitedBy, target: "race-swuigrach" }
+  - { rel: culture, kind: inhabitedBy, target: "race-craven" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ayblek" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-shapers" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-qordik" }
 review:
   aiWritten: true
   archetype: ai-ok

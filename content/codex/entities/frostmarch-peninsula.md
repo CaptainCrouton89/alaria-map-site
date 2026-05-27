@@ -11,6 +11,12 @@ relations:
   - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "1248", note: "W" }
   - { rel: spatial, kind: borders, target: "1346", note: "NE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-danaki" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-tikhaya" }
+  - { rel: culture, kind: inhabitedBy, target: "race-wytrolape" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-enti" }
+  - { rel: culture, kind: inhabitedBy, target: "race-alekroin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-spindral" }
 review:
   aiWritten: true
   archetype: ai-ok

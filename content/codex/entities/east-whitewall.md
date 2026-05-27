@@ -9,6 +9,7 @@ tags: ["cliffs", "geography"]
 sources: ["all_sections_formatted/Upoceax.md#L6229"]
 relations:
   - { rel: spatial, kind: within, target: "4085" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-yorinthian" }
 review:
   aiWritten: true
   archetype: ai-ok

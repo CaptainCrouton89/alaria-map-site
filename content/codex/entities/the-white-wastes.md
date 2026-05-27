@@ -9,6 +9,7 @@ tags: ["desert", "geography"]
 sources: ["all_sections_formatted/Upoceax.md#L5669"]
 relations:
   - { rel: spatial, kind: within, target: "3902" }
+  - { rel: culture, kind: inhabitedBy, target: "race-tykrenv" }
 ---
 A vast white desert in Wycendeula.
 

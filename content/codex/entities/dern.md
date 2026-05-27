@@ -9,6 +9,7 @@ tags: ["state", "nation", "mountains"]
 sources: ["all_sections_formatted/Ve.md#L809"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-dern" }
 review:
   aiWritten: true
   archetype: ai-ok

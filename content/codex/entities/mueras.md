@@ -9,6 +9,8 @@ tags: ["state", "nation", "coastal"]
 sources: ["all_sections_formatted/Rimihuica.md#L2799"]
 relations:
   - { rel: spatial, kind: within, target: "2620" }
+  - { rel: culture, kind: inhabitedBy, target: "race-yngli" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-drachma" }
 review:
   aiWritten: true
   archetype: ai-ok

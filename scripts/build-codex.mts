@@ -55,6 +55,17 @@ function splitMechanics(content: string): { body: string; mechanics?: string } {
   return mechanics ? { body, mechanics } : { body };
 }
 
+const AUTHOR_SENTINEL = '<!-- author-notes -->';
+/**
+ * Strip a private author-notes block (the sentinel to end-of-file) so it NEVER reaches the
+ * map/codex outputs. These are authoring reminders — constraints to bear in mind when working a
+ * subject — not player-facing lore. Must be the final block in the file (after any mechanics).
+ */
+function stripAuthorNotes(content: string): string {
+  const i = content.indexOf(AUTHOR_SENTINEL);
+  return i < 0 ? content : content.slice(0, i).trim();
+}
+
 // Frontmatter keys with a dedicated home; everything else falls through to `metadata`.
 const RESERVED_FM = new Set([
   'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
@@ -82,7 +93,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
     metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
-    ...splitMechanics(parsed.content.trim()),
+    ...splitMechanics(stripAuthorNotes(parsed.content.trim())),
   });
 }
 const byId = new Map(entities.map((e) => [e.id, e]));

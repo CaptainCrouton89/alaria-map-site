@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "298", note: "S" }
   - { rel: spatial, kind: borders, target: "23", note: "W" }
   - { rel: spatial, kind: borders, target: "368", note: "N" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-temptari" }
 review:
   aiWritten: true
   archetype: ai-ok

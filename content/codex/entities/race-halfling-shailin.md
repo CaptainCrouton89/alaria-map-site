@@ -1,0 +1,21 @@
+---
+id: "race-halfling-shailin"
+name: "Shailin"
+entityType: race
+blurb: "Yellow-eyed halflings of Sestros shaped by daemon prophecies from Talresses; they build for futures not yet arrived and age strangely."
+relations:
+  - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-talressses" }
+sources:
+  - "races/Halfling.md"
+review:
+  aiWritten: false
+  action: keep
+---
+The yellow-eyed Shailin of Sestros live in a constant state of anticipatory readiness, their entire culture shaped around prophecies that always seem just about to come true. Their daemon whispers different things to each of them—fragments of possible futures, warnings about paths not taken, promises of glory that require just one more sacrifice. They build their cities with empty throne rooms for kings not yet born, maintain armies for wars not yet declared, and teach their children skills for professions that don't yet exist. Every Shailin carries a small journal where they record their personal prophecies, creating vast libraries of contradictory futures that their scholars desperately try to reconcile. The most respected members of society are those whose prophecies have almost come true—the "Nearly Blessed" who were so close to their destiny that they could taste it.
+
+The Shailin have developed elaborate rituals around decision-making, using their daemon whispers like a twisted magic 8-ball. Before any major choice, they perform "future readings" where they listen to the whispers while considering each option, trusting that Talresses will guide them correctly. That this frequently leads to disaster doesn't shake their faith—clearly, the disaster was necessary for the greater destiny still to come. Their architecture reflects this temporal confusion, with buildings constructed for purposes that might become clear someday, doors that open onto walls (for now), and staircases that lead nowhere (yet). They age strangely, sometimes looking decades older or younger than their actual years, as if their bodies can't quite agree on when they're supposed to be.
+
+#### Aspects
+- My time will come, as was foretold
+- Every failure brings me closer to destiny

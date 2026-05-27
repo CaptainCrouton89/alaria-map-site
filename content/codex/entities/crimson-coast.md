@@ -9,6 +9,8 @@ tags: ["ruins", "poi", "hilda's-forest", "crimson-coast"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8284"]
 relations:
   - { rel: spatial, kind: within, target: "1388" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-istori" }
 review:
   aiWritten: true
   archetype: ai-ok

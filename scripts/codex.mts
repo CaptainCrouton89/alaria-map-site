@@ -105,6 +105,7 @@ codex report — aggregates and filtered lists for triage. Read-only. Never enum
 Leaves
   status   corpus-wide counts (review coverage, containment, weights) | use to gauge overall progress
   list     filtered, paginated entity list                            | use to pull a worklist (e.g. unclaimed in a region)
+  lint     graph-validity checks: dangling targets, capitalOf non-polity, both-ends-authored, orphans | exits 1 on errors
 `;
 
 // ===================================================================== HANDLERS
@@ -604,6 +605,155 @@ Effects
   emit({ ok: true, locations: num(/locations\.json: (\d+)/), codexEntries: num(/codex: (\d+) entries/), containmentEdges: num(/\((\d+) containment edges/), typedEdges: num(/containment edges, (\d+) typed/) });
 }
 
+function reportLint() {
+  if (wantHelp) help(`
+codex report lint — graph-validity checks over the entity corpus. Read-only. Exits 1 when any error-severity finding exists.
+
+Checks
+  danglingTargets      (error)   relation targets that do not exist in the index (surfaced from build's silent skip)
+  capitalOfNonPolity   (error)   capitalOf edges whose target entityType is not region/nation/faction
+  bothEndsDirected     (error)   directed edge kinds authored in both directions (violates one-direction-only discipline)
+  bothEndsUndirected   (warning) undirected edge kinds (borders, separatedBy) authored on both ends — redundant but harmless
+  orphansGeographic    (warning) geographic entities (region/town/city/water/wilderness/ruins/fortress/poi) with no within edge
+  orphansNonGeographic (info)    non-geographic entities with no within edge — expected; count only, not enumerated
+
+Severity model
+  error   → ok:false, exit code 1 (gates CI/agents)
+  warning → counted and enumerated, does NOT fail the exit code
+  info    → count only, not enumerated
+
+Limitations
+  date-sanity: no structured date fields — entities use free-text dates in body prose; born-after-death /
+  capital-predates-polity checks are not implementable without a structured era ordering (future schema work).
+
+Output (JSON)
+  { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, bothEndsUndirected,
+    orphansGeographic, orphansNonGeographic }, limitations }
+`);
+
+  interface Finding { source: string; sourceName: string; kind: string; target?: string; detail: string }
+
+  const POLITY_SET = new Set(['region', 'nation', 'faction']);
+  const UNDIRECTED = new Set(['borders', 'separatedBy']);
+  const GEOGRAPHIC = new Set(['region', 'town', 'city', 'water', 'wilderness', 'ruins', 'fortress', 'poi']);
+
+  const index = byId();
+  const entities = all();
+
+  // Check 1 — dangling targets
+  const danglingFindings: Finding[] = [];
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (r.target === undefined) continue;
+      const tid = String(r.target);
+      if (!index.has(tid)) {
+        danglingFindings.push({
+          source: String(e.data.id),
+          sourceName: String(e.data.name ?? e.file),
+          kind: String(r.kind ?? r.rel ?? ''),
+          target: tid,
+          detail: 'target id not found',
+        });
+      }
+    }
+  }
+
+  // Check 2 — capitalOf non-polity
+  const capitalFindings: Finding[] = [];
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (String(r.kind ?? r.rel ?? '') !== 'capitalOf') continue;
+      if (r.target === undefined) continue;
+      const tid = String(r.target);
+      const tgt = index.get(tid);
+      if (!tgt) continue; // already caught by check 1
+      if (!POLITY_SET.has(String(tgt.data.entityType ?? ''))) {
+        capitalFindings.push({
+          source: String(e.data.id),
+          sourceName: String(e.data.name ?? e.file),
+          kind: 'capitalOf',
+          target: tid,
+          detail: `target entityType is "${tgt.data.entityType}" (expected region/nation/faction)`,
+        });
+      }
+    }
+  }
+
+  // Check 3 — both-ends-authored
+  const tripleSet = new Set<string>();
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (r.target === undefined) continue;
+      const k = String(r.kind ?? r.rel ?? '');
+      tripleSet.add(`${String(e.data.id)}|${k}|${String(r.target)}`);
+    }
+  }
+  const bothDirectedFindings: Finding[] = [];
+  const bothUndirectedFindings: Finding[] = [];
+  const bothEndsSeen = new Set<string>();
+  for (const triple of tripleSet) {
+    const [src, kind, tgt] = triple.split('|');
+    const reverse = `${tgt}|${kind}|${src}`;
+    if (!tripleSet.has(reverse)) continue;
+    const pairKey = `${[src, tgt].sort().join('|')}|${kind}`;
+    if (bothEndsSeen.has(pairKey)) continue;
+    bothEndsSeen.add(pairKey);
+    const srcEntity = index.get(src);
+    const finding: Finding = {
+      source: src,
+      sourceName: String(srcEntity?.data.name ?? src),
+      kind,
+      target: tgt,
+      detail: 'both ends authored',
+    };
+    if (UNDIRECTED.has(kind)) {
+      bothUndirectedFindings.push(finding);
+    } else {
+      bothDirectedFindings.push(finding);
+    }
+  }
+
+  // Check 4 — orphan sweep
+  const orphanGeoFindings: Finding[] = [];
+  let orphanNonGeoCount = 0;
+  for (const e of entities) {
+    if (withinTarget(e.data) !== null) continue;
+    const et = String(e.data.entityType ?? '');
+    if (GEOGRAPHIC.has(et)) {
+      orphanGeoFindings.push({
+        source: String(e.data.id),
+        sourceName: String(e.data.name ?? e.file),
+        kind: 'within',
+        detail: 'no within edge',
+      });
+    } else {
+      orphanNonGeoCount++;
+    }
+  }
+
+  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length;
+  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length;
+
+  emit({
+    ok: errors === 0,
+    errors,
+    warnings,
+    checks: {
+      danglingTargets:     { severity: 'error',   count: danglingFindings.length,       findings: danglingFindings },
+      capitalOfNonPolity:  { severity: 'error',   count: capitalFindings.length,         findings: capitalFindings },
+      bothEndsDirected:    { severity: 'error',   count: bothDirectedFindings.length,    findings: bothDirectedFindings },
+      bothEndsUndirected:  { severity: 'warning', count: bothUndirectedFindings.length,  findings: bothUndirectedFindings },
+      orphansGeographic:   { severity: 'warning', count: orphanGeoFindings.length,       findings: orphanGeoFindings },
+      orphansNonGeographic:{ severity: 'info',    count: orphanNonGeoCount },
+    },
+    limitations: ['date-sanity: no structured date fields — see plan'],
+  });
+  process.exit(errors > 0 ? 1 : 0);
+}
+
 // ===================================================================== DISPATCH
 const route = cmd.join(' ');
 (async () => {
@@ -622,6 +772,7 @@ const route = cmd.join(' ');
     case 'entity show': return entityShow();
     case 'report status': return reportStatus();
     case 'report list': return reportList();
+    case 'report lint': return reportLint();
     case 'build': return build();
     default: fail('unknown_command', `no such command: ${route}`, { received: route, next: 'Run `codex -h` for the command tree.' });
   }

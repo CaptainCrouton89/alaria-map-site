@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2662", note: "N" }
   - { rel: spatial, kind: borders, target: "2798", note: "N" }
   - { rel: spatial, kind: within, target: "2620" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
 review:
   aiWritten: true
   archetype: ai-ok

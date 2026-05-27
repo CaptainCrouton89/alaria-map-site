@@ -9,6 +9,8 @@ sources: ["all_sections_formatted/Rimihuica.md#L5964"]
 relations:
   - { rel: spatial, kind: within, target: "3178" }
   - { rel: polity, kind: capitalOf, target: "3178" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-skaag" }
 ---
 The capital. Where the Lucenia River empties into the Divinity Passage, Azantir sprawls across both banks in a maze of pyramids, canals, and markets. This is the largest city in the Shacklands—estimates put the population at over 200,000, though accurate counts are impossible given the Skaag warrens below and the constant flow of slaves through the markets.
 

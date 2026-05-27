@@ -10,6 +10,9 @@ sources: ["all_sections_formatted/Rimihuica.md#L727"]
 relations:
   - { rel: spatial, kind: borders, target: "2484", note: "west" }
   - { rel: spatial, kind: within, target: "2455" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
+  - { rel: polity, kind: ruledBy, target: "person-ulyas" }
+  - { rel: polity, kind: tributaryOf, target: "2455", note: "nominal control" }
 review:
   aiWritten: true
   archetype: ai-ok

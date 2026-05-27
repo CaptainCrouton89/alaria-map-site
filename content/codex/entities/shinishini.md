@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Clueanda.md#L1237"]
 relations:
   - { rel: spatial, kind: within, target: "591" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: stub

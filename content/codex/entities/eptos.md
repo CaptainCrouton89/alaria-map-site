@@ -1,7 +1,7 @@
 ---
 id: "manual-mphqoxh1-jg43e"
 name: "Eptos"
-entityType: village
+entityType: town
 blurb: ""
 coordinates: [324, 345]
 zoomLevel: 5

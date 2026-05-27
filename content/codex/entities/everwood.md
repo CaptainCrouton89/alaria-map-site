@@ -9,6 +9,7 @@ tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L3701"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-myushli" }
 ---
 A vast forest stretching across the southern Krenglelan Range and into the lowlands beyond, the Everwood is not a forest in any normal sense—it is a single, continent-spanning organism that has been growing for millennia.
 

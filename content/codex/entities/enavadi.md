@@ -11,6 +11,9 @@ relations:
   - { rel: spatial, kind: within, target: "3342" }
   - { rel: spatial, kind: borders, target: "3354", note: "NW" }
   - { rel: spatial, kind: borders, target: "3375", note: "SW" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-chargon" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-drachma" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2662", note: "South" }
   - { rel: spatial, kind: borders, target: "2825", note: "South" }
   - { rel: spatial, kind: borders, target: "2455", note: "North" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
 review:
   aiWritten: true
   archetype: ai-ok

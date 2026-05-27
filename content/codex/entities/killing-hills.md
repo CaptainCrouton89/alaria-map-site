@@ -8,7 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L6241"]
 relations:
   - { rel: spatial, kind: within, target: "3206" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-kuru" }
 review:
   aiWritten: true
   archetype: ai-ok

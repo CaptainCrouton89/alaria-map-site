@@ -9,6 +9,7 @@ tags: ["mountains", "geography", "gondurak", "fengruk"]
 sources: ["all_sections_formatted/Aboyinzu.md#L6806"]
 relations:
   - { rel: spatial, kind: within, target: "2201" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-fengruk" }
 ---
 A harsh range of peaks in the eastern Dragon's Spine, rising between the Hills of Sarrow to the north and the Pale Peaks to the south. The Bellowing Mountains are perpetually cold—snow blankets the upper slopes year-round, and the valleys rarely see temperatures above freezing even in summer. This is Gondurak, homeland of the Fengruk dwarves and site of the three great forges.
 

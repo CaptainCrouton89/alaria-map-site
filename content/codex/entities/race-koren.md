@@ -16,23 +16,9 @@ The Koren are a feline people with the grace and power of great cats. Their soci
 - **Height:** 4.5-5.5 feet
 - **Weight:** 80-160 pounds
 
-### Kor (Highborn)
-The Kor are the ruling class of Koren society, bound by an intricate web of social customs and obligations. To be Kor is to master oneself completely - emotions are private battles never to burden others with. Their society values composure, precision, and adherence to tradition above all else. Breaking social custom means exile, a fate worse than death for most Kor.
-
-Every gesture, word, and glance carries meaning in Kor society. They communicate as much through what is left unsaid as through speech itself, reading volumes in the angle of an ear or the position of a tail. This rigid structure has allowed them to build sophisticated civilizations and maintain order for centuries.
-
-#### Aspects
-- Social customs must never be broken
-- My feelings are my own burden to bear
-
-### Korel (Wildborn)
-The Korel are what the Kor fear to become - Koren who embrace their feral nature. Whether descended from exiles, born outside Kor society, or simply those who rejected its constraints, the Korel live by instinct rather than etiquette. Where the Kor suppress their predatory nature, the Korel revel in it.
-
-They form loose packs and hunting bands, valuing cunning and strength over propriety. Many work as scouts, thieves, or mercenaries, finding freedom in professions the Kor consider beneath them. Yet despite their reputation as savages, the Korel have their own codes - loyalty to the pack, the thrill of the hunt, and survival above all else.
-
-#### Aspects
-- The pack survives together
-- I trust my instincts
+### Heritages
+- **Kor** (Highborn) — The ruling class of Koren society, bound by intricate customs where every gesture carries meaning and breaking custom means exile. See [[race-koren-kor]].
+- **Korel** (Wildborn) — Feral Koren who embrace their predatory nature, forming loose hunting packs and living by instinct over etiquette. See [[race-koren-korel]].
 
 <!-- mechanics -->
 

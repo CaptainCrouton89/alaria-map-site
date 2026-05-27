@@ -50,51 +50,11 @@ The Kendor and the Tritons of Vetral share ancient origins but have diverged pro
 
 **Trade**: Limited but present. Pelaendor traders occasionally reach Vetral-controlled waters, exchanging Kendrel luxury goods for triton forgecrab metal and deep-sea salvage rights. These transactions are strictly commercial—neither side pretends friendship.
 
----
-
-### Kendrel (Court Kendor)
-The Kendrel embody the highest ideals of Kendor society—masters of etiquette, romance, and social manipulation. Their scales shimmer with pearl-like iridescence, and they decorate themselves with cultivated coral jewelry and woven kelp garments of impossible intricacy. Every movement is a calculated dance, every word chosen for maximum impact.
-
-In their hidden palace-fortresses beneath tropical reefs, the Kendrel engage in elaborate games of courtship and politics that can span decades. They view violence as beneath them, preferring to destroy enemies through social exile, romantic humiliation, or financial ruin. Many Kendrel who venture to the surface world become diplomats, matchmakers, or advisors to powerful nobles who value their supernatural understanding of social dynamics.
-
-#### Aspects
-- Master of courtly intrigue
-- Violence is beneath me
-
-### Cendoriln (Abyss Kendor)
-Where the Kendrel embrace light and beauty, the Cendoriln have adapted to the crushing darkness of deep ocean trenches. Their scales are darker—deep purples, blacks, and midnight blues—with bioluminescent patterns they can control at will. The "nasty" reputation they've earned comes from their willingness to do what other Kendor won't: engage in violence when necessary, though they still prefer manipulation and fear to direct confrontation.
-
-The Cendoriln's hidden fortresses lie in underwater caves and thermal vents, places where even other aquatic races fear to venture. They are master secret-keepers and blackmailers, trading in information that could topple kingdoms. Their courtship rituals involve elaborate displays of bioluminescence and tests of mental fortitude rather than the Kendrel's focus on beauty and charm.
-
-**Diaspora**: Unlike the other subraces, Cendoriln have spread far beyond the Kendrel Kingdoms. Populations exist in the Riptear Sea, deep Aboyinzu, and scattered thermal vent systems throughout the world's oceans. These diaspora communities maintain no contact with surface nations and often refuse communication even with the Kendrel Kingdoms, considering themselves purer practitioners of Kendor tradition—uncorrupted by surface influence. The Riptear Cendoriln are particularly isolationist, and their existence is known only through rare Pelaendor encounters.
-
-#### Aspects
-- Secrets are currency
-- I thrive where others fear to swim
-
-### Pelaendor (Wanderer Kendor)
-Some Kendor have abandoned the hidden fortresses entirely, becoming nomadic wanderers who travel the ocean currents and occasionally venture onto land. The Pelaendor have adapted to life between worlds, their scales taking on sandy, mottled patterns that help them blend into various environments. They serve as the primary ambassadors between Kendor society and the surface world.
-
-Unlike their fortress-dwelling kin, the Pelaendor have learned that sometimes violence, while regrettable, is necessary for survival. They maintain the Kendor appreciation for beauty and social grace but temper it with practicality. Many become traders, messengers, or guides, using their ability to navigate both underwater and terrestrial societies.
-
-**Global presence**: Pelaendor can be found in warm coastal waters throughout Alaria, far beyond the Kendrel Kingdoms. Individual wanderers serve as advisors to surface courts, translators for maritime trade, and intermediaries between civilizations that would otherwise have no contact. The naga court of Adron has employed Pelaendor advisors for centuries; Middle Sea trading cities host small Pelaendor communities; even distant Ve has occasional Pelaendor visitors. These individuals maintain loose ties to the Kendrel Kingdoms, trading information and prestige, but operate with considerable independence.
-
-#### Aspects
-- Comfortable in any current
-- Bridge between worlds
-
-### Pelarian (Fire Kendor)
-The Pelarians are an anomaly—aquatic beings with fire attunement. Generations of life among the volcanic vents of southern Pelaria have transformed them, creating a subrace that other Kendor find deeply unsettling. Their scales trend toward darker reds, oranges, and smoky blacks, and they literally steam when agitated.
-
-The Pelarians have adapted not just physically but culturally. They maintain the Kendor appreciation for social grace but have developed a martial tradition that horrifies traditionalists. They distinguish between "aggression" (attacking the unwilling, which remains shameful) and "contest" (combat between consenting parties, which is honorable). This semantic distinction allows them to maintain armies, conduct duels, and wage defensive war while technically adhering to Kendor values.
-
-Northern Kendor consider the Pelarians borderline heretics. The Pelarians consider the northern Kendor naive about survival in a dangerous world. Both are probably right.
-
-**Origin theories**: Scholars debate whether the Pelarian adaptation is purely environmental (generations of exposure to volcanic heat and fire-element leylines) or reflects deliberate magical experimentation. Pelarian oral tradition speaks of ancestors exiled from ancient Glador for defending their homes when the nobility counseled retreat—but whether this exile caused the fire attunement or the adaptation came later remains unclear.
-
-#### Aspects
-- Forged in fire, tempered by water
-- Violence has its place
+### Heritages
+- **Kendrel** (Court Kendor) — Masters of etiquette and social manipulation in hidden palace-fortresses beneath tropical reefs. See [[race-kendor-kendrel]].
+- **Cendoriln** (Abyss Kendor) — Bioluminescent deep-ocean Kendor who trade in secrets and blackmail from underwater caves and thermal vents. See [[race-kendor-cendoriln]].
+- **Pelaendor** (Wanderer Kendor) — Nomadic Kendor who travel ocean currents and serve as primary ambassadors between Kendor society and the surface world. See [[race-kendor-pelaendor]].
+- **Pelarian** (Fire Kendor) — Volcanic-vent Kendor with fire attunement who developed a martial tradition that distinguishes honorable contest from aggression. See [[race-kendor-pelarian]].
 
 <!-- mechanics -->
 

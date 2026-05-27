@@ -14,6 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1129", note: "NE" }
   - { rel: spatial, kind: borders, target: "1141", note: "E" }
   - { rel: spatial, kind: borders, target: "2462", note: "SE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-shazuihni" }
 review:
   aiWritten: true
   archetype: ai-ok

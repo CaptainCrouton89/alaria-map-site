@@ -15,6 +15,9 @@ relations:
   - { rel: spatial, kind: borders, target: "2501", note: "northwest" }
   - { rel: spatial, kind: borders, target: "manual-mpha4gzt-vjyu9", note: "south (Tarkhon Passage)" }
   - { rel: spatial, kind: borders, target: "2488", note: "W" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-craven" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-stone-men" }
 review:
   aiWritten: true
   archetype: ai-ok

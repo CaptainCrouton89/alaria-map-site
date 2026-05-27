@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Western_Isles.md#L750"]
 relations:
   - { rel: spatial, kind: within, target: "4276" }
   - { rel: polity, kind: capitalOf, target: "4276" }
+  - { rel: culture, kind: inhabitedBy, target: "race-triton" }
 review:
   aiWritten: true
   archetype: ai-ok

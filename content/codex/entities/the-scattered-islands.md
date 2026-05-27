@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "3342" }
   - { rel: spatial, kind: borders, target: "3412", note: "west, across Scatter Sound" }
   - { rel: spatial, kind: borders, target: "manual-mpii5qyj-9mpv2", note: "east, across the sound toward the Eskiloko coast" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kappa" }
 review:
   aiWritten: true
   archetype: ai-ok

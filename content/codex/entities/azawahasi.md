@@ -10,6 +10,8 @@ sources: ["all_sections_formatted/Clueanda.md#L291"]
 relations:
   - { rel: spatial, kind: borders, target: "759", note: "W — across the goblin Jinxz Plains buffer" }
   - { rel: spatial, kind: within, target: "2857" }
+  - { rel: culture, kind: inhabitedBy, target: "race-sharabha-sharadin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-sharabha-sharakari" }
 review:
   aiWritten: true
   archetype: ai-ok

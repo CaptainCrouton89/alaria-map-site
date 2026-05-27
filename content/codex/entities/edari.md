@@ -14,6 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "130", note: "W" }
   - { rel: spatial, kind: borders, target: "131", note: "E" }
   - { rel: spatial, kind: borders, target: "329", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-koren-korel" }
 review:
   aiWritten: true
   archetype: ai-ok

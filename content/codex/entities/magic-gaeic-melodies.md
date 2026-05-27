@@ -14,6 +14,6 @@ Gaeic melodies are the bardic reproduction of Faesong—the music of Melera that
 
 While Rusalka, faeries, nelkie, and nymphs can naturally hear and use Faesong for their magic, mortal bards must learn to approximate these melodies through study and performance.
 
-Gaeic magic is somewhat related to the psywinds—the swirling mass of thoughts between the planar layers.
+Gaeic magic is an expression of Faesong — the emotional harmony that flows outward from Melera — reproduced by mortal voice and instrument.
 
 {/* TODO: Add details on bardic traditions, melody types, magical effects */}

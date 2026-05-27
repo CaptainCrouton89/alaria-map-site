@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L1753"]
 relations:
   - { rel: spatial, kind: within, target: "681" }
   - { rel: polity, kind: capitalOf, target: "681" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-ohblex" }
 review:
   aiWritten: true
   archetype: ai-ok

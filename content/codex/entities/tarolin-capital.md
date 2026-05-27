@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Ve.md#L166"]
 relations:
   - { rel: polity, kind: capitalOf, target: "18" }
   - { rel: spatial, kind: within, target: "18" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-temptari" }
 ---
 The seat of the Grand Imperial Ecclesiarch sits where the Honor River bends through the heart of Avalon. Tarolin is both capital and pilgrimage site, its central temple-palace housing the throne where the Ecclesiarch has sat, unblinking, for longer than anyone can remember.
 

@@ -23,23 +23,9 @@ Regardless of which path they follow, all children of Anubis are capable of weig
 - **Weight:** 120-200 pounds
 - **Max Age:** 160 years
 
-### Servants of Anubis
-Those who choose to serve their ancestral father become known as Servants of Anubis. They dedicate their lives to maintaining the natural order of death, ensuring that souls reach their proper destination in Malstaris and that none return to trouble the living. These children are famous for their work hunting liches, destroying the undead, and guiding lost souls to their final rest.
-
-Servants often work as undertakers, exorcists, or wandering death-speakers, traveling from town to town to perform last rites and eliminate undead threats. They wear their connection to Anubis proudly, often adorning themselves with jackal imagery and carrying ankhs as symbols of their divine duty.
-
-#### Aspects
-- Duty to the natural order of death
-- Death is sacred, undeath is abomination
-
-### Forsaken of Anubis
-Those who turn away from Anubis's guidance become the Forsaken, choosing to wield their inherited powers for their own purposes. Rather than allow their ancestral father to weigh souls for judgment, they choose to deliver justice themselves, acting as both judge and executioner. Like their father, they can feed souls to Ammit, devourer of souls. While Anubis only sends the most corrupted souls to be devoured, the Forsaken are bound by no such restrictions.
-
-Feeding souls to Ammit is dangerous, for Ammit is eternally hungry and sometimes takes more than offered. The Forsaken walk a razor's edge between power and damnation, using their divine heritage as a weapon rather than a responsibility.
-
-#### Aspects
-- Judge, jury, and executioner
-- Power justifies itself
+### Heritages
+- **Servants of Anubis** — Devoted death-hunters who maintain the natural order, eliminating undead and guiding lost souls to Malstaris. See [[race-children-of-anubis-servants]].
+- **Forsaken of Anubis** — Self-appointed judges who wield divine inheritance for personal justice, feeding souls to Ammit with no divine restriction. See [[race-children-of-anubis-forsaken]].
 
 <!-- mechanics -->
 

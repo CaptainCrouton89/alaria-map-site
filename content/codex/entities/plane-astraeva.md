@@ -1,22 +1,21 @@
 ---
 id: "plane-astraeva"
 name: "Astraeva"
-entityType: plane
-blurb: "Astraeva is the flip side of the Astral Plane—but unlike other planar flip-sides, it is not truly a 'place' in the conventional sense."
-tags: ["plane", "cosmology", "soul", "Aurus"]
+entityType: magic
+blurb: "The unmediated presence of Aurus himself—not a plane, but the sub-presence core of the White Sun that underlies the Astral Plane."
+tags: ["cosmology", "soul", "Aurus", "sub-presence"]
 sources:
   - "cosmology_and_religion/alarian_planar_stack/planes/Astraeva.md"
 review:
   aiWritten: false
   action: keep
 relations:
-  - { rel: cosmology, kind: flipSideOf, target: "plane-astral-plane" }
   - { rel: cosmology, kind: sourceOf, target: "plane-astral-plane" }
 ---
-Astraeva is the flip side of the Astral Plane—but unlike other planar flip-sides, it is not truly a "place" in the conventional sense. Astraeva is **Aurus himself**, unfiltered and unmediated.
+Astraeva is not a plane. It is Aurus himself, unfiltered and unmediated—the sub-presence core that underlies and generates the Astral Plane, not a separate destination that can be reached by passing through it. The Astral Plane is what Aurus's light becomes when it filters through structure; Astraeva is what remains when those structures are absent.
 
 ### Nature
-The Astral Plane is Aurus's light filtered through structure: the floating islands, the Astral Sea, the accumulated souls that buffer his brilliant radiance. Astraeva is what remains when those buffers are stripped away—the raw, direct presence of the White Sun.
+The Astral Plane is Aurus's light filtered through structure: the floating islands, the Astral Sea, the accumulated souls that buffer his brilliant radiance. Astraeva is what remains when those buffers are stripped away—the raw, direct presence of the White Sun. It is not a region of the Astral Plane, nor beyond it; it is the source from which the Astral Plane emanates.
 
 To enter Astraeva is to stand within the source of all souls. There are no islands here, no sea, no landmarks. Only light—warm, vast, and terrifyingly welcoming.
 

@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "479", note: "giant-inhabited basin on the eastern frontier" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

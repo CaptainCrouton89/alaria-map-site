@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L6525"]
 relations:
   - { rel: spatial, kind: borders, target: "3300", note: "west" }
   - { rel: spatial, kind: within, target: "3151" }
-  - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-mudzwiti" }
 review:
   aiWritten: true
   archetype: ai-ok

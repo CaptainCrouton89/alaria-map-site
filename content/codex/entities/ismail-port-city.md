@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Ve.md#L196"]
 relations:
   - { rel: spatial, kind: within, target: "18" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-temptari" }
 ---
 Where the Honor River empties into Munari Inlet stands Ismail, Avalon's window to the world. The city of perhaps 12,000 serves as the kingdom's primary port—nearly everything that enters or leaves Avalon by sea passes through Ismail's harbor.
 

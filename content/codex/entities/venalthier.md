@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "3341" }
   - { rel: spatial, kind: borders, target: "3902", note: "N" }
   - { rel: spatial, kind: borders, target: "3961", note: "E" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-yorinthian" }
 review:
   aiWritten: true
   archetype: ai-ok

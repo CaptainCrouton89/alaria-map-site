@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3604", note: "north" }
   - { rel: spatial, kind: borders, target: "3529", note: "south" }
   - { rel: spatial, kind: borders, target: "3484", note: "southwest" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-amverela" }
 review:
   aiWritten: true
   archetype: ai-ok

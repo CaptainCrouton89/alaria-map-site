@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L643"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
   - { rel: history, kind: caused, target: "event-campaign-roule-invades" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-arinsfold" }
 review:
   aiWritten: true
   archetype: ai-ok

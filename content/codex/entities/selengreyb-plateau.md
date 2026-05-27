@@ -47,7 +47,7 @@ Selengreyb's practical importance is minimal—no resources exist, no settlement
 
 #### The Depression
 
-Near the plateau's center, a shallow depression perhaps 20 miles across marks where a fragment of the lost third moon struck Alaria during the Ezz Rift, 120 million years ago.
+Near the plateau's center, a shallow depression perhaps 20 miles across marks where a fragment of the lost third moon struck Alaria during the Ezz Rift, 12 million years ago.
 
 Before the Rift, Alaria had three moons. The cataclysm that created the planar stack also shattered the third moon, scattering debris across the world. Most pieces burned up or struck the oceans. One major fragment—perhaps a mile across—hit the Selengreyb region when it was still temperate land, burying itself deep in the bedrock before the glaciers formed.
 

@@ -9,6 +9,7 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1582"]
 relations:
   - { rel: spatial, kind: within, target: "1706" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-spine-goblin" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Upoceax.md#L305"]
 relations:
   - { rel: spatial, kind: within, target: "3346" }
   - { rel: spatial, kind: borders, target: "3405", note: "N" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

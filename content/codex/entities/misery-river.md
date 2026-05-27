@@ -34,13 +34,13 @@ The pixies of Locquine know something. When asked about the source, they say onl
 
 ### Who Remembers
 
-Three theories dominate scholarly debate:
+Three theories dominate scholarly debate.
 
-**The Melera Theory:** The imprisoned goddess of harmony—trapped by Azus in a "prison of specificity" billions of years ago—is the most compelling candidate. Her song leaks into the world as Faesong, the ambient magic of emotion and connection. The Misery River would then be a place where that leakage *pools*, concentrated grief from an entity who has mourned her imprisonment for longer than life has existed on Alaria. The pixies of Locquine hear "deeper harmonics, sounds that predate Melera's imprisonment"—which would mean the river carries notes of the goddess's song from *before* she was caged. This theory is supported by the grief's emotional specificity: it feels like losing something precious, not like abstract sadness.
+The most compelling traces the grief to Melera, the imprisoned goddess of harmony trapped by Azus in a "prison of specificity" billions of years ago. Her song leaks into the world as Faesong, the ambient magic of emotion and connection. The Misery River would then be a place where that leakage pools, concentrated grief from an entity who has mourned her imprisonment for longer than life has existed on Alaria. The pixies of Locquine hear "deeper harmonics, sounds that predate Melera's imprisonment"—which would mean the river carries notes of the goddess's song from before she was caged. The grief's emotional specificity supports this: it feels like losing something precious, not like abstract sadness.
 
-**The Catastrophe Theory:** A titanic disaster occurred at the source—perhaps during the Ezz Rift that fractured reality 120 million years ago, or during the God War that ended the Second Eon. The grief would be an echo, reality itself still reverberating from a wound that never healed. This theory explains why the effect isn't magical in the conventional sense: it's older than structured magic.
+A second school holds that a titanic disaster occurred at the source—perhaps during the Ezz Rift that fractured reality 12 million years ago, or during the God War that ended the Second Eon. The grief would be an echo, reality itself still reverberating from a wound that never healed. This explains why the effect isn't magical in the conventional sense: it's older than structured magic.
 
-**The Prison Theory:** Something is *held* at the source. Not Melera herself—her prison exists outside normal space—but perhaps a fragment of her, a piece that broke off during her failed escape attempt. Or something else entirely, a being whose nature is suffering, deliberately contained where it cannot harm anything except explorers stupid enough to go looking.
+The third theory is more literal. Something is held at the source. Not Melera herself—her prison exists outside normal space—but perhaps a fragment of her, a piece that broke off during her failed escape attempt. Or something else entirely, a being whose nature is suffering, deliberately contained where it cannot harm anything except explorers stupid enough to go looking.
 
 The pixies won't clarify which theory is correct. They simply smile sadly and repeat: "She remembers."
 

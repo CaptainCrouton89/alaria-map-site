@@ -11,6 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: spatial, kind: borders, target: "359", note: "south" }
   - { rel: spatial, kind: borders, target: "129", note: "west" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-shyona" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-shontobi" }
 review:
   aiWritten: true
   archetype: ai-ok

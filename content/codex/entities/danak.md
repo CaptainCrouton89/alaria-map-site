@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "1214" }
   - { rel: spatial, kind: borders, target: "1226", note: "east" }
   - { rel: spatial, kind: borders, target: "1224", note: "southeast" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-danaki" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -23,27 +23,9 @@ All Ulvsjael carry the wolf's spirit within them, granting them the ability to p
 - The pack endures
 - Prove your worth or perish
 
-### Ulvskyn (True Blood)
-The Ulvskyn are those Ulvsjael who have kept closest to Ulvma's original teachings, maintaining the harsh but fair philosophy of the pack. They form tight-knit communities where every member has a role and every role is vital. These are the Ulvsjael who still practice the ancient rites - the Culling of the Weak, the Howl of Unity, and the Blood Oath of the Pack.
-
-Ulvskyn communities are meritocracies in the purest sense. Age, gender, and birthright mean nothing - only contribution matters. Children are raised communally and tested constantly, with those showing weakness given chance after chance to find their strength. Only those who refuse to grow, who choose weakness over struggle, face exile. This harsh system produces incredibly capable individuals who value competence above all else.
-
-Their transformation reflects this pack mentality perfectly. When a Ulvskyn assumes their wolf form in battle, they mark prey for the pack, turning combat into a coordinated hunt where the weak are separated and brought down by unified assault.
-
-#### Aspects
-- Weakness dishonors the fallen
-- United we hunt, divided we starve
-
-### Ulvsein (Lone Wolf)
-The Ulvsein represent a paradox in Ulvsjael culture - those who honor the wolf mother by walking alone. They believe that while Ulvma fought with the pack, she died surrounded yet ultimately alone, teaching that every wolf must be capable of surviving without others. These Ulvsjael become legendary scouts, trackers, and assassins, developing an almost supernatural connection to the wilderness.
-
-Where Ulvskkyn see strength in unity, Ulvsein find it in self-reliance. They often serve as far-ranging scouts for Ulvsjael communities or work as guides and hunters for other races. Their philosophy isn't a rejection of the pack but rather a belief that the pack is strongest when each member could survive alone. They return to their communities with valuable skills and knowledge gained from solitary wandering.
-
-Their transformation enhances their already formidable tracking abilities, and their fighting style emphasizes mobility and adaptation rather than pack coordination. A Moonstrider in wolf form is a terrifying opponent - unpredictable, swift, and capable of attacking from unexpected angles.
-
-#### Aspects
-- The lone wolf teaches what the pack cannot
-- Every trail tells a story
+### Heritages
+- **Ulvskyn** (True Blood) — Pack-devoted Ulvsjael who practice ancient rites and maintain strict meritocracies where contribution alone determines rank. See [[race-ulvsjael-ulvskyn]].
+- **Ulvsein** (Lone Wolf) — Solitary Ulvsjael who become legendary scouts and trackers, believing self-reliance makes each wolf stronger and the pack stronger still. See [[race-ulvsjael-ulvsein]].
 
 <!-- mechanics -->
 

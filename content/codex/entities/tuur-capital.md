@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L8632"]
 relations:
   - { rel: spatial, kind: within, target: "2420" }
   - { rel: polity, kind: capitalOf, target: "2420" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-istori" }
 ---
 Population: ~3,000
 

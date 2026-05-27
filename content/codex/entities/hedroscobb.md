@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1150", note: "NE" }
   - { rel: spatial, kind: borders, target: "1137", note: "E" }
   - { rel: spatial, kind: borders, target: "2582", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-hedroscobbi" }
 review:
   aiWritten: true
   archetype: ai-ok

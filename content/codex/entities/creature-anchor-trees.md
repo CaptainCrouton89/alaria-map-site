@@ -10,7 +10,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Colossal trees scattered throughout the Elder Wilds, rising three hundred feet or more above the rainforest canopy. The Anchor Trees mark the burial sites of titans who died in the aftermath of the Ezz Rift, 120 million years ago. They give the "Elder Wilds" their name.
+Colossal trees scattered throughout the Elder Wilds, rising three hundred feet or more above the rainforest canopy. The Anchor Trees mark the burial sites of titans who died in the aftermath of the Ezz Rift, 12 million years ago. They give the "Elder Wilds" their name.
 
 ### Physical Description
 Each Anchor Tree dwarfs its surroundings. Their trunks are massive enough that small communities could live within hollowed sections—though no one has attempted this. Their roots spread for hundreds of yards, intertwining with the forest below. Their canopies form islands above the general treetop level, visible from miles away.
@@ -18,7 +18,7 @@ Each Anchor Tree dwarfs its surroundings. Their trunks are massive enough that s
 The wood carries unusual properties. It doesn't burn easily. It resists rot absolutely. Tools made from fallen Anchor Tree branches hold edges longer than metal. The sap, which bleeds pale gold when the bark is cut, has mild preservative properties.
 
 ### Origin
-When the Ezz Rift flooded Alaria with Melera's music 120 million years ago, the titans—beings of pure Deoric order—experienced emotion for the first time. This contact with raw feeling was unbearable agony. Many killed themselves. Others fled to distant planar stacks across the cosmos.
+When the Ezz Rift flooded Alaria with Melera's music 12 million years ago, the titans—beings of pure Deoric order—experienced emotion for the first time. This contact with raw feeling was unbearable agony. Many killed themselves. Others fled to distant planar stacks across the cosmos.
 
 Those who died in what would become the Elder Wilds were buried by the druids. Using Faesong to bind the cosmic energies of the titan corpses, the druids sang them into the earth. Where druids bound titan remains, the Anchor Trees grew.
 

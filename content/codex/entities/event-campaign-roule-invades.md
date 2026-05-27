@@ -4,6 +4,8 @@ name: "Campaign - Roule Invades"
 entityType: event
 blurb: "Kilik mayor requests players investigate discovery of charcoal at one of the local farms."
 tags: ["campaign", "intrigue", "adventure"]
+relations:
+  - { rel: history, kind: occurredDuring, target: "era-seventh-dawn" }
 sources:
   - "history_and_lore/events/Campaign - Roule Invades.md"
 review:

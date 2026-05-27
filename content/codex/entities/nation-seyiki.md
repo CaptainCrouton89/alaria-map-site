@@ -1,7 +1,7 @@
 ---
 id: "nation-seyiki"
 name: "Seyiki"
-entityType: nation
+entityType: region
 blurb: "A distributed nation of dragonfly-riding gnomes living among the Chakatann pillars—the massive stone monuments left by the fallen Postronamas Empire in the western Piktiniti Desert."
 coordinates: [10, 162]
 zoomLevel: 3
@@ -13,6 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "1114" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 ---
 A distributed nation of dragonfly-riding gnomes living among the Chakatann pillars—the massive stone monuments left by the fallen Postronamas Empire in the western Piktiniti Desert.
 

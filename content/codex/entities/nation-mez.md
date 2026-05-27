@@ -1,7 +1,7 @@
 ---
 id: "nation-mez"
 name: "Mez"
-entityType: nation
+entityType: region
 blurb: "A claimed domain beneath the southwestern Widebarrow Mountains where the Lyzine spider-folk hold absolute sway."
 coordinates: [530, 245]
 zoomLevel: 3

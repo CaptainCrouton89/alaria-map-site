@@ -18,65 +18,11 @@ All Lizardfolk share certain traits: they are cold-blooded, requiring external h
 - **Height:** 5-7 feet (varies by subrace)
 - **Weight:** 120-250 pounds
 
-### Ix'Tyrann
-The Ix'Tyrann are the most numerous and widespread of the Lizardfolk, dwelling in the swampy regions of Da Trang. Their society is built on strength and brutality, with villages ruled by the strongest chieftains who maintain power through displays of savage might. They are viewed by most civilized races as the embodiment of lizardfolk savagery—a reputation they've earned through centuries of fierce territorial conflicts.
-
-Ix'Tyrann culture values survival above all else. Weakness is not tolerated, and those who cannot contribute to the tribe's strength are cast out or consumed. This harsh philosophy has produced a people who are incredibly resilient but struggle to form alliances with other races. Even those Ix'Tyrann who become adventurers and fight for noble causes are rarely seen as heroes—their methods are simply too brutal for polite society to accept.
-
-Their scales range from muddy brown to dark green, providing natural camouflage in their swampy homes. Battle scars are worn with pride, each one a testament to survival.
-
-#### Vitals
-- **Height:** 5.5-6.5 feet
-- **Weight:** 140-200 pounds
-
-#### Aspects
-- Views everything as predator or prey
-- Values strength above mercy
-
-### Ix'Vasyla
-The black-scaled Ix'Vasyla are the assassins and hunters of the Lizardfolk, evolved in the toxic marshlands of Nashua. Sleeker and taller than their Ix'Tyrann cousins, they possess a deadly elegance that belies their lethal nature. Their most feared trait is their venomous bite—even a small nip delivers toxins that cause days of excruciating pain before finally killing the victim.
-
-Trapped in an endless war against the forces of Trømgar and Gorath, the Ix'Vasyla have refined patience into an art form. They strike from shadows, deliver their poisonous bite, then retreat to let their venom do its work. Their society values cunning over raw strength, and their leaders are chosen for their ability to outmaneuver enemies rather than overpower them.
-
-Their distinctive black scales shimmer with an oily iridescence, and their jaws can unhinge like those of serpents, allowing them to swallow prey whole. This has given rise to terrifying tales among their enemies of entire scouts disappearing without a trace.
-
-#### Vitals
-- **Height:** 6-7 feet
-- **Weight:** 120-180 pounds
-
-#### Aspects
-- Patient and calculating
-- Takes pleasure in the hunt
-
-### Ix'Lorett
-In the temperate forests of M'Svyla, the Ix'Lorett have evolved along a vastly different path from their warlike cousins. These iguana-like Lizardfolk move with deliberate slowness, their wrinkled scales and soft spines giving them an almost ancient appearance. Yet what they lack in speed and aggression, they make up for in wisdom and an incredible regenerative ability.
-
-Ix'Lorett society centers around art, meditation, and the pursuit of inner peace. Their villages in the Crystal Mountains are adorned with intricate gemstone mosaics and painted murals that tell the stories of their people. They are philosophers and artists, spending decades perfecting a single painting or meditating on the nature of existence.
-
-Their regenerative abilities are legendary—lost limbs regrow over months, wounds that would kill other races merely inconvenience them. This has led to a unique perspective on violence and conflict; when you can regrow from almost any injury, the urgency of combat fades. Many Ix'Lorett who become adventurers do so not for glory or wealth, but to see the world's beauty and understand its deeper meanings.
-
-#### Vitals
-- **Height:** 5-6 feet
-- **Weight:** 150-250 pounds
-
-#### Aspects
-- Contemplative and peaceful
-- Values beauty and patience
-
-### Ix'Meglyakuk
-Deep in the Dygon Beastlands, where colossal dinosaurs rule ancient jungles, the Ix'Meglyakuk have forged an alliance that sets them apart from all other peoples. Through generations of careful bonding and mutual respect, they have domesticated the fierce utahraptors—predators that most would flee from in terror.
-
-These Lizardfolk and their raptor companions move as one through the dangerous jungles, the riders' keen intellect combining with their mounts' predatory instincts to create an unmatched partnership. Young Ix'Meglyakuk are paired with raptor hatchlings in sacred ceremonies, growing up together until the boundary between rider and mount becomes almost indistinguishable.
-
-Their scales have evolved to match the mottled patterns of their raptors, and they've developed a unique throat structure that allows them to communicate through subsonic clicks and trills that only their mounts can hear. Even when separated from their bonded raptor, an Ix'Meglyakuk moves with the fluid grace learned from a lifetime of riding, making them formidable on foot as well.
-
-#### Vitals
-- **Height:** 5.0-6.0 feet
-- **Weight:** 100-160 pounds
-
-#### Aspects
-- Bonded for life with their raptor
-- Thinks in terms of pack tactics
+### Heritages
+- **Ix'Tyrann** — Strength-obsessed swamp-dwellers of Da Trang; war-scarred chieftain culture that prizes resilience and brutality above all. See [[race-lizardfolk-ixtyrann]].
+- **Ix'Vasyla** — Black-scaled venomous assassins of Nashua's toxic marshlands; cunning hunters waging endless patient war against Trømgar and Gorath. See [[race-lizardfolk-ixvasyla]].
+- **Ix'Lorett** — Iguana-like contemplatives of M'Svyla's forests and Crystal Mountains; philosophers and artists with legendary regenerative abilities. See [[race-lizardfolk-ixlorett]].
+- **Ix'Meglyakuk** — Raptor-bonded Lizardfolk of the Dygon Beastlands; sacred rider culture built on lifelong bonds with utahraptors. See [[race-lizardfolk-ixmeglyakuk]].
 
 <!-- mechanics -->
 

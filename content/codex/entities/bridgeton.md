@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L2368"]
 relations:
   - { rel: spatial, kind: within, target: "manual-mpjrcf71-gtrw6" }
   - { rel: polity, kind: capitalOf, target: "manual-mpjrcf71-gtrw6" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 A city built where a major river crosses from the interior to the western coast. The bridge that gives the city its name is ancient—pre-dating the current kingdom by centuries—and wide enough for four wagons abreast. The royal palace sits on a bluff overlooking the bridge, positioned to watch everything that crosses.
 

@@ -11,186 +11,34 @@ review:
 ---
 Elves are a race of fiercely independent, ancient, culturally rich people. With lifespans five times the length of a humans', elves have a much broader perspective on life and the world around them, and a lot more time to explore and refine their passions. Wars, politics, and the frivolities of other races are far less important to most elven cultures.
 
+### Origin and kinship
+
+Elves are not flesh-kin. They were crafted by the druids from natural materials — wood, stone, river-mud — distinct in origin from the flesh family Gaea built through Kethic. That difference in substance is not superficial: elves cannot interbreed with the flesh family (humans, beastmen, giants, trolls). Half-elves do not exist.
+
 ### Vitals
 - **Size:** Medium
 - **Height:** 5-6.5 feet
 - **Weight:** 100-180 pounds
 
-### Amverela (High Elf)
-The Amverela are the most prolific and long-living of the elves, and most interactive with the other inhabitants of Alaria. Partially due to their long life times, but especially due to their extreme wisdom, passion, and expertise, the Amverela are some of the longest running ethnic identities among all people on Alaria—having survived numerous cataclysmic events, wars, and famines while remaining relatively culturally intact.
-
-They place a higher value on investing in themselves, their relationships, and their communities. This has led them to building some of the most magnificent cities in Alaria—utopian, by most standards.
-
-The Amverela can be found across Alaria, and are known for their extraordinary skill in all aspects of life.
-
-#### Aspects
-- Centuries of wisdom
-- Cautious
-
-### Caerene (Wood Elf)
-The Caerene have darker, more olive skin than their Zaelian and Amverela cousins, allowing them to more easily blend into the forests in which they usually live.
-
-Caerene are far more isolating than many other races, preferring to remain unbothered by the trivial, day-to-day grievances and turmoil of most life on Alaria. For that reason, most populations have found hard to reach or find locations as well as methods of hiding and blending in with their natural surroundings. An unobservant individual walking through the middle of a Caerene village may not even be aware anyone is around—so skillful are the Caerene.
-
-Most Caerene culture emphasizes finding balance in nature, and preserving that balance. They place a lot of significance on fate, fairness, and immediate justice. There are no second chances in Caerene culture.
-
-#### Aspects
-- Perceptive and stealthy
-- Nature is my home
-
-### Vyko (Astral Elf)
-The Vyko are elves who have traversed the planar envelope protecting Alaria from the void beyond. Their skin is a deep purplish indigo, speckled with white points like distant stars, and their hair is either brilliant white or deep black. They possess an incredibly powerful presence that commands attention the moment they enter a room.
-
-These elves reside north of Gorath, having returned from their cosmic journeys with a fundamentally altered perspective on time and existence. Their experience beyond the material plane has granted them both incredible presence and a patience that can seem frustrating to shorter-lived races.
-
-#### Aspects
-- Cosmic wanderer
-- Time moves differently for me
-
-### Eloweir (Sea Elf)
-The Eloweir, called sea elves by other races, are a proud and capable people deeply connected to the oceans. They build bustling coastal cities with incredible architecture full of swooping curves and circular designs that mirror the flow of water and tides.
-
-The Eloweir are renowned across Alaria for their mastery of poisons, their skilled soldiers, their natural attunement to water magic, and their sophisticated democratic governance. Their societies are as fluid and adaptive as the seas they call home.
-
-#### Aspects
-- Child of the tides
-- Democratic ideals
-
-### Teflin (Crimson Elf)
-The Teflin reside in Hik, their reddish skin marking them as a people touched by an ancient curse. Blood is sacred to their culture, as an old Deoric enchantment runs through their veins—a curse that grants them agelessness but at a terrible cost.
-
-Deoric magic functions by sacrificing blood for power, and the Teflin curse causes their blood to continuously channel Deoric power into their bodies. This power accumulates over time, making them increasingly formidable—but also burning them from the inside. To survive, Teflin practice ritual bloodletting to purge the excess power before it consumes them entirely.
-
-#### Aspects
-- Blood is my burden and strength
-- Cursed heritage
-
-### Kuzagt (Bone Elf)
-The Kuzagt, also known as Bone Elves, are tall and spindly elves with distinctive bony protrusions extending from their high cheekbones. Their angular features and slanted eyes give them a skull-like appearance that many find unsettling. They inhabit the salt flats of Bonnetaz, where they maintain vast human slave camps.
-
-The Kuzagt see humans as invaders and poachers on Alaria's beauty, viewing nothing wrong with using them to further elven purposes. They wear robes made from human leather, drink fermented blood, and embed jewels into their skulls to denote rank within their oligarchical council system.
-
-#### Aspects
-- Humans are lesser beings
-- Death holds no terror
-
-### Nemo (Lost Ones)
-The Nemo are the ghostly descendants of Caerene elves who sought to achieve immortality and perfect oneness with the forest. Instead of transcendence, they eternally bound their souls to the Eros forests, becoming trapped spirits who can never truly die while the forest lives, but can never truly live again either.
-
-These spectral elves are cold, bitter, and wise, having spent millennia isolated in their forest prison. Their failed pursuit of perfection serves as a warning about the dangers of reaching too far beyond mortal limitations.
-
-#### Aspects
-- Trapped between life and death
-- Millennia of bitter wisdom
-
-### Kryaaji (Sun Elf)
-The Kryaaji dwell in Enuau Kemjallb, the radiant House of the Sun, a golden palace forbidden to all visitors. They believe their light and home are too pure to be soiled by outsiders, maintaining strict isolation not from arrogance, but from a sense of sacred duty.
-
-These elves train the magnificent Wysynnbre—golden, luminant eagles that nest in the nearby Sunwing Peaks. They maintain their own sect of the Order of Bryn, believing Bryn to be an elf rather than human as others claim. Their Lightbearer priests are easily recognized by the sunlight that radiates from their eye sockets.
-
-#### Aspects
-- Bearer of sacred light
-- Isolated guardian of purity
-
-### Istori (Glass Elf)
-The Istori dwell in the frozen southern valleys of Istora, where they have mastered the ancient art of ice-glass forging. These elves discovered that by combining their natural magic with the perpetual ice of their homeland, they can create crystalline glass harder than steel that never melts. Their cities are marvels of translucent spires and frozen architecture that gleam like jewels in the southern light.
-
-The revolution consuming their society stems from a fundamental disagreement about their craft: the Traditionalists believe ice-glass should only be used for art, architecture, and preservation of their culture, while the Industrialists want to weaponize and export their ice-glass technology to the world. This schism has split families and guilds, with some creating beautiful sculptures while others forge unbreakable weapons.
-
-#### Aspects
-- Master of the ice-glass forge
-- Art versus industry divides us
-
-### Sivakr (Silver Elf)
-The Sivakr are gray-skinned elves who typically dwell underground in the realm of Myorna. In their society, physical exercise is considered vulgar and ugly—social relevance is determined entirely by influence gained through mental acuity and intellectual prowess.
-
-The Sivakr possess a remarkable ability to manipulate memory, which they demonstrate in formal memory duels. These ritualistic contests involve two elves standing face-to-face with arms outstretched and fingers interlocked, each attempting to alter the other's memories to convince them they made a mistake in accepting the challenge.
-
-#### Aspects
-- Mind over matter
-- Memory is malleable
-
-### Starborn (Star Elf)
-The Starborn are the enigmatic caretakers of the celestial order, dwelling in high mountain observatories where the veil between earth and sky grows thin. These elves have taken upon themselves the sacred duty of maintaining the stars' positions and brightness—a task they believe essential to preserving the cosmic balance that keeps darker forces at bay. Their skin has a subtle luminescence that becomes more pronounced under starlight, and their eyes reflect the constellations they tend.
-
-Unlike their druidic cousins who immerse themselves in nature's wild passions, the Starborn maintain strict neutrality in worldly affairs. They view existence from a cosmic perspective where individual lives and even civilizations are but brief flickers against the eternal night. This detachment makes them seem cold to other races, but it stems from their burden of maintaining universal harmony rather than any lack of compassion.
-
-The Starborn conduct nightly rituals to guide wayward stars back to their proper courses and rekindle those whose light begins to fade. They believe that should the stars ever fall from their appointed places, chaos would consume all creation.
-
-#### Aspects
-- The stars must maintain their course
-- Cosmic neutrality preserves balance
-
-### Dark Elves (Shadow Elf)
-The Dark Elves are an extinct lineage that once ruled the southern forests of Aboyuinzu as dragon riders of terrifying power. Their ashen gray skin and coal-black eyes marked them as a people touched by draconic magic, while their heavy furs protected them from the perpetual chill that followed in their wake. These elves formed soul-bonds with the great wyrms of the south, sharing consciousness with their mounts in a symbiosis that made them nearly invincible in battle.
-
-Their civilization came to an abrupt end during the Dragon Purge, when rival nations united to destroy both the dark elves and their dragon allies. The forests of Aboyuinzu are now filled with towering totems to the old dragon gods—massive stone monuments that still radiate faint draconic power. Some say the dark elves' spirits linger near these totems, waiting for the day when dragons might return to the world.
-
-Though believed extinct, there are whispers of dark elf bloodlines persisting in remote communities, their draconic heritage diluted but not entirely lost. Those who discover such ancestry often feel an inexplicable pull toward the ancient totems and may even hear the whispered words of long-dead dragons in their dreams.
-
-#### Aspects
-- Dragons' blood calls to dragons' blood
-- The old ways demand remembrance
-
-### Ythari (Moss Elf)
-The Ythari are forest dwellers whose very beings have merged with the woodland essence. Their skin bears the deep green of forest canopies with distinctive flecks of black and brown that shift like dappled sunlight through leaves. These patterns change subtly with the seasons, becoming more brown in autumn and taking on hints of white during winter months. Their culture revolves around extreme generosity—status is measured not by what one owns but by what one has given away.
-
-The Ythari speak sparingly, believing that words spent carelessly are gifts wasted. When they do speak, each word is chosen with the same care they use when selecting a gift. Their communities practice radical sharing where personal property barely exists; tools, homes, and even meals flow freely between community members based on need.
-
-Most distinctively, Ythari families adopt wild animals as mentors for their children. Each child is paired with a creature whose temperament and skills complement what the child needs to learn. A timid child might be paired with a bold badger, while an impulsive one might learn patience from a turtle. These animal mentors live freely but visit regularly, forming bonds that last lifetimes.
-
-#### Aspects
-- Generosity is the highest virtue
-- Actions speak where words fail
-
-### Rakiten (Plains Elf)
-The Rakiten tower above other elven lineages, their extraordinary height evolved over millennia to see over the endless grass seas of their homeland. Standing seven to eight feet tall with bronze skin that gleams like burnished metal in sunlight, they cut imposing figures on the rare occasions they venture beyond their plains. Their faces are distinctively flat with angular, somewhat square features, and their sharp teeth speak to a more carnivorous diet than their woodland cousins—a necessity when plant matter is scarce during the dry seasons.
-
-What truly sets the Rakiten apart is their complete abandonment of spoken language. Whether due to the way sound carries unpredictably across the windswept plains or some ancient cultural trauma, the Rakiten communicate exclusively through an intricate sign language that incorporates hand movements, body positioning, and facial expressions. This visual language is so sophisticated it can convey complex philosophical concepts and poetry with greater nuance than spoken words. Even their names are signs rather than sounds—a flowing gesture rather than a collection of syllables.
-
-The Rakiten organize their society around "sight-bonds"—groups of individuals who maintain visual contact while traveling the plains. These bonds become so attuned to each other that they can communicate through subtle shifts in posture visible at great distances. Their encampments are arranged in careful patterns that allow for maximum visual communication between all members, creating communities where a single gesture can ripple through the entire population in moments.
-
-#### Aspects
-- Silence speaks volumes
-- Height grants perspective in all things
-
-### Xalahir (Blood Elf)
-The Xalahir are a cursed lineage of elves who long ago traded their connection to nature for immortal hunger. Where other elves' eyes shine with inner light, the Xalahir's are pools of absolute darkness, sunken deep into their pale, porcelain faces. Despite this horrific feature, they possess an otherworldly beauty that enchants and mesmerizes, drawing victims close enough for the Xalahir to feed. Their movements are fluid and hypnotic, their voices like silk, and their presence commands attention in any room.
-
-Unlike common vampires who establish lairs and territories, the Xalahir are eternal wanderers, driven by both hunger and an ancient compulsion to never remain in one place. They arrive in settlements as mysterious strangers—perhaps a traveling merchant, a wandering minstrel, or a noble passing through—and systematically feed on the population before vanishing into the night. By the time their victims realize what has happened, the Xalahir is already three towns away, leaving only drained bodies and whispered warnings in their wake.
-
-The Xalahir view other beings as nothing more than elegant wine bottles to be sampled and discarded. They feel no guilt for their predations, seeing emotional attachment as a weakness that their transformation freed them from. Their immortal existence is one of refined hedonism, seeking out the finest blood like sommeliers pursuing rare vintages. They particularly prize the blood of other elves, claiming it retains notes of the natural harmony they themselves have lost.
-
-#### Aspects
-- Mortals are merely vessels for my sustenance
-- Beauty conceals the deepest horrors
-
-### Xicrein (Island Elf)
-The Xicrein are elves of the Bynü Island Tribes, attuned to water and darkness. They have dark features, high cheekbones, and a brooding demeanor that makes other races uneasy in their presence. Their culture is one of polite, silent lethality—clans wage brutal wars against each other using assassination rather than open battle.
-
-They disdain Deoric magic and poison, considering such methods dishonorable. A Xicrein prefers the "honest" kill of an oyster-shell blade across the throat to any trickery. They are master sailors and killers, equally comfortable navigating treacherous island waters or slipping into an enemy's chambers under cover of darkness.
-
-#### Aspects
-- Silent kill
-- Clan blood feud
-
-### Spindral (Quill Elf)
-The Spindral are elves who fled underground to escape the dragon Ural of the Third Moon. Living in perpetual darkness for generations, they have become attuned to the Void and shadow. Their most striking feature is the long, midnight-black quills that sprout from their backs and arms, which seem to absorb all light that touches them.
-
-They venture to the surface only to hunt and keep watch for their ancient draconic enemy. They are silent, deadly, and accustomed to a world without sun. Other underground races have learned to avoid Spindral territory—these elves do not negotiate with trespassers.
-
-#### Aspects
-- Void touched
-- The dragon will return
-
-### Gamori (Jungle Elf)
-The Gamori are brutally wild elves who have rejected civilization for the savagery of the deep jungle. With wild, tangled hair and supernatural senses honed by generations of nocturnal hunting, they are the terrors of the canopy. They have formed a symbiotic bond with giant jungle bats, riding them through the night skies on raids against any who dare encroach on their territory.
-
-They are nocturnal hunters who fear the burning sun and worship the moon and the darkness beneath the trees. Their society is matriarchal and fiercely territorial, with each tribe controlling vast swaths of jungle that they patrol from above. To outsiders, the Gamori seem like savage monsters, but among themselves they maintain complex social bonds and oral traditions passed down through generations of moonlit gatherings.
-
-#### Aspects
-- Rider of the night sky
-- The jungle belongs to me
+### Heritages
+- **Amverela** (High Elf) — Most prolific and long-living heritage, renowned across Alaria for extraordinary wisdom, skill, and building magnificent utopian cities. See [[race-elf-amverela]].
+- **Caerene** (Wood Elf) — Olive-skinned isolationist forest dwellers who emphasize balance, fate, and immediate justice with no second chances. See [[race-elf-caerene]].
+- **Vyko** (Astral Elf) — Void-traversing elves with deep indigo star-speckled skin; their cosmic journeys grant commanding presence and patience that frustrates shorter-lived races. See [[race-elf-vyko]].
+- **Eloweir** (Sea Elf) — Proud coastal elves renowned for poison mastery, skilled soldiers, water magic attunement, and sophisticated democratic governance. See [[race-elf-eloweir]].
+- **Teflin** (Crimson Elf) — Reddish-skinned elves of Hik cursed by Deoric magic granting agelessness but burning them with accumulated power requiring ritual bloodletting. See [[race-elf-teflin]].
+- **Kuzagt** (Bone Elf) — Tall, skull-faced elves of Bonnetaz's salt flats who maintain vast human slave camps, viewing humans as invaders to be exploited. See [[race-elf-kuzagt]].
+- **Nemo** (Lost Ones) — Ghostly descendants of Caerene who sought forest-immortality; eternally trapped as cold, bitter spirits that can never truly die or live. See [[race-elf-nemo]].
+- **Kryaaji** (Sun Elf) — Sacred isolationist elves of the golden House of the Sun, trainers of luminant Wysynnbre eagles and keepers of their own Bryn sect. See [[race-elf-kryaaji]].
+- **Istori** (Glass Elf) — Ice-glass-forging elves of frozen Istora, torn between traditionalists preserving culture through art and industrialists weaponizing their unbreakable craft. See [[race-elf-istori]].
+- **Sivakr** (Silver Elf) — Gray-skinned underground elves of Myorna who measure status by intellect and settle disputes through ritualized memory duels. See [[race-elf-sivakr]].
+- **Starborn** (Star Elf) — Mountain observatory elves who maintain the stars' positions through nightly ritual, practicing cosmic neutrality to preserve universal harmony. See [[race-elf-starborn]].
+- **Dark Elves** (Shadow Elf) — Extinct dragon-rider elves of Aboyuinzu destroyed in the Dragon Purge; diluted bloodlines may persist near ancient draconic totems. See [[race-elf-dark-elves]].
+- **Ythari** (Moss Elf) — Forest-merged elves whose skin shifts with seasons; radical generosity defines their culture, where status is measured by what one gives away. See [[race-elf-ythari]].
+- **Rakiten** (Plains Elf) — Towering bronze-skinned plains elves who communicate exclusively through intricate sign language and organize society around visual sight-bonds. See [[race-elf-rakiten]].
+- **Xalahir** (Blood Elf) — Cursed vampiric elves who traded nature for immortal hunger; eternal wanderers who feed on populations and vanish before victims realize the truth. See [[race-elf-xalahir]].
+- **Xicrein** (Island Elf) — Dark-featured island elves of the Bynü Tribes who wage silent clan wars through honorable assassination with oyster-shell blades. See [[race-elf-xicrein]].
+- **Spindral** (Quill Elf) — Void-attuned underground elves who fled dragon Ural, bearing light-absorbing midnight quills and surfacing only to hunt and watch for their enemy. See [[race-elf-spindral]].
+- **Gamori** (Jungle Elf) — Nocturnal giant-bat-riding jungle elves; matriarchal moon-worshippers who have rejected civilization for canopy savagery and territorial raids. See [[race-elf-gamori]].
 
 <!-- mechanics -->
 

@@ -9,7 +9,7 @@ tags: ["plains", "ice", "geography"]
 sources: ["all_sections_formatted/Upoceax.md#L6337"]
 relations:
   - { rel: spatial, kind: within, target: "4085" }
-  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-hookling" }
 review:
   aiWritten: true
   archetype: ai-ok

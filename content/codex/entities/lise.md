@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L2621"]
 relations:
   - { rel: polity, kind: capitalOf, target: "manual-mpjrcf71-enapy" }
   - { rel: spatial, kind: within, target: "manual-mpjrcf71-enapy" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwelyn" }
 ---
 The capital of Enapay and seat of the Dragonbound Queen. Lise sprawls where the Ishtar River delta meets the Green Wilds, a city built to accommodate both its Dwelyn inhabitants and their ancient dragon protector.
 

@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L3022"]
 relations:
   - { rel: spatial, kind: within, target: "2620" }
   - { rel: spatial, kind: borders, target: "2662", note: "S; sibling tribe, coords coincide [136,296] — coord collision, one pin likely misplaced" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
 review:
   aiWritten: true
   archetype: ai-ok

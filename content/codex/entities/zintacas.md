@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "768", note: "N" }
   - { rel: spatial, kind: borders, target: "652", note: "SW" }
   - { rel: spatial, kind: within, target: "9000" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-goshwen" }
 review:
   aiWritten: false
   archetype: ai-ok

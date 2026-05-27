@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L4054"]
 relations:
   - { rel: spatial, kind: within, target: "2921" }
   - { rel: polity, kind: capitalOf, target: "2921" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixvasyla" }
 review:
   aiWritten: true
   archetype: ai-ok

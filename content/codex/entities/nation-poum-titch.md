@@ -1,7 +1,7 @@
 ---
 id: "nation-poum-titch"
 name: "Poum-Titch"
-entityType: nation
+entityType: region
 blurb: "Located in Terrenia, south of the Green Mountains and east of Aal Salma."
 coordinates: [265, 370]
 zoomLevel: 3

@@ -1,9 +1,9 @@
 ---
 id: "plane-psywinds"
 name: "Psywinds"
-entityType: plane
-blurb: "The flow of all thoughts, ideas, and emotions across Alaria."
-tags: ["cosmology", "magic"]
+entityType: magic
+blurb: "The flow of thought and intention across Alaria; the thought-face of Ezz, inseparable from Faesong's emotion-face."
+tags: ["cosmology", "magic", "force", "ezz"]
 sources:
   - "cosmology_and_religion/alarian_planar_stack/Psywinds.md"
 review:
@@ -12,7 +12,7 @@ review:
 relations:
   - { rel: cosmology, kind: sourceOf, target: "magic-psy-magic" }
 ---
-The flow of all thoughts, ideas, and emotions across Alaria. The Psywinds are currents of flowing Ezz that carry the collective mental activity of all living beings within the planar stack. These thoughts pass through all, connecting mind to mind across any distance.
+The flow of all thought and intention across Alaria. The Psywinds are currents of flowing Ezz that carry the collective mental activity of all living beings within the planar stack. These thoughts pass through all, connecting mind to mind across any distance.
 
 ### What the Psywinds Enable
 - **Telepathic communication** between creatures attuned to the currents
@@ -22,7 +22,7 @@ The flow of all thoughts, ideas, and emotions across Alaria. The Psywinds are cu
 - **Psy magic** draws power directly from these currents
 
 ### Substance
-The Psywinds are made of flowing Ezz—the universal substrate that contains both Azus's order and Melera's randomness. After the Ezz Rift flooded Alaria, the Psywinds became the medium through which spirit-bearing creatures could think, feel, and connect.
+The Psywinds are made of flowing Ezz—the universal substrate that contains both Azus's order and Melera's randomness. After the Ezz Rift flooded Alaria, the Psywinds became the medium through which spirit-bearing creatures could think, intend, and connect.
 
 ### Counterpart: Faesong
 The Psywinds and Faesong are the two great ambient magical forces in Alaria:
@@ -32,7 +32,7 @@ The Psywinds and Faesong are the two great ambient magical forces in Alaria:
 
 Where the Psywinds are heard as whispers and images, Faesong is felt as harmony or dissonance. Telepaths and psy mages work the Psywinds; druids and fae creatures attune to Faesong.
 
-Some scholars believe these are two aspects of the same phenomenon—that Melera's music is what gives Ezz its capacity for carrying thought and emotion. Others argue they are distinct but complementary, like two instruments in the same orchestra.
+They are not two separate forces. They are two faces of the same Ezz—the substrate Azus and Melera made together, equal parts thought and emotion. Psywinds are the thought-face; Faesong is the emotion-face. A being who could perceive both simultaneously would be perceiving the full current of Ezz itself.
 
 ### The Psywinds and Psyic Energy
 Psyic energy makes up the space between the planar layers of Alaria. It is an ever-present, omnipresent substrate through which the Psywinds flow. Through special practice or natural ability, this energy can be harnessed to perform psy magic.

@@ -16,6 +16,7 @@ relations:
   - { rel: spatial, kind: within, target: "2857" }
   - { rel: spatial, kind: borders, target: "3037", note: "north" }
   - { rel: spatial, kind: borders, target: "3046", note: "south" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ulvsjael" }
 ---
 Qet Yemani is the largest of the five jungle nations, controlling the western reaches of the Jungles of Godahi. Its vast territory encompasses the great Tora Mazîl forest, extensive swamplands, and the western highlands where the jungle meets the mountains. Where other jungle nations measure their domains in tens of miles, Qet Yemani spans over 120 miles from its eastern borders to the Hekat Valley in the west.
 

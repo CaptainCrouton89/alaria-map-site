@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L2112"]
 relations:
   - { rel: spatial, kind: within, target: "750" }
   - { rel: polity, kind: capitalOf, target: "750" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-verucan" }
 review:
   aiWritten: true
   archetype: ai-ok

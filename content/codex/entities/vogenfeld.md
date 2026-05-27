@@ -11,6 +11,8 @@ relations:
   - { rel: spatial, kind: borders, target: "1036", note: "N" }
   - { rel: spatial, kind: borders, target: "2555", note: "S" }
   - { rel: spatial, kind: within, target: "2455" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
+  - { rel: polity, kind: tributaryOf, target: "2455", note: "unpaid dwarven passes — northern-collapse tension" }
 review:
   aiWritten: true
   archetype: ai-ok

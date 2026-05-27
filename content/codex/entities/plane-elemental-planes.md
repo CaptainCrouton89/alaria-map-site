@@ -2,21 +2,19 @@
 id: "plane-elemental-planes"
 name: "Elemental Planes"
 entityType: plane
-blurb: "All of the primary elements of the world each make up a layer, thinly placed in between the material planes (astral, malstaric, material realm) and…"
+blurb: "A separate adjacent planar stack of nine elemental layers, reached only via leylines—the source of Kethic magic's borrowed power."
 tags: ["planes"]
 sources:
   - "cosmology_and_religion/alarian_planar_stack/planes/Elemental Planes.md"
 review:
   aiWritten: false
   action: keep
-relations:
-  - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
 ---
-All of the primary elements of the world each make up a layer, thinly placed in between the material planes (astral, malstaric, material realm) and the immaterial planes (ethereal, nethereal, Celestian). Things and creatures with higher attunement to these other layers cause the layers to spill down and into the visible world, affecting the material planes. The layers closer to the material planes are more accessible to those on the material planes, whereas the elemental layers closer to Celestia and the other immaterial planes are more accessible to those inhabitants instead.
+The Elemental Planes are a separate adjacent planar stack—not part of the six-plane structure of Alaria (the four true planes plus two overlays). They cannot be reached by conventional planar travel; the only connections are leylines, fissures where an elemental plane presses close enough to the Material Plane that its power bleeds through. This is why Kethic elementalism feels like borrowed power: the caster does not draw on a native substrate but channels energy through leyline conduits into a stack they cannot properly enter.
 
-Leylines are cracks in the planes where individual elemental planes spill through much closer to the material plane. Thes are areas of much stronger elemental power. Elemental magic performed on leylines is always more fantastic.
+Elemental magic performed on leylines is always more powerful, precisely because those points are where the elemental stack draws physically close to the material world rather than remaining at its usual remove.
 
-Those layers are:
+Those elemental layers are:
 
 - Yolus (Fire)
 - Sulus (Air)
@@ -26,5 +24,6 @@ Those layers are:
 - Kunus (Light)
 - Nilus (Void)
 - Izzus (Time)
+- Dynus (Force)
 
-Along certain lines across the land, these elemental planes bend much closer to the Material Plane. Those lines on which they bend closer are known as Leylines, and are locations where elemental magic relying on the corresponding element will be much more potent.
+Dynus, the ninth, is the element of motive force itself—momentum, pressure, the kinetic push that moves a thing once the other elements have given it shape. It is not the psychic substrate of the world (that is Ezz, the medium of thought and emotion in which the true planes hang); Dynus is a material element like the other eight, a layer of the leyline-reached stack, and the force a Kethic caster channels through it is the plain physical force of the moving world, not anything of mind.

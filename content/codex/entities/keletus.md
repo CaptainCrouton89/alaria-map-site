@@ -8,6 +8,7 @@ zoomLevel: 2
 sources: ["all_sections_formatted/Ve.md#L96"]
 relations:
   - { rel: spatial, kind: within, target: "10" }
+  - { rel: culture, kind: inhabitedBy, target: "race-minotaur-lorean-minotaur" }
 review:
   aiWritten: true
   archetype: ai-ok

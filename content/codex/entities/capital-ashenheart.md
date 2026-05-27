@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L1590"]
 relations:
   - { rel: spatial, kind: within, target: "2611" }
   - { rel: polity, kind: capitalOf, target: "2611" }
+  - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
 review:
   aiWritten: true
   archetype: ai-ok

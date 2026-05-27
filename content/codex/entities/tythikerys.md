@@ -9,6 +9,7 @@ tags: ["plains", "region", "orc territory"]
 sources: ["all_sections_formatted/Aboyinzu.md#L2921"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-tytheri" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -1,22 +1,21 @@
 ---
 id: "plane-eindumor"
 name: "Eindumor"
-entityType: plane
-blurb: "Eindumor is the flip side of Malstaris—but unlike other planar flip-sides, it is not truly a 'place' in the conventional sense."
-tags: ["plane", "cosmology", "shadow", "Nydus"]
+entityType: magic
+blurb: "The unmediated presence of Nydus himself—not a plane, but the sub-presence core of the Black Sun that underlies Malstaris."
+tags: ["cosmology", "shadow", "Nydus", "sub-presence"]
 sources:
   - "cosmology_and_religion/alarian_planar_stack/planes/Eindumor.md"
 review:
   aiWritten: false
   action: keep
 relations:
-  - { rel: cosmology, kind: flipSideOf, target: "plane-malstaris" }
   - { rel: cosmology, kind: sourceOf, target: "plane-malstaris" }
 ---
-Eindumor is the flip side of Malstaris—but unlike other planar flip-sides, it is not truly a "place" in the conventional sense. Eindumor is **Nydus himself**, unfiltered and unmediated.
+Eindumor is not a plane. It is Nydus himself, unfiltered and unmediated—the sub-presence core that underlies and generates Malstaris, not a separate destination reached by passing through it. Malstaris is what Nydus's darkness becomes when it filters through structure; Eindumor is what remains when those structures are absent.
 
 ### Nature
-Malstaris is Nydus's darkness filtered through structure: the caverns, the black lakes, the accumulated shadows that give shape and definition to his murk. Eindumor is what remains when those structures are stripped away—the raw, direct presence of the Black Sun.
+Malstaris is Nydus's darkness filtered through structure: the caverns, the black lakes, the accumulated shadows that give shape and definition to his murk. Eindumor is what remains when those structures are stripped away—the raw, direct presence of the Black Sun. It is not a region of Malstaris, nor beyond it; it is the source from which Malstaris emanates.
 
 To enter Eindumor is to stand within the source of all shadows. There are no caves here, no landmarks, no places to hide. Only darkness—not the absence of light, but darkness as a *presence*, a weight, a thing that *sees*.
 

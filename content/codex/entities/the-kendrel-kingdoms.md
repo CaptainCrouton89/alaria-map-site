@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Greenwater_Isles.md#L92"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-kendrel" }
 review:
   aiWritten: true
   archetype: stub

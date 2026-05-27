@@ -9,6 +9,7 @@ tags: ["region", "giants"]
 sources: ["all_sections_formatted/Upoceax.md#L3920"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant-hill" }
 review:
   aiWritten: true
   archetype: ai-ok

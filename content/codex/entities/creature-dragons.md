@@ -10,7 +10,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Dragons are enormously powerful, anomolous creatures, with mysterious motivations and indefinite lifetimes. There are many different types of dragons, as they have been around for over 100 million years.
+Dragons are enormously powerful, anomolous creatures, with mysterious motivations and indefinite lifetimes. There are many different types of dragons, as they have been around since the early Gaeaic Eon, approximately 10 million years ago.
 
 Although dragons are not immortal, they will never die of natural causes, and will frequently age to be thousands, or sometimes millions of years old. For this reason, dragons have incomparable patience, and will pursue sometimes strange and nonsensical goals purely in the spirit of "because why not". This also leads many dragons down a path of vicious cruelty, where the only way left to amuse oneself is the torture and suffering of others.
 

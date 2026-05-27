@@ -16,77 +16,16 @@ Halflings possess an uncanny ability to thrive where others merely survive. Thei
 - **Height:** 3.5-4.5 feet
 - **Weight:** 60-90 pounds
 
-### Belenstrope
-The Belenstrope halflings of Erasnus have transformed commerce into high art. Their noble merchant houses don't just trade goods—they trade in influence, information, and favors with a complexity that makes even seasoned diplomats dizzy. Every Belenstrope maintains a mental ledger of who owes what to whom, tracking social debts across generations with the same precision their competitors use for gold. Their olive skin bears subtle tattoos in expensive inks that mark major trade victories, and their fingers are always stained with the particular blue-black ink used for contracts in Erasnus. They dress in calculated opulence, each silk thread and jeweled button precisely chosen to convey their exact level of wealth—never so much as to invite robbery, never so little as to seem unworthy of serious negotiation.
-
-In Belenstrope society, a merchant's route defines their identity more than their family name. Young halflings spend years as apprentice traders before earning the right to establish their own routes, and the most successful can trace their commercial lineages back through centuries of carefully maintained ledgers. Their wedding ceremonies involve the literal joining of trade routes, with couples exchanging not rings but sealed contracts establishing their combined commercial territory. They view the world as an endless series of arbitrage opportunities, and their greatest cultural heroes are those who turned worthless goods into fortunes through clever routing and timing.
-
-#### Aspects
-- My family's routes are written in my blood
-- There's always a better deal three towns over
-
-### Fieri
-Deep beneath Hell Creek in Chimea, the Fieri have built a civilization from spite and molten stone. Their underground cities glow with the light of exposed magma flows, which they channel through obsidian aqueducts to heat their homes and power their forges. Every Fieri child learns to read the mood of lava like surface dwellers read weather—knowing when a flow is "angry" enough to surge, when it's "sleeping" and safe to cross, when it's "hungry" and likely to find new paths. Their priests teach that they weren't cursed to live here but chosen, selected by the fires below to become something harder and more enduring than the soft surface folk who abandoned them. They've developed a complex sign language using the glow patterns of heated metal, allowing them to communicate across the roaring noise of their volcanic home.
-
-The Fieri measure wealth not in gold but in thermal territories—regions where the heat is stable enough to be harvested but intense enough to be valuable. Their architecture defies surface logic, with buildings that would be ovens to others serving as comfortable homes, and what surface folk would consider forges functioning as their hospitals and nurseries. They've domesticated creatures that no surface dweller could imagine as livestock: salamanders the size of cattle that feed on sulfur, blind cave fish that swim in near-boiling pools, beetles with shells that must be cracked with hammers. When they must venture to the surface for raids, they carry their hatred like a furnace in their chest, knowing that every moment under the cold stars is a moment stolen from their true home.
-
-#### Aspects
-- My fury burns hotter than any forge
-- The surface world deserves only ash
-
-### Dengar
-In the Phirexes swamps, the Dengar halflings have transformed necessity into expertise. Where others see fetid water and toxic plants, they see raw materials for their bubbling cauldrons. Their still-houses rise on stilts above the bog, filled with bottles of liquids in colors that shouldn't exist in nature. Every Dengar child learns to identify useful fungi by taste and can tell good moss from bad by how it stains their fingers. Their coming-of-age ceremonies involve brewing their first batch of "swamp spirits"—a violently alcoholic concoction that doubles as paint stripper, wound cleanser, and breakfast drink.
-
-The Dengar's optimism stems from a cultural philosophy they call "the worse it gets, the better it was"—the idea that surviving something awful makes everything else seem wonderful by comparison. They throw festivals to celebrate disasters avoided, making special brews to commemorate "that time the bog almost ate the village" or "when the poison fog only killed half the chickens." Their master brewers wear leather aprons stained with so many toxic substances that the garments themselves become dangerous to touch, and they consider this a mark of expertise. They've developed such a nuanced understanding of swamp alchemy that they can extract useful components from materials others wouldn't dare touch, turning the hostile swamp into their personal laboratory.
-
-#### Aspects
-- The swamp provides everything, if you know how to ask
-- There's always something useful in the muck
-
-### Wispen
-The silver-skinned Wispen halflings are living repositories of forgotten memories, their nomadic lifestyle driven by an unusual curse—or gift, depending on perspective. When a Wispen touches an object with their bare skin, they absorb faint echoes of its history, experiencing ghostly sensations of past events. A sword might whisper of its battles, a coin might carry the anxieties of its previous owners, a doorknob might remember every hand that turned it. This constant flood of psychic impressions has made them a deeply peculiar people who wear gloves obsessively and avoid touching anything unnecessarily. Their caravans are immediately recognizable by the elaborate silk wrappings covering every surface, protecting the Wispen from unwanted visions while traveling.
-
-The Wispen have learned to weaponize their burden, becoming the greatest trackers and investigators in Grendenheim. They can follow trails years old by touching trees and stones, solve murders by handling the victim's possessions, and find lost treasures by reading the memories in old maps. Their culture revolves around managing the flow of information—they've developed meditation techniques to process traumatic visions, ritual cleansings to purge unwanted memories, and methods for storing important impressions in specially prepared crystals. Young Wispen undergo a harrowing coming-of-age ritual where they must touch an ancient memory stone containing their clan's entire history, experiencing generations of life in a few overwhelming moments. Those who emerge sane are considered true adults; those who don't wander the roads muttering about centuries they never lived.
-
-#### Aspects
-- Every object screams its history at me
-- I know where you've been by what you've touched
-
-### Shailin
-The yellow-eyed Shailin of Sestros live in a constant state of anticipatory readiness, their entire culture shaped around prophecies that always seem just about to come true. Their daemon whispers different things to each of them—fragments of possible futures, warnings about paths not taken, promises of glory that require just one more sacrifice. They build their cities with empty throne rooms for kings not yet born, maintain armies for wars not yet declared, and teach their children skills for professions that don't yet exist. Every Shailin carries a small journal where they record their personal prophecies, creating vast libraries of contradictory futures that their scholars desperately try to reconcile. The most respected members of society are those whose prophecies have almost come true—the "Nearly Blessed" who were so close to their destiny that they could taste it.
-
-The Shailin have developed elaborate rituals around decision-making, using their daemon whispers like a twisted magic 8-ball. Before any major choice, they perform "future readings" where they listen to the whispers while considering each option, trusting that Talresses will guide them correctly. That this frequently leads to disaster doesn't shake their faith—clearly, the disaster was necessary for the greater destiny still to come. Their architecture reflects this temporal confusion, with buildings constructed for purposes that might become clear someday, doors that open onto walls (for now), and staircases that lead nowhere (yet). They age strangely, sometimes looking decades older or younger than their actual years, as if their bodies can't quite agree on when they're supposed to be.
-
-#### Aspects
-- My time will come, as was foretold
-- Every failure brings me closer to destiny
-
-### Windorf
-The Windorf halflings have discovered something profound about fortune: it flows like ocean currents, and those who understand its patterns can ride its waves. Their seafaring culture is built on reading these invisible tides of probability, using complex charts that track not wind and water but likelihood and chance. Their navigators don't just plot courses through physical space but through possibility space, finding routes where favorable winds are most probable, where pirates are least likely, where the chance of profit runs highest. They've developed a elaborate system of knots and rope work that serves as both practical sailing knowledge and a form of probability mathematics—each knot representing a different statistical outcome, complex problems solved by weaving rope patterns that would make other cultures' heads spin.
-
-The Windorf have ritualized their relationship with fortune through their peculiar gambling traditions. They don't gamble for money but for luck itself, playing elaborate games where the stakes are probability points that can be saved and spent on future endeavors. A Windorf captain might bet their good weather luck against another's safe passage fortune, trading probabilities like currency. Their priests are called "Odds Makers," and they maintain great temples that are part casino, part lighthouse, part mathematical academy. These structures serve as neutral ground where luck can be formally exchanged, calculated, and even stored in special dice carved from whalebone. Their children play with loaded dice to learn how probability feels when it's tilted, developing an intuitive sense for when fortune is flowing their way or when the odds have turned against them.
-
-#### Aspects
-- I can feel when the odds are about to turn
-- Fortune favors those who understand her patterns
-
-### Whiteling
-When a halfling dies with unfinished business or in a state of extreme emotional turmoil, they sometimes rise as a Whiteling—a corpse vampire that haunts their former communities. These undead halflings retain their memories but lose all empathy, becoming predators that hunt those they once loved. The transformation is tied to something deep in halfling biology and culture, though scholars debate whether it's Fortune's final curse or simply the price of their legendary luck. Whitelings appear as pale, desiccated versions of their living selves, with pupilless white eyes and voices that carry an unsettling echo. They often maintain grotesque parodies of their former lives—undead merchants who trade in suffering, skeletal parents who prepare meals of ash and bone for children who fled years ago.
-
-The most disturbing aspect of Whitelings is their perfect memory combined with absent emotion. They can recite every birthday, every shared meal, every whispered secret with those they now hunt, all while describing how they plan to drain their former loved ones dry. They're drawn to halfling communities but can never enter uninvited, leading to horrible sieges where they call out to their living relatives in familiar voices, using shared memories as weapons. Some communities have developed "Whiteling watches," where families take turns guarding against their own returned dead. The condition is not contagious—Whitelings seem incapable of creating more of their kind, leading some to theorize that each represents a unique failure of the halfling spirit, a soul so corrupted by undeath that it cannot even share its curse.
-
-#### Aspects
-- I remember loving you, but feel nothing now
-- The hunger is all that remains
-
-### Hookling
-In the frozen wastes of Morelous, the Hookling halflings have transformed survival into a mathematical science. Their culture revolves around "The Count"—an obsessive tracking of every resource, every calorie, every breath of warm air. Children learn to calculate metabolic rates before they learn to read, wearing intricate bead-chains that serve as portable abacuses, constantly clicking through calculations of resource expenditure versus expected return. They've developed seventeen different words for types of hunger and twenty-three for varieties of cold, each representing specific caloric deficits or heat loss rates.
-
-Most remarkably, Hooklings have evolved conscious control over their metabolic processes, able to shift between two distinct biological states. In times of scarcity, they enter "Conservation Mode," slowing their bodies to an almost hibernative state to preserve precious resources. When resources are plentiful, they can switch to "Expenditure Mode"—burning through calories at an accelerated rate to achieve peak performance. This metabolic flexibility has allowed them to thrive where others merely survive, turning the harsh arithmetic of survival into an art form.
-
-#### Aspects
-- **Winter's arithmetic guides my every step**
-- **My flesh obeys the ancient equations**
+### Heritages
+- **Belenstrope** — Noble merchant halflings of Erasnus who trade in influence, information, and generational social debts with the same precision others use for gold. See [[race-halfling-belenstrope]].
+- **Fieri** — Underground halflings beneath Hell Creek in Chimea who built a volcanic civilization from spite and molten stone, believing the fires below chose them over the soft surface folk. See [[race-halfling-fieri]].
+- **Dengar** — Swamp alchemists of the Phirexes who transform toxic bog materials into expertise, and celebrate survived disasters with the philosophy that the worse it gets, the better it was. See [[race-halfling-dengar]].
+- **Wispen** — Silver-skinned nomadic halflings whose bare touch absorbs the histories of objects; they are the greatest trackers and investigators in Grendenheim, weaponizing a burden others would call a curse. See [[race-halfling-wispen]].
+- **Shailin** — Yellow-eyed halflings of Sestros guided by daemon whispers from Talresses; they build cities for kings not yet born and maintain armies for wars not yet declared, aging strangely as their bodies argue about when they're supposed to be. See [[race-halfling-shailin]].
+- **Windorf** — Seafaring halflings who chart courses through possibility space rather than physical waters, trading luck itself as currency and storing fortune in whalebone dice. See [[race-halfling-windorf]].
+- **Whiteling** — Undead halflings risen from extreme emotional turmoil who retain perfect memory but lose all empathy, haunting former communities and using shared recollections as weapons against those they once loved. See [[race-halfling-whiteling]].
+- **Hookling** — Halflings of the frozen wastes of Morelous who obsessively track every calorie and breath of warmth, and consciously switch between hibernative Conservation Mode and peak-performance Expenditure Mode. See [[race-halfling-hookling]].
+- **Arinsfold** — Colonial merchant halflings of the Greenwater Isles who built a wealthy mercantile empire on emptied land, govern through a Parliament of Flowers that decorates over merchant-council rule, and do not speak of who lived there before. See [[race-halfling-arinsfold]].
 
 <!-- mechanics -->
 

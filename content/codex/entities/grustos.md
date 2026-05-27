@@ -9,6 +9,10 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1628"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-kryaaji" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-aciabro" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

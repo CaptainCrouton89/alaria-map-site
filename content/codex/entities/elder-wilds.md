@@ -20,7 +20,7 @@ review:
 
 The Elder Wilds occupy the entire eastern peninsula of Aboyinzu—a vast region of ancient rainforest, winding rivers, and primordial wilderness. This is one of the oldest and least tamed regions of the known world, where the jungle has grown undisturbed for millennia.
 
-The region earns its name from the **Anchor Trees**—colossal individuals scattered throughout the wilderness, rising hundreds of feet above the canopy. These ancient giants mark the tombs of titans buried by druids in the aftermath of the Ezz Rift, 120 million years ago.
+The region earns its name from the **Anchor Trees**—colossal individuals scattered throughout the wilderness, rising hundreds of feet above the canopy. These ancient giants mark the tombs of titans buried by druids in the aftermath of the Ezz Rift, 12 million years ago.
 
 #### Boundaries and Position
 
@@ -58,7 +58,7 @@ Scattered throughout the Elder Wilds—from the Apelands in the north to the edg
 
 #### Origin
 
-When the Ezz Rift flooded Alaria with Melera's music 120 million years ago, the titans experienced emotion for the first time. For beings of pure Deoric order, this contact with raw feeling was unbearable agony. Many killed themselves. Others fled to distant planar stacks.
+When the Ezz Rift flooded Alaria with Melera's music 12 million years ago, the titans experienced emotion for the first time. For beings of pure Deoric order, this contact with raw feeling was unbearable agony. Many killed themselves. Others fled to distant planar stacks.
 
 Those who died in the Elder Wilds were buried by the druids—the only beings who could safely handle titan remains while channeling Faesong to bind the cosmic energies. Where druids sang titan corpses into the earth, the Anchor Trees grew. Their roots wrap around titan bones that never decay. Their sap carries traces of Deoric resonance.
 

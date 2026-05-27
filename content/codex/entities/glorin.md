@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "692", note: "NW (Morgnor's Cradle)" }
   - { rel: spatial, kind: borders, target: "652", note: "S (Kazül)" }
   - { rel: spatial, kind: within, target: "801" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-glorindian" }
 ---
 Glorin is a dwarven clan-state built atop one of the richest gold deposits in the north, hidden inside the Whistle-Stone Mountains between Thespia to the north and Kazül to the south. Its wealth is staggering and its public face deliberately modest—plain buildings, unremarkable streets, and gold exports kept small on purpose so as not to draw attention.
 

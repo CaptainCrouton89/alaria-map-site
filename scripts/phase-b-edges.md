@@ -26,7 +26,7 @@ polities already got their `within` edges + coordinates; this backlog is about t
 
 - **`polity/capitalOf`** — each polity's capital settlement → its polity (renders a star on the map).
   Known pairs from prose: Lise→Enapay, Vystril→Vystrilik. Find the others by reading each nation's body.
-- **`spatial/borders`** — between the new nations and their neighbors (read the map; see `lore-context.md`).
+- **`spatial/borders`** — between the new nations and their neighbors (read the map; see `docs/worldbuilding/lore-style-guide.md` §Process).
 
 ## How
 

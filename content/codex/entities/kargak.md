@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Western_Isles.md#L925"]
 relations:
   - { rel: spatial, kind: within, target: "4252" }
   - { rel: polity, kind: capitalOf, target: "4252" }
+  - { rel: culture, kind: inhabitedBy, target: "race-chargon" }
 ---
 The capital city covers most of the main island's northern coast. Built by a people desperate to stay dry, Kargak is an architectural marvel of paranoia.
 

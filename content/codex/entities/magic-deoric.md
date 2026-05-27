@@ -30,11 +30,17 @@ Titan blood acts as a buffer. Because titans were cosmic beings, their blood res
 Ritual magic is magic performed using Deoric speech, powered by blood sacrifice. Anything is possible with ritual magic so long as you know the words and have a suitable amount of life sacrificed. Rules for ritual magic are described in below the Spells section.
 
 ### Recording Deoric Text
-Deoric cannot be recorded except with titan blood or special ink made from their ground up bones. It is magically draining to write, due to the powerful nature of the text. Writing a rune or simple command takes about an hour to complete, and causes you to lose 10 hitpoints. You regain hitpoints lost in this way at a rate of 1 hitpoint each week. 
+Deoric can be inscribed on stone, bone, and other materials — the titans did so freely across the landscapes of ancient Alaria. But only titan-material inks hold the Deoric charge without decay: inscriptions on stone and organic media slowly lose potency as the medium weathers, and over the millions of years since the titans left, most such inscriptions have crumbled to illegibility or vanished entirely. The surviving corpus is fragmentary; what mortals know of Deoric was painstakingly reconstructed by scholars — foremost among them the Vyanoweir — from scattered ruins and partial glyphs.
+
+For *functional* use — handmagic runes, ritual inscriptions — only titan blood or bone paste holds the charge. It is magically draining to write, due to the powerful nature of the text. Writing a rune or simple command takes about an hour to complete, and causes you to lose 10 hitpoints. You regain hitpoints lost in this way at a rate of 1 hitpoint each week.
 
 Once Deoric text is read by someone other than the author, the text disintegrates into ash. For this reason, along with the reasons above, any book of Deoric text is incredibly valuable.
 
+This self-disintegration applies to actively charged Deoric text — not to ancient titan inscriptions, which are inert historical artifacts rather than live workings.
+
 ### Deoric, Daemons, & Celestia
+Deoric is the titans' native tongue — the language Azus's first creations used to give form and command to reality. What mortals practice today is a reconstruction, assembled from the fragments the titans left behind.
+
 Deoric is primarily used by the daemons of Celestia. Having been around for centuries, millennia, or in some rare cases, eons, these beings are frequently at much higher levels of mastery with the Deoric language than mortals can hope to achieve.
 
 #### The Celestia Paradox

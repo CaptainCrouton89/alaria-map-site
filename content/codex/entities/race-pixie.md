@@ -18,41 +18,11 @@ Pixies reproduce through a mystical process involving moonlight, flower nectar, 
 - **Height:** 6-10 inches
 - **Weight:** 1-3 pounds
 
-### Zelle
-The Zelle pixies of the jungle kingdom Zelidia have built a society on justified paranoia and religious fervor. Ruled by a theocratic matriarchy that views all outsiders as either threats or sacrifices to their dark forest gods, they have survived centuries of invasion attempts through a combination of ruthless cunning and blood magic. Their wings are deep crimson and black, resembling tropical butterflies but with patterns that shift to display warning colors when threatened.
-
-Zelle society revolves around their High Priestesses, who commune directly with the jungle spirits through ritual sacrifice. Every Zelle is trained from emergence to be both predator and protector, learning to navigate their xenophobic culture while maintaining the divine wards that keep their realm hidden from larger threats.
-
-#### Aspects
-- Paranoid xenophobe
-- Devoutly bloodthirsty
-
-### Ianovko
-The Ianovko pixies are master illusionists who blur the line between dream and reality. They build their settlements in the spaces between—twilight groves where day meets night, misty valleys where earth meets sky, and most importantly, in the minds of those who encounter them. An Ianovko community might exist simultaneously in the material plane and in the collective unconscious of a nearby village, feeding on dreams and nightmares alike.
-
-Their wings appear to be made of captured starlight and shadow, constantly shifting between translucent and opaque. Ianovko culture prizes clever wordplay and elaborate pranks above all else, with social standing determined by the audacity and artistry of one's illusions.
-
-#### Aspects
-- Reality is negotiable
-- Riddling trickster
-
-### Ikriel (Icehearts)
-Icehearts are pixies transformed by their worship of winter itself—not as a season, but as a cosmic force of entropy and hunger. Their crystalline wings generate a constant aura of frost, and their very presence leeches warmth from their surroundings. This hunger extends beyond the physical; Icehearts feed on emotional warmth, leaving their victims feeling hollow and cold inside.
-
-Icehearts are master manipulators who view other creatures as sources of sustenance. They excel at gaining trust through false vulnerability or promises of aid, only to drain their victims when defenses are lowered. To an Iceheart, every relationship is ultimately transactional—a question of when, not if, they will feed.
-
-#### Aspects
-- Emotionally vampiric
-- Winter's hungry child
-
-### Luma (Grove Keepers)
-The Luma of Nykotheryx Amberylika forest represent pixie society at its most harmonious. Each Luma bonds with a grove of ancient trees upon emergence, becoming its guardian and living memory for life. Their translucent wings shimmer with captured memories, displaying faint images of past events when they concentrate. Under the rule of Magera, the Frost Prince, they maintain the delicate balance between the ancient dragon totems and the living forest.
-
-Luma culture emphasizes patience and cycles—they measure time in tree rings rather than years, and their oral histories stretch back to when the Dark Elves first walked among the silver birches. They serve as living libraries, their very being intertwined with the memories of their groves.
-
-#### Aspects
-- Patient as ancient trees
-- Living memory of the forest
+### Heritages
+- **Zelle** — Theocratic pixies of Zelidia's jungle kingdom; High Priestess-ruled matriarchy practicing ritual sacrifice to dark forest gods. See [[race-pixie-zelle]].
+- **Ianovko** — Master illusionists whose settlements blur material plane and collective unconscious; culture prizes audacious pranks and elaborate deception. See [[race-pixie-ianovko]].
+- **Ikriel** (Icehearts) — Frost-transformed pixies who worship winter as cosmic entropy; emotionally vampiric manipulators who drain warmth from victims. See [[race-pixie-ikriel]].
+- **Luma** (Grove Keepers) — Grove-bonded living libraries of Nykotheryx Amberylika; translucent wings carry captured tree memories stretching back millennia. See [[race-pixie-luma]].
 
 <!-- mechanics -->
 

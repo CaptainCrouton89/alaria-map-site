@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "540" }
   - { rel: spatial, kind: borders, target: "666", note: "north" }
   - { rel: economy, kind: produces, target: "magic-diamonds" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-ohblex" }
 review:
   aiWritten: true
   archetype: ai-ok

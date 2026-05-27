@@ -9,6 +9,7 @@ tags: ["citystate", "ve", "frontier", "industry"]
 sources: ["all_sections_formatted/Ve.md#L1222"]
 relations:
   - { rel: spatial, kind: within, target: "351" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 ---
 The industrial heart of the Twin Cities, Garlow produces the weapons, traps, and supplies that keep Yuki's defenses functional. Where Yuki watches the border, Garlow forges the tools that make watching worthwhile.
 
@@ -46,7 +47,7 @@ These tensions never escalate beyond grumbling. Both cities know they need each 
 
 ### The Refugee Quarter
 
-Garlow absorbs most of the Twin Cities' refugee population—survivors from the Krell Lands who trickle in over the years, displaced farmers from the borderlands, goblins seeking citizenship. The Refugee Quarter occupies the city's southern edge, a crowded district where newcomers learn trades and integrate into Garlow's workshop economy.
+Garlow absorbs most of the Twin Cities' refugee population—human survivors from the Krell frontier who trickle in over the years, displaced farmers and villagers from settlements overrun or abandoned as the Krell advance has made the borderlands uninhabitable. The Refugee Quarter occupies the city's southern edge, a crowded district where newcomers learn trades and integrate into Garlow's workshop economy.
 
 The Quarter has developed its own character over generations. Cuisines from the lost kingdoms survive here. Languages that haven't been spoken outside these streets for a century persist in family homes. Cultural practices from Theoron, Valifax, and the Jaipon Confederacy blend into something new—a community defined by what was lost and what was built in its place.
 

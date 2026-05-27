@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Aboyinzu.md#L537"]
 relations:
   - { rel: spatial, kind: within, target: "1444" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-scalawag" }
 review:
   aiWritten: true
   archetype: ai-ok

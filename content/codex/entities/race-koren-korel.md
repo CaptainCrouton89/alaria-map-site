@@ -1,0 +1,21 @@
+---
+id: "race-koren-korel"
+name: "Korel"
+entityType: race
+blurb: "Feral Koren who embrace their predatory nature, living by instinct in loose packs as scouts, thieves, and mercenaries."
+aliases: ["Wildborn"]
+relations:
+  - { rel: culture, kind: subraceOf, target: "race-koren" }
+sources:
+  - "races/Koren.md"
+review:
+  aiWritten: false
+  action: keep
+---
+The Korel are what the Kor fear to become - Koren who embrace their feral nature. Whether descended from exiles, born outside Kor society, or simply those who rejected its constraints, the Korel live by instinct rather than etiquette. Where the Kor suppress their predatory nature, the Korel revel in it.
+
+They form loose packs and hunting bands, valuing cunning and strength over propriety. Many work as scouts, thieves, or mercenaries, finding freedom in professions the Kor consider beneath them. Yet despite their reputation as savages, the Korel have their own codes - loyalty to the pack, the thrill of the hunt, and survival above all else.
+
+#### Aspects
+- The pack survives together
+- I trust my instincts

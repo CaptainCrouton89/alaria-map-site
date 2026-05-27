@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L176"]
 relations:
   - { rel: spatial, kind: within, target: "4370" }
   - { rel: spatial, kind: borders, target: "4384", note: "south" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelaendor" }
 review:
   aiWritten: true
   archetype: ai-ok
