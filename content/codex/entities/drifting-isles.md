@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "4310", note: "NE" }
   - { rel: spatial, kind: borders, target: "4252", note: "SE" }
   - { rel: spatial, kind: borders, target: "manual-mpiftlzz-35uhf", note: "NW" }
+  - { rel: culture, kind: inhabitedBy, target: "race-swordsmen" }
 review:
   aiWritten: true
   archetype: ai-ok

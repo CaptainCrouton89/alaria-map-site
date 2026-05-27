@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "494", note: "south; Echea occupies the mountainous tip of the peninsula" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarblin" }
 review:
   aiWritten: true
   archetype: ai-ok

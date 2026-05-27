@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L847"]
 relations:
   - { rel: spatial, kind: borders, target: "994", note: "NW" }
   - { rel: spatial, kind: within, target: "2462" }
+  - { rel: culture, kind: inhabitedBy, target: "race-rhea" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,7 @@ tags: ["forest", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4998"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-troenka" }
 review:
   aiWritten: true
   archetype: ai-ok

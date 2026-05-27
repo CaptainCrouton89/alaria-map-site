@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "4165" }
   - { rel: spatial, kind: borders, target: "4184", note: "S" }
   - { rel: spatial, kind: borders, target: "manual-mpifts0q-rkqps", note: "NE" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-erzqin" }
 review:
   aiWritten: true
   archetype: ai-ok

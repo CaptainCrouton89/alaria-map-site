@@ -8,6 +8,9 @@ zoomLevel: 0
 sources: ["all_sections_formatted/Aboyinzu.md#L1"]
 relations:
   - { rel: spatial, kind: separatedBy, target: "2453", note: "South Sea separates Aboyinzu from Rimihuica/Shacklands to the NE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-rokunuri" }
 review:
   aiWritten: true
   archetype: ai-ok

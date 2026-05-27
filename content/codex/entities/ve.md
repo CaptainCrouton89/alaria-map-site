@@ -12,6 +12,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Comprehensive Ve continent overview. Body includes accurate sub-region geography (Shyona NE, Edari NW, Sestros W, Chimea SW, Avalon central-W, Krell SE, Dygon S) plus detailed water features. Coquray Sound and Marmoroy River sections are detailed deep dives. Political Climate/Interesting/Wrong sections are TODO stubs."
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "creature-dinosaurs" }
 ---
 ## Geography
 

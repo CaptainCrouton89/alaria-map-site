@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "manual-mph71itd-6g6tw", note: "northern boundary, Iron Sea" }
   - { rel: spatial, kind: borders, target: "2573", note: "eastern boundary, Sea of Merchants" }
   - { rel: spatial, kind: borders, target: "3454", note: "SE boundary, Starfish Isles" }
+  - { rel: culture, kind: inhabitedBy, target: "race-yngli" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L6455"]
 relations:
   - { rel: spatial, kind: within, target: "3250" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-gillykin" }
 ---
 The ruins of the Gorathi provincial capital rise from the mangrove swamps of northeast Lethos—massive stone towers still standing after three centuries, their foundations drowned in brackish water, their windows dark and empty. Crocodiles nest in the flooded plazas. Birds refuse to roost on the walls.
 

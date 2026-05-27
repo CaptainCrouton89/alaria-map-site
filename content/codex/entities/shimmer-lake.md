@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Aboyinzu.md#L7366"]
 relations:
   - { rel: spatial, kind: within, target: "2345" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-pelera" }
 ---
 **Shimmer Lake** lies at The Glog's eastern edge, marking the boundary between forest and the foothills of The Screech. The lake earns its name from the way light plays across its surface—reflections that seem too bright, too active, as if the water itself generates luminescence.
 

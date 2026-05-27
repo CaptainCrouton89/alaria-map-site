@@ -8,5 +8,6 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L1932"]
 relations:
   - { rel: spatial, kind: within, target: "710" }
+  - { rel: culture, kind: inhabitedBy, target: "race-mnurvlyon" }
 ---
 The sub-range of the Kharvorn where Myorna is situated. The mountains contain extensive underground complexes—remnants of thousands of years of subterranean civilization. Many passages remain unexplored or sealed.

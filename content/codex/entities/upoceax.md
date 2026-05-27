@@ -12,6 +12,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Continent overview synthesized from 9 remediated members + map render; no member-prose duplication."
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "creature-griffin" }
 ---
 Upoceax (pronounced "YOO-poe-say") is one of the three major continents of Alaria, located in the southwest. It spans from a barren northern desert coast southward through forested elven kingdoms, a mountain-ringed giant heartland, and vast boreal plains before terminating in the polar ice of Venalthier. The Ocean of Elorinia bounds it to the west; God's Bathtub and the Sea of Daggers separate it from Aboyinzu to the east.
 

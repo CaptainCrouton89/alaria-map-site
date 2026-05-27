@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Aboyinzu.md#L803"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dead-claw" }
 ---
 A hidden valley deep in the far southern Morygun Mountains, southeast of the Korgül forest region. This secluded vale is home to Dead Claws—dangerous predators that have adapted to the mountain environment—and a small enclave of fairies and pixies who have claimed the valley as their sanctuary.
 

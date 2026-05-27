@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L114"]
 relations:
   - { rel: spatial, kind: within, target: "1214" }
+  - { rel: culture, kind: inhabitedBy, target: "race-wytrolape" }
 review:
   aiWritten: true
   archetype: ai-ok

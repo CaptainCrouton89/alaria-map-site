@@ -9,6 +9,7 @@ tags: ["river", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L3793"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
 ---
 The longest river in the Westwilds, the Grand Tolkarsus stretches from the Nirvanis Mountains (part of the Kharvorn range) in the northeast, flowing southwest through orcish territory, west of the Wurmspine Mountains and the Deadwalk desert, eventually reaching Cykravikus Lake. The lake connects to Symonair Lake, which empties into Phyndarr Sound at the northeastern edge of the Shattered Sea.
 

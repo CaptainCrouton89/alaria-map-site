@@ -7,5 +7,8 @@ coordinates: [63, 378]
 zoomLevel: 2
 tags: ["sea"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L136"]
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-bfaspeen" }
 ---
 Home to many triton and Bfaspeen

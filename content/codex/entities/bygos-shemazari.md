@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Aboyinzu.md#L3710"]
 relations:
   - { rel: spatial, kind: within, target: "1806" }
+  - { rel: culture, kind: inhabitedBy, target: "race-frialve" }
 ---
 The eastern rainforest of the Elder Wilds—"Old Shemazari" in corrupted local usage, and the region where the ancient Shemazari civilization likely centered.
 

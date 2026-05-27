@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "2201" }
   - { rel: culture, kind: inhabitedBy, target: "creature-frostwalkers" }
   - { rel: culture, kind: inhabitedBy, target: "creature-ice-wyrms" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-the-cold-that-hungers" }
 ---
 The southernmost mountains of the Dragon's Spine, rising beyond the Shrapnel Strait in a wall of ice-sheathed stone. The Pale Peaks mark the edge of the known world in this region—beyond them lies only the southern polar waste, a frozen expanse that no expedition has successfully crossed. The Fengruk of Azanfrain watch these mountains constantly, because what lives in them occasionally decides to come north.
 

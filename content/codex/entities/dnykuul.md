@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Upoceax.md#L3776"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
   - { rel: culture, kind: inhabitedBy, target: "creature-cendelle" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
 review:
   aiWritten: true
   archetype: ai-ok

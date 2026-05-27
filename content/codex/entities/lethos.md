@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3178", note: "north" }
   - { rel: culture, kind: inhabitedBy, target: "creature-darklings" }
   - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-faeja" }
 review:
   aiWritten: true
   archetype: ai-ok

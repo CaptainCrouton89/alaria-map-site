@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L5577"]
 relations:
   - { rel: spatial, kind: within, target: "1214" }
   - { rel: spatial, kind: borders, target: "1226", note: "NW" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

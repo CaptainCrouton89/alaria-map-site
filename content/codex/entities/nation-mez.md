@@ -13,6 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "3" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lyzine" }
 ---
 Mez is not a nation in any sense the surface world would recognize. It is a territory—a claimed domain beneath the southwestern Widebarrow Mountains where the Lyzine hold absolute sway. To call it a "state" insults the concept; to ignore it would be suicide. The spider-folk have ruled these depths for millennia, and they consider the entire surface world a temporary inconvenience on land that is rightfully theirs.
 

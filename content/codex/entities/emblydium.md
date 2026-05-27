@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "2201" }
   - { rel: spatial, kind: borders, target: "1988", note: "N" }
   - { rel: spatial, kind: borders, target: "1951", note: "NE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
 review:
   aiWritten: true
   archetype: ai-ok

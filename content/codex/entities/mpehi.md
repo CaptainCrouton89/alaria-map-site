@@ -9,6 +9,7 @@ tags: ["city", "state", "nation", "free-isles"]
 sources: ["all_sections_formatted/Upoceax.md#L3381"]
 relations:
   - { rel: spatial, kind: within, target: "3725" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-bathemiel" }
 review:
   aiWritten: true
   archetype: ai-ok

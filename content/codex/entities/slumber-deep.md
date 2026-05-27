@@ -7,6 +7,8 @@ coordinates: [485, 471]
 zoomLevel: 0
 tags: ["underwater", "leyline", "abyss", "force", "water", "Force", "Water"]
 sources: ["all_sections_formatted/Rimihuica.md#L5482"]
+relations:
+  - { rel: culture, kind: inhabitedBy, target: "creature-aphoryis" }
 ---
 Slumber Deep is an abyssal trench approximately forty miles off the eastern coast of Phirexes, where the seafloor drops sharply into darkness. The trench plunges over three miles below sea level—far deeper than the surrounding ocean floor—and is the site of a Force and Water leyline intersection that produces one of the most unusual phenomena in Alarian waters.
 

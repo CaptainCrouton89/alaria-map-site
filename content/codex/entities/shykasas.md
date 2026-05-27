@@ -11,6 +11,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L6878"]
 relations:
   - { rel: spatial, kind: borders, target: "3260", note: "E" }
   - { rel: spatial, kind: within, target: "3151" }
+  - { rel: culture, kind: inhabitedBy, target: "race-alekroin" }
 review:
   aiWritten: true
   archetype: ai-ok

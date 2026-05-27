@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L190"]
 relations:
   - { rel: spatial, kind: within, target: "2530" }
   - { rel: culture, kind: inhabitedBy, target: "race-goblin" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-desert-mammoth" }
 review:
   aiWritten: true
   archetype: ai-ok
