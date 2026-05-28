@@ -6,6 +6,7 @@ blurb: "The permanently frozen far north, beyond any prayer-coalition's reach, w
 tags: ["region", "frozen", "ruins"]
 relations:
   - { rel: cosmology, kind: attunedTo, target: "person-bryn", note: "defined by Bryn's absence" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-zwaeron" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -20,6 +21,8 @@ The north was not always so. Prayer-coalitions in earlier eras, before the Solar
 The civilizations that grew during those windows did not know they were temporary. They built in stone. They planted orchards. They kept records of their own history under open skies. The ruins stand now inside glaciers, preserved well enough that explorers who crack them open find wooden furniture, grain in sealed jars, murals of figures walking in sunlight. The cities ended between one generation and the next: too sudden for organized evacuation, too cold too fast for anything but the fastest-moving to survive.
 
 ### What remains
+
+The Zwaeron — gray-blue-skinned tundra dwarves who ride dire wolves and follow the great herds — range across the Sun-Forsaken North seasonally, the only people to claim the whole of it as home while permanently settling none of it.
 
 Relict wildlife is the other inheritance. Some species that adapted to the brief warm periods remain, suited to an environment that no longer exists at scale. They survive in thermal pockets, deep geothermal fissures, or simply through stubborn cold-adaptation that came faster than anyone expected. Scholars who study them argue about whether they represent evolutionary remnants or something stranger—creatures whose forms were fixed in a warmer era and have not been permitted to change since.
 

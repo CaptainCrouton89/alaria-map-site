@@ -13,6 +13,8 @@ The Elnir were once druids who protected the wilds, but they have been corrupted
 
 They view humanoids as mere biological clay to be molded. An Elnir might have the arm of a bear, the eyes of a hawk, or skin of bark, all grafted or grown through their twisted magic. They reside in deep forests where the trees grow in perfect, terrifying grids, and animals with too many legs or wrong numbers of eyes serve as their guardians.
 
+No Elnir city exists — they are solitary, scattering individually across the great wildernesses of Alaria: the Filvrae Sylvyryn and Ishnit Jungles, the Green Wilds and Jungles of Titania, the Walking Forest and Everwood, Sorix Melar and Winterwood, the Plutachranes and Knulak, and the remote reaches of Fathre Morn, Pitte Ank, Lovre Ank, and Eyendra. The tell is always the same: a stretch of forest where the undergrowth has been rearranged into geometric rows, where the creatures are wrong in ways that take a moment to name.
+
 ### Vitals
 - **Size:** Medium
 - **Height:** 5-7 feet

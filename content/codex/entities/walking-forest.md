@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L5203"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
   - { rel: culture, kind: inhabitedBy, target: "race-grayls" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -33,7 +33,7 @@ Elves are not flesh-kin. They were crafted by the druids from natural materials 
 - **Sivakr** (Silver Elf) — Gray-skinned underground elves of Myorna who measure status by intellect and settle disputes through ritualized memory duels. See [[race-elf-sivakr]].
 - **Starborn** (Star Elf) — Mountain observatory elves who maintain the stars' positions through nightly ritual, practicing cosmic neutrality to preserve universal harmony. See [[race-elf-starborn]].
 - **Dark Elves** (Shadow Elf) — Extinct dragon-rider elves of Aboyuinzu destroyed in the Dragon Purge; diluted bloodlines may persist near ancient draconic totems. See [[race-elf-dark-elves]].
-- **Ythari** (Moss Elf) — Forest-merged elves whose skin shifts with seasons; radical generosity defines their culture, where status is measured by what one gives away. See [[race-elf-ythari]].
+- **Ythari** (Heartwood Elf) — Each Ythari is quickened from a single tree's seed; their spirit lodges in the heartwood and they die the moment that tree dies. Solitary; no settlements, no nation. See [[race-elf-ythari]].
 - **Rakiten** (Plains Elf) — Towering bronze-skinned plains elves who communicate exclusively through intricate sign language and organize society around visual sight-bonds. See [[race-elf-rakiten]].
 - **Xalahir** (Blood Elf) — Cursed vampiric elves who traded nature for immortal hunger; eternal wanderers who feed on populations and vanish before victims realize the truth. See [[race-elf-xalahir]].
 - **Xicrein** (Island Elf) — Dark-featured island elves of the Bynü Tribes who wage silent clan wars through honorable assassination with oyster-shell blades. See [[race-elf-xicrein]].
@@ -131,15 +131,9 @@ Though the true dragon bonds died with your ancestors, you retain a shadow of th
 
 If you are one of the few with true dark elf blood (work with your GM), you can use this ability without a totem once per week, manifesting faint dragon wings that grant a glide speed of 30 feet (fall at 10 feet per round) for the duration.
 
-### Ythari (Moss Elf) — Gift of the Forest
-**Major ability.**
-Your connection to nature and culture of giving manifests in supernatural ways. When you give away something of personal value (worth at least 10 ducats or of significant sentimental importance), you may invoke the Gift of the Forest. Choose one:
-
-- **Silent Step**: You and up to 6 allies within 30 feet gain the ability to move without making any sound for the next hour. During this time, you automatically succeed on stealth checks related to moving quietly.
-- **Animal Mentor**: Summon the spirit of your childhood animal mentor. It appears and aids you for 10 minutes, fighting alongside you with the stats of a Beast Companion but incorporeal (immune to physical damage, can't manipulate objects).
-- **Nature's Reciprocity**: The forest provides what you need most. The GM determines what appears, but it will be something that helps your current situation—healing herbs if wounded, clean water if thirsty, or shelter if exposed.
-
-Additionally, you can communicate basic concepts with any animal through gestures and body language, though complex ideas remain beyond this communication.
+### Ythari (Heartwood Elf) — Heartwood Bond
+**Passive ability.**
+Your spirit is lodged in your tree's heartwood rather than your body. Any wound dealt directly to your tree opens on your body as a wound of identical rank. While within sight of your tree, you have advantage on all saving throws. Beyond a day's walk you gain one level of weakened per week; a full season's absence kills you outright. When your tree is under immediate threat, you cannot be charmed, frightened, or compelled to retreat.
 
 ### Rakiten (Plains Elf) — Silent Speech
 **Passive ability.**

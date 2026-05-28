@@ -12,6 +12,7 @@ relations:
   - { rel: culture, kind: inhabitedBy, target: "creature-pythalomos" }
   - { rel: culture, kind: inhabitedBy, target: "creature-senwyn-the-agonizer" }
   - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 ---
 Superduper fucking deadly unless your quite powerful. Lots of nasty monsters.
 

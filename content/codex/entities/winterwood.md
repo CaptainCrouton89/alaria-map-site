@@ -9,6 +9,7 @@ tags: ["forest"]
 sources: ["all_sections_formatted/Clueanda.md#L6084"]
 relations:
   - { rel: spatial, kind: within, target: "1248" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 review:
   aiWritten: true
   archetype: ai-ok

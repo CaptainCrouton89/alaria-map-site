@@ -7,4 +7,5 @@ coordinates: [250, 341]
 zoomLevel: 5
 relations:
   - { rel: spatial, kind: within, target: "3337" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gillykin" }
 ---

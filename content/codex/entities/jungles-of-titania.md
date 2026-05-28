@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L6018"]
 relations:
   - { rel: spatial, kind: within, target: "3178" }
   - { rel: culture, kind: inhabitedBy, target: "race-gnome-ezuri" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 review:
   aiWritten: true
   archetype: ai-ok

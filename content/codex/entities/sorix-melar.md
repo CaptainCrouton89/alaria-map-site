@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Clueanda.md#L5118"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 ---
 The western forest, Sorix Melar marks the boundary between Twaan territory and the open Westwilds. The trees here are younger, the canopy thinner, and the Twaan clans more aggressive. This is the front line—where raiders, traders, and the merely curious first encounter Twaan hospitality.
 

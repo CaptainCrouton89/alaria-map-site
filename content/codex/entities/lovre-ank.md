@@ -7,4 +7,5 @@ coordinates: [479, 101]
 zoomLevel: 4
 relations:
   - { rel: spatial, kind: within, target: "manual-pherezi-imnuttut" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 ---

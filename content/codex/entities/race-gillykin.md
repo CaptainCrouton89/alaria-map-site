@@ -11,7 +11,7 @@ review:
 ---
 The Gillykin are the cheerful amphibians of rivers and wetlands, their bulbous eyes and wide mouths giving them an expression of perpetual surprise. These frog-like humanoids bound through life with infectious enthusiasm, their powerful legs carrying them in great leaps that defy their small stature. Their skin ranges from bright greens to deep blues, often mottled with patterns unique to each individual.
 
-Despite their jovial nature, Gillykin face a constant challenge—their amphibian biology demands regular submersion in water. This need shapes their settlements, which cluster around rivers, lakes, and specially constructed pools. Many Gillykin who venture into dry lands carry large water skins not for drinking, but for emergency skin-wetting.
+Despite their jovial nature, Gillykin face a constant challenge—their amphibian biology demands regular submersion in water. This need shapes their settlements, which cluster along the rivers and oxbow lakes of the Tamadrez and Pesalolo river networks, where dozens of slow-moving tributaries provide the constant access to water they require. Gillykin society is largely solitary; a traveler along the Feejaka or the Jobanga might pass a lone Gillykin's reed platform without seeing another for miles. Many who venture beyond their wetland heartland carry large water skins not for drinking, but for emergency skin-wetting.
 
 ### Aspects
 - Eternally optimistic

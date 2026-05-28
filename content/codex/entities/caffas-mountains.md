@@ -9,6 +9,7 @@ tags: ["mountains"]
 sources: ["all_sections_formatted/Upoceax.md#L3711"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-wendi" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -17,15 +18,15 @@ review:
 ---
 A mountain range in the southern portion of the Sandreach Mountains system, positioned between the Grognil Mountains to the west and the coastal lowlands to the east. The Caffas are notable for the elemental leylines that run through them—both fire and force leylines cross here, and the region's inhabitants have adapted to harness that power.
 
-#### The Two Tribes
+#### The Two Peoples
 
-The Caffas Mountains are dominated by two major tribal confederations whose rivalry defines the region:
+The Caffas Mountains are divided between two peoples whose rivalry defines the region:
 
-**The Flame Kindred** occupy the eastern Caffas, where the fire leyline runs strongest. Their settlements cluster around thermal vents and hot springs, and their warriors train in fire magic from childhood. The Flame Kindred are aggressive expansionists who believe the mountains rightfully belong to fire alone.
+**The Flame Kindred** are the Wendi confederacy of the eastern Caffas, where the fire leyline runs strongest. The Wendi — a strawberry-blonde human culture known across the world for their drake-riding warriors — have made the eastern range their homeland for as long as memory holds. Their settlements cluster around thermal vents and hot springs, their warriors train in fire magic from childhood, and they breed lesser drakes for mountain flight. They are aggressive expansionists who believe the mountains rightfully belong to fire alone, and they defend the high passes against both the Ironbound and the giants that press down from the highland ridges.
 
 **The Ironbound** hold the western Caffas, drawing power from the force leyline. Their magic emphasizes durability, strength, and kinetic manipulation—they can shatter stone with a gesture or render themselves nearly immovable. The Ironbound are defensive by nature, content to hold their territory but utterly implacable when attacked.
 
-The two tribes have warred intermittently for centuries. Neither can dislodge the other—fire magic struggles against force-hardened defenses, while the Ironbound lack the offensive power to push into Flame Kindred territory. The result is an uneasy stalemate punctuated by raids, skirmishes, and occasional pitched battles.
+The two peoples have warred intermittently for centuries. Neither can dislodge the other—Wendi fire magic struggles against force-hardened Ironbound defenses, while the Ironbound lack the offensive reach to push into Flame Kindred territory. The result is an uneasy stalemate punctuated by raids, skirmishes, and occasional pitched battles.
 
 #### Settlements
 

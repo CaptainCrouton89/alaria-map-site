@@ -9,6 +9,7 @@ tags: ["forest", "lakes"]
 sources: ["all_sections_formatted/Clueanda.md#L5607"]
 relations:
   - { rel: spatial, kind: within, target: "1214" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
 review:
   aiWritten: true
   archetype: ai-ok

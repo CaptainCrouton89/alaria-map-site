@@ -13,9 +13,11 @@ review:
   aiWritten: false
   action: keep
 ---
-The Wendi are a fierce human culture defined by their strawberry-blonde hair and their aerial mounts. They ride lesser drakes through the sky, hurling lightning spears at the giants who threaten their lands. They are known for their sass, courage, and flamboyant bravery.
+The Wendi are a fierce human culture of the Caffas Mountains, defined by their strawberry-blonde hair and their aerial mounts. They make their home in the eastern Caffas, where the fire leyline runs strongest, and the leyline's heat is woven into everything they are — their fire magic, their temperament, and the drakes they breed for mountain flying. In the eastern range they are known as the **Flame Kindred**, the confederacy that has held the high passes for generations against both the Ironbound to the west and the giants that press down from the highland ridges.
 
-To a Wendi, the ground is just a place to land and refuel; real life happens in the clouds, dodging giant-thrown boulders and diving through thunderstorms. Their warriors compete to see who can pull off the most daring aerial maneuvers, and their festivals feature death-defying sky races.
+They ride lesser drakes through the alpine skies, hurling lightning spears at the giants who threaten their settlements. To a Wendi, the ground is just a place to land and refuel; real life happens in the clouds, dodging giant-thrown boulders and diving through thunderstorms. Their warriors compete to see who can pull off the most daring aerial maneuvers, and their festivals feature death-defying sky races through the mountain passes.
+
+The fire leyline beneath eastern Caffas feeds their magic from birth. Wendi fire-speakers train at Freynthiak, the Flame Kindred's renowned training ground, where they learn to channel leyline heat into spear-flame and drake-bond. The same leyline that makes them formidable against giants keeps them locked in a centuries-old war with the Ironbound — the force-attuned people of western Caffas who cannot be burned and will not yield.
 
 #### Aspects
 - Storm rider
