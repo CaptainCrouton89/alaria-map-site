@@ -339,6 +339,210 @@ distinction). Consistent with T1 (planar stack), T5 (no Deoric from Celest), and
 
 ---
 
+## 11. Daemon-ascension threshold (A3 / A4 / A5) + knowledge-as-worship-currency — 🔒 LOCKED
+
+Settles three deferred incoherences (A3: knowledge-gate specificity; A4: the 11.8-My silence before
+the first daemon; A5: daemons-as-teachers reconciled with Deoric-inert-in-Celestia) plus the
+post-author-gate doctrines on knowledge-as-worship-currency and the lost-knowledge archive. All
+claims here supersede upstream phrasing in problem.md and perspective-synthesis.md wherever the two
+conflict; they also supersede the "direct-era titan exposure" and "millions of years of study"
+phrasing in §9 (see cross-section note at end).
+
+### The three gates
+
+A spirit becomes daemon-capable iff ALL THREE conditions hold simultaneously:
+
+1. **Substrate gate.** The spirit must be Ezz-spirit — a mortal who died with Ezz-substrate. This
+   excludes Malstaris entities (malstaric thread, not Ezz), titans, divine forces, and dragons
+   regardless of any other qualification.
+2. **Knowledge gate.** The spirit must have held grammar-internalized command of Deoric *in life* —
+   a phase transition, not a gradient (see below). Post-mortem acquisition does not count; the gate
+   is evaluated at the moment of death.
+3. **Worship gate.** The spirit must be actively worshipped above R_min. (Calibration-A canon; §4.)
+
+Eligibility requires all three. A spirit failing any single gate cannot become a daemon regardless
+of how thoroughly it satisfies the others.
+
+### A3 — the knowledge gate as phase transition
+
+❌ **REJECTED — Veleth Korrandus crosses the knowledge gate:** Veleth was a template-executor. The
+   Stalactites-of-Geth demons read the structural flaws in his bindings — flaw-detection requires
+   generative command of Deoric, the very capacity Veleth did not possess. His "fragments" are
+   artifact-keys and issued imperatives, not grammar. Template execution is categorically below the
+   threshold regardless of scale or power. Veleth does not become daemon-eligible.
+
+❌ **REJECTED — handmagicians cross the knowledge gate:** Handmagicians activate pre-inscribed runes
+   through gesture and thread-strength; Deoric comprehension is not part of the mechanism. The most
+   powerful handmagician is a sophisticated artifact-key operator, not a grammar-holder. This
+   forecloses any story in which a great handmagician ascends as a daemon — ruled out structurally.
+
+❌ **REJECTED — Stalactites-of-Geth demons are daemon-eligible:** Their structural Deoric command
+   is demonstrably real — they read the flaws in Veleth's bindings, which requires generative
+   grammar. But they are Malstaris entities, not Ezz-spirits. The substrate gate rules them out
+   entirely. Generative command of Deoric is a necessary condition; Ezz-substrate is equally
+   necessary.
+
+🔒 **RESOLVED.** The knowledge gate is a *phase transition*:
+- **Below:** template execution — fixed phoneme-sequences with known effects; issued imperatives;
+  artifact-key activation; handmagic gesture-triggers. The practitioner can reliably produce known
+  effects but cannot compose novel commands, nest conditions, scope effects dynamically, or detect
+  grammar errors in another's working.
+- **Above:** generative grammar — compose novel commands; nest and condition clause structures;
+  scope effects dynamically; diagnose structural failures in unfamiliar workings. The Vyanoweir
+  reconstruction tradition is the first mortal path to cross this threshold.
+
+### A4 — the Golden Age is genuinely first
+
+❌ **REJECTED — any secret prior tradition:** No dragon, elf, or peri-Rift mortal produced an
+   earlier daemon. No alternative grammar-reconstruction tradition crossed the knowledge gate before
+   the Vyanoweir. If evidence appears for a prior tradition in later authoring, it contradicts this
+   decision and must be escalated, not silently reconciled.
+
+🔒 **RESOLVED.** The 11.8-million-year silence between the Ezz Rift (12 Mya) and the first
+Golden-Age daemon (~200 kya) is a graveyard, not a gap. Pre-Vyanoweir mortals were template-users
+at best; most held no Deoric at all. Spirits accumulated in Celestia for millions of years; none
+held the knowledge gate; none were worshipped long enough to stay; all faded. The entire
+pre-Vyanoweir Celestia-population came and went without producing a single daemon.
+
+The Vyanoweir reconstruction tradition is THE grammar path — not one of several that succeeded
+first, but the only mortal tradition to cross the knowledge gate. Later traditions that do so build
+on a foundation the Vyanoweir laid, even when they do not know the history.
+
+### A5 — daemons-as-teachers reconciled
+
+The apparent contradiction: daemons are described as practical teachers of Deoric, but Deoric is
+inert in Celestia. How do daemons teach a language they cannot speak?
+
+🔒 **RESOLVED.** They do not transmit the language. They refine it.
+- Deoric is inert in Celestia; a daemon cannot compose a working there. They can discuss grammar
+  conceptually in Ezzic — the native Celestial language — but cannot demonstrate a working.
+- A daemon acts only through its worshippers on the Material Plane. For daemon guidance to function,
+  the mortal must already hold enough grammar to begin composing. A daemon cannot bootstrap a
+  zero-knowledge learner.
+- **Seed literacy** comes entirely from the mortal tradition: Vyanoweir-lineage scholars who have
+  crossed the phase transition; inert reference texts (surviving Vyanoweir reconstructions);
+  readable titan inscriptions. Daemons do not supply this foundation.
+- **Post-grounding refinement** is what daemons actually do: once a worshipper holds enough grammar
+  to begin composing in ritual, the daemon perceives the working through the Psywinds and can
+  correct in near-real-time — filling syntax gaps, suggesting nested structures, clarifying scope.
+  This is the "practical teachers" characterization, correctly understood.
+
+### Post-mortem mastery: mostly static; pre-mortem advantage is primary
+
+❌ **REJECTED — indefinite post-mortem learning as a primary mastery path:** This framing
+   (problem.md's "much higher levels" passage) is superseded by the author gate of 2026-05-28.
+
+🔒 **RESOLVED.** Daemons mostly do NOT accrue significant mastery after death. Psywinds-perception
+of Material Deoric activity adds slow, incidental polish — the daemon observes rituals conducted in
+its name and may internalize occasional structural patterns. This is not a curriculum. It is not a
+path to mastery. It is background entropy.
+
+The structural Deoric command that elder daemons hold above current mortal practitioners is
+overwhelmingly **pre-mortem surplus**:
+- **Depth of pre-mortem study.** The oldest daemons died with lifetimes — potentially centuries in
+  long-lived communities — devoted to inscription study before grammar-internalization.
+- **Freshest-inscription advantage.** The oldest daemons studied titan inscriptions at far lower
+  weathering — material thousands of years old at the time versus the same material at twelve
+  million years today. The structural clarity of the source was meaningfully different.
+- **Pre-burning Vyanoweir-library access.** The earliest daemon-eligible scholars had access to the
+  full Vyanoweir reconstructed corpus before the burning. That corpus is gone; its structural
+  grammar survives only in daemons who internalized it before the fire.
+
+The cap "~200,000 years" applies because the oldest possible daemon dates from the early Golden
+Age (~200 kya). Mastery surplus is a function of source quality, not study length.
+
+### Knowledge-as-worship-currency: hoarding as default
+
+From first principles: structural Deoric command → projection quality → miracle impressiveness →
+worshipper-base → prayer-tithe ε → reserve R → daemon survival. Teaching another daemon improves
+their miracles. Improved miracles attract worshippers. Any domain overlap means the teacher loses
+followers to the student; worshipper loss contracts R.
+
+Therefore: **rational daemons hoard**. Default behavior is secrecy. The most powerful daemons are
+the most secretive — their lead is structural, and sharing risks parity, parity risks reversal.
+
+Sharing occurs only through mechanisms that neutralize or compensate the competitive risk:
+
+1. **Pantheon-cartel.** Daemons with non-overlapping worship-domains (healer / warrior / seafarer /
+   hearth) form covenants to share grammar freely within the cartel. Stability requires strict
+   domain non-overlap — a cartel member whose domain expands into another's breaks the condition
+   and triggers schism. Most mortal "pantheons" are cartels in daemon-economy.
+2. **Master-debt.** Grammar transferred in exchange for a structured worship-share tithe over N
+   centuries, a life-tithe obligation, or a binding favor-debt. Terms are set at the moment of
+   maximum vulnerability for the student; the arrangement can be deeply asymmetric.
+3. **Coercion.** A more powerful daemon forces a weaker one into service, or uplifts a junior into
+   a useful instrument. The primary coercion window is the moment of a new daemon's ascension, when
+   reserve R is minimal and the new daemon cannot resist.
+4. **Lineage.** Mortal family lines that ascend together may see parent-daemons teach child-daemons
+   under loyalty rather than economics, because shared worship pools make the child's improved
+   miracles a collective benefit. *This mechanic is deferred pending formal ratification; do not
+   author downstream entities that depend on it until the resolution doc is updated.*
+5. **Accidental leak.** Through prolonged correction-guided ritual, a worshipper may internalize
+   grammar the daemon never consciously disclosed. Spies, apostates, and defectors carry knowledge
+   between cults. This is the daemon-economy's structural background entropy — slow, involuntary,
+   and ineradicable.
+
+Structural consequences: daemons have **economic enemies** wherever domains overlap; mortal
+pantheons are frequently **cartels** in daemon-economy; cartel **schism** follows domain expansion
+past non-overlap conditions; near-R_min daemons **sell grammar in desperation**, accelerating
+collapse; a daemon's most jealously-guarded possession is **freshest-inscription-era structural
+grammar** — exactly what Vyanoweir scholars most need.
+
+### Lost-knowledge archive: structural, not accidental
+
+🔒 **EXPLICIT CANON.** The oldest daemons hold structural Deoric grammar the current Vyanoweir
+tradition has lost. This is a designed consequence of the model, not a story-hook possibility.
+
+The mechanism is structural: pre-mortem study used less-weathered inscriptions that are now twelve
+million years further eroded (or gone entirely); the pre-burning Vyanoweir libraries that partially
+compensated for weathering are destroyed; the daemons who internalized that material before death
+hold the only living record. Their economic rationality keeps them from teaching it. The loss is
+actively maintained by daemon self-interest, not the passage of time alone.
+
+**Named case: Ahzel-Ori.** The oldest daemon currently in canon (Early Golden Age, ascended
+approximately 175,000 years ago) remains worshipped by a small, closed network of archivists and
+Vyanoweir scholars who inherited the affiliation rather than converted to it. No public temples;
+rites conducted in private reading rooms over carefully copied manuscripts. Ahzel-Ori's domain is
+precision — the certainty that what you understand is true. Their cult attracts people who cannot
+afford to be wrong; miracles manifest as epistemic clarity rather than spectacle.
+
+Ahzel-Ori categorically refuses to share their structural grammar. Current scholars have documented
+at least three grammar-clusters that Ahzel-Ori's pre-mortem corrections indicate they hold; no
+request for instruction has produced a response. Ahzel-Ori perceives the requests through the
+Psywinds and chooses silence.
+
+The cult's oldest record preserves a single exchange: a scholar asked, in writing, why Ahzel-Ori
+would not teach. The reply came in Ezzic, which the cult's worshippers do not speak. The only
+competent translator the cult trusted rendered the reply as one word: *contaminate*. The motive
+behind that word is held privately by the daemon. The refusal is canon; the reason is open.
+
+Do not invent specific grammar content for what Ahzel-Ori holds; that is explicitly deferred.
+
+For the full roster of outlier daemons illustrating the knowledge-economy doctrine — extreme
+hoarding, cartel dynamics, accidental-leak cases, near-R_min desperation, schism survivors, and the
+deferred lineage mechanic — see `context/daemon-outliers-brainstorm.md`.
+
+### Cross-section wording note (§9 supersession, wave 2 targets)
+
+The §9 characterization of elder daemons as having "direct exposure to the titans (pre- or
+peri-Ezz Rift)" and "millions of years of study" is superseded for all entity-file and prose use.
+The corrected phrasing is:
+- **"direct study of titan inscriptions in their freshest state"** — the substrate gate rules out
+  any daemon having met a living titan; mortals as we know them postdate the Ezz Rift, and only
+  mortals can cross the knowledge gate.
+- **"up to ~200,000 years of pre-mortem study"** or **"hundreds of thousands of years"** — the
+  oldest possible daemon dates from the early Golden Age (~200 kya); no daemon studied for millions
+  of years.
+
+The §9 text in this document is not retroactively edited; the design log is an append record.
+**Wave 2 application targets** (prose must mirror this section's phrasing, not §9's):
+- `magic-deoric.md` — §Deoric/Daemons/Celestia section; both wording tunes apply
+- `plane-celestia.md` — §Spirits and §Magic in Celestia; daemon-provides-refinement framing
+- `era-golden-age-of-man.md` — §Rise of the Daemons; Vyanoweir-tradition scholars as first
+  daemon-eligible; Vyanoweir burning as daemon-population bottleneck
+
+---
+
 ## Thread status summary (the nine)
 
 | # | Thread | Status |
@@ -353,6 +557,10 @@ distinction). Consistent with T1 (planar stack), T5 (no Deoric from Celest), and
 | 7 | First Death reframe | 🔒 ready to write |
 | 8 | Races | ✅ user-ratified — Gaea-dormancy (Kethic self-expenditure) + deep-time light trim both canon |
 | 9 | Deoric transmission | 🔒 LOCKED (revised model) — titan inscriptions + fragmented reconstruction; see §9 |
+
+**Post-thread expansions:**
+
+| — | Daemon-ascension threshold + knowledge-as-worship-currency (§11) | 🔒 LOCKED — three gates; knowledge-gate phase transition; post-mortem mostly-static; hoarding-default; Ahzel-Ori archive; see §11 |
 
 All nine threads plus the Celest-origin scope expansion (§10) are resolved. T1 (planar geometry, §1)
 and T5 (Deoric transmission, §9) are both closed; nothing in the "do not author yet" queue remains open.

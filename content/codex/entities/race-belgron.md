@@ -13,6 +13,8 @@ The Belgron are a distinct offshoot of cyclopes, known for their massive, overwe
 
 Despite their sluggish appearance, their bulk hides a terrifying strength. A Belgron in motion is like a landslide—unstoppable and destructive. They are not unintelligent, but their minds are often focused entirely on their next meal or comfort, making them seem simple to those who don't understand their hedonistic philosophy. A contented Belgron is surprisingly philosophical, discoursing on the nature of pleasure and satisfaction between enormous bites of roasted goat.
 
+Dry, broken highlands are preferred range. Belgron have been documented throughout the Hills of Gezzeri and the White Hills — the arid terrain and sparse human populations mean few disputes over territory. The Gezzerin, a people already practiced at going invisible when something large moves on the ridgeline, extend the same courtesy to a Belgron without needing to be told twice. Not every Belgron wanders free. Gorath warships and Free-Isles slavers take them when they can, valuing the raw strength over the complications of ownership — a calculation the Belgron remember.
+
 ### Vitals
 - **Size:** Large
 - **Height:** 8-10 feet

@@ -64,6 +64,7 @@ export interface CodexEntry {
   relations?: OutEdge[];       // authored typed edges leaving this entity
   incoming?: InEdge[];         // authored typed edges pointing at this entity
   seeAlso?: EntityRef[];       // mention-scan links not already covered above
+  derivedInhabitants?: string[]; // race entity ids, computed by build (authored + inheritance)
 }
 
 /** Lightweight record shipped to the client for codex search (public/codex-search.json). */
@@ -74,6 +75,7 @@ export interface SearchEntry {
   blurb: string;
   weight: EntryWeight;
   aliases?: string[];
+  derivedInhabitantNames?: string[]; // resolved race names for search (from derivedInhabitants)
 }
 
 export interface AtmosphereStyle {

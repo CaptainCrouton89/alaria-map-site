@@ -41,7 +41,9 @@ This self-disintegration applies to actively charged Deoric text — not to anci
 ### Deoric, Daemons, & Celestia
 Deoric is the titans' native tongue — the language Azus's first creations used to give form and command to reality. What mortals practice today is a reconstruction, assembled from the fragments the titans left behind.
 
-Deoric is primarily used by the daemons of Celestia. Having been around for centuries, millennia, or in some rare cases, eons, these beings are frequently at much higher levels of mastery with the Deoric language than mortals can hope to achieve.
+Deoric is practiced most by the daemons of Celestia, who command it at depths no living mortal reaches. That command is not the work of ages spent studying after death. A daemon's grammar is mostly fixed at the moment it dies; once in Celestia it can only polish, slowly and by accident, watching rituals performed in its name through the Psywinds. The real lead is what each daemon carried across. The oldest of them studied for entire mortal lifetimes — as much as two hundred thousand years, for those who died in the early Golden Age — and they read titan inscriptions when the stone was far less worn than the same stone is now, twelve million years further into its decay. The earliest among them studied the Vyanoweir reconstructed corpus whole, before the libraries burned. None of that source survives. It lives on only in the daemons who learned it while it could still be learned.
+
+None of this makes daemons the source of the language. The grammar mortals hold was rebuilt by mortals: the Vyanoweir tradition was the first to cross from reciting fixed phrases into composing new ones, and every scholar who commands generative Deoric stands on that work. What a daemon offers is refinement. The grammar itself is a mortal inheritance, carried from teacher to student on the Material Plane.
 
 #### The Celestia Paradox
 Deoric does not function on Celestia. The plane is saturated with Ezz—the same substance that gave it form—and this Ezzic interference disrupts the absolute commands of Deoric speech. A daemon standing in Celestia cannot simply speak Deoric words and reshape reality as a mortal could on the Material Plane.
@@ -49,15 +51,15 @@ Deoric does not function on Celestia. The plane is saturated with Ezz—the same
 Yet daemons are the greatest Deoric practitioners in existence. How?
 
 #### Projection Across the Boundary
-Daemons cannot cast Deoric *within* Celestia, but they can project their knowledge and power *across* the boundary to the Material Plane. This is how daemons grant miracles to their followers:
+Daemons cannot cast Deoric *within* Celestia, but they can reach *across* the boundary to a worshipper on the Material Plane. This is how daemons grant miracles, and it works only when the worshipper already holds enough grammar to begin a working:
 
-1. A worshipper on the Material Plane performs a ritual, providing the necessary blood sacrifice and speaking the Deoric words they have been taught
-2. The daemon, perceiving this through the Psywinds, guides the ritual—correcting pronunciation, amplifying intent, or providing knowledge the mortal lacks
+1. A worshipper on the Material Plane performs a ritual, providing the blood sacrifice and beginning a working in Deoric they already know how to compose
+2. The daemon, perceiving this through the Psywinds, corrects and extends the working in near-real time, supplying the structure a mortal hand cannot complete on its own
 3. The Deoric magic takes effect on the Material Plane, where it functions normally
 
-The worshipper provides the physical presence, the sacrifice, and the initial invocation. The daemon provides mastery, knowledge, and subtle guidance. Neither could accomplish what they achieve together: the mortal lacks knowledge; the daemon lacks a location where Deoric functions.
+The worshipper supplies the body, the sacrifice, and a working already underway. The daemon supplies reach and refinement: the structural depth to make a clumsy invocation precise, and the one place where the magic can actually fire. What a daemon cannot do is teach a mortal who knows nothing. Guidance reshapes a working in progress; it does not put the first grammar in a worshipper's head. That a mortal gets only from the mortal tradition — a teacher who has crossed into composing novel Deoric, or the inert texts the Vyanoweir left behind.
 
-This is why daemon worship requires *active followers*. A daemon who loses all worshippers loses their ability to affect the Material Plane through Deoric—they become trapped in Celestia, powerful in knowledge but impotent in action, slowly fading as their name is forgotten.
+This is why daemon worship requires *active followers*. A daemon who loses all worshippers loses any way to act on the Material Plane through Deoric — trapped in Celestia, rich in knowledge and unable to spend it, slowly fading as their name is forgotten.
 
 <!-- mechanics -->
 

@@ -10,6 +10,8 @@ sources: ["all_sections_formatted/Clueanda.md#L353"]
 relations:
   - { rel: spatial, kind: within, target: "540" }
   - { rel: spatial, kind: borders, target: "670", note: "SE" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-drevaya" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

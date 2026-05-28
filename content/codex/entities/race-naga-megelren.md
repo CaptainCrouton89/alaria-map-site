@@ -16,6 +16,8 @@ The Megélren are the black-scaled outcasts of the Naga race. Viewed as treacher
 
 Lithe, clever, and sly, they have adapted to life in the shadows. They are masters of espionage, poison, and assassination, serving as spies and killers for hire across Alaria. A Megélren knows that honor is a comfort for the dead, while the living rely on wit. Their scales are obsidian black, absorbing light rather than reflecting it, and their eyes gleam with calculating intelligence.
 
+A residual Megélren presence persists in Adron, the Naga homeland — their numbers there are a fraction of what they were before the exile, and they do not advertise themselves. The kingdom's appetite for capable operatives has been enough to prevent their full expulsion. Outside Adron, they scatter: single agents and small cells, stateless by design, hired by whoever pays.
+
 #### Aspects
 - Betrayer's legacy
 - Survival through cunning

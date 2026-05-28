@@ -9,7 +9,8 @@ tags: ["poi"]
 sources: ["all_sections_formatted/Upoceax.md#L3858"]
 relations:
   - { rel: spatial, kind: within, target: "3793" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-gezzerin" }
+  - { rel: culture, kind: inhabitedBy, target: "race-belgron" }
 review:
   aiWritten: true
   archetype: ai-ok

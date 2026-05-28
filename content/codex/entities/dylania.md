@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L5032"]
 relations:
   - { rel: spatial, kind: within, target: "3046" }
   - { rel: polity, kind: capitalOf, target: "3046" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-trakkozur" }
 review:
   aiWritten: true
   archetype: ai-ok

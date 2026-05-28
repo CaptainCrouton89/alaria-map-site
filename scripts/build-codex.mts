@@ -189,6 +189,78 @@ const refOf = (id: string): EntityRef | null => {
   return t ? { id: t.id, name: t.name } : null;
 };
 
+// ---- derivedInhabitants: two-pass graph-traversal race inheritance ----
+// Pass 1 (bottom-up): authored edges → union from containment children. No parent lookup, so
+//   Step 2 children can never re-enter a parent mid-computation (avoids false cycle warnings).
+// Pass 2 (top-down): entities still empty after pass 1 inherit from their containment parent.
+
+// Pass 1
+const p1Memo = new Map<string, string[]>();
+const p1InProgress = new Set<string>();
+
+function computePass1(id: string): string[] {
+  if (p1Memo.has(id)) return p1Memo.get(id)!;
+  if (p1InProgress.has(id)) {
+    console.error(`Warning: containment cycle detected at entity ${id} (derivedInhabitants pass 1)`);
+    return [];
+  }
+  p1InProgress.add(id);
+
+  const e = byId.get(id);
+  if (!e) { p1InProgress.delete(id); p1Memo.set(id, []); return []; }
+
+  // Step 1 — authored culture/inhabitedBy edges
+  const authored = e.relations
+    .filter((r) => r.rel === 'culture' && r.kind === 'inhabitedBy')
+    .map((r) => r.target);
+  if (authored.length > 0) {
+    const result = [...new Set(authored)].sort();
+    p1InProgress.delete(id);
+    p1Memo.set(id, result);
+    return result;
+  }
+
+  // Step 2 — union from containment children (no parent lookup — that is pass 2)
+  const union = new Set<string>();
+  for (const child of (childrenOf.get(id) ?? [])) {
+    for (const raceId of computePass1(child.id)) union.add(raceId);
+  }
+  const result = [...union].sort();
+  p1InProgress.delete(id);
+  p1Memo.set(id, result);
+  return result;
+}
+
+for (const e of entities) computePass1(e.id);
+
+// Pass 2 — parent-down for entities still empty after pass 1
+const p2Memo = new Map<string, string[]>();
+
+function computePass2(id: string): string[] {
+  if (p2Memo.has(id)) return p2Memo.get(id)!;
+
+  const p1Result = p1Memo.get(id) ?? [];
+  if (p1Result.length > 0) {
+    p2Memo.set(id, p1Result);
+    return p1Result;
+  }
+
+  const e = byId.get(id);
+  if (!e || !e.parent) {
+    p2Memo.set(id, []);
+    return [];
+  }
+
+  // Provisional guard against containment cycles that pass 1 missed
+  p2Memo.set(id, []);
+  const parentResult = computePass2(e.parent);
+  p2Memo.set(id, parentResult);
+  return parentResult;
+}
+
+const derivedInhabitantsOf = new Map<string, string[]>();
+for (const e of entities) derivedInhabitantsOf.set(e.id, computePass2(e.id));
+
 // ---- weight / atmosphere mapping (entityType-driven; authored value wins) ----
 const WEIGHT_BY_TYPE: Record<string, EntryWeight> = {
   deity: 'legendary', plane: 'legendary',
@@ -386,6 +458,7 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     relations,
     incoming,
     seeAlso,
+    derivedInhabitants: derivedInhabitantsOf.get(e.id)!,
   };
 });
 
@@ -399,14 +472,19 @@ fs.writeFileSync(path.join(DATA, 'codex', 'compiled.json'), JSON.stringify(compi
 
 // Lightweight client search index (the full byId blob is too large to ship).
 const searchIndex: SearchEntry[] = codexEntries
-  .map((ce) => ({
-    id: ce.id,
-    name: ce.name,
-    entityType: ce.entityType ?? 'uncategorized',
-    blurb: ce.blurb ?? '',
-    weight: ce.weight!,
-    ...(byId.get(ce.id)!.aliases.length ? { aliases: byId.get(ce.id)!.aliases } : {}),
-  }))
+  .map((ce) => {
+    const derived = derivedInhabitantsOf.get(ce.id) ?? [];
+    const derivedNames = derived.map((rid) => byId.get(rid)?.name).filter((n): n is string => Boolean(n));
+    return {
+      id: ce.id,
+      name: ce.name,
+      entityType: ce.entityType ?? 'uncategorized',
+      blurb: ce.blurb ?? '',
+      weight: ce.weight!,
+      ...(byId.get(ce.id)!.aliases.length ? { aliases: byId.get(ce.id)!.aliases } : {}),
+      ...(derivedNames.length ? { derivedInhabitantNames: derivedNames } : {}),
+    };
+  })
   .sort((a, b) => a.name.localeCompare(b.name));
 fs.writeFileSync(path.join(PUBLIC, 'codex-search.json'), JSON.stringify(searchIndex));
 

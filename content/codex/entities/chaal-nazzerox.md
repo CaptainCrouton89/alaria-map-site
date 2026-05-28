@@ -13,6 +13,11 @@ relations:
   - { rel: spatial, kind: borders, target: "1579", note: "E" }
   - { rel: spatial, kind: borders, target: "1623", note: "SE" }
   - { rel: polity, kind: ruledBy, target: "person-xynoth-azkonor", note: "was the old king, now a lich" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-undead" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-specters" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-liches" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ghoul" }
+  - { rel: culture, kind: inhabitedBy, target: "race-revenant" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -12,6 +12,8 @@ relations:
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: economy, kind: produces, target: "magic-red-gold" }
   - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naga-nagashi" }
+  - { rel: culture, kind: inhabitedBy, target: "race-naga-megelren" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -21,6 +23,8 @@ review:
 Adron is the easternmost state on the Middle Sea, a proud Naga kingdom nestled between dramatic mountain ranges. Once the land of dragon riders, it now trades on banking, shipbuilding, and the legendary red gold mined from its peaks. The climate is Mediterranean—warm coastlines, temperate forests in the valleys, and snow-capped mountains framing the horizon.
 
 Three major ley lines cross Adron: water (through the capital), time (southwest to northeast across the north), and dark (through the center). The intersections produce an unusually high number of elementally attuned Naga.
+
+The Nagashi are Adron's people — the ruling families, the banking houses, the inheritors of the dragon-rider tradition. The Megélren are also present, in far smaller numbers and considerably less publicly. Their kind were cast out of Naga society long ago as traitors; what keeps them in Adron at all is the kingdom's shadow economy, which has always found uses for skilled operatives who ask no questions.
 
 #### Mountain Ranges
 

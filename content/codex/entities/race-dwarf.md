@@ -37,6 +37,7 @@ Dwarves are a short but hearty people, and are generally more pragmatic than the
 - **Zwaeron** (Tundra Dwarf) — Gray-blue, frizzy orange-haired tundra dwarves who abandoned mines for the open snow; nomadic dire wolf riders who scorn underground life and prize freedom. See [[race-dwarf-zwaeron]].
 - **Dernish** — Siege-adapted mountain dwarves of the central Widebarrow whose concentric capital and deep-debt service rotations are built around the generational Lyzine threat from below. See [[race-dwarf-dern]].
 - **Carillon** — Artisan-academic dwarves of Urok's southwestern coast whose twin city-states, Maun and Wisgarrd, devoted themselves to music, theater, gem-craft, and magical enchantment with dwarven rigor. See [[race-dwarf-carillon]].
+- **Trakkozur** — Weathered deep-cavern dwarves of Eoga who seem primitive but are the ancient wardens who chained the titan Hykravones in Deoric beneath the Cascades of Ygg. See [[race-dwarf-trakkozur]].
 
 <!-- mechanics -->
 

@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L4987"]
 relations:
   - { rel: spatial, kind: borders, target: "3108", note: "north" }
   - { rel: spatial, kind: within, target: "2857" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-trakkozur" }
 review:
   aiWritten: true
   archetype: ai-ok

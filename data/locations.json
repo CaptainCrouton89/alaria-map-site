@@ -2511,6 +2511,8 @@
       "9000",
       "magic-red-gold",
       "race-kendor",
+      "race-naga-nagashi",
+      "race-naga-megelren",
       "679",
       "585",
       "764",
@@ -2601,11 +2603,12 @@
       "1377",
       "1362",
       "1374",
+      "1363",
       "1382",
       "1383",
-      "manual-mpii94rh-4ulqj",
       "magic-water",
-      "race-giant"
+      "magic-dark",
+      "magic-fire"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -2613,7 +2616,7 @@
       "volcanic"
     ],
     "atmosphere": "civilization",
-    "blurb": "Aknimchuk is the largest island in the northwestern Northern Isles, notable for being one of the few places in the archipelago where volcanic activity provides…",
+    "blurb": "The largest island in the northwestern Northern Isles: an uninhabited expanse split between a volcanic south and the frozen waste of Scheyolonae.",
     "parentName": "Northern Isles",
     "containsCount": 6,
     "borders": [
@@ -2869,6 +2872,11 @@
       "1579",
       "1623",
       "person-xynoth-azkonor",
+      "creature-undead",
+      "creature-specters",
+      "creature-liches",
+      "race-ghoul",
+      "race-revenant",
       "1534",
       "1419",
       "1414",
@@ -2890,7 +2898,6 @@
       "manual-mpigokze-8l9yb",
       "manual-mphazhcw-cuf08",
       "manual-mpigor17-mujnt",
-      "creature-undead",
       "manual-mphazqiq-b037e",
       "manual-mpignyf6-8uhkn",
       "manual-mph65zi3-5534t",
@@ -4671,6 +4678,7 @@
     "parentId": "2857",
     "relatedIds": [
       "2857",
+      "race-giant-gorger",
       "3178"
     ],
     "loreFile": "Rimihuica.md",
@@ -7076,6 +7084,7 @@
     "relatedIds": [
       "3108",
       "2857",
+      "race-dwarf-trakkozur",
       "3061",
       "2870",
       "3048",
@@ -7583,6 +7592,7 @@
     "parentId": "1346",
     "relatedIds": [
       "1346",
+      "race-giant",
       "manual-pherezi-imnuttut",
       "453",
       "race-human"
@@ -8883,7 +8893,7 @@
     "parentId": "3529",
     "relatedIds": [
       "3529",
-      "race-elf-caerene",
+      "race-elf-ythari",
       "3543",
       "3484",
       "manual-mpihbxzh-y7eq6",
@@ -8896,7 +8906,7 @@
       "manual-mpihb6u5-600t7",
       "3573",
       "manual-mphqwz19-951b6",
-      "magic-fire"
+      "magic-time"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -13118,6 +13128,7 @@
     "parentId": "2857",
     "relatedIds": [
       "2857",
+      "race-ogre-groyza",
       "587",
       "719",
       "720"
@@ -15657,7 +15668,7 @@
   {
     "id": "3955",
     "name": "Azkirk",
-    "type": "city",
+    "type": "wilderness",
     "coordinates": [
       50,
       541
@@ -15666,13 +15677,17 @@
     "parentId": "3902",
     "relatedIds": [
       "3902",
-      "race-ulvsjael",
-      "race-satyr"
+      "3952",
+      "3620",
+      "creature-titan",
+      "magic-water",
+      "race-satyr",
+      "manual-mphqwz19-951b6"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
-    "atmosphere": "civilization",
-    "blurb": "In the western Eceraen foothills, where the mountains meet the coast, stands a lone marker that appears on some maps as Azkirk.",
+    "atmosphere": "nature",
+    "blurb": "A calving sea-cliff at the western edge of Wycendeula where a titan's bone breaks the rock; satyrs shun the poisoned ground around it.",
     "parentName": "Wycendeula"
   },
   {
@@ -15688,6 +15703,8 @@
     "relatedIds": [
       "540",
       "670",
+      "race-human-drevaya",
+      "race-human",
       "450",
       "manual-mpii94rh-4ulqj",
       "667",
@@ -18735,7 +18752,8 @@
     "zoomLevel": 4,
     "parentId": "3046",
     "relatedIds": [
-      "3046"
+      "3046",
+      "race-dwarf-trakkozur"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -21309,10 +21327,10 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
-      "race-human",
+      "race-human-gezzerin",
+      "race-belgron",
       "3662",
       "manual-mpii94rh-4ulqj",
-      "race-human-gezzerin",
       "magic-water",
       "race-giant"
     ],
@@ -24054,17 +24072,15 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
-      "4201",
-      "4208",
+      "4166",
       "4294",
-      "1520",
       "manual-mph71w5l-wkyy0",
+      "manual-mph70v3w-3xjdw",
       "manual-mph71itd-6g6tw",
+      "manual-mph70yda-vtytb",
       "4262",
-      "4276",
       "magic-water",
-      "4310",
-      "magic-time"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -24072,7 +24088,7 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "The largest single island in the northern Western Isles—a mountainous landmass that rises dramatically from Phyndarr Sound.",
+    "blurb": "A small, craggy island in the northern Western Isles whose one good harbor—and only real power—is the city-state of Iypos.",
     "parentName": "Western Isles",
     "containsCount": 3
   },
@@ -31934,11 +31950,11 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
-      "race-orc",
+      "race-orc-thrygun",
+      "race-belgron",
       "3832",
       "3662",
       "race-human-gezzerin",
-      "race-orc-thrygun",
       "manual-mphcbgsb-wykgk",
       "magic-light",
       "creature-orcs",
@@ -63614,7 +63630,7 @@
   {
     "id": "3620",
     "name": "Tomgryir Eror",
-    "type": "region",
+    "type": "wilderness",
     "coordinates": [
       69,
       450
@@ -63631,13 +63647,13 @@
     ],
     "loreFile": "Upoceax.md",
     "tags": [
-      "region",
+      "wilderness",
       "geography",
       "ruins",
       "contaminated"
     ],
     "atmosphere": "ancient",
-    "blurb": "A hilly region in the southern Kelder foothills, within Deo Esari's territory.",
+    "blurb": "Contaminated hill country in the southern Kelder foothills, within Deo Esari's territory.",
     "parentName": "Deo Esari",
     "containsCount": 2,
     "borders": [

@@ -9,7 +9,7 @@ tags: ["forest", "fae", "sacred", "illron"]
 sources: ["all_sections_formatted/Upoceax.md#L1632"]
 relations:
   - { rel: spatial, kind: within, target: "3529" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf-caerene" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-ythari" }
 ---
 The great forest at the heart of Illron. Unlike Elorshianod in Lenora, which is settled and worked, Iyaklomori Grera has no elven settlements. It belongs to the fae under a treaty older than the elven confederation itself. The Illronese are not the forest's only elven presence — they are simply the most visible one.
 
@@ -40,13 +40,13 @@ Those who stray from the paths, or who take something, or who linger too long, m
 
 The Illronese don't ask questions. They stay on the paths. They keep moving. They've learned.
 
-#### The Caerene
+#### The Ythari
 
-The Illronese know, and do not discuss, that the forest is not entirely uninhabited. The Caerene — wood elves who predate the confederation, who never joined the Three Kingdoms Treaty and never sought fae permission to be here — move through Iyaklomori Grera without apparent difficulty. They leave no settlements. They take very little. They have been doing this for longer than the Illronese have written records.
+The Illronese know, and do not discuss, that the forest is not empty between the paths. The Ythari live here: solitary elves, each bound to a single tree, who build nothing and take nothing and die in the season their tree dies. There is no quarrel between them and the treaty's terms. A people who would die before a tree of theirs was cut keep the fae's law more strictly than the fae trouble themselves to enforce it. Whether that is why the fae permit them, or whether the Ythari were simply here first, the Illronese have not asked.
 
-The fae have not expelled them. Whether this is tolerance, indifference, or some accommodation made before the current treaty is not known. The Illronese have not asked, partly because asking would require explaining why they noticed, and they prefer to pretend they haven't.
+A Ythari does not range. Each keeps within sight of one tree, and there are more trees in Iyaklomori Grera than any traveler could hope to count. The fae have not expelled them in all the time the Illronese have kept records — records that begin only at the treaty, and so begin too late to say when the Ythari first came.
 
-Those who stray from the legal paths and survive describe occasional glimpses — figures that blend into shadow, a fire-circle that was warm yesterday and cold today, the sense of being watched by something that is neither fae nor hostile. Confederation scholars who have heard these accounts mostly dismiss them. The Caerene do not correct the record.
+Those who stray from the legal paths and live to speak of it describe the same things. A figure the exact colors of the canopy that does not move when looked at. A tree that seems to be paying attention. The certainty of having walked too near something that will not give ground and cannot be made to. The Ythari neither approach nor flee. They have one place to be, and they are in it.
 
 #### Why the Elves Accept This
 

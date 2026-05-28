@@ -38,6 +38,7 @@ Humans are resilient and abundant. They are far the most prolific across Alaria,
 - **Stone Men** — Gray-skinned humans of the Wurn Mountains whose skin hardened through generations of elemental exposure; stoic and fiercely independent. See [[race-human-stone-men]].
 - **Wendi** — Strawberry-blonde drake-riding warriors who hurl lightning spears at giants and hold death-defying sky races. See [[race-human-wendi]].
 - **Shyona** — Ceremonious, craft-obsessed humans of Ve's northeastern plains who prize family honor, blade-dancing arts, and deliberate provincial governance. See [[race-human-shyona]].
+- **Drevaya** — Small, austere monastic culture born to the Shogi Monastery on the peaks of northern Erpeus; few among the foreign trainees they teach. See [[race-human-drevaya]].
 
 <!-- mechanics -->
 

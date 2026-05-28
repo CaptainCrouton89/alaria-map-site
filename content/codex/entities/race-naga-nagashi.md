@@ -18,6 +18,8 @@ Nagashi communities are centers of art, learning, and philosophical debate. They
 
 Their transformation is perhaps the purest expression of their heritage - a direct channeling of Nagatayora's fury that served him in his final battle. The Nagashi see this ability not as a tool but as a sacred trust, a reminder of their ancestor's sacrifice and their duty to live with the same unwavering determination.
 
+Adron, on the Middle Sea's eastern shore, is the one polity built specifically as a Naga homeland. The Nagashi are its ruling people — the banking families, the shipwrights, the keepers of the dragon-rider traditions that give the kingdom its identity. Elsewhere across Alaria they are found in port cities, scholarly institutions, and merchant guilds in numbers that reflect a people comfortable integrating without disappearing.
+
 #### Aspects
 - Boiling vengeance
 - Excellence demands total commitment

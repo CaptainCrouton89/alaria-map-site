@@ -1,11 +1,11 @@
 ---
 id: "3620"
 name: "Tomgryir Eror"
-entityType: region
-blurb: "A hilly region in the southern Kelder foothills, within Deo Esari's territory."
+entityType: wilderness
+blurb: "Contaminated hill country in the southern Kelder foothills, within Deo Esari's territory."
 coordinates: [69, 450]
 zoomLevel: 5
-tags: ["region", "geography", "ruins", "contaminated"]
+tags: ["wilderness", "geography", "ruins", "contaminated"]
 sources: ["all_sections_formatted/Upoceax.md#L2302"]
 relations:
   - { rel: spatial, kind: within, target: "3498" }
@@ -17,7 +17,7 @@ review:
   action: keep
   notes: "Coherent on-theme region body. Geography (between Eshbya Hills N, Kirthdron Soytas S; villages Ot'Pelyon E valley, Mosimor) matches map coords. Members confirmed."
 ---
-A hilly region in the southern Kelder foothills, within Deo Esari's territory. Once productive titan-bone harvesting ground. Abandoned 200 years ago after the contamination spread through the southern sites.
+Contaminated hill country in the southern Kelder foothills, within Deo Esari's territory. Once productive titan-bone harvesting ground. Abandoned 200 years ago after the contamination spread through the southern sites.
 
 #### Geography
 

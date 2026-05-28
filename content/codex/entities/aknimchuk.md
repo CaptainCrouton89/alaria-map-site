@@ -2,7 +2,7 @@
 id: "1361"
 name: "Aknimchuk"
 entityType: region
-blurb: "Aknimchuk is the largest island in the northwestern Northern Isles, notable for being one of the few places in the archipelago where volcanic activity provides…"
+blurb: "The largest island in the northwestern Northern Isles: an uninhabited expanse split between a volcanic south and the frozen waste of Scheyolonae."
 coordinates: [409, 42]
 zoomLevel: 2
 tags: ["island", "volcanic"]
@@ -16,26 +16,20 @@ review:
   action: keep
   notes: "Coherent, on-theme. Coords [409,42] NW match 'northwestern' placement; volcanic Ashy Mtns south / frozen Scheyolonae north, Smokey Bay harbor, Iceburn Lakes all consistent with map sub-features. Sub-region; own worker to detail interior."
 ---
-Aknimchuk is the largest island in the northwestern Northern Isles, notable for being one of the few places in the archipelago where volcanic activity provides heat in an otherwise frozen realm. The island is divided into two distinct regions: the volcanic south and the frozen north.
+Aknimchuk is the largest island at the far north of the Northern Isles, and the only one that holds any warmth at all. Volcanic fire heats its southern half. The rest is ice. No one lives here. The island is too far north to farm and too violent underfoot to rest on, and the handful who tried to stay are remembered, if at all, as a warning told in southern harbors.
 
-#### Geography
+#### The two halves
 
-Aknimchuk stretches roughly 200 miles from north to south, separated from the mainland by the Passage of Hagol to the west and facing the open waters of the Northern Isles to the east. The island's southern half is dominated by the Ashy Mountains—an active volcanic range that provides the only natural warmth for hundreds of miles. The northern half, Scheyolonae, remains frozen year-round like the rest of the archipelago.
+Aknimchuk runs roughly two hundred miles north to south. The Passage of Hagol separates it from the mainland to the west; open water lies east. Its southern half belongs to the Ashy Mountains, an active volcanic range whose heat is the only such warmth for hundreds of miles. Beyond the mountains' reach the land becomes Scheyolonae, tundra and ice as brutal as anywhere else this far up the archipelago. A traveler walking north feels the change inside a single day's march: steam and warm stone behind, killing cold ahead.
 
-Smokey Bay cuts into the island's southern coast, its waters warmed by underwater volcanic vents. Ships that can navigate this far north sometimes shelter here, the only harbor in the Northern Isles where ice doesn't threaten to crush hulls.
+#### Strange waters, stranger fauna
 
-#### Scheyolonae
-
-The northern half of Aknimchuk, beyond the reach of volcanic warmth, is called Scheyolonae—a frozen expanse of tundra and ice that matches the rest of the Northern Isles in its brutality. The contrast between Scheyolonae and the volcanic south is stark; travelers moving north can feel the temperature drop degree by degree as they leave the mountains' influence.
-
-##### Iceburn Lakes
-
-A cluster of lakes in central Scheyolonae, the Iceburn Lakes are named for the peculiar sensation experienced by those who touch their waters—a burning cold that seems to freeze and scald simultaneously. The lakes never fully freeze despite the temperatures, and their waters glow faintly blue on moonless nights.
-
-Local legend claims the lakes are the tears of a frost giant who died here in the early ages of the world. Whether true or not, the waters have unusual properties. Alchemists prize Iceburn water for certain cold-based concoctions, and some mages believe the lakes sit atop a minor convergence of water and ice magical energies.
+The volcanic ground does not make Aknimchuk hospitable. It makes it strange. Vents, hot springs, and pockets of buried heat sustain creatures that live nowhere else and tolerate nothing milder. Ice salamanders the size of hounds den in the caves of northern Scheyolonae and hunt in packs. Things adapted to ash and sulfur hold the southern slopes. In central Scheyolonae the Iceburn Lakes never fully freeze, and their water scalds and freezes the skin at the same touch, faintly luminous on dark nights and prized by the few alchemists who can get a flask of it south. Between the fire and the ice there is little a person could eat, and a great deal that would happily eat a person.
 
 #### Smokey Bay
 
-The southern bay of Aknimchuk, warmed by underwater volcanic vents, is the only reliably ice-free harbor in the Northern Isles. Ships from the south sometimes make the dangerous journey here to trade with the few hardy souls who have made Aknimchuk their home.
+The one shelter on Aknimchuk is Smokey Bay, a southern inlet warmed by vents in the seafloor until ice never closes over it. It is the only water in the Northern Isles where a hull is safe from the pack. Ships with business this far north, and very few have any, ride out weather here. None of them stay. There is no town on the bay, no dock, no one to trade with: black sand, warm water, and the reek of sulfur, and then the open archipelago beyond.
 
-A small settlement—more trading post than town—clings to the shores of Smokey Bay. The inhabitants are a mix of outcasts, exiles, and those strange enough to prefer the volcanic island's isolation to civilization elsewhere. They trade in volcanic minerals, Iceburn water, and information about the Northern Isles for those foolish enough to venture further into the archipelago.
+#### The Tomb of Angi
+
+The single mark of anyone's hand on the island is the Tomb of Angi, cut into a dormant peak in the Ashy Mountains. The fire mage who chose Aknimchuk for her grave left it guarded, and it has stayed sealed against every expedition since. Whatever the island was to her, she kept nothing else of her people here. The tomb endures; the people did not.
