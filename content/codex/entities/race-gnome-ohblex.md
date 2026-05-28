@@ -6,6 +6,7 @@ blurb: "Crystalline gnomes born from Gemstone Peaks gems; sole clockmaking maste
 aliases: ["Gem Gnomes"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-tixpi" }
 sources:
   - "races/Gnome.md"
 review:

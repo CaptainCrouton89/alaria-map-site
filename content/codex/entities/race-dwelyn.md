@@ -5,6 +5,10 @@ entityType: race
 blurb: "The Dwelyn are a fierce hybrid race born from the unlikely union of elven grace and orcish strength."
 sources:
   - "races/Dwelyn.md"
+relations:
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 review:
   aiWritten: false
   action: keep

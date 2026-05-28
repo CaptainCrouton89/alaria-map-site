@@ -5,6 +5,7 @@ entityType: race
 blurb: "Mountain-dwelling spiritual humans who read the subtle currents of time and weather; their timemasters are sought as advisors by rulers across Alaria."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-azak" }
 sources:
   - "races/Human.md"
 review:

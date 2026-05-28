@@ -5,6 +5,8 @@ entityType: race
 blurb: "Noble merchant halflings of Erasnus who trade in influence, information, and favors with generational precision."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
+  - { rel: culture, kind: worships, target: "daemon-the-ladder-blesser" }
 sources:
   - "races/Halfling.md"
 review:

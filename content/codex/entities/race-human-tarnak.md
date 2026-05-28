@@ -5,6 +5,7 @@ entityType: race
 blurb: "Nomadic desert shamans of Ulkevolm who practice blood magic, commune with the spirits of the dead, and ride great desert tigers."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-vrak-nik" }
 sources:
   - "races/Human.md"
 review:

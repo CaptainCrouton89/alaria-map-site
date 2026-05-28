@@ -5,6 +5,8 @@ entityType: race
 blurb: "Blue-skinned, charming sailors with sapphire eyes who run on their own time and blur the line between merchant and pirate."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-marolan" }
 sources:
   - "races/Human.md"
 review:

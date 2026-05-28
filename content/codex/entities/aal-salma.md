@@ -42,3 +42,5 @@ Aal Salma maintains an uneasy truce with the trolls—humans don't settle the hi
 
 Some troll mercenaries have found employment in Aal Salma's less reputable enterprises. They're expensive, unreliable, and terrifying—which makes them perfect for certain jobs.
 
+Generations of uneasy proximity have also produced a scattered trollkin community along the border—half-blood children of troll and human pairings, claimed by neither side. They cluster in the lowland villages closest to the hills, working the rougher trades and learning early that silence carries them further than explanation.
+

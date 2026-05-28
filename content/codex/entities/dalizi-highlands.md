@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L3952"]
 relations:
   - { rel: spatial, kind: within, target: "1864" }
   - { rel: spatial, kind: borders, target: "1776", note: "N (across Thundering Mountains, into Wanderlands)" }
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 ---
 A mountainous highland region positioned **north and northeast** of Lake Tonactlet Chipe. This is a geographic designation referring to the elevated, rugged terrain east of the main confederation. The Highlands are characterized by peaks, valleys, and difficult terrain.
 

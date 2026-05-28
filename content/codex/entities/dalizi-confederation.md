@@ -8,6 +8,7 @@ zoomLevel: 2
 sources: ["all_sections_formatted/Aboyinzu.md#L3948"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
   archetype: ai-ok

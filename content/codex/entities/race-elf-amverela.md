@@ -6,6 +6,9 @@ blurb: "Most prolific and long-living elves, renowned across Alaria for extraord
 aliases: ["High Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
+  - { rel: culture, kind: worships, target: "daemon-amvinwir" }
 sources:
   - "races/Elf.md"
 review:

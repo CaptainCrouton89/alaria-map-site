@@ -5,6 +5,8 @@ entityType: race
 blurb: "Self-certain, contemplative humans of central and northern Alaria; philosophers, mathematicians, and martial warriors who value strength and truth over idle talk."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-drashweir", note: "Tikhaya frames this patron as philosophical-discipline rather than mount-bond" }
 sources:
   - "races/Human.md"
 review:

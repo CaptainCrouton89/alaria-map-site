@@ -6,6 +6,7 @@ blurb: "Swamp-dwelling ogres with mottled camouflage skin who excel at ambush an
 aliases: ["Swamp Ogre"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-ogre" }
+  - { rel: culture, kind: worships, target: "daemon-drom-the-patient-mountain", note: "lowland-fall-of-mountain aspect" }
 sources:
   - "races/Ogre.md"
 review:

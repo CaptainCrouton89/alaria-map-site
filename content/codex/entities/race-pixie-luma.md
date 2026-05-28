@@ -6,6 +6,7 @@ blurb: "Grove-bonded living libraries of Nykotheryx Amberylika; translucent wing
 aliases: ["Grove Keepers"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-pixie" }
+  - { rel: culture, kind: worships, target: "daemon-ikvanel" }
 sources:
   - "races/Pixie.md"
 review:

@@ -5,6 +5,9 @@ entityType: race
 blurb: "Volcanic dwarves with glowing red-veined obsidian skin who build civilization inside active volcanoes; sacred fury and passion drive their forge mastery."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-karnaeum" }
 sources:
   - "races/Dwarf.md"
 review:

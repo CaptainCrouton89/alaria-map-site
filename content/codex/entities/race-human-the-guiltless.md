@@ -5,6 +5,7 @@ entityType: race
 blurb: "Magically created humans incapable of deception or harm; exploited across millennia yet resilient through subtle methods of resistance."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-the-unhealed" }
 sources:
   - "races/Human.md"
 review:

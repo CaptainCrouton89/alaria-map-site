@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Western_Isles.md#L1711"]
 relations:
   - { rel: spatial, kind: within, target: "4305" }
   - { rel: polity, kind: capitalOf, target: "4305" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human city-states; named human governance (Lord Brennan Toll, Harbor Master Theodras Vane, Admiral Kess Ironhull, founding families)" }
 review:
   aiWritten: true
   archetype: ai-ok

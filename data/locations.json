@@ -16,7 +16,6 @@
       "race-rokunuri",
       "2201",
       "1867",
-      "nation-dalizi-confederation",
       "1534",
       "1475",
       "1865",
@@ -34,7 +33,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "Aboyinzu stretches like a hooked tail along the southwestern edge of the known world.",
-    "containsCount": 8
+    "containsCount": 7
   },
   {
     "id": "388",
@@ -374,11 +373,13 @@
       "388",
       "905",
       "1311",
+      "race-pixie-ikriel",
       "1214",
       "1346",
       "1328",
       "1301",
       "918",
+      "creature-pixies",
       "710"
     ],
     "loreFile": "Clueanda.md",
@@ -562,7 +563,6 @@
     "relatedIds": [
       "1388",
       "creature-kanzekill",
-      "nation-dalizi-confederation",
       "2218",
       "1485",
       "1865",
@@ -1138,6 +1138,7 @@
     "relatedIds": [
       "388",
       "creature-nyinsylys",
+      "race-pixie-ikriel",
       "486",
       "969",
       "715",
@@ -1170,6 +1171,7 @@
       "magic-force",
       "race-giant",
       "race-human",
+      "race-pixie",
       "magic-fire"
     ],
     "loreFile": "Clueanda.md",
@@ -2019,6 +2021,7 @@
       "3902",
       "3961",
       "race-dwarf-yorinthian",
+      "race-pixie-ikriel",
       "4139",
       "3952",
       "4153",
@@ -2037,6 +2040,7 @@
       "4117",
       "4145",
       "creature-nabuhe",
+      "creature-pixies",
       "creature-titan",
       "magic-light",
       "4154",
@@ -2375,6 +2379,7 @@
       "race-human",
       "race-skaag",
       "creature-orcs",
+      "daemon-korn",
       "manual-mphqwz19-951b6",
       "magic-fire",
       "magic-time",
@@ -2973,9 +2978,9 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
+      "race-human",
       "2097",
       "1867",
-      "nation-dalizi-confederation",
       "2155",
       "1865",
       "1913",
@@ -2998,75 +3003,6 @@
     "blurb": "A massive confederation of states occupying the territory mostly northwest, and also west/southwest of Lake Tonactlet Chipe.",
     "parentName": "Central Aboyinzu",
     "containsCount": 83
-  },
-  {
-    "id": "nation-dalizi-confederation",
-    "name": "Dalizi Confederation",
-    "type": "region",
-    "coordinates": [
-      350,
-      520
-    ],
-    "zoomLevel": 2,
-    "parentId": "1388",
-    "relatedIds": [
-      "1388",
-      "manual-mphq9hhq-nmjbl",
-      "1867",
-      "1475",
-      "1865",
-      "1520",
-      "1978",
-      "1806",
-      "1974",
-      "2145",
-      "1962",
-      "1954",
-      "magic-languages",
-      "creature-monsters",
-      "1544",
-      "manual-mphb7vl4-ptsg6",
-      "manual-mphb5jhz-waq7k",
-      "1390",
-      "1938",
-      "1515",
-      "1895",
-      "1981",
-      "1988",
-      "1946",
-      "1955",
-      "manual-mph5wgyx-6vfzb",
-      "1944",
-      "1936",
-      "1880",
-      "1911",
-      "2049",
-      "1957",
-      "1958",
-      "manual-mph5r16f-ucyiz",
-      "race-minotaur-rentar",
-      "1977",
-      "1951",
-      "2372",
-      "1934",
-      "manual-mph5r6im-wurpc",
-      "magic-force",
-      "magic-water",
-      "1979",
-      "1964",
-      "1948",
-      "1881",
-      "magic-dark",
-      "1956"
-    ],
-    "loreFile": "Dalizi Confederation.md",
-    "tags": [
-      "state",
-      "confederation"
-    ],
-    "atmosphere": "civilization",
-    "blurb": "A sprawling political entity comprising over forty member states—some true nations, others mere city-states—bound together by ancient treaties, mutual defense obligations, and a bewildering tangle…",
-    "parentName": "Aboyinzu"
   },
   {
     "id": "3166",
@@ -3968,6 +3904,7 @@
     "parentId": "390",
     "relatedIds": [
       "390",
+      "race-human",
       "633",
       "635",
       "601",
@@ -4066,6 +4003,7 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "race-human",
       "manual-mphbzhol-zkrha",
       "94",
       "114",
@@ -4080,7 +4018,6 @@
       "magic-earth",
       "magic-light",
       "magic-water",
-      "race-human",
       "manual-mphqwz19-951b6"
     ],
     "loreFile": "Ve.md",
@@ -4340,7 +4277,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2040",
       "1882",
       "1991",
@@ -5467,7 +5403,7 @@
     "relatedIds": [
       "1214",
       "1226",
-      "race-human",
+      "race-orc-enti",
       "manual-mpgheito-0utdn",
       "1346",
       "manual-mpighz65-gscfa",
@@ -5476,8 +5412,7 @@
       "manual-mpighbcs-k9rce",
       "manual-mpigherx-rpri1",
       "race-minotaur-danaki",
-      "1227",
-      "race-orc-enti"
+      "1227"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -6106,7 +6041,6 @@
     "relatedIds": [
       "1865",
       "2017",
-      "nation-dalizi-confederation",
       "2173",
       "2040",
       "2179",
@@ -6188,7 +6122,6 @@
       "race-minotaur",
       "manual-mphq9hhq-nmjbl",
       "1867",
-      "nation-dalizi-confederation",
       "1865",
       "1520",
       "manual-mpii94rh-4ulqj",
@@ -6406,8 +6339,8 @@
     "relatedIds": [
       "1864",
       "1776",
+      "race-human",
       "1867",
-      "nation-dalizi-confederation",
       "2001",
       "wilderness-hills-of-tharoz",
       "1875",
@@ -6608,6 +6541,7 @@
     "relatedIds": [
       "1",
       "race-dwarf-dern",
+      "race-dwarf-hestrube",
       "298",
       "manual-mpii94rh-4ulqj",
       "18",
@@ -6672,7 +6606,7 @@
       "1944",
       "1951",
       "2236",
-      "nation-dalizi-confederation",
+      "race-human",
       "manual-mpih306v-z1roz",
       "manual-mph5yr5t-a92a2",
       "manual-mph5wxow-ii4aj",
@@ -6990,6 +6924,7 @@
       "1988",
       "1951",
       "race-dwarf-nydor",
+      "race-goblin-stravlar",
       "2225",
       "manual-mph5z0gq-vtdw4",
       "2227"
@@ -7344,6 +7279,7 @@
     "zoomLevel": 3,
     "parentId": null,
     "relatedIds": [
+      "race-human",
       "3177",
       "3725",
       "3178",
@@ -7504,7 +7440,6 @@
     "relatedIds": [
       "1865",
       "2034",
-      "nation-dalizi-confederation",
       "1982",
       "1991",
       "2136",
@@ -8705,6 +8640,7 @@
       "3388",
       "3465",
       "race-human-qindo",
+      "race-halfling-shelwin",
       "3430",
       "race-halfling",
       "3396",
@@ -8883,6 +8819,7 @@
       "4255",
       "2758",
       "magic-water",
+      "race-human",
       "4310",
       "manual-mphqwz19-951b6"
     ],
@@ -8946,6 +8883,7 @@
     "parentId": "3529",
     "relatedIds": [
       "3529",
+      "race-elf-caerene",
       "3543",
       "3484",
       "manual-mpihbxzh-y7eq6",
@@ -8957,7 +8895,8 @@
       "manual-mpii94rh-4ulqj",
       "manual-mpihb6u5-600t7",
       "3573",
-      "manual-mphqwz19-951b6"
+      "manual-mphqwz19-951b6",
+      "magic-fire"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -9238,7 +9177,6 @@
       "1475",
       "race-human",
       "race-naga",
-      "nation-dalizi-confederation",
       "1685",
       "1612",
       "1487",
@@ -9405,6 +9343,7 @@
     "relatedIds": [
       "895",
       "9000",
+      "race-human",
       "663",
       "469",
       "753",
@@ -9891,7 +9830,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "1978",
       "1895",
       "1977",
@@ -10223,7 +10161,7 @@
   {
     "id": "1623",
     "name": "M'Svyla",
-    "type": "wilderness",
+    "type": "region",
     "coordinates": [
       266,
       443
@@ -10507,8 +10445,8 @@
       "1864",
       "1979",
       "1977",
+      "race-human",
       "1867",
-      "nation-dalizi-confederation",
       "manual-mph5qecy-rp3k6",
       "manual-mpigx8cf-7yzcs",
       "manual-mph5qnsd-i1l38",
@@ -11131,6 +11069,7 @@
     "relatedIds": [
       "2857",
       "3037",
+      "race-human",
       "519",
       "3067",
       "3061",
@@ -11169,7 +11108,7 @@
     "relatedIds": [
       "1864",
       "1988",
-      "nation-dalizi-confederation",
+      "race-human",
       "manual-mph5worh-zau4t",
       "manual-mpigvj2l-btfmj"
     ],
@@ -13203,6 +13142,7 @@
       "720",
       "398",
       "630",
+      "race-human",
       "786",
       "791"
     ],
@@ -13387,7 +13327,7 @@
       "1864",
       "1964",
       "2049",
-      "nation-dalizi-confederation",
+      "race-human",
       "1990",
       "2266",
       "manual-mphboyus-0zjag",
@@ -13704,6 +13644,7 @@
     "parentId": "351",
     "relatedIds": [
       "351",
+      "race-human",
       "creature-the-fallen",
       "137",
       "197",
@@ -13874,7 +13815,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "1761",
       "2040",
       "2001",
@@ -13914,6 +13854,7 @@
       "720",
       "630",
       "manual-mpjrcf71-gtrw6",
+      "race-human",
       "837",
       "555",
       "400",
@@ -13954,6 +13895,7 @@
     "parentId": "398",
     "relatedIds": [
       "398",
+      "race-human",
       "757",
       "555",
       "467",
@@ -14140,6 +14082,7 @@
       "race-human",
       "race-skaag",
       "creature-orcs",
+      "daemon-korn",
       "manual-mphqwz19-951b6",
       "magic-fire",
       "magic-time"
@@ -14395,6 +14338,7 @@
       "3108",
       "2869",
       "732",
+      "race-human",
       "3061",
       "558",
       "manual-mpjrcf71-bzqwt",
@@ -14483,7 +14427,6 @@
     "relatedIds": [
       "1806",
       "race-human",
-      "nation-dalizi-confederation",
       "1817",
       "1388",
       "race-elf-gamori",
@@ -14653,6 +14596,7 @@
     "parentId": "2758",
     "relatedIds": [
       "2758",
+      "race-human",
       "2759",
       "2777",
       "manual-mpii8n6r-0p4du",
@@ -17158,8 +17102,8 @@
     "parentId": "1864",
     "relatedIds": [
       "1864",
+      "race-human",
       "1867",
-      "nation-dalizi-confederation",
       "1883",
       "1520",
       "1806",
@@ -18223,7 +18167,9 @@
     "zoomLevel": 4,
     "parentId": "92",
     "relatedIds": [
-      "92"
+      "92",
+      "race-dwarf-dern",
+      "race-lyzine"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -18719,6 +18665,7 @@
     "parentId": "3662",
     "relatedIds": [
       "3662",
+      "race-human",
       "3835",
       "3689",
       "3680",
@@ -18983,7 +18930,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2040",
       "2001",
       "2136",
@@ -19917,6 +19863,7 @@
     "zoomLevel": 4,
     "parentId": null,
     "relatedIds": [
+      "race-human",
       "3161",
       "manual-mphbsu90-fz7jf",
       "manual-mphewusw-5k876",
@@ -20442,6 +20389,7 @@
     "parentId": "108",
     "relatedIds": [
       "108",
+      "race-human",
       "109",
       "104",
       "158",
@@ -20978,6 +20926,7 @@
     "relatedIds": [
       "3342",
       "3388",
+      "race-human",
       "3376",
       "3390"
     ],
@@ -21244,6 +21193,7 @@
     "parentId": "1395",
     "relatedIds": [
       "1395",
+      "race-human",
       "1444",
       "1406",
       "1388"
@@ -21910,6 +21860,7 @@
     "parentId": "4285",
     "relatedIds": [
       "4285",
+      "race-human",
       "4165",
       "manual-mph71itd-6g6tw",
       "4276",
@@ -21938,7 +21889,6 @@
     "relatedIds": [
       "1865",
       "2017",
-      "nation-dalizi-confederation",
       "2155",
       "2179",
       "2001",
@@ -23536,6 +23486,7 @@
       "creature-twaan",
       "magic-earth",
       "magic-force",
+      "daemon-korn",
       "manual-mphqwz19-951b6",
       "magic-fire",
       "magic-time"
@@ -24045,7 +23996,7 @@
     "parentId": "1977",
     "relatedIds": [
       "1977",
-      "nation-dalizi-confederation"
+      "1864"
     ],
     "tags": [],
     "atmosphere": "civilization",
@@ -24170,6 +24121,7 @@
     "parentId": "3375",
     "relatedIds": [
       "3375",
+      "race-human",
       "2372",
       "magic-water",
       "3390"
@@ -24282,7 +24234,8 @@
     "parentId": "3390",
     "relatedIds": [
       "3390",
-      "race-human-qindo"
+      "race-human-qindo",
+      "race-halfling-shelwin"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -25048,6 +25001,7 @@
     "parentId": "3066",
     "relatedIds": [
       "3066",
+      "race-human",
       "3061",
       "3014",
       "71",
@@ -25412,7 +25366,8 @@
     "zoomLevel": 4,
     "parentId": "630",
     "relatedIds": [
-      "630"
+      "630",
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -25956,7 +25911,6 @@
       "1606",
       "race-human",
       "race-naga",
-      "nation-dalizi-confederation",
       "manual-mpii94rh-4ulqj",
       "1388",
       "creature-dragons",
@@ -26393,7 +26347,6 @@
     "parentId": "1606",
     "relatedIds": [
       "1606",
-      "nation-dalizi-confederation",
       "1503",
       "1661",
       "1515",
@@ -26453,6 +26406,7 @@
     "parentId": "477",
     "relatedIds": [
       "477",
+      "race-human",
       "390"
     ],
     "loreFile": "Clueanda.md",
@@ -26527,6 +26481,7 @@
     "relatedIds": [
       "3317",
       "3314",
+      "race-human",
       "3177",
       "3725",
       "3178",
@@ -28833,6 +28788,7 @@
     "parentId": "2201",
     "relatedIds": [
       "2201",
+      "race-human",
       "2332",
       "2337",
       "2322"
@@ -29221,6 +29177,7 @@
     "parentId": "4305",
     "relatedIds": [
       "4305",
+      "race-human",
       "4166",
       "4242",
       "4302",
@@ -29295,6 +29252,7 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
+      "race-human",
       "1731",
       "wilderness-mikisapi-forest",
       "manual-mphbt2hf-hd923",
@@ -30170,7 +30128,6 @@
     "parentId": "1882",
     "relatedIds": [
       "1882",
-      "nation-dalizi-confederation",
       "2179",
       "1520",
       "2162",
@@ -30685,7 +30642,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2155",
       "2173",
       "2040",
@@ -30731,6 +30687,7 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
+      "race-human",
       "4201",
       "4166",
       "4294",
@@ -30988,7 +30945,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2040",
       "1882",
       "1991",
@@ -31763,6 +31719,7 @@
     "parentId": "manual-mpjrcf71-vystr",
     "relatedIds": [
       "manual-mpjrcf71-vystr",
+      "race-human",
       "3133"
     ],
     "loreFile": "Rimihuica.md",
@@ -31783,6 +31740,7 @@
     "parentId": "2857",
     "relatedIds": [
       "2857",
+      "race-human",
       "3133",
       "3014",
       "3137"
@@ -35313,6 +35271,7 @@
     "parentId": "398",
     "relatedIds": [
       "398",
+      "race-human",
       "2561",
       "manual-mphqwz19-951b6",
       "magic-dark",
@@ -37173,7 +37132,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2040",
       "2179",
       "1882",
@@ -41862,7 +41820,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2155",
       "poi-dragons-gate",
       "2162",
@@ -44641,7 +44598,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2040",
       "1882",
       "2124",
@@ -50497,6 +50453,7 @@
     "parentId": "2455",
     "relatedIds": [
       "2455",
+      "race-human",
       "manual-mpha4gzt-vjyu9",
       "390",
       "2565",
@@ -55058,7 +55015,8 @@
     "zoomLevel": 5,
     "parentId": "952",
     "relatedIds": [
-      "952"
+      "952",
+      "race-dwarf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -55405,6 +55363,7 @@
     "parentId": "2758",
     "relatedIds": [
       "2758",
+      "race-human",
       "4363",
       "4417",
       "2844",
@@ -58542,6 +58501,7 @@
     "parentId": "702",
     "relatedIds": [
       "702",
+      "race-human",
       "720",
       "manual-mphqwz19-951b6"
     ],
@@ -59848,7 +59808,6 @@
     "parentId": "1865",
     "relatedIds": [
       "1865",
-      "nation-dalizi-confederation",
       "2155",
       "2009",
       "2372",
@@ -60627,6 +60586,7 @@
     "parentId": "4165",
     "relatedIds": [
       "4165",
+      "race-human",
       "4302",
       "4332"
     ],

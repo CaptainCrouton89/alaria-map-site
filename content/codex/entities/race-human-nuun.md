@@ -5,6 +5,8 @@ entityType: race
 blurb: "Golden- or ice-eyed desert people of Kura; master traders who blend elemental magic with a deep reverence for beauty and knowledge."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-zarn-ik", note: "trade-roads inflection — paths through the sand, not survival within it" }
 sources:
   - "races/Human.md"
 review:

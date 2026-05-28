@@ -6,6 +6,7 @@ blurb: "Dark-featured island elves of the Bynü Tribes who wage silent clan wars
 aliases: ["Island Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-xikraen" }
 sources:
   - "races/Elf.md"
 review:

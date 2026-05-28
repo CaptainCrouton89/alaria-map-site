@@ -5,6 +5,7 @@ entityType: race
 blurb: "Iguana-like contemplatives of M'Svyla's forests and Crystal Mountains; philosophers and artists with legendary regenerative abilities who prize beauty."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }
+  - { rel: culture, kind: worships, target: "daemon-ixmoreth" }
 sources:
   - "races/Lizardfolk.md"
 review:

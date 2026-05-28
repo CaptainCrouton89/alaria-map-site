@@ -6,6 +6,9 @@ blurb: "Battle-devoted dwarves of Trømgar whose spiked armor turns their bodies
 aliases: ["Battle Dwarves"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-tromgodd" }
 sources:
   - "races/Dwarf.md"
 review:

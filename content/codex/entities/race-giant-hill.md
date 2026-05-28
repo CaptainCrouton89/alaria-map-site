@@ -5,6 +5,7 @@ entityType: race
 blurb: "Sedentary community-dwelling giants who herd massive sheep and guard their territory; territorial but willing to parley with food and their simple language."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-giant" }
+  - { rel: culture, kind: worships, target: "daemon-drom-the-patient-mountain" }
 sources:
   - "races/Giant.md"
 review:

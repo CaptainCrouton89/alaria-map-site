@@ -5,6 +5,7 @@ entityType: race
 blurb: "Black-scaled venomous assassins of Nashua's toxic marshlands; patient hunters waging endless cunning war against Trømgar and Gorath."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }
+  - { rel: culture, kind: worships, target: "daemon-ixvashlu" }
 sources:
   - "races/Lizardfolk.md"
 review:

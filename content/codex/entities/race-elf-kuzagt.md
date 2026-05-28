@@ -6,6 +6,7 @@ blurb: "Tall, spindly bone-featured elves of Bonnetaz's salt flats who maintain 
 aliases: ["Bone Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-kuzvarakt" }
 sources:
   - "races/Elf.md"
 review:

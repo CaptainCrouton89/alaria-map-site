@@ -5,6 +5,7 @@ entityType: race
 blurb: "Raptor-bonded Lizardfolk of the Dygon Beastlands; sacred rider culture built on lifelong bonds with utahraptors since birth."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }
+  - { rel: culture, kind: worships, target: "daemon-ixvranok", note: "raptor-chieftain share" }
 sources:
   - "races/Lizardfolk.md"
 review:

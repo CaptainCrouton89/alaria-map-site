@@ -9,6 +9,7 @@ tags: ["island", "geography", "cursed"]
 sources: ["all_sections_formatted/Ve.md#L2439"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance and cultural evidence (Attla elders, Jaipon refugees with council, Alisandra's appointed governors)" }
 review:
   aiWritten: true
   archetype: ai-ok

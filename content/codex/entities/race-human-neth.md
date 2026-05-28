@@ -5,6 +5,7 @@ entityType: race
 blurb: "Inscrutable, community-oriented northern tundra humans who commune with ancestral spirits through the wind, drawing on a millennium of ancestral wisdom."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-khalweir" }
 sources:
   - "races/Human.md"
 review:

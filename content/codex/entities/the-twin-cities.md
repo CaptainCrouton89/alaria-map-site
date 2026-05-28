@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Ve.md#L3381"]
 relations:
   - { rel: spatial, kind: within, target: "351" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance and cultural evidence (Attla elders, Jaipon refugees with council, Alisandra's appointed governors)" }
 ---
 Yuki and its sister city Garlow exist in unusual symbiosis. Founded by refugees from the fallen Jaipon Confederacy roughly two centuries ago, the two cities were originally rival settlements competing for the same hilltop. When the first major Krell probe reached the hills in 3180 SD, the cities realized they would survive together or die separately.
 

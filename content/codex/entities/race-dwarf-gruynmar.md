@@ -5,6 +5,8 @@ entityType: race
 blurb: "Bronze-skinned seafaring dwarves who live on iron clan-ships; sole keepers of gunpowder secrets, feared naval warriors with deep clan loyalty."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

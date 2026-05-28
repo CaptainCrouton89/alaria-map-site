@@ -3,6 +3,8 @@ id: "race-triton"
 name: "Triton"
 entityType: race
 blurb: "Tritons are the proud aquatic warriors of the deep, dwelling in magnificent underwater cities carved from coral and stone."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-tromaran" }
 sources:
   - "races/Triton.md"
 review:

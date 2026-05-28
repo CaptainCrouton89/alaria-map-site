@@ -6,6 +6,7 @@ blurb: "Dream-harvesting dwarves of Movasi who extract and crystallize dreams vi
 aliases: ["Dream Dwarves"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

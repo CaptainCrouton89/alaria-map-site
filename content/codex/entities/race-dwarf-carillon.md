@@ -5,6 +5,8 @@ entityType: race
 blurb: "Artisan-academic dwarves of Urok's southwestern coast whose twin city-states devoted themselves to music, theater, jewelry, and magical enchantment."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

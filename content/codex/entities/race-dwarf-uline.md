@@ -6,6 +6,9 @@ blurb: "Industrious underground dwarves who adapted to mine life over generation
 aliases: ["Chain Dwarf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-krunites" }
 sources:
   - "races/Dwarf.md"
 review:

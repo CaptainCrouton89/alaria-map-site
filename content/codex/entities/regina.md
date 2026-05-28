@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L7123"]
 relations:
   - { rel: polity, kind: capitalOf, target: "3317" }
   - { rel: spatial, kind: within, target: "3314" }
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
   archetype: ai-ok

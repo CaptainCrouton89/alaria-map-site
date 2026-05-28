@@ -5,6 +5,7 @@ entityType: race
 blurb: "Flesh-and-machinery goblins of Kobuk who integrate mechanical augmentations directly into their bodies, holding deep contempt for gnomish tinkering."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-goblin" }
+  - { rel: culture, kind: worships, target: "daemon-shak-shak", note: "corrupted-reading; fleshtech extension of pyre-and-pact" }
 sources:
   - "races/Goblin.md"
 review:

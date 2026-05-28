@@ -6,6 +6,7 @@ blurb: "Deep-ocean Kendor with controllable bioluminescent dark scales who trade
 aliases: ["Abyss Kendor"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-kendor" }
+  - { rel: culture, kind: worships, target: "daemon-velaendor" }
 sources:
   - "races/Kendor.md"
 review:

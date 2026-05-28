@@ -6,6 +6,8 @@ blurb: "Reddish-skinned elves of Hik cursed by Deoric magic granting agelessness
 aliases: ["Crimson Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "races/Elf.md"
 review:

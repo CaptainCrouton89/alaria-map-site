@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "720" }
   - { rel: spatial, kind: borders, target: "630", note: "southern border with Joswik, currently contested" }
   - { rel: spatial, kind: borders, target: "manual-mpjrcf71-gtrw6", note: "western border with Sylke" }
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
   archetype: ai-ok

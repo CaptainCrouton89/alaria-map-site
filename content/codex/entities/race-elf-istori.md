@@ -6,6 +6,9 @@ blurb: "Ice-glass-forging elves of frozen Istora, torn between traditionalists p
 aliases: ["Glass Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
+  - { rel: culture, kind: worships, target: "daemon-ystaeria" }
 sources:
   - "races/Elf.md"
 review:

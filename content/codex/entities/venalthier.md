@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3902", note: "N" }
   - { rel: spatial, kind: borders, target: "3961", note: "E" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-yorinthian" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-ikriel" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -76,5 +77,7 @@ The Nabuhe don't rule Venalthier—they simply survive it better than anyone els
 
 Beyond the Nabuhe territory, Venalthier is lawless in the truest sense. No authorities, no enforcement, no structure. Survival is the only law, and the ice enforces it impartially.
 
-What draws the rare outsider here is what the ice preserves: the dead titan beneath The Face whose body yields Frostfire, the black Ekri Towers of unknown make, and the buried things the interior plains have swallowed. Each is detailed in its own entry. The constant is that nothing in Venalthier is harvested cheaply—the cold takes its price first.
+What draws the rare outsider here is what the ice preserves: the dead titan beneath The Face whose body yields Frostfire, the black Ekri Towers of unknown make, and the buried things the interior plains have swallowed. Each is detailed in its own entry. The constant is that nothing in Venalthier is harvested cheaply — the cold takes its price first.
+
+Ikriel colonies persist throughout the interior plains. The frost pixies — settlement-less, flesh-eating winter loners found wherever cold environments eliminate competition — reach their highest concentrations here, drawn by the same absence of governance that frustrates everyone else. They are not the most dangerous thing in Venalthier, but they are among the most reliably present.
 

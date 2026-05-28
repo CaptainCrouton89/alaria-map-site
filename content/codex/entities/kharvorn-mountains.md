@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L2952"]
 relations:
   - { rel: spatial, kind: within, target: "388" }
   - { rel: culture, kind: inhabitedBy, target: "creature-nyinsylys" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-ikriel" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -46,6 +47,8 @@ The Kharvorn comprises numerous distinct mountain ranges along its length, from 
 - **Ngül**
 
 ### Political Climate
+
+The Kharvorn's high passes and interior valleys host Ikriel — the frost-transformed pixie predators who haunt cold environments across the world. They do not hold territory; they move through it, hunting travelers and feeding on whatever warmth they find. No range of the Kharvorn is entirely free of them, and the passes draw them because the passes draw prey.
 
 TODO
 

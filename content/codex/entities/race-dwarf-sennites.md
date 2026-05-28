@@ -6,6 +6,8 @@ blurb: "Slimy green-skinned lake-adapted dwarves of Sennos who traded forbidden 
 aliases: ["Lake Dwarf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

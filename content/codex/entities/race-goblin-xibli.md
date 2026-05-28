@@ -5,6 +5,8 @@ entityType: race
 blurb: "Blue-skinned aquatic goblins of the islands around Melrox with webbed hands and spiny backs, living semi-aquatic lives as freedom-loving hedonists."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-goblin" }
+  - { rel: culture, kind: worships, target: "daemon-shak-shak" }
+  - { rel: culture, kind: worships, target: "daemon-xibrik" }
 sources:
   - "races/Goblin.md"
 review:

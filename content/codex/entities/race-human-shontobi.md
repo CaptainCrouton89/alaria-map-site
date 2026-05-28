@@ -5,6 +5,8 @@ entityType: race
 blurb: "Honor-bound samurai people of the great plains who ride griffons and sacred eagles, governed by strict family duty and ancestral obligation."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-khravobi" }
 sources:
   - "races/Human.md"
 review:

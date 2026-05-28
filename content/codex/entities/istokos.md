@@ -61,6 +61,8 @@ Surrounding the main island, smaller islands serve as noble house domains:
 
 Southern islands house the commoner Chargon—those without bloodline magic. These islands lack the elaborate water-protection systems of the noble territories. Commoners fish, sail, and dive freely. Some nobles consider them contaminated; others consider them pitiable.
 
+Drachma share these southern ports. The black-haired human traders and pirates settled the commoner harbors generations ago, indifferent to bloodline ranking and valued for the long open-sea runs no Chargon house will captain itself.
+
 The largest commoner settlement is **Wetside**—a fishing village that deliberately inverts noble customs. Buildings are open to rain. Streets flood during storms. Residents swim regularly. The name is both description and defiance.
 
 ### The Abandoned Reefs

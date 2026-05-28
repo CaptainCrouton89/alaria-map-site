@@ -6,6 +6,8 @@ blurb: "Elves who dwell within the stars themselves, tending the celestial cores
 aliases: ["Star Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "races/Elf.md"
 review:

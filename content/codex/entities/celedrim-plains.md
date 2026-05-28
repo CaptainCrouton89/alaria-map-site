@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "388" }
   - { rel: spatial, kind: borders, target: "905", note: "South" }
   - { rel: spatial, kind: borders, target: "1311", note: "West" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-ikriel" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -39,6 +40,8 @@ Two significant forests cling to the southwestern margins of the plains, where t
 - **Plutochranes Forest**: Positioned north of Myorna (another Kharvorn sub-range), south of the main plains expanse, and west of the Frostmarch Peninsula
 
 ### Political Climate
+
+Ikriel move across the Celedrim Plains in numbers no survey has accurately assessed. The frost pixies — which build nothing, hold no territory, and eat flesh — thrive on the frozen steppe precisely because nothing else does. They are scattered across the full expanse, singly and in small groups, and travelers crossing the plains without heat and without guards have a consistent habit of disappearing.
 
 TODO
 

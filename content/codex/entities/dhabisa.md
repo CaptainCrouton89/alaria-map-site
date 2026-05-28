@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1944", note: "N" }
   - { rel: spatial, kind: borders, target: "1951", note: "SE" }
   - { rel: spatial, kind: borders, target: "2236", note: "S" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human states; named human governance (Regent-Queen Mwenekazi, capital cities, confederation councils, old families described)" }
 review:
   aiWritten: true
   archetype: ai-ok

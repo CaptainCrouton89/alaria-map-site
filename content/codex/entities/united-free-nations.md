@@ -15,6 +15,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2869", note: "SW" }
   - { rel: spatial, kind: borders, target: "732", note: "W" }
   - { rel: spatial, kind: within, target: "2857" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance (councils, merchant guilds, Federal Council, merchant families) and civic structures" }
 review:
   aiWritten: true
   archetype: ai-ok

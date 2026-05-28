@@ -13,6 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "4165" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human city-states; named human governance (Lord Brennan Toll, Harbor Master Theodras Vane, Admiral Kess Ironhull, founding families)" }
 ---
 A fortified city-state occupying a strategic island at the mouth of Phyndarr Sound—the self-proclaimed "Gatekeepers of the North." Tollgate charges tolls on ships passing between the Iron Sea and the Shattered Sea, and backs the claim with enough military force to make it stick.
 

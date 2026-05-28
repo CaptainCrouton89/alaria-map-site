@@ -7,6 +7,8 @@ aliases: ["Silver Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-tiira" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar", note: "older Druidic ancestor tradition" }
+  - { rel: culture, kind: worships, target: "daemon-xalvaakr", note: "politically heretical; pre-dates Tiira by ~100 SD" }
 sources:
   - "races/Elf.md"
 review:

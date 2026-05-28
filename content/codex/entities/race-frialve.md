@@ -3,6 +3,8 @@ id: "race-frialve"
 name: "Frialve"
 entityType: race
 blurb: "The Frialve are a bird-like race residing in the sprawling jungle city of Bygos Shemazari."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-shrazvi" }
 sources:
   - "races/Frialve.md"
 review:

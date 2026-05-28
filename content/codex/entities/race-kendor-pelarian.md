@@ -6,6 +6,7 @@ blurb: "Volcanic-vent Kendor with fire attunement who distinguish honorable comb
 aliases: ["Fire Kendor"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-kendor" }
+  - { rel: culture, kind: worships, target: "daemon-velaendor", note: "heretical-share — volcanic-vent inversion of sea-flow" }
 sources:
   - "races/Kendor.md"
 review:

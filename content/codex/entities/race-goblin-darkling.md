@@ -5,6 +5,8 @@ entityType: race
 blurb: "Pitch-black shadow goblins of Lethos who subsist on rodents and bats, wielding impenetrable darkness that only they can see through."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-goblin" }
+  - { rel: culture, kind: worships, target: "daemon-shak-shak" }
+  - { rel: culture, kind: worships, target: "daemon-lethring" }
 sources:
   - "races/Goblin.md"
 review:

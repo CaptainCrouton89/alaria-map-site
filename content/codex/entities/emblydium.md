@@ -12,6 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1988", note: "N" }
   - { rel: spatial, kind: borders, target: "1951", note: "NE" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-nydor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-stravlar", note: "enslaved by the Nydor in the Dark Ages, prized for fire attunement in forge and smelting work" }
 review:
   aiWritten: true
   archetype: ai-ok

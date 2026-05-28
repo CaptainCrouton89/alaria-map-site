@@ -6,6 +6,7 @@ blurb: "Nomadic Kendor who travel ocean currents and venture onto land; primary 
 aliases: ["Wanderer Kendor"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-kendor" }
+  - { rel: culture, kind: worships, target: "daemon-velaendor" }
 sources:
   - "races/Kendor.md"
 review:

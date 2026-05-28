@@ -5,6 +5,7 @@ entityType: race
 blurb: "Gray-skinned humans of the Wurn Mountains whose skin has hardened through generations of elemental exposure; stoic, pragmatic, and fiercely independent."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-drevun" }
 sources:
   - "races/Human.md"
 review:

@@ -6,6 +6,7 @@ blurb: "Descendants of dwarves who survived the planar journey from Celesté; bl
 aliases: ["Celestial Draugr"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

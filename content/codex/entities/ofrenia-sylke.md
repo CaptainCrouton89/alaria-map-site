@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "720" }
   - { rel: spatial, kind: borders, target: "398", note: "northern border with Tornia" }
   - { rel: spatial, kind: borders, target: "630", note: "southern border with Joswik" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human kingdoms; sibling rulers (Queen Alisandra of Tornia, Prince Edric of Joswik) govern Ofrenia's founding house" }
 review:
   aiWritten: true
   archetype: ai-ok

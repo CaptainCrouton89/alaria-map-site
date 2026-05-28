@@ -9,8 +9,9 @@ tags: ["forest", "fae", "sacred", "illron"]
 sources: ["all_sections_formatted/Upoceax.md#L1632"]
 relations:
   - { rel: spatial, kind: within, target: "3529" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-caerene" }
 ---
-The great forest at the heart of Illron. Unlike Elorshianod in Lenora, which is settled and worked, Iyaklomori Grera is empty of elven habitation. It belongs to the fae under a treaty older than the elven confederation itself.
+The great forest at the heart of Illron. Unlike Elorshianod in Lenora, which is settled and worked, Iyaklomori Grera has no elven settlements. It belongs to the fae under a treaty older than the elven confederation itself. The Illronese are not the forest's only elven presence — they are simply the most visible one.
 
 #### Geography
 
@@ -39,12 +40,20 @@ Those who stray from the paths, or who take something, or who linger too long, m
 
 The Illronese don't ask questions. They stay on the paths. They keep moving. They've learned.
 
+#### The Caerene
+
+The Illronese know, and do not discuss, that the forest is not entirely uninhabited. The Caerene — wood elves who predate the confederation, who never joined the Three Kingdoms Treaty and never sought fae permission to be here — move through Iyaklomori Grera without apparent difficulty. They leave no settlements. They take very little. They have been doing this for longer than the Illronese have written records.
+
+The fae have not expelled them. Whether this is tolerance, indifference, or some accommodation made before the current treaty is not known. The Illronese have not asked, partly because asking would require explaining why they noticed, and they prefer to pretend they haven't.
+
+Those who stray from the legal paths and survive describe occasional glimpses — figures that blend into shadow, a fire-circle that was warm yesterday and cold today, the sense of being watched by something that is neither fae nor hostile. Confederation scholars who have heard these accounts mostly dismiss them. The Caerene do not correct the record.
+
 #### Why the Elves Accept This
 
 Outsiders sometimes ask why Illron tolerates a treaty that gives most of their territory to the fae. The answer is simple: they tried the alternative.
 
-Before the treaty, the elves attempted to settle Iyaklomori Grera. Every attempt failed. Not through direct violence—the fae don't fight wars in the conventional sense—but through attrition, madness, disappearance, and the slow erosion of will. Settlements that should have thrived withered. Populations declined. People forgot why they'd come.
+Before the treaty, the elves attempted to settle Iyaklomori Grera. Every attempt failed. Not through direct violence — the fae don't fight wars in the conventional sense — but through attrition, madness, disappearance, and the slow erosion of will. Settlements that should have thrived withered. Populations declined. People forgot why they'd come.
 
-Eventually, the elves negotiated. The treaty gave them the edges—the coast, the eastern margin. It gave them safe passage on designated routes. In exchange, they accepted that the forest would never be theirs.
+Eventually, the elves negotiated. The treaty gave them the edges — the coast, the eastern margin. It gave them safe passage on designated routes. In exchange, they accepted that the forest would never be theirs.
 
 It's not a good deal by any measure except one: it's better than the alternative.

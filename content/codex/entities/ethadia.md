@@ -7,6 +7,8 @@ coordinates: [201, 375]
 zoomLevel: 3
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Rimihuica.md#L7057"]
+relations:
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -5,6 +5,7 @@ entityType: race
 blurb: "Communally raised Minotaur who suppress all emotion as weakness and channel it into devastating berserker rage; toughness is paramount."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-minotaur" }
+  - { rel: culture, kind: worships, target: "daemon-banaki" }
 sources:
   - "races/Minotaur.md"
 review:

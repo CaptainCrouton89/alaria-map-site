@@ -6,6 +6,7 @@ blurb: "Fragile, alabaster-skinned gnomes cursed with fate-sight; rare as sacred
 aliases: ["Prophet Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-qhytheryx", note: "fate-sight oracles share via deep-knowledge/hidden-voice aspect" }
 sources:
   - "races/Gnome.md"
 review:

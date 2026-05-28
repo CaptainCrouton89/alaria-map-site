@@ -83,7 +83,7 @@ The Drift is hard to navigate for outsiders. Islands shift in fog and storm; the
 
 ### The Far Reach
 
-The westernmost islands, barely connected to Sheîr's government at all. These communities acknowledge the king exists, pay no taxes, and handle their own affairs completely. Some are barely distinguishable from independent pirate havens.
+The westernmost islands, barely connected to Sheîr's government at all. These communities acknowledge the king exists, pay no taxes, and handle their own affairs completely. Some are barely distinguishable from independent pirate havens, and many of those are Drachma—the seafaring humans whose ships work the length of the Western Isles, crewing alongside Bledreon islanders and answering to no king at all.
 
 The Far Reach borders the true Shattered Sea. Sailors here navigate waters where maps fail and magic interferes with compasses. Only the most experienced Bledreon captains operate this far out.
 

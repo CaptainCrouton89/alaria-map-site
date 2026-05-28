@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Ve.md#L809"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-dern" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-hestrube" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -30,6 +31,6 @@ For full political details, see the state entry.
 
 ### Geographic Features
 
-**Central Widebarrow Range** — Less dramatic than Thorum's Steadfast peaks but more extensive. Below the surface, the mountains are honeycombed with natural caves, ancient mines, and Lyzine-carved tunnels.
+**Central Widebarrow Range** — Less dramatic than Thorum's Steadfast peaks but more extensive. Below the surface, the mountains are honeycombed with natural caves, ancient mines, and Lyzine-carved tunnels. Deeper still — below the deepest Dernish shafts, below the Lyzine tunnels, in geological strata that have never been mapped — the Hestrube move through living granite. The Dernish know they are down there. They have long since decided to leave them to it.
 
 **Promisewood** — A forested slope on the northwest border descending toward Avalon. Essential for timber. Named for the marriage pacts it witnessed when Dern and Avalon's royal houses allied three centuries ago.

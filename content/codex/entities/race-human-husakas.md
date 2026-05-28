@@ -5,6 +5,7 @@ entityType: race
 blurb: "Nomadic scorpion-riding desert people bound to an addictive red dust that flows through their veins and awakens mystical power."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-skuznek" }
 sources:
   - "races/Human.md"
 review:

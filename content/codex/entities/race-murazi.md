@@ -3,6 +3,8 @@ id: "race-murazi"
 name: "Murazi"
 entityType: race
 blurb: "The Murazi are an enigmatic merfolk civilization that thrives in the vast network of warm subterranean rivers crisscrossing beneath the Luquihn Desert."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-marazin" }
 sources:
   - "races/Murazi.md"
 review:

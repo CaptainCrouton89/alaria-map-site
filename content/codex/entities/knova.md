@@ -37,7 +37,7 @@ The climate is temperate maritime with frequent storms. Fog rolls in without war
 
 ### The Main Island
 
-The largest island rises sharply from the sea, its central peak dominated by the **Iron Academy fortress**. The harbor is a narrow channel between two spurs of rock, easily blocked and heavily defended. Behind the fortress, the mountainside is terraced with training grounds, dormitories, and forges.
+The largest island rises sharply from the sea, its central peak dominated by the **Iron Academy fortress**. The harbor is a narrow channel between two spurs of rock, easily blocked and heavily defended. Behind the fortress, the mountainside is terraced with training grounds, dormitories, and forges. Those slopes belong to the Drachma—the seafaring humans who fill the Academy's dormitories and man its forges. Their black-haired recruits and the smiths who arm them make up most of Knova's land-dwelling population, while the triton hold the water.
 
 The fortress itself is built from local stone reinforced with iron—the walls have a metallic sheen in sunlight. The main gate faces the harbor; smaller gates lead to training grounds and the mine tunnels that honeycomb the mountain's interior.
 

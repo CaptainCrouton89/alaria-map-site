@@ -6,6 +6,9 @@ blurb: "Proud coastal elves renowned for poison mastery, skilled soldiers, water
 aliases: ["Sea Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
+  - { rel: culture, kind: worships, target: "daemon-elvanweir" }
 sources:
   - "races/Elf.md"
 review:

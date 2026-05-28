@@ -6,6 +6,8 @@ blurb: "Elves who traversed the planar void; deep indigo star-speckled skin, com
 aliases: ["Astral Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "races/Elf.md"
 review:

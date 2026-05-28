@@ -6,6 +6,7 @@ blurb: "Master smiths who forge algae-iron alloys into abrasive heavy armor; dar
 aliases: ["Black Orc"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
 sources:
   - "races/Orc.md"
 review:

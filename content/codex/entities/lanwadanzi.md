@@ -8,7 +8,6 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Aboyinzu.md#L4695"]
 relations:
   - { rel: spatial, kind: within, target: "1864" }
-  - { rel: spatial, kind: borders, target: "1862", note: "S" }
 review:
   aiWritten: false
   archetype: stub

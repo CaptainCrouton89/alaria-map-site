@@ -5,6 +5,8 @@ entityType: race
 blurb: "Frozen-wastes halflings of Morelous who obsessively track every resource and consciously switch between hibernative and peak metabolic states."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
+  - { rel: culture, kind: worships, target: "daemon-frostgrim" }
 sources:
   - "races/Halfling.md"
 review:

@@ -9,6 +9,7 @@ tags: ["citystate", "settlement"]
 sources: ["all_sections_formatted/Ve.md#L1307"]
 relations:
   - { rel: spatial, kind: within, target: "108" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human debt-labor economy, Harvest Council families" }
 ---
 Gnotobi sprawls along the shores of its vast lake in the Dunes of Evioli, a haze of refinement smoke hanging over its warehouses and the sweet-chemical smell of processing hanging in the air. This is the only place in the world where Orange Flake is made—and that monopoly has made Gnotobi obscenely wealthy.
 

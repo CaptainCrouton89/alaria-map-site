@@ -6,6 +6,7 @@ blurb: "Orcs who fortify their very souls against destruction and wield spirit w
 aliases: ["Darkeyes"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
 sources:
   - "races/Orc.md"
 review:

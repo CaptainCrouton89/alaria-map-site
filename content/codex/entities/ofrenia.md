@@ -9,6 +9,7 @@ tags: ["island", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L1958"]
 relations:
   - { rel: spatial, kind: within, target: "390" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human kingdoms; sibling rulers (Queen Alisandra of Tornia, Prince Edric of Joswik) govern Ofrenia's founding house" }
 review:
   aiWritten: true
   archetype: ai-ok

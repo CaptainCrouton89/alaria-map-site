@@ -5,6 +5,7 @@ entityType: race
 blurb: "Silver-skinned nomadic halflings whose bare touch absorbs object histories; the greatest trackers and investigators in Grendenheim."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
 sources:
   - "races/Halfling.md"
 review:

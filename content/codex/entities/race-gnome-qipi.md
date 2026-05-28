@@ -6,6 +6,7 @@ blurb: "Smallest gnome heritage, dwelling in Tyberoskos sinkhole cities; green-s
 aliases: ["Sinkhole Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-qhytheryx" }
 sources:
   - "races/Gnome.md"
 review:

@@ -3,6 +3,8 @@ id: "race-craven"
 name: "Craven"
 entityType: race
 blurb: "The Craven are a tragic testament to humanity's hubris—an attempt to create an intelligent servant race that resulted in beings capable of terrible cruelty within…"
+relations:
+  - { rel: culture, kind: worships, target: "daemon-the-unhealed" }
 sources:
   - "races/Craven.md"
 review:

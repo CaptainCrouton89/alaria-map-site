@@ -5,6 +5,8 @@ entityType: race
 blurb: "Swamp-dwelling halflings of the Phirexes who transform toxic bog materials into alchemical expertise; optimists shaped by survived disaster."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
+  - { rel: culture, kind: worships, target: "daemon-phrelen" }
 sources:
   - "races/Halfling.md"
 review:

@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L549"]
 relations:
   - { rel: spatial, kind: within, target: "477" }
   - { rel: polity, kind: capitalOf, target: "477" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human kingdoms; royal governance (King Salomor, Prince Edric, Queen Alisandra) and named human political structures described" }
 review:
   aiWritten: true
   archetype: ai-ok

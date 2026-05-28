@@ -25,11 +25,11 @@ plus capitalOf-non-polity, both-ends-directed (one-direction-only violations), a
 exits 1 on any error-severity finding, so it works as a CI/agent gate; read its `-h` for the full
 check list and severity model.
 
-**Known baseline = `errors:2`** (catalogued pre-existing data issues, NOT introduced by current work):
-Lanwadanzi (id `1974`) has a dangling `borders` target `1862`, and Melthayn
-(`manual-mph65g7k-3fviw`) is `capitalOf` a wilderness (`1623`). "Clean" means *no new errors beyond
-these two* — if `errors` exceeds 2, you broke something this session. Warnings (~317, mostly
-both-ends-undirected borders + geographic orphans) are tracked, not gating.
+**Known baseline = `errors:0`** (updated 2026-05-28 — the two prior catalogued issues, Lanwadanzi's
+dangling `borders` target `1862` and Melthayn's `capitalOf` wilderness target `1623`, were resolved
+during recent M-file commits). "Clean" means *no new errors beyond zero* — if `errors` exceeds 0,
+you broke something this session. Warnings (~317, mostly both-ends-undirected borders + geographic
+orphans) are tracked, not gating.
 
 **Expand this linter over time.** It is meant to grow: when you notice a new graph invariant that
 should hold corpus-wide (a new edge-kind constraint, a containment rule, a date-ordering check once a

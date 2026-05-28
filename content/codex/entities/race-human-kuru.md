@@ -5,6 +5,7 @@ entityType: race
 blurb: "Southern humans who fuse with beast spirits through ancient skull rituals, gaining primal power and instincts at the cost of human speech."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-the-hide-lender" }
 sources:
   - "races/Human.md"
 review:

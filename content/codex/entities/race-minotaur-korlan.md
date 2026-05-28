@@ -5,6 +5,7 @@ entityType: race
 blurb: "Slaver minotaurs of the Tykos island chain who kept the Lorean's tactical genius and cold logic while inverting their protective ethos into systematized dominance."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-minotaur" }
+  - { rel: culture, kind: worships, target: "daemon-tareki", note: "doctrinally inverted — protection-as-captivity" }
 sources:
   - "races/Minotaur.md"
 review:

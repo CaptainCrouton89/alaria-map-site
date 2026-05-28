@@ -5,6 +5,8 @@ entityType: race
 blurb: "Ceremonious humans of Ve's northeastern plains who prize craft, family honor, and the careful ordering of daily life."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-khalweir", note: "Shyona reframes ancestors as plains-wind rather than tundra-frost" }
 sources:
   - "races/Human.md"
 review:

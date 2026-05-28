@@ -6,6 +6,8 @@ blurb: "Bleached-white orcs transformed by ancient ichor from the cursed Agony S
 aliases: ["Blood Orc"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-tytheraxi" }
 sources:
   - "races/Orc.md"
 review:

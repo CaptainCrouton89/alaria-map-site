@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L1866"]
 relations:
   - { rel: spatial, kind: within, target: "702" }
   - { rel: polity, kind: capitalOf, target: "702" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance and cultural evidence (Attla elders, Jaipon refugees with council, Alisandra's appointed governors)" }
 review:
   aiWritten: true
   archetype: ai-ok

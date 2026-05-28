@@ -5,6 +5,8 @@ entityType: race
 blurb: "Seafaring halflings who read probability currents; their navigators plot courses through possibility space and gamble with luck itself."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
+  - { rel: culture, kind: worships, target: "daemon-driftorf" }
 sources:
   - "races/Halfling.md"
 review:

@@ -5,6 +5,7 @@ entityType: race
 blurb: "Numerically dominant Lizardfolk of Da Trang's swamps, ruled by chieftain strength and brutality; battle scars are prized, weakness cast out."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }
+  - { rel: culture, kind: worships, target: "daemon-ixvranok" }
 sources:
   - "races/Lizardfolk.md"
 review:

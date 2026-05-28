@@ -8,6 +8,7 @@ zoomLevel: 4
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Rimihuica.md#L5859"]
 relations:
+  - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
   archetype: ai-ok

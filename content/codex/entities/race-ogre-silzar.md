@@ -6,6 +6,7 @@ blurb: "Nomadic plains ogres who master mounted warfare on war mammoths equipped
 aliases: ["Plains Ogre"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-ogre" }
+  - { rel: culture, kind: worships, target: "daemon-drom-the-patient-mountain", note: "lineage-proximity share — mammoth-cannon migration songs invoke him" }
 sources:
   - "races/Ogre.md"
 review:

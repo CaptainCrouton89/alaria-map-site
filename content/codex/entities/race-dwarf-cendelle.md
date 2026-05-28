@@ -6,6 +6,7 @@ blurb: "Ancient guardians of portals to Celesté beneath Dnykuul; millennia of p
 aliases: ["Celestial Draugr"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

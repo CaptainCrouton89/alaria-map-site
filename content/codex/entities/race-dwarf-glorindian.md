@@ -6,6 +6,8 @@ blurb: "Golden-eyed dwarves from eastern mountain gold mines with supernatural m
 aliases: ["Gold Eyes"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

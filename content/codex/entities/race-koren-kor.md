@@ -6,6 +6,7 @@ blurb: "The ruling class of Koren society, bound by intricate customs where ever
 aliases: ["Highborn"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-koren" }
+  - { rel: culture, kind: worships, target: "daemon-korn" }
 sources:
   - "races/Koren.md"
 review:

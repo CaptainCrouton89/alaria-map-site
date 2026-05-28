@@ -10,6 +10,7 @@ relations:
   - { rel: polity, kind: capitalOf, target: "3390" }
   - { rel: spatial, kind: within, target: "3390" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-qindo" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-shelwin" }
 review:
   aiWritten: true
   archetype: ai-ok

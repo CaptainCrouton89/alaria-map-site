@@ -3,6 +3,8 @@ id: "race-swordsmen"
 name: "Swordsmen"
 entityType: race
 blurb: "The Swordsmen are a notorious seafaring people whose name strikes fear into merchant vessels across the known seas."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-marolan" }
 sources:
   - "races/Swordsmen.md"
 review:

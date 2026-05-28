@@ -4,6 +4,9 @@ name: "Druids"
 entityType: faction
 blurb: "The Druids are the forefathers of elves, and are also known as 'greater elves'."
 tags: ["race"]
+relations:
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "nations_and_powers/factions/Druids.md"
 review:

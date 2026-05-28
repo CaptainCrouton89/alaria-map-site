@@ -6,6 +6,7 @@ blurb: "Clever, witty gnomes known as inventors, tricksters, and merchants; elus
 aliases: ["Hill Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-tixpi", note: "prankster gear inflection; shares Ohblex gemstone-mechanism patron" }
 sources:
   - "races/Gnome.md"
 review:

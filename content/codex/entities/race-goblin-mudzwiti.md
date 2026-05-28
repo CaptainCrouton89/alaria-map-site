@@ -5,6 +5,8 @@ entityType: race
 blurb: "Tribal jungle goblins adorned with bone piercings who ride utahraptors into battle and build elaborate tombs for their centuries-long-lived kings."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-goblin" }
+  - { rel: culture, kind: worships, target: "daemon-shak-shak" }
+  - { rel: culture, kind: worships, target: "daemon-mudzwa" }
 sources:
   - "races/Goblin.md"
 review:

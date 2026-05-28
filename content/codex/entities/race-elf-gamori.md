@@ -6,6 +6,7 @@ blurb: "Nocturnal jungle elves who ride giant bats on territorial raids; matriar
 aliases: ["Jungle Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-vaerivra" }
 sources:
   - "races/Elf.md"
 review:

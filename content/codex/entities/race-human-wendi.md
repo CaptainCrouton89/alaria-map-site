@@ -5,6 +5,8 @@ entityType: race
 blurb: "Strawberry-blonde drake-riding warriors who hurl lightning spears at giants and hold death-defying sky races, defined by flamboyant aerial courage."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-drashweir", note: "Wendi prays for the lightning, not the griffin" }
 sources:
   - "races/Human.md"
 review:

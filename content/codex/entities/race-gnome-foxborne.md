@@ -6,6 +6,7 @@ blurb: "Chivalric fox-riding gnomes of Cherry Blossom Valley, built around court
 aliases: ["Noble Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-the-bell-witness" }
 sources:
   - "races/Gnome.md"
 review:

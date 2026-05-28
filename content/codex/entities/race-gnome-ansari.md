@@ -6,6 +6,7 @@ blurb: "Blue-green skinned gnomes of the Pelican Isles; wary of strangers but su
 aliases: ["Sea Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-aneryxika" }
 sources:
   - "races/Gnome.md"
 review:

@@ -3,6 +3,8 @@ id: "race-tuktuk"
 name: "Tuktuk"
 entityType: race
 blurb: "The Tuktuk are a warrior culture of turtle-folk who have claimed the volcanic island of Tyvern as their ancestral home."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-tyvarn" }
 sources:
   - "races/Tuktuk.md"
 review:

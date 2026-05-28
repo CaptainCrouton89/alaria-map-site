@@ -43,7 +43,7 @@ Why it's structural, not decorative: when generation yields two conflicting fact
 
 ## The flip-side is an entangled second timeline
 
-The three-soul death continuously *feeds* the flip-side: every dead soul → Astral, every shadow → Malstaris. Material history and shadow/Celestia history are **causally coupled** (Lyzaria: First Death → The First Dark). Treat Malstaris/Celestia/Labyrinth history as a **parallel track that exchanges mass with the material one**, not a side wing. This coupling is genuinely original — lean on it.
+The three-soul death continuously *feeds* the flip-side: every dead soul → Astral, every shadow → Malstaris. Material history and shadow/Celestia history are **causally coupled** (Lyzaria: First Death → The First Dark). Treat Malstaris/Celestia/Labyrinth history as a **parallel track that exchanges mass with the material one**, not a side wing. Mass-exchange coupling itself has direct precedent (Glorantha's God Time/Time, Sandman's Dreaming↔waking); the three-part soul split has partial precedent (Egyptian *ren* / Pullman dæmon-ghost-spectre). What is genuinely original is the *specific synthesis*: the identity-bearer is the shortest-durability stream (ends when forgotten), and the worship/death/identity economies all route through one plane (Celestia). Lean on the Celestia configuration and the forgetting-extinction inversion — that is the load-bearing originality.
 
 ## Naming
 

@@ -6,6 +6,9 @@ blurb: "Eldest and most populous dwarven heritage, dispersed across Alaria throu
 aliases: ["Stout Dwarf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-kraselium" }
 sources:
   - "races/Dwarf.md"
 review:

@@ -6,17 +6,21 @@ blurb: "Isolationist wood elves with olive skin who blend into forests, emphasiz
 aliases: ["Wood Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-vaerivra" }
 sources:
   - "races/Elf.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Caerene have darker, more olive skin than their Zaelian and Amverela cousins, allowing them to more easily blend into the forests in which they usually live.
+The Caerene have darker, more olive skin than their Zaelian and Amverela cousins, allowing them to blend into forest shadow in ways the settled elves of the confederation never learned. They do not build in the ordinary sense. What counts as a Caerene village — a cluster of hammocks in the canopy, a shared cache of preserved food, a fire-circle used and abandoned — is invisible to anyone not already looking for it.
 
-Caerene are far more isolating than many other races, preferring to remain unbothered by the trivial, day-to-day grievances and turmoil of most life on Alaria. For that reason, most populations have found hard to reach or find locations as well as methods of hiding and blending in with their natural surroundings. An unobservant individual walking through the middle of a Caerene village may not even be aware anyone is around—so skillful are the Caerene.
+Most of the remaining Caerene range through the great forests of the western Farlands. Iyaklomori Grera, the vast trackless forest at the heart of Illron, holds more of them than any other single place — not because they claimed it, but because the forest repels everyone else. The Illronese confederation knows the Caerene exist. They do not speak of them, in the same way they do not speak of other things in the forest that predate the fae treaty.
 
-Most Caerene culture emphasizes finding balance in nature, and preserving that balance. They place a lot of significance on fate, fairness, and immediate justice. There are no second chances in Caerene culture.
+The Caerene are remnants. Their people were once more numerous, in an era before the three elven kingdoms were settled, before the Landsmeet was constituted, before the fae treaty was inked. What happened to reduce them to scattered wanderers with no capital and no state is not recorded in any elven archive — the Caerene do not keep written records, and the federation's histories begin only at the treaty. What survives is what the Caerene carry: an ethics of immediate justice, no second chances, and no tolerance for the accumulated noise of settled life.
+
+Caerene culture places significance on fate and balance, but not in the abstract way the confederation elves discuss it. For the Caerene, balance is a physical practice — a matter of taking nothing that cannot be replaced, leaving no trace that survives you, and meeting a wrong with a response that ends it. There are no courts. There is no appeal. An individual walking through a Caerene grove may never know anyone was watching.
 
 #### Aspects
 - Perceptive and stealthy

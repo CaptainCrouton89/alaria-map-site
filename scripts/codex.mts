@@ -613,6 +613,7 @@ Checks
   danglingTargets      (error)   relation targets that do not exist in the index (surfaced from build's silent skip)
   capitalOfNonPolity   (error)   capitalOf edges whose target entityType is not region/nation/faction
   bothEndsDirected     (error)   directed edge kinds authored in both directions (violates one-direction-only discipline)
+  worshipsTargetType   (error)   worships edges whose target is not a daemon or a titan-tagged creature
   bothEndsUndirected   (warning) undirected edge kinds (borders, separatedBy) authored on both ends — redundant but harmless
   orphansGeographic    (warning) geographic entities (region/town/city/water/wilderness/ruins/fortress/poi) with no within edge
   orphansNonGeographic (info)    non-geographic entities with no within edge — expected; count only, not enumerated
@@ -627,8 +628,8 @@ Limitations
   capital-predates-polity checks are not implementable without a structured era ordering (future schema work).
 
 Output (JSON)
-  { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, bothEndsUndirected,
-    orphansGeographic, orphansNonGeographic }, limitations }
+  { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, worshipsTargetType,
+    bothEndsUndirected, orphansGeographic, orphansNonGeographic }, limitations }
 `);
 
   interface Finding { source: string; sourceName: string; kind: string; target?: string; detail: string }
@@ -716,7 +717,35 @@ Output (JSON)
     }
   }
 
-  // Check 4 — orphan sweep
+  // Check 4 — worships target type
+  // worships edges wire cultures to the daemon pantheon; the one sanctioned exception is veneration
+  // of a worshipped primordial titan (the Elves of the Gray Order worship creature-hykravones, a
+  // sleeping titan — a titan-cult). This converts a verbal convention into a machine-checked invariant.
+  interface WorshipsTypeFinding { source: string; target: string; targetEntityType: string }
+  const worshipsTypeFindings: WorshipsTypeFinding[] = [];
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (String(r.kind ?? r.rel ?? '') !== 'worships') continue;
+      if (r.target === undefined) continue;
+      const tid = String(r.target);
+      const tgt = index.get(tid);
+      if (!tgt) {
+        // dangling — already caught by check 1, record as error here too
+        worshipsTypeFindings.push({ source: String(e.data.id), target: tid, targetEntityType: 'unknown (dangling)' });
+        continue;
+      }
+      const tgtType = String(tgt.data.entityType ?? '');
+      const tgtTags = Array.isArray(tgt.data.tags) ? (tgt.data.tags as unknown[]).map(String) : [];
+      const isDaemon = tgtType === 'daemon';
+      const isTitan = tgtType === 'creature' && tgtTags.includes('titan');
+      if (!isDaemon && !isTitan) {
+        worshipsTypeFindings.push({ source: String(e.data.id), target: tid, targetEntityType: tgtType });
+      }
+    }
+  }
+
+  // Check 5 — orphan sweep
   const orphanGeoFindings: Finding[] = [];
   let orphanNonGeoCount = 0;
   for (const e of entities) {
@@ -734,7 +763,7 @@ Output (JSON)
     }
   }
 
-  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length;
+  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length;
   const warnings = bothUndirectedFindings.length + orphanGeoFindings.length;
 
   emit({
@@ -742,11 +771,12 @@ Output (JSON)
     errors,
     warnings,
     checks: {
-      danglingTargets:     { severity: 'error',   count: danglingFindings.length,       findings: danglingFindings },
-      capitalOfNonPolity:  { severity: 'error',   count: capitalFindings.length,         findings: capitalFindings },
-      bothEndsDirected:    { severity: 'error',   count: bothDirectedFindings.length,    findings: bothDirectedFindings },
-      bothEndsUndirected:  { severity: 'warning', count: bothUndirectedFindings.length,  findings: bothUndirectedFindings },
-      orphansGeographic:   { severity: 'warning', count: orphanGeoFindings.length,       findings: orphanGeoFindings },
+      danglingTargets:     { severity: 'error',   count: danglingFindings.length,          findings: danglingFindings },
+      capitalOfNonPolity:  { severity: 'error',   count: capitalFindings.length,            findings: capitalFindings },
+      bothEndsDirected:    { severity: 'error',   count: bothDirectedFindings.length,       findings: bothDirectedFindings },
+      worshipsTargetType:  { severity: 'error',   count: worshipsTypeFindings.length,       findings: worshipsTypeFindings },
+      bothEndsUndirected:  { severity: 'warning', count: bothUndirectedFindings.length,     findings: bothUndirectedFindings },
+      orphansGeographic:   { severity: 'warning', count: orphanGeoFindings.length,          findings: orphanGeoFindings },
       orphansNonGeographic:{ severity: 'info',    count: orphanNonGeoCount },
     },
     limitations: ['date-sanity: no structured date fields — see plan'],

@@ -2,7 +2,7 @@
 id: "1623"
 name: "M'Svyla"
 aliases: ["The Forest", "M'Syvla"]
-entityType: wilderness
+entityType: region
 blurb: "A two-hundred-mile stretch of temperate forest running east from the Crystal Mountains into the Central Aboyinzu grasslands."
 coordinates: [266, 443]
 zoomLevel: 3

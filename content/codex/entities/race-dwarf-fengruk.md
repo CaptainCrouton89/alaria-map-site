@@ -6,6 +6,8 @@ blurb: "Sacred smiths of Gondurak who treat the forge as a life metaphor; patien
 aliases: ["Forgewardens"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

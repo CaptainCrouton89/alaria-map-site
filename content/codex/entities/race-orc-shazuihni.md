@@ -6,6 +6,7 @@ blurb: "Hairy, ferocious boar-riding orcs whose brutal simplicity and giant moun
 aliases: ["Boar Rider"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
 sources:
   - "races/Orc.md"
 review:

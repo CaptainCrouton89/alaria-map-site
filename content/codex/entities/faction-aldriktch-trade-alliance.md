@@ -4,6 +4,8 @@ name: "Aldriktch Trade Alliance"
 entityType: faction
 blurb: "The Aldriktch Trade Alliance is an agreement between Erasnus, Watar, Myorna, Camaran, Bestacia, and Ubrik that dictates open trade routes between the countries."
 tags: ["faction"]
+relations:
+  - { rel: culture, kind: worships, target: "daemon-xalvaakr" }
 sources:
   - "nations_and_powers/states/Aldriktch Trade Alliance.md"
 review:

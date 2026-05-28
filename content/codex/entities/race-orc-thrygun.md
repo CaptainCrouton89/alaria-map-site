@@ -6,6 +6,8 @@ blurb: "Blue-skinned, red-haired wild orcs of the White Hills; the most primal o
 aliases: ["Wild Orc"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-thrygar" }
 sources:
   - "races/Orc.md"
 review:

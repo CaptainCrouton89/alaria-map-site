@@ -6,6 +6,7 @@ blurb: "Feral Koren who embrace their predatory nature, living by instinct in lo
 aliases: ["Wildborn"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-koren" }
+  - { rel: culture, kind: worships, target: "daemon-korn" }
 sources:
   - "races/Koren.md"
 review:

@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Upoceax.md#L277"]
 relations:
   - { rel: spatial, kind: within, target: "3342" }
   - { rel: spatial, kind: borders, target: "3388", note: "SW" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; city-state governance (harbor council families, legendary smiths, merchant trade) described; no non-human race indicated" }
 review:
   aiWritten: true
   archetype: ai-ok

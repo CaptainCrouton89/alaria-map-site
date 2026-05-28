@@ -6,6 +6,7 @@ blurb: "Pearl-iridescent Kendor masters of etiquette and social manipulation who
 aliases: ["Court Kendor"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-kendor" }
+  - { rel: culture, kind: worships, target: "daemon-velaendor" }
 sources:
   - "races/Kendor.md"
 review:

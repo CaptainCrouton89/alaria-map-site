@@ -6,6 +6,7 @@ blurb: "Wandering caravan dwarves whose culture centers on music, storytelling, 
 aliases: ["Chord Dwarves"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 sources:
   - "races/Dwarf.md"
 review:

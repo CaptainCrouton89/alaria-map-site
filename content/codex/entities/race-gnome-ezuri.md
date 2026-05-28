@@ -6,6 +6,7 @@ blurb: "Tree-dwelling gnomes who fled jungle disease into the canopy; value conn
 aliases: ["Tree Gnome"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-bexlex", note: "canopy-fire-respect; shares Neka jungle-flame patron" }
 sources:
   - "races/Gnome.md"
 review:

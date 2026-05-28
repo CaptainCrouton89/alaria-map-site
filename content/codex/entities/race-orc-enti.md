@@ -5,6 +5,8 @@ entityType: race
 blurb: "Northern orc slavers and raiders who trade captives for furs and gold, living by the belief that might makes right."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-entashri" }
 sources:
   - "races/Orc.md"
 review:

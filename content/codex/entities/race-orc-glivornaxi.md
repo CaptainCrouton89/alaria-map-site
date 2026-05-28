@@ -6,6 +6,8 @@ blurb: "Guardians of the regenerative Plenjorn Swamp, muddy-green-skinned spear-
 aliases: ["Gray Orc"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-thrygar", note: "wilderness aspect; swamp-guardian role" }
 sources:
   - "races/Orc.md"
 review:

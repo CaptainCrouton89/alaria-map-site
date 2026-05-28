@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Rimihuica.md#L2934"]
 relations:
   - { rel: spatial, kind: within, target: "2758" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance (councils, merchant guilds, Federal Council, merchant families) and civic structures" }
 review:
   aiWritten: true
   archetype: ai-ok

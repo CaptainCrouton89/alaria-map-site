@@ -9,6 +9,7 @@ tags: ["city-state", "nation", "neutral"]
 sources: ["all_sections_formatted/Aboyinzu.md#L2840"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human states; named human governance (Regent-Queen Mwenekazi, capital cities, confederation councils, old families described)" }
 ---
 A city-state at the heart of Mikisapi Forest, built around an ancient grove that the trees have never reclaimed. Tenches controls the only safe maritime route between Central Aboyinzu and the South Sea, and has parlayed that position into wealth, influence, and careful neutrality.
 

@@ -5,6 +5,9 @@ entityType: race
 blurb: "Siege-adapted mountain dwarves of the central Widebarrow; their concentric capital and deep-debt rotations are built around the generational Lyzine threat."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-dromgar" }
 sources:
   - "races/Dwarf.md"
 review:

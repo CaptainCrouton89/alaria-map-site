@@ -9,6 +9,9 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
 ---
 The First Brotherhood is the name given to the first dwarves, and the coalition they formed. At a time when the world was far more dangerous, even dwarves who left the clan to form their own settlement had to remain part of the brotherhood—sworn to the preservation of dwarves and the dwarven way.
 

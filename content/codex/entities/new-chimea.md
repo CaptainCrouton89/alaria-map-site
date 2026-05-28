@@ -15,6 +15,7 @@ review:
 relations:
   - { rel: spatial, kind: within, target: "2857" }
   - { rel: spatial, kind: borders, target: "3037", note: "west" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human settlements; named human governance (councils, merchant guilds, Federal Council, merchant families) and civic structures" }
 ---
 New Chimea occupies the northeastern corner of the Jungles of Godahi, unique among the five jungle nations for its extensive coastline and direct access to ocean trade. The nation spans the Seawatch Mountains, with settlements scattered across both the jungle interior and the coastal lowlands.
 

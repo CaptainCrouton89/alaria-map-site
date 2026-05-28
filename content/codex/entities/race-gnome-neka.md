@@ -6,6 +6,7 @@ blurb: "Dark-skinned jungle gnomes of the Nekanzi, masters of fire magic and ora
 aliases: ["Wild Gnomes"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
+  - { rel: culture, kind: worships, target: "daemon-bexlex" }
 sources:
   - "races/Gnome.md"
 review:

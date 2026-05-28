@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3388", note: "N" }
   - { rel: spatial, kind: borders, target: "3465", note: "S, across Iqes Sound" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-qindo" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-shelwin" }
 review:
   aiWritten: true
   archetype: ai-ok

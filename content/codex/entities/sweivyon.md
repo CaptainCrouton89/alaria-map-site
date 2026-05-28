@@ -9,6 +9,7 @@ tags: ["city-state", "settlement", "silver-slopes"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8038"]
 relations:
   - { rel: spatial, kind: within, target: "2201" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human states; named human governance (Regent-Queen Mwenekazi, capital cities, confederation councils, old families described)" }
 ---
 A city-state of approximately twelve thousand occupying a defensible shelf between two peaks in the Silver Slopes. The city controls the region's richest silver deposits and dominates the precious metal trade throughout the southern Dragon's Spine.
 

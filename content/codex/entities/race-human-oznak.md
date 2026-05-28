@@ -5,6 +5,8 @@ entityType: race
 blurb: "Proud, fiercely competitive humans of Central North Alaria whose culture revolves around mastery of the blade and skill earned without cutting corners."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-khravobi", note: "Oznak worship is competitive test-of-skill; Shontobi is sworn-companion-discipline" }
 sources:
   - "races/Human.md"
 review:

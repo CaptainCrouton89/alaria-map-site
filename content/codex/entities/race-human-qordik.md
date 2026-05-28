@@ -5,6 +5,8 @@ entityType: race
 blurb: "Tall, powerful humans of the Free Isles believed to carry giant blood; feared traders and master sailors of the southern seas."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-krazhaya" }
 sources:
   - "races/Human.md"
 review:

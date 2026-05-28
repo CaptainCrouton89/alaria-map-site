@@ -6,6 +6,9 @@ blurb: "Gray-blue, frizzy orange-haired tundra dwarves who abandoned mines for t
 aliases: ["Tundra Dwarf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
+  - { rel: culture, kind: worships, target: "daemon-krondeum" }
+  - { rel: culture, kind: worships, target: "daemon-gromnuul" }
+  - { rel: culture, kind: worships, target: "daemon-trondmar" }
 sources:
   - "races/Dwarf.md"
 review:

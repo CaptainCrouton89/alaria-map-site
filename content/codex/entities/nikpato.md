@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L4575"]
 relations:
   - { rel: spatial, kind: within, target: "1864" }
   - { rel: spatial, kind: borders, target: "1988", note: "south" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human states; named human governance (Regent-Queen Mwenekazi, capital cities, confederation councils, old families described)" }
 review:
   aiWritten: true
   archetype: ai-ok

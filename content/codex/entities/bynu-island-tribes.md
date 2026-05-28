@@ -71,6 +71,8 @@ The boundary islands where the twilight first begins. These are the most dangero
 
 Warning signs dot the outer islands: stakes with skulls, wrecked ships deliberately left visible, symbols painted in what might be blood. The Xicrein make clear that their border is defended.
 
+The only outsiders who linger are Drachma. A few families of the seafaring humans keep a trading camp at the twilight's edge, suffered there under an old truce, bartering iron and the news the Xicrein cannot gather any other way. They do not sail deeper, and they do not ask to.
+
 **The Grim Nautili**
 
 South of the main archipelago lies a region called the Grim Nautili—a scattered cluster of rocks and small islands where the Xicrein dispose of their kills. Bones, wrecks, and rotting cargo float in the dark water. Ships passing too close can smell death before they see it.

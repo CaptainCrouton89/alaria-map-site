@@ -5,6 +5,8 @@ entityType: race
 blurb: "Dual-lidded desert people of Sheîr who prize water above all else and see clearly through the fiercest sandstorms."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-zarn-ik" }
 sources:
   - "races/Human.md"
 review:

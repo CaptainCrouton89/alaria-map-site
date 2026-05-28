@@ -6,6 +6,8 @@ blurb: "Forest-bonded orcs whose dead become trees; bark-skinned and centuries-w
 aliases: ["Wooden Men"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-uihona" }
 sources:
   - "races/Orc.md"
 review:

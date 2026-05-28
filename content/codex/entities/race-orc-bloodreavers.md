@@ -5,6 +5,8 @@ entityType: race
 blurb: "Blood-tattooed orcs of Bloodwood who honor the dead by staining armor and weapons with blood; fiercely protective despite their fearsome appearance."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-orc" }
+  - { rel: culture, kind: worships, target: "daemon-krovaxi" }
+  - { rel: culture, kind: worships, target: "daemon-hrugobbi" }
 sources:
   - "races/Orc.md"
 review:

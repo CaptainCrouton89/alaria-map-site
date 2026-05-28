@@ -9,6 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L70"]
 relations:
   - { rel: spatial, kind: within, target: "1395" }
   - { rel: polity, kind: capitalOf, target: "1395" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -5,6 +5,7 @@ entityType: race
 blurb: "Tactically brilliant Minotaur commanders who place duty and protection of others above all; logic governs every decision while emotion is suppressed."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-minotaur" }
+  - { rel: culture, kind: worships, target: "daemon-tareki" }
 sources:
   - "races/Minotaur.md"
 review:

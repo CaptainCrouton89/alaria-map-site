@@ -5,6 +5,8 @@ entityType: race
 blurb: "Colonial halflings of the Greenwater Isles who built a mercantile empire on emptied land and do not speak of who lived there before."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen" }
+  - { rel: culture, kind: worships, target: "daemon-olisea" }
 sources:
   - "races/Halfling.md"
 review:

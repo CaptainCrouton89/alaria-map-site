@@ -6,6 +6,8 @@ blurb: "Forest-merged elves whose skin shifts with seasons; a culture of radical
 aliases: ["Moss Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "races/Elf.md"
 review:

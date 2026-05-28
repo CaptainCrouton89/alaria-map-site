@@ -5,6 +5,8 @@ entityType: race
 blurb: "Bronze-skinned sky knights of Breia who form sacred bonds with griffins from childhood and live in high-altitude mountain citadels."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
+  - { rel: culture, kind: worships, target: "daemon-velarion" }
+  - { rel: culture, kind: worships, target: "daemon-drashweir" }
 sources:
   - "races/Human.md"
 review:

@@ -6,6 +6,8 @@ blurb: "Underground elves who fled dragon Ural; void-attuned with light-absorbin
 aliases: ["Quill Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
 sources:
   - "races/Elf.md"
 review:

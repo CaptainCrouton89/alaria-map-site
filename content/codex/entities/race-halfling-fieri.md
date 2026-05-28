@@ -5,6 +5,10 @@ entityType: race
 blurb: "Underground halflings of Hell Creek in Chimea who built civilization from molten stone, believing they were chosen by the fires below."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
+  - { rel: culture, kind: worships, target: "daemon-nellwen", note: "pan-halfling hearth" }
+  - { rel: culture, kind: worships, target: "daemon-glutheim", note: "primary, molten-stone" }
+  - { rel: culture, kind: worships, target: "daemon-ash-bearer", note: "syncretic-share" }
+  - { rel: culture, kind: worships, target: "daemon-ash-bearer", note: "syncretic-share, secondary — war-witness rising daemon of Chimean invasion survivors" }
 sources:
   - "races/Halfling.md"
 review:

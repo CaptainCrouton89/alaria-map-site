@@ -3,6 +3,8 @@ id: "race-gyv"
 name: "Gyv"
 entityType: race
 blurb: "The Gyv are the puppet masters of Iylovia, a race whose very presence makes others question their own thoughts."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-velyv" }
 sources:
   - "races/Gyv.md"
 review:

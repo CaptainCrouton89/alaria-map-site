@@ -3,6 +3,8 @@ id: "race-centaur"
 name: "Centaur"
 entityType: race
 blurb: "The Centaurs of Siquestrya are a proud and volatile race, possessing the upper bodies of humanoids and the lower bodies of powerful horses."
+relations:
+  - { rel: culture, kind: worships, target: "daemon-selvauria" }
 sources:
   - "races/Centaur.md"
 review:

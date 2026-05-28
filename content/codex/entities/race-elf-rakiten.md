@@ -6,6 +6,9 @@ blurb: "Towering bronze-skinned plains elves who communicate exclusively through
 aliases: ["Plains Elf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
+  - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
+  - { rel: culture, kind: worships, target: "daemon-aelwennar" }
+  - { rel: culture, kind: worships, target: "daemon-vaeloten" }
 sources:
   - "races/Elf.md"
 review:
