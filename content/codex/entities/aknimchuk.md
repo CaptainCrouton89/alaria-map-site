@@ -14,7 +14,7 @@ review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Coherent, on-theme. Coords [409,42] NW match 'northwestern' placement; volcanic Ashy Mtns south / frozen Scheyolonae north, Smokey Bay harbor, Iceburn Lakes all consistent with map sub-features. Sub-region; own worker to detail interior."
+  notes: ""
 ---
 Aknimchuk is the largest island at the far north of the Northern Isles, and the only one that holds any warmth at all. Volcanic fire heats its southern half. The rest is ice. No one lives here. The island is too far north to farm and too violent underfoot to rest on, and the handful who tried to stay are remembered, if at all, as a warning told in southern harbors.
 

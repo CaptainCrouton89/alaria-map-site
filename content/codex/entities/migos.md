@@ -13,7 +13,7 @@ review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Migos is well-developed: Vethrani mountain folk, Iypos harbor city-state, dual identity island. The tension between Iypos Council and Vethrani is compelling. Named features (Mount Iypos, Knife Ridge, Harbor Bay) all coherent."
+  notes: ""
 ---
 A small island of rough rock and thin soil in the northern Western Isles, easier to sail past than to hold. Its one anchorage worth the name belongs to the city-state of Iypos, which is reason enough for everyone to deal with Iypos and reason enough that no one has bothered to take the rest.
 

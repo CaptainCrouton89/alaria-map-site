@@ -2,7 +2,7 @@
 id: "4262"
 name: "Iypos"
 entityType: city
-blurb: "The dominant city-state on the island of Migos—a trading hub built on the lower slopes of Mount Iypos, controlling the only significant harbor on the…"
+blurb: "The dominant city-state on the island of Migos—a trading hub perched on the southeastern crag, controlling the island's only sheltered deepwater harbor."
 coordinates: [82, 166]
 zoomLevel: 4
 tags: ["city", "state", "nation"]
@@ -15,27 +15,27 @@ review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Iypos is well-built as a trading city-state on Migos. Harbor Council/Harbor Master Theodras is a strong political setup. Vethrani relationship is internally consistent with Migos entry. Temple of the Mountain dual-faith detail adds texture."
+  notes: "Iypos is well-built as a trading city-state on Migos. Harbor Council/Harbor Master Theodras is a strong political setup. Aggressive neutrality framing is consistent with the Migos entry."
 ---
-The dominant city-state on the island of Migos—a trading hub built on the lower slopes of Mount Iypos, controlling the only significant harbor on the largest island in the northern Western Isles.
+The dominant city-state on the island of Migos—a trading hub perched on the southeastern crag, controlling the island's only sheltered deepwater harbor and by that fact the island's only real worth.
 
 ### Position
 
-Iypos occupies the southeastern coast of Migos, where Harbor Bay provides the only accessible anchorage on the island. The city climbs the mountain slopes in terraces, from the waterfront markets to the upper districts where the wealthiest families build their compounds.
+Iypos occupies the southeastern coast of Migos, where the harbor provides the only accessible anchorage on the island. The city climbs the crag in terraces, from the waterfront markets to the upper districts where the wealthiest families have built their compounds into the rock.
 
 ### The City
 
 **Population**: ~15,000
 
-Iypos is built vertically. The waterfront handles commerce—docks, warehouses, markets, taverns for sailors. Above that, craftspeople and traders live in stacked buildings connected by staircases and rope bridges. Higher still, the wealthy maintain compounds with views across the harbor. The temple district occupies a plateau partway up Mount Iypos.
+Iypos is built vertically. The waterfront handles commerce—docks, warehouses, markets, taverns for sailors. Above that, craftspeople and traders live in stacked buildings connected by staircases and rope bridges. Higher still, the wealthy maintain compounds with views across the harbor and the open water beyond.
 
 **Notable Features:**
 
-- **The Long Docks**: Extending into Harbor Bay, capable of handling dozens of ships simultaneously
-- **The Terrace Markets**: Commercial district climbing the lower slopes in stepped levels
+- **The Long Docks**: Extending into the harbor, capable of handling dozens of ships simultaneously
+- **The Terrace Markets**: Commercial district climbing the lower crag in stepped levels
 - **The Rope Ways**: Networks of bridges and lifts connecting different city levels
-- **The Upper Compounds**: Wealthy family homes built for defensibility as much as comfort
-- **Temple of the Mountain**: Where the city's patron spirits (mountain and sea) are honored together
+- **The Upper Compounds**: Wealthy family homes built into the rock for defensibility as much as comfort
+- **The Harbor Shrines**: Small shrines to sea-spirits scattered through the waterfront district, where sailors pay respects before departure and give thanks on return
 
 ### Government
 
@@ -47,9 +47,7 @@ The Council controls:
 - Harbor access and fees
 - Trade agreements and tariffs
 - The city militia
-- Relations with the Vethrani mountain folk
-
-What the Council doesn't control: the mountains. The Vethrani govern themselves and consider Iypos a convenient market, not a government.
+- Relations with the fishing settlements at Peri Selir and Toilir on the western shore
 
 ### Economy
 
@@ -58,30 +56,20 @@ Iypos exists because of geography. Every ship traveling between the Iron Sea and
 **Major Industries:**
 - **Maritime services**: Repairs, resupply, crew hiring
 - **Trade brokerage**: Connecting buyers and sellers across the Western Isles
-- **Mountain goods**: Processing and exporting what the Vethrani bring down
+- **Fish trade**: Processing and brokering the catch from the western-shore settlements
 - **Information**: Iypos merchants know shipping routes, cargo values, and who's doing business with whom
 
-### The Vethrani Relationship
+### The Fishing Shore
 
-The mountain folk tolerate Iypos because it's useful. They bring highland products—rare herbs, mountain furs, minerals—to trade for lowland goods they can't produce. They use Iypos merchants to sell to the outside world.
-
-But they don't consider themselves part of Iypos. They maintain separate identity, separate governance, and separate territory. The Council knows better than to claim authority over the mountains.
-
-**The Arrangement:**
-- Vethrani can trade freely in designated market areas
-- Iypos provides coastal defense that benefits the whole island
-- Neither side interferes in the other's internal affairs
-- Both sides unite against external threats
-
-This works because both sides benefit. When it stops working, Migos will tear itself apart.
+Peri Selir and Toilir sit on sheltered coves on the western coast, drying and salting their catch and sending what they can spare around to Iypos's markets by boat. The arrangement is straightforward: Iypos pays the market price and asks for nothing else. The settlements answer to their own tides; Iypos is the only buyer who can move volume.
 
 ### Military
 
-Iypos maintains a professional militia focused on harbor defense and keeping order in the city. They're adequate for pirates and street crime; they couldn't hold the mountains against the Vethrani and don't try.
+Iypos maintains a professional militia focused on harbor defense and keeping order in the city. They are adequate for pirates and street crime.
 
 **Militia Size**: ~800 regulars plus reserves
 
-The real military value of Migos is the mountains themselves. Any invader who takes the harbor still has to deal with the Vethrani—and no one has ever managed that.
+The real defense of Migos is the island itself. The broken interior crag punishes any force that tries to march across it, and there is nothing in the interior worth taking. An invader who seizes the harbor still owns only a harbor—the stone holds the rest and rewards no one for the trouble.
 
 ### Politics
 
@@ -89,27 +77,14 @@ Iypos practices aggressive neutrality. They trade with everyone, ally with no on
 
 **Current Tensions:**
 - Sheîr wants closer ties (Iypos suspects this means eventual absorption)
-- Knova wants training access to the mountains (the Vethrani refuse)
 - Various powers want preferential trade arrangements (Iypos offers the same terms to everyone)
 
 Harbor Master Theodras navigates these pressures by being useful to everyone and committed to no one. This makes Iypos valuable and frustrating in equal measure.
-
-### The Temple of the Mountain
-
-The city's main religious site honors both the mountain spirits (Vethrani tradition) and sea spirits (coastal tradition). This dual worship reflects Iypos's position between two worlds.
-
-The temple maintains:
-- Priests from both traditions working together
-- Neutral ground where Vethrani and city folk meet as equals
-- Weather prediction services valuable to sailors and mountain travelers alike
-- Funeral rites that satisfy both cultures
-
-The Temple's priests have diplomatic immunity in Vethrani territory—one of the few groups that can move freely through the mountains.
 
 ### What Brings People Here
 
 - **Trade**: The major commercial hub for the northern Western Isles
 - **Supplies**: Ships traveling between the Iron Sea and Shattered Sea stop for resupply
-- **Mountain Access**: The only reasonable approach to Migos's interior (if the Vethrani allow it)
-- **Information**: Iypos merchants know what's happening across the region
+- **Repairs**: The best dry-dock facilities within several days' sail
+- **Information**: Iypos merchants know what is happening across the region
 - **Neutrality**: A place to do business without political entanglement
