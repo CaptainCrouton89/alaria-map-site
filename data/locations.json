@@ -692,6 +692,7 @@
     "relatedIds": [
       "981",
       "race-myushli",
+      "race-elnir",
       "775",
       "1079",
       "1114",
@@ -1402,7 +1403,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A thousand-mile island running northeast to southwest, split in half by geography and politics alike.",
-    "containsCount": 28
+    "containsCount": 29
   },
   {
     "id": "manual-pherezi-imnuttut",
@@ -3460,6 +3461,7 @@
       "3902",
       "race-ulvsjael-ulvsein",
       "race-ulvsjael-ulvskyn",
+      "race-elnir",
       "3833",
       "3952",
       "manual-mpih90gt-yf36d",
@@ -4121,7 +4123,8 @@
     "zoomLevel": 2,
     "parentId": "1248",
     "relatedIds": [
-      "1248"
+      "1248",
+      "race-elnir"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -4854,6 +4857,7 @@
     "relatedIds": [
       "981",
       "race-grayls",
+      "race-elnir",
       "1187",
       "1127",
       "1158",
@@ -4956,6 +4960,7 @@
     "parentId": "1248",
     "relatedIds": [
       "1248",
+      "race-elnir",
       "905",
       "1265",
       "2395",
@@ -7317,6 +7322,7 @@
     "relatedIds": [
       "3902",
       "creature-ezra-olkanis",
+      "race-elnir",
       "3952",
       "4009",
       "3997",
@@ -7374,7 +7380,8 @@
     "zoomLevel": 3,
     "parentId": "manual-pherezi-imnuttut",
     "relatedIds": [
-      "manual-pherezi-imnuttut"
+      "manual-pherezi-imnuttut",
+      "race-elnir"
     ],
     "tags": [],
     "atmosphere": "nature",
@@ -7936,6 +7943,7 @@
       "manual-mpjrcf71-enapy",
       "creature-surrey-mahaila",
       "race-dwelyn",
+      "race-elnir",
       "2651",
       "2843",
       "2712",
@@ -8757,6 +8765,7 @@
       "creature-pythalomos",
       "creature-senwyn-the-agonizer",
       "race-naruaghin",
+      "race-elnir",
       "creature-monsters"
     ],
     "loreFile": "Rimihuica.md",
@@ -9089,6 +9098,7 @@
     "relatedIds": [
       "3178",
       "race-gnome-ezuri",
+      "race-elnir",
       "2912",
       "race-skaag"
     ],
@@ -9600,6 +9610,7 @@
     "parentId": "1214",
     "relatedIds": [
       "1214",
+      "race-elnir",
       "1288"
     ],
     "loreFile": "Clueanda.md",
@@ -9688,6 +9699,36 @@
     "atmosphere": "nature",
     "blurb": "Home to Greater Satyr",
     "parentName": "Satyr Lands"
+  },
+  {
+    "id": "nation-kosko",
+    "name": "Kosko",
+    "type": "region",
+    "coordinates": [
+      202,
+      370
+    ],
+    "zoomLevel": 3,
+    "parentId": "3275",
+    "relatedIds": [
+      "3275",
+      "3337",
+      "race-bogies",
+      "77"
+    ],
+    "loreFile": "Kosko.md",
+    "tags": [
+      "state"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A Bogie state on Pesalolo, immediately south of Tamadrez in the Shacklands.",
+    "parentName": "Pesalolo",
+    "borders": [
+      {
+        "id": "3337",
+        "name": "Tamadrez"
+      }
+    ]
   },
   {
     "id": "211",
@@ -13678,7 +13719,9 @@
     ],
     "zoomLevel": 3,
     "parentId": null,
-    "relatedIds": [],
+    "relatedIds": [
+      "region-the-wastes"
+    ],
     "tags": [
       "region",
       "desert",
@@ -15156,6 +15199,7 @@
     "relatedIds": [
       "494",
       "race-gnome",
+      "region-zylogmus-eternus",
       "plane-material-plane",
       "magic-time"
     ],
@@ -16849,6 +16893,7 @@
     "parentId": "3793",
     "relatedIds": [
       "3793",
+      "race-human-wendi",
       "3827",
       "4054",
       "3824",
@@ -16859,9 +16904,11 @@
       "manual-mpih8fq8-0fw4h",
       "manual-mpih89q3-hlshb",
       "manual-mpih7trf-rj2np",
+      "creature-drakes",
       "manual-mpih81e9-hjwig",
       "manual-mpih7l0k-xdup0",
       "magic-force",
+      "race-human",
       "magic-fire",
       "magic-time",
       "manual-mpih87b3-wquv1"
@@ -23370,7 +23417,8 @@
     "zoomLevel": 4,
     "parentId": "manual-pherezi-imnuttut",
     "relatedIds": [
-      "manual-pherezi-imnuttut"
+      "manual-pherezi-imnuttut",
+      "race-elnir"
     ],
     "tags": [],
     "atmosphere": "nature",
@@ -25793,7 +25841,8 @@
     "zoomLevel": 4,
     "parentId": "manual-pherezi-imnuttut",
     "relatedIds": [
-      "manual-pherezi-imnuttut"
+      "manual-pherezi-imnuttut",
+      "race-elnir"
     ],
     "tags": [],
     "atmosphere": "nature",
@@ -28057,6 +28106,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
+      "race-elnir",
       "1172",
       "creature-twaan",
       "race-human"
@@ -30593,6 +30643,7 @@
       "1346",
       "manual-mpigkj97-ecmrs",
       "1355",
+      "region-the-wastes",
       "1358",
       "magic-time"
     ],
@@ -38496,6 +38547,7 @@
       "creature-stalactites-of-geth",
       "2712",
       "4389",
+      "region-the-wastes",
       "plane-malstaris",
       "race-naruaghin",
       "magic-deoric",
@@ -39520,6 +39572,7 @@
     "zoomLevel": 5,
     "parentId": null,
     "relatedIds": [
+      "region-zylogmus-eternus",
       "manual-mplrk736-up4t5",
       "4369",
       "magic-water",
@@ -39760,7 +39813,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -40149,7 +40203,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -41083,7 +41138,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -41420,7 +41476,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -41644,6 +41701,7 @@
       "3793",
       "3807",
       "4054",
+      "region-the-wastes",
       "3902",
       "3662",
       "race-goblin",
@@ -41992,7 +42050,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -45199,7 +45258,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -46309,7 +46369,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -48547,7 +48608,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -49604,7 +49666,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -49771,7 +49834,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -50006,7 +50070,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -51760,7 +51825,8 @@
     "zoomLevel": 5,
     "parentId": "3337",
     "relatedIds": [
-      "3337"
+      "3337",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -52571,7 +52637,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -52588,7 +52655,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -54379,7 +54447,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -55831,7 +55900,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -60431,7 +60501,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -61370,7 +61441,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -62152,7 +62224,8 @@
     "relatedIds": [
       "4054",
       "3807",
-      "4019"
+      "4019",
+      "region-the-wastes"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -62929,6 +63002,7 @@
       "905",
       "1284",
       "1332",
+      "region-the-wastes",
       "952",
       "race-dwarf-zwaeron",
       "manual-mphqwz19-951b6",
@@ -64017,7 +64091,8 @@
     "zoomLevel": 5,
     "parentId": "3275",
     "relatedIds": [
-      "3275"
+      "3275",
+      "race-gillykin"
     ],
     "tags": [],
     "atmosphere": "water",

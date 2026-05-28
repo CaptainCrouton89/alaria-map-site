@@ -2,7 +2,9 @@
 id: "nation-kosko"
 name: "Kosko"
 entityType: region
-blurb: ""
+blurb: "A Bogie state on Pesalolo, immediately south of Tamadrez in the Shacklands."
+coordinates: [202, 370]
+zoomLevel: 3
 tags: ["state"]
 sources:
   - "nations_and_powers/states/Kosko.md"
@@ -10,6 +12,8 @@ review:
   aiWritten: false
   action: keep
 relations:
+  - { rel: spatial, kind: within, target: "3275" }
+  - { rel: spatial, kind: borders, target: "3337", note: "N — south of Tamadrez" }
   - { rel: culture, kind: inhabitedBy, target: "race-bogies" }
 ---
 ### Government & Peoples
