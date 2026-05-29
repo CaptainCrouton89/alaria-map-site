@@ -343,7 +343,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "The middle continent of Alaria, falling from northern desert badlands through a vast jungle basin to the slave-trading Shacklands in the south.",
-    "containsCount": 4
+    "containsCount": 5
   },
   {
     "id": "3126",
@@ -455,7 +455,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "Upoceax (pronounced \"YOO-poe-say\") is one of the three major continents of Alaria, located in the southwest.",
-    "containsCount": 9
+    "containsCount": 10
   },
   {
     "id": "6",
@@ -946,7 +946,7 @@
     "atmosphere": "civilization",
     "blurb": "A western Upoceax archipelago of four wealthy trading city-states, each ruled by one of the great merchant families under the Blood Pact.",
     "parentName": "Upoceax",
-    "containsCount": 17,
+    "containsCount": 16,
     "borders": [
       {
         "id": "3781",
@@ -1189,7 +1189,7 @@
     "atmosphere": "civilization",
     "blurb": "The Innerrim is the vast jungle basin at the heart of Rimihuica—a dark green sea of dense forest filling the continental interior.",
     "parentName": "Rimihuica",
-    "containsCount": 20,
+    "containsCount": 19,
     "borders": [
       {
         "id": "3014",
@@ -1297,7 +1297,7 @@
     "atmosphere": "trade",
     "blurb": "The Middle Sea Lands are the coastal lowlands and inner-sea rim south of the Kharvorn Mountains — home to the Middle Sea trade nations from Anarak in the west to Adron in the east.",
     "parentName": "Clueanda",
-    "containsCount": 15
+    "containsCount": 18
   },
   {
     "id": "manual-mph53on6-mirms",
@@ -1888,7 +1888,6 @@
     "zoomLevel": 1,
     "parentId": "2453",
     "relatedIds": [
-      "2555",
       "2453",
       "race-human",
       "race-neferati",
@@ -1914,6 +1913,7 @@
       "2463",
       "388",
       "race-halfling",
+      "2555",
       "2593",
       "2620",
       "2530",
@@ -1936,13 +1936,7 @@
     "atmosphere": "civilization",
     "blurb": "The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle…",
     "parentName": "Rimihuica",
-    "containsCount": 23,
-    "borders": [
-      {
-        "id": "2555",
-        "name": "Nektuna"
-      }
-    ]
+    "containsCount": 23
   },
   {
     "id": "1390",
@@ -2534,7 +2528,6 @@
     "zoomLevel": 2,
     "parentId": "9000",
     "relatedIds": [
-      "416",
       "9000",
       "magic-red-gold",
       "race-naga-nagashi",
@@ -2550,6 +2543,7 @@
       "creature-nagatayora",
       "404",
       "390",
+      "416",
       "plane-malstaris",
       "421",
       "creature-dragons",
@@ -2569,13 +2563,7 @@
     "atmosphere": "civilization",
     "blurb": "Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges, once the realm of bonded dragon-riders.",
     "parentName": "Middle Sea Lands",
-    "containsCount": 30,
-    "borders": [
-      {
-        "id": "416",
-        "name": "The Blades"
-      }
-    ]
+    "containsCount": 30
   },
   {
     "id": "4369",
@@ -2714,7 +2702,7 @@
     "atmosphere": "civilization",
     "blurb": "A basin nation ruled by the black dragon Tepheranos, squeezed between the Crags of Geth to the south and Argysis in the Kharvorn Mountains to…",
     "parentName": "Middle Sea Lands",
-    "containsCount": 12,
+    "containsCount": 11,
     "borders": [
       {
         "id": "918",
@@ -3566,10 +3554,6 @@
       {
         "id": "2921",
         "name": "Nashua"
-      },
-      {
-        "id": "3151",
-        "name": "Shacklands"
       }
     ]
   },
@@ -5904,7 +5888,7 @@
     "atmosphere": "civilization",
     "blurb": "A human republic south of the Kharvorn Mountains, known for its manufacturing economy, anti-magic laws, and rigid bureaucracy.",
     "parentName": "Middle Sea Lands",
-    "containsCount": 17,
+    "containsCount": 16,
     "borders": [
       {
         "id": "864",
@@ -6680,9 +6664,10 @@
       171
     ],
     "zoomLevel": 3,
-    "parentId": "884",
+    "parentId": "9000",
     "relatedIds": [
       "884",
+      "9000",
       "race-gnome-echi",
       "faction-aldriktch-trade-alliance",
       "event-the-camaran-blight",
@@ -6699,7 +6684,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A tiny gnomish magocracy on a mountainous peninsula at the tip of the Watar peninsula, jutting into the Middle Sea.",
-    "parentName": "Watar",
+    "parentName": "Middle Sea Lands",
     "containsCount": 12,
     "borders": [
       {
@@ -6883,7 +6868,6 @@
       "2455",
       "2555",
       "2530",
-      "2604",
       "2501",
       "manual-mpha4gzt-vjyu9",
       "2488",
@@ -6892,6 +6876,7 @@
       "race-craven",
       "race-human-stone-men",
       "event-enymu-subjugation",
+      "2604",
       "person-selron-ii",
       "2574",
       "453",
@@ -6916,10 +6901,6 @@
       {
         "id": "2530",
         "name": "Kerwin"
-      },
-      {
-        "id": "2604",
-        "name": "Wurn Mountains"
       },
       {
         "id": "2501",
@@ -7938,11 +7919,12 @@
       142
     ],
     "zoomLevel": 3,
-    "parentId": "426",
+    "parentId": "9000",
     "relatedIds": [
       "801",
       "426",
       "529",
+      "9000",
       "race-goblin-scalawag",
       "536",
       "485",
@@ -7958,7 +7940,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A confederation of eight Scalawag goblin city-states occupying the Crags of Geth—a shallow bowl-shaped mountain range west of Erasnus, east of Ta Minn, and south…",
-    "parentName": "Anarak",
+    "parentName": "Middle Sea Lands",
     "containsCount": 12,
     "borders": [
       {
@@ -10833,10 +10815,6 @@
       {
         "id": "2582",
         "name": "Vogenfeld"
-      },
-      {
-        "id": "2455",
-        "name": "Tarkhon Empire"
       }
     ]
   },
@@ -13991,7 +13969,7 @@
       256
     ],
     "zoomLevel": 3,
-    "parentId": "2857",
+    "parentId": "2453",
     "relatedIds": [
       "440",
       "3037",
@@ -13999,6 +13977,7 @@
       "3108",
       "2869",
       "732",
+      "2453",
       "race-human",
       "3061",
       "558",
@@ -14021,7 +14000,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "The United Free Nations is a confederation of seven sovereign city-states occupying the open country between the Sharabha(/codex/race-sharabha) savanna to the north, the Jungles of Godahi(/codex/3061) to the east and south, the Foxborne(/codex/race-gnome-foxborne) valleys to the southwest, and the haunted remnants of Old Tolaria(/codex/732) to the west…",
-    "parentName": "Innerrim",
+    "parentName": "Rimihuica",
     "containsCount": 14,
     "borders": [
       {
@@ -14226,7 +14205,7 @@
     "atmosphere": "civilization",
     "blurb": "A Dwarblin merchant state on a peninsula in the western Middle Sea.",
     "parentName": "Middle Sea Lands",
-    "containsCount": 8,
+    "containsCount": 7,
     "borders": [
       {
         "id": "529",
@@ -14507,11 +14486,13 @@
       426
     ],
     "zoomLevel": 3,
-    "parentId": "3725",
+    "parentId": "3341",
     "relatedIds": [
       "3725",
+      "3341",
       "3776",
-      "3756"
+      "3756",
+      "manual-mph55nw0-sjl00"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -14519,8 +14500,8 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "An island in the Free Isles.",
-    "parentName": "Free Isles",
+    "blurb": "An island east of the Free Isles, across The Spout channel.",
+    "parentName": "Upoceax",
     "containsCount": 4,
     "borders": [
       {
@@ -16207,10 +16188,11 @@
       145
     ],
     "zoomLevel": 4,
-    "parentId": "477",
+    "parentId": "9000",
     "relatedIds": [
       "477",
       "411",
+      "9000",
       "person-filgerran-ii",
       "race-giant-guli",
       "977",
@@ -16231,7 +16213,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A high mountain basin ringed by the Gül Mountains—Ngül to the north, Egül to the east, Sorgül to the southeast—forming the heartland of the Güli giants.",
-    "parentName": "Camaran",
+    "parentName": "Middle Sea Lands",
     "containsCount": 9,
     "borders": [
       {
@@ -28622,13 +28604,7 @@
     "atmosphere": "civilization",
     "blurb": "A collection of islands off the southwest coast.",
     "parentName": "Adron",
-    "containsCount": 3,
-    "borders": [
-      {
-        "id": "411",
-        "name": "Adron"
-      }
-    ]
+    "containsCount": 3
   },
   {
     "id": "66",
