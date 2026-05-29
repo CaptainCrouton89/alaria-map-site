@@ -3,6 +3,7 @@ id: "1346"
 name: "Northern Isles"
 entityType: region
 blurb: "The Northern Isles are a broad, fragmented archipelago occupying the northeastern waters of Clueanda, scattered across the Ocean of Azeros."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1346/banner.webp
 coordinates: [436, 64]
 zoomLevel: 0
 sources: ["all_sections_formatted/Clueanda.md#L6401"]

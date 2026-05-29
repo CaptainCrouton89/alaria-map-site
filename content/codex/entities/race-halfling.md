@@ -26,6 +26,7 @@ Halflings possess an uncanny ability to thrive where others merely survive. Thei
 - **Whiteling** — Undead halflings risen from extreme emotional turmoil who retain perfect memory but lose all empathy, haunting former communities and using shared recollections as weapons against those they once loved. See [[race-halfling-whiteling]].
 - **Hookling** — Halflings of the frozen wastes of Morelous who obsessively track every calorie and breath of warmth, and consciously switch between hibernative Conservation Mode and peak-performance Expenditure Mode. See [[race-halfling-hookling]].
 - **Arinsfold** — Colonial merchant halflings of the Greenwater Isles who built a wealthy mercantile empire on emptied land, govern through a Parliament of Flowers that decorates over merchant-council rule, and do not speak of who lived there before. See [[race-halfling-arinsfold]].
+- **Nameless Ones** — Desert halflings of the Hills of Dolor who took the "half-people" slur for their own, carry no family name, and reckon a person only by what they have done since the wells took them in. See [[race-halfling-nameless]].
 
 <!-- mechanics -->
 

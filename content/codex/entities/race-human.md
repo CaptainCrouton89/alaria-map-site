@@ -39,6 +39,10 @@ Humans are resilient and abundant. They are far the most prolific across Alaria,
 - **Wendi** — Strawberry-blonde drake-riding warriors who hurl lightning spears at giants and hold death-defying sky races. See [[race-human-wendi]].
 - **Shyona** — Ceremonious, craft-obsessed humans of Ve's northeastern plains who prize family honor, blade-dancing arts, and deliberate provincial governance. See [[race-human-shyona]].
 - **Drevaya** — Small, austere monastic culture born to the Shogi Monastery on the peaks of northern Erpeus; few among the foreign trainees they teach. See [[race-human-drevaya]].
+- **Sylthik** — Scar-ranked ruling caste of Kyagos's four city-states, grown rich on slave-worked mines and reeling since the largest, Syvlius, burned beneath them. See [[race-human-sylthik]].
+- **Tidewalkers** — Islanders of the Aikon shallows whose every day is set by the twice-daily tide, sent onto the drained seabed and back by the Tide-Counters who call the safe windows. See [[race-human-tidewalkers]].
+- **Vaelish** — Some eight hundred survivors of the dragon-burned Kingdom of Vael, hidden four centuries in the fortress of Mountainveil and guarding the true name of the dragon that hunts them. See [[race-human-vaelish]].
+- **Pyrisi** — Stocky, stubborn islanders of Pyris blended from human and dwarven stock past any record; dry-stone farmers, fishers, and masons who want only to be left alone. See [[race-human-pyrisi]].
 
 <!-- mechanics -->
 

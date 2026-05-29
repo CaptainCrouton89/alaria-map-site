@@ -77,8 +77,10 @@ King Ulyas agreed to this arrangement five centuries ago. He has outlived every 
 
 #### The Neferati Memory
 
-Ulyas remembers the Neferati founders—the fire-blooded conquerors who came north and built Tarkhetan. He remembers when they negotiated Kerwin's entry into the empire, promising autonomy in exchange for tribute. He remembers their emperors, their court intrigues, their slow dilution into humanity.
+Kerwin's bargain with the empire is older than the empire's present shape, and Ulyas is the reason. When the Neferati came north and began folding the lands around the strait into their new state, they reached Kerwin late and valued it least. The king who met their agents was already ancient. The terms he settled then have governed the region ever since: tribute in exchange for being left alone, the emperor's sovereignty acknowledged on paper and nowhere else.
 
-He also remembers the Severance—the civil war that ended Neferati rule. Kerwin stayed neutral, which is why it still exists. Ulyas watched both sides burn each other while his halflings tended their sheep.
+> A surveyor's road runs dead straight west out of Tarkha, four wagons wide, raised on a causeway and bridged over every seasonal creek. It was built to move legions. None ever marched it. The wheat grows to its verge on both sides now, and the old mile-markers still count the distance to a Tarkhetan that has not sent a soldier in five hundred years.
 
-Now humans hold the throne, and they've forgotten most of what Ulyas remembers. He hasn't told them. He hasn't decided if he ever will.
+When the founding line finally gave way and the throne passed to human hands, Kerwin did nothing, which is part of why it is still here. There was no war for it to stay out of; the change came quietly, the way the empire still prefers to tell it. Ulyas recognized the new dynasty, kept paying the tribute he had always paid, and said nothing about how the old line had really ended. The dynasty that emerged had forgotten most of what the old king remembers about its own beginning. He has not offered to remind it.
+
+There is an older bargain beneath the imperial one. Once a year Ulyas rides into the Fireknife Mountains with a string of prisoners and comes back without them, as he has every year for far longer than Tarkhon has existed. The halflings do not ask. Tarkhetan, which never understood Kerwin's king, has never thought to. Whatever the empire imagines it holds here, it holds on terms Ulyas set long before any Neferati saw the strait.

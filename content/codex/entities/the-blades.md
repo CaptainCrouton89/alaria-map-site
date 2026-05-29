@@ -10,4 +10,4 @@ relations:
   - { rel: spatial, kind: borders, target: "411", note: "east" }
   - { rel: spatial, kind: within, target: "411" }
 ---
-A collection of islands off the southwest coast. Chavux, a green dragon, lairs on one of the northern islands and terrorizes ships passing through the strait.
+A collection of islands off the southwest coast. Chavux, a green dragon, lairs on one of the northern islands and terrorizes ships passing through the strait. He is wild and unbonded, nothing like the war-dragons the Nagashi rode and lost at the Severing, but sacrosanct exactly as they were: no dragon may be killed in Adron, so the kingdom suffers his raids rather than answer them.

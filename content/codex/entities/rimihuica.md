@@ -3,6 +3,7 @@ id: "2453"
 name: "Rimihuica"
 entityType: region
 blurb: "The middle continent of Alaria, falling from northern desert badlands through a vast jungle basin to the slave-trading Shacklands in the south."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2453/banner.webp
 coordinates: [222, 272]
 zoomLevel: 0
 sources: ["all_sections_formatted/Rimihuica.md#L1"]
@@ -12,6 +13,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Short accurate overview; correctly names all 5 featured sub-regions. No inflation."
+bannerPosition: "50% 26.5%"
+bannerHeight: 360
 ---
 Rimihuica is the middle continent of Alaria, one of the three that sit close enough together that the seas between them read as crossings rather than barriers. Its character is vertical. Walk its length from top to bottom and the land changes under you completely: desert badlands in the north, then a waist of lethal jungle and cloud-wrapped mountains, then the lawless Shacklands at its southern foot, where slave markets and pirate captains answer to no crown. The only sea route between the western oceans and Clueanda's Middle Sea pinches shut at the continent's northern tip, and the Tarkhon Empire holds that strait and taxes everything through it. To the southwest the Agreben Sea opens toward the Greenwater Isles and Upoceax beyond. To the south the South Sea separates Rimihuica from Aboyinzu.
 

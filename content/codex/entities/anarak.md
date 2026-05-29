@@ -12,6 +12,8 @@ relations:
   - { rel: spatial, kind: borders, target: "591", note: "south" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: culture, kind: inhabitedBy, target: "creature-tepheranos" }
+  - { rel: polity, kind: ruledBy, target: "creature-tepheranos" }
+  - { rel: history, kind: participatedIn, target: "event-the-dragon-betrayal" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -33,6 +35,6 @@ A range of dark hills in the northern part of the basin, where Tepheranos makes 
 
 #### The Dragon Feud
 
-Tepheranos and Rothogomos were brothers who came to conquer Argysis together. Rothogomos betrayed Tepheranos, taking the dwarven treasure for himself. Tepheranos retreated to Anarak, built it into a regional power, and now both dragons plot each other's destruction.
+Anarak is the kingdom Tepheranos was driven to take after his brother cheated him. The two dragons invaded dwarven Argysis together; at the moment of victory Rothogomos seized the whole hoard and forced Tepheranos south, and the full account belongs to the Dragon Betrayal. What matters for Anarak is what came after. Tepheranos took the lesser prize and made it work, building a poor basin into a military state while Rothogomos sat on dead gold in the north.
 
-Neither can strike elsewhere while the other lives. Anarak is stronger but vulnerable; Argysis is weaker but fortified. The standoff has lasted generations.
+The feud never resolved into a war. Neither dragon can move on a third target while the other waits at his back, so the two kingdoms hold a frozen standoff that has outlasted everyone who remembers it beginning. Anarak is the stronger and the hungrier, but it cannot spend that strength while Argysis stands fortified behind the passes.

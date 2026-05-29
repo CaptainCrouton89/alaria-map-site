@@ -15,6 +15,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2501", note: "northwest" }
   - { rel: spatial, kind: borders, target: "manual-mpha4gzt-vjyu9", note: "south (Tarkhon Passage)" }
   - { rel: spatial, kind: borders, target: "2488", note: "W" }
+  - { rel: polity, kind: ruledBy, target: "person-aldric-iv" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
   - { rel: culture, kind: inhabitedBy, target: "race-craven" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-stone-men" }
@@ -65,14 +66,13 @@ Enymu is loyal to Tarkhon—but that loyalty shouldn't be mistaken for enthusias
 
 The relationship is fundamentally exploitative. Enymu produces; Nektuna profits. Enymu's grain feeds Tarkhetan's population, but Nektuna's merchants set the prices. The wealth flows out, and the Enymese see little return.
 
-King Aldric IV maintains the relationship because:
-1. He genuinely believes King Selron is his friend
-2. His ancestors accepted these terms
-3. The alternative—defiance—seems worse
+This did not happen by drift. It was written down. Some five centuries ago, when Tarkhon was young and its new capital drew more mouths than the strait could feed, King Aldric I signed the Grain Compact, binding Enymu to supply Tarkhetan's bread at prices fixed in the Exchange at Aldrichold. No army enforced it; none had to. Enymu is landlocked but for a harborless coast, and every road to a paying market runs through ground the empire holds. The terms founded the Aldric line and chained it in the same breath. The Grain Compact has its own entry for how the bargain was struck.
+
+King Aldric IV keeps the compact for reasons that do not flatter him. He believes King Selron II of Tarkhon is his friend. He inherited the terms from ancestors who accepted them, and he will not be the Aldric who repudiates his line's founding act. Defiance, in any case, looks worse to him than the slow bleed of a bad price.
 
 His advisors are less naive. Lord Councillor Beren handles most negotiations with Tarkhetan precisely because he doesn't trust Nektuna's envoys. Marshal Kira Stoneheart maintains Enymu's military at respectable strength because she knows that respect requires capability.
 
-For now, Enymu remains loyal. But younger Enymese are asking questions. And someday, King Aldric will learn what Selron really thinks of him.
+For now, Enymu remains loyal. But younger Enymese are asking questions. And someday King Aldric IV will learn what Selron II really thinks of him.
 
 #### Points of Interest
 

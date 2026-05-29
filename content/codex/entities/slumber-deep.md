@@ -3,6 +3,7 @@ id: "3126"
 name: "Slumber Deep"
 entityType: water
 blurb: "Slumber Deep is an abyssal trench approximately forty miles off the eastern coast of Phirexes, where the seafloor drops sharply into darkness."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3126/banner.webp
 coordinates: [485, 471]
 zoomLevel: 0
 tags: ["underwater", "leyline", "abyss", "force", "water", "Force", "Water"]

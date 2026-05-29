@@ -18,7 +18,7 @@ review:
 ---
 The capital of Kerwin—an ancient city that predates Tarkhon itself.
 
-Tarkha was already old when the Neferati came north. The halflings had built it for their own purposes: wide avenues for their festivals, great plazas for their markets, a palace for kings who expected to rule forever. When Tarkhon absorbed Kerwin five centuries ago, the empire's architects found a city that needed no improvement.
+Tarkha was already old when the Neferati came north. The halflings had built it for their own purposes: wide avenues for their festivals, great plazas for their markets, a palace for kings who expected to rule forever. When Kerwin entered the empire five centuries ago, on the terms Ulyas negotiated rather than any the founders imposed, the empire's architects found a city that needed no improvement.
 
 Tarkha is grander than most expect from a halfling city. The halflings built it for a king who expected to rule forever, and the architecture reflects those ambitions. Visitors from Nektuna find the scale disorienting—everything built for importance, inhabited by people who don't care about importance at all.
 

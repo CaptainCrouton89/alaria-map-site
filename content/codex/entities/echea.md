@@ -21,6 +21,10 @@ A tiny gnomish magocracy on a mountainous peninsula at the tip of the Watar peni
 
 Vetoed from the Aldriktch Trade Alliance by Camaran. The Echi don't seem to care much—they're too busy with scholarship to worry about trade politics.
 
+#### The Camaran veto
+
+Echea petitioned the Alliance for membership a generation ago and was refused before the question reached a vote. Camaran cast the veto, and Camaran's reason had nothing to do with commerce. The republic had buried the Volari wards after the Camaran Blight and written magic out of its law, and a state founded on outlawing the practice was never going to seat a magocracy whose universities graduate elemental war-casters by the class. That the Echi work elemental magic, which spends no life, rather than the life-costing Deoric that emptied the Volari foundries, made no difference: Camaran's statutes draw no such line, and First Consul Doravin Selmari least of all. The Echi treat the snub as Camaran's forfeited access to Echean magitech, not as any loss of their own. The two states have not exchanged an embassy since.
+
 #### The Universities
 
 Echea's universities are its heart. They function as schools, research institutions, artifact factories, and military academies all at once. Every student learns elemental magic, combat tactics, and practical crafting. The result is a population of highly educated elemental war casters who rarely fight—but when they do, they're terrifying.

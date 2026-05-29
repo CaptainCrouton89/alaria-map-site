@@ -5,6 +5,9 @@ entityType: overview
 category: races
 atmosphere: civilization
 blurb: "The peoples who share the world, where their lineages came from, and the substance-deep lines that keep them apart."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-races/banner.webp
+bannerPosition: "50% 22.8%"
+bannerHeight: 400
 ---
 
 Ask two Alarians from different peoples whether they are kin and you will get an argument that goes back to the making of the world. A human farmer and a dwarf trader can marry, raise flesh-and-blood children, and be buried in the same ground. A human and an elf cannot. The elf could outlive the human's great-grandchildren and still be reckoned a stranger to the family in a way that has nothing to do with custom. The line between them is older than custom. It runs down to what each was made from, and in Alaria what a people is made from settles almost everything about who it can join.
@@ -36,9 +39,13 @@ One fact ties the families together and explains why Alaria has no smooth ladder
 
 That fixity makes the sharp lines permanent, but it leaves enormous room inside each line. A people splits not by drifting into a new species but by scattering into new cultures, and the scattering has been relentless. The dwarf is one kind with dozens of heritages. Some sail, like the Gruynmar who keep the secret of gunpowder. Some are barely flesh at all, like the Hestrube, whose bodies have become living stone and who pass through solid rock at will. The orc spans more lands than most empires, clan by clan, and the elf does the same. None of these crossings ever blurs the kind; they only multiply the cultures.
 
+![An Aciabro — the blood-powered cyborg offshoot of goblin-kind, limbs and organs swapped for machines fed on its own vital essence. A culture of mad invention that never stops being goblin: the kind holds, only the way of living changes.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-races/illo-aciabro.webp)
+
 ### The fallen three
 
 A few peoples stand apart from the three families because of how they began. When the wolf-mother Ulvma, the lion-father Shara Bolasi, and the dragon-father Nagatayora fell in the war against the titan Hykravones, their blood did not waste itself on the ground. It marked mortals. The warriors who drank Ulvma's blood as she died among them became the Ulvsjael, the only one of these lines whose founders chose the gift outright. The mortals struck by Nagatayora's burning blood became the Naga, who carry the dragon-shape in one bloodline that throws three forms and lets none of the parents choose which. The lion's line became the Sharabha. These are not beastmen and not flesh-kin in the ordinary sense; they are what the fall of three great beings left behind, and they hold that inheritance as a trust rather than a tool.
+
+![A Naga mid-transformation, the head turning draconic and scales rising through the skin — heir to the dragon-father Nagatayora, who fell against the titan Hykravones and whose burning blood marked the mortals it struck. None of the three forms his blood throws is the parents' to choose.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-races/illo-naga.webp)
 
 ### A world too wide to count
 

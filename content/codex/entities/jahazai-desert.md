@@ -9,4 +9,4 @@ sources: ["all_sections_formatted/Clueanda.md#L1619"]
 relations:
   - { rel: spatial, kind: within, target: "652" }
 ---
-The vast interior desert. Harsh, beautiful, deadly. Ancient ruins lie buried beneath the sands—remnants of civilizations that existed before the desert claimed the land. Treasure hunters venture in; many don't return.
+The vast interior desert. Harsh, beautiful, deadly. The Jahazai is younger than the ruins buried under it: it is the ground the Ederhi held back with magic until the Glassing killed their arts, after which the sand returned over a generation and never left. Their spires and channels and the deeper works lie under the dunes now. Treasure hunters venture in. Many don't return.

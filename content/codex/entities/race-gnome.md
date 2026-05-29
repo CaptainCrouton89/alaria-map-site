@@ -28,6 +28,9 @@ Gnomes are small, naturally magical creatures, resembling miniature humans. They
 - **Qovryx** (Prophet Gnome) — Alabaster gnomes born carrying an unfinished Deoric command grown into their own flesh; rare fate-sight oracles, hunted, their stray power deadly to those nearby. See [[race-gnome-whiteling]].
 - **Ansari** (Sea Gnome) — Blue-green skinned gnomes of the Pelican Isles; wary of strangers but superb navigators, warm once trust is earned. See [[race-gnome-ansari]].
 - **Shyoka Saseidi** (Forest Gnome) — Hidden forest gnomes of Nykotheryx Amberylika who tend the fauna, wearing badger pelts and befriending all burrowing creatures. See [[race-gnome-shyoka-saseidi]].
+- **Seyiki** (Pillar Gnomes) — Dragonfly-riding cliff dwellers of the Chakatann pillars who reckon a place by its height before its direction and never shed the wingsuit robe they fall in. See [[race-gnome-seyiki]].
+- **Lacirean** (Silent Gnomes) — Gnomes of the Walking Forest who raise their children to make no sound, fluent from birth in the sign-tongue Stillspeech after their ancestors fled the fallen Postronamas Empire. See [[race-gnome-lacirean]].
+- **Echi** — University-raised elemental war-casters of the Echean magocracy who would sooner win an argument over a citation than win a duel. See [[race-gnome-echi]].
 
 <!-- mechanics -->
 

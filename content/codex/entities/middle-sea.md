@@ -3,6 +3,7 @@ id: "390"
 name: "Middle Sea"
 entityType: water
 blurb: "The Middle Sea is a large body of water lying south of the Kharvorn Mountains, in the temperate heart of Clueanda."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/390/banner.webp
 coordinates: [250, 193]
 zoomLevel: 0
 tags: ["island", "geography", "forest", "state", "nation", "hills", "bay", "strait", "sea", "plateau", "city", "fortress", "dragon", "creature", "swamp", "poi", "mountains"]

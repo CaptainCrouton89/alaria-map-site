@@ -2,6 +2,7 @@
 id: "plane-phlethageros"
 name: "Phlethageros"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-phlethageros/banner.webp"
 blurb: "Home to the Zylogmus Eternus and the Stalactites of Geth."
 tags: ["planes", "location"]
 sources:

@@ -11,6 +11,8 @@ review:
 ---
 The Shyka are tall, kobold-like reptilians with dragon snouts and reddish-brown scales. They harbor a burning hatred for dwarves, a trait bred into them by their dark patron, Rothogomos. They are fanatically loyal to their god, believing that he devours those who fail to conform to his will.
 
+They are not an old people, and they built nothing of the kingdom they now hold. Rothogomos bred them to occupy dwarven Argysis after he broke it in the Dragon Betrayal, and they are its only population today: his priesthood, his garrisons, and his eyes across a mountain emptied of the dwarves who raised every stone of it. To call Argysis a Shyka realm is to mistake the occupiers for the founders. The Shyka serve a conqueror in a dead kingdom that was never theirs.
+
 Wiry and fast, they fight in coordinated packs, overwhelming stronger enemies with sheer numbers and viciousness. Shyka society is strictly hierarchical, with priests of Rothogomos at the top and warriors just below. Those who displease the priesthood are sacrificed to their devouring god in elaborate rituals.
 
 ### Vitals

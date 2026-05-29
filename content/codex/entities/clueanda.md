@@ -3,6 +3,7 @@ id: "388"
 name: "Clueanda"
 entityType: region
 blurb: "The frozen crown of northwestern Alaria: twin polar ranges, a temperate inland sea, and the single taxed strait that reaches it."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/388/banner.webp
 coordinates: [184, 96]
 zoomLevel: 0
 sources: ["all_sections_formatted/Clueanda.md#L1"]
@@ -13,6 +14,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Continent overview of Clueanda. Coherent, matches map: twin ranges (Nysanna N, Kharvorn diagonal), Middle Sea, Westwilds. Keep."
+bannerPosition: "50% 87.5%"
+bannerHeight: 360
 ---
 Clueanda is the frozen crown of northwestern Alaria, a great landmass that sits too far from the sun's warm band to be counted among the central continents. Two mountain systems give it its shape. The Nysanna Range walls off the western pole, the tallest peaks in the world and never free of blizzard. The Kharvorn Mountains run a long diagonal down the continent's spine, and that diagonal is a climate line: perpetual winter to its north, a temperate farming belt to its south. The warm belt drains into the Middle Sea, an inland trade water ringed by city-states, and a ship reaches that sea from the western oceans only through the Tarkhon Strait, which the Tarkhon Empire holds and taxes. East of all this the land thins into the Frostmarch Peninsula and breaks apart into the Northern Isles, scattered across the Ocean of Azeros.
 

@@ -2,6 +2,7 @@
 id: "daemon-craggus"
 name: "Craggus"
 entityType: daemon
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/daemon-craggus/banner.webp"
 blurb: "God of all mankind after the Long Winter; dead cohort; greatest mortal-born deity of the Craggus era."
 weight: legendary
 tags: ["daemon"]

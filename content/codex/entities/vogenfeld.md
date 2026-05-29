@@ -47,12 +47,12 @@ The dwarves don't live on the surface. They live *in* the mountains, in vast tun
 
 #### The Vogenfeld Pact
 
-Five centuries ago at the Pass of Oaths—the main route through the mountains, overlooked by Atlangsow's gates—dwarven thanes and Tarkhon's representatives agreed that Vogenfeld would guard the north in exchange for tribute and honor. Stone monuments line the pass, carved with thousands of names of dwarves who died holding this ground.
+Five centuries ago the thane Vørgar met Tarkhon's envoys at the Pass of Oaths, the main route through the mountains beneath Atlangsow's gates, and bound Vogenfeld to the empire's northern defense in exchange for yearly tribute and a place of honor in its service. The bargain was cut into the rock of the pass rather than set on parchment, and the dwarves have kept it to the letter ever since. The terms and the bargaining behind them are the matter of the Vogenfeld Pact's own entry.
 
-The monuments are maintained perfectly. The dwarves remember, even if Tarkhon has forgotten.
+Along the pass run the monuments: walls of carved names, one for every dwarf killed holding the frontier the pact promised. The Council of Thanes orders them recut whenever frost softens the letters, so that the oldest names stay as legible as the newest. The dwarves remember what the bargain has cost them. Tarkhon has largely forgotten there was a bargain at all.
 
 #### Relationship with Tarkhon
 
-Vogenfeld still receives tribute from Tarkhetan—but the payments are a fraction of what they once were, delivered with contempt rather than gratitude. Young officials in Tarkhetan openly question why the empire pays "those mountain dwarves" at all.
+Vogenfeld still receives tribute from Tarkhetan, but the payments are a fraction of what they once were, delivered with contempt rather than gratitude. Young officials in Tarkhetan openly question why the empire pays "those mountain dwarves" at all.
 
 Daily patrols into the Wildwood's edge watch for signs of orcish coordination among the six great tribal states to the north. These patrols are costly; dwarves die each year, and their names join the monuments. Tarkhon doesn't ask about the patrols. The question of how long Vogenfeld continues to honor an increasingly one-sided pact grows louder every year.

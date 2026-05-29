@@ -23,6 +23,7 @@ Pixies reproduce through a mystical process involving moonlight, flower nectar, 
 - **Ianovko** — Wandering illusionists who negotiate a city's Faesong into a brighter remembered copy of itself; the people walk out happy and the streets empty behind them. See [[race-pixie-ianovko]].
 - **Ikriel** (Icehearts) — Frost-transformed pixies who worship winter as cosmic entropy; emotionally vampiric manipulators who drain warmth from victims. See [[race-pixie-ikriel]].
 - **Luma** (Grove Keepers) — Grove-bonded living libraries of Nykotheryx Amberylika; translucent wings carry captured tree memories stretching back millennia. See [[race-pixie-luma]].
+- **Iliko** (Truth-line Pixies) — Jungle pixies of southern Ve who navigate by truth-lines, invisible currents of meaning only they perceive, and pity the half-blind world around them. See [[race-pixie-iliko]].
 
 <!-- mechanics -->
 

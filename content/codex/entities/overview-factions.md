@@ -5,6 +5,9 @@ entityType: overview
 category: factions
 atmosphere: trade
 blurb: "How organized power works in Alaria: the churches, orders, alliances, and cabals that outlast any single ruler."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-factions/banner.webp
+bannerPosition: "50% 51.4%"
+bannerHeight: 400
 ---
 
 ### Power that outlives the powerful
@@ -26,6 +29,8 @@ The second is wealth, which mostly means routes. Goods move along corridors, cor
 
 The third is force, held by the orders that make a profession of arms or hunting. Some are sworn to a cause, like the Pity Knights who once hunted liches until one of their own became the thing they hunted. Some sell their skill to the highest bidder, like the Soldiers of the Third Eye, time-attuned mercenaries who can read a battle's outcome before it is fought and who pledge loyalty to no crown. An order of this kind is dangerous out of proportion to its size, because it concentrates skill that a levy of conscripts cannot match and carries it wherever it is paid to go.
 
+![The fall of the Pity Knights — the lich-hunting order recoils as one of their own, Xynoth Azkonor, rises a crowned lich, undone by the forbidden Deoric magic the order had mastered to hunt the undead.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-factions/illo-pity-knights.webp)
+
 The fourth is knowledge, the quietest leverage and often the most durable. A druidic circle that remembers which leylines still run and which have gone dead holds something no army can take by storm. An arcane society that guards a working its rivals have lost can sell that secret one fragment at a time, forever. The Druids, the elder beings the elves descend from, are powerful less for their numbers, which are few, than for what they have simply lived long enough to know.
 
 ### How they hold it, and how they lose it
@@ -40,6 +45,8 @@ The second problem is that leverage attracts rivals who want the same leverage. 
 ### Why the cabals matter most
 
 The factions that announce themselves are the ones you can negotiate with, tax, excommunicate, or besiege. The dangerous ones are the factions that prefer you never learn their name. A cabal trades visibility for reach: by staying hidden it can place its people inside the institutions that do operate in the open, and steer them without ever holding a title. The Ivory Hand is the clearest example, an order that pulls strings across the world to keep one specific trade moving. It deals in slaves bought and sold to be sacrificed for Deoric workings, because a life taken in blood yields a lump sum of power that years of patient prayer cannot match. Its membership reaches into a queen's court, a city's merchant houses, and the confidence of dragons. No one elected it. No army can march on a thing whose borders it cannot find.
+
+![A clandestine meeting of the Ivory Hand — the cabal that keeps the slave-sacrifice trade flowing for Deoric workings — convened by lamplight in a shuttered Bonnetaz merchant chamber, where a Sylke queen, hooded merchant-lords, and a dragon all answer to no throne.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-factions/illo-ivory-hand.webp)
 
 Not every hidden faction holds real power, and a GM should keep the difference straight. The Moonwatchers wait in scattered cells for a dead moon to return and remake the world, and most governments file them under harmless until one of their cells turns up beside a mass grave. A cult's threat is rarely its theology. It is what a small group of people who believe absolutely will do when they decide the time has finally come.
 

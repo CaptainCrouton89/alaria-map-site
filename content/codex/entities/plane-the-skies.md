@@ -3,6 +3,7 @@ id: "plane-the-skies"
 name: "The Skies"
 entityType: plane
 blurb: "The open air above the Surfacelands, rising from the cloud-lanes of sky ships to the thin cold heights where the Syngers sail beneath the stars."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-isles/banner.webp
 tags: ["cosmology", "celestial"]
 review:
   aiWritten: false

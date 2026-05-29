@@ -12,7 +12,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Husakas are nomadic scorpion riders who traverse the endless dunes in search of the precious red dust that gives their culture its power and purpose. This crimson powder, harvested from rare desert blooms that grow only where ancient magic has seeped into the sand, is both blessing and curse to the Husakas people.
+The Husakas are nomadic scorpion riders who traverse the endless dunes in search of the precious red dust that gives their culture its power and purpose. This crimson powder, harvested from rare desert blooms that grow only where the sand has been saturated by weathered and ground-down titan blood and bone — the same material that holds Deoric charge in any inscribed rune — is both blessing and curse to the Husakas people. The handmagic talent the dust awakens is therefore Deoric in kind: the red dust carries residual titan material dissolved into the desert itself over millions of years, and the pathway it opens in the bloodstream is the same pathway titan blood has always opened, only dispersed to the point that the desert itself became the medium.
 
 From childhood, the Husakas consume small amounts of the red dust daily, allowing it to flow through their veins and awaken mystical abilities. The dust is highly addictive, and those who go without it for too long suffer terrible withdrawal that can drive them to madness. This dependency shapes their entire way of life, as they must constantly migrate across the desert following the seasonal blooms and maintaining their sacred harvest.
 

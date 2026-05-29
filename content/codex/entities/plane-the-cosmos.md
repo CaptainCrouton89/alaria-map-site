@@ -2,6 +2,7 @@
 id: "plane-the-cosmos"
 name: "The Cosmos"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-the-cosmos/banner.webp"
 blurb: "A planar stack is a collection of tightly grouped planes, usually holding strong connections to each other."
 tags: ["cosmology"]
 sources:

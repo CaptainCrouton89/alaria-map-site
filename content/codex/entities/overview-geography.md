@@ -6,6 +6,8 @@ category: geography
 atmosphere: nature
 blurb: "The shape of the inhabited world: its continents and seas, where the warm band holds civilization, and where the wild begins."
 banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-geography/banner.webp
+bannerPosition: "50% 34.9%"
+bannerHeight: 400
 ---
 
 The world is Alaria. The part of it people live on is a single great slab of land and water lit by a sun that moves because it wants to. Cartographers call the surface the Surfacelands, and the two-hundred-mile crust of tunnels beneath it the Underrealms; together they make Belagria, the upper half of the Material Plane. The Atlas is concerned with that surface. What lies above it in the open sky, and what waits below the Underrealms where the world flips over and gravity runs the other way, are their own subjects. Here we keep to the ground a traveler can walk.

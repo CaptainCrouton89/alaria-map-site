@@ -15,15 +15,16 @@ relations:
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
   - { rel: polity, kind: ruledBy, target: "person-king-samaryn" }
   - { rel: culture, kind: inhabitedBy, target: "race-elf-sivakr" }
+  - { rel: history, kind: participatedIn, target: "event-sivakr-emergence" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
   notes: "Sivakr elf kingdom in Grey Mtns (sub-range of Kharvorn); coord matches."
 ---
-A Sivakr (Silver Elf) kingdom in the Grey Mountains, a sub-range of the southern Kharvorn. The Sivakr spent thousands of years underground before emerging fifty years ago to trade with the surface world. It's going poorly.
+A Sivakr (Silver Elf) kingdom in the Grey Mountains, a sub-range of the southern Kharvorn. The surface peoples drove the Sivakr underground in 1700 SD, and for more than sixteen centuries the silver elves stayed below. They came back up fifty years ago to trade. It is going poorly, and for the same reason it went poorly the first time: the Sivakr negotiate by editing what the other party remembers agreeing to.
 
-Borders Camaran (southeast), Erasnus (southwest), and barely touches Hephake (northwest). Member of the Aldriktch Trade Alliance, though neighbors are turning hostile as they discover the truth about Sivakr memory manipulation.
+Borders Camaran (southeast), Erasnus (southwest), and barely touches Hephake (northwest). Member of the Aldriktch Trade Alliance, admitted late and over objection, and the neighbors who admitted Myorna are turning hostile as they rediscover for themselves what their ancestors once drove the Sivakr below the mountains to stop.
 
 #### The Underground
 

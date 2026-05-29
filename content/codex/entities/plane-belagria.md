@@ -2,6 +2,7 @@
 id: "plane-belagria"
 name: "Belagria"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-belagria/banner.webp"
 blurb: "Belagria is the upper half of the Material Plane—the inhabited world where most of 'life' occurs."
 tags: ["region", "material plane"]
 sources:

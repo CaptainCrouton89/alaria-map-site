@@ -19,7 +19,7 @@ relations:
 ### Overview
 The Kingdoms of Fire are four Neferati monarchies—Yaif, Kabir, Gissemari, and Wadiyah—that occupy a peninsula in southwestern Tarkhon. Though each kingdom is independent with its own ruler, they act as a political bloc, coordinating foreign policy and presenting a united front to the wider empire.
 
-This alliance isn't merely convenient—it's existential. The Neferati founded Tarkhon six centuries ago. They lit the Evertorch. They established the institutions that made the empire possible. And three centuries ago, they were pushed aside when the human faction won the Severance.
+This alliance isn't merely convenient—it's existential. The Neferati founded Tarkhon six centuries ago. They lit the Evertorch. They established the institutions that made the empire possible. And three centuries ago, they were pushed aside when the Severance passed the throne to the human line.
 
 The Kingdoms of Fire remember. They consider themselves founders in exile, not tributaries. The Evertorch burns with Neferati fire. Tarkhon was built on Neferati foundations. The humans may have forgotten this, but the Neferati have not.
 
@@ -31,7 +31,7 @@ Each kingdom is built around an **Eternal Flame**—a fire that has burned since
 - **The Flame of Gissemari**: Burns in a great forge where master craftsmen create works of legendary beauty.
 - **The Flame of Wadiyah**: Burns in a pit so deep that none have seen its bottom. The oldest priests say it connects to the world's molten heart.
 
-The Evertorch in Tarkhetan was lit from these flames—specifically from the Flame of Yaif, carried north by the Neferati conquerors who founded the empire. This is why the Kingdoms of Fire consider the Evertorch theirs by right of heritage.
+The Evertorch in Tarkhetan was kindled from the Flame of Yaif, carried north when the empire was founded. The flame was lent to the new city, not surrendered to it, and the bloc's claim on the Evertorch rests on that loan rather than on sentiment. See The Carried Fire.
 
 ### The Neferati People
 The Neferati are children of fire—born when primordial flame danced with divine essence. Their distinctive red skin seems to flicker with inner fire in certain lights. Curling ram horns crown their heads, their eyes are dark as coals, and their hair is black as charcoal.
@@ -52,15 +52,9 @@ Current monarchs:
 - **Queen Khalira of Wadiyah**: The youngest monarch, the most radical, and the most eager to challenge Tarkhon. She believes the time for patience is ending.
 
 ### The Founding Legacy
-Six centuries ago, Neferati warlords from Yaif recognized that the Tarkhon Strait could be controlled—and that whoever controlled it would control trade across half the world.
+Six centuries ago Neferati from Yaif founded Tarkhon on the strait and carried fire north to light the Evertorch. For nearly three centuries fire-blooded emperors held the throne, and much of what still governs the empire was written in Neferati hands. That founding is told in the Neferati Founding and the loan of the flame in The Carried Fire; what matters to the bloc is that the fire was lent on recorded terms and never returned.
 
-They brought fire north. They lit the Evertorch. They built Tarkhetan and established the empire. For nearly three centuries, Neferati blood sat on the throne. The Firemage Corps was created by Neferati founders. The traditions that still govern Tarkhon were written in Neferati hands.
-
-Then came the dilution—generations of marriage to local humans, the slow fading of fire in the imperial bloodline. By the end, the "Neferati" emperors were mostly human.
-
-The **Severance** came when the last fire-blooded emperor died without legitimate heir. His children by his Neferati mistress were passed over for his fully human nephew. The Neferati faction resisted. They lost.
-
-The pure Neferati withdrew to the Kingdoms of Fire. The Evertorch stayed in Tarkhetan—too sacred to move, too dangerous to extinguish. The humans took the throne and slowly forgot who had built it for them.
+Then the bloodline thinned. Generations of marriage to local humans faded the fire from the imperial line until the emperors were Neferati in little more than name. At the Severance the throne passed to a fully human heir, the Neferati who resisted were outmaneuvered, and the pure-blooded withdrew south to the Kingdoms of Fire. The Evertorch stayed in Tarkhetan. The Kingdoms have called themselves founders in exile ever since.
 
 ### Why They Stay
 The Kingdoms of Fire could leave Tarkhon. They have the military strength to resist reconquest—four kingdoms of firemages in defensible terrain would be nearly impossible to subdue. So why do they remain?

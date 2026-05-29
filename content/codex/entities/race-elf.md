@@ -39,6 +39,7 @@ Elves are not flesh-kin. They were crafted by the druids from natural materials 
 - **Xicrein** (Island Elf) — Dark-featured island elves of the Bynü Tribes who wage silent clan wars through honorable assassination with oyster-shell blades. See [[race-elf-xicrein]].
 - **Spindral** (Quill Elf) — Void-attuned underground elves who fled dragon Ural, bearing light-absorbing midnight quills and surfacing only to hunt and watch for their enemy. See [[race-elf-spindral]].
 - **Gamori** (Jungle Elf) — Nocturnal giant-bat-riding jungle elves; matriarchal moon-worshippers who have rejected civilization for canopy savagery and territorial raids. See [[race-elf-gamori]].
+- **Laeren** (Three Kingdoms Elf) — Settled, treaty-bound elves of the Farlands who have kept one oath for four thousand years and guard the true names of their dead as fiercely as their borders. See [[race-elf-laeren]].
 
 <!-- mechanics -->
 

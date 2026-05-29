@@ -2,6 +2,7 @@
 id: "person-bryn"
 name: "Bryn"
 entityType: person
+weight: legendary
 blurb: "Bryn is not a god, nor a titan, nor any creature that ever walked or breathed."
 tags: ["celestial", "sun", "spirit"]
 sources:
@@ -11,6 +12,8 @@ review:
   action: keep
 relations:
   - { rel: cosmology, kind: sourceOf, target: "plane-belagria" }
+bannerPosition: "50% 47.2%"
+bannerHeight: 400
 ---
 Bryn is not a god, nor a titan, nor any creature that ever walked or breathed. Bryn *is* the sun—or rather, Bryn is the sun's awakened spirit.
 
@@ -30,6 +33,8 @@ What is certain: Bryn *wants* to move. The sun travels across the sky because Br
 
 ### The Faithful
 Bryn's cult is small but ancient—navigators, farmers, and seasonal priests who perform rituals to commune with the sun directly. When they pray, the sun *hears them*. When the northern monasteries sing their dawn hymns, the sun responds. This is why seasons exist: Bryn's path across the sky shifts based on which congregations sing loudest, which prayers ring truest.
+
+![A hillside monastery's dawn-choir sings Bryn onto its summer trail at sunrise — the prayer-coalition whose hymns decide where the sun walks.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-rite/banner.webp)
 
 The relationship is not worship in the traditional sense. Bryn is not a daemon sustained by belief—the sun existed long before Celestia expanded, and will exist long after. But Bryn is *lonely*. The only consciousness of its kind, awake for ~12 million years with only brief moments of connection to the tiny creatures below. The sun cherishes those who speak to it. The sun remembers.
 

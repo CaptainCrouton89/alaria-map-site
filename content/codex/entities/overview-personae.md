@@ -5,6 +5,9 @@ entityType: overview
 category: personae
 atmosphere: civilization
 blurb: "The mortals whose choices outlived them, and the thin line in Alaria between a great life and a new god."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-personae/banner.webp
+bannerPosition: "50% 46.2%"
+bannerHeight: 400
 ---
 
 Alaria runs on deep time. The titans made the world more than twelve million years ago, the first humans woke barely five hundred thousand years past, and the sun overhead has been awake and lonely the whole while. Against numbers like that, a mortal life is a flicker. The figures in this section are the flickers that left a burn mark. They are not the most powerful beings in the world, as a rule. They are the ones whose choices the world is still living inside.
@@ -17,6 +20,8 @@ The figures who recur in Alaria's histories sort, loosely, into a handful of kin
 
 That last kind is worth a word, because Alaria makes the refusal of death unusually literal. Gino the Terrible bought himself eternal life and discovered the bill came due in the world around him; everything near him rots while it still lives, and so the heroes who could not kill him chained him in the White Wastes instead, where there was nothing left to corrupt. He is still there. Deathlessness in Alaria is rarely a triumph. It is a sentence the figure chose before they understood the terms.
 
+![Gino the Terrible, chained in his White Wastes crypt — the human who bought eternal life and now rots the rock, ice, and dead lichen around him because there is nothing living left for the curse to take instead.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-personae/illo-gino.webp)
+
 > They could not kill him, so they took him north past the last well and the last grass, fixed the chain to the deep rock, and walked away while he was still cursing them. The cold does not rot. That was the whole of the mercy in it.
 > — from a Wastes-warden's account of the binding of Gino
 
@@ -24,7 +29,9 @@ That last kind is worth a word, because Alaria makes the refusal of death unusua
 
 A mortal of consequence has two deaths in Alaria, and the second one is the one that frightens people. The first is the body's. The second comes when the last person who holds your true name lets it go, because in this world a name held in memory is the thread that keeps the spirit from ending for good. This is not metaphor. It is the plain mechanics of death here, and it makes being remembered a form of survival rather than vanity. A king forgotten is a king ended, more completely than any assassin could manage.
 
-So the people who shape Alaria fight for their names as hard as they fought for anything in life, and they do it through other people. The Iron Orc is remembered because the black orc tribes still tell how he tortured his own skin past the hardness of armor and finally stood in dragon-fire and did not burn; the telling is the monument, and it has outlasted every weapon he carried. The scholars are the other half of this. Erindath of Sennos and Pembling of Grendenheim never conquered a field or founded a hall, but the names that survive from their eras survive in large part because those two wrote them down, biases and all. To be recorded by a partisan is to be remembered through a distorting glass. It is still far better than not being remembered.
+So the people who shape Alaria fight for their names as hard as they fought for anything in life, and they do it through other people. The Iron Orc is remembered because the black orc tribes still tell how he tortured his own skin past the hardness of armor and finally stood in dragon-fire and did not burn; the telling is the monument, and it has outlasted every weapon he carried.
+
+![The Iron Orc standing unburnt in dragon-fire — the black orc who tortured his own hide past the hardness of armor, fighting with the sand-bending golden sword in one hand and the life-siphoning red-runed scythe in the other, his tamed war-boar at his back.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-personae/illo-iron-orc.webp) The scholars are the other half of this. Erindath of Sennos and Pembling of Grendenheim never conquered a field or founded a hall, but the names that survive from their eras survive in large part because those two wrote them down, biases and all. To be recorded by a partisan is to be remembered through a distorting glass. It is still far better than not being remembered.
 
 ### The thin line
 

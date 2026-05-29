@@ -2,6 +2,7 @@
 id: "plane-astral-currents"
 name: "Astral Currents"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-astral-currents/banner.webp"
 blurb: "The Astral Sea is not still."
 tags: ["cosmology", "trade", "travel"]
 sources:

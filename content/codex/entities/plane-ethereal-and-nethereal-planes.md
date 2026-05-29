@@ -2,6 +2,7 @@
 id: "plane-ethereal-and-nethereal-planes"
 name: "Ethereal and Nethereal Planes"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-ethereal-and-nethereal-planes/banner.webp"
 blurb: "The Ethereal and Nethereal planes are two thin planes that overlay all other planes within Alaria."
 tags: ["plane", "cosmology", "divination", "threads"]
 sources:

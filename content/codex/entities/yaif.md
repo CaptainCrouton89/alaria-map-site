@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2727", note: "SE" }
   - { rel: spatial, kind: within, target: "2455", note: "Kingdom of Fire under Tarkhon Empire per user" }
   - { rel: polity, kind: memberOf, target: "nation-kingdoms-of-fire" }
+  - { rel: polity, kind: ruledBy, target: "person-seraphel" }
   - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
   - { rel: culture, kind: worships, target: "daemon-jingu", note: "Evertorch tradition; flame's generative aspect" }
   - { rel: culture, kind: worships, target: "daemon-kiev", note: "Flame Twins worshipped only as a pair" }
@@ -102,7 +103,7 @@ More than any other kingdom, Yaif feels the loss of the Evertorch.
 
 The flame in Tarkhetan was kindled from Yaif's fire. When Neferati priests visit Tarkhetan, they can tell—the Evertorch burns with the same light as the Flame of First Fire. It's a piece of Yaif, stolen and never returned.
 
-Queen Seraphel has never publicly demanded the Evertorch's return. But the priesthood of Yaif holds detailed records of exactly how the flame was taken, exactly who took it, and exactly what promises were made. Those promises have not been kept.
+Queen Seraphel has never publicly demanded the Evertorch's return. But the priesthood of Yaif keeps the lending-record of the Carried Fire, written in fire on treated stone in the Archive of Ashes: who carried the flame north, in whose hearing the founders swore for it, and what the new city bound itself to pay for the loan. The fire was lent, never given. The terms have gone unhonored since the Severance, when rulers who had sworn nothing turned the priests of Origins out of the cathedral.
 
 Someday, Yaif intends to collect.
 

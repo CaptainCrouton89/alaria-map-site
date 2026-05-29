@@ -2,6 +2,7 @@
 id: "person-gaea"
 name: "Gaea"
 entityType: person
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/person-gaea/banner.webp"
 blurb: "The Earth Mother; creator of flesh life through the language Kethic; now diffused into the world she made."
 weight: legendary
 tags: ["primordial", "creator", "earth"]

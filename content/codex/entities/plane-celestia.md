@@ -2,6 +2,7 @@
 id: "plane-celestia"
 name: "Celestia"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-celestia/banner.webp"
 blurb: "Celestia's creation required two events separated by 11.5 million years."
 tags: ["planes"]
 sources:

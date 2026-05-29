@@ -2,6 +2,7 @@
 id: "plane-time-and-seasons"
 name: "Time and Seasons"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-time-and-seasons/banner.webp"
 blurb: "The sun passes around the center strip of the sky every day, all year."
 tags: ["sun", "moon", "stars"]
 sources:

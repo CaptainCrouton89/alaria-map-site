@@ -2,18 +2,20 @@
 id: "race-giant"
 name: "Giant"
 entityType: race
-blurb: "Giants are huge, lumbering humanoids of limited intelligence but terrifying strength."
+blurb: "Giants are huge, terrifyingly strong humanoids. Most are brutish wanderers, but some lineages keep herds, clans, and even cities."
 sources:
   - "races/Giant.md"
 review:
   aiWritten: false
   action: keep
 ---
-Giants are huge, lumbering humanoids of limited intelligence but terrifying strength. They are divided into two main groups: Hill Giants and Gorgers.
+Giants are huge, terrifyingly strong humanoids, and most of them are exactly the threat that reputation promises: the brutish hill giants who guard their ground with thrown boulders, and the Gorgers who roam the land eating everything in their path. These two are the common kind, feared wherever they range, and they have earned the name the whole race carries. But they are not the whole of it. Some giant lineages put down roots: herding clans that hold their pastures by long memory, and city-builders who farm, trade, and war much like any smaller people.
 
 ### Heritages
 - **Hill Giants** — Sedentary community-dwellers who herd massive sheep and guard their territory; territorial but willing to parley with food and their simple language. See [[race-giant-hill]].
 - **Gorgers** — Nomadic engines of consumption that roam the land eating everything in their path; universally feared and reviled. See [[race-giant-gorger]].
+- **Güli** — Patient, clan-bound mountain giants of the high basins who hold their grazing grounds by reciting lineage further back than any rival can. See [[race-giant-guli]].
+- **Greikh** — City-building giants of the Xcraya valley, a dozen sovereign city-states that farm, trade, and feud, and pen captives in the Prisoner Hills. See [[race-giant-greikh]].
 
 ### Vitals
 - **Size:** Huge

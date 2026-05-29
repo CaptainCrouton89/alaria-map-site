@@ -42,4 +42,9 @@ Eloesi's eastern edge fades into Glidwyn Forest and then the open plains beyond.
 
 #### The Southwestern Border
 
-The Glass Forest marks where Eloesi ends and Old Tolaria's ruins begin. The Eloweir maintain watchtowers along this border, keeping an eye on what emerges from the fae-touched wilderness. Most days, nothing happens. Some days, something does.
+The Glass Forest marks where Eloesi ends and Old Tolaria's ruins begin. It was not always a border. When the wizards of Old Tolaria tore open the seam between the world and Ezz, centuries ago, the Eloweir were the nearest living neighbors to the catastrophe, and they watched the western forest turn from their own shore: the light going wrong inside the leaves, the first fae shapes walking out from under the trees, the song that has leaked from the ruins every night since. The watchtowers went up in the years after. The Eloweir have never stood them down.
+
+The watch is not ceremonial. Things still come out of the Glass Forest, more often bewildered than hostile, and a manned tower is the difference between meeting one on your own terms and meeting it on its. The people of Krakersport, raised close enough to the forest to know the towers as a fact of the horizon, treat what drifts north as weather rather than omen. Further inland the watch thins to a rumor. On the border itself it has not lapsed in living memory, because the Eloweir who keep it are the ones who remember why it started.
+
+> We did not raise the towers to forget. We raised them because we remember.
+> — a watch-saying of the Glass Forest border

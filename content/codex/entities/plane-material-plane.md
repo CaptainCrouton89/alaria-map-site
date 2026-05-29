@@ -3,6 +3,7 @@ id: "plane-material-plane"
 name: "Material Plane"
 entityType: plane
 blurb: "The Material Plane is enormous, and consists of several different layers."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-slab/banner.webp
 tags: ["planes"]
 sources:
   - "cosmology_and_religion/alarian_planar_stack/planes/Material Plane.md"

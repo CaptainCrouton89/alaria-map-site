@@ -2,6 +2,7 @@
 id: "plane-malstaris"
 name: "Malstaris"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-malstaris/banner.webp"
 blurb: "Malstaric Rivers go through the land, which can sweep your shadow away."
 tags: ["plane"]
 sources:

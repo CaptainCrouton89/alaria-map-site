@@ -5,11 +5,14 @@ entityType: overview
 category: deities
 atmosphere: sacred
 blurb: "Alaria's gods were once mortals, and they live on prayer. When the prayers stop, the god ends."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-deities/banner.webp
 ---
 
 Start with the fact that decides everything else: a god of Alaria was once a person. Not descended from a god, not touched by one. A mortal who lived, died carrying the right kind of spirit, and rose. The gods here are called daemons, and the word carries no judgment of good or evil. It names a category of being, the way "dragon" or "titan" does. A daemon is a dead mortal who became something that prayer can feed and miracles can spend.
 
 That is the whole of it, and it is stranger than it sounds. The titans who made the world, Azus and Melera, are not daemons and were never worshipped into being. They are older than worship. A daemon is the opposite kind of thing: a being that exists only because mortals remember it and pray to it, and that stops existing the moment they stop. Craggus was the god of all mankind for fifteen thousand years. He is gone now, and no one who reads this has ever heard him answer a prayer.
+
+![Craggus, the dead god of all mankind, ending: he rebuilt human civilization out of the Long Winter ice for fifteen thousand years, then crumbled to ash when the Laughing Plague dissolved the congregation whose dawn-prayers were his only income.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-deities/illo-craggus.webp)
 
 ### What worship buys
 
@@ -31,6 +34,8 @@ Most mortals who die do not become daemons, and most who could never get the cha
 The first is the kind of spirit you die with, which is a matter of cosmology more than of merit. The second is knowledge. A daemon-to-be must have mastered the titans' command-language, Deoric, in life, deeply enough to compose with it rather than merely recite it. This is rare almost past counting. The reconstruction of that language is the long, scholarly work of the Vyanoweir tradition, and only its deepest students have ever crossed the threshold. The third is worship. Even a qualified soul stays a footnote unless mortals pray to it, because without prayer the new reserve never clears the floor and the daemon ends as fast as it began.
 
 The result is that ascension is most often not earned at all. It is arranged. Tiira, the silver elves' young goddess, did not climb to divinity through faith. Her own government chose a clever girl, tutored her into a vessel, wiped the parts of her past it did not want her to keep, and installed her as a god the elves would be required to worship. A god can be manufactured by a state that understands the rules. The new daemon, in the first hours after rising, has almost nothing in reserve and cannot resist anything, and older powers know it. The moment of ascension is the moment a god is most easily seized.
+
+![Tiira, the silver elves' young goddess, who did not climb to divinity through faith: her government chose a clever girl, tutored her into a vessel, wiped the past it did not want her to keep, and installed her as a god her people are required to worship.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/overview-deities/illo-tiira.webp)
 
 ### The politics of prayer
 

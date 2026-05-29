@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2593", note: "SW" }
   - { rel: spatial, kind: within, target: "2455", note: "Kingdom of Fire under Tarkhon Empire per user" }
   - { rel: polity, kind: memberOf, target: "nation-kingdoms-of-fire" }
+  - { rel: polity, kind: ruledBy, target: "person-ishari", note: "regency: Prince-Consort Vhelan rules for the child queen" }
   - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
   - { rel: culture, kind: worships, target: "daemon-jingu", note: "Evertorch tradition; flame's generative aspect" }
   - { rel: culture, kind: worships, target: "daemon-kiev", note: "Flame Twins worshipped only as a pair" }

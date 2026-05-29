@@ -2,6 +2,7 @@
 id: "plane-life-and-death"
 name: "Life and Death"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-life-and-death/banner.webp"
 blurb: "A creature’s life is dictated by the health and union of their soul, shadow, and spirit."
 tags: ["cosmology"]
 sources:
@@ -59,7 +60,7 @@ If the thread is not broken but still damaged, it can nevertheless have serious 
 If a creature is missing its soul or shadow, its defenses against Deoric magic are drastically weakened, making it susceptible to death, mind control, or anything else the caster desires.
 
 ### Thread Magic
-Those who work with the threads directly access the overlay planes:
+Those who work with the threads directly access the overlay planes. In all three cases the operative source is Deoric — the titan command-language, applied to the thread-stuff of which souls and shadows are woven, is what actually commands the threads to mend, sever, or yield their vibrations; the Ethereal and Nethereal Planes are the overlays through which practitioners reach the threads, not a separate modality.
 
 - **Healers** who mend astral threads work through the Ethereal Plane, which is why soul-healing magic often feels luminous and clarifying.
 - **Necromancers** who sever or manipulate malstaric threads work through the Nethereal Plane, which is why death magic feels cold and invasive—it is literally reaching into the substrate that holds a person together.

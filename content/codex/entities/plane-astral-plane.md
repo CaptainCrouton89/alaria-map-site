@@ -2,6 +2,7 @@
 id: "plane-astral-plane"
 name: "Astral Plane"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-astral-plane/banner.webp"
 blurb: "The Astral Plane consists of a massive sea with floating islands, consisting of a special stone-like material that floats in Astral solution."
 tags: ["cosmology"]
 sources:

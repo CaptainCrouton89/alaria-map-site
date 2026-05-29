@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "457", note: "Ubrik refugees and silvertongue raids spill west into Bestacia" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
+  - { rel: history, kind: participatedIn, target: "event-aldriktch-founding" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
 review:
   aiWritten: true
@@ -21,6 +22,8 @@ review:
 A Uline dwarf nation in the mountains of the Middle Sea coast, between Camaran and Bestacia. Once a prosperous mining state, now a nightmare. The silvertongue outbreak has turned half the population into mercury-mouthed cannibals, and the infection is spreading.
 
 Member of the Aldriktch Trade Alliance, though the alliance is buckling under the crisis. Refugees flood neighboring states. Silvertongues raid across borders. No cure exists.
+
+Ubrik never had a crown. Authority belonged to the Wardens' Table, the senior mine-wardens of the great northern and southern fields, who settled disputes among themselves and apportioned the deep work between their fields. The Table came apart as the northern wardens died in their own shafts. What remains of it sits in the south and speaks for no one above the refugee line.
 
 #### The Northern Mines
 

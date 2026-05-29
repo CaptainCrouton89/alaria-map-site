@@ -65,7 +65,7 @@ A ring of massive standing stones in the central mountains, predating any known 
 
 Lowland Enymese are not welcome at the Old Stones. Those who have trespassed have been turned back—forcefully if necessary. What exactly happens at Stone Men ceremonies is unknown to outsiders.
 
-Some scholars believe the Old Stones are connected to the titan crystals in the Stone Forest. The Stone Men neither confirm nor deny this.
+The Old Stones are of a piece with the titan crystals in the Stone Forest, the same deep stone surfacing in two places. The Stone Men know this and neither explain it to outsiders nor deny it.
 
 #### What Lies Beyond
 

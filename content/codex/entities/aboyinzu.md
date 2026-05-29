@@ -3,6 +3,7 @@ id: "1388"
 name: "Aboyinzu"
 entityType: region
 blurb: "The southwestern of Alaria's three central continents: a hooked landmass of temperate coast, savanna heartlands, rainforest, and a cold southern mountain wall."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1388/banner.webp
 coordinates: [337, 512]
 zoomLevel: 0
 sources: ["all_sections_formatted/Aboyinzu.md#L1"]

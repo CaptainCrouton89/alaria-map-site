@@ -2,6 +2,7 @@
 id: "plane-stars-suns-and-moons"
 name: "Stars, Suns, and Moons"
 entityType: plane
+banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-stars-suns-and-moons/banner.webp"
 blurb: "Built by the titans to illuminate the darkness of the world."
 tags: ["cosmology", "celestial"]
 sources:

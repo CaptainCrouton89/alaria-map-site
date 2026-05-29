@@ -50,6 +50,8 @@ The Kharvorn comprises numerous distinct mountain ranges along its length, from 
 
 The Kharvorn's high passes and interior valleys host Ikriel — the frost-transformed pixie predators who haunt cold environments across the world. They do not hold territory; they move through it, hunting travelers and feeding on whatever warmth they find. No range of the Kharvorn is entirely free of them, and the passes draw them because the passes draw prey.
 
+The northern sub-ranges have changed hands within living memory. Two centuries ago the brother-dragons Rothogomos and Tepheranos came down on the dwarven kingdom of Argysis and broke it, and the southern basin of Anarak fell to dragon rule in the same generation. That fall pushed a wave of dwarven refugees east into Hephake and left the upper Kharvorn split between two dragons who have not moved against each other since.
+
 TODO
 
 ### What Makes It Interesting

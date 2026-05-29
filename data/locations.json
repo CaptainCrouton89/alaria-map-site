@@ -1233,6 +1233,8 @@
       "480",
       "3850",
       "1328",
+      "creature-rothogomos",
+      "creature-tepheranos",
       "390",
       "980",
       "1301",
@@ -1242,10 +1244,12 @@
       "race-halfling",
       "918",
       "477",
+      "creature-dragons",
       "creature-wyverns",
       "951",
       "952",
       "801",
+      "426",
       "710",
       "race-elf-sivakr",
       "411",
@@ -1293,7 +1297,7 @@
     "atmosphere": "trade",
     "blurb": "The Middle Sea Lands are the coastal lowlands and inner-sea rim south of the Kharvorn Mountains — home to the Middle Sea trade nations from Anarak in the west to Adron in the east.",
     "parentName": "Clueanda",
-    "containsCount": 12
+    "containsCount": 13
   },
   {
     "id": "manual-mph53on6-mirms",
@@ -2536,14 +2540,25 @@
       "race-naga-nagashi",
       "race-naga-megelren",
       "race-kendor-pelaendor",
+      "person-mariseni",
+      "era-reign-of-dragons",
       "679",
       "585",
       "764",
+      "event-dragon-rider-era",
+      "creature-hykravones",
+      "creature-nagatayora",
       "404",
       "390",
+      "plane-malstaris",
       "421",
+      "creature-dragons",
       "556",
+      "482",
+      "412",
+      "creature-titan",
       "race-dwarf",
+      "person-gaea",
       "race-naga"
     ],
     "loreFile": "Clueanda.md",
@@ -2552,7 +2567,7 @@
       "nation"
     ],
     "atmosphere": "civilization",
-    "blurb": "Adron is the easternmost state on the Middle Sea, a proud Naga kingdom nestled between dramatic mountain ranges.",
+    "blurb": "Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges, once the realm of bonded dragon-riders.",
     "parentName": "Middle Sea Lands",
     "containsCount": 30,
     "borders": [
@@ -2682,9 +2697,11 @@
       "591",
       "9000",
       "creature-tepheranos",
+      "event-the-dragon-betrayal",
       "905",
       "536",
       "464",
+      "creature-rothogomos",
       "430",
       "creature-dragons",
       "race-goblin"
@@ -2697,7 +2714,7 @@
     "atmosphere": "civilization",
     "blurb": "A basin nation ruled by the black dragon Tepheranos, squeezed between the Crags of Geth to the south and Argysis in the Kharvorn Mountains to…",
     "parentName": "Middle Sea Lands",
-    "containsCount": 13,
+    "containsCount": 12,
     "borders": [
       {
         "id": "918",
@@ -3690,10 +3707,15 @@
     "relatedIds": [
       "2455",
       "race-neferati",
-      "2460",
+      "event-neferati-founding",
+      "person-vhelan",
+      "event-the-carried-fire",
       "2573",
+      "person-seraphel",
       "event-the-severance",
       "person-khalira",
+      "person-ishari",
+      "person-rashaan",
       "manual-mpha3di4-etrb5",
       "2509",
       "person-selron-ii",
@@ -4345,6 +4367,7 @@
       "816",
       "9000",
       "race-human-oznak",
+      "event-ta-minn-expansion",
       "810",
       "536",
       "1327",
@@ -5165,10 +5188,13 @@
       "952",
       "426",
       "race-shyka",
-      "931",
-      "958",
+      "creature-rothogomos",
+      "event-the-dragon-betrayal",
       "creature-tepheranos",
-      "921"
+      "921",
+      "430",
+      "creature-dragons",
+      "race-dwarf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -5177,7 +5203,7 @@
       "dragon territory"
     ],
     "atmosphere": "civilization",
-    "blurb": "Argysis is a sub-range of the Kharvorn Mountains that once housed one of the great dwarven kingdoms.",
+    "blurb": "A Kharvorn sub-range that was once a great dwarven kingdom, now a black dragon's empty hoard worked by his Shyka servants.",
     "parentName": "Kharvorn Mountains",
     "containsCount": 12,
     "borders": [
@@ -5542,10 +5568,16 @@
       "884",
       "9000",
       "faction-aldriktch-trade-alliance",
+      "person-oxwen-amberyskos",
       "race-gnome-goshwen",
+      "event-aldriktch-founding",
+      "event-the-ghoul-forge",
       "463",
+      "era-lost-ages",
       "390",
+      "person-vakhreon",
       "creature-undead",
+      "magic-deoric",
       "race-ghoul",
       "race-gnome",
       "864"
@@ -5854,9 +5886,13 @@
       "479",
       "9000",
       "faction-aldriktch-trade-alliance",
+      "person-doravin-selmari",
+      "event-aldriktch-founding",
+      "event-the-camaran-blight",
       "race-human",
       "905",
       "390",
+      "manual-mph6njar-srqmu",
       "magic-deoric",
       "494"
     ],
@@ -6649,9 +6685,12 @@
       "884",
       "race-gnome-echi",
       "faction-aldriktch-trade-alliance",
+      "event-the-camaran-blight",
       "497",
+      "person-doravin-selmari",
       "390",
-      "477"
+      "477",
+      "magic-deoric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -6848,9 +6887,12 @@
       "2501",
       "manual-mpha4gzt-vjyu9",
       "2488",
+      "person-aldric-iv",
       "race-human",
       "race-craven",
       "race-human-stone-men",
+      "event-enymu-subjugation",
+      "person-selron-ii",
       "2574",
       "453",
       "creature-monsters",
@@ -6939,7 +6981,7 @@
       147
     ],
     "zoomLevel": 3,
-    "parentId": "426",
+    "parentId": "9000",
     "relatedIds": [
       "710",
       "477",
@@ -6949,10 +6991,18 @@
       "591",
       "457",
       "faction-aldriktch-trade-alliance",
+      "person-merrin-wendling",
+      "event-aldriktch-founding",
       "race-halfling-belenstrope",
+      "9000",
+      "463",
+      "person-corwen-hostling",
       "390",
       "race-halfling",
-      "manual-mphr471a-m34fc"
+      "race-goblin",
+      "manual-mphr471a-m34fc",
+      "race-dwarf",
+      "884"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -6961,7 +7011,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A Belenstrope halfling nation in the central Middle Sea region, defined by trade, diplomacy, and a complete inability to fight.",
-    "parentName": "Anarak",
+    "parentName": "Middle Sea Lands",
     "containsCount": 20,
     "borders": [
       {
@@ -7444,9 +7494,11 @@
       "2593",
       "2455",
       "nation-kingdoms-of-fire",
+      "person-ishari",
       "race-neferati",
       "daemon-jingu",
       "daemon-kiev",
+      "person-vhelan",
       "2573",
       "person-khalira",
       "2574"
@@ -8215,7 +8267,12 @@
       "710",
       "918",
       "715",
-      "race-dwarf-uline"
+      "race-dwarf-uline",
+      "event-the-dragon-betrayal",
+      "931",
+      "958",
+      "creature-rothogomos",
+      "person-stromgar"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -8907,6 +8964,7 @@
       "2611",
       "2455",
       "nation-kingdoms-of-fire",
+      "person-rashaan",
       "race-neferati",
       "daemon-jingu",
       "daemon-kiev",
@@ -9113,11 +9171,14 @@
     "relatedIds": [
       "895",
       "9000",
+      "person-salomor",
       "race-human",
       "663",
+      "658",
       "469",
       "753",
       "657",
+      "event-the-glassing",
       "390",
       "manual-mphafe4r-lmmni",
       "manual-mpk2v7lk-92aoi"
@@ -9176,7 +9237,6 @@
       "race-halfling",
       "person-ulyas",
       "2495",
-      "event-the-severance",
       "2473",
       "2536",
       "2574",
@@ -9185,7 +9245,8 @@
       "2555",
       "2472",
       "2533",
-      "manual-mphaatp1-bcdf0"
+      "manual-mphaatp1-bcdf0",
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -12612,8 +12673,8 @@
       "816",
       "895",
       "9000",
-      "483",
       "race-gnome-ezuri",
+      "483",
       "race-gnome"
     ],
     "loreFile": "Clueanda.md",
@@ -13824,6 +13885,7 @@
       "457",
       "9000",
       "faction-aldriktch-trade-alliance",
+      "event-aldriktch-founding",
       "race-dwarf-uline",
       "390",
       "477",
@@ -14054,6 +14116,7 @@
       "2555",
       "2455",
       "race-dwarf-uline",
+      "event-vogenfeld-pact",
       "2604",
       "2462",
       "manual-mphai60e-q7lti",
@@ -14061,9 +14124,11 @@
       "2574",
       "1195",
       "manual-mpghonng-4ts4l",
+      "person-vorgar",
       "manual-mpghohae-t851o",
       "2544",
-      "race-dwarf"
+      "race-dwarf",
+      "manual-mph6kfdn-wgzf5"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -14103,7 +14168,10 @@
       "person-khalira",
       "daemon-jingu",
       "daemon-kiev",
+      "person-vhelan",
+      "person-seraphel",
       "event-the-severance",
+      "person-rashaan",
       "manual-mpha3di4-etrb5",
       "2574",
       "2519",
@@ -14142,9 +14210,12 @@
       "494",
       "9000",
       "faction-aldriktch-trade-alliance",
+      "person-drazvik-strugmar",
+      "event-aldriktch-founding",
       "race-dwarblin",
       "463",
-      "390"
+      "390",
+      "race-gnome-goshwen"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -14505,12 +14576,15 @@
       "2727",
       "2455",
       "nation-kingdoms-of-fire",
+      "person-seraphel",
       "race-neferati",
       "daemon-jingu",
       "daemon-kiev",
+      "event-the-carried-fire",
       "2573",
       "event-the-severance",
       "person-khalira",
+      "person-rashaan",
       "manual-mpha3di4-etrb5",
       "2574",
       "2593"
@@ -15034,10 +15108,19 @@
     "zoomLevel": 4,
     "parentId": "2582",
     "relatedIds": [
-      "2582"
+      "2582",
+      "event-vogenfeld-pact",
+      "1036",
+      "2574",
+      "1195",
+      "manual-mpghonng-4ts4l",
+      "manual-mpghohae-t851o",
+      "race-dwarf-uline",
+      "race-dwarf"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "The largest of Vogenfeld's three dwarf-holds, carved into the mountain above the Pass of Oaths; its great gates have never fallen, and the Council of Thanes meets behind them.",
     "parentName": "Vogenfeld"
   },
   {
@@ -16127,6 +16210,7 @@
     "relatedIds": [
       "477",
       "411",
+      "person-filgerran-ii",
       "race-giant-guli",
       "977",
       "978",
@@ -16262,7 +16346,8 @@
     "zoomLevel": 4,
     "parentId": "801",
     "relatedIds": [
-      "801"
+      "801",
+      "810"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -17984,6 +18069,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "creature-rothogomos",
       "921"
     ],
     "loreFile": "Clueanda.md",
@@ -18291,6 +18377,7 @@
       "479",
       "manual-mph6mog2-n4le9",
       "3850",
+      "person-filgerran-ii",
       "430",
       "race-giant",
       "race-human"
@@ -21249,7 +21336,8 @@
     "zoomLevel": 4,
     "parentId": "652",
     "relatedIds": [
-      "652"
+      "652",
+      "event-the-glassing"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -23591,6 +23679,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "creature-rothogomos",
       "430",
       "426"
     ],
@@ -24071,6 +24160,7 @@
       "faction-aldriktch-trade-alliance",
       "person-king-samaryn",
       "race-elf-sivakr",
+      "event-sivakr-emergence",
       "715"
     ],
     "loreFile": "Clueanda.md",
@@ -24580,7 +24670,10 @@
     "parentId": "918",
     "relatedIds": [
       "918",
-      "932"
+      "event-the-dragon-betrayal",
+      "932",
+      "creature-rothogomos",
+      "person-gronmar"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -27298,9 +27391,12 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "creature-rothogomos",
+      "921",
       "947",
       "952",
-      "race-goblin"
+      "race-goblin",
+      "race-shyka"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -28417,8 +28513,10 @@
     "parentId": "426",
     "relatedIds": [
       "426",
+      "event-the-dragon-betrayal",
       "464",
-      "creature-tepheranos"
+      "creature-tepheranos",
+      "918"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -28506,6 +28604,8 @@
     "parentId": "411",
     "relatedIds": [
       "411",
+      "creature-dragons",
+      "race-naga-nagashi",
       "482"
     ],
     "loreFile": "Clueanda.md",
@@ -30415,6 +30515,7 @@
     "parentId": "652",
     "relatedIds": [
       "652",
+      "person-salomor",
       "manual-mpk2v7lk-92aoi"
     ],
     "loreFile": "Clueanda.md",
@@ -30435,8 +30536,12 @@
     "parentId": "710",
     "relatedIds": [
       "710",
+      "713",
       "715",
-      "magic-deoric"
+      "daemon-xalvaakr",
+      "magic-deoric",
+      "race-elf-sivakr",
+      "manual-mph6neco-ualoy"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -31025,6 +31130,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "creature-rothogomos",
       "1270",
       "1301",
       "921",
@@ -34306,7 +34412,8 @@
     "zoomLevel": 5,
     "parentId": "652",
     "relatedIds": [
-      "652"
+      "652",
+      "event-the-glassing"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -34491,10 +34598,13 @@
     "zoomLevel": 5,
     "parentId": "864",
     "relatedIds": [
-      "864"
+      "864",
+      "event-the-slick-silver",
+      "manual-mph6l3k1-799a4"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A lost Uline mine settlement in Ubrik's northern field, the first to be overrun after Lohva fell to the silvertongues.",
     "parentName": "Ubrik"
   },
   {
@@ -39143,7 +39253,11 @@
     "parentId": "918",
     "relatedIds": [
       "918",
-      "1248"
+      "event-the-dragon-betrayal",
+      "1248",
+      "creature-rothogomos",
+      "creature-dragons",
+      "race-shyka"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -40359,10 +40473,12 @@
     "zoomLevel": 5,
     "parentId": "864",
     "relatedIds": [
-      "864"
+      "864",
+      "event-the-slick-silver"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A lost Uline mine settlement in Ubrik's northern field, the last to send word south before the outbreak swallowed the high galleries.",
     "parentName": "Ubrik"
   },
   {
@@ -41649,10 +41765,15 @@
     "zoomLevel": 5,
     "parentId": "411",
     "relatedIds": [
-      "411"
+      "411",
+      "event-the-megelren-exile",
+      "421",
+      "person-serileni",
+      "race-naga-megelren"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "An emptied waystation of the Waterdark shadow-arm, disowned at the Megélren Exile and never reclaimed.",
     "parentName": "Adron"
   },
   {
@@ -42643,6 +42764,7 @@
     "parentId": "479",
     "relatedIds": [
       "479",
+      "person-filgerran-ii",
       "477",
       "race-giant-guli"
     ],
@@ -47729,10 +47851,12 @@
     "zoomLevel": 5,
     "parentId": "864",
     "relatedIds": [
-      "864"
+      "864",
+      "event-the-slick-silver"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A lost Uline mine settlement in Ubrik's northern field, built above the Dnyrrak Cut where the first slick silver vein was struck.",
     "parentName": "Ubrik"
   },
   {
@@ -49894,7 +50018,10 @@
     "zoomLevel": 5,
     "parentId": "918",
     "relatedIds": [
-      "918"
+      "918",
+      "event-the-dragon-betrayal",
+      "creature-rothogomos",
+      "creature-dragons"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -52299,10 +52426,14 @@
     "zoomLevel": 5,
     "parentId": "514",
     "relatedIds": [
-      "514"
+      "514",
+      "560",
+      "732",
+      "race-elf-eloweir"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "An Eloweir tomb in the southern hills of Eloesi, cut long before Old Tolaria fell and the Glass Forest watch was set.",
     "parentName": "Eloesi"
   },
   {
@@ -58795,12 +58926,14 @@
     "zoomLevel": 5,
     "parentId": "411",
     "relatedIds": [
-      "411"
+      "411",
+      "event-dragon-rider-era",
+      "race-naga-nagashi"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "ancient",
-    "blurb": "A fortress in the mountains, exact purpose unclear.",
+    "blurb": "A dead bond-forge of the Wyrmward, where Nagashi riders were once joined to their war-dragons.",
     "parentName": "Adron"
   },
   {
@@ -58871,10 +59004,14 @@
     "zoomLevel": 5,
     "parentId": "477",
     "relatedIds": [
-      "477"
+      "477",
+      "race-giant",
+      "race-human",
+      "race-giant-guli"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A ruined mine on the Egül frontier, once worked jointly by Camaran and the Güli giants until the border tension closed it.",
     "parentName": "Camaran"
   },
   {
@@ -58889,6 +59026,7 @@
     "parentId": "927",
     "relatedIds": [
       "927",
+      "creature-rothogomos",
       "453",
       "918"
     ],
@@ -60589,7 +60727,9 @@
     "relatedIds": [
       "710",
       "race-elf-sivakr",
+      "event-sivakr-emergence",
       "711",
+      "magic-deoric",
       "manual-mph6neco-ualoy",
       "race-giant"
     ],
@@ -62676,7 +62816,9 @@
     "zoomLevel": 5,
     "parentId": "652",
     "relatedIds": [
-      "652"
+      "652",
+      "event-the-glassing",
+      "race-human-shapers"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -62734,8 +62876,10 @@
     "parentId": "952",
     "relatedIds": [
       "952",
+      "event-the-dragon-betrayal",
       "932",
       "957",
+      "creature-rothogomos",
       "918"
     ],
     "loreFile": "Clueanda.md",
@@ -63415,8 +63559,12 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "event-the-dragon-betrayal",
       "957",
+      "creature-rothogomos",
+      "creature-tepheranos",
       "453",
+      "creature-dragons",
       "952"
     ],
     "loreFile": "Clueanda.md",
@@ -64992,7 +65140,11 @@
     "parentId": "411",
     "relatedIds": [
       "411",
-      "585"
+      "event-the-severing-of-the-dragon-bonds",
+      "person-kareshi",
+      "585",
+      "event-dragon-rider-era",
+      "race-naga-nagashi"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -65312,6 +65464,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
+      "creature-rothogomos",
       "creature-undead",
       "922"
     ],
@@ -65417,6 +65570,7 @@
       "918",
       "1293",
       "932",
+      "creature-rothogomos",
       "921"
     ],
     "loreFile": "Clueanda.md",
@@ -65706,10 +65860,12 @@
     "zoomLevel": 5,
     "parentId": "652",
     "relatedIds": [
-      "652"
+      "652",
+      "manual-mpk2v7lk-92aoi"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A small river settlement in northern Kazül, on the water road toward Glorin.",
     "parentName": "Kazül"
   },
   {
