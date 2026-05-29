@@ -620,7 +620,7 @@ Checks
   mentionScanCollisions  (warning) single-word entity names not in MENTION_SCAN_SKIP_NAMES with ≥ threshold cross-body
                                    prose hits — candidate common-English collisions polluting See Also. Review and
                                    add to scripts/mention-scan-skipnames.mts if appropriate. Threshold via --hits (default 25).
-  parentRaceInhabitant   (warning) inhabitedBy edges whose target is a parent race that has subraces — resolve to a specific
+  parentRaceInhabitant   (error)   inhabitedBy edges whose target is a parent race that has subraces — resolve to a specific
                                    subrace. race-human is exempt (accepted generic fallback); a small per-region allowlist
                                    (FALLBACK_INHABITANT_ALLOW) covers non-human regions where no subrace fits. Any other
                                    broad non-human inhabitedBy edge flags — these are the worklist for subrace resolution.
@@ -871,8 +871,8 @@ Output (JSON)
     }
   }
 
-  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length;
-  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length + parentRaceFindings.length;
+  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length + parentRaceFindings.length;
+  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length;
 
   emit({
     ok: errors === 0,
@@ -886,7 +886,7 @@ Output (JSON)
       bothEndsUndirected:    { severity: 'warning', count: bothUndirectedFindings.length, findings: bothUndirectedFindings },
       orphansGeographic:     { severity: 'warning', count: orphanGeoFindings.length,      findings: orphanGeoFindings },
       mentionScanCollisions: { severity: 'warning', count: mentionFindings.length,        findings: mentionFindings, threshold: hitsThreshold },
-      parentRaceInhabitant:  { severity: 'warning', count: parentRaceFindings.length,     findings: parentRaceFindings },
+      parentRaceInhabitant:  { severity: 'error',   count: parentRaceFindings.length,     findings: parentRaceFindings },
       orphansNonGeographic:  { severity: 'info',    count: orphanNonGeoCount },
     },
     limitations: ['date-sanity: no structured date fields — see plan'],
