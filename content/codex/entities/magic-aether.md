@@ -10,11 +10,11 @@ review:
   aiWritten: false
   action: keep
 ---
-Aether is the primary meta-fluid source of energy on Lanthornia—a nearby planar stack. An eruption on lanthornia caused a sizable quantity of aether and lanthornium to be expelled from the planar stack and land in Alaria.
+Aether is the primary meta-fluid source of energy on Lanthornia, a nearby planar stack. It is not native to Alaria. An eruption on Lanthornia expelled a sizable quantity of Aether and Lanthornium from that stack, and both came to rest here.
 
-Some creatures of Alaria have some sensitivity to the material and can manipulate it and pull it out of the air. Aether is used to power sky ships and a number of other machines and contraptions.
+Some creatures of Alaria have a sensitivity to the material and can manipulate it, drawing it out of the air. Aether powers sky ships and a range of other machines.
 
-Raw Aether spends most of it's time in the air—inert, invisible, and immaterial. However, it can be extracted and processed with a little water, turning it into a powerful fuel. On contact with a purified lanthornium vibrating at a specific frequency, the aether will begin to expand, losing it's bond with the water and becoming non-substantive once more. There are many similarities to a steam engine. Aether engines frequently involve lanthornium plates being struck to start, causing an self-striking process to continue feeding more aether and lanthornium strikes.
+Raw Aether spends most of its time in the air, inert and invisible and immaterial. It can be extracted and processed with a measure of water, which turns it into a powerful fuel. On contact with purified Lanthornium vibrating at a specific frequency, the Aether expands, loses its bond with the water, and becomes insubstantial again. The principle resembles a steam engine. Aether engines are typically started by striking a Lanthornium plate, which begins a self-sustaining cycle that feeds further Aether and Lanthornium strikes.
 
 ### Lanthornium
-An uncommon, gray-blue type of stone that requires some expensive processing to purify.
+An uncommon gray-blue stone that requires expensive processing to purify.

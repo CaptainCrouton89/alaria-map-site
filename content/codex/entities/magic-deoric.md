@@ -10,7 +10,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Deoric is the language of absolute power. Statements spoken in deoric have the power to rip the world apart, if anybody had the knowledge and capacity to wield the power required to do so. According to legends, this is the language the gods spoke when they created the world. Nowadays, the spoken language is nearly dead, though the written form remains alive in the runes used in handmagic, as well as forbidden rituals performed by the few left who know them.
+Deoric is the language of absolute power. A statement spoken in true Deoric can tear the world apart, given a speaker with the knowledge to compose it and the capacity to bear what wielding it costs. It is the titans' native tongue, the command-language Azus's first creations used to give reality its form. The spoken language is nearly dead now. Its written form survives in the runes of handmagic and in the forbidden rituals that the few who still know the words continue to perform.
 
 ### Handmagic
 The amount of power required to channel Deoric is immense, let alone wield it in a purposeful way. It is only through the strengthening of the astral and malstaric threads—the bindings between one's soul, spirit, and shadow—that one can hope to channel the power necessary to use Deoric.
@@ -18,6 +18,8 @@ The amount of power required to channel Deoric is immense, let alone wield it in
 Handmagic runes are tattooed on the back of one's hands using titan blood (or ground titan bone mixed into a paste). The hands serve a dual purpose: they are the extremities through which the runes are articulated—specific hand movements activate specific runes—and their distance from the spirit's core in the chest provides the leverage needed to control the flow of cosmic power.
 
 With stronger threads, one's hands can bear more runes. However, inscribing too many runs the risk of snapping one's threads entirely, killing the owner instantly as their soul, spirit, and shadow fly apart.
+
+The threads can be worked as well as strengthened. Mending a frayed astral thread, reknitting the soul-binding through the Ethereal overlay, is what soul-healers do; severing or twisting a malstaric thread through the Nethereal overlay is what necromancers do. Both are Deoric. Azus fixed the soul-binding when he ordered death, settling how soul, spirit, and shadow hold together, and the threads answer to the command-language that authored them. Reshaping them is that language's own work, and like any Deoric working it is paid for in life.
 
 #### Why Handmagic Strains the Threads
 The astral and malstaric threads were designed to carry essence *inward*—soul-energy from Aurus down through the Ethereal Plane, shadow-energy from Nydus up through the Nethereal Plane, both sustaining the spirit at their center. They are feeding tubes, not power cables.
@@ -54,10 +56,10 @@ Yet daemons are the greatest Deoric practitioners in existence. How?
 Daemons cannot cast Deoric *within* Celestia, but they can reach *across* the boundary to a worshipper on the Material Plane. This is how daemons grant miracles, and it works only when the worshipper already holds enough grammar to begin a working:
 
 1. A worshipper on the Material Plane performs a ritual, providing the blood sacrifice and beginning a working in Deoric they already know how to compose
-2. The daemon, perceiving this through the Psywinds, corrects and extends the working in near-real time, supplying the structure a mortal hand cannot complete on its own
+2. The daemon perceives this through the Psywinds and answers along the same current, projecting its corrections and extensions back through the Psywinds in near-real time to supply the structure a mortal hand cannot complete on its own
 3. The Deoric magic takes effect on the Material Plane, where it functions normally
 
-The worshipper supplies the body, the sacrifice, and a working already underway. The daemon supplies reach and refinement: the structural depth to make a clumsy invocation precise, and the one place where the magic can actually fire. What a daemon cannot do is teach a mortal who knows nothing. Guidance reshapes a working in progress; it does not put the first grammar in a worshipper's head. That a mortal gets only from the mortal tradition — a teacher who has crossed into composing novel Deoric, or the inert texts the Vyanoweir left behind.
+The Psywinds carry the prayer up and the correction back; the channel runs both ways for as long as the ritual stays live. The worshipper supplies the body, the sacrifice, and a working already underway. The daemon supplies reach and refinement: the structural depth to make a clumsy invocation precise, and the one place where the magic can actually fire. What a daemon cannot do is teach a mortal who knows nothing. Guidance reshapes a working in progress; it does not put the first grammar in a worshipper's head. That a mortal gets only from the mortal tradition — a teacher who has crossed into composing novel Deoric, or the inert texts the Vyanoweir left behind.
 
 This is why daemon worship requires *active followers*. A daemon who loses all worshippers loses any way to act on the Material Plane through Deoric — trapped in Celestia, rich in knowledge and unable to spend it, slowly fading as their name is forgotten.
 

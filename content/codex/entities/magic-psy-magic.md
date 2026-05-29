@@ -10,53 +10,28 @@ review:
   aiWritten: false
   action: keep
 ---
-Psy magic harnesses the **Psywinds**—the ever-present, swirling mass of thoughts of all life within the planar stack. It is the counterpart to Faesong, and together they represent the two great ambient magical forces in Alaria.
+Psy magic harnesses the Psywinds, the swirling mass of thought that every living thing sheds into the world. It is the counterpart to Faesong. Together the two are the great ambient forces of Alaria: the thought-current and the emotion-current of a single substrate.
 
 ### The Psywinds
-The Psywinds are currents of flowing Ezz that carry the collective thoughts, ideas, and intentions of all living beings across Alaria. They are what allows telepathic creatures to communicate, syncopaths to function, and prayers to be heard from Celestia. You can hear your true name no matter where it is spoken on Alaria because it ripples through the Psywinds.
+The Psywinds are currents of flowing Ezz, and they carry the thought and intention of every living being across Alaria. Mind touches mind through them, at any distance. They are what lets telepathic creatures speak without sound, what lets syncopaths perceive at all, and how prayer reaches the daemons of Celestia. You can hear your true name no matter where on Alaria it is spoken, because the saying of it ripples through the Psywinds and finds you.
 
-Where **Faesong** carries emotion and harmony (flowing from Melera outward), the **Psywinds** carry thought and intention (flowing between all minds). They are the cognitive substrate of Alaria—the medium through which minds can touch.
+Faesong carries emotion and harmony, flowing outward from Melera. The Psywinds carry thought and intention, flowing between all minds. They are the cognitive substrate of the world, the medium through which minds touch and nothing else does.
 
-### Nature of Psy Magic
-Psy magic works by tapping into the Psywinds directly, either reading what flows through them or adding one's own thoughts to their currents. Unlike Kethic magic (which channels emotion through elemental expression) or Deoric (which commands reality through absolute language), psy magic operates on the realm of pure thought and will.
+### Nature of psy magic
+Psy magic works by tapping the Psywinds directly. A practitioner either reads what already moves through the currents or adds thought of their own. That is its whole character. Kethic channels emotion through elemental expression and Deoric commands reality through absolute language, but psy magic never touches the physical world at all. It works on thought and will alone.
 
-Psy mages do not impose their will on the physical world directly. Instead, they:
-- Read thoughts and memories from the Psywind currents
-- Project their own thoughts into other minds
-- Sense disturbances and intentions at a distance
-- Manipulate the perceptions of others by altering what the Psywinds carry to them
+A psy mage does not move objects or shape fire. They read thoughts and memories out of the currents, press their own thoughts into another mind, and feel intention gathering at a distance before it acts. The subtlest of them alter what the Psywinds carry to a target, so that the victim's own senses lie to them. None of this leaves a mark a body could find.
 
-### Who Practices Psy Magic
-**Syncopaths** are naturally attuned to the Psywinds. They perceive the currents of thought constantly, which can be overwhelming but grants them powerful telepathic abilities.
+### Who practices psy magic
+Syncopaths are born attuned to the Psywinds. They perceive the currents without pause, which can drown a mind as easily as serve it, and the gift carries telepathic reach that trained mages spend decades trying to match. Telepaths of many races work the currents for communication and sensing; some are born to it, while others grind out years of practice to reach even a thread of sensitivity. Certain religious orders teach the art as communion, sensing the prayers of the faithful or pressing a blessing across a distance. The daemons of Celestia depend on the Psywinds entirely, since the currents are how a daemon hears its name spoken and knows its worshippers still call.
 
-**Telepaths** of various races have learned to tap the Psywinds for communication and sensing. Some are born with the gift; others train for years to develop even basic sensitivity.
+### Learning psy magic
+The art can be taught, but it asks three things in sequence, and a failure at any one of them ends the lesson. First comes sensitivity: a student must quiet their own thoughts enough to perceive the Psywinds underneath. Then comes filtering. The currents carry the minds of billions at once, and a practitioner who cannot narrow to the few that matter does not so much fail the next step as lose the ability to think at all. Last comes projection, pushing one's own thought into the currents with force and clarity enough that another mind receives it cleanly.
 
-**Certain religious orders** teach psy magic as a means of communion—sensing the prayers of the faithful or projecting blessings across distances.
+Those born sensitive skip the first labor and spend their training on control instead. The rest must build sensitivity from nothing, through meditation, through sensory deprivation, or by traveling to the places where the Psywinds run strong enough to be felt by anyone.
 
-**The daemons of Celestia** rely on the Psywinds to hear prayers and maintain connection with their followers. This is how they know when their true name is spoken.
-
-### Learning Psy Magic
-Psy magic can be learned, but it requires:
-1. **Sensitivity training** - Learning to quiet one's own thoughts enough to perceive the Psywinds
-2. **Filtering** - The Psywinds carry the thoughts of billions of beings; learning to focus on relevant currents without going mad is essential
-3. **Projection** - Adding one's own thoughts to the currents with enough force and clarity to be received
-
-Some are born with natural sensitivity; for them, training focuses on control. Others must develop sensitivity through meditation, sensory deprivation, or exposure to places where the Psywinds run strong.
-
-### Psywinds and Faesong
-| Aspect | Psywinds | Faesong |
-|--------|----------|---------|
-| **Source** | Collective thoughts of all living beings | Melera's imprisoned song |
-| **Substance** | Flowing Ezz carrying thought | Pure harmony/emotion |
-| **Direction** | Flows between all minds | Flows from Melera outward |
-| **Perception** | Heard as whispers/images | Felt as harmony/dissonance |
-| **Users** | Telepaths, syncopaths, psy mages | Druids, fae, bards |
-
-Faesong and the Psywinds are two faces of the same Ezz — not the same force, but two halves of one substrate. Psywinds carry thought and intention; Faesong carries emotion and harmony. Together they are what Ezz is.
+### The Psywinds and Faesong
+Psywinds and Faesong are two faces of the same Ezz, thought and emotion. Faesong carries the full pairing in its own article; see Faesong for the comparison in detail.
 
 ### Dangers
-The Psywinds are not a safe medium:
-- **Overexposure** can drive psy mages mad—hearing the thoughts of thousands at once shatters the mind
-- **Predators** hunt through the Psywinds, seeking vulnerable minds to infiltrate
-- **Echoes of the dead** sometimes persist in the currents, ghostly thought-fragments that can overwhelm the unwary
-- **Intentional attacks** can be launched through the Psywinds by those skilled enough—psychic assaults that bypass physical defenses entirely
+The Psywinds are not a safe medium to work in. Overexposure breaks minds outright: a mage who hears the thoughts of thousands at once, with no filter left to hold them off, does not recover the self that went in. Predators hunt the currents for undefended minds to enter and ride. Fragments of the dead linger there too, thought-echoes that outlast the thinker and rise to swamp the unwary. And a practitioner skilled enough can turn the medium into a weapon, striking another mind through the currents in an assault no armor and no wall will stop.

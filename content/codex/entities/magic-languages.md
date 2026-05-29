@@ -2,7 +2,7 @@
 id: "magic-languages"
 name: "Languages"
 entityType: magic
-blurb: "There are many major languages spoken across Alaria, as well as even more minor ones."
+blurb: "Alaria has a handful of major spoken languages and many minor ones; Northern Commonfolk comes closest to a shared tongue."
 tags: ["cosmology"]
 sources:
   - "magic_and_knowledge/languages/Languages.md"
@@ -10,66 +10,30 @@ review:
   aiWritten: false
   action: keep
 ---
-### Major Languages
-There are many major languages spoken across Alaria, as well as even more minor ones.
+### Alaria's spoken tongues
+
+Most of what is spoken across Alaria belongs to a handful of broad families, with a long tail of minor and local tongues beneath them. No language reaches everywhere. The closest thing to a shared speech is Northern Commonfolk, and even that is a trade language first and a mother tongue second. Where it has not taken hold, a traveler still needs an interpreter, a phrasebook, or patience.
 
 ### Northern Commonfolk
-Northern Commonfolk is the most used language across Alaria. The language is native to much of the central region of Clueanda, but speakers exist in nearly every major trading port.
 
-#### Locations of Native Speakers
-- Phirexes
-- The United Free Nations
-- Iylovia
-- Kazül
-- Thespia
-- Anarak
-- Griselia
-- Watar
-- Erasnus
-- Bestacia
-- Echea
-- Lier
-- Mkinti
-- Azuros
-- Tornia
-- Sylke
-- Joswik
-- Ubrik
-- Camaran
-- Argysis
-- Hephake
-- Adron
-- Eloesi
-- Old Tolaria
-- All of Ve
+Northern Commonfolk is the most widely spoken language in Alaria. It is native to much of central Clueanda and to the whole of Ve. Its real reach, though, comes from commerce rather than birth: a factor can step off a hull in nearly any major port and find someone to haggle with in it. In harbors far from Clueanda it is no one's first language and half the dock's second.
 
-### Islander
-Spoken in Urok as well as all of the West Isles and Mueras. Also spoken in Roule and the northwestern regions of Upoceax.
+> A grain-dock on the Clueandan coast at first light. A Drasnian factor, an Eloweir captain, and an orc freighthand argue the price of a cargo in three accents of the same Commonfolk, none of them born to it. The contract weighted down on the barrelhead is written in Commonfolk too, because that is the language a harbor court will read back to you.
 
-### Orcish
-Orcish is spoken by the orcs of northwestern Clueanda.
+### The other trade tongues
 
-### Gorathi
-Gorathi is spoken primarily by natives of Gorath, but as Gorath grows, so does the influence of its langauge.
+Islander runs with the island shipping lanes. It is spoken across Urok, the West Isles, and Mueras, and carries north into Roule and the northwestern reaches of Upoceax. Ylindian holds much of Upoceax, the Free Isles, and western Aboyuinzu. Gorathi began as the speech of Gorath alone; as Gorath has grown its language has traveled with its merchants and its garrisons, and it is now heard well past the old borders.
 
-### Ylindian
-Ylindian is spoken by much of Upoceax, the Free Isles, and western Aboyuinzu.
+### Orcish and the bounded tongues
 
-### Minor Languages
+Some peoples never traded their language away. The orcs of northwestern Clueanda keep Orcish, ringed by Commonfolk speakers and unbothered by it. Across the countries of Aboyuinzu the pattern repeats at smaller scale: many speak a tongue that goes no further than their own borders, and a journey of a few days can cross three of them. The tribal states are the same. A language there often belongs to one region and one people, learned by outsiders only when they have a reason to stay.
 
-### Elven
-Many of the elves still speak their own dialects of Elven, which stemmed from Druidic. Most elves can roughly understand each other when speaking in their native elven tongue, if they have one.
+### The old race-languages
 
-### Dwarven
-Unlike elven, dwarven tongues have mostly died out, as the dwarves pick up the languages of their neighboring trade partners. However, some locations still exist where various dialects of dwarven are still spoken.
+Elven descends from Druidic, the older speech the druids used before the elves were many peoples. It has since split into the dialects of the heritages, but most elves who still carry a native tongue can follow one another tolerably well, even across lines that have not shared a border in an age. The particular dialects belong to the heritage entities; see [[race-elf]].
 
-### Countries of Aboyuinzu
-Many of the countries here speak different langauges, that are only spoken within their country.
+Dwarven has gone the other way. Few dwarves still speak it. Over generations most clans took up the languages of the neighbors they trade with, and the old tongue thinned to a handful of pockets where it is still used at home. What survives, and where, is a matter for the dwarven heritages themselves; see [[race-dwarf]].
 
-### Tribal States
-Most tribal states speak languages that are only native to that region.
+### Deoric
 
-### Deoric: The Language of Absolutes
-Deoric was once spoken by the titans who long ago inhabited Alaria. It is the language of absolutes—things spoken in Deoric *must* occur, if there is power behind the words. Now, however, it is used by dark mages to perform powerful magic. The language is extremely complex, and takes centuries to learn, but unlocks great power.
-
-This power comes from spiritual sacrifice, usually by killing a sentient creature and performing a ritual.
+One language is not spoken to be understood. Deoric is the command-tongue of the titans and one of Alaria's four sources of magic: a speech in which a thing said, with power behind it, must come to pass. As a living language it is all but dead. What mortals hold is a fragmentary reconstruction, and the working of it costs life. Its workings and its cost are covered in its own article; see [[magic-deoric]].

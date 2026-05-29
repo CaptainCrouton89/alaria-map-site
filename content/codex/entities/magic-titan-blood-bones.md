@@ -17,20 +17,19 @@ The titans were the first beings created by Azus, 23.5 million years ago. They w
 
 The bodies that remain are the source of all titan blood and titan bone used today.
 
-### Physical Properties
-**Titan Blood**
+### Physical properties
 
-In its natural state, titan blood has long since dried into a dark red substance resembling dirt or powder. It can be found in deposits where titan bodies fell—sometimes layered into the earth, sometimes concentrated in caverns where the corpses came to rest.
+#### Titan blood
+In its natural state, titan blood has long since dried into a dark red substance resembling dirt or powder. It can be found in deposits where titan bodies fell, sometimes layered into the earth, sometimes concentrated in caverns where the corpses came to rest.
 
-When hydrated, titan blood reconstitutes into a shimmering crimson liquid that looks disturbingly like fresh blood. This reconstituted form is what's used for handmagic tattooing and Deoric ink.
+When hydrated, titan blood reconstitutes into a shimmering crimson liquid that looks disturbingly like fresh blood. This reconstituted form is what gets used for handmagic tattooing and Deoric ink.
 
-**Titan Bones**
-
-Unlike the blood, titan bones have not decayed at all. They remain exactly as they were when the titans died—enormous, pale structures of impossible hardness. Special tools are required to grind them down; ordinary steel cannot scratch the surface.
+#### Titan bones
+Unlike the blood, titan bones have not decayed at all. They remain exactly as they were when the titans died: enormous, pale structures of impossible hardness. Special tools are required to grind them down, since ordinary steel cannot scratch the surface.
 
 Ground titan bone can be mixed into a paste that functions identically to titan blood for handmagic purposes.
 
-### Why Titan Materials Work
+### Why titan materials work
 Titans were cosmic beings whose very existence was bound to Aurus and Nydus. Their blood and bones still resonate with those frequencies—they vibrate in harmony with the sources of soul and shadow in ways no mortal substance can.
 
 This resonance allows titan materials to act as a buffer for Deoric power. When Deoric runes are inscribed in titan blood, the blood holds the charge without disintegrating, creating stable anchor points that can channel reality-warping force through a mortal's threads without immediately tearing them apart.
@@ -38,23 +37,23 @@ This resonance allows titan materials to act as a buffer for Deoric power. When 
 For functional handmagic and charged ritual use, nothing else works — no mortal blood, no alchemical substitute, no synthetic compound can replicate this cosmic resonance. The titans themselves inscribed Deoric on stone and other materials, but those inscriptions bear the script without holding an active charge; they decay as the medium weathers, leaving the script as inert history rather than live working.
 
 ### Uses
-**Handmagic**: Titan blood or bone paste is used to tattoo Deoric runes onto the back of the hands. The runes are activated through specific hand articulations.
+Handmagic is the most common application. Titan blood or bone paste is used to tattoo Deoric runes onto the back of the hands, and the runes are activated through specific hand articulations.
 
-**Deoric Ink**: Titan materials can be processed into ink for recording Deoric text. Writing Deoric is magically draining—each rune or simple command takes about an hour to inscribe and costs the scribe 10 hitpoints, recovered at only 1 hitpoint per week. Once Deoric text is read by anyone other than the author, it disintegrates into ash. The titans also inscribed Deoric on stone and varied media across ancient Alaria; most of those inscriptions have weathered to illegibility over millions of years, leaving titan-bone records as the primary surviving source for scholars attempting to reconstruct the language.
+The same materials can be processed into ink for recording Deoric text. Writing Deoric is draining. Each rune or simple command takes about an hour to inscribe and costs the scribe 10 hitpoints, recovered at only 1 hitpoint per week. Once Deoric text is read by anyone other than the author, it disintegrates into ash. The titans also inscribed Deoric on stone and varied media across ancient Alaria, but most of those inscriptions have weathered to illegibility over millions of years, which leaves titan-bone records as the primary surviving source for scholars attempting to reconstruct the language.
 
-**Ritual Components**: Some Deoric rituals require titan blood as a component, though the sacrifice of mortal life remains the primary power source.
+Some Deoric rituals call for titan blood as a component, though the sacrifice of mortal life remains the primary power source.
 
-### Sources & Scarcity
+### Sources and scarcity
 The vast majority of titan bones come from Deo Esari, a mountain kingdom built atop the ruins of ancient titan cities. The mountains there contain massive titan skeletons that have been harvested for centuries. Deo Esari supplies roughly 95% of the world's titan bone.
 
 This monopoly is weakening—not because of competition, but because the supply is finite. Abandoned quarries dot the hills where veins have run dry. Prices climb year by year.
 
-### The Black Market
+### The black market
 Desperation breeds grim commerce. Every handmagic tattoo contains titan blood or bone—which means every handmagic user carries valuable material in their skin.
 
 Body harvesting exists. Practitioners are murdered and their tattooed skin flayed to reclaim the titan materials, which can then be processed and reused. This trade is illegal in most civilized nations, but where titan bone prices spike, the murders follow.
 
-### Dragon Blood: A False Substitute
+### Dragon blood, a false substitute
 Unscrupulous merchants sometimes sell "dragon blood" as a cheaper alternative to titan materials. This is snake oil.
 
 Dragon blood does cause visible changes when tattooed—skin discoloration, heightened aggression, mild hallucinations, and other effects depending on the dragon's elemental nature. Buyers attribute these symptoms to "the magic working."

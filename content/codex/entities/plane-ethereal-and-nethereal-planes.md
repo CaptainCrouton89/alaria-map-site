@@ -31,14 +31,14 @@ The Ethereal Plane is the lighter of the two overlay planes, suffused with faint
 - **Past echoes** are settled vibrations—events that have fully resolved, their energy dissipating but still readable.
 - **Future glimpses** are nascent tensions forming in the web—threads pulling taut before they snap, probabilities condensing into inevitabilities.
 
-**Healers and the Ethereal**: Those who mend astral threads—repairing damage to the soul-binding—work through the Ethereal Plane. This is why soul-healing magic often feels luminous and clarifying.
+**Healers and the Ethereal**: Those who mend astral threads—repairing damage to the soul-binding—work through the Ethereal Plane. The mending is Deoric. The astral thread belongs to the soul-binding Azus authored when he set the order of death, and to repair it is to speak his command-language to that structure, which means the work costs life the way all Deoric does: a healer spends something of their own to restore another's. This is why soul-healing magic often feels luminous and clarifying.
 
 ### Nethereal Plane
 The Nethereal Plane is the darker counterpart, suffused with faint malstaric energy. It is here that malstaric threads run from the Material Plane down toward Malstaris.
 
 **Dark Echoes**: The Nethereal also contains echoes of events, but these tend toward the obscured, the hidden, and the violent. Secrets leave stronger imprints here than public events. Deaths resonate powerfully. The echo of a betrayal may be nearly invisible in the Ethereal but scream through the Nethereal.
 
-**Necromancy and the Nethereal**: Those who sever or manipulate malstaric threads—necromancers, shadow-binders, and practitioners of death magic—work through the Nethereal Plane. This is why necromancy feels cold and invasive; it is literally reaching into the substrate that holds a person together and pulling at the dark threads.
+**Necromancy and the Nethereal**: Those who sever or manipulate malstaric threads—necromancers, shadow-binders, and practitioners of death magic—work through the Nethereal Plane. This too is Deoric. It is the same command-language Azus set over the soul-binding, turned on the malstaric strand rather than the astral one, and it exacts the same price in the worker's own life. This is why necromancy feels cold and invasive; it is literally reaching into the substrate that holds a person together and pulling at the dark threads.
 
 ### Why You Cannot Survive There
 No creature can sustain themselves within the Ethereal or Nethereal planes. To enter fully would be to stand inside the connective tissue that makes you *you*—like trying to exist within your own veins. Your threads would tangle, your bindings would unravel, and your spirit would come apart from its anchors.
