@@ -3,6 +3,7 @@ id: "3342"
 name: "Seacleft Coast"
 entityType: region
 blurb: "The Seacleft Coast occupies the northwestern edge of Upoceax—a rugged coastal region featuring dramatic cliffs that drop into the ocean."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3342/banner.webp
 coordinates: [39, 324]
 zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L7"]
@@ -15,6 +16,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Rewrote: kept accurate geography section, fixed States list (removed unpinned Ios/Rilyn, clarified Moigos is within Petrona Septia Island not a direct member), filled Political Climate (Iqes merchant dominance vs coalition, piracy), What Makes It Interesting (gateway trade, cliffs), and What Will Go Wrong (Iqes overextension, Shardmaw escalation)"
+bannerPosition: "50% 22.4%"
+bannerHeight: 360
 ---
 ### Geography
 

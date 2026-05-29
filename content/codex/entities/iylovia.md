@@ -3,6 +3,7 @@ id: "607"
 name: "Iylovia"
 entityType: region
 blurb: "The forests of lies."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/607/banner.webp
 coordinates: [200, 229]
 zoomLevel: 2
 tags: ["state", "nation", "region"]

@@ -3,6 +3,7 @@ id: "manual-pherezi-imnuttut"
 name: "Pherezi Imnuttut"
 entityType: region
 blurb: "The massive frozen eastern landmass of the Northern Isles—roughly a thousand miles of lawless, monster-haunted ice with no governing power."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/manual-pherezi-imnuttut/banner.webp
 coordinates: [490, 85]
 zoomLevel: 1
 tags: ["region"]

@@ -3,6 +3,7 @@ id: "1282"
 name: "Nalvrayukuk"
 entityType: water
 blurb: "An icy bay in the Celedrim Plains."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1282/banner.webp
 coordinates: [296, 36]
 zoomLevel: 2
 sources: ["all_sections_formatted/Clueanda.md#L5955"]

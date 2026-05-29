@@ -3,6 +3,7 @@ id: "3844"
 name: "Giant Lands"
 entityType: region
 blurb: "The Giant Lands occupy the central region of Upoceax—a hilly territory surrounded by mountains on multiple sides."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3844/banner.webp
 coordinates: [92, 455]
 zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L3942"]

@@ -3,6 +3,7 @@ id: "284"
 name: "Phyr Island"
 entityType: region
 blurb: "A jungle island in southeastern Ve, separated from the mainland by the treacherous Disaster Passage."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/284/banner.webp
 coordinates: [595, 305]
 zoomLevel: 2
 tags: ["island", "geography", "cursed"]

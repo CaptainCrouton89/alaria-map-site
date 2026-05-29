@@ -16,6 +16,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Trimmed from ~16k to sea-geography overview. Removed embedded sub-entity articles (Glorin, Pii/Phiora, Swampdeep, Sylke, Tornia, Kazül+subentries, Apketrii stubs, Stillstone, Ternor, Straker, and ~15 TODO-only stubs). Retained: shape/position, coastal-states lists, Ofrenia overview, surrounding-waters (Oblivion/Maw of Chao)."
+bannerPosition: "50% 68.2%"
+bannerHeight: 320
 ---
 ### Geography
 

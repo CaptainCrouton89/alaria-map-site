@@ -1,7 +1,7 @@
 ---
 id: "manual-mphaf71n-1e7jp"
 name: "Yalami"
-entityType: ruins
+entityType: town
 blurb: "A small river settlement in northern Kazül, on the water road toward Glorin."
 coordinates: [206, 174]
 zoomLevel: 5

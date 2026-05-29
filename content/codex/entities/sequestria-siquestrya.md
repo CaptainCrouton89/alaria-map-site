@@ -3,6 +3,7 @@ id: "3674"
 name: "Sequestria (Siquestrya)"
 entityType: region
 blurb: "South of the Sandreach Desert and east of the Sandreach Mountains lies Sequestria—a plain savannah wasteland south and west of the Free Isles."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3674/banner.webp
 coordinates: [184, 439]
 zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L2650"]

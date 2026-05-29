@@ -3,6 +3,7 @@ id: "4363"
 name: "Greenwater Isles"
 entityType: region
 blurb: "The Greenwater Isles are a tropical archipelago lying between Upoceax to the west and south, and Rimihuica to the north and east."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4363/banner.webp
 coordinates: [97, 348]
 zoomLevel: 1
 sources: ["all_sections_formatted/Greenwater_Isles.md#L1"]

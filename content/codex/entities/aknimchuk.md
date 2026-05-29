@@ -3,6 +3,7 @@ id: "1361"
 name: "Aknimchuk"
 entityType: region
 blurb: "The largest island in the northwestern Northern Isles: an uninhabited expanse split between a volcanic south and the frozen waste of Scheyolonae."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1361/banner.webp
 coordinates: [409, 42]
 zoomLevel: 2
 tags: ["island", "volcanic"]

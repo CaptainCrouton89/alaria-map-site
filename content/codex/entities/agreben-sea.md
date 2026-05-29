@@ -3,6 +3,7 @@ id: "4369"
 name: "Agreben Sea"
 entityType: water
 blurb: "The northern waters of the Greenwater Isles archipelago—a warm, teal-colored sea bounded by Mueras to the north, Atriik to the east, and the great island…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4369/banner.webp
 coordinates: [89, 302]
 zoomLevel: 2
 tags: ["sea", "geography", "greenwater-isles"]

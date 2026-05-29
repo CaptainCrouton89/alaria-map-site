@@ -3,6 +3,7 @@ id: "1141"
 name: "Steppe of Aziirn"
 entityType: wilderness
 blurb: "A vast expanse of dry grassland stretching east from the three eastern forests (Pystinwood, Milrar, and Telwood) toward the distant Kharvorn Mountains and the territories…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1141/banner.webp
 coordinates: [173, 131]
 zoomLevel: 2
 tags: ["steppe", "plains", "geography"]

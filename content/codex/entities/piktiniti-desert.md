@@ -3,6 +3,7 @@ id: "1114"
 name: "Piktiniti Desert"
 entityType: wilderness
 blurb: "A vast arid expanse south of the Everwood, the Piktiniti is less a sea of sand dunes than a harsh shrubland—cracked earth, scrub vegetation, and…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1114/banner.webp
 coordinates: [37, 153]
 zoomLevel: 2
 tags: ["desert", "geography"]

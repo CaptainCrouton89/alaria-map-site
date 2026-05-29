@@ -3,6 +3,7 @@ id: "1390"
 name: "Terrenia"
 entityType: region
 blurb: "Terrenia occupies the northwestern reaches of Aboyinzu, a region of temperate states stretching from the coast down to the Crystal Mountains."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1390/banner.webp
 coordinates: [263, 431]
 zoomLevel: 1
 tags: ["sea"]

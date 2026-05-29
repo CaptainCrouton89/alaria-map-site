@@ -3,6 +3,7 @@ id: "426"
 name: "Anarak"
 entityType: region
 blurb: "A basin nation ruled by the black dragon Tepheranos, squeezed between the Crags of Geth to the south and Argysis in the Kharvorn Mountains to…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/426/banner.webp
 coordinates: [257, 130]
 zoomLevel: 2
 tags: ["state", "nation"]

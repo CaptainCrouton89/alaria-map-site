@@ -3,6 +3,7 @@ id: "2620"
 name: "Westrim"
 entityType: region
 blurb: "Westrim occupies the northwestern quadrant of Rimihuica, dominated by the massive Dunes of Kunagi desert and ringed by mountains and deadly jungles."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2620/banner.webp
 coordinates: [144, 252]
 zoomLevel: 1
 tags: ["dragon", "creature", "state", "nation", "poi", "mountain", "geography"]

@@ -15,6 +15,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Archipelago NE waters of Clueanda in Ocean of Azeros; coord [436,64] matches E edge. Long but coherent."
+bannerPosition: "50% 22.5%"
+bannerHeight: 360
 ---
 ### Geography
 

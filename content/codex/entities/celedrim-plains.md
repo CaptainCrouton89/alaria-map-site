@@ -3,6 +3,7 @@ id: "1248"
 name: "Celedrim Plains"
 entityType: region
 blurb: "The Celedrim Plains are a vast frozen steppe occupying the northeastern interior of Clueanda, positioned north of the Kharvorn Mountains and stretching eastward toward the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1248/banner.webp
 coordinates: [266, 61]
 zoomLevel: 1
 sources: ["all_sections_formatted/Clueanda.md#L5745"]

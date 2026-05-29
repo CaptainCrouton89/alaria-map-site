@@ -3,6 +3,7 @@ id: "3725"
 name: "Free Isles"
 entityType: region
 blurb: "A western Upoceax archipelago of four wealthy trading city-states, each ruled by one of the great merchant families under the Blood Pact."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3725/banner.webp
 coordinates: [204, 418]
 zoomLevel: 1
 sources: ["all_sections_formatted/Upoceax.md#L3038"]

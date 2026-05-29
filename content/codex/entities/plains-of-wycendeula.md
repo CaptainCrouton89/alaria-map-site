@@ -3,6 +3,7 @@ id: "4010"
 name: "Plains of Wycendeula"
 entityType: wilderness
 blurb: "A vast grassland stretching across eastern Wycendeula, from the Kilbyurn Mountains in the west to the shores of God's Bathtub in the east."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4010/banner.webp
 coordinates: [137, 508]
 zoomLevel: 2
 tags: ["plains", "geography"]

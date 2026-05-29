@@ -3,6 +3,7 @@ id: "1011"
 name: "Everwood"
 entityType: wilderness
 blurb: "A vast forest stretching across the southern Krenglelan Range and into the lowlands beyond, the Everwood is not a forest in any normal sense—it is…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1011/banner.webp
 coordinates: [39, 118]
 zoomLevel: 1
 tags: ["forest", "geography"]

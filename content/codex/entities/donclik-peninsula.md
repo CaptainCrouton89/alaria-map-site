@@ -3,6 +3,7 @@ id: "1761"
 name: "Donclik Peninsula"
 entityType: wilderness
 blurb: "A windswept finger of land extending north into Donclik Sound, notable primarily for being uninhabitable."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1761/banner.webp
 coordinates: [332, 437]
 zoomLevel: 2
 tags: ["peninsula", "geography", "cursed", "dangerous"]

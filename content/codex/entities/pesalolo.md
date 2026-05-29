@@ -3,6 +3,7 @@ id: "3275"
 name: "Pesalolo"
 entityType: region
 blurb: "A thousand-mile island running northeast to southwest, split in half by geography and politics alike."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3275/banner.webp
 coordinates: [198, 355]
 zoomLevel: 1
 tags: ["island", "geography", "shacklands"]

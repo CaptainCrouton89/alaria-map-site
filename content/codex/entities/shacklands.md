@@ -3,6 +3,7 @@ id: "3151"
 name: "Shacklands"
 entityType: region
 blurb: "The Shacklands are not a single contiguous territory but rather a collection of southern regions united by their participation in the slave trade."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3151/banner.webp
 coordinates: [282, 339]
 zoomLevel: 1
 tags: ["jungle", "dangerous", "frontier"]

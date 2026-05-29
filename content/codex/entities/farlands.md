@@ -3,6 +3,7 @@ id: "3476"
 name: "Farlands"
 entityType: region
 blurb: "The Farlands occupy the western coastal region of Upoceax—a vast stretch of land running nearly 600 miles from north to south."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3476/banner.webp
 coordinates: [51, 436]
 zoomLevel: 1
 tags: ["region", "nation", "hills", "geography", "fortress", "ruins", "poi", "fae", "treasure", "lake", "rakite", "rivers", "mountains", "wilderness"]

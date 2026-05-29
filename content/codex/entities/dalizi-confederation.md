@@ -3,6 +3,7 @@ id: "1864"
 name: "Dalizi (Confederation)"
 entityType: region
 blurb: "A massive confederation of states occupying the territory mostly northwest, and also west/southwest of Lake Tonactlet Chipe."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1864/banner.webp
 coordinates: [319, 506]
 zoomLevel: 2
 sources: ["all_sections_formatted/Aboyinzu.md#L3948"]

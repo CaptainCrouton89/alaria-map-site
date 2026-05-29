@@ -3,6 +3,7 @@ id: "1"
 name: "Ve"
 entityType: region
 blurb: "The isolated continent of the far east, walled off from the rest of Alaria by open ocean: dry savannah and desert in the north, deep beast-haunted jungle in the south."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1/banner.webp
 coordinates: [533, 243]
 zoomLevel: 1
 tags: ["sound", "geography", "water", "river", "ve"]
@@ -14,6 +15,8 @@ review:
   notes: "Comprehensive Ve continent overview. Body covers sub-region geography (Shyona NE, Edari NW, Sestros W, Chimea SW, Avalon central-W, Krell SE, Dygon S). The deep-dive water features now live in their own entities (Coquray Sound id 131, Misery River id 245, Marmoroy River id water-marmoroy-river). The former Political Climate/Interesting/Wrong TODO stubs were folded into the Peoples and powers prose."
 relations:
   - { rel: culture, kind: inhabitedBy, target: "creature-dinosaurs" }
+bannerPosition: "50% 28.0%"
+bannerHeight: 360
 ---
 Ve is the isolated continent of the far east, a great landmass set apart from the rest of Alaria by open water on every side. The Alrock Ocean walls it off to the west, a crossing so wide that no fleet from the central continents has ever made it a trade route. The Norswell Sea closes the north. To the east lie the bright, poisoned shallows of the Sea of Fools, and beyond them the wrecking dark of Shadowreap. The continent divides cleanly into halves: a dry north of savannah, plains, and desert, and a southern jungle so deep and old that the maps simply run out in it.
 

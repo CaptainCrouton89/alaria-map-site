@@ -3,6 +3,7 @@ id: "2306"
 name: "Pindolin Islands"
 entityType: region
 blurb: "A sprawling archipelago stretching roughly 800 miles east-to-west and 500 miles north-to-south off the Dragon's Spine Coast, where the mountain range fragments into the sea…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2306/banner.webp
 coordinates: [579, 479]
 zoomLevel: 1
 tags: ["island", "geography", "pindolin-islands"]

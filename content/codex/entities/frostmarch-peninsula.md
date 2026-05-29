@@ -3,6 +3,7 @@ id: "1214"
 name: "Frostmarch Peninsula"
 entityType: region
 blurb: "The Frostmarch Peninsula is a long landmass that juts eastward from the Celedrim Plains, forming the mainland anchor of the Northern Isles archipelago."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1214/banner.webp
 coordinates: [386, 141]
 zoomLevel: 1
 tags: ["dragon", "frostmarch", "twilight forest"]

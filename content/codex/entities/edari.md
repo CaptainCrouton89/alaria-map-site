@@ -3,6 +3,7 @@ id: "129"
 name: "Edari"
 entityType: region
 blurb: "The golden savannah of northwestern Ve, Edari is a vast wilderness claimed by no settled nation."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/129/banner.webp
 coordinates: [499, 209]
 zoomLevel: 2
 tags: ["region", "state", "savannah", "ve"]

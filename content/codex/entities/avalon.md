@@ -3,6 +3,7 @@ id: "18"
 name: "Avalon"
 entityType: region
 blurb: "The heartland of Ve's time-magic theocracy, where the Grand Imperial Ecclesiarch has sat unblinking upon the throne for generations, seeing futures that guide every aspect…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/18/banner.webp
 coordinates: [507, 248]
 zoomLevel: 2
 tags: ["region", "state", "ve", "theocracy", "time-magic"]

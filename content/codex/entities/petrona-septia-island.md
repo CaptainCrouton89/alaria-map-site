@@ -4,6 +4,7 @@ name: "Petrona Septia Island"
 aliases: ["Septia"]
 entityType: region
 blurb: "A major island in the Seacleft Coast containing the states of Ios and Moigos, as well as the city-state of Rilyn."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3346/banner.webp
 coordinates: [39, 345]
 zoomLevel: 2
 sources: ["all_sections_formatted/Upoceax.md#L35"]

@@ -3,6 +3,7 @@ id: "1321"
 name: "Anu'Itiklik"
 entityType: region
 blurb: "A frozen, windblasted wasteland in the northwestern Northlands, Anu'Itiklik stretches from the foothills of the Senaveer Mountains in the west to the edges of the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1321/banner.webp
 coordinates: [39, 30]
 zoomLevel: 2
 tags: ["tundra", "wasteland"]

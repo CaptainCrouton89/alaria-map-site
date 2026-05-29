@@ -3,6 +3,7 @@ id: "1913"
 name: "Dalizi Wildlands"
 entityType: region
 blurb: "A lake in the Dalizi Wildlands."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1913/banner.webp
 coordinates: [382, 536]
 zoomLevel: 1
 tags: ["region", "geography"]

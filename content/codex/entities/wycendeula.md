@@ -3,6 +3,7 @@ id: "3902"
 name: "Wycendeula"
 entityType: region
 blurb: "Wycendeula encompasses the entire southern portion of Upoceax—a vast region stretching from the Eceraen Mountains in the far south (above Venalthier) northward to the Sand…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3902/banner.webp
 coordinates: [106, 521]
 zoomLevel: 1
 tags: ["coast", "geography", "mountains", "rivers"]

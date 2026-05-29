@@ -3,6 +3,7 @@ id: "322"
 name: "Sestros"
 entityType: region
 blurb: "The heartland of western Ve—a kingdom of shepherds and silk-weavers ruled by a monarch who speaks for a god."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/322/banner.webp
 coordinates: [495, 226]
 zoomLevel: 2
 tags: ["region", "state", "ve", "savannah", "desert"]

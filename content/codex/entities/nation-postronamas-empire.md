@@ -3,6 +3,7 @@ id: "nation-postronamas-empire"
 name: "Postronamas Empire"
 entityType: region
 blurb: "An ancient civilization that rose to greatness through mastery of twyl crystals, built an empire spanning the western Westwilds, and collapsed into madness and civil…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/nation-postronamas-empire/banner.webp
 coordinates: [25, 155]
 zoomLevel: 2
 tags: ["ruins", "state", "fallen", "westwilds"]

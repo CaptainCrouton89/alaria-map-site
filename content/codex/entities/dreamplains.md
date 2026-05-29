@@ -3,6 +3,7 @@ id: "1252"
 name: "Dreamplains"
 entityType: wilderness
 blurb: "The Dreamplains occupy the northwestern reaches of the Celedrim Plains, a vast expanse of frozen steppe notable for its strange atmosphere and the cluster of…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1252/banner.webp
 coordinates: [240, 16]
 zoomLevel: 2
 tags: ["plains", "tundra"]

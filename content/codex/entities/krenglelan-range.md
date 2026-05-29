@@ -3,6 +3,7 @@ id: "1079"
 name: "Krenglelan Range"
 entityType: wilderness
 blurb: "A vast mountain range spanning the northern Westwilds from coast to interior, the Krenglelan forms a natural barrier between the frozen Northlands and the temperate…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1079/banner.webp
 coordinates: [46, 108]
 zoomLevel: 2
 tags: ["mountains", "geography"]

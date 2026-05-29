@@ -3,6 +3,7 @@ id: "749"
 name: "The Forgotten Sea"
 entityType: water
 blurb: "The waters surrounding Pii are called the Forgotten Sea, though no one quite remembers why."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/749/banner.webp
 coordinates: [309, 223]
 zoomLevel: 2
 sources: ["all_sections_formatted/Clueanda.md#L2140"]

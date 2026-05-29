@@ -3,6 +3,7 @@ id: "3206"
 name: "Kyagos"
 entityType: region
 blurb: "A mountainous island roughly 400 miles across, Kyagos rises from the waters between the Sea of Seven Snakes and the Alrock Ocean like a clenched…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3206/banner.webp
 coordinates: [367, 355]
 zoomLevel: 2
 tags: ["island", "state", "nation"]

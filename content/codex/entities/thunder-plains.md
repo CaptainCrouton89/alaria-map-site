@@ -3,6 +3,7 @@ id: "2967"
 name: "Thunder Plains"
 entityType: wilderness
 blurb: "Named after the giants whose heavy footsteps give the plains its namesake."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2967/banner.webp
 coordinates: [235, 287]
 zoomLevel: 2
 tags: ["plains"]

@@ -3,6 +3,7 @@ id: "1301"
 name: "Winterwood"
 entityType: wilderness
 blurb: "The Winterwood is the largest forest in the Celedrim Plains region, a vast expanse of ancient conifers that clings to the northern foothills of the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1301/banner.webp
 coordinates: [258, 90]
 zoomLevel: 2
 tags: ["forest"]

@@ -3,6 +3,7 @@ id: "4093"
 name: "Akratian Plateau"
 entityType: wilderness
 blurb: "The southernmost landmass of Venalthier—a windswept plateau extending toward the polar ice cap, where the boundary between land and permanent sea ice becomes impossible to…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4093/banner.webp
 coordinates: [83, 631]
 zoomLevel: 2
 tags: ["plateau", "ice", "geography"]

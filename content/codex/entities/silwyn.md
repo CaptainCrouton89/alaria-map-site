@@ -3,6 +3,7 @@ id: "2817"
 name: "Silwyn"
 entityType: region
 blurb: "The grass sea."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2817/banner.webp
 coordinates: [188, 237]
 zoomLevel: 2
 tags: ["state", "nation", "region"]

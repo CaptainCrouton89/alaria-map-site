@@ -3,6 +3,7 @@ id: "4165"
 name: "Western Isles"
 entityType: region
 blurb: "The Western Isles occupy the waters between Clueanda to the north and Rimihuica to the south, marking the edge of the known world to the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4165/banner.webp
 coordinates: [42, 224]
 zoomLevel: 1
 tags: ["archipelago", "geography", "islands", "city", "state", "nation"]

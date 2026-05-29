@@ -3,6 +3,7 @@ id: "71"
 name: "Chimea"
 entityType: region
 blurb: "A hungry empire sprawling across southwestern Ve—its jungles stretch from the Blood Mountains to the Gulf of Chimea, its mines burrow into conquered Aureum territory,…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/71/banner.webp
 coordinates: [515, 265]
 zoomLevel: 2
 tags: ["state", "nation", "jungle", "empire"]

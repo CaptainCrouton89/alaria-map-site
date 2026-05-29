@@ -3,6 +3,7 @@ id: "3178"
 name: "Gorath"
 entityType: region
 blurb: "Six hundred miles of jungle."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3178/banner.webp
 coordinates: [281, 323]
 zoomLevel: 2
 tags: ["region", "jungle", "empire"]
@@ -19,6 +20,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Trimmed: removed false Azantir capital claim, dropped all invented town names (Pereiro, Carvalhais, Esteves, Ageito, Fresta, Recarei etc.), removed Major Cities section, removed Myublin River section, fixed Overview North bullet to remove false Nashua-is-north claim (Nashua borders E)"
+bannerPosition: "50% 56.2%"
+bannerHeight: 360
 ---
 Six hundred miles of jungle. Three great rivers. A million souls. Gorath sprawls across southern Rimihuica like a green stain on the map, the largest territorial state on Alaria and one of the most aggressive. The jungle canopy stretches unbroken for hundreds of miles in places, punctuated by hill country, river valleys carved through dense vegetation, and the scattered stone cities of the Gorathi empire.
 

@@ -3,6 +3,7 @@ id: "1195"
 name: "Wildwood"
 entityType: wilderness
 blurb: "The Wildwood is the vast forested region that dominates the eastern Westwilds, stretching from the mountain passes of Vogenfeld in the south to the great…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1195/banner.webp
 coordinates: [135, 161]
 zoomLevel: 2
 tags: ["forest", "geography", "orc"]

@@ -3,6 +3,7 @@ id: "8"
 name: "Bfaspeik"
 entityType: region
 blurb: "The southern waters where the Bfaspeen broods lair."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/8/banner.webp
 coordinates: [376, 249]
 zoomLevel: 2
 sources: ["all_sections_formatted/Ve.md#L86"]

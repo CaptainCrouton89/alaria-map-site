@@ -3,6 +3,7 @@ id: "9000"
 name: "Middle Sea Lands"
 entityType: region
 blurb: "The Middle Sea Lands are the coastal lowlands and inner-sea rim south of the Kharvorn Mountains — home to the Middle Sea trade nations from Anarak in the west to Adron in the east."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/9000/banner.webp
 coordinates: [260, 170]
 zoomLevel: 1
 tags: ["Middle Sea", "coast", "trade"]

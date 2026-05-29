@@ -3,6 +3,7 @@ id: "981"
 name: "Westwilds"
 entityType: region
 blurb: "The Westwilds occupy the southwestern corner of Clueanda, forming a transitional zone between the frozen Northlands and the maritime regions to the south."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/981/banner.webp
 coordinates: [93, 127]
 zoomLevel: 1
 tags: ["settlement", "geography", "city", "state", "nation", "gnome", "forest", "twaan", "ley lines", "fire"]

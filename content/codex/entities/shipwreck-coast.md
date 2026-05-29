@@ -3,6 +3,7 @@ id: "2136"
 name: "Shipwreck Coast"
 entityType: wilderness
 blurb: "The Shipwreck Coast stretches nearly three hundred miles along the eastern margin of the Dalizi Highlands, from the Misty Valley in the north to the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2136/banner.webp
 coordinates: [406, 487]
 zoomLevel: 2
 sources: ["all_sections_formatted/Aboyinzu.md#L6078"]

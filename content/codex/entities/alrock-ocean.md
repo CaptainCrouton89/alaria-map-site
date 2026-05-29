@@ -3,10 +3,13 @@ id: "6"
 name: "Alrock Ocean"
 entityType: water
 blurb: "A vast ocean between Ve and the central continents, the Alrock is claimed entirely by the triton theocracy of Vetral—a claim no surface nation recognizes…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/6/banner.webp
 coordinates: [470, 326]
 zoomLevel: 1
 tags: ["region", "ocean", "ve"]
 sources: ["all_sections_formatted/Ve.md#L70"]
+bannerPosition: "50% 59.4%"
+bannerHeight: 320
 ---
 A vast ocean between Ve and the central continents, the Alrock is claimed entirely by the triton theocracy of Vetral—a claim no surface nation recognizes but few openly defy. The waters are contested, valuable, and dangerous: ancient shipping lanes weave between triton holy sites, Bfaspeen hunting grounds, and the rare surface islands that dot the expanse.
 

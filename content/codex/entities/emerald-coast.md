@@ -3,6 +3,7 @@ id: "3014"
 name: "Emerald Coast"
 entityType: region
 blurb: "A stateless jungle coastline along Rimihuica's eastern seaboard—no overarching authority, just scattered harbor settlements, sub-nations, and slowly building catastrophe."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3014/banner.webp
 coordinates: [292, 269]
 zoomLevel: 2
 tags: ["region", "coast", "jungle"]

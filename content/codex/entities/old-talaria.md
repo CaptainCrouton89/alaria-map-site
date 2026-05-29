@@ -3,6 +3,7 @@ id: "732"
 name: "Old Tolaria"
 entityType: region
 blurb: "Old Tolaria is what remains after the greatest magical catastrophe in recorded history—a land where wizards reached too far and shattered the boundary between the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/732/banner.webp
 coordinates: [240, 255]
 zoomLevel: 2
 tags: ["region", "ruins", "dangerous"]

@@ -3,6 +3,7 @@ id: "720"
 name: "Ofrenia"
 entityType: region
 blurb: ""
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/720/banner.webp
 coordinates: [257, 195]
 zoomLevel: 2
 tags: ["island", "geography"]
@@ -15,6 +16,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Stubbed: expanded from three-sentence subhead placeholder to 3-paragraph island overview covering feuding siblings, three kingdoms, Gilded Coast/Oshkensi Plateau/Gnomestone Mts/Gulf of Joswik geography, and Myrnal's Tower."
+bannerPosition: "50% 32.3%"
+bannerHeight: 360
 ---
 Ofrenia is the dominant island of the inner Middle Sea, positioned at the crossing of north–south sea lanes where the Clueandan coast gives way to the open passage toward Rimihuica. Control of its harbors means control of traffic between the continents, which is why the island has been occupied, liberated, partitioned, and disputed across centuries without ever settling into lasting peace.
 

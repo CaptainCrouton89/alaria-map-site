@@ -3,6 +3,7 @@ id: "1754"
 name: "Wanderlands"
 entityType: region
 blurb: "The Wanderlands form the long southern peninsula of Aboyinzu—a great curved finger of land stretching southward into the South Sea."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1754/banner.webp
 coordinates: [352, 465]
 zoomLevel: 1
 tags: ["poi", "landmark", "dragon", "portal"]

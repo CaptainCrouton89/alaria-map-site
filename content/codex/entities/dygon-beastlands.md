@@ -3,6 +3,7 @@ id: "114"
 name: "Dygon Beastlands"
 entityType: wilderness
 blurb: "The Dygon Beastlands sprawl across the entire southern end of Ve, a primordial wilderness roughly four hundred miles north to south and six hundred miles…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/114/banner.webp
 coordinates: [546, 295]
 zoomLevel: 2
 tags: ["jungle", "plains", "forest", "ve", "region"]

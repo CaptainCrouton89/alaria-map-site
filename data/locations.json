@@ -65852,7 +65852,7 @@
   {
     "id": "manual-mphaf71n-1e7jp",
     "name": "Yalami",
-    "type": "ruins",
+    "type": "town",
     "coordinates": [
       206,
       174
@@ -65864,7 +65864,7 @@
       "manual-mpk2v7lk-92aoi"
     ],
     "tags": [],
-    "atmosphere": "ancient",
+    "atmosphere": "civilization",
     "blurb": "A small river settlement in northern Kazül, on the water road toward Glorin.",
     "parentName": "Kazül"
   },

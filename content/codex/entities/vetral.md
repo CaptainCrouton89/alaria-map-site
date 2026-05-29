@@ -3,6 +3,7 @@ id: "7"
 name: "Vetral"
 entityType: region
 blurb: "The triton theocracy claims sovereignty over every drop of the Alrock."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/7/banner.webp
 coordinates: [387, 231]
 zoomLevel: 2
 sources: ["all_sections_formatted/Ve.md#L78"]

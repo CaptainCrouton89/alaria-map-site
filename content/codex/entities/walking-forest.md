@@ -3,6 +3,7 @@ id: "1183"
 name: "Walking Forest"
 entityType: wilderness
 blurb: "A vast woodland south of the Tenekee Woods and east of the Everwood, the Walking Forest is named for its most unsettling quality: it moves."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1183/banner.webp
 coordinates: [93, 134]
 zoomLevel: 2
 tags: ["forest", "geography"]

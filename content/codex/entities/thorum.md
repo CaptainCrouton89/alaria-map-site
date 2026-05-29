@@ -3,6 +3,7 @@ id: "359"
 name: "Thorum"
 entityType: region
 blurb: "Northernmost of the Widebarrow mountain states—a dwarven highland kingdom caught between Shyona's cultural gravity and the isolation of altitude."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/359/banner.webp
 coordinates: [557, 229]
 zoomLevel: 2
 tags: ["state", "nation"]

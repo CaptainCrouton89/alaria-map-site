@@ -3,6 +3,7 @@ id: "4446"
 name: "Urok"
 entityType: region
 blurb: "A large island in the Greenwater Isles."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4446/banner.webp
 coordinates: [89, 348]
 zoomLevel: 2
 tags: ["island", "geography"]

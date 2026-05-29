@@ -3,6 +3,7 @@ id: "3166"
 name: "Deaddorf Strait"
 entityType: water
 blurb: ""
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3166/banner.webp
 coordinates: [283, 361]
 zoomLevel: 2
 tags: ["strait", "geography"]

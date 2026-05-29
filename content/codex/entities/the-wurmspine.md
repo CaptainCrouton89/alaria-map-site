@@ -3,6 +3,7 @@ id: "2462"
 name: "The Wurmspine"
 entityType: region
 blurb: "The massive mountain range that forms Tarkhon's northern frontier, separating the empire from the orcish Wildwood and stretching from the coastal regions in the west…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2462/banner.webp
 coordinates: [173, 172]
 zoomLevel: 2
 sources: ["all_sections_formatted/Rimihuica.md#L51"]

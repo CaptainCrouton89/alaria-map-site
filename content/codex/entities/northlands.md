@@ -3,6 +3,7 @@ id: "1311"
 name: "Northlands"
 entityType: region
 blurb: "The Northlands occupy the frozen heart of northern Clueanda, filling the space south of the Nysanna Range."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1311/banner.webp
 coordinates: [91, 47]
 zoomLevel: 1
 tags: ["poi"]

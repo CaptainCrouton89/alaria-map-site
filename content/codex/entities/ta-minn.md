@@ -3,6 +3,7 @@ id: "801"
 name: "Ta Minn"
 entityType: region
 blurb: "An Oznak horse theocracy on the western Middle Sea coast—vast grassy steppes ruled by the Kazigh, the chief horse shaman."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/801/banner.webp
 coordinates: [234, 144]
 zoomLevel: 2
 tags: ["state", "nation"]

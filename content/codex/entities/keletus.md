@@ -3,6 +3,7 @@ id: "9"
 name: "Keletus"
 entityType: region
 blurb: "The Lorean minotaur democracy occupying Apketrii island."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/9/banner.webp
 coordinates: [369, 197]
 zoomLevel: 2
 sources: ["all_sections_formatted/Ve.md#L96"]

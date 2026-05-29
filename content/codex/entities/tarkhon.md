@@ -4,6 +4,7 @@ name: "Tarkhon Empire"
 aliases: ["Tarkhon"]
 entityType: region
 blurb: "The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2455/banner.webp
 coordinates: [127, 211]
 zoomLevel: 1
 tags: ["steppe", "plains", "geography"]

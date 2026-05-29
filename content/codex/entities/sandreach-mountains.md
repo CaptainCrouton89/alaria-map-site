@@ -3,6 +3,7 @@ id: "3793"
 name: "Sandreach Mountains"
 entityType: region
 blurb: "The Sand Reach Mountains are the vast central mountain range of Upoceax, positioned south of the Sand Reach desert."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3793/banner.webp
 coordinates: [124, 450]
 zoomLevel: 1
 tags: ["lake", "geography"]

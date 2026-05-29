@@ -3,6 +3,7 @@ id: "3337"
 name: "Tamadrez"
 entityType: region
 blurb: "See Pesalolo for geographic details and Tamadrez (state) for political details."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3337/banner.webp
 coordinates: [202, 351]
 zoomLevel: 2
 tags: ["state", "nation", "shacklands"]

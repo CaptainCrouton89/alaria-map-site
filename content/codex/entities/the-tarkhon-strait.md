@@ -3,6 +3,7 @@ id: "2460"
 name: "The Tarkhon Strait"
 entityType: water
 blurb: "The empire's lifeblood—a narrow passage connecting the Middle Sea to the open ocean beyond."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2460/banner.webp
 coordinates: [138, 207]
 zoomLevel: 2
 sources: ["all_sections_formatted/Rimihuica.md#L39"]

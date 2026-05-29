@@ -3,6 +3,7 @@ id: "1270"
 name: "Konai Mora"
 entityType: wilderness
 blurb: "East of the Bitterlands, where the mountains curve toward the coast, lies Soya Grei—a peninsula of rocky highlands overlooking Soothesong Sound."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1270/banner.webp
 coordinates: [322, 70]
 zoomLevel: 2
 aliases: ["Kona Morai"]

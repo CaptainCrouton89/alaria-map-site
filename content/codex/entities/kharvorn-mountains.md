@@ -3,6 +3,7 @@ id: "905"
 name: "Kharvorn Mountains"
 entityType: region
 blurb: "The Kharvorn Mountains are a massive diagonal range that defines the heart of Clueanda, running from the center-north down to the southeast and spanning roughly…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/905/banner.webp
 coordinates: [254, 113]
 zoomLevel: 1
 tags: ["mountains", "Mnurvlyon", "giants"]

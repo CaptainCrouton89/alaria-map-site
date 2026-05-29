@@ -3,6 +3,7 @@ id: "3465"
 name: "Tyvern Isles"
 entityType: region
 blurb: "A group of islands off the Seacleft Coast, home to the Tuktuk people."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3465/banner.webp
 coordinates: [45, 302]
 zoomLevel: 2
 tags: ["island", "geography", "tuktuk"]

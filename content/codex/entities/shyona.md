@@ -3,6 +3,7 @@ id: "338"
 name: "Shyona"
 entityType: region
 blurb: "A state in Ve."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/338/banner.webp
 coordinates: [563, 209]
 zoomLevel: 1
 tags: ["state", "nation"]

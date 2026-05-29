@@ -3,6 +3,7 @@ id: "3281"
 name: "The Northern Archipelago"
 entityType: region
 blurb: "A cluster of islands north of Pesalolo, between the mainland and Pukot Island."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3281/banner.webp
 coordinates: [185, 340]
 zoomLevel: 2
 sources: ["all_sections_formatted/Rimihuica.md#L6740"]

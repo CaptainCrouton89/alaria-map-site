@@ -3,6 +3,7 @@ id: "2372"
 name: "States"
 entityType: water
 blurb: "Three nations control the Crimson Coast, each shaped by the region's bloody history:"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2372/banner.webp
 coordinates: [310, 574]
 zoomLevel: 1
 sources: ["all_sections_formatted/Aboyinzu.md#L8315"]

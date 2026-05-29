@@ -3,6 +3,7 @@ id: "4085"
 name: "Venalthier"
 entityType: region
 blurb: "Venalthier is the frozen polar region occupying the extreme southwest of Upoceax."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4085/banner.webp
 coordinates: [63, 602]
 zoomLevel: 1
 tags: ["mountains", "geography", "coast", "tundra", "wasteland"]

@@ -4,6 +4,7 @@ name: "Fylvrae Sylvrym"
 aliases: ["Filvrae Sylvrym"]
 entityType: wilderness
 blurb: "One of Alaria's largest continuous forests, Fylvrae Sylvrym blankets the western half of Wycendeula—a sea of ancient trees stretching roughly 700 miles north to south…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3972/banner.webp
 coordinates: [83, 507]
 zoomLevel: 2
 tags: ["forest", "ulvsjael", "geography"]

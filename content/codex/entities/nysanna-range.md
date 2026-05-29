@@ -3,6 +3,7 @@ id: "1328"
 name: "Nysanna Range"
 entityType: region
 blurb: "The Nysanna Range is one of the most inhospitable places on Alaria—and by some measures, the most dramatic."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1328/banner.webp
 coordinates: [121, 28]
 zoomLevel: 1
 tags: ["mountains"]

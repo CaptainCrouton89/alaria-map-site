@@ -3,6 +3,7 @@ id: "1410"
 name: "Chaal Nazzerox"
 entityType: region
 blurb: "The largest state in Terrenia and one of its greatest horrors—an undead empire stretching from the western coast to the Crystal Mountains, ruled by the…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1410/banner.webp
 coordinates: [258, 424]
 zoomLevel: 2
 tags: ["state", "nation"]

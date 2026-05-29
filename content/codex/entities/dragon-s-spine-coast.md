@@ -3,6 +3,7 @@ id: "2201"
 name: "Dragon's Spine Coast"
 entityType: region
 blurb: "Dragon's Spine is the long, misty, snow-covered mountain range that runs east-west across the entire southern edge of Aboyinzu."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2201/banner.webp
 coordinates: [452, 566]
 zoomLevel: 1
 tags: ["fortress", "poi", "gondurak", "frostwatch", "military", "hills", "geography", "lakes", "rivers", "water", "pindolin-islands", "curse", "bluffs"]

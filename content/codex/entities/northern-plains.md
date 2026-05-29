@@ -3,6 +3,7 @@ id: "1327"
 name: "Northern Plains"
 entityType: region
 blurb: "The Northern Plains of the Northlands region."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1327/banner.webp
 coordinates: [96, 68]
 zoomLevel: 1
 sources: ["all_sections_formatted/Clueanda.md#L6261"]

@@ -3,6 +3,7 @@ id: "1475"
 name: "Central Aboyinzu"
 entityType: region
 blurb: "Central Aboyinzu is the vast interior of the continent—a general term encompassing the savanna heartlands, the Deadloop inner sea, and the territories between the major…"
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1475/banner.webp
 coordinates: [283, 474]
 zoomLevel: 1
 tags: ["mountains", "geography", "dragon", "creature", "ruler", "forest", "island"]

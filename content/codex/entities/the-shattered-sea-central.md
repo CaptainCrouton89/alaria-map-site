@@ -3,6 +3,7 @@ id: "4166"
 name: "The Shattered Sea"
 entityType: water
 blurb: "The heart of the Western Isles is this chaotic archipelago—hundreds of distinct islands, atolls, and shoals packed into treacherous waters."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/4166/banner.webp
 coordinates: [54, 207]
 zoomLevel: 2
 aliases: ["Shattered Sea"]

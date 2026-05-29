@@ -3,6 +3,7 @@ id: "2368"
 name: "Crimson Coast"
 entityType: region
 blurb: "The Crimson Coast earns its name honestly."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2368/banner.webp
 coordinates: [310, 574]
 zoomLevel: 1
 tags: ["ruins", "poi", "hilda's-forest", "crimson-coast"]

@@ -3,6 +3,7 @@ id: "manual-mpihzt0w-8ry2f"
 name: "Tundra Oblivio"
 entityType: wilderness
 blurb: ""
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/manual-mpihzt0w-8ry2f/banner.webp
 coordinates: [66, 560]
 zoomLevel: 2
 relations:

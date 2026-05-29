@@ -3,6 +3,7 @@ id: "1806"
 name: "Elder Wilds"
 entityType: region
 blurb: "The Elder Wilds occupy the entire eastern peninsula of Aboyinzu—a vast region of ancient rainforest, winding rivers, and primordial wilderness."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1806/banner.webp
 coordinates: [402, 443]
 zoomLevel: 1
 tags: ["rainforest", "jungle", "geography", "state", "nation", "gamori", "hills", "poi", "druid_territory", "swamp"]

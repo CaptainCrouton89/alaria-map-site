@@ -3,6 +3,7 @@ id: "2857"
 name: "Innerrim"
 entityType: region
 blurb: "The Innerrim is the vast jungle basin at the heart of Rimihuica—a dark green sea of dense forest filling the continental interior."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/2857/banner.webp
 coordinates: [276, 270]
 zoomLevel: 1
 tags: ["mountains", "geography", "region", "fallen-state"]

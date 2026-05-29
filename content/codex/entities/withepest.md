@@ -3,6 +3,7 @@ id: "1306"
 name: "Withepest"
 entityType: wilderness
 blurb: "Withepest is a vast, featureless expanse of frozen steppe west of the Dreamplains and east of the Northlands transition."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/1306/banner.webp
 coordinates: [250, 58]
 zoomLevel: 2
 tags: ["plains", "tundra"]

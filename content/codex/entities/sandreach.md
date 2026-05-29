@@ -3,6 +3,7 @@ id: "3662"
 name: "Sandreach"
 entityType: region
 blurb: "Sand Reach is the massive desert that stretches across the entire northern portion of Upoceax, extending all the way to the northern coast."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/3662/banner.webp
 coordinates: [134, 418]
 zoomLevel: 1
 tags: ["strait", "geography"]

@@ -3,6 +3,7 @@ id: "411"
 name: "Adron"
 entityType: region
 blurb: "Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges, once the realm of bonded dragon-riders."
+banner: https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/411/banner.webp
 coordinates: [323, 175]
 zoomLevel: 2
 tags: ["state", "nation"]
