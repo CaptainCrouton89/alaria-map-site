@@ -41,6 +41,8 @@ interface Entity {
   atmosphere?: AtmosphereType;
   /** Explicit category slug — only authored on `overview` root pages, which span many types. */
   category?: string;
+  /** Banner image URL from frontmatter (the page header + card preview). */
+  banner?: string;
   /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
   metadata?: Record<string, unknown>;
   body: string;
@@ -72,8 +74,17 @@ function stripAuthorNotes(content: string): string {
 // Frontmatter keys with a dedicated home; everything else falls through to `metadata`.
 const RESERVED_FM = new Set([
   'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
-  'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review', 'category',
+  'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review', 'category', 'banner',
 ]);
+
+/** First image URL in a markdown body: `![alt](url)` or `<img src="url">`. Used as the
+ *  card-preview fallback when an entity has no `banner:` frontmatter. */
+function firstBodyImage(body: string): string | undefined {
+  const md = body.match(/!\[[^\]]*\]\(\s*(\S+?)\s*(?:"[^"]*")?\)/);
+  if (md) return md[1];
+  const html = body.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return html ? html[1] : undefined;
+}
 
 // ---- load + parse entity files ----
 const entities: Entity[] = [];
@@ -96,6 +107,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
     category: typeof d.category === 'string' ? d.category : undefined,
+    banner: typeof d.banner === 'string' ? d.banner : undefined,
     metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
     ...splitMechanics(stripAuthorNotes(parsed.content.trim())),
   });
@@ -272,8 +284,20 @@ const refOf = (id: string): EntityRef | null => {
   return t ? { id: t.id, name: t.name } : null;
 };
 
+// ---- subrace lookups (used by derivedInhabitants post-processing) ----
+const parentRaceIds = new Set<string>();
+const subraceParentOf = new Map<string, string>();
+for (const e of entities) {
+  for (const r of e.relations) {
+    if (r.rel === 'culture' && r.kind === 'subraceOf' && byId.has(r.target)) {
+      subraceParentOf.set(e.id, r.target);
+      parentRaceIds.add(r.target);
+    }
+  }
+}
+
 // ---- derivedInhabitants: two-pass graph-traversal race inheritance ----
-// Pass 1 (bottom-up): authored edges → union from containment children. No parent lookup, so
+// Pass 1 (bottom-up): authored edges ∪ union from containment children. No parent lookup, so
 //   Step 2 children can never re-enter a parent mid-computation (avoids false cycle warnings).
 // Pass 2 (top-down): entities still empty after pass 1 inherit from their containment parent.
 
@@ -296,15 +320,10 @@ function computePass1(id: string): string[] {
   const authored = e.relations
     .filter((r) => r.rel === 'culture' && r.kind === 'inhabitedBy')
     .map((r) => r.target);
-  if (authored.length > 0) {
-    const result = [...new Set(authored)].sort();
-    p1InProgress.delete(id);
-    p1Memo.set(id, result);
-    return result;
-  }
 
   // Step 2 — union from containment children (no parent lookup — that is pass 2)
-  const union = new Set<string>();
+  // Always run regardless of authored edges so containers bubble up their children's peoples.
+  const union = new Set<string>(authored);
   for (const child of (childrenOf.get(id) ?? [])) {
     for (const raceId of computePass1(child.id)) union.add(raceId);
   }
@@ -341,8 +360,19 @@ function computePass2(id: string): string[] {
   return parentResult;
 }
 
+function postProcessInhabitants(list: string[]): string[] {
+  // Race filter: keep only entities whose entityType is 'race' (drops creature-* etc.)
+  let filtered = list.filter((id) => byId.get(id)?.entityType === 'race');
+  // Parent-race suppression: when a subrace is present, drop its broad parent
+  const presentParents = new Set(
+    filtered.filter((id) => subraceParentOf.has(id)).map((id) => subraceParentOf.get(id)!)
+  );
+  filtered = filtered.filter((id) => !presentParents.has(id));
+  return filtered.sort();
+}
+
 const derivedInhabitantsOf = new Map<string, string[]>();
-for (const e of entities) derivedInhabitantsOf.set(e.id, computePass2(e.id));
+for (const e of entities) derivedInhabitantsOf.set(e.id, postProcessInhabitants(computePass2(e.id)));
 
 // ---- weight / atmosphere mapping (entityType-driven; authored value wins) ----
 const WEIGHT_BY_TYPE: Record<string, EntryWeight> = {
@@ -531,6 +561,9 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     .map(refOf)
     .filter((r): r is EntityRef => Boolean(r));
 
+  // Card-preview image: the frontmatter `banner:`, else the first image in the body.
+  const banner = e.banner ?? firstBodyImage(e.body);
+
   return {
     id: e.id,
     name: e.name,
@@ -538,6 +571,7 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     section: cat.slug === 'geography' ? root.name : cat.name,
     tags: e.tags,
     content: e.body,
+    ...(banner ? { banner } : {}),
     ...(e.mechanics ? { mechanics: e.mechanics } : {}),
     sourceFile: loreFileOf(e) ?? '',
     sourceHeader: e.name,
@@ -576,6 +610,7 @@ const searchIndex: SearchEntry[] = codexEntries
       entityType: ce.entityType ?? 'uncategorized',
       category: ce.category,
       blurb: ce.blurb ?? '',
+      ...(ce.banner ? { banner: ce.banner } : {}),
       weight: ce.weight!,
       ...(byId.get(ce.id)!.aliases.length ? { aliases: byId.get(ce.id)!.aliases } : {}),
       ...(derivedNames.length ? { derivedInhabitantNames: derivedNames } : {}),

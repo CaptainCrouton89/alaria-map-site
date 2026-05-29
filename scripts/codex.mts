@@ -620,6 +620,10 @@ Checks
   mentionScanCollisions  (warning) single-word entity names not in MENTION_SCAN_SKIP_NAMES with ≥ threshold cross-body
                                    prose hits — candidate common-English collisions polluting See Also. Review and
                                    add to scripts/mention-scan-skipnames.mts if appropriate. Threshold via --hits (default 25).
+  parentRaceInhabitant   (warning) inhabitedBy edges whose target is a parent race that has subraces — resolve to a specific
+                                   subrace. race-human is exempt (accepted generic fallback); a small per-region allowlist
+                                   (FALLBACK_INHABITANT_ALLOW) covers non-human regions where no subrace fits. Any other
+                                   broad non-human inhabitedBy edge flags — these are the worklist for subrace resolution.
   orphansNonGeographic   (info)    non-geographic entities with no within edge — expected; count only, not enumerated
 
 Severity model
@@ -636,7 +640,7 @@ Flags
 
 Output (JSON)
   { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, worshipsTargetType,
-    bothEndsUndirected, orphansGeographic, mentionScanCollisions, orphansNonGeographic }, limitations }
+    bothEndsUndirected, orphansGeographic, mentionScanCollisions, parentRaceInhabitant, orphansNonGeographic }, limitations }
 `);
 
   interface Finding { source: string; sourceName: string; kind: string; target?: string; detail: string }
@@ -815,8 +819,60 @@ Output (JSON)
   }
   mentionFindings.sort((a, b) => b.hits - a.hits);
 
+  // Check 7 — parentRaceInhabitant: inhabitedBy edges targeting a parent race that has subraces
+  // race-human is an accepted fallback target (user decision 2026-05-29): most flagged human
+  // regions are generic cities/polities/confederations with no named human subculture, so the
+  // broad "Human" tag is the truthful one. Humans are exempt entirely.
+  const FALLBACK_RACE_EXEMPT = new Set<string>(['race-human']);
+  // Per-(region|race) intentional broad fallbacks where NO subrace fits the region's prose
+  // (generic populations, advisor presences, or a fallen empire). Any OTHER broad non-human
+  // inhabitedBy edge still flags, so the check keeps catching regressions.
+  const FALLBACK_INHABITANT_ALLOW = new Set<string>([
+    '947|race-goblin',                       // Gymlstik — generic conquered goblins, no subrace fits
+    '2530|race-halfling',                    // Kerwin — generic pastoral halflings, no subrace fits
+    '2533|race-halfling',                    // Tarkha — capital of Kerwin, same population
+    '1475|race-naga',                        // Central Aboyinzu — naga advisors, no subrace tied here
+    '1606|race-naga',                        // Kadroka — mixed human-naga administration, unspecified
+    '1661|race-naga',                        // Ponoigari — minority naga presence, unspecified
+    'nation-postronamas-empire|race-gnome',  // Postronamas — fallen empire; survivors became other subraces
+  ]);
+  const parentRaceIdsLint = new Set<string>();
+  const subraceCountOf = new Map<string, number>();
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (r.rel === 'culture' && String(r.kind ?? '') === 'subraceOf' && r.target !== undefined) {
+        const tid = String(r.target);
+        parentRaceIdsLint.add(tid);
+        subraceCountOf.set(tid, (subraceCountOf.get(tid) ?? 0) + 1);
+      }
+    }
+  }
+  const parentRaceFindings: Finding[] = [];
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    for (const r of rels) {
+      if (r.rel !== 'culture' || String(r.kind ?? '') !== 'inhabitedBy') continue;
+      if (r.target === undefined) continue;
+      const tid = String(r.target);
+      if (!parentRaceIdsLint.has(tid)) continue;
+      if (FALLBACK_RACE_EXEMPT.has(tid)) continue;
+      if (FALLBACK_INHABITANT_ALLOW.has(`${String(e.data.id)}|${tid}`)) continue;
+      const tgt = index.get(tid);
+      const raceName = tgt ? String(tgt.data.name ?? tid) : tid;
+      const n = subraceCountOf.get(tid) ?? 0;
+      parentRaceFindings.push({
+        source: String(e.data.id),
+        sourceName: String(e.data.name ?? e.file),
+        kind: 'inhabitedBy',
+        target: tid,
+        detail: `inhabitedBy target ${raceName} is a parent race with ${n} subraces — resolve to a specific subrace`,
+      });
+    }
+  }
+
   const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length;
-  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length;
+  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length + parentRaceFindings.length;
 
   emit({
     ok: errors === 0,
@@ -830,6 +886,7 @@ Output (JSON)
       bothEndsUndirected:    { severity: 'warning', count: bothUndirectedFindings.length, findings: bothUndirectedFindings },
       orphansGeographic:     { severity: 'warning', count: orphanGeoFindings.length,      findings: orphanGeoFindings },
       mentionScanCollisions: { severity: 'warning', count: mentionFindings.length,        findings: mentionFindings, threshold: hitsThreshold },
+      parentRaceInhabitant:  { severity: 'warning', count: parentRaceFindings.length,     findings: parentRaceFindings },
       orphansNonGeographic:  { severity: 'info',    count: orphanNonGeoCount },
     },
     limitations: ['date-sanity: no structured date fields — see plan'],
