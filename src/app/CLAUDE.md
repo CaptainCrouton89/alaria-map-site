@@ -1,0 +1,1 @@
+- `--ec-accent` on `.entity-card` elements must be set as a bare `r,g,b` triplet (e.g. `style={{ '--ec-accent': '201,162,39' }}`), not a CSS color value — `rgba(var(--ec-accent), 0.07)` in globals.css silently produces invalid/transparent output if the var resolves to a hex string.

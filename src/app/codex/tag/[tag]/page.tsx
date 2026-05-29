@@ -1,20 +1,15 @@
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { ArrowLeft, Tag } from 'lucide-react';
+import { Tag } from 'lucide-react';
 import type { Metadata } from 'next';
 import type { EntryWeight } from '@/types/codex';
 import { getEntriesByTag } from '@/lib/codex-data';
 import { calculateEntryWeight } from '@/lib/entry-weight';
-import { getAtmosphereVisual } from '@/lib/atmosphere';
-import { EntitySeal } from '@/components/codex/EntitySeal';
+import { CodexChrome } from '@/components/codex/CodexChrome';
+import { EntityCard } from '@/components/codex/EntityCard';
 
 const WEIGHT_RANK: Record<EntryWeight, number> = {
   legendary: 0, major: 1, standard: 2, minor: 3, footnote: 4,
 };
-
-// This is a calm filtered list, like the codex search results — seals use the
-// neutral hue rather than each entry's own atmosphere so the page stays quiet.
-const NEUTRAL_VISUAL = getAtmosphereVisual('default');
 
 interface PageProps {
   params: Promise<{ tag: string }>;
@@ -48,26 +43,19 @@ export default async function TagPage({ params }: PageProps) {
       className="min-h-screen"
       style={{ background: `linear-gradient(180deg, rgba(201,162,39,0.05) 0, transparent 520px), var(--parchment)` }}
     >
-      {/* Top bar */}
-      <div className="border-b border-border bg-parchment-dark/80 backdrop-blur-sm">
-        <div className="max-w-3xl mx-auto px-6 py-3">
-          <Link
-            href="/codex"
-            className="inline-flex items-center gap-2 text-sm text-ink-muted hover:text-gold transition-colors"
-          >
-            <ArrowLeft className="w-4 h-4" />
-            Search the Codex
-          </Link>
-        </div>
-      </div>
+      {/* Floating search + Map/Codex cluster (top-right), shared across codex pages */}
+      <CodexChrome />
 
-      <div className="max-w-3xl mx-auto px-6 py-14">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12 sm:py-14">
         {/* Title block */}
         <div className="mb-9 text-center">
-          <div className="flex items-center justify-center gap-2 text-xs uppercase tracking-[0.18em] text-gold-muted mb-4">
-            <Tag className="w-3.5 h-3.5" />
-            <span>Tag</span>
+          {/* fleuron divider */}
+          <div className="flex items-center justify-center gap-3 mb-4 text-gold-muted" aria-hidden>
+            <span className="h-px w-12 bg-gradient-to-r from-transparent to-gold-muted" />
+            <Tag className="w-3.5 h-3.5 text-gold" />
+            <span className="h-px w-12 bg-gradient-to-l from-transparent to-gold-muted" />
           </div>
+          <div className="text-xs uppercase tracking-[0.2em] text-gold-muted mb-3">Tag</div>
           <h1 className="font-display text-4xl sm:text-5xl font-semibold text-ink mb-3 break-words">
             {decoded}
           </h1>
@@ -76,43 +64,12 @@ export default async function TagPage({ params }: PageProps) {
           </p>
         </div>
 
-        {/* Results */}
-        <ul className="flex flex-col divide-y divide-border/70 border border-border rounded-md overflow-hidden bg-parchment-light/60">
-          {entries.map(({ entry, weight }) => {
-            const prominent = weight === 'legendary' || weight === 'major';
-            return (
-              <li key={entry.id}>
-                <Link
-                  href={`/codex/${entry.id}`}
-                  className="group flex items-center gap-3.5 px-4 py-3 hover:bg-gold/[0.07] transition-colors"
-                >
-                  <EntitySeal
-                    entry={{ entityType: entry.entityType, tags: entry.tags }}
-                    visual={NEUTRAL_VISUAL}
-                    size="sm"
-                  />
-                  <span className="flex flex-col min-w-0 flex-1">
-                    <span className="flex items-baseline gap-2.5">
-                      <span
-                        className={`font-display group-hover:text-gold transition-colors text-ink ${prominent ? 'text-[1.05rem]' : ''}`}
-                      >
-                        {entry.name}
-                      </span>
-                      {entry.entityType && (
-                        <span className="text-[10px] uppercase tracking-[0.12em] text-ink-muted shrink-0">
-                          {entry.entityType}
-                        </span>
-                      )}
-                    </span>
-                    {entry.blurb && (
-                      <span className="text-sm text-ink-muted truncate">{entry.blurb}</span>
-                    )}
-                  </span>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
+        {/* Profile-card grid — each card carries its own atmosphere */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
+          {entries.map(({ entry }) => (
+            <EntityCard key={entry.id} entry={entry} />
+          ))}
+        </div>
       </div>
     </div>
   );

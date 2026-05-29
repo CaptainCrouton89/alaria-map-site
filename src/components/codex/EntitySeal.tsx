@@ -3,7 +3,7 @@ import type { LucideIcon } from 'lucide-react';
 import {
   Map, Trees, Waves, MapPin, Home, Tent, Castle, Shield, Landmark, Crown,
   Sparkles, Flame, Skull, PawPrint, Swords, Gem, User, ScrollText, Orbit,
-  Hourglass, Users, BookOpen,
+  Hourglass, Users, BookOpen, Wand2,
 } from 'lucide-react';
 import type { CodexEntry } from '@/types/codex';
 import type { AtmosphereVisual } from '@/lib/atmosphere';
@@ -23,7 +23,9 @@ const TYPE_ICON: Record<string, LucideIcon> = {
   nation: Crown,
   // Forward-looking types (no instances yet, but cheap to support):
   deity: Sparkles,
+  daemon: Skull,
   plane: Orbit,
+  magic: Wand2,
   event: ScrollText,
   era: Hourglass,
   person: User,
@@ -31,6 +33,7 @@ const TYPE_ICON: Record<string, LucideIcon> = {
   race: Users,
   creature: PawPrint,
   faction: Swords,
+  overview: BookOpen,
 };
 
 /** Tag fallbacks for legendary/mythic entries that predate the entity-type model. */

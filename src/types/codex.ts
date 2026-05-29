@@ -55,6 +55,8 @@ export interface CodexEntry {
   // New entity model (baked by scripts/build-codex.mts from content/codex/entities/)
   entityType?: string;
   blurb?: string;
+  /** Card-preview image URL: the frontmatter `banner:`, else the first body image (resolved by build). */
+  banner?: string;
   atmosphere?: AtmosphereType;
   coordinates?: [number, number];
   zoomLevel?: number;
@@ -72,7 +74,10 @@ export interface SearchEntry {
   id: string;
   name: string;
   entityType: string;
+  category: string; // top-level taxonomy slug (geography, races, deities, cosmology…)
   blurb: string;
+  /** Card-preview image URL (banner frontmatter, else first body image) — for landing/search cards. */
+  banner?: string;
   weight: EntryWeight;
   aliases?: string[];
   derivedInhabitantNames?: string[]; // resolved race names for search (from derivedInhabitants)

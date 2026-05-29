@@ -2,10 +2,10 @@ import Link from 'next/link';
 import type { CodexEntry, EntityRef, OutEdge, InEdge } from '@/types/codex';
 import type { AtmosphereVisual } from '@/lib/atmosphere';
 import { atmosRgba } from '@/lib/atmosphere';
-import { EntitySeal } from './EntitySeal';
 import { typeLabel } from './EntityHero';
 import { NeighborMap, type MapPoint } from './NeighborMap';
 import { MiniMap } from './MiniMap';
+import { EntitySeal } from './EntitySeal';
 
 const CONTAINS_CAP = 40;
 
@@ -83,6 +83,7 @@ interface InfoboxProps {
  * The wiki infobox: a scribe's marginal panel summarising where the entity sits
  * in the world (quick facts) and how it connects to everything else (relations).
  * Symmetric relations are merged; borders are drawn as a small adjacency map.
+ * The header carries the entity's seal (an on-brand SVG crest) for presence.
  */
 export function Infobox({ entry, visual, neighborCoords = {} }: InfoboxProps) {
   const accent = atmosRgba(visual, 1);
@@ -141,7 +142,7 @@ export function Infobox({ entry, visual, neighborCoords = {} }: InfoboxProps) {
       <div className="h-[3px] w-full" style={{ background: `linear-gradient(90deg, ${accent}, ${atmosRgba(visual, 0.15)})` }} />
 
       <div className="p-5">
-        {/* Header — repeats the title, wiki-style */}
+        {/* Header — seal + name, wiki-style */}
         <div className="flex items-center gap-3 pb-4 mb-4 border-b border-border">
           <EntitySeal entry={entry} visual={visual} size="sm" />
           <div className="min-w-0">
@@ -184,7 +185,7 @@ export function Infobox({ entry, visual, neighborCoords = {} }: InfoboxProps) {
             {borderRefs.length > 0 && (
               <div className="flex flex-col gap-2">
                 <h3 className="text-[11px] uppercase tracking-[0.13em] font-display" style={{ color: accent }}>
-                  Borders
+                  Journey to — borders
                 </h3>
                 {showMap && entry.coordinates ? (
                   <>

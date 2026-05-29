@@ -1,5 +1,9 @@
 export { EntityHero } from './EntityHero';
 export { CodexBody } from './CodexBody';
+export { CodexChrome } from './CodexChrome';
+export { CodexSearch } from './CodexSearch';
 export { Infobox } from './Infobox';
 export { EntitySeal } from './EntitySeal';
 export { MarkdownContent } from './MarkdownContent';
+export { EntityImage } from './EntityImage';
+export { Sigil } from './Sigil';
