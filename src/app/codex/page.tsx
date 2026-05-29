@@ -8,7 +8,7 @@ import type { SearchEntry } from '@/types/codex';
 import { CodexChrome } from '@/components/codex/CodexChrome';
 import { EntityImage } from '@/components/codex/EntityImage';
 import { getAtmosphereVisual } from '@/lib/atmosphere';
-import { WEIGHT_RANK, categoryVisual, entryVisual, rankResults } from '@/lib/codex-search';
+import { categoryVisual, entryVisual, rankResults } from '@/lib/codex-search';
 
 // ─── constants ───────────────────────────────────────────────────────────────
 // Ranking + atmosphere helpers live in @/lib/codex-search so the search overlay
@@ -34,20 +34,14 @@ const CATEGORY_SUBTITLE: Record<string, string> = {
   artifacts: 'Relics of power',
 };
 
-// Authored cosmic banner for the codex landing hero — a hand-written 16:9 oil
-// painting of Bryn, Alaria's awakened sun (not a rotating entity crop).
+// The codex landing hero — a hand-written 16:9 oil painting of Bryn, Alaria's
+// awakened sun, over the flat warmth-band-to-sunless-latitudes world. (The world
+// is a flat plane: walk to the edge and you wrap into Celestia, so there is no
+// rim or void to show.)
+const LANDING_BANNER_URL =
+  'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-flat/banner.webp';
 const BRYN_CAPTION =
   'Bryn, the waking sun — its path across Alaria is sung by the dawn-choirs, not fixed';
-
-// Bryn won the A/B; these are sun-corrected variations (the earlier set read as a
-// haloed planet). scene = aerial floating world + warm/cold duality · sky = calm
-// atmospheric vista · rite = dawn-choir at a sun-monastery. Temporary — collapse
-// to a single constant once one wins.
-const LANDING_BANNERS = [
-  { key: 'scene', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-scene/banner.webp' },
-  { key: 'sky', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-sky/banner.webp' },
-  { key: 'rite', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-rite/banner.webp' },
-] as const;
 
 // ─── sub-components ──────────────────────────────────────────────────────────
 
@@ -165,6 +159,25 @@ function CardCaption({
 // Gradient that seats the caption against the cover so text always reads.
 const COVER_SCRIM = 'linear-gradient(180deg, rgba(15,13,10,0) 30%, rgba(15,13,10,0.5) 64%, rgba(15,13,10,0.93) 100%)';
 
+// Deterministic shuffle: the order is stable within a seed window (here, one hour)
+// but reshuffles as the seed advances, so the cornerstone marquee feels different
+// through the day. mulberry32 PRNG + Fisher–Yates.
+function seededShuffle<T>(arr: readonly T[], seed: number): T[] {
+  const out = arr.slice();
+  let s = seed >>> 0;
+  const rand = () => {
+    s = (s + 0x6d2b79f5) | 0;
+    let t = Math.imul(s ^ (s >>> 15), 1 | s);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
 /**
  * Cornerstone feature card. Shows the entry's banner when one exists; these
  * marquee entries have no art yet, so the fallback is *designed* atmospheric
@@ -210,7 +223,12 @@ function FeatureCard({ entry }: { entry: SearchEntry }) {
       {/* body */}
       {entry.blurb && (
         <div style={{ padding: '0.65rem 0.8rem 0.85rem' }}>
-          <div className="text-[0.84rem] leading-[1.5]" style={{ color: 'var(--ink-muted)' }}>{entry.blurb}</div>
+          <div
+            className="text-[0.84rem] leading-[1.5]"
+            style={{ color: 'var(--ink-muted)', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}
+          >
+            {entry.blurb}
+          </div>
         </div>
       )}
     </Link>
@@ -254,13 +272,48 @@ function RealmCard({ overview }: { overview: SearchEntry }) {
 
 // ─── main page ───────────────────────────────────────────────────────────────
 
+// Auto-scrolling marquee of cornerstone cards. The track holds the list twice and
+// translates by -50% on a loop, so the scroll is seamless; the duration scales with
+// the card count to keep a constant, slow pace no matter how many there are. Pauses
+// on hover, and honours reduced-motion (the CSS drops the animation and lets the row
+// scroll manually). Per-item marginRight — not flex `gap` — keeps the doubled track
+// exactly 2× one copy, which is what makes -50% line up seam-free.
+const MARQUEE_CSS = `
+@keyframes cornerstone-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.cornerstone-marquee { position: relative; overflow: hidden; }
+.cornerstone-marquee-track { display: flex; width: max-content; animation: cornerstone-marquee linear infinite; will-change: transform; }
+.cornerstone-marquee:hover .cornerstone-marquee-track { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) {
+  .cornerstone-marquee { overflow-x: auto; }
+  .cornerstone-marquee-track { animation: none; }
+}
+`;
+
+function CornerstoneCarousel({ entries }: { entries: SearchEntry[] }) {
+  // ~6s of travel per card keeps a calm, readable pace; floor so a short list still drifts.
+  const duration = `${Math.max(133, entries.length * 20)}s`;
+  const loop = [...entries, ...entries];
+  return (
+    <div className="cornerstone-marquee">
+      <style dangerouslySetInnerHTML={{ __html: MARQUEE_CSS }} />
+      <div className="cornerstone-marquee-track" style={{ animationDuration: duration }}>
+        {loop.map((entry, i) => (
+          <div key={`${entry.id}-${i}`} style={{ flex: '0 0 18rem', maxWidth: '18rem', marginRight: '0.875rem' }} aria-hidden={i >= entries.length}>
+            <FeatureCard entry={entry} />
+          </div>
+        ))}
+      </div>
+      {/* parchment edge fades so cards melt in/out at the margins */}
+      <div className="pointer-events-none absolute inset-y-0 left-0" style={{ width: '3rem', background: 'linear-gradient(90deg, var(--parchment), transparent)', zIndex: 2 }} />
+      <div className="pointer-events-none absolute inset-y-0 right-0" style={{ width: '3rem', background: 'linear-gradient(270deg, var(--parchment), transparent)', zIndex: 2 }} />
+    </div>
+  );
+}
+
 export default function CodexPage() {
   const router = useRouter();
   const [index, setIndex] = useState<SearchEntry[] | null>(null);
   const [query, setQuery] = useState('');
-  // Which Bryn banner variation the landing hero shows. Temporary A/B toggle
-  // while we choose among scene/sky/rite; collapse to a constant after.
-  const [bannerKey, setBannerKey] = useState<'scene' | 'sky' | 'rite'>('scene');
 
   useEffect(() => {
     fetch('/codex-search.json')
@@ -292,15 +345,19 @@ export default function CodexPage() {
     return OVERVIEW_ORDER.map((id) => byId[id]).filter((e): e is SearchEntry => Boolean(e));
   }, [index]);
 
-  // Cornerstone cards: top legendary (then major) non-overview entries, up to 3
+  // Cornerstone carousel: every legendary/major non-overview entry, shuffled into a
+  // fresh order each hour (a time-of-day seed) so the marquee feels different through
+  // the day. Random in a useMemo is fine here — this list only renders client-side,
+  // after the index has loaded, so there is no SSR order to mismatch on hydration.
   const cornerstones = useMemo(() => {
     if (!index) return [];
-    const pool = index.filter((e) => e.entityType !== 'overview' && (e.weight === 'legendary' || e.weight === 'major'));
-    // stable sort: legendary first, then by name
-    return pool
-      .slice()
-      .sort((a, b) => WEIGHT_RANK[a.weight] - WEIGHT_RANK[b.weight] || a.name.localeCompare(b.name))
-      .slice(0, 3);
+    const pool = index.filter(
+      (e) => e.entityType !== 'overview' && (e.weight === 'legendary' || e.weight === 'major'),
+    );
+    const hourSeed = Math.floor(Date.now() / 3_600_000); // advances once per hour
+    // Cap the marquee at a rotating subset so the loop stays watchable and the
+    // DOM stays light; the hourly reseed cycles different cornerstones through the day.
+    return seededShuffle(pool, hourSeed).slice(0, 24);
   }, [index]);
 
   const results = useMemo(() => {
@@ -308,7 +365,6 @@ export default function CodexPage() {
     return rankResults(index, dq, 200);
   }, [index, dq]);
 
-  const banner = LANDING_BANNERS.find((b) => b.key === bannerKey) ?? LANDING_BANNERS[0];
   const bannerVisual = getAtmosphereVisual('water');
 
   return (
@@ -337,37 +393,18 @@ export default function CodexPage() {
           <>
             <div style={{ position: 'absolute', inset: 0 }}>
               <EntityImage
-                src={banner.url}
+                src={LANDING_BANNER_URL}
                 entry={{ id: 'codex-landing', name: 'The Codex of Alaria', entityType: 'plane', tags: [] }}
                 visual={bannerVisual}
                 objectPosition="50% 45%"
                 className="w-full h-full"
               />
             </div>
-            {/* TEMP A/B banner chooser — remove once a banner is chosen */}
-            <div style={{ position: 'absolute', bottom: '0.5rem', right: '0.6rem', zIndex: 7, display: 'flex', gap: '0.35rem' }}>
-              {LANDING_BANNERS.map((b) => (
-                <button
-                  key={b.key}
-                  type="button"
-                  onClick={() => setBannerKey(b.key)}
-                  style={{
-                    all: 'unset', cursor: 'pointer', padding: '0.2rem 0.6rem', borderRadius: '0.3rem',
-                    fontSize: '0.7rem', textTransform: 'capitalize', fontFamily: 'var(--display)',
-                    color: bannerKey === b.key ? 'var(--ink)' : 'rgba(232,224,208,0.7)',
-                    background: bannerKey === b.key ? 'rgba(201,162,39,0.85)' : 'rgba(20,17,13,0.6)',
-                    border: '1px solid var(--gold-muted)',
-                  }}
-                >
-                  {b.key}
-                </button>
-              ))}
-            </div>
             <div
               style={{
                 position: 'absolute',
                 inset: 0,
-                background: 'radial-gradient(ellipse at center, rgba(15,13,10,0.25) 20%, rgba(15,13,10,0.82) 100%)',
+                background: 'radial-gradient(ellipse at center, rgba(15,13,10,0.5) 15%, rgba(15,13,10,0.9) 100%)',
                 zIndex: 2,
               }}
             />
@@ -408,11 +445,11 @@ export default function CodexPage() {
               </div>
               <h1
                 className="font-display font-semibold"
-                style={{ fontSize: 'clamp(1.6rem, 4vw, 2.5rem)', letterSpacing: '0.02em', textShadow: '0 2px 18px rgba(0,0,0,0.9)', color: 'var(--ink)' }}
+                style={{ fontSize: 'clamp(1.6rem, 4vw, 2.5rem)', letterSpacing: '0.02em', textShadow: '0 2px 4px rgba(0,0,0,0.98), 0 2px 24px rgba(0,0,0,0.9)', color: 'var(--ink)' }}
               >
                 The Codex of Alaria
               </h1>
-              <p style={{ fontSize: '0.9rem', margin: '0.35rem 0 0.9rem', textShadow: '0 1px 6px rgba(0,0,0,0.9)', color: 'var(--ink-muted)' }}>
+              <p style={{ fontSize: '0.9rem', margin: '0.35rem 0 0.9rem', textShadow: '0 1px 3px rgba(0,0,0,0.98), 0 1px 10px rgba(0,0,0,0.85)', color: 'var(--ink-muted)' }}>
                 Search the world, then travel by its connections.
               </p>
             </>
@@ -450,7 +487,7 @@ export default function CodexPage() {
 
           {/* quick links (no-query only) */}
           {!q && (
-            <div className="flex items-center gap-5 mt-2.5" style={{ fontSize: '0.8rem', textShadow: '0 1px 6px rgba(0,0,0,0.9)' }}>
+            <div className="flex items-center gap-5 mt-2.5" style={{ fontSize: '0.8rem', textShadow: '0 1px 3px rgba(0,0,0,0.98), 0 1px 8px rgba(0,0,0,0.85)' }}>
               <Link
                 href="/"
                 className="flex items-center gap-1.5 transition-opacity hover:opacity-80"
@@ -535,11 +572,7 @@ export default function CodexPage() {
                   >
                     Begin with — the cornerstones
                   </p>
-                  <div className="grid gap-3.5 grid-cols-1 sm:grid-cols-3">
-                    {cornerstones.map((entry) => (
-                      <FeatureCard key={entry.id} entry={entry} />
-                    ))}
-                  </div>
+                  <CornerstoneCarousel entries={cornerstones} />
                 </section>
               )}
 

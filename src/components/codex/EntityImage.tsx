@@ -15,6 +15,9 @@ interface EntityImageProps {
   aspect?: string;
   /** Fully rounded — for circular framing. */
   rounded?: boolean;
+  /** CSS object-position for the cover crop. Defaults to biasing toward the top
+   *  of the image (the subject usually sits high), showing ~the upper two-thirds. */
+  objectPosition?: string;
 }
 
 /**
@@ -32,6 +35,7 @@ export function EntityImage({
   className = '',
   aspect,
   rounded = false,
+  objectPosition = '50% 33%',
 }: EntityImageProps) {
   const [errored, setErrored] = useState(false);
   const [loaded, setLoaded] = useState(false);
@@ -84,6 +88,7 @@ export function EntityImage({
             width: '100%',
             height: '100%',
             objectFit: 'cover',
+            objectPosition,
             display: 'block',
             borderRadius,
             opacity: loaded ? 1 : 0,
