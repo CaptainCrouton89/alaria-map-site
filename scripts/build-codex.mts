@@ -169,14 +169,44 @@ const names = [...nameToIds.keys()].sort((a, b) => b.length - a.length);
 const skipNames = MENTION_SCAN_SKIP_NAMES;
 const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
+// Compile one `\bname\b` matcher per eligible name ONCE. Previously the mention-scan and the
+// autolink pass each rebuilt this regex inside their entity×name inner loops — ~N² `new RegExp`
+// (+ `esc`) calls, which the CPU profile showed was the build's dominant cost. The compiled
+// matchers are non-global and stateless, so both passes can share them. A name absent from this
+// map is one filtered by the length/skip guard below — callers treat a miss as "skip".
+const nameMatcher = new Map<string, RegExp>();
+for (const name of names) {
+  if (name.length < 4 || skipNames.has(name)) continue;
+  nameMatcher.set(name, new RegExp(`\\b${esc(name)}\\b`, 'i'));
+}
+
+// Token prefilter. `\bname\b` can only match a body if every `[a-z0-9_]` run in the name appears
+// in the body as a token bounded the same way — so the name's longest such run ("anchor") is a
+// sound NECESSARY condition for a match. We test the anchor against a Set of the body's tokens
+// (O(1)) before paying for the regex, turning the entity×name scan from ~N² regex tests into ~N²
+// cheap Set lookups with the regex run only on real candidates. Names with no `[a-z0-9_]` run at
+// all (anchor null — pure punctuation/diacritics) get no entry and fall through to the full regex,
+// preserving exact behavior for that pathological case.
+const wordTokens = (s: string): Set<string> => new Set(s.toLowerCase().match(/[a-z0-9_]+/g) ?? []);
+const nameAnchor = new Map<string, string>();
+for (const name of nameMatcher.keys()) {
+  let best = '';
+  for (const run of name.match(/[a-z0-9_]+/g) ?? []) if (run.length > best.length) best = run;
+  if (best) nameAnchor.set(name, best);
+}
+
 const related = new Map<string, Set<string>>(entities.map((e) => [e.id, new Set<string>()]));
 for (const e of entities) {
   // authored typed edges always count
   for (const r of e.relations) if (byId.has(r.target)) related.get(e.id)!.add(r.target);
   if (!e.body) continue;
+  const bodyTokens = wordTokens(e.body);
   for (const name of names) {
-    if (name.length < 4 || skipNames.has(name)) continue;
-    if (!new RegExp(`\\b${esc(name)}\\b`, 'i').test(e.body)) continue;
+    const re = nameMatcher.get(name);
+    if (!re) continue;
+    const anchor = nameAnchor.get(name);
+    if (anchor && !bodyTokens.has(anchor)) continue;
+    if (!re.test(e.body)) continue;
     const others = nameToIds.get(name)!.filter((id) => id !== e.id);
     if (others.length === 0) continue;
     if (others.length === 1) { related.get(e.id)!.add(others[0]); continue; }
@@ -217,10 +247,14 @@ function tokenize(body: string): Seg[] {
 function autolinkBody(rawBody: string, ownId: string): string {
   if (!rawBody) return rawBody;
   const segs = tokenize(rawBody);
+  const bodyTokens = wordTokens(rawBody);
   const usedTargets = new Set<string>();
 
   for (const name of names) {
-    if (name.length < 4 || skipNames.has(name)) continue;
+    const re = nameMatcher.get(name);
+    if (!re) continue;
+    const anchor = nameAnchor.get(name);
+    if (anchor && !bodyTokens.has(anchor)) continue;
     // Disambiguate to a single target id (same rules as the mention-scan above).
     const others = nameToIds.get(name)!.filter((id) => id !== ownId);
     if (others.length === 0) continue;
@@ -239,7 +273,6 @@ function autolinkBody(rawBody: string, ownId: string): string {
     }
     if (!targetId || usedTargets.has(targetId)) continue;
 
-    const re = new RegExp(`\\b${esc(name)}\\b`, 'i');
     for (let si = 0; si < segs.length; si++) {
       const seg = segs[si];
       if (seg.type !== 'plain') continue;
