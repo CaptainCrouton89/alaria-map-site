@@ -27,7 +27,7 @@ Cosmogony pull-down: this is the Kazül-LOCAL fall under the Blight of Arcanus (
 
 DISTINCT from the Camaran Blight (~3340 SD, event-the-camaran-blight.md): that is a recent, local, few-hundred-dead foundry accident that merely borrowed the word "Blight" in grief. The Glassing is the real Lost-Ages cataclysm, ~15,000 years earlier. Do not conflate.
 
-PROVISIONAL name flag (sign-off): "the Ederhi" is used here as the name of the fallen civilization, reusing the existing in-corpus place-name "Towers of Ederhi" (658) — i.e. the towers are named for their builders. This is a light interpretation of the existing name, not a fresh coinage; flag if a different builder-name is preferred. "The Glassing" is a descriptive English event name in the manner of "The Severance" / "The Camaran Blight"; alias "Fall of the Glass Kings" retained per brief.
+Naming (ratified canon, lead sign-off 2026-05-29): "the Ederhi" is the name of the fallen civilization, reusing the existing in-corpus place-name "Towers of Ederhi" (658) — the towers are named for their builders. "The Glassing" is a descriptive event name in the manner of "The Severance" / "The Camaran Blight"; alias "Fall of the Glass Kings" retained. Both names are locked.
 
 Mechanics consistency: the Ederhi worked generative magic on aetherial/Psywinds-and-glass foundations and died when the Blight reversed it (canon). Salomor's surviving ring is an artifact-key (template-execution, NOT generative casting — world-systems-invariants Daemon-knowledge-gate row lists artifact-keys as below the gate), which is why operating it now spends no caster-life and does not re-trigger the curse; the binding was completed before the Blight. Ring detail lives on person-salomor.md and kazu-l.md, not here.
 
