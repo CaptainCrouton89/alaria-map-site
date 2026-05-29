@@ -28,9 +28,10 @@ check list and severity model.
 **Known baseline = `errors:0`** (updated 2026-05-29 — added the `bordersWithinSameTarget` error check;
 all 8 self-declared borders+within contradictions were adjudicated and fixed, so it sits at 0). "Clean"
 means *no new errors beyond zero* — if `errors` exceeds 0, you broke something this session. Warnings
-(~367, mostly both-ends-undirected borders, geographic orphans, and the new `containerBordersChild`
-check — 17 out-of-scope periphery regions where a container borders its own contained child, a tracked
-cleanup backlog) are tracked, not gating.
+(~350, mostly both-ends-undirected borders and geographic orphans) are tracked, not gating. The
+`containerBordersChild` check (container borders its own contained child) was driven to 0 in the
+2026-05-29 Cleanup phase — 11 spurious `borders` edges dropped, 6 `within` edges repointed to the
+correct container; if it rises above 0 again, a new edge re-introduced the contradiction.
 
 **Expand this linter over time.** It is meant to grow: when you notice a new graph invariant that
 should hold corpus-wide (a new edge-kind constraint, a containment rule, a date-ordering check once a

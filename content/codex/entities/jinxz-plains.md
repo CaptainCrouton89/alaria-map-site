@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["plains", "region"]
 sources: ["all_sections_formatted/Clueanda.md#L1455"]
 relations:
-  - { rel: spatial, kind: within, target: "759" }
+  - { rel: spatial, kind: within, target: "2857" }
 ---
 The Jinxz Plains occupy the southern stretch of the central grasslands, named (according to the goblins) for the bad luck that follows anyone who crosses them wrong. Like the Shiverplains to the north, this is Scalawag goblin territory—chaotic, dangerous, and perpetually at war with itself.
 

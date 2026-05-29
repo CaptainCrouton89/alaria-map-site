@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["forest", "region"]
 sources: ["all_sections_formatted/Clueanda.md#L1075"]
 relations:
-  - { rel: spatial, kind: within, target: "759" }
+  - { rel: spatial, kind: within, target: "2857" }
 ---
 Glidwyn Forest fills the transition zone between Eloweir coastal territory and the interior plains, a dense temperate woodland that marks where Eloesi ends and wilder lands begin. The forest isn't claimed by any nation—it's simply there, a green buffer between the sea elves and the goblin chaos to the east.
 

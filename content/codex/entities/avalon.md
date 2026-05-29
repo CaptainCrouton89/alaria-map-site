@@ -10,8 +10,6 @@ tags: ["region", "state", "ve", "theocracy", "time-magic"]
 sources: ["all_sections_formatted/Ve.md#L148"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
-  - { rel: spatial, kind: borders, target: "298", note: "S" }
-  - { rel: spatial, kind: borders, target: "23", note: "W" }
   - { rel: spatial, kind: borders, target: "368", note: "N" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-temptari" }
 review:

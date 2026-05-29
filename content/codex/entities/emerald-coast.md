@@ -11,7 +11,7 @@ sources: ["all_sections_formatted/Rimihuica.md#L4728"]
 relations:
   - { rel: spatial, kind: borders, target: "2870", note: "S" }
   - { rel: spatial, kind: borders, target: "2912", note: "W" }
-  - { rel: spatial, kind: within, target: "2857" }
+  - { rel: spatial, kind: within, target: "2453" }
 review:
   aiWritten: true
   archetype: ai-ok

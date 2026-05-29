@@ -11,8 +11,6 @@ sources: ["all_sections_formatted/Rimihuica.md#L1664"]
 relations:
   - { rel: spatial, kind: within, target: "2453" }
   - { rel: spatial, kind: borders, target: "2857", note: "East" }
-  - { rel: spatial, kind: borders, target: "2662", note: "South" }
-  - { rel: spatial, kind: borders, target: "2825", note: "South" }
   - { rel: spatial, kind: borders, target: "2455", note: "North" }
   - { rel: culture, kind: inhabitedBy, target: "race-naruaghin" }
 review:

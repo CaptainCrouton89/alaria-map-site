@@ -9,7 +9,6 @@ zoomLevel: 0
 tags: ["island", "geography", "forest", "state", "nation", "hills", "bay", "strait", "sea", "plateau", "city", "fortress", "dragon", "creature", "swamp", "poi", "mountains"]
 sources: ["all_sections_formatted/Clueanda.md#L15"]
 relations:
-  - { rel: spatial, kind: borders, target: "720", note: "east" }
   - { rel: spatial, kind: within, target: "388" }
 review:
   aiWritten: true

@@ -147,7 +147,6 @@
     "zoomLevel": 0,
     "parentId": "388",
     "relatedIds": [
-      "720",
       "388",
       "905",
       "2460",
@@ -162,6 +161,7 @@
       "477",
       "creature-dragons",
       "529",
+      "720",
       "816",
       "768",
       "411",
@@ -193,13 +193,7 @@
     "atmosphere": "dangerous",
     "blurb": "The Middle Sea is a large body of water lying south of the Kharvorn Mountains, in the temperate heart of Clueanda.",
     "parentName": "Clueanda",
-    "containsCount": 3,
-    "borders": [
-      {
-        "id": "720",
-        "name": "Ofrenia"
-      }
-    ]
+    "containsCount": 3
   },
   {
     "id": "1346",
@@ -343,7 +337,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "The middle continent of Alaria, falling from northern desert badlands through a vast jungle basin to the slave-trading Shacklands in the south.",
-    "containsCount": 5
+    "containsCount": 6
   },
   {
     "id": "3126",
@@ -455,7 +449,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "Upoceax (pronounced \"YOO-poe-say\") is one of the three major continents of Alaria, located in the southwest.",
-    "containsCount": 10
+    "containsCount": 11
   },
   {
     "id": "6",
@@ -1189,7 +1183,7 @@
     "atmosphere": "civilization",
     "blurb": "The Innerrim is the vast jungle basin at the heart of Rimihuica—a dark green sea of dense forest filling the continental interior.",
     "parentName": "Rimihuica",
-    "containsCount": 19,
+    "containsCount": 21,
     "borders": [
       {
         "id": "3014",
@@ -1698,7 +1692,7 @@
     "atmosphere": "civilization",
     "blurb": "The Seacleft Coast occupies the northwestern edge of Upoceax—a rugged coastal region featuring dramatic cliffs that drop into the ocean.",
     "parentName": "Upoceax",
-    "containsCount": 19,
+    "containsCount": 18,
     "borders": [
       {
         "id": "manual-mpii5qyj-9mpv2",
@@ -2254,10 +2248,9 @@
     "relatedIds": [
       "2453",
       "2857",
-      "2662",
-      "2825",
       "2455",
       "race-naruaghin",
+      "2662",
       "2693",
       "creature-senwyn-the-agonizer",
       "2785",
@@ -2329,14 +2322,6 @@
       {
         "id": "2857",
         "name": "Innerrim"
-      },
-      {
-        "id": "2662",
-        "name": "East Naruaghin Tribes"
-      },
-      {
-        "id": "2825",
-        "name": "South Naruaghin Tribes"
       },
       {
         "id": "2455",
@@ -2450,11 +2435,11 @@
       "3793",
       "3476",
       "4085",
-      "3952",
-      "3833",
       "race-satyr-lesser-satyr",
       "3983",
       "4010",
+      "3833",
+      "3952",
       "4043",
       "3548",
       "4041",
@@ -2506,14 +2491,6 @@
       {
         "id": "4085",
         "name": "Venalthier"
-      },
-      {
-        "id": "3952",
-        "name": "Eceraen Mountains"
-      },
-      {
-        "id": "3833",
-        "name": "Kilbyurn Mountains"
       }
     ]
   },
@@ -2763,13 +2740,13 @@
     "parentId": "1",
     "relatedIds": [
       "1",
-      "298",
-      "23",
       "368",
       "race-human-temptari",
       "3",
       "334",
+      "23",
       "189",
+      "298",
       "165",
       "268",
       "322",
@@ -2789,14 +2766,6 @@
     "parentName": "Ve",
     "containsCount": 17,
     "borders": [
-      {
-        "id": "298",
-        "name": "Promisewood"
-      },
-      {
-        "id": "23",
-        "name": "Munari Inlet"
-      },
       {
         "id": "368",
         "name": "Tukiwood"
@@ -3141,6 +3110,14 @@
     "relatedIds": [
       "1754",
       "1865",
+      "2155",
+      "1788",
+      "poi-dragons-gate",
+      "1760",
+      "1784",
+      "1787",
+      "1798",
+      "race-halfling-wispen",
       "1805"
     ],
     "loreFile": "Aboyinzu.md",
@@ -3149,7 +3126,7 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "A mystical region known for its ancient forests and the presence of the dragon Ziru.",
+    "blurb": "The forested eastern third of the Wanderlands, filled with the low hum of Dragon's Gate and ruled by the dragon Ziru.",
     "parentName": "Wanderlands",
     "containsCount": 7,
     "borders": [
@@ -3271,11 +3248,11 @@
       "1",
       "322",
       "manual-mph53on6-mirms",
-      "130",
       "131",
       "329",
       "race-koren-korel",
       "373",
+      "130",
       "193",
       "race-koren"
     ],
@@ -3300,10 +3277,6 @@
         "name": "Norswell Sea"
       },
       {
-        "id": "130",
-        "name": "Mesyula Bay"
-      },
-      {
         "id": "131",
         "name": "Coquray Sound"
       },
@@ -3322,11 +3295,11 @@
       269
     ],
     "zoomLevel": 2,
-    "parentId": "2857",
+    "parentId": "2453",
     "relatedIds": [
       "2870",
       "2912",
-      "2857",
+      "2453",
       "manual-mphcf46l-3ua62",
       "872",
       "3022",
@@ -3339,10 +3312,10 @@
       "680",
       "390",
       "3066",
-      "2453",
       "396",
       "3048",
       "492",
+      "2857",
       "719",
       "3087",
       "creature-wyverns",
@@ -3364,7 +3337,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "A stateless jungle coastline along Rimihuica's eastern seaboard—no overarching authority, just scattered harbor settlements, sub-nations, and slowly building catastrophe.",
-    "parentName": "Innerrim",
+    "parentName": "Rimihuica",
     "containsCount": 5,
     "borders": [
       {
@@ -3516,7 +3489,6 @@
     "parentId": "3151",
     "relatedIds": [
       "2912",
-      "manual-mphcqwrl-01eaj",
       "2921",
       "3151",
       "race-elf-gamori",
@@ -3527,6 +3499,7 @@
       "3167",
       "4165",
       "3288",
+      "manual-mphcqwrl-01eaj",
       "race-lizardfolk-ixvasyla",
       "2453",
       "3275",
@@ -3546,10 +3519,6 @@
       {
         "id": "2912",
         "name": "Myjornis Mountains"
-      },
-      {
-        "id": "manual-mphcqwrl-01eaj",
-        "name": "Moon Wilds"
       },
       {
         "id": "2921",
@@ -3747,7 +3716,7 @@
     "atmosphere": "nature",
     "blurb": "East of the Bitterlands, where the mountains curve toward the coast, lies Soya Grei—a peninsula of rocky highlands overlooking Soothesong Sound.",
     "parentName": "Celedrim Plains",
-    "containsCount": 2
+    "containsCount": 3
   },
   {
     "id": "1079",
@@ -4549,7 +4518,7 @@
     "atmosphere": "civilization",
     "blurb": "The massive mountain range that forms Tarkhon's northern frontier, separating the empire from the orcish Wildwood and stretching from the coastal regions in the west…",
     "parentName": "Tarkhon Empire",
-    "containsCount": 4
+    "containsCount": 5
   },
   {
     "id": "359",
@@ -7094,13 +7063,13 @@
       321
     ],
     "zoomLevel": 3,
-    "parentId": "3342",
+    "parentId": "3341",
     "relatedIds": [
-      "3342"
+      "3341"
     ],
     "tags": [],
     "atmosphere": "civilization",
-    "parentName": "Seacleft Coast",
+    "parentName": "Upoceax",
     "containsCount": 7
   },
   {
@@ -7641,7 +7610,6 @@
     "zoomLevel": 3,
     "parentId": "2218",
     "relatedIds": [
-      "2260",
       "2298",
       "2218",
       "race-dwarf-fengruk"
@@ -7656,10 +7624,6 @@
     "parentName": "Bellowing Mountains",
     "containsCount": 8,
     "borders": [
-      {
-        "id": "2260",
-        "name": "Hills of Sarrow"
-      },
       {
         "id": "2298",
         "name": "Pale Peaks"
@@ -9447,7 +9411,7 @@
     "atmosphere": "civilization",
     "blurb": "Kobuk is a rugged mountain territory in the central Wurmspine range, bounded by the Hellion Hills to the north and the Hills to Nowhere to…",
     "parentName": "The Wurmspine",
-    "containsCount": 2,
+    "containsCount": 1,
     "borders": [
       {
         "id": "1040",
@@ -14330,8 +14294,8 @@
       "1390",
       "1395",
       "1444",
-      "1435",
       "race-halfling-windorf",
+      "1435",
       "30",
       "manual-mpigsfn1-61n1o",
       "manual-mpigsxat-b3jz2",
@@ -14370,10 +14334,6 @@
       {
         "id": "1444",
         "name": "Poum Titch"
-      },
-      {
-        "id": "1435",
-        "name": "Green Mountains"
       }
     ]
   },
@@ -19718,11 +19678,12 @@
       232
     ],
     "zoomLevel": 4,
-    "parentId": "759",
+    "parentId": "2857",
     "relatedIds": [
-      "759",
+      "2857",
       "470",
       "560",
+      "759",
       "500",
       "732",
       "race-elf-eloweir",
@@ -19736,7 +19697,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "Glidwyn Forest fills the transition zone between Eloweir coastal territory and the interior plains, a dense temperate woodland that marks where Eloesi ends and wilder…",
-    "parentName": "Shiverplains"
+    "parentName": "Innerrim"
   },
   {
     "id": "manual-mph4venj-lkmzf",
@@ -21428,12 +21389,13 @@
       243
     ],
     "zoomLevel": 4,
-    "parentId": "759",
+    "parentId": "2857",
     "relatedIds": [
-      "759",
+      "2857",
       "872",
       "507",
       "560",
+      "759",
       "732",
       "440",
       "race-goblin-scalawag",
@@ -21448,7 +21410,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "The Jinxz Plains occupy the southern stretch of the central grasslands, named (according to the goblins) for the bad luck that follows anyone who crosses…",
-    "parentName": "Shiverplains"
+    "parentName": "Innerrim"
   },
   {
     "id": "1934",
@@ -26847,7 +26809,7 @@
     "atmosphere": "civilization",
     "blurb": "The Shiverplains stretch across the central interior, a vast grassland that gets its name from the way the wind makes the tall grass ripple in…",
     "parentName": "Innerrim",
-    "containsCount": 9,
+    "containsCount": 6,
     "borders": [
       {
         "id": "567",
@@ -27238,11 +27200,18 @@
       85
     ],
     "zoomLevel": 4,
-    "parentId": null,
-    "relatedIds": [],
+    "parentId": "1270",
+    "relatedIds": [
+      "1270",
+      "1292",
+      "race-human-neth",
+      "1682"
+    ],
     "loreFile": "Clueanda.md",
     "tags": [],
-    "atmosphere": "water"
+    "atmosphere": "water",
+    "blurb": "A cold northern sound off Soya Grei, named for the cliff-songs the Neth take for the voices of their dead.",
+    "parentName": "Konai Mora"
   },
   {
     "id": "977",
@@ -29004,12 +28973,13 @@
       118
     ],
     "zoomLevel": 4,
-    "parentId": "1066",
+    "parentId": "2462",
     "relatedIds": [
-      "1066",
+      "2462",
       "1040",
       "wilderness-twaan-forests",
-      "creature-twaan"
+      "creature-twaan",
+      "1066"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -29019,7 +28989,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "The Guiles is a dense forest wedged between the Hellion Hills to the west and the Twaan Forests to the north, stretching south toward Kobuk.",
-    "parentName": "Kobuk"
+    "parentName": "The Wurmspine"
   },
   {
     "id": "1520",
@@ -35608,9 +35578,9 @@
       231
     ],
     "zoomLevel": 5,
-    "parentId": "759",
+    "parentId": "2857",
     "relatedIds": [
-      "759",
+      "2857",
       "500"
     ],
     "loreFile": "Clueanda.md",
@@ -35620,7 +35590,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "A city-state in the Bygone Hills…",
-    "parentName": "Shiverplains"
+    "parentName": "Innerrim"
   },
   {
     "id": "manual-mpii1dgd-nuzmw",

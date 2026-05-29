@@ -8,7 +8,7 @@ zoomLevel: 4
 tags: ["forest", "geography", "illusion"]
 sources: ["all_sections_formatted/Clueanda.md#L5036"]
 relations:
-  - { rel: spatial, kind: within, target: "1066" }
+  - { rel: spatial, kind: within, target: "2462" }
 ---
 The Guiles is a dense forest wedged between the Hellion Hills to the west and the Twaan Forests to the north, stretching south toward Kobuk. It takes its name from the experience of traveling through it: the forest lies, and those who trust their senses here find themselves hopelessly lost.
 

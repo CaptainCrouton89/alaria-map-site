@@ -13224,23 +13224,6 @@
       "status": "skipped"
     },
     {
-      "id": "893",
-      "name": "Wateytrdark",
-      "headerLevel": 3,
-      "headerText": "### Wateytrdark",
-      "lineNumber": 2894,
-      "sourceFile": "Clueanda.md",
-      "tags": [
-        "fortress",
-        "poi"
-      ],
-      "suggestedType": "fortress",
-      "suggestedZoomLevel": 3,
-      "contentPreview": "A fortress in Adron. TODO",
-      "parentEntryId": "390",
-      "status": "pinned"
-    },
-    {
       "id": "894",
       "name": "Whistle-stone Mountains",
       "headerLevel": 3,

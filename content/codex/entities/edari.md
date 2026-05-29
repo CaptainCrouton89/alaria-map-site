@@ -12,7 +12,6 @@ relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: spatial, kind: borders, target: "322", note: "S" }
   - { rel: spatial, kind: borders, target: "manual-mph53on6-mirms", note: "N" }
-  - { rel: spatial, kind: borders, target: "130", note: "W" }
   - { rel: spatial, kind: borders, target: "131", note: "E" }
   - { rel: spatial, kind: borders, target: "329", note: "S" }
   - { rel: culture, kind: inhabitedBy, target: "race-koren-korel" }
