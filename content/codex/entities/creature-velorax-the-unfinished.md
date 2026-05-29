@@ -15,7 +15,7 @@ A young dragon frozen above the ruins of Elderran, caught in the moment of the A
 ### Nature
 Velorax was barely a century old when she flew into Elderran, drawn by the unprecedented magical energies of the Apparatus's activation. Young for a dragon, curious, and perhaps foolish. She arrived at the exact wrong moment.
 
-The Apparatus was designed to separate magical traditions into their pure forms. Dragons are inherently creatures of multiple magics woven together—elemental fire in their breath, arcane power in their minds, divine resonance in their ancient blood. When the Apparatus tried to unweave Velorax, it partially succeeded.
+The Apparatus was designed to separate magical traditions into their pure forms. Dragons are inherently creatures of many magics woven together, and the Apparatus read that tangle through the mage-kings' own scheme—elemental fire in the breath, the patterned power they named arcane in the mind, the deep resonance they called divine in the ancient blood. When it tried to unweave Velorax along those assumed seams, it partially succeeded.
 
 ### Appearance
 From a distance, Velorax appears frozen in flight above Elderran's central spire—wings spread, jaws open, fire mid-breath. A dramatic statue of a dragon mid-attack.
@@ -41,7 +41,7 @@ The Apparatus has been slowly separating Velorax's component magics for centurie
 
 **Reunification**: Her magics snap back together. She emerges whole, if changed. Possibly grateful. Possibly vengeful. Certainly traumatized by centuries of conscious dissolution.
 
-**Completion**: Without the temporal stasis, the separation completes instantly. Velorax ceases to exist as a coherent being. Her component magics scatter—a mindless elemental, a cloud of arcane energy, a divine echo, and whatever that dark power was.
+**Completion**: Without the temporal stasis, the separation completes instantly. Velorax ceases to exist as a coherent being. Her component magics scatter into the fragments the Apparatus's scheme predicted—a mindless elemental, a churn of the power it labeled arcane, an echo of what it called divine, and whatever that dark power was.
 
 **Transformation**: The partial separation has created something new. Velorax emerges as neither dragon nor elemental nor anything that has existed before. A new category of being, born from magical trauma.
 

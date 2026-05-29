@@ -27,7 +27,7 @@ Dwarves are a short but hearty people, and are generally more pragmatic than the
 - **Yorinthian** (Winter Dwarves) — Frost-touched dwarves serving dragon goddess Nabuhe in frozen Hannoweir; cruel and rigid, they believe strength is only earned through suffering. See [[race-dwarf-yorinthian]].
 - **Strømgodden** (Battle Dwarves) — Battle-devoted dwarves of Trømgar whose spiked armor turns their bodies into weapons; glorious combat is a sacred offering and rite of passage. See [[race-dwarf-stromgodden]].
 - **Nydor** (Dark Dwarves) — Aureum breakaway who embraced darkness; tusked, ash-skinned master slavers of Emblydium who trade war machines for captives under the black sun. See [[race-dwarf-nydor]].
-- **Velwey** (Dream Dwarves) — Dream-harvesting dwarves of Movasi who extract and crystallize dreams via hallucinogens, divine magic, and Deoric ritual; not a playable race. See [[race-dwarf-velwey]].
+- **Velwey** (Dream Dwarves) — Dream-harvesting dwarves of Movasi who extract and crystallize dreams via hallucinogens, Psy dream-walking, and Deoric ritual; not a playable race. See [[race-dwarf-velwey]].
 - **Einwissel** (Celestial Draugr) — Descendants of dwarves who survived the planar journey from Celesté; blue-gray psychic dwarves whose exposed true names make them vulnerable to mystical attack. See [[race-dwarf-einwissel]].
 - **Surry** (White Dwarves) — Translucent-skinned deep-cave dwarves adapted to total darkness; pragmatic cannibals who view all flesh as sustenance in their resource-scarce fungal kingdom. See [[race-dwarf-surry]].
 - **Gruynmar** — Bronze-skinned seafaring dwarves who live on iron clan-ships; sole keepers of gunpowder secrets, feared naval warriors with deep clan loyalty. See [[race-dwarf-gruynmar]].
@@ -67,8 +67,6 @@ As an Aureum, you are privy to the secret methods of extracting liquid sunlight 
 - **Smash:** As an interact action, you may crush or throw your flask to cast Blinding Sun.
 
 Once you have used your flask, you cannot do so again until you spend 10 minutes in private at sunrise or sunset to capture the sun's rays. The sunlight within a flask expires after 12 hours.
-
-Looking at the provided template and the brief descriptions, I'll create dwarven subraces that follow the established format and fit within the Heart Rush mechanical framework. Each will have lore, two aspects, and a racial ability.
 
 ### Glorindian (Gold Eyes) — Auric Sight
 **Passive ability.**

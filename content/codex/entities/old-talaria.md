@@ -17,7 +17,7 @@ review:
 relations:
   - { rel: spatial, kind: within, target: "2857" }
 ---
-Old Tolaria is what remains after the greatest magical catastrophe in recorded history—a land where wizards reached too far and shattered the boundary between the material world and Ezz itself. The empire that once stood here was the magical heart of Alaria, home to the most powerful practitioners of every arcane tradition. Now it's a haunted wilderness where Faesong bleeds into reality unchecked, and nothing is quite what it seems.
+Old Tolaria is what remains after the greatest magical catastrophe in recorded history—a land where wizards reached too far and shattered the boundary between the material world and Ezz itself. The empire that once stood here was the magical heart of Alaria, home to the most powerful practitioners of every magical tradition. Now it's a haunted wilderness where Faesong bleeds into reality unchecked, and nothing is quite what it seems.
 
 The cataclysm happened centuries ago. The details vary by who tells the story, but the outcome is consistent: the wizards attempted something impossible—some say they tried to permanently merge Ezz with the material plane, others claim they sought to free Melera from her prison, still others insist they were trying to become gods themselves. Whatever they intended, they succeeded enough to kill everything that lived here and failed enough that the result was chaos rather than power.
 

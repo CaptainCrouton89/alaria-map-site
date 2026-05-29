@@ -41,7 +41,7 @@ At the center of it all, the Apparatus continues to run. The mage-kings designed
 
 #### Velorax the Unfinished
 
-A young dragon—barely a century old at the time—flew into Elderran at the moment of activation. Velorax was drawn by the magical chaos like a moth to flame. Dragons are inherently tied to multiple magical traditions (elemental, arcane, sometimes divine), and she felt the Apparatus pulling at her very essence.
+A young dragon—barely a century old at the time—flew into Elderran at the moment of activation. Velorax was drawn by the magical chaos like a moth to flame. Dragons are inherently tangled in many magics at once—or so the mage-kings' scheme held, sorting that tangle into elemental, arcane, and sometimes divine—and she felt the Apparatus pulling at her very essence.
 
 She is frozen mid-transformation above the central spire. The Apparatus tried to separate her component magics and partially succeeded—distinct bands of elemental fire, arcane formulae, and raw temporal energy spiral around her body, each trying to fly in different directions. She has been like this for centuries, conscious, experiencing every moment of her own unraveling in slow motion.
 

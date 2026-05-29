@@ -22,7 +22,7 @@ Faesong is subtle. Most creatures cannot hear it at all. Those who can perceive 
 
 **Druids** are mortal beings who have learned to attune to Faesong. Their magic is neither Kethic (which channels psyic energy through emotional intent) nor Deoric (which commands reality through absolute language), but something older and stranger: direct harmony with Melera's song. This makes druids a true mixture of both primordial sources—part of Azus's ordered creation, yet attuned to Melera's imprisoned melody.
 
-**Bards** who perform Gaeic Melodies are reproducing Faesong, though most do not realize it. When a bard's song moves an audience to tears or courage, they are briefly channeling the same harmony that Melera creates. The most skilled bards learn to tap this connection consciously.
+**Bards** who tune to Faesong directly are reproducing fragments of Melera's song, often without knowing it. A room moved to tears or courage may simply be hearing Melera's harmony channeled by another name. This direct-tuning tradition is distinct from Gaeic Melodies, which echo Gaea's ancient Kethic creation-song rather than Faesong; see Gaeic Melodies for that lineage.
 
 ### Faesong and Psywinds
 Faesong and the Psywinds are counterparts—two ambient magical forces that flow through all of Alaria:
