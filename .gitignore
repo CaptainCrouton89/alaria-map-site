@@ -58,3 +58,6 @@ tmp/
 
 # crtr local tooling state
 .crouter/
+
+# Cloudflare Wrangler local state cache
+.wrangler/
