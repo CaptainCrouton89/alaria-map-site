@@ -1,6 +1,6 @@
 # Worldbuilding Guidelines
 
-The operational rules for authoring Alaria — the imperatives, stripped of rationale. For the *why* behind them (the contradiction-control thesis, the pincer, the scholar frame) see `high-level.md`. For CLI mechanics and per-file conventions see `.claude/rules/` (`entity-files.md`, `entity-relations.md`, `lore-authoring.md`, `codex-cli.md`; style detail in `docs/worldbuilding/lore-style-guide.md`).
+The operational rules for authoring Alaria — the imperatives, stripped of rationale. For the *why* behind them (the contradiction-control thesis, the pincer, the scholar frame) see `arc.md`. For CLI mechanics and per-file conventions see `.claude/rules/` (`entity-files.md`, `entity-relations.md`, `lore-authoring.md`, `codex-cli.md`; style detail in `docs/worldbuilding/lore-style-guide.md`).
 
 ## Coherence over output
 

@@ -134,7 +134,7 @@ The lore-voice consequence: scholar attribution becomes load-bearing for dead da
 
 ### Scope and growth
 
-For the Foundations stage as scoped in `plan/current-stage.md`: author 30 daemons in the first pass, biased toward dead and current. The dead are easier to write because their authorship is bounded — they exist as historical entities only, no ongoing dimensional pressure. Authoring dead daemons first stress-tests the `lifecycle: dead-ended` rule against the daemon-economics canon and the scholar-attribution rule against era entities. The current daemons follow once the dead set has shaken out the schema.
+For the Foundations stage as scoped in `scope/archive/phase-foundations.md`: author 30 daemons in the first pass, biased toward dead and current. The dead are easier to write because their authorship is bounded — they exist as historical entities only, no ongoing dimensional pressure. Authoring dead daemons first stress-tests the `lifecycle: dead-ended` rule against the daemon-economics canon and the scholar-attribution rule against era entities. The current daemons follow once the dead set has shaken out the schema.
 
 Rising daemons — Tiira (1800 SD) is the named example — wait until at least one era entity for the modern Seventh Dawn exists. Rising is the hardest lifecycle state to author because it requires forward-pointing causal commitments that the rest of the corpus has to support; doing it in the second pass is correct.
 

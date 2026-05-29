@@ -1,6 +1,6 @@
 # Research synthesis — Foundations & Tooling action items
 
-This document converts the six per-topic research deliverables — `topic-A-pantheon.md` (pantheon-over-time), `topic-C-pincer.md` (retrodiction and the two-ended pincer), `topic-E-eras.md` (era-as-entity timeline), `topic-F-graph.md` (graph-as-canon at scale), `topic-G-coupled-planes.md` (coupled-plane worldbuilding), and `topic-H-shallowness.md` (referential depth) — into action items bound to a Foundations stage item (#1 pantheon roster, #4 era entities, #5 canon-lint, #6 pincer prototype) or to a thesis in `plan/high-level.md`. Three load-bearing contradictions were resolved by the user before drafting and are treated as settled here: the graph-as-canon claim at `high-level.md:9` stays unqualified, with Topic F's Wikidata precedent recast as motivation for a write-time blocking linter rather than as a reason to revise the thesis; the flip-side originality claim at `high-level.md:46` has already been narrowed by the orchestrator to the forgetting-terminated identity-stream and the single-plane Celestia configuration, with Glorantha, Sandman, and the Egyptian *ren* named as precedent; and Foundation #6 keeps its `current-stage.md` framing as a prototype rather than being reframed as a method-test, with Topic C's lack-of-precedent flag recorded under Risks. Findings that yield no action item are omitted. Where several topics land on the same action, it is named once and all sources cited.
+This document converts the six per-topic research deliverables — `topic-A-pantheon.md` (pantheon-over-time), `topic-C-pincer.md` (retrodiction and the two-ended pincer), `topic-E-eras.md` (era-as-entity timeline), `topic-F-graph.md` (graph-as-canon at scale), `topic-G-coupled-planes.md` (coupled-plane worldbuilding), and `topic-H-shallowness.md` (referential depth) — into action items bound to a Foundations stage item (#1 pantheon roster, #4 era entities, #5 canon-lint, #6 pincer prototype) or to a thesis in `scope/arc.md`. Three load-bearing contradictions were resolved by the user before drafting and are treated as settled here: the graph-as-canon claim at `arc.md:9` stays unqualified, with Topic F's Wikidata precedent recast as motivation for a write-time blocking linter rather than as a reason to revise the thesis; the flip-side originality claim at `arc.md:46` has already been narrowed by the orchestrator to the forgetting-terminated identity-stream and the single-plane Celestia configuration, with Glorantha, Sandman, and the Egyptian *ren* named as precedent; and Foundation #6 keeps its `archive/phase-foundations.md` framing as a prototype rather than being reframed as a method-test, with Topic C's lack-of-precedent flag recorded under Risks. Findings that yield no action item are omitted. Where several topics land on the same action, it is named once and all sources cited.
 
 ---
 
@@ -102,7 +102,7 @@ Topic G's lockstep requirement: author the chosen region's flip-side counterpart
 
 Immediately actionable:
 
-1. Select Dalizi as the prototype region (resolves the deferred open question in `current-stage.md` and `progress.md`).
+1. Select Dalizi as the prototype region (resolves the deferred open question in `archive/phase-foundations.md` and `progress.md`).
 2. Build the five present-fact → event → era chains under the three-layer cap.
 3. Author the Dalizi flip-side consequences in the same loop; place `sentAcross` edges on its `major` events.
 4. Gate progression to a second region on the five chains passing lint and a second-author read.
@@ -112,17 +112,17 @@ Approval-gated (see catalogue): the cap-at-two-scholars and retcon-must-anchor-t
 
 ---
 
-## Thesis — Graph-as-canon (`high-level.md:9`)
+## Thesis — Graph-as-canon (`arc.md:9`)
 
-The thesis stays unqualified per the user's verdict. Topic F's finding that the unqualified claim does not survive Wikidata's 122M-entity precedent is cautionary, not refuting: Alaria's 10k scale, narrow vocabulary, and the write-time blocking linter make the Wikidata failure mode avoidable. The non-graph-policed slice (prose voice, character interiority, the contents of `note` fields) stays implicit, not architecturally separated out into a new `high-level.md` section.
+The thesis stays unqualified per the user's verdict. Topic F's finding that the unqualified claim does not survive Wikidata's 122M-entity precedent is cautionary, not refuting: Alaria's 10k scale, narrow vocabulary, and the write-time blocking linter make the Wikidata failure mode avoidable. The non-graph-policed slice (prose voice, character interiority, the contents of `note` fields) stays implicit, not architecturally separated out into a new `arc.md` section.
 
-The action the thesis generates is the write-time blocking linter under Foundation #5, plus the prose-vs-graph audit harness that measures whether the claim is holding empirically. Topic F's vocabulary discipline — the role-qualifier anti-proliferation pattern, statement rank for contested claims, structured references — is the operational content; each appears as a catalogued rule change. The single thesis-level instruction: do not add a qualifying section to `high-level.md`; cite Wikidata as the reason the lint blocks at write time.
+The action the thesis generates is the write-time blocking linter under Foundation #5, plus the prose-vs-graph audit harness that measures whether the claim is holding empirically. Topic F's vocabulary discipline — the role-qualifier anti-proliferation pattern, statement rank for contested claims, structured references — is the operational content; each appears as a catalogued rule change. The single thesis-level instruction: do not add a qualifying section to `arc.md`; cite Wikidata as the reason the lint blocks at write time.
 
-Action item: ship the blocking linter (Foundation #5, checks 1–6) and the audit harness; do not revise `high-level.md:9`.
+Action item: ship the blocking linter (Foundation #5, checks 1–6) and the audit harness; do not revise `arc.md:9`.
 
 ---
 
-## Thesis — Depth is referential (`high-level.md:29`)
+## Thesis — Depth is referential (`arc.md:29`)
 
 Topic H confirms the thesis against six precedents — Tolkien's "impression of depth," Glorantha's Pamaltela, Barker's one-clause rival empires, Greenwood's design-outward method, Wolfe's translator frame, Borges's found-encyclopedia — and names the dominant failure mode, Harrison's "great clomping foot of nerdism," the urge to survey exhaustively.
 
@@ -139,7 +139,7 @@ Approval-gated (see catalogue): the gesture-rule paragraph and the three named f
 
 ---
 
-## Thesis — Scholar frame (`high-level.md:32`)
+## Thesis — Scholar frame (`arc.md:32`)
 
 The scholar frame is the project's contradiction-absorber, and three topics converge on making it machine-readable and bounded rather than letting it become the Glorantha *King of Sartar* use-failure (six document strata that Jeff Richard retrospectively judged "a failure and an obstacle for gamesters").
 
@@ -157,11 +157,11 @@ Action items are all approval-gated and catalogued below: the cap-at-two clause;
 
 ---
 
-## Thesis — Flip-side coupling (`high-level.md:46`)
+## Thesis — Flip-side coupling (`arc.md:46`)
 
 The originality claim has already been narrowed by the orchestrator to two elements: the forgetting-terminated identity-stream (the Egyptian *ren* is the forgetting-termination precedent, but the *ren* is not the personality-bearer — Alaria's inversion puts the *you* in the fragile stream) and the Celestia configuration where worship, death, and identity economies all route through one plane. Glorantha's God Time / Time coupling and Sandman's Dreaming are named as the mass-exchange precedent. The revised line 46 is canon; action items are written around the narrowed claim, not the original "genuinely original" framing.
 
-The highest-leverage action, independent of the originality verdict: author `plane-labyrinth.md`. The corpus carries two Labyrinths whose relationship is unstated — `artifact-the-labyrinth.md` (the Izzus-leyline structure under Evertorch cathedral) and the flip-side region named in `high-level.md` and `progress.md` with no entity file. Couple them: a single `plane-labyrinth.md` establishing the Labyrinth as the unmapped, unsovereigned part of the flip side, tied to `artifact-the-labyrinth` by `cosmology/flipSideOf`, with a body that refuses to name inhabitants or fix geometry. This is the residue principle in action — a structure accumulating time-distortion on both sides of the boundary, the cathedral basement one of its material apertures — and it gives the flip-side region a concrete material handle that prevents drift into pure abstraction (Topic G's Failure Mode 2).
+The highest-leverage action, independent of the originality verdict: author `plane-labyrinth.md`. The corpus carries two Labyrinths whose relationship is unstated — `artifact-the-labyrinth.md` (the Izzus-leyline structure under Evertorch cathedral) and the flip-side region named in `arc.md` and `progress.md` with no entity file. Couple them: a single `plane-labyrinth.md` establishing the Labyrinth as the unmapped, unsovereigned part of the flip side, tied to `artifact-the-labyrinth` by `cosmology/flipSideOf`, with a body that refuses to name inhabitants or fix geometry. This is the residue principle in action — a structure accumulating time-distortion on both sides of the boundary, the cathedral basement one of its material apertures — and it gives the flip-side region a concrete material handle that prevents drift into pure abstraction (Topic G's Failure Mode 2).
 
 Topic G's structural cautions, for the canon-lint and authoring discipline: hold the ontological asymmetry — Celestia cannot acquire a self-sustaining native inhabitant, or the coupling slackens. Daemon Deoric agency in the material plane is the boundary-collapse risk; the rule that it is costly and bounded must stay load-bearing as the roster grows. The failure mode Alaria is most exposed to is Failure Mode 1, the flip side getting all the interesting inhabitants — do not let Celestia accumulate named, biased daemons faster than the material plane accumulates named, biased mortals. The 60–150 daemon target is the danger zone; lock the seven-major roster and the daemon-mortal authoring ratio before adding daemons.
 
@@ -220,7 +220,7 @@ The planned-method-precedent risk (Topic C). No surveyed setting was built as a 
 
 The Wikidata cautionary precedent (Topic F). When a 122M-entity structured database that aimed to be canonical truth asked the largest prose wiki to treat it as authoritative, the community refused and local prose won (the 2018 Infobox RfC). This now frames the write-time block requirement rather than refuting the graph-as-canon thesis: the failure was advisory enforcement at a scale and vocabulary far beyond Alaria's, and the write-time block is the documented avoidance. The audit harness (run at 5k/7.5k/10k) is the early-warning instrument — above a 15% prose-vs-graph contradiction rate, the project has hit the failure mode regardless of the thesis.
 
-The narrowed originality (Topic G). The coupling-itself and the three-soul split both have substantial precedent (Glorantha and Sandman for mass-exchange; Egyptian and Pullman for the multi-part soul). Only the combination plus the inversion — identity in the shortest-lived, forgetting-terminated stream, with worship, death, and identity all routing through Celestia — is unattested. The orchestrator has already edited `high-level.md:46` to this narrower claim; it is noted here for completeness, not as an open action.
+The narrowed originality (Topic G). The coupling-itself and the three-soul split both have substantial precedent (Glorantha and Sandman for mass-exchange; Egyptian and Pullman for the multi-part soul). Only the combination plus the inversion — identity in the shortest-lived, forgetting-terminated stream, with worship, death, and identity all routing through Celestia — is unattested. The orchestrator has already edited `arc.md:46` to this narrower claim; it is noted here for completeness, not as an open action.
 
 The missing-event-entity sequencing constraint (Topic E). The era carve and its boundary linter cannot activate until the boundary `event` entities exist — the corpus holds five events and none is the God War. Activating `era-boundary-event-required` before authoring `event-god-war`, `event-hykravones`, `event-ezz-rift`, `event-walk-of-elves`, `event-eyachria-gaea`, and `event-world-fire` would error on the entities the carve is meant to fix. This is a hard prerequisite, not a preference.
 

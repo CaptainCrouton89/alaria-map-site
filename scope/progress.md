@@ -1,0 +1,66 @@
+# Progress Ledger
+
+Cross-phase memory so future sessions don't re-derive locked decisions. The durable arc lives in `arc.md`; the active super-phase lives in `phase-history.md`; retired phases live in `archive/`. This file records **what's done** and **what's been decided**, super-phase by super-phase.
+
+When a super-phase's "Done when" criteria are met: mark it COMPLETE below, move its `phase-*.md` to `archive/`, and add the next super-phase as a new `phase-*.md`.
+
+---
+
+## Super-phase: Foundations & Tooling — COMPLETE (2026-05-26 → 2026-05-28)
+
+The bounded reference frames + contradiction-control tooling, before any mass history generation.
+Full stage spec retired to `archive/phase-foundations.md`. Shipped as commits `a422c42`
+(items 1–7) and `383cf79` (pantheon expansion 35→140).
+
+### Delivered
+- **Pantheon (item 1):** 140 daemons across dead / current / rising cohorts, each dimensioned
+  (domain, era of ascension + death, worshipping culture). First pass was 35; expanded to 140 after
+  the user judged 35 too thin against 106 polities / ~50 culture families. GATE-A naming = MIX.
+- **Scholars (item 2):** 7 majors + 14 niche, `person` entities with bias/era/patron; attribution
+  convention in `.claude/rules/scholar-attribution.md` (coherence-first, approval-gated) +
+  `docs/worldbuilding/scholar-voices.md` reference.
+- **Onomastics (item 3):** ~21 sheets in `docs/worldbuilding/onomastics/`, extracted from frozen map
+  names, not invented.
+- **Eras (item 4):** 13 `era` entities, two-tier hierarchy (`within` + same-tier `precededBy`);
+  events point at them via `occurredDuring`.
+- **Canon-linter (item 5):** `alaria-codex report lint` — dangling targets, capitalOf-non-polity,
+  both-ends-directed, orphan sweep, `worshipsTargetType` (worships→daemon OR titan-creature).
+  Baseline `errors:0`. Date-sanity dropped (no structured dates) — user-ratified, catalogued.
+  Rule auto-attaches via `.claude/rules/codex-cli.md`; documented to expand over time.
+- **Pincer prototype (item 6):** Tarkhon Empire taken through the full loop end-to-end (present →
+  ~100yr retrodiction → cosmogony pull-down; events, edges, scholar attribution, names, linter clean).
+  GATE-C signed off. The repeatable template for the History super-phase.
+- **Authoring guides (item 7, user-added):** thematic register + no-lazy-mysteries in
+  `docs/worldbuilding/lore-style-guide.md`; consolidated scholar reference.
+
+### Locked decisions (carry forward)
+- **Flip-side is extraction, not invention.** Malstaris / Celestia / Astral / Eindumor / three-soul
+  death are already written and coherent (`plane-*.md`). Parallel-timeline work = organize + deepen.
+  **Exception: the Labyrinth needs invention.**
+- **Edge graph is canon** for spatial / polity / economy / origin / history / possession families;
+  prose is canon for motivation / voice / theme. (See `arc.md`; topic-F research.)
+- **GATE-A naming = MIX**; onomastic sheets are authoritative.
+- **Daemon shape:** `id daemon-<slug>`, prose-only temporal placement (no `occurredDuring` on daemons).
+- **Worships discipline:** edge only when worshipper is a concrete entity, never a generic prose class.
+- **Coherence-first attribution:** scholarly disagreement is approval-gated, not the default voice.
+- **Linter gate:** build clean + `report lint` at `errors:0`.
+
+---
+
+## Super-phase: History Generation (the pincer, scaled) — IN PROGRESS (started 2026-05-28)
+
+Turn the crank. With the reference frames locked and the pincer proven on Tarkhon, build the
+missing middle — the events and people connecting cosmogony to the present map — by running the
+pincer loop across regions. Active spec + sequence in `phase-history.md`.
+
+### Starting state (snapshot 2026-05-28)
+- Corpus past 3,700 entities; 140 daemons, 13 eras, 20 scholars, ~21 onomastic sheets, linter live.
+- The "missing middle" is still mostly empty: only a handful of `event` entities exist beyond the
+  Tarkhon set and the World-Timeline decomposition. This is the work.
+- One region (Tarkhon) is through the full pincer loop as the template; all others are not.
+
+### Open (resolve in discovery)
+- **Bounding** of this super-phase ("all history" is unbounded — needs a region set / honest output
+  signal, gated with the user).
+- **Region sequencing / parallelism** without contradiction-control breaking down.
+- **Contradiction-control cadence at scale** (linter + coherence sweep across concurrent regions).

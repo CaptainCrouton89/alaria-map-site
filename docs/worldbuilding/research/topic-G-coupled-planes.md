@@ -1,6 +1,6 @@
 # Topic G — Coupled-plane / two-timeline worldbuilding
 
-The Alaria plan claims that material history and shadow/Celestia history are causally coupled — the three-soul death continuously feeds three flip-side planes with three different durabilities, and `high-level.md` asserts the architecture is "genuinely original." This document tests that claim against published precedent and extracts the operational discipline the coupling needs to survive 10,000 entities.
+The Alaria plan claims that material history and shadow/Celestia history are causally coupled — the three-soul death continuously feeds three flip-side planes with three different durabilities, and `arc.md` asserts the architecture is "genuinely original." This document tests that claim against published precedent and extracts the operational discipline the coupling needs to survive 10,000 entities.
 
 Verdict, surfaced up front: the full Alaria synthesis is not attested. Components are. The single closest partial precedent is the Egyptian *ren* — the soul-name that ends when the name is forgotten. The closest mechanical precedent for material acts producing durable flip-side state is Glorantha's God Time / Mundane Time coupling.
 
@@ -124,7 +124,7 @@ The full Alaria synthesis is not attested in any surveyed work. Three claims hav
 
 The orchestrator should note: the originality claim survives, but the specific original element is narrower than the high-level plan implies. The *coupling itself* (material acts feed flip-side state) has Glorantha and Sandman as substantial precedent. The *three-soul split* has Egyptian and Pullman as substantial precedent. What is not precedented is the combination plus the inversion of putting identity in the shortest-lived stream.
 
-`high-level.md` says: "This coupling is genuinely original — lean on it." The accurate version is: lean on the Celestia configuration (worship + death + remembrance on one plane) and on the spirit-fades-when-forgotten move. The mass-exchange framing has direct precedent in Glorantha and Sandman, and should not be the marketed-original element.
+`arc.md` says: "This coupling is genuinely original — lean on it." The accurate version is: lean on the Celestia configuration (worship + death + remembrance on one plane) and on the spirit-fades-when-forgotten move. The mass-exchange framing has direct precedent in Glorantha and Sandman, and should not be the marketed-original element.
 
 ### The coupling needs an edge kind, not just authorial discipline
 
@@ -136,7 +136,7 @@ Open issue to settle before adoption: the entity-relations rule "author from the
 
 ### The Labyrinth — resolve the name collision, then author the empty room
 
-The corpus carries two Labyrinths whose relationship is not stated. `artifact-the-labyrinth.md` is the Izzus-leyline structure beneath Evertorch cathedral — a folded-time corridor under a Tarkhon city. The flip-side Labyrinth in `high-level.md` and `progress.md` is a parallel region alongside Malstaris and Celestia, with no entity file. The author-notes on the Evertorch artifact explicitly defer the question of who made the structure and whether further Izzus fissures (Tornia merchants, the Kerwin king's longevity) are the same thread.
+The corpus carries two Labyrinths whose relationship is not stated. `artifact-the-labyrinth.md` is the Izzus-leyline structure beneath Evertorch cathedral — a folded-time corridor under a Tarkhon city. The flip-side Labyrinth in `arc.md` and `progress.md` is a parallel region alongside Malstaris and Celestia, with no entity file. The author-notes on the Evertorch artifact explicitly defer the question of who made the structure and whether further Izzus fissures (Tornia merchants, the Kerwin king's longevity) are the same thread.
 
 The first move is to decide whether these are the same Labyrinth or two unrelated entities sharing a name. The precedents favor coupling them: an Izzus-leyline structure that surfaces at Evertorch and also exists as a cosmic region on the flip side is exactly the residue principle in action — a Labyrinth that accumulates time-distortion on both sides of the boundary, with the cathedral basement being one of its material apertures. This reading also gives the flip-side region a concrete material handle, which prevents it from drifting into pure abstraction (Failure Mode 2).
 
@@ -146,9 +146,9 @@ Practical authoring: a single `plane-labyrinth.md` entity that establishes the L
 
 ### The failure mode Alaria is most exposed to
 
-Failure Mode 1 — the flip side getting all the cool stuff. The cosmology is "strong" per `high-level.md`; the floor is 3,500 places, half of which are ≤15-word stubs. The same imbalance that makes Planescape's Prime Material feel like a setup is present in the starting state: a richly-authored flip side (Malstaris, Celestia, Astral, Eindumor; three-soul death; daemon economics with set numbers; Lyzaria as architect of mortality) sitting above a thin material gazetteer. The pincer method is meant to fix this from the floor up, but the cosmology will continue to be the cooler-feeling layer until the middle is built out.
+Failure Mode 1 — the flip side getting all the cool stuff. The cosmology is "strong" per `arc.md`; the floor is 3,500 places, half of which are ≤15-word stubs. The same imbalance that makes Planescape's Prime Material feel like a setup is present in the starting state: a richly-authored flip side (Malstaris, Celestia, Astral, Eindumor; three-soul death; daemon economics with set numbers; Lyzaria as architect of mortality) sitting above a thin material gazetteer. The pincer method is meant to fix this from the floor up, but the cosmology will continue to be the cooler-feeling layer until the middle is built out.
 
-The specific defensive move from the precedents: do not let the flip-side planes accumulate named, ideologically complex daemons faster than the material plane accumulates named, ideologically complex mortals. The 60–150 daemon target in `high-level.md` is the danger zone — if daemons get faces and biases before mortals do, the corpus will read as Sigil-with-an-attached-Prime. Lock the seven-major scholar roster (item 2) and the daemon-mortal authoring ratio before adding more daemons.
+The specific defensive move from the precedents: do not let the flip-side planes accumulate named, ideologically complex daemons faster than the material plane accumulates named, ideologically complex mortals. The 60–150 daemon target in `arc.md` is the danger zone — if daemons get faces and biases before mortals do, the corpus will read as Sigil-with-an-attached-Prime. Lock the seven-major scholar roster (item 2) and the daemon-mortal authoring ratio before adding more daemons.
 
 ### Scholar attribution — Velorin owns the cosmology, with two proposals for approval
 

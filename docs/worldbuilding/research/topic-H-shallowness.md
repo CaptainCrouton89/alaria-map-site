@@ -1,6 +1,6 @@
 # Topic H — Strategic shallowness, referential depth
 
-The depth-is-referential thesis in `plan/high-level.md` claims a one-sentence gesture outperforms a paragraph of description. This doc surveys the named precedents for that claim, the documented failure modes when it gets ignored, and the specific Foundations-stage moves that operationalize it for Alaria's 3,541-to-10,000 corpus growth.
+The depth-is-referential thesis in `scope/arc.md` claims a one-sentence gesture outperforms a paragraph of description. This doc surveys the named precedents for that claim, the documented failure modes when it gets ignored, and the specific Foundations-stage moves that operationalize it for Alaria's 3,541-to-10,000 corpus growth.
 
 ## Precedents
 
@@ -117,13 +117,13 @@ The style guide's "Length by importance" section currently leans on `zoomLevel` 
 
 > A short entry must still gesture. One concrete clause that names an actor, an event, or a cause — a war this town survived, a daemon whose name it keeps, a migration that emptied it — does the work of a paragraph. Tolkien's "out of Far Harad black men like half-trolls with white eyes and red tongues" (*Return of the King*, Book V Ch. VI) is the model: one clause, one named place, one image, no decoration. Vague atmospherics ("ancient secrets," "mysterious past," "long history") do not gesture; they decorate. Test the entry by asking whether a reader who saw only it would know one specific thing about the world beyond this entity. If not, the entry is filler, not a stub.
 
-The depth-is-referential thesis in `plan/high-level.md` requires this discipline at the prose layer. The linter check in Recommendation #2 enforces it at the graph layer.
+The depth-is-referential thesis in `scope/arc.md` requires this discipline at the prose layer. The linter check in Recommendation #2 enforces it at the graph layer.
 
 ### 5. Set explicit ratio targets as the corpus scales 3,541 → 10,000
 
 Pamaltela's ratio is the precedent, with caveat. *The Guide to Glorantha*'s ~300 of ~800 pages cover Genertela in depth; the remainder spreads across Pamaltela, mythic history, and reference. By page-density-per-region, Genertela runs roughly 5× Pamaltela. The page ratio does not translate cleanly to entity counts — a Glorantha region chapter may correspond to dozens of Alaria entities — so the page split is an upper-layer signal, not a per-entity quota. Forgotten Realms 3E sprawl is the explicit failure case at the entity layer (every village statted, per Giant in the Playground fan critique).
 
-Recommended target shape for Alaria's gazetteer at 10,000 entities, derived from the Glorantha/Tolkien precedent, the depth-is-referential thesis in `plan/high-level.md`, and the existing observation that "half are ≤15-word stubs":
+Recommended target shape for Alaria's gazetteer at 10,000 entities, derived from the Glorantha/Tolkien precedent, the depth-is-referential thesis in `scope/arc.md`, and the existing observation that "half are ≤15-word stubs":
 
 - Roughly 5–10% of place entities (500–1,000) carry multi-section authoring: nations, capitals, the Pincer Region's full corpus, regions of demonstrable historical weight.
 - Roughly 15–25% (1,500–2,500) carry one-paragraph authoring with two or more live edges to history, cosmology, or origin — the towns and ruins that history actually touches.
@@ -133,7 +133,7 @@ The Pincer Region prototype (Foundation #6) should measure its own actual distri
 
 ### 6. Warn the authoring pipeline against three named failure modes
 
-The current `plan/guidelines.md` and `lore-style-guide.md` do not name these. The recommended addition to `lore-style-guide.md` (in "Things to avoid"):
+The current `scope/guidelines.md` and `lore-style-guide.md` do not name these. The recommended addition to `lore-style-guide.md` (in "Things to avoid"):
 
 - The clomping foot. Authoring everything is the dominant failure mode in mature settings (Harrison, "the great clomping foot of nerdism," 2007; Forgotten Realms 3E sprawl per Greenwood). Each entity earns its length; default to fewer words.
 - The notes-to-self trap. Tolkien's *The Nature of Middle-earth* (2021) shows what happens when an author publishes the working calculations rather than the finished gesture: elf-population spreadsheets read as machinery, not myth. The `<!-- author-notes -->` block exists precisely to keep this material out of public output. Use it.

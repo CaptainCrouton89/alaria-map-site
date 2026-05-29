@@ -1,6 +1,6 @@
 # Alaria — High-Level Plan
 
-The 20-year architecture. *What* the world needs and *how* it gets built without collapsing under its own weight. Stage-specific work lives in `current-stage.md`; working rules live in `guidelines.md`.
+The 20-year architecture. *What* the world needs and *how* it gets built without collapsing under its own weight. The active super-phase lives in `phase-history.md` (retired phases in `archive/`); the cross-phase ledger is `progress.md`; working rules are in `guidelines.md`.
 
 ## The constraint that shapes everything
 
@@ -8,11 +8,12 @@ AI makes *generation* free. It makes *coherence* expensive. The bottleneck was n
 
 This is a data problem before it's a writing problem. The repo, the build pipeline, and the **edge graph are the unfair advantage** — prose can't be checked, edges can. The graph is the canon database; tooling that polices it is load-bearing infrastructure, not a nicety.
 
-## Where the world stands
+## Where the world stands (updated 2026-05-28)
 
 - **Ceiling (cosmogony):** strong. The World Timeline, the Azus/Melera duality, Ezz, the titan-gods, the three-soul death (soul→Astral, shadow→Malstaris), the daemon/Celestia faith-economy, the magic systems (Deoric / Kethic / Faesong). Real metaphysics with causal teeth.
-- **Floor (gazetteer):** ~3,500 places from the frozen map. Half are ≤15-word stubs.
-- **The missing middle:** ~37 persons, 5 events, 4 artifacts, 13 factions. The legendarium — the deeds and people connecting gods to dirt — barely exists. This is the work.
+- **Reference frames (Foundations, DONE):** the small finite frames are locked — 140 daemons over time, 13 era entities, 20 scholars with biases, ~21 onomastic sheets, a canon-linter holding `errors:0`. The Tarkhon pincer prototype proved the loop end-to-end. See `progress.md`.
+- **Floor (gazetteer):** ~3,700 places from the frozen map. Half are ≤15-word stubs.
+- **The missing middle (ACTIVE work):** the legendarium — the events and people connecting gods to dirt — barely exists beyond the Tarkhon set. Scaling the pincer to build it is the current super-phase (`phase-history.md`).
 
 ## The generative method: the pincer
 
