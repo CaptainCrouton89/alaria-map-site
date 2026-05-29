@@ -59,8 +59,16 @@ pincer loop across regions. Active spec + sequence in `phase-history.md`.
   Tarkhon set and the World-Timeline decomposition. This is the work.
 - One region (Tarkhon) is through the full pincer loop as the template; all others are not.
 
-### Open (resolve in discovery)
-- **Bounding** of this super-phase ("all history" is unbounded — needs a region set / honest output
-  signal, gated with the user).
-- **Region sequencing / parallelism** without contradiction-control breaking down.
-- **Contradiction-control cadence at scale** (linter + coherence sweep across concurrent regions).
+### Bounding — RATIFIED (user gate 2026-05-29: Option B)
+Discovery explores (agent-046 inventory + agent-047 region-candidates) found 100 polities, ~95%
+cold-start, pressure concentrated in two clusters. User ratified authoring **the two high-pressure
+anchor clusters** — Kharvorn/Middle Sea (~14) + Tarkhon inner provinces (~7), ~21 regions — and
+declined the smaller prove-the-batch wave (pincer already proven on Tarkhon; the open risk is
+cluster-level coherence where regions share events, which these two clusters stress). Periphery stays
+cold-start by design. Enumerated set + shared spines in `phase-history.md`.
+
+### Open (orchestrator-resolvable in planning)
+- **Region sequencing / parallelism** — plan batches by causal spine, file-disjoint per wave;
+  `sisyphus:review-plan` gates the wave DAG before authoring.
+- **Contradiction-control cadence at scale** — `report lint` + build after every batch; cross-region
+  coherence sweep between waves, focused on the three shared spines.

@@ -34,23 +34,54 @@ Seventh Dawn. This is the stage the Foundations gate deliberately held back.
 6. **Stay consistent + clean.** Names from the onomastic sheets; build clean; `report lint` at
    `errors:0` after every batch.
 
-## Open questions (resolve in discovery — some need a user gate)
+## Bounded set — RATIFIED (user gate 2026-05-29: Option B)
 
-- **Bounding.** "All history" is unbounded and quota-resistant. What bounds THIS super-phase — a
-  ranked region set (top polities by weight/zoom)? A region *sequence*? An honest output signal
-  (events/people authored as a *symptom* of causes traced, never a target)? → discovery + user gate.
-- **Region sequencing / batching.** Which regions next, grouped how, and how many run in parallel
-  before contradiction-control breaks down. (Tarkhon is the only one done.)
-- **Contradiction-control cadence at scale.** How often to run the linter + a cross-region coherence
-  sweep; how to prevent contradictions where regions *share* events, scholars, daemons, or borders.
-- **Flip-side coupling.** How much Malstaris / Celestia / Astral exchange to author alongside material
-  events (extraction of existing `plane-*.md`, per the locked decision; Labyrinth the lone invention).
+Discovery's two explores (`context/agent-046/missing-middle-inventory.md`,
+`context/region-candidates.md`) found 100 major polities, ~95% cold-start, with retrodiction pressure
+and cross-polity shared structures concentrated in **two clusters**. The user ratified authoring those
+two clusters now (declined the smaller "prove-the-batch" wave — the Tarkhon prototype already proved
+the loop; the open risk is *cluster-level coherence where regions share events*, which is exactly what
+these two clusters stress). The geographic periphery (Dalizi, Innerrim, Seacleft, Shacklands, Ve, …)
+stays cold-start stubs by design — out of scope for this super-phase.
 
-## Done when (provisional — discovery tightens this, user ratifies)
+**Cluster A — Kharvorn / Middle Sea (~14 polities).** Erasnus(529), Anarak(426), Argysis(918),
+Hephake(952), Myorna(710), Camaran(477), Ubrik(864), Bestacia(457), Watar(884), Kazül(652),
+Adron(411), Ta Minn(801), Stipen(768), Eloesi(514). Shared causal spines that force co-authoring:
+- **Argysis dragon-feud** — Rothogomos/Tepheranos betrayal → Argysis fall → dwarven exile to Hephake
+  (binds Argysis + Anarak + Hephake; 3 Argysis ruins, Pact of Barrik).
+- **Aldriktch Trade Alliance** (`faction-aldriktch-trade-alliance`) — founding history binds Erasnus,
+  Camaran, Ubrik, Myorna, Bestacia, Watar.
+- **Adron** — Naga dragon-rider kingdom + Waterdark "order that severed the dragon-bonds 400yr ago"
+  (high-density standalone spine; couples thematically to the dragon-feud but not by shared event).
+- 🚨 **Reconcile-first:** Erasnus(529) has `within: Anarak(426)` but sits NE of and borders Anarak —
+  move to `within: Middle Sea Lands(9000)` before authoring Cluster A. (Watch coord collisions noted
+  in `region-candidates.md` §4 are in *other* clusters; not blocking here.)
 
-- The pincer loop has been run across a **bounded, user-agreed** set of regions beyond Tarkhon.
+**Cluster B — Tarkhon inner provinces (~7 polities + KoF faction).** Kingdoms of Fire
+(`nation-kingdoms-of-fire`, rivalOf Tarkhon), Gissemari(2509), Kabir(2519), Wadiyah(2593), Yaif(2611),
+Enymu(2484), Kerwin(2530, tributary), Vogenfeld(2582, tributary). **Builds on the 3 existing Tarkhon
+events** (neferati-founding ~2776, the-severance ~3076, klors-genocide ~3176) as scaffold — must not
+contradict them. Shared spine: the Severance *caused* the KoF rivalry, so the 4 KoF kingdoms +
+Kerwin's Severance-sequence knowledge co-author.
+
+## Open questions (orchestrator-resolvable — planning sets defaults)
+
+- **Region sequencing / batching.** Plan groups by causal spine (dragon-feud trio, Aldriktch six,
+  Adron, KoF set, Tarkhon tributaries), file-disjoint per wave. `sisyphus:plan` lead proposes the
+  wave DAG; `sisyphus:review-plan` gates it before authoring.
+- **Contradiction-control cadence at scale.** Default: `report lint` (`errors:0`) + build after every
+  batch; a cross-region coherence sweep between waves, focused on the shared spines above.
+- **Flip-side coupling.** Extraction of existing `plane-*.md` per the locked decision (Labyrinth the
+  lone invention) — depth is referential; author only what these clusters' events actually send across.
+
+## Done when (ratified)
+
+- The pincer loop has run across **Cluster A (Kharvorn/Middle Sea ~14) + Cluster B (Tarkhon inner
+  provinces ~7)** beyond Tarkhon.
 - Events + people for those regions are authored, edge-wired, scholar-attributed where open, and
   name-consistent with the onomastic sheets.
+- The three shared spines (dragon-feud, Aldriktch Alliance, KoF rivalry) are authored once and
+  consistently across every region they touch.
 - The corpus stays linter-clean (`errors:0`) through the expansion; **no cross-region contradictions**.
 - Every authored present-day fact in those regions traces to a cause — no free-floating history.
 
