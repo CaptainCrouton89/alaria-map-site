@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Codex Redesign — Design Review</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+/* ════════════════════════════════════════════════════════════════
+   THEME TOKENS
+   - Document chrome = light/neutral (this is the review doc).
+   - Mock frames (.app)  = the REAL dark-parchment codex theme,
+     lifted verbatim from src/app/globals.css + src/lib/atmosphere.ts
+   ════════════════════════════════════════════════════════════════ */
+:root {
+  /* doc chrome */
+  --page: #f4f3ef;
+  --card: #ffffff;
+  --card-alt: #faf9f6;
+  --muted: #6b6660;
+  --muted-fg: #8a847c;
+  --line: #e4e1da;
+  --fg: #26221d;
+  --tag-rec: #0f766e;   /* teal — recommended */
+  --tag-trade: #b45309; /* amber — trade-off */
+  --tag-prob: #b91c1c;  /* red — problem */
+  --tag-note: #1d4ed8;  /* blue — note */
+
+  /* === real codex palette === */
+  --parchment: #1a1612;
+  --parchment-dark: #0f0d0a;
+  --parchment-light: #2c2416;
+  --ink: #e8e0d0;
+  --ink-muted: #a69a86;
+  --gold: #c9a227;
+  --gold-muted: #a68a4b;
+  --border: #4d4436;
+  --display: 'Cinzel', Georgia, serif;
+  --sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --serif: Georgia, 'Times New Roman', serif;
+
+  /* === atmosphere accents (rgb triplets from atmosphere.ts) === */
+  --at-civilization: 216,178,74;
+  --at-sacred: 169,136,214;
+  --at-cursed: 140,107,176;
+  --at-ancient: 179,169,143;
+  --at-dangerous: 208,106,90;
+  --at-trade: 210,168,120;
+  --at-nature: 111,174,126;
+  --at-water: 95,180,198;
+  --at-default: 182,155,84;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 4.5rem; }
+body {
+  margin: 0;
+  font-family: var(--sans);
+  background: var(--page);
+  color: var(--fg);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+::-webkit-scrollbar { width: 0.5rem; height: 0.5rem; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--line); border-radius: 1rem; }
+
+/* ─── sticky nav ─── */
+.nav {
+  position: sticky; top: 0; z-index: 50;
+  background: #14110d; color: #d9d2c4;
+  border-bottom: 1px solid #2c2416;
+  display: flex; align-items: center; gap: 0.25rem;
+  padding: 0.5rem 1rem; overflow-x: auto;
+  font-size: 0.75rem;
+}
+.nav .brand {
+  font-family: var(--display); font-weight: 600; letter-spacing: 0.06em;
+  color: var(--gold); margin-right: 0.75rem; white-space: nowrap;
+}
+.nav a {
+  color: #b8b0a0; text-decoration: none; white-space: nowrap;
+  padding: 0.3rem 0.6rem; border-radius: 0.35rem; transition: .15s;
+}
+.nav a:hover { background: #2c2416; color: var(--gold); }
+.nav a.active { background: #2c2416; color: var(--gold); }
+
+/* ─── layout ─── */
+.wrap { max-width: 78rem; margin: 0 auto; padding: 1.5rem 1.25rem 6rem; }
+.section {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 0.9rem; box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  padding: 2.25rem; margin-bottom: 0.875rem;
+}
+.section.alt { background: var(--card-alt); }
+.section > .head { margin-bottom: 1.5rem; }
+.tag {
+  display: inline-block; font-size: 0.625rem; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.5rem;
+}
+.tag.rec { color: var(--tag-rec); }
+.tag.trade { color: var(--tag-trade); }
+.tag.prob { color: var(--tag-prob); }
+.tag.note { color: var(--tag-note); }
+h2.title { font-size: 1.35rem; font-weight: 600; letter-spacing: -0.01em; margin: 0 0 0.4rem; }
+.desc { font-size: 0.8125rem; color: var(--muted); max-width: 46rem; margin: 0; }
+.statelabel {
+  font-size: 0.625rem; font-weight: 600; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted-fg); margin: 1.5rem 0 0.6rem;
+}
+
+/* ─── callouts ─── */
+.callout {
+  border-left: 3px solid; border-radius: 0.4rem; padding: 0.7rem 0.95rem;
+  font-size: 0.8125rem; margin: 1rem 0; background: #fff;
+}
+.callout .lbl { font-size: 0.625rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; display: block; margin-bottom: 0.2rem; }
+.callout.good { border-color: var(--tag-rec); background: #f0fbf9; }
+.callout.good .lbl { color: var(--tag-rec); }
+.callout.bad { border-color: var(--tag-prob); background: #fef5f5; }
+.callout.bad .lbl { color: var(--tag-prob); }
+.callout.warn { border-color: var(--tag-trade); background: #fffaf2; }
+.callout.warn .lbl { color: var(--tag-trade); }
+.callout.note { border-color: var(--tag-note); background: #f3f6ff; }
+.callout.note .lbl { color: var(--tag-note); }
+.callout code { background: rgba(0,0,0,0.06); padding: 0.05em 0.35em; border-radius: 3px; font-size: 0.92em; }
+
+/* ─── before/after grid ─── */
+.ba { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1px solid var(--line); border-radius: 0.7rem; overflow: hidden; }
+.ba > div { padding: 0; }
+.ba > div + div { border-left: 1px solid var(--line); }
+.ba .cap { font-size: 0.625rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.55rem 0.85rem; background: #f2f0eb; color: var(--muted); border-bottom: 1px solid var(--line); }
+.ba .cap.now { color: var(--tag-prob); }
+.ba .cap.next { color: var(--tag-rec); }
+@media (max-width: 860px){ .ba { grid-template-columns: 1fr; } .ba > div + div { border-left: none; border-top: 1px solid var(--line); } }
+
+/* ════════════════════════════════════════════════════════════════
+   MOCK FRAME — the real dark codex theme lives in here
+   ════════════════════════════════════════════════════════════════ */
+.app {
+  background:
+    linear-gradient(180deg, rgba(201,162,39,0.05) 0, transparent 60%),
+    var(--parchment);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 14px;
+  position: relative;
+}
+.app .titlebar {
+  display: flex; gap: 0.4rem; align-items: center;
+  padding: 0.55rem 0.8rem; background: var(--parchment-dark);
+  border-bottom: 1px solid var(--border);
+}
+.app .titlebar i { width: 0.65rem; height: 0.65rem; border-radius: 50%; display: inline-block; }
+.app .titlebar .r { background: #e06c5a; } .app .titlebar .y { background: #d8b24a; } .app .titlebar .g { background: #6fae7e; }
+.app .titlebar .url { margin-left: 0.6rem; font-size: 0.7rem; color: var(--ink-muted); font-family: ui-monospace, monospace; }
+.app .topbar {
+  border-bottom: 1px solid var(--border); background: rgba(15,13,10,0.55);
+  padding: 0.6rem 1.1rem; font-size: 0.78rem; color: var(--ink-muted);
+}
+.app .topbar a { color: var(--ink-muted); text-decoration: none; }
+.app a { color: var(--gold); text-decoration: none; }
+
+/* ─ shared codex bits ─ */
+.kicker { font-family: var(--display); }
+.h1 { font-family: var(--display); font-weight: 600; color: var(--ink); line-height: 1.1; }
+.muted { color: var(--ink-muted); }
+.smallcaps { text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.66rem; color: var(--ink-muted); }
+.divider-fleuron { display:flex; align-items:center; justify-content:center; gap:0.75rem; color: var(--gold-muted); }
+.divider-fleuron .ln { height:1px; width:3rem; background: linear-gradient(90deg, transparent, var(--gold-muted)); }
+.divider-fleuron .ln.r { background: linear-gradient(270deg, transparent, var(--gold-muted)); }
+
+/* ─ seal medallion ─ */
+.seal {
+  position: relative; display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 50%; border: 1px solid var(--gold-muted); flex-shrink: 0;
+  box-shadow: inset 0 0 0 1px rgba(201,162,39,0.18), inset 0 2px 6px rgba(0,0,0,0.45), 0 1px 3px rgba(0,0,0,0.4);
+}
+.seal svg { color: var(--gold); }
+.seal.sz-sm { width: 30px; height: 30px; } .seal.sz-sm svg { width: 15px; height: 15px; }
+.seal.sz-md { width: 50px; height: 50px; } .seal.sz-md svg { width: 22px; height: 22px; }
+.seal.sz-lg { width: 76px; height: 76px; } .seal.sz-lg svg { width: 32px; height: 32px; }
+/* atmosphere fill of the seal */
+.at { --a: var(--at-default); }
+.at-civilization { --a: var(--at-civilization); } .at-sacred { --a: var(--at-sacred); }
+.at-cursed { --a: var(--at-cursed); } .at-ancient { --a: var(--at-ancient); }
+.at-dangerous { --a: var(--at-dangerous); } .at-trade { --a: var(--at-trade); }
+.at-nature { --a: var(--at-nature); } .at-water { --a: var(--at-water); } .at-default { --a: var(--at-default); }
+.seal { background: radial-gradient(circle at 38% 32%, rgba(var(--a),0.22), rgba(var(--a),0.05) 70%, rgba(15,13,10,0.5)); }
+
+/* ─ chips ─ */
+.chip {
+  display: inline-block; padding: 0.12rem 0.55rem; font-size: 0.78rem; line-height: 1.4;
+  background: var(--parchment); border: 1px solid var(--border); color: var(--ink);
+  border-radius: 0.2rem; transition: .15s;
+}
+.chip:hover { border-color: rgba(var(--a),1); color: rgba(var(--a),1); background: color-mix(in srgb, rgba(var(--a),1) 9%, var(--parchment)); }
+.tagchip {
+  display:inline-block; padding: 0.1rem 0.5rem; font-size: 0.68rem; letter-spacing: 0.03em;
+  color: var(--ink-muted); border: 1px solid rgba(var(--a),0.35); background: rgba(var(--a),0.06); border-radius: 0.2rem;
+}
+
+/* ─ generic art placeholders ─ */
+.plate {
+  position: relative; border-radius: 0.4rem; overflow: hidden;
+  background:
+    radial-gradient(120% 80% at 30% 20%, rgba(var(--a),0.28), transparent 60%),
+    linear-gradient(160deg, #3a2f1d 0%, #241c12 55%, #16110b 100%);
+  border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+}
+.plate::after {
+  content: ""; position: absolute; inset: 0;
+  background: radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.45) 100%);
+  pointer-events: none;
+}
+.plate .glyph { opacity: 0.32; color: rgba(var(--a),0.9); }
+.plate .cap {
+  position: absolute; bottom: 0; left: 0; right: 0; z-index: 2;
+  font-family: ui-monospace, monospace; font-size: 0.6rem; letter-spacing: 0.03em;
+  color: rgba(232,224,208,0.6); background: linear-gradient(transparent, rgba(0,0,0,0.55));
+  padding: 0.5rem 0.55rem 0.35rem; text-align: center;
+}
+/* map crop placeholder */
+.mapcrop {
+  position: relative; border-radius: 0.4rem; overflow: hidden; border: 1px solid var(--border);
+  background: linear-gradient(160deg, #1c2a2c 0%, #16201f 50%, #0f1614 100%);
+}
+.mapcrop svg.terrain { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0.5; }
+.mapcrop .pin { position: absolute; width: 10px; height: 10px; border-radius: 50%; background: var(--gold); box-shadow: 0 0 0 3px rgba(201,162,39,0.25), 0 0 10px rgba(201,162,39,0.6); transform: translate(-50%,-50%); }
+.mapcrop .cap { position:absolute; bottom:0; left:0; right:0; font-family: ui-monospace, monospace; font-size:0.6rem; color: rgba(232,224,208,0.6); background: linear-gradient(transparent, rgba(0,0,0,0.5)); padding: 0.45rem 0.5rem 0.3rem; text-align:center; z-index:2; }
+/* sigil placeholder (generative crest) */
+.sigil {
+  width: 100%; aspect-ratio: 1; border-radius: 0.4rem; border: 1px solid var(--border);
+  background:
+    conic-gradient(from 45deg, rgba(var(--a),0.18), transparent 25%, rgba(var(--a),0.18) 50%, transparent 75%, rgba(var(--a),0.18)),
+    radial-gradient(circle at center, rgba(var(--a),0.12), #16110b 70%);
+  display:flex; align-items:center; justify-content:center; position: relative;
+}
+.sigil .glyph { color: rgba(var(--a),0.85); opacity: 0.7; }
+
+/* ─── result rows (search-active) ─── */
+.rowlist { border:1px solid var(--border); border-radius:0.4rem; overflow:hidden; background: rgba(44,36,22,0.35); }
+.row { display:flex; align-items:center; gap:0.85rem; padding:0.6rem 0.85rem; border-bottom:1px solid rgba(77,68,54,0.55); position:relative; }
+.row:last-child { border-bottom:none; }
+.row .spine { position:absolute; left:0; top:0; bottom:0; width:3px; background: rgba(var(--a),0.85); }
+.row .nm { font-family: var(--display); color: var(--ink); }
+.row .ty { font-size:0.62rem; letter-spacing:0.12em; text-transform:uppercase; color: var(--ink-muted); }
+.row .bl { font-size:0.8rem; color: var(--ink-muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.row.lg { padding:0.8rem 0.85rem 0.8rem 1rem; }
+.row.lg .nm { font-size:1.15rem; }
+.row.sm .nm { font-size:0.92rem; }
+.row .thumb { width:38px; height:38px; border-radius:0.3rem; flex-shrink:0; }
+
+/* ─ portal grid (categories, mood-colored) ─ */
+.portals { display:grid; grid-template-columns: repeat(5, 1fr); gap:0.6rem; }
+@media (max-width: 720px){ .portals { grid-template-columns: repeat(2,1fr); } }
+.portal {
+  border:1px solid rgba(var(--a),0.4); border-radius:0.5rem; padding:0.85rem 0.7rem;
+  background: linear-gradient(180deg, rgba(var(--a),0.14), rgba(var(--a),0.03));
+  display:flex; flex-direction:column; gap:0.5rem; transition:.18s; cursor:pointer; min-height: 6.2rem;
+}
+.portal:hover { border-color: rgba(var(--a),0.9); background: linear-gradient(180deg, rgba(var(--a),0.22), rgba(var(--a),0.06)); transform: translateY(-2px); }
+.portal .pn { font-family: var(--display); font-size:0.92rem; color: var(--ink); }
+.portal .pc { font-size:0.66rem; color: var(--ink-muted); }
+.portal .seal { background: radial-gradient(circle at 38% 32%, rgba(var(--a),0.3), rgba(var(--a),0.06) 70%, rgba(15,13,10,0.5)); }
+
+/* ─ feature cards (Begin with) ─ */
+.feat { display:grid; grid-template-columns: repeat(3,1fr); gap:0.85rem; }
+@media (max-width: 820px){ .feat { grid-template-columns: 1fr; } }
+.fcard {
+  border:1px solid var(--border); border-radius:0.55rem; overflow:hidden;
+  background: linear-gradient(180deg, rgba(var(--a),0.08), rgba(44,36,22,0.5)), var(--parchment-light);
+  position:relative; transition:.18s; cursor:pointer;
+}
+.fcard:hover { border-color: rgba(var(--a),0.7); transform: translateY(-2px); }
+.fcard .accent { height:3px; background: linear-gradient(90deg, rgba(var(--a),1), rgba(var(--a),0.15)); }
+.fcard .img { height: 116px; }
+.fcard .body { padding: 0.7rem 0.85rem 0.95rem; }
+.fcard .fn { font-family: var(--display); font-size:1.05rem; color:var(--ink); display:flex; align-items:center; gap:0.5rem; }
+.fcard .ft { font-size:0.62rem; letter-spacing:0.12em; text-transform:uppercase; color: var(--ink-muted); margin: 0.15rem 0 0.4rem; }
+.fcard .fb { font-size:0.82rem; color: var(--ink-muted); line-height:1.45; }
+
+/* ─ at-a-glance strip ─ */
+.glance { display:flex; flex-wrap:wrap; gap:0.4rem 1.4rem; padding:0.7rem 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border); margin: 0 0 1.4rem; }
+.glance .g { display:flex; flex-direction:column; }
+.glance .gl { font-size:0.6rem; letter-spacing:0.12em; text-transform:uppercase; color: var(--ink-muted); }
+.glance .gv { font-size:0.92rem; color: var(--ink); font-family: var(--display); }
+
+/* ─ prose ─ */
+.prose { font-family: var(--serif); font-size: 1.04rem; line-height: 1.72; color: var(--ink); max-width: 38rem; }
+.prose.measure { max-width: 36rem; }
+.prose .dropcap::first-letter { font-family: var(--display); font-weight:600; font-size:3.2em; line-height:0.74; float:left; margin:0.06em 0.1em -0.04em 0; color: var(--gold); text-shadow:0 1px 0 rgba(0,0,0,0.35); }
+.prose .pull { border-left:2px solid var(--gold-muted); padding:0.2em 0 0.2em 1.1em; margin:1.1em 0; font-style:italic; color: color-mix(in srgb, var(--ink) 88%, var(--gold)); font-size:1.12em; }
+.epigraph { font-family: var(--serif); font-style: italic; font-size: 1.12rem; color: color-mix(in srgb, var(--ink) 90%, var(--gold)); margin: 0.6rem 0 0; max-width: 40rem; }
+
+/* ─ infobox ─ */
+.infobox { border:1px solid var(--border); border-radius:0.4rem; overflow:hidden; background: linear-gradient(180deg, rgba(var(--a),0.08), rgba(44,36,22,0.4)), var(--parchment-light); }
+.infobox .accent { height:3px; background: linear-gradient(90deg, rgba(var(--a),1), rgba(var(--a),0.15)); }
+.infobox .ib { padding: 0.95rem; }
+.fact { display:flex; justify-content:space-between; gap:0.75rem; padding:0.35rem 0; border-bottom:1px solid rgba(77,68,54,0.5); font-size:0.84rem; }
+.fact:last-child { border-bottom:none; }
+.fact dt { font-size:0.62rem; letter-spacing:0.12em; text-transform:uppercase; color: var(--ink-muted); }
+.fact dd { margin:0; color: var(--ink); text-align:right; }
+.rgrp { margin-top: 0.85rem; }
+.rgrp h4 { font-family: var(--display); font-size:0.66rem; letter-spacing:0.13em; text-transform:uppercase; margin:0 0 0.4rem; color: rgba(var(--a),1); }
+
+.entity-grid { display:grid; grid-template-columns: minmax(0,1fr) 300px; gap: 1.75rem; align-items:start; }
+@media (max-width: 860px){ .entity-grid { grid-template-columns: 1fr; } }
+
+/* ─ misc ─ */
+.searchbar {
+  display:flex; align-items:center; gap:0.6rem; width:100%;
+  padding:0.7rem 0.9rem; border-radius:0.4rem; background: rgba(20,17,13,0.55);
+  border:1px solid var(--gold-muted);
+}
+.searchbar input { all:unset; flex:1; color: var(--ink); font-family: var(--display); font-size:1rem; letter-spacing:0.02em; }
+.searchbar input::placeholder { color: var(--ink-muted); }
+
+.cmp { width:100%; border-collapse: collapse; font-size:0.8125rem; }
+.cmp th, .cmp td { text-align:left; padding:0.6rem 0.7rem; border-bottom:1px solid var(--line); vertical-align:top; }
+.cmp th { font-size:0.625rem; letter-spacing:0.08em; text-transform:uppercase; color: var(--muted); }
+.cmp td.crit { font-weight:600; color: var(--fg); white-space:nowrap; }
+.cmp .now { color: var(--tag-prob); }
+.cmp .next { color: var(--tag-rec); }
+
+.swatches { display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem; }
+.sw { display:flex; align-items:center; gap:0.45rem; font-size:0.72rem; color: var(--muted); background:#fff; border:1px solid var(--line); border-radius:0.3rem; padding:0.3rem 0.55rem; }
+.sw i { width:0.9rem; height:0.9rem; border-radius:0.2rem; display:inline-block; }
+
+.note-small { font-size: 0.72rem; color: var(--ink-muted); }
+h3.mock-h { font-family: var(--display); color: var(--ink); font-weight:600; }
+.flourish-band { position:relative; }
+.corner { position:absolute; width:2.5rem; height:2.5rem; border-color: rgba(201,162,39,0.3); }
+.corner.tl { top:0; left:0; border-top:2px solid; border-left:2px solid; }
+.corner.tr { top:0; right:0; border-top:2px solid; border-right:2px solid; }
+</style>
+</head>
+<body>
+
+<!-- ═══ NAV ═══ -->
+<nav class="nav" id="nav">
+  <span class="brand">◈ Codex Redesign</span>
+  <a href="#intro">Diagnosis</a>
+  <a href="#landing-ba">Landing: Before/After</a>
+  <a href="#landing">Landing: Proposed</a>
+  <a href="#search">Search State</a>
+  <a href="#entity-ba">Entity: Before/After</a>
+  <a href="#entity">Entity: Proposed</a>
+  <a href="#moods">Mood System</a>
+  <a href="#images">Image Roles</a>
+  <a href="#compare">Compare</a>
+</nav>
+
+<!-- icon symbol defs (lucide-style, stroke=currentColor) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <g id="i-map" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/></g>
+    <g id="i-castle" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M4 21V9l2-1v2l2-1v2l2-1v2l2-1v2l2-1v2l2-1v8"/><path d="M4 21h16M9 21v-3a3 3 0 0 1 6 0v3"/></g>
+    <g id="i-user" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><circle cx="12" cy="8" r="3.4"/><path d="M5 20c0-3.6 3.1-5.5 7-5.5s7 1.9 7 5.5"/></g>
+    <g id="i-orbit" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><circle cx="12" cy="12" r="2.4"/><path d="M18.5 6.2c2.2 2.2.2 7.2-4.4 11.1S4.2 22.6 2 20.4 1.8 12.8 6.4 9 16.3 4 18.5 6.2Z"/></g>
+    <g id="i-sparkles" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M12 3l1.6 4.4L18 9l-4.4 1.6L12 15l-1.6-4.4L6 9l4.4-1.6L12 3Z"/><path d="M18 14l.8 2.2 2.2.8-2.2.8L18 20l-.8-2.2L15 17l2.2-.8L18 14Z"/></g>
+    <g id="i-book" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M3 5.5C4.5 4.5 7 4 9 5c1.5.8 2.5 2 3 3 .5-1 1.5-2.2 3-3 2-1 4.5-.5 6 .5V19c-1.5-1-4-1.5-6-.5-1.5.8-2.5 2-3 3-.5-1-1.5-2.2-3-3C7 17.5 4.5 18 3 19V5.5Z"/><path d="M12 8v11"/></g>
+    <g id="i-gem" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M6 4h12l3 5-9 11L3 9l3-5Z"/><path d="M3 9h18M9 4 7 9l5 11M15 4l2 5-5 11"/></g>
+    <g id="i-crown" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M3 7l3.5 3L12 5l5.5 5L21 7l-1.5 11h-15L3 7Z"/></g>
+    <g id="i-paw" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><circle cx="7" cy="9" r="1.8"/><circle cx="12" cy="6.5" r="1.8"/><circle cx="17" cy="9" r="1.8"/><path d="M8.5 15.5c1-2 5-2 6 0 1.3 2.5-1 4.5-3 4.5s-4.3-2-3-4.5Z"/></g>
+    <g id="i-flame" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M12 3c2 3 5 4.5 5 8.5A5 5 0 0 1 7 12c0-1.5.5-2.5 1.2-3.4.5 1 1.3 1.4 2 1.4-.7-2 .3-5 1.8-7Z"/></g>
+    <g id="i-landmark" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M3 21h18M4 21V10m4 11V10m8 11V10m4 11V10M3 10l9-6 9 6M3 10h18"/></g>
+    <g id="i-scroll" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M5 5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v11a2 2 0 0 0 2 2H8a2 2 0 0 1-2-2V5Z"/><path d="M5 5a2 2 0 0 0-2 2v1h3M9 8h6M9 12h6"/></g>
+    <g id="i-users" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><circle cx="9" cy="8" r="3"/><path d="M3 19c0-3 2.7-4.5 6-4.5s6 1.5 6 4.5"/><path d="M16 5.5a3 3 0 0 1 0 5.5M17 14c2.5.3 4 1.9 4 4.5"/></g>
+    <g id="i-wand" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M5 19 16 8M14 6l4 4M18 4l.6 1.4L20 6l-1.4.6L18 8l-.6-1.4L16 6l1.4-.6L18 4ZM7 9l.5 1.2L9 10.5l-1.5.5L7 12.5l-.5-1.5L5 10.5l1.5-.3L7 9Z"/></g>
+    <g id="i-search" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.5-4.5"/></g>
+    <g id="i-shuffle" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linejoin="round" stroke-linecap="round"><path d="M3 5h3l9 14h3M3 19h3l3-4.6M15 5h3M18 3l3 2-3 2M18 17h0l3 2-3 2"/></g>
+  </defs>
+</svg>
+
+<div class="wrap">
+
+<!-- ═══════════════════════════════════════════ INTRO ═══ -->
+<section class="section" id="intro">
+  <div class="head">
+    <span class="tag rec">Design review · Codex of Alaria</span>
+    <h2 class="title">Why the codex feels bland — and the redesign that fixes it</h2>
+    <p class="desc">The codex has a strong aesthetic and a rich relational dataset, but the front door is a flat text list and the entity page buries its best parts. This review proposes a "doorway" landing, a visible mood system, and a tiered image strategy. The mock frames below use the real dark-parchment theme; the lighter chrome is this document.</p>
+  </div>
+
+  <div class="callout bad"><span class="lbl">Problem 1 · The landing is a database dump</span>Every row looks identical — same seal, same type size, same muted blurb. A five-level <code>weight</code> hierarchy exists in the data but the list throws it away. A footnote looks as important as an entire plane of reality.</div>
+  <div class="callout bad"><span class="lbl">Problem 2 · The front door hides the map</span>The tagline promises "travel by its connections," yet the landing shows zero connections, zero map, zero spatial context — on a worldbuilding site whose richest asset is a world map.</div>
+  <div class="callout bad"><span class="lbl">Problem 3 · A whole mood system is invisible</span>9 atmospheres (sacred / cursed / dangerous / ancient…) collapse to a faint tint on a 40px seal. A cursed ruin and a sacred grove look identical in a list.</div>
+  <div class="callout warn"><span class="lbl">Problem 4 · The blurb is written but never shown on the entity page</span>You wrote a sharp one-liner for every entity. It's used in search, then discarded. The entity page jumps title→prose with no hook. Free win.</div>
+
+  <div class="callout note"><span class="lbl">Locked decisions (from the consult)</span>
+    <b>Audience: both</b> — immersive doorway, search always one keystroke away. &nbsp;·&nbsp;
+    <b>Map ↔ codex: co-equal</b> — landing leads with the world but stands alone via Begin / Browse / Wander.
+  </div>
+  <div class="callout good"><span class="lbl">Update · images are now abundant (~3 per entity)</span>~1,000 free generations/day makes <b>3 images per entity</b> realistic. This flips the strategy: images stop being scarce "polish" and become a <b>primary design material</b>. The question is no longer <i>which</i> entities get art — it's <b>what role each image plays</b>, and how to keep ~11,000 images coherent. The style lock matters <i>more</i> now, not less. See "Image roles" below.</div>
+</section>
+
+<!-- ═══════════════════════════════════════════ LANDING BEFORE/AFTER ═══ -->
+<section class="section alt" id="landing-ba">
+  <div class="head">
+    <span class="tag prob">The core change</span>
+    <h2 class="title">Landing page — current vs. proposed</h2>
+    <p class="desc">Same world, same data. On the left, the current no-query state: a search box on a flat list. On the right, the proposed "doorway": the world first, then curated ways in. Content held constant so the only variable is the design.</p>
+  </div>
+
+  <div class="ba">
+    <!-- CURRENT -->
+    <div>
+      <div class="cap now">Now — flat list</div>
+      <div class="app">
+        <div class="topbar">← Back to Map</div>
+        <div style="padding:1.4rem 1.2rem;">
+          <div class="divider-fleuron" style="margin-bottom:0.6rem;"><span class="ln"></span><span style="color:var(--gold)">❧</span><span class="ln r"></span></div>
+          <div class="h1" style="font-size:1.7rem; text-align:center;">The Codex of Alaria</div>
+          <div class="muted" style="text-align:center; font-size:0.82rem; margin:0.3rem 0 1rem;">Search the world, then travel by its connections.</div>
+          <div class="searchbar" style="margin-bottom:1rem;"><svg width="16" height="16"><use href="#i-search"/></svg><input placeholder="Search places, powers, people…" disabled></div>
+          <div class="smallcaps" style="margin-bottom:0.6rem;">Start here — the most prominent entries</div>
+          <div class="rowlist">
+            <div class="row at-default"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-scroll"/></svg></span><div style="min-width:0;"><div class="nm">Ages &amp; History <span class="ty">overview</span></div><div class="bl">The ages of Alaria and the events that turned them.</div></div></div>
+            <div class="row at-default"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div style="min-width:0;"><div class="nm">Astral Currents <span class="ty">plane</span></div><div class="bl">The Astral Sea is not still.</div></div></div>
+            <div class="row at-default"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div style="min-width:0;"><div class="nm">Astral Plane <span class="ty">plane</span></div><div class="bl">A massive sea with floating islands of a special stone…</div></div></div>
+            <div class="row at-default"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div style="min-width:0;"><div class="nm">Belagria <span class="ty">plane</span></div><div class="bl">The upper half of the Material Plane—where most life occurs.</div></div></div>
+            <div class="row at-default"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div style="min-width:0;"><div class="nm">Celestia <span class="ty">plane</span></div><div class="bl">Its creation required two events 11.5 million years apart.</div></div></div>
+          </div>
+          <div class="note-small" style="text-align:center; margin-top:0.7rem; opacity:0.6;">…1,200 more rows, all identical weight ↓</div>
+        </div>
+      </div>
+    </div>
+    <!-- PROPOSED (compact preview; full version below) -->
+    <div>
+      <div class="cap next">Proposed — a doorway</div>
+      <div class="app">
+        <div class="topbar">← Back to Map &nbsp;·&nbsp; <span style="color:var(--gold)">Codex</span></div>
+        <!-- hero — featured art -->
+        <div class="plate at-sacred flourish-band" style="height:150px; border-radius:0; border-left:none; border-right:none;">
+          <svg class="glyph" width="70" height="70" viewBox="0 0 24 24" style="position:absolute; right:10%; top:18%; opacity:0.12;"><use href="#i-orbit"/></svg>
+          <div style="position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; z-index:3; background: radial-gradient(ellipse at center, rgba(15,13,10,0.3), rgba(15,13,10,0.78));">
+            <div class="h1" style="font-size:1.5rem; text-shadow:0 2px 12px rgba(0,0,0,0.8);">The Codex of Alaria</div>
+            <div class="searchbar" style="width:84%; margin-top:0.6rem;"><svg width="15" height="15"><use href="#i-search"/></svg><input placeholder="Search places, powers, people…" disabled></div>
+            <div class="note-small" style="margin-top:0.45rem;">or <span style="color:var(--gold)">wander to a random entry</span> <svg width="11" height="11" style="vertical-align:-1px;color:var(--gold)"><use href="#i-shuffle"/></svg></div>
+          </div>
+        </div>
+        <div style="padding:1rem 1.1rem;">
+          <div class="smallcaps" style="margin-bottom:0.55rem;">Begin with</div>
+          <div class="feat" style="gap:0.5rem;">
+            <div class="fcard at-sacred"><div class="accent"></div><div class="img"><div class="plate at-sacred" style="height:100%;"><svg class="glyph" width="34" height="34" viewBox="0 0 24 24"><use href="#i-orbit"/></svg></div></div><div class="body"><div class="fn" style="font-size:0.9rem;">Belagria</div><div class="ft">Plane · Sacred</div></div></div>
+            <div class="fcard at-default"><div class="accent"></div><div class="img"><div class="plate at-default" style="height:100%;"><svg class="glyph" width="34" height="34" viewBox="0 0 24 24"><use href="#i-user"/></svg></div></div><div class="body"><div class="fn" style="font-size:0.9rem;">Gaea</div><div class="ft">Person · Primordial</div></div></div>
+            <div class="fcard at-civilization"><div class="accent"></div><div class="img"><div class="mapcrop" style="height:100%;"><svg class="terrain" viewBox="0 0 120 100" preserveAspectRatio="none"><g stroke="rgba(216,178,74,0.4)" fill="none"><path d="M0 70 Q30 60 60 66 T120 60"/></g></svg><span class="pin" style="left:45%;top:55%;"></span></div></div><div class="body"><div class="fn" style="font-size:0.9rem;">Aal Salma</div><div class="ft">Region · Civilization</div></div></div>
+          </div>
+          <div class="smallcaps" style="margin:0.9rem 0 0.5rem;">Browse the world</div>
+          <div class="portals" style="grid-template-columns:repeat(5,1fr); gap:0.4rem;">
+            <div class="portal at-nature" style="min-height:auto; padding:0.5rem;"><span class="seal sz-sm at-nature"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span><span class="pn" style="font-size:0.72rem;">Geography</span></div>
+            <div class="portal at-default" style="min-height:auto; padding:0.5rem;"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-users"/></svg></span><span class="pn" style="font-size:0.72rem;">Races</span></div>
+            <div class="portal at-sacred" style="min-height:auto; padding:0.5rem;"><span class="seal sz-sm at-sacred"><svg viewBox="0 0 24 24"><use href="#i-sparkles"/></svg></span><span class="pn" style="font-size:0.72rem;">Deities</span></div>
+            <div class="portal at-cursed" style="min-height:auto; padding:0.5rem;"><span class="seal sz-sm at-cursed"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><span class="pn" style="font-size:0.72rem;">Cosmology</span></div>
+            <div class="portal at-ancient" style="min-height:auto; padding:0.5rem;"><span class="seal sz-sm at-ancient"><svg viewBox="0 0 24 24"><use href="#i-scroll"/></svg></span><span class="pn" style="font-size:0.72rem;">History</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════ LANDING PROPOSED (full) ═══ -->
+<section class="section" id="landing">
+  <div class="head">
+    <span class="tag rec">Proposed landing · full fidelity</span>
+    <h2 class="title">The doorway, at full size</h2>
+    <p class="desc">Lead with a cinematic featured-entry hero (its rotating hero art) and a floating search — immersion + lookup in one, with the world map one click away. "Begin with" surfaces cornerstones as large cards carrying real hero art. "Browse the world" turns the ten categories into mood-colored portals. "Wander" adds serendipity.</p>
+  </div>
+
+  <div class="app">
+    <div class="titlebar"><i class="r"></i><i class="y"></i><i class="g"></i><span class="url">localhost:3001/codex</span></div>
+    <div class="topbar">← Back to Map</div>
+
+    <!-- HERO — featured cinematic art (images now abundant) -->
+    <div class="plate at-sacred flourish-band" style="height:300px; border-radius:0; border-left:none; border-right:none;">
+      <div class="corner tl"></div><div class="corner tr"></div>
+      <svg class="glyph" width="140" height="140" viewBox="0 0 24 24" style="position:absolute; right:9%; top:14%; opacity:0.13;"><use href="#i-orbit"/></svg>
+      <svg class="glyph" width="80" height="80" viewBox="0 0 24 24" style="position:absolute; left:11%; bottom:20%; opacity:0.1;"><use href="#i-orbit"/></svg>
+      <div style="position:absolute; top:0.6rem; right:0.8rem; z-index:4; font-family:ui-monospace,monospace; font-size:0.58rem; color:rgba(232,224,208,0.6); background:rgba(15,13,10,0.5); padding:0.2rem 0.45rem; border-radius:0.25rem;">featured hero art · rotates daily</div>
+      <div style="position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; z-index:3; background: radial-gradient(ellipse at center, rgba(15,13,10,0.25) 20%, rgba(15,13,10,0.8) 100%);">
+        <div class="divider-fleuron" style="margin-bottom:0.5rem;"><span class="ln"></span><span style="color:var(--gold)">❧</span><span class="ln r"></span></div>
+        <div class="h1" style="font-size:2.5rem; letter-spacing:0.02em; text-shadow:0 2px 18px rgba(0,0,0,0.9);">The Codex of Alaria</div>
+        <div class="muted" style="font-size:0.9rem; margin:0.35rem 0 0.9rem; text-shadow:0 1px 6px rgba(0,0,0,0.9);">Search the world, then travel by its connections.</div>
+        <div class="searchbar" style="width:min(36rem,82%);"><svg width="18" height="18"><use href="#i-search"/></svg><input placeholder="Search places, powers, people…" disabled></div>
+        <div class="note-small" style="margin-top:0.65rem; display:flex; gap:1.3rem; align-items:center; text-shadow:0 1px 6px rgba(0,0,0,0.9);">
+          <span><svg width="12" height="12" style="vertical-align:-1px;color:var(--gold)"><use href="#i-map"/></svg> <span style="color:var(--gold); border-bottom:1px solid var(--gold-muted);">Open the world map</span></span>
+          <span><svg width="12" height="12" style="vertical-align:-1px;color:var(--gold)"><use href="#i-shuffle"/></svg> <span style="color:var(--gold); border-bottom:1px solid var(--gold-muted);">Wander to a random entry</span></span>
+        </div>
+      </div>
+      <div class="cap" style="text-align:left; padding:0.55rem 1rem;">Featured · Belagria — the inhabited world. Co-equal map is one click / one tap away.</div>
+    </div>
+
+    <div style="padding:1.6rem 1.4rem 2rem;">
+      <!-- BEGIN WITH -->
+      <div class="smallcaps" style="margin-bottom:0.7rem;">Begin with — the cornerstones</div>
+      <div class="feat">
+        <div class="fcard at-sacred">
+          <div class="accent"></div>
+          <div class="img"><div class="plate at-sacred" style="height:100%;"><svg class="glyph" width="44" height="44" viewBox="0 0 24 24"><use href="#i-orbit"/></svg><div class="cap">hero art · cosmological vista</div></div></div>
+          <div class="body"><div class="fn"><span class="seal sz-sm at-sacred"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span>Belagria</div><div class="ft">Plane · Legendary</div><div class="fb">The upper half of the Material Plane — the inhabited world where most of 'life' occurs.</div></div>
+        </div>
+        <div class="fcard at-default">
+          <div class="accent"></div>
+          <div class="img"><div class="plate at-default" style="height:100%;"><svg class="glyph" width="44" height="44" viewBox="0 0 24 24"><use href="#i-user"/></svg><div class="cap">hero art · figure portrait</div></div></div>
+          <div class="body"><div class="fn"><span class="seal sz-sm at-default"><svg viewBox="0 0 24 24"><use href="#i-user"/></svg></span>Gaea</div><div class="ft">Person · Legendary</div><div class="fb">The Earth Mother; creator of flesh-life through the language Kethic; now diffused into the world she made.</div></div>
+        </div>
+        <div class="fcard at-civilization">
+          <div class="accent"></div>
+          <div class="img"><div class="mapcrop" style="height:100%;"><svg class="terrain" viewBox="0 0 280 116" preserveAspectRatio="none"><g stroke="rgba(216,178,74,0.35)" fill="none"><path d="M0 80 Q70 66 140 74 T280 66"/><path d="M0 96 Q80 84 160 92 T280 86"/></g></svg><span class="pin" style="left:48%;top:52%;"></span><div class="cap">map crop — places can use this or hero art</div></div></div>
+          <div class="body"><div class="fn"><span class="seal sz-sm at-civilization"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span>Aal Salma</div><div class="ft">Region · Major</div><div class="fb">An old and careful nation on Terrenia's northwestern coast, surviving by trading with everyone and trusting no one.</div></div>
+        </div>
+      </div>
+
+      <!-- BROWSE THE WORLD -->
+      <div class="smallcaps" style="margin:1.6rem 0 0.7rem;">Browse the world — ten realms of lore</div>
+      <div class="portals">
+        <div class="portal at-nature"><span class="seal sz-md at-nature"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span><div><div class="pn">Geography</div><div class="pc">Realms, cities &amp; wilds</div></div></div>
+        <div class="portal at-default"><span class="seal sz-md at-default"><svg viewBox="0 0 24 24"><use href="#i-users"/></svg></span><div><div class="pn">Races</div><div class="pc">Peoples of Alaria</div></div></div>
+        <div class="portal at-dangerous"><span class="seal sz-md at-dangerous"><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg></span><div><div class="pn">Creatures</div><div class="pc">Beasts &amp; monsters</div></div></div>
+        <div class="portal at-civilization"><span class="seal sz-md at-civilization"><svg viewBox="0 0 24 24"><use href="#i-crown"/></svg></span><div><div class="pn">Factions</div><div class="pc">Powers &amp; orders</div></div></div>
+        <div class="portal at-cursed"><span class="seal sz-md at-cursed"><svg viewBox="0 0 24 24"><use href="#i-wand"/></svg></span><div><div class="pn">Magic</div><div class="pc">Forces &amp; arts</div></div></div>
+        <div class="portal at-sacred"><span class="seal sz-md at-sacred"><svg viewBox="0 0 24 24"><use href="#i-sparkles"/></svg></span><div><div class="pn">Deities</div><div class="pc">Gods &amp; the divine</div></div></div>
+        <div class="portal at-water"><span class="seal sz-md at-water"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div><div class="pn">Cosmology</div><div class="pc">Planes &amp; the astral</div></div></div>
+        <div class="portal at-ancient"><span class="seal sz-md at-ancient"><svg viewBox="0 0 24 24"><use href="#i-scroll"/></svg></span><div><div class="pn">History</div><div class="pc">Ages &amp; events</div></div></div>
+        <div class="portal at-default"><span class="seal sz-md at-default"><svg viewBox="0 0 24 24"><use href="#i-user"/></svg></span><div><div class="pn">Personae</div><div class="pc">Figures of note</div></div></div>
+        <div class="portal at-trade"><span class="seal sz-md at-trade"><svg viewBox="0 0 24 24"><use href="#i-gem"/></svg></span><div><div class="pn">Artifacts</div><div class="pc">Relics of power</div></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="callout good"><span class="lbl">Why this works</span>The world is the first thing you see (delivers the tagline). Search is autofocused and one keystroke away (lookup preserved). Mood color makes the ten realms instantly distinguishable. "Begin with" demonstrates all three image tiers — AI plate, figure study, and free map crop — coexisting.</div>
+  <div class="callout warn"><span class="lbl">Trade-off</span>The hero map vignette adds vertical space above the fold. Mitigation: keep it ~40vh max, and let it collapse to a thin band the instant the user types (search takes over the viewport).</div>
+</section>
+
+<!-- ═══════════════════════════════════════════ SEARCH STATE ═══ -->
+<section class="section alt" id="search">
+  <div class="head">
+    <span class="tag rec">State · search active</span>
+    <h2 class="title">Results that show weight &amp; mood</h2>
+    <p class="desc">The moment the most important fix lands: the result list expresses the <code>weight</code> hierarchy (legendary rows are larger and carry a thumbnail; footnotes are compact) and a colored left spine carries each entry's atmosphere. The eye finally has somewhere to land.</p>
+  </div>
+
+  <div class="app">
+    <div class="titlebar"><i class="r"></i><i class="y"></i><i class="g"></i><span class="url">localhost:3001/codex</span></div>
+    <div style="padding:1.1rem 1.3rem 1.6rem;">
+      <div class="searchbar" style="margin-bottom:0.9rem;"><svg width="18" height="18"><use href="#i-search"/></svg><input value="dragon" disabled style="color:var(--ink)"></div>
+      <div class="smallcaps" style="margin-bottom:0.6rem;">14 results</div>
+      <div class="rowlist">
+        <div class="row lg at-dangerous"><span class="spine"></span>
+          <div class="plate at-dangerous thumb" style="width:48px;height:48px;"><svg width="20" height="20" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-dangerous),1)"><use href="#i-flame"/></svg></div>
+          <div style="min-width:0; flex:1;"><div class="nm">Draphilir <span class="ty">landmark · perilous</span></div><div class="bl">A green dragon who has claimed the eastern Beastlands as her domain for over five centuries.</div></div>
+        </div>
+        <div class="row lg at-dangerous"><span class="spine"></span>
+          <div class="plate at-dangerous thumb" style="width:48px;height:48px;"><svg width="20" height="20" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-dangerous),1)"><use href="#i-flame"/></svg></div>
+          <div style="min-width:0; flex:1;"><div class="nm">Wyrmspine Reach <span class="ty">region · perilous</span></div><div class="bl">The shattered range where the old dragon-kings still keep their cold counsel.</div></div>
+        </div>
+        <div class="row at-ancient"><span class="spine"></span><div class="plate at-ancient thumb"><svg width="16" height="16" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-ancient),1)"><use href="#i-scroll"/></svg></div>
+          <div style="min-width:0; flex:1;"><div class="nm">The Drake Accords <span class="ty">event</span></div><div class="bl">The pact that ended the Second Wyrm War.</div></div>
+        </div>
+        <div class="row at-civilization"><span class="spine"></span><div class="plate at-civilization thumb"><svg width="16" height="16" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-civilization),1)"><use href="#i-crown"/></svg></div>
+          <div style="min-width:0; flex:1;"><div class="nm">Order of the Drawn Wing <span class="ty">faction</span></div><div class="bl">Dragon-hunters turned royal cartographers.</div></div>
+        </div>
+        <div class="row sm at-default"><span class="spine"></span><div class="plate at-default thumb" style="width:26px;height:26px;"><svg width="13" height="13" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-default),1)"><use href="#i-gem"/></svg></div>
+          <div style="min-width:0; flex:1; display:flex; align-items:baseline; gap:0.6rem;"><div class="nm">Dragonscale Ledger <span class="ty">artifact</span></div><div class="bl">Even footnotes get a portrait.</div></div>
+        </div>
+        <div class="row sm at-default"><span class="spine"></span><div class="plate at-default thumb" style="width:26px;height:26px;"><svg width="13" height="13" viewBox="0 0 24 24" style="opacity:0.6;color:rgba(var(--at-default),1)"><use href="#i-paw"/></svg></div>
+          <div style="min-width:0; flex:1; display:flex; align-items:baseline; gap:0.6rem;"><div class="nm">Drakelet <span class="ty">creature</span></div><div class="bl">Lesser kin — still has a face.</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="callout good"><span class="lbl">Now: a face on every row</span>With images abundant, <b>every</b> result carries a portrait thumbnail — not just the prominent ones. Weight still drives row + thumbnail size; atmosphere still drives the spine. The list reads like an illustrated index, and the eye lands on the two big perilous beasts instantly.</div>
+</section>
+
+<!-- ═══════════════════════════════════════════ ENTITY BEFORE/AFTER ═══ -->
+<section class="section" id="entity-ba">
+  <div class="head">
+    <span class="tag prob">Entity / pin page</span>
+    <h2 class="title">Entity page — current vs. proposed (above the fold)</h2>
+    <p class="desc">The entity page reached from a pin or a search result. Current: title → wall of prose, no hook, no image, map hidden in the sidebar. Proposed: a banner image, the blurb as an epigraph, and a glanceable stat strip — before a word of prose.</p>
+  </div>
+
+  <div class="ba">
+    <div>
+      <div class="cap now">Now</div>
+      <div class="app">
+        <div class="topbar">← Search the Codex</div>
+        <div style="background: linear-gradient(180deg, rgba(216,178,74,0.16), transparent); padding:1.3rem 1.2rem 1.1rem;">
+          <div class="smallcaps" style="margin-bottom:0.7rem;">Codex › Terrenia › Aal Salma</div>
+          <div style="display:flex; align-items:center; gap:0.85rem;">
+            <span class="seal sz-md at-civilization"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span>
+            <div><div class="h1" style="font-size:1.6rem;">Aal Salma</div><div class="smallcaps" style="margin-top:0.2rem;">◆ Region</div></div>
+          </div>
+          <div style="height:1px; background:linear-gradient(90deg,rgba(216,178,74,0.8),transparent); margin:0.9rem 0 0.7rem; max-width:24rem;"></div>
+          <span class="tagchip at-civilization">state</span> <span class="tagchip at-civilization">nation</span>
+        </div>
+        <div style="padding:1.1rem 1.2rem;">
+          <div class="prose" style="max-width:none;">An old and careful nation on Terrenia's northwestern coast, Aal Salma has survived centuries by trading with everyone and trusting no one. Its people are merchants, sailors, and cartographers—pragmatists who measure wealth in ships and alliances in contracts…</div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="cap next">Proposed</div>
+      <div class="app">
+        <div class="topbar">← Search the Codex</div>
+        <div class="flourish-band" style="background: linear-gradient(180deg, rgba(216,178,74,0.18) 0%, rgba(216,178,74,0.05) 48%, transparent 100%); padding:1.1rem 1.2rem 1.2rem;">
+          <div class="smallcaps" style="margin-bottom:0.7rem;">Codex › Terrenia › Aal Salma</div>
+          <div style="display:flex; gap:1rem; align-items:center;">
+            <div class="mapcrop" style="width:130px; height:90px; flex-shrink:0;"><svg class="terrain" viewBox="0 0 130 90" preserveAspectRatio="none"><g stroke="rgba(216,178,74,0.4)" fill="none"><path d="M0 58 Q34 48 66 54 T130 48"/></g></svg><span class="pin" style="left:46%;top:54%;"></span></div>
+            <div style="min-width:0;">
+              <div style="display:flex; align-items:center; gap:0.6rem;"><span class="seal sz-sm at-civilization"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span><div class="h1" style="font-size:1.6rem;">Aal Salma</div></div>
+              <div class="smallcaps" style="margin-top:0.25rem;">◆ Region · Terrenia</div>
+              <div class="epigraph" style="font-size:0.95rem; margin-top:0.4rem;">“An old and careful nation that survives by trading with everyone and trusting no one.”</div>
+            </div>
+          </div>
+          <div class="glance" style="margin:0.9rem 0 0.2rem;">
+            <div class="g"><span class="gl">Type</span><span class="gv">Region</span></div>
+            <div class="g"><span class="gl">Within</span><span class="gv">Terrenia</span></div>
+            <div class="g"><span class="gl">Contains</span><span class="gv">16 places</span></div>
+            <div class="g"><span class="gl">Borders</span><span class="gv">3 realms</span></div>
+            <div class="g"><span class="gl">People</span><span class="gv">Human · Trollkin</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════ ENTITY PROPOSED (full) ═══ -->
+<section class="section alt" id="entity">
+  <div class="head">
+    <span class="tag rec">Proposed entity page · full fidelity</span>
+    <h2 class="title">The full entry — hero, reading column, infobox</h2>
+    <p class="desc">With images abundant, the hero becomes a full-bleed art banner with the title overlaid, and a scene image is embedded mid-prose. The infobox (your strongest existing element) keeps the "where in the world" map crop as a complement. Three image roles in one page: hero banner, in-prose scene, portrait (reused on cards & the map pin).</p>
+  </div>
+
+  <div class="app">
+    <div class="titlebar"><i class="r"></i><i class="y"></i><i class="g"></i><span class="url">localhost:3001/codex/1395</span></div>
+    <div class="topbar">← Search the Codex</div>
+
+    <!-- hero — full-bleed art banner, title overlaid -->
+    <div class="plate at-civilization flourish-band" style="height:280px; border-radius:0; border-left:none; border-right:none;">
+      <svg class="glyph" width="120" height="120" viewBox="0 0 24 24" style="position:absolute; right:8%; top:16%; opacity:0.13;"><use href="#i-map"/></svg>
+      <svg class="glyph" width="70" height="70" viewBox="0 0 24 24" style="position:absolute; left:9%; top:24%; opacity:0.1;"><use href="#i-castle"/></svg>
+      <div style="position:absolute; top:0.6rem; right:0.8rem; z-index:4; font-family:ui-monospace,monospace; font-size:0.58rem; color:rgba(232,224,208,0.6); background:rgba(15,13,10,0.5); padding:0.2rem 0.45rem; border-radius:0.25rem;">hero art · establishing vista · 1 of 3</div>
+      <div style="position:absolute; top:0; left:0; right:0; z-index:3; padding:0.9rem 1.6rem;">
+        <div class="smallcaps" style="text-shadow:0 1px 6px rgba(0,0,0,0.9);">Codex › Terrenia › Aal Salma</div>
+      </div>
+      <div style="position:absolute; bottom:0; left:0; right:0; z-index:3; padding:1.5rem 1.6rem 1.3rem; background:linear-gradient(transparent, rgba(15,13,10,0.55) 35%, rgba(15,13,10,0.9));">
+        <div style="display:flex; align-items:center; gap:0.8rem;">
+          <span class="seal sz-md at-civilization"><svg viewBox="0 0 24 24"><use href="#i-map"/></svg></span>
+          <div><div class="h1" style="font-size:2.2rem; text-shadow:0 2px 16px rgba(0,0,0,0.95);">Aal Salma</div><div class="smallcaps" style="margin-top:0.2rem;">◆ Region · part of Terrenia</div></div>
+        </div>
+        <div class="epigraph" style="margin-top:0.5rem; text-shadow:0 1px 10px rgba(0,0,0,0.95);">“An old and careful nation that survives by trading with everyone and trusting no one.”</div>
+        <div style="margin-top:0.65rem;"><span class="tagchip at-civilization">state</span> <span class="tagchip at-civilization">nation</span> <span class="tagchip at-civilization">coastal</span> <span class="tagchip at-civilization">mercantile</span></div>
+      </div>
+    </div>
+    <!-- glance strip -->
+    <div style="padding:0 1.6rem; background:linear-gradient(180deg, rgba(216,178,74,0.07), transparent);">
+      <div class="glance">
+        <div class="g"><span class="gl">Type</span><span class="gv">Region</span></div>
+        <div class="g"><span class="gl">Within</span><span class="gv">Terrenia</span></div>
+        <div class="g"><span class="gl">Capital</span><span class="gv">Hillat Abu Hizam</span></div>
+        <div class="g"><span class="gl">Contains</span><span class="gv">16 places</span></div>
+        <div class="g"><span class="gl">Borders</span><span class="gv">3 realms</span></div>
+        <div class="g"><span class="gl">Peoples</span><span class="gv">Human · Trollkin</span></div>
+      </div>
+    </div>
+
+    <!-- body + infobox -->
+    <div style="padding:1.6rem 1.6rem 2rem;">
+      <div class="entity-grid">
+        <div>
+          <div class="prose dropcap measure">
+            <p>An old and careful nation on Terrenia's northwestern coast, Aal Salma has survived centuries by trading with everyone and trusting no one. Its people are merchants, sailors, and cartographers — pragmatists who measure wealth in ships and alliances in contracts rather than in blood or banners.</p>
+            <div class="pull">“Wealth in ships, alliances in contracts — never in blood.”</div>
+            <p>Where the Ashen Hills meet the Bonecrunch range, the old caravan roads still carry salt and silver inland, and the harbor at Hillat Abu Hizam has not closed its gates in three generations.</p>
+            <figure style="margin:1.5rem 0;">
+              <div class="plate at-civilization" style="height:190px;"><svg class="glyph" width="46" height="46" viewBox="0 0 24 24"><use href="#i-castle"/></svg><div class="cap">scene · the harbor at Hillat Abu Hizam · 2 of 3</div></div>
+              <figcaption style="font-family:var(--serif); font-style:italic; font-size:0.85rem; color:var(--ink-muted); margin-top:0.45rem; text-align:center;">The harbor has not closed its gates in three generations.</figcaption>
+            </figure>
+            <div class="divider-fleuron" style="margin:1.4rem 0;"><span class="ln"></span><span style="color:var(--gold)">❧</span><span class="ln r"></span></div>
+            <p>To its neighbors Aal Salma is a riddle: too small to threaten, too useful to conquer, too well-connected to ignore…</p>
+          </div>
+        </div>
+        <aside>
+          <div class="infobox at-civilization">
+            <div class="accent"></div>
+            <div class="ib">
+              <div style="display:flex; align-items:center; gap:0.55rem; padding-bottom:0.7rem; border-bottom:1px solid var(--border); margin-bottom:0.7rem;">
+                <div class="plate at-civilization" style="width:34px; height:34px; border-radius:50%; border-color:var(--gold-muted);"><svg width="15" height="15" viewBox="0 0 24 24" style="opacity:0.7;color:rgba(var(--at-civilization),1)"><use href="#i-map"/></svg></div>
+                <div><div class="kicker" style="color:var(--ink); font-size:0.9rem;">Aal Salma</div><div class="smallcaps" style="font-size:0.58rem;">Region · portrait (3 of 3)</div></div>
+              </div>
+              <div style="margin-bottom:0.85rem;">
+                <div class="smallcaps" style="font-size:0.56rem; margin-bottom:0.35rem;">Where in the world</div>
+                <div class="mapcrop" style="height:120px;"><svg class="terrain" viewBox="0 0 260 120" preserveAspectRatio="none"><g stroke="rgba(216,178,74,0.35)" fill="none"><path d="M0 78 Q60 66 120 72 T260 64"/><path d="M0 96 Q70 86 140 92 T260 86"/></g></svg><span class="pin" style="left:46%;top:54%;"></span><div class="cap">Hillat Abu Hizam ★ · click to open the full map</div></div>
+              </div>
+              <dl style="margin:0;">
+                <div class="fact"><dt>Type</dt><dd>Region</dd></div>
+                <div class="fact"><dt>Within</dt><dd style="color:var(--gold)">Terrenia</dd></div>
+                <div class="fact"><dt>Contains</dt><dd>16 places</dd></div>
+              </dl>
+              <div class="rgrp">
+                <h4>Journey to — borders</h4>
+                <div style="display:flex; flex-wrap:wrap; gap:0.35rem;">
+                  <span class="chip at-civilization">Windor</span><span class="chip at-civilization">Poum Titch</span><span class="chip at-civilization">Chaal Nazzerox</span>
+                </div>
+              </div>
+              <div class="rgrp">
+                <h4>Capital</h4>
+                <div style="display:flex; flex-wrap:wrap; gap:0.35rem;"><span class="chip at-civilization">Hillat Abu Hizam</span></div>
+              </div>
+              <div class="rgrp">
+                <h4>Peoples</h4>
+                <div style="display:flex; flex-wrap:wrap; gap:0.35rem;"><span class="chip at-civilization">Human</span><span class="chip at-civilization">Trollkin</span></div>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+  <div class="callout good"><span class="lbl">What changed, and why</span><b>Full-bleed hero art</b> (role 1) gives the page instant presence; the title sits over it. <b>In-prose scene</b> (role 2) breaks the text and shows a moment. <b>Portrait</b> (role 3) anchors the infobox and is reused on cards & map pins. <b>Blurb → epigraph</b>, <b>glance strip</b>, and <b>tighter measure + pull-quote + fleuron</b> carry the reading experience. The <b>map crop</b> stays as the "where in the world" complement, and <b>"Journey to"</b> reframes relations as travel.</div>
+</section>
+
+<!-- ═══════════════════════════════════════════ MOOD SYSTEM ═══ -->
+<section class="section" id="moods">
+  <div class="head">
+    <span class="tag rec">Make the invisible visible</span>
+    <h2 class="title">The same hero, three atmospheres</h2>
+    <p class="desc">The 9-mood system already exists in the data — it just barely shows. Pushed from "faint seal tint" to "accent that colors the whole band, spine, and chips," each entry telegraphs its mood at a glance. Here's one hero treatment across three moods.</p>
+  </div>
+
+  <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:0.85rem;">
+    <!-- sacred -->
+    <div class="app" style="border:1px solid var(--line); border-radius:0.5rem; overflow:hidden;">
+      <div class="flourish-band at-sacred" style="background: linear-gradient(180deg, rgba(var(--at-sacred),0.2), transparent); padding:1rem;">
+        <div class="smallcaps">Codex › Cosmology › Belagria</div>
+        <div style="display:flex; align-items:center; gap:0.6rem; margin-top:0.6rem;"><span class="seal sz-md at-sacred"><svg viewBox="0 0 24 24"><use href="#i-orbit"/></svg></span><div><div class="h1" style="font-size:1.2rem;">Belagria</div><div class="smallcaps" style="font-size:0.58rem;">Plane · Sacred</div></div></div>
+        <div style="height:1px; background:linear-gradient(90deg,rgba(var(--at-sacred),1),transparent); margin:0.7rem 0;"></div>
+        <span class="tagchip at-sacred">material plane</span> <span class="tagchip at-sacred">divine</span>
+      </div>
+    </div>
+    <!-- cursed -->
+    <div class="app" style="border:1px solid var(--line); border-radius:0.5rem; overflow:hidden;">
+      <div class="flourish-band at-cursed" style="background: linear-gradient(180deg, rgba(var(--at-cursed),0.22), transparent); padding:1rem;">
+        <div class="smallcaps">Codex › Geography › Lurza</div>
+        <div style="display:flex; align-items:center; gap:0.6rem; margin-top:0.6rem;"><span class="seal sz-md at-cursed"><svg viewBox="0 0 24 24"><use href="#i-landmark"/></svg></span><div><div class="h1" style="font-size:1.2rem;">Lurza</div><div class="smallcaps" style="font-size:0.58rem;">Ruin · Cursed</div></div></div>
+        <div style="height:1px; background:linear-gradient(90deg,rgba(var(--at-cursed),1),transparent); margin:0.7rem 0;"></div>
+        <span class="tagchip at-cursed">ruins</span> <span class="tagchip at-cursed">cursed</span>
+      </div>
+    </div>
+    <!-- dangerous -->
+    <div class="app" style="border:1px solid var(--line); border-radius:0.5rem; overflow:hidden;">
+      <div class="flourish-band at-dangerous" style="background: linear-gradient(180deg, rgba(var(--at-dangerous),0.2), transparent); padding:1rem;">
+        <div class="smallcaps">Codex › Personae › Draphilir</div>
+        <div style="display:flex; align-items:center; gap:0.6rem; margin-top:0.6rem;"><span class="seal sz-md at-dangerous"><svg viewBox="0 0 24 24"><use href="#i-flame"/></svg></span><div><div class="h1" style="font-size:1.2rem;">Draphilir</div><div class="smallcaps" style="font-size:0.58rem;">Dragon · Perilous</div></div></div>
+        <div style="height:1px; background:linear-gradient(90deg,rgba(var(--at-dangerous),1),transparent); margin:0.7rem 0;"></div>
+        <span class="tagchip at-dangerous">dragon</span> <span class="tagchip at-dangerous">beastlands</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="swatches">
+    <span class="sw"><i style="background:rgb(216,178,74)"></i>Civilization</span>
+    <span class="sw"><i style="background:rgb(169,136,214)"></i>Sacred</span>
+    <span class="sw"><i style="background:rgb(140,107,176)"></i>Cursed</span>
+    <span class="sw"><i style="background:rgb(179,169,143)"></i>Ancient</span>
+    <span class="sw"><i style="background:rgb(208,106,90)"></i>Perilous</span>
+    <span class="sw"><i style="background:rgb(210,168,120)"></i>Trade</span>
+    <span class="sw"><i style="background:rgb(111,174,126)"></i>Wilds</span>
+    <span class="sw"><i style="background:rgb(95,180,198)"></i>Waters</span>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════ IMAGE STRATEGY ═══ -->
+<section class="section alt" id="images">
+  <div class="head">
+    <span class="tag trade">Your question, re-answered for abundance</span>
+    <h2 class="title">Three images per entity — a role system, not three random pictures</h2>
+    <p class="desc">With ~1,000 free generations/day, every entity can have 3 images. The discipline shifts from "which entities get art" to "what role each image plays." Three fixed roles, generated from one locked style + per-type framing. Same <code>id</code> + role → same seed → stable image.</p>
+  </div>
+
+  <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:0.85rem; margin-bottom:1.2rem;">
+    <div style="border:1px solid var(--line); border-radius:0.6rem; overflow:hidden; background:#fff;">
+      <div class="app" style="padding:0.8rem;"><div class="plate at-civilization" style="height:90px;"><svg class="glyph" width="36" height="36" viewBox="0 0 24 24"><use href="#i-map"/></svg></div></div>
+      <div style="padding:0.7rem 0.85rem 0.95rem;"><div style="font-weight:600; font-size:0.85rem;">Role 1 — Hero (3:1)</div><div style="font-size:0.75rem; color:var(--muted); margin-top:0.2rem;">Wide establishing banner. Masthead of the entity page; featured slot on the landing. Place→vista, person→portrait, faction→heraldry.</div></div>
+    </div>
+    <div style="border:1px solid var(--line); border-radius:0.6rem; overflow:hidden; background:#fff;">
+      <div class="app" style="padding:0.8rem; display:flex; justify-content:center;"><div class="plate at-civilization" style="height:90px; width:90px;"><svg class="glyph" width="34" height="34" viewBox="0 0 24 24"><use href="#i-user"/></svg></div></div>
+      <div style="padding:0.7rem 0.85rem 0.95rem;"><div style="font-weight:600; font-size:0.85rem;">Role 2 — Portrait (1:1)</div><div style="font-size:0.75rem; color:var(--muted); margin-top:0.2rem;">The "face." Search rows, cards, map-pin popovers, infobox header. <b>Every</b> entry gets one — the workhorse image.</div></div>
+    </div>
+    <div style="border:1px solid var(--line); border-radius:0.6rem; overflow:hidden; background:#fff;">
+      <div class="app" style="padding:0.8rem;"><div class="plate at-civilization" style="height:90px;"><svg class="glyph" width="34" height="34" viewBox="0 0 24 24"><use href="#i-castle"/></svg></div></div>
+      <div style="padding:0.7rem 0.85rem 0.95rem;"><div style="font-weight:600; font-size:0.85rem;">Role 3 — Scene (4:3)</div><div style="font-size:0.75rem; color:var(--muted); margin-top:0.2rem;">A <i>moment</i>, not a portrait — the deed, the harbor, the rite, the habitat. Embedded mid-prose as an illustrated figure with caption.</div></div>
+    </div>
+  </div>
+
+  <div class="callout note"><span class="lbl">The locked style — matters MORE at volume (~11,000 images)</span>Aged hand-illustrated folio plate · sepia &amp; muted earth palette · ink-and-wash with restrained gouache · soft vignette, faintly foxed paper · <b>no text, no border, no modern elements</b> · natural-history engraving, not vivid digital fantasy. Prompt = <code>[locked style] + [role framing] + [subject framing for entityType] + [atmosphere palette modifier] + [per-entity identity descriptor] + [name + key nouns]</code>. You can't hand-check 11k images — the template <i>is</i> the quality control.</div>
+
+  <div class="callout note"><span class="lbl">Per-entity identity lock — so the 3 images cohere</span>Three images of Gaea must look like the <i>same</i> Gaea. Derive one appearance descriptor per entity (from its prose/tags), store it, and reuse it across all three roles — vary only role + framing, keep a stable per-entity seed. Without this, abundance produces three strangers.</div>
+
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin-top:1rem;">
+    <div>
+      <div class="statelabel">Subject framing by entityType</div>
+      <table class="cmp"><tbody>
+        <tr><td class="crit">region / water</td><td>landscape vista</td></tr>
+        <tr><td class="crit">city / fortress / ruins</td><td>architectural view</td></tr>
+        <tr><td class="crit">deity</td><td>iconographic idol</td></tr>
+        <tr><td class="crit">race</td><td>ethnographic figure study</td></tr>
+        <tr><td class="crit">creature</td><td>naturalist specimen plate</td></tr>
+        <tr><td class="crit">artifact</td><td>object study on cloth</td></tr>
+        <tr><td class="crit">plane</td><td>abstract cosmological scene</td></tr>
+        <tr><td class="crit">faction / nation</td><td>heraldic crest + banner</td></tr>
+        <tr><td class="crit">era / event</td><td>narrative tableau</td></tr>
+      </tbody></table>
+    </div>
+    <div>
+      <div class="statelabel">Atmosphere → palette / lighting modifier</div>
+      <table class="cmp"><tbody>
+        <tr><td class="crit">sacred</td><td>warm gold light, haloed</td></tr>
+        <tr><td class="crit">cursed</td><td>desaturated green-black</td></tr>
+        <tr><td class="crit">perilous</td><td>red-amber, high contrast</td></tr>
+        <tr><td class="crit">ancient</td><td>faded ochre, worn</td></tr>
+        <tr><td class="crit">waters</td><td>cool teal wash</td></tr>
+        <tr><td class="crit">wilds</td><td>mossy green, overgrown</td></tr>
+        <tr><td class="crit">trade</td><td>warm, busy, lantern-lit</td></tr>
+        <tr><td class="crit">civilization</td><td>neutral warm daylight</td></tr>
+      </tbody></table>
+    </div>
+  </div>
+
+  <div class="callout warn"><span class="lbl">The new risks abundance introduces — plan for them</span><b>Slop at scale:</b> 11k cheap gens look like 11k artists unless the style lock holds — enforce it in the template, not by hand. <b>Duds:</b> volume produces garbage (extra limbs, garbled text); keep the generative sigil + map crop as automatic fallbacks and a deterministic "regenerate just the bad ones" loop. <b>Performance:</b> 11k images need webp/avif, responsive <code>srcset</code>, lazy loading, and a CDN — reuse the R2 bucket you already run for map tiles.</div>
+  <div class="callout good"><span class="lbl">Sequencing still holds</span>Ship the structural wins first (they stand without art and give graceful no-image states). Then run the pipeline: lock the style on ~20 hand-checked samples → generate portraits first (the workhorse, every entry) → then heroes → then scenes. Each role backfills as progressive enhancement.</div>
+</section>
+
+<!-- ═══════════════════════════════════════════ COMPARE ═══ -->
+<section class="section" id="compare">
+  <div class="head">
+    <span class="tag rec">Decision aid</span>
+    <h2 class="title">Current vs. proposed, by criterion</h2>
+    <p class="desc">A scan-table of what changes. The "structure" column ships without art; the "imagery" column shows what the 3-image roles add on top.</p>
+  </div>
+  <table class="cmp">
+    <thead><tr><th>Criterion</th><th>Current</th><th>Proposed (structure)</th><th>Imagery adds</th></tr></thead>
+    <tbody>
+      <tr><td class="crit">Landing first impression</td><td class="now">Flat alphabetical list</td><td class="next">Doorway + curated ways in</td><td>Featured hero art</td></tr>
+      <tr><td class="crit">Weight hierarchy</td><td class="now">Invisible — all rows equal</td><td class="next">Row size by weight</td><td>Portrait on every row</td></tr>
+      <tr><td class="crit">Atmosphere / mood</td><td class="now">Faint seal tint only</td><td class="next">Accent band, spine, chips, tiles</td><td>Palette-matched art</td></tr>
+      <tr><td class="crit">Map presence in codex</td><td class="now">Hidden in sidebar minimap</td><td class="next">"Where in the world" panel</td><td>Map crop + hero art</td></tr>
+      <tr><td class="crit">Entity hook</td><td class="now">Title → wall of prose</td><td class="next">Blurb epigraph + glance strip</td><td>Full-bleed hero banner</td></tr>
+      <tr><td class="crit">Reading column</td><td class="now">Wide low-contrast brown text</td><td class="next">Tight measure, pull-quote, fleuron</td><td>In-prose scene figure</td></tr>
+      <tr><td class="crit">Serendipity / browsing</td><td class="now">Search only</td><td class="next">Wander + Begin + Browse realms</td><td>Visual card mosaic</td></tr>
+      <tr><td class="crit">Visual identity per entry</td><td class="now">Identical gold glyph</td><td class="next">Seal + atmosphere</td><td>3 images / entity</td></tr>
+    </tbody>
+  </table>
+  <div class="callout good" style="margin-top:1.2rem;"><span class="lbl">Bottom line</span>The structure stands on its own and ships first. Images — now abundant — turn it from "good" to "immersive": a face on every row, a banner on every page, a scene in every article. The win is sequencing, not either/or: <b>structure now, images as a parallel pipeline (portraits → heroes → scenes).</b></div>
+</section>
+
+</div>
+
+<script>
+// highlight current nav section
+const links = [...document.querySelectorAll('.nav a')];
+const map = new Map(links.map(a => [a.getAttribute('href').slice(1), a]));
+const obs = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      links.forEach(l => l.classList.remove('active'));
+      const a = map.get(e.target.id);
+      if (a) a.classList.add('active');
+    }
+  });
+}, { rootMargin: '-20% 0px -70% 0px' });
+document.querySelectorAll('section[id]').forEach(s => obs.observe(s));
+</script>
+
+</body>
+</html>
