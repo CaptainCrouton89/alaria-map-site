@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Clueanda.md#L3159", "all_sections_formatted/Cl
 relations:
   - { rel: spatial, kind: borders, target: "477", note: "W" }
   - { rel: spatial, kind: borders, target: "411", note: "S (Breidleheis basin lies north of Adron, between Camaran and Adron)" }
-  - { rel: spatial, kind: within, target: "477" }
+  - { rel: spatial, kind: within, target: "9000" }
   - { rel: polity, kind: ruledBy, target: "person-filgerran-ii", note: "king from Gülheim; authority ceremonial, more arbiter than sovereign" }
   - { rel: culture, kind: inhabitedBy, target: "race-giant-guli" }
 review:

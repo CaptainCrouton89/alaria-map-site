@@ -9,7 +9,7 @@ tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L657"]
 relations:
   - { rel: spatial, kind: borders, target: "884", note: "Echea occupies the mountainous tip of the Watar peninsula; vetoed from the Aldriktch alliance by Camaran" }
-  - { rel: spatial, kind: within, target: "884" }
+  - { rel: spatial, kind: within, target: "9000" }
   - { rel: culture, kind: inhabitedBy, target: "race-gnome-echi" }
 review:
   aiWritten: true

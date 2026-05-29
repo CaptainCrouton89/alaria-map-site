@@ -11,7 +11,6 @@ relations:
   - { rel: spatial, kind: within, target: "2455" }
   - { rel: spatial, kind: borders, target: "2555", note: "west" }
   - { rel: spatial, kind: borders, target: "2530", note: "east" }
-  - { rel: spatial, kind: borders, target: "2604", note: "north" }
   - { rel: spatial, kind: borders, target: "2501", note: "northwest" }
   - { rel: spatial, kind: borders, target: "manual-mpha4gzt-vjyu9", note: "south (Tarkhon Passage)" }
   - { rel: spatial, kind: borders, target: "2488", note: "W" }

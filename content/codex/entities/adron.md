@@ -9,7 +9,6 @@ zoomLevel: 2
 tags: ["state", "nation"]
 sources: ["all_sections_formatted/Clueanda.md#L142"]
 relations:
-  - { rel: spatial, kind: borders, target: "416", note: "SW (islands off southwest coast, across the strait)" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: economy, kind: produces, target: "magic-red-gold" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-nagashi" }
@@ -21,6 +20,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Coherent, on-theme Naga-kingdom region body. Map-confirmed: easternmost state on Middle Sea (E coast), Gozwin Mtns E (pin 585), Shrieking Peaks S (pin 764). Drakespine (central N-S) and Majesty Mtns (NE) have NO pins yet; Gemecas POI also unpinned — missing-pin refs for reconciliation, not inflation."
+bannerPosition: "50% 6.9%"
+bannerHeight: 360
 ---
 Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges. For most of the early Seventh Dawn its Nagashi rode bonded war-dragons and warded the eastern sea from the air, the long age the rest of the coast named the Wyrmward. That age ended at the Severing, when the dragon-bonds were cut in a single night, and Adron now trades on banking, shipbuilding, and the red gold mined from its peaks. The climate is Mediterranean: warm coastlines, temperate forests in the valleys, snow-capped mountains along the horizon.
 

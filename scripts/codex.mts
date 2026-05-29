@@ -615,6 +615,13 @@ Checks
   capitalOfNonPolity     (error)   capitalOf edges whose target entityType is not region/nation/faction
   bothEndsDirected       (error)   directed edge kinds authored in both directions (violates one-direction-only discipline)
   worshipsTargetType     (error)   worships edges whose target is not a daemon or a titan-tagged creature
+  bordersWithinSameTarget(error)   a single entity declares BOTH a borders edge to Y AND a within edge to Y.
+                                   Containment and peer-adjacency are mutually exclusive; the offending edge is
+                                   local to that file. No legitimate geographic edge case exists.
+  containerBordersChild  (warning) X declares borders Y where Y is within X (a container bordering its own
+                                   contained region) — same invariant viewed from the container side. Warning,
+                                   not error: the fix needs per-region adjudication (drop the border vs. repoint
+                                   the child's within) and most live in out-of-scope periphery regions.
   bothEndsUndirected     (warning) undirected edge kinds (borders, separatedBy) authored on both ends — redundant but harmless
   orphansGeographic      (warning) geographic entities (region/town/city/water/wilderness/ruins/fortress/poi) with no within edge
   mentionScanCollisions  (warning) single-word entity names not in MENTION_SCAN_SKIP_NAMES with ≥ threshold cross-body
@@ -640,7 +647,7 @@ Flags
 
 Output (JSON)
   { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, worshipsTargetType,
-    bothEndsUndirected, orphansGeographic, mentionScanCollisions, parentRaceInhabitant, orphansNonGeographic }, limitations }
+    bordersWithinSameTarget, containerBordersChild, bothEndsUndirected, orphansGeographic, mentionScanCollisions, parentRaceInhabitant, orphansNonGeographic }, limitations }
 `);
 
   interface Finding { source: string; sourceName: string; kind: string; target?: string; detail: string }
@@ -871,8 +878,61 @@ Output (JSON)
     }
   }
 
-  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length + parentRaceFindings.length;
-  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length;
+  // Check 8 — borders+within contradiction (agent-075 adjudication, 2026-05-29)
+  // Containment (`within`) and peer-adjacency (`borders`) are mutually exclusive: if A is within B,
+  // B's boundary IS the outer edge of A's space — there is no separate peer frontier between them.
+  // A `borders` edge between two entities in a direct containment relationship is therefore invalid.
+  // Two directions, two severities:
+  //   (a) bordersWithinSameTarget (ERROR) — a single entity declares BOTH `borders` Y AND `within` Y.
+  //       Always an authoring error in that one file; the offending edge is local and fixable. This is
+  //       the ratified case (agent-075: "always a contradiction → error").
+  //   (b) containerBordersChild (WARNING) — X declares `borders` Y where Y declares `within` X. The
+  //       spurious edge lives on the CONTAINER and the case usually needs the same per-region geographic
+  //       adjudication (is the container's border edge stale, or is the child's `within` the wrong
+  //       container?). Surfaced as a tracked backlog rather than gating CI, since most live in
+  //       out-of-scope periphery regions and have not been individually adjudicated.
+  const containerOf = new Map<string, string>();
+  for (const e of entities) {
+    const w = withinTarget(e.data);
+    if (w !== null) containerOf.set(String(e.data.id), w);
+  }
+  const bordersWithinFindings: Finding[] = [];      // (a) error
+  const containerBordersChildFindings: Finding[] = []; // (b) warning
+  const cbcSeen = new Set<string>();
+  for (const e of entities) {
+    const rels = Array.isArray(e.data.relations) ? (e.data.relations as { rel?: string; kind?: string; target?: unknown }[]) : [];
+    const sid = String(e.data.id);
+    for (const r of rels) {
+      if (String(r.kind ?? r.rel ?? '') !== 'borders') continue;
+      if (r.target === undefined) continue;
+      const tid = String(r.target);
+      const tgt = index.get(tid);
+      const tgtName = tgt ? String(tgt.data.name ?? tid) : tid;
+      if (containerOf.get(sid) === tid) {            // (a) X borders Y, X within Y — same file
+        bordersWithinFindings.push({
+          source: sid,
+          sourceName: String(e.data.name ?? e.file),
+          kind: 'borders',
+          target: tid,
+          detail: `borders ${tgtName} but is also 'within' it — containment and peer-adjacency are mutually exclusive`,
+        });
+      } else if (containerOf.get(tid) === sid) {     // (b) X borders Y, Y within X — container/child
+        const pairKey = [sid, tid].sort().join('|');
+        if (cbcSeen.has(pairKey)) continue;
+        cbcSeen.add(pairKey);
+        containerBordersChildFindings.push({
+          source: sid,
+          sourceName: String(e.data.name ?? e.file),
+          kind: 'borders',
+          target: tid,
+          detail: `borders ${tgtName} but ${tgtName} is 'within' this entity — a container cannot border its own contained region (adjudicate: drop the border, or repoint the child's within)`,
+        });
+      }
+    }
+  }
+
+  const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length + parentRaceFindings.length + bordersWithinFindings.length;
+  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length + containerBordersChildFindings.length;
 
   emit({
     ok: errors === 0,
@@ -883,6 +943,8 @@ Output (JSON)
       capitalOfNonPolity:    { severity: 'error',   count: capitalFindings.length,        findings: capitalFindings },
       bothEndsDirected:      { severity: 'error',   count: bothDirectedFindings.length,   findings: bothDirectedFindings },
       worshipsTargetType:    { severity: 'error',   count: worshipsTypeFindings.length,   findings: worshipsTypeFindings },
+      bordersWithinSameTarget:{ severity: 'error',  count: bordersWithinFindings.length,  findings: bordersWithinFindings },
+      containerBordersChild: { severity: 'warning', count: containerBordersChildFindings.length, findings: containerBordersChildFindings },
       bothEndsUndirected:    { severity: 'warning', count: bothUndirectedFindings.length, findings: bothUndirectedFindings },
       orphansGeographic:     { severity: 'warning', count: orphanGeoFindings.length,      findings: orphanGeoFindings },
       mentionScanCollisions: { severity: 'warning', count: mentionFindings.length,        findings: mentionFindings, threshold: hitsThreshold },

@@ -10,7 +10,6 @@ zoomLevel: 1
 tags: ["steppe", "plains", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L13", "all_sections_formatted/Rimihuica.md#L1139"]
 relations:
-  - { rel: spatial, kind: borders, target: "2555", note: "N" }
   - { rel: spatial, kind: within, target: "2453", note: "Featured region of Rimihuica per rimihuica page" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
   - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
