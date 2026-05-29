@@ -1,8 +1,9 @@
 ### Image generation style guide
 
 > **The first rule: specific, never generic.** Generic is the enemy of good. Every subject and every
-> caption must describe *this* entity in *this* world and no other — named places, named figures, the
-> world's own mechanics. If a sentence could sit under any fantasy picture, it has failed. (Enforced
+> caption must describe *this* entity in *this* world and no other — its specific places, figures, and
+> mechanics, described so the picture could be nothing else. (A subject *describes*; a caption *names* —
+> see the two sections below.) If a sentence could sit under any fantasy picture, it has failed. (Enforced
 > as a tripwire in `.claude/rules/image-authoring.md`.)
 
 Every codex image is an **oil painting of its subject**, generated from a **hand-written** description.
@@ -70,23 +71,41 @@ illustration still previews with real art. (Resolved once in `scripts/build-code
 
 ### Writing a good subject
 
-The subject is one or two sentences naming the thing and what's distinctive about it — what a painter
-would need to know to paint *this* entity and no other. Keep it concrete and visual; skip lore the eye
-can't see. Lead with the role framing so the composition is right:
+The subject is one or two sentences a painter could work from — concrete, visual, and true of *this*
+entity and no other. The locked STYLE and NEG already own *how it's painted* and what's banned; the
+subject owns only *what is in the frame*. Write it in five moves, each one earning its place for the
+reason given:
 
-- **banner (place):** `A sweeping establishing view of Enimogos, the shattered capital of the long-fallen Postronamas Empire at the heart of a vast desert: colossal broken columns and ruined domes half-swallowed by dunes, a hazy ochre sky.`
-- **banner (figure/concept):** `A wide dramatic scene of …` / `A symbolic tableau of …`
-- **illustration upright (figure):** `A full-body portrait of a representative Aciabro goblin: blood-powered cyborg, machine limbs and organs fed by vital essence, lit from a forge-glow.`
-- **illustration landscape (scene):** `A lone windswept moment on the Akratian Plateau where bare rock meets permanent sea ice: scoured grasses bent in the wind, pale cold daylight, a vast empty horizon.`
+1. **Open with the shot.** The first words fix the composition, so lead with them: `A sweeping aerial
+   establishing view of …` (a place / banner), `A wide dramatic scene of …` or `A symbolic tableau of
+   …` (a concept), `A full-body portrait of …` (a figure). Get this wrong and the framing fights the
+   rest of the sentence.
+2. **Describe the subject — do not name it.** A proper name means nothing to the model (it has never
+   seen "Enimogos"), adds no visual information, and routinely comes back painted in as a text label or
+   map title — which the NEG forbids and which forces a regenerate. Replace every proper noun with what
+   the thing *looks like*.
+3. **Anchor two to four distinctive details.** The specifics only this entity has — colossal broken
+   columns half-swallowed by dunes; the three-thousand-year glow still lit on a sunken hull. This is
+   where "specific, never generic" is won: a stand-in "desert ruin" is still banned, so make the
+   *description* unique even though the name is gone.
+4. **State the light and palette.** There is no automatic mood modifier — say it in the sentence. A
+   cursed ruin reads cold and desaturated; a sacred site warm and golden; an arctic sea pale and
+   colorless.
+5. **Frame positively, then stop.** Say what *is* in the picture, never what isn't — image models act
+   on the nouns you give them and largely ignore "no …" (the NEG owns exclusions, so adding more is
+   noise). Keep it to one or two sentences: stacking many named regions into one subject is exactly
+   what tips the model into drawing a labeled map.
 
-Fold palette/lighting cues into the sentence when the entity has a strong mood (a cursed ruin reads
-cold and desaturated; a sacred site reads warm and golden) rather than relying on any automatic
-modifier — there isn't one anymore.
+Worked examples (subject only — the script prepends STYLE and appends NEG):
 
-Prefer a **specific named entity** over a representative stand-in: paint Enimogos, not "a desert ruin";
-the Aciabro, not "cyborg goblins." On overview/atlas pages a representative image is sometimes
-unavoidable — then ground the subject in the page's actual named geography and mechanics, never in mood
-alone, and have the two body illustrations each depict a *named* thing from that domain.
+- **banner (place):** `A sweeping establishing view of a shattered desert capital: colossal broken columns and the stumps of ruined domes half-swallowed by dunes, a hazy ochre sky.`
+- **banner (concept):** `A wide dramatic scene of …` / `A symbolic tableau of …`
+- **illustration upright (figure):** `A full-body portrait of a goblin remade as a blood-powered cyborg: machine limbs and organs fed by vital essence through brass valves, lit by forge-glow.`
+- **illustration landscape (scene):** `A lone windswept moment where bare high-plateau rock meets permanent sea ice: scoured grasses bent in the wind, pale cold daylight, a vast empty horizon.`
+
+On overview/atlas pages a representative image is sometimes unavoidable — describe the page's actual
+geography and the world's mechanics in visual terms, never mood alone. (Captions are the opposite:
+human-facing HTML, never fed to the model, so they MUST name the thing — see Captions.)
 
 ---
 
