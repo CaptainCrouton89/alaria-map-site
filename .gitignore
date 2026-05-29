@@ -52,6 +52,9 @@ data/backups/
 
 # local map-shot renders / scratch
 tmp/
+# image-gen scratch: transient banner renders + pilot prompt lists
+.tmp-*
+tmp-*.json
 
 # Sisyphus
 .sisyphus
