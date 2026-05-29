@@ -6,7 +6,6 @@ import { useRouter } from 'next/navigation';
 import { Map, Shuffle, Search } from 'lucide-react';
 import type { SearchEntry } from '@/types/codex';
 import { CodexChrome } from '@/components/codex/CodexChrome';
-import { EntitySeal } from '@/components/codex/EntitySeal';
 import { EntityImage } from '@/components/codex/EntityImage';
 import { getAtmosphereVisual } from '@/lib/atmosphere';
 import { WEIGHT_RANK, categoryVisual, entryVisual, rankResults } from '@/lib/codex-search';
@@ -21,12 +20,6 @@ const OVERVIEW_ORDER = [
   'overview-personae', 'overview-artifacts',
 ];
 
-const CATEGORY_ICON_TYPE: Record<string, string> = {
-  geography: 'region', races: 'race', creatures: 'creature', factions: 'faction',
-  magic: 'magic', deities: 'deity', cosmology: 'plane', history: 'era',
-  personae: 'person', artifacts: 'artifact',
-};
-
 /** Portal subtitles for each overview category. */
 const CATEGORY_SUBTITLE: Record<string, string> = {
   geography: 'Realms, cities & wilds',
@@ -40,6 +33,21 @@ const CATEGORY_SUBTITLE: Record<string, string> = {
   personae: 'Figures of note',
   artifacts: 'Relics of power',
 };
+
+// Authored cosmic banner for the codex landing hero — a hand-written 16:9 oil
+// painting of Bryn, Alaria's awakened sun (not a rotating entity crop).
+const BRYN_CAPTION =
+  'Bryn, the waking sun — its path across Alaria is sung by the dawn-choirs, not fixed';
+
+// Bryn won the A/B; these are sun-corrected variations (the earlier set read as a
+// haloed planet). scene = aerial floating world + warm/cold duality · sky = calm
+// atmospheric vista · rite = dawn-choir at a sun-monastery. Temporary — collapse
+// to a single constant once one wins.
+const LANDING_BANNERS = [
+  { key: 'scene', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-scene/banner.webp' },
+  { key: 'sky', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-sky/banner.webp' },
+  { key: 'rite', url: 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-rite/banner.webp' },
+] as const;
 
 // ─── sub-components ──────────────────────────────────────────────────────────
 
@@ -111,91 +119,135 @@ function ResultRow({ entry }: { entry: SearchEntry }) {
   );
 }
 
+/**
+ * Shared hover behaviour for the landing's image cards: lift, tighten the
+ * atmosphere-tinted border, and cast a hue-matched glow. Restored on leave.
+ */
+function cardHover(r: number, g: number, b: number) {
+  return {
+    onMouseEnter: (e: React.MouseEvent<HTMLElement>) => {
+      const el = e.currentTarget;
+      el.style.borderColor = `rgba(${r},${g},${b},0.95)`;
+      el.style.transform = 'translateY(-3px)';
+      el.style.boxShadow = `0 12px 28px -10px rgba(${r},${g},${b},0.5)`;
+    },
+    onMouseLeave: (e: React.MouseEvent<HTMLElement>) => {
+      const el = e.currentTarget;
+      el.style.borderColor = `rgba(${r},${g},${b},0.38)`;
+      el.style.transform = 'translateY(0)';
+      el.style.boxShadow = 'none';
+    },
+  };
+}
+
+/** Bottom-anchored title + accent eyebrow, overlaid on a card's cover image. */
+function CardCaption({
+  title, eyebrow, accent, big = false,
+}: { title: string; eyebrow: string; accent: string; big?: boolean }) {
+  return (
+    <div className="absolute bottom-0 left-0 right-0" style={{ padding: big ? '0.7rem 0.8rem' : '0.6rem 0.7rem' }}>
+      <div
+        className="font-display leading-tight"
+        style={{ fontSize: big ? '1.12rem' : '0.97rem', color: 'var(--ink)', textShadow: '0 2px 10px rgba(0,0,0,0.95)' }}
+      >
+        {title}
+      </div>
+      <div
+        className="mt-0.5"
+        style={{ fontSize: big ? '0.61rem' : '0.6rem', textTransform: 'uppercase', letterSpacing: '0.11em', color: accent, textShadow: '0 1px 6px rgba(0,0,0,0.95)' }}
+      >
+        {eyebrow}
+      </div>
+    </div>
+  );
+}
+
+// Gradient that seats the caption against the cover so text always reads.
+const COVER_SCRIM = 'linear-gradient(180deg, rgba(15,13,10,0) 30%, rgba(15,13,10,0.5) 64%, rgba(15,13,10,0.93) 100%)';
+
+/**
+ * Cornerstone feature card. Shows the entry's banner when one exists; these
+ * marquee entries have no art yet, so the fallback is *designed* atmospheric
+ * cover art (hue wash + radial glow + corner flourishes) rather than a flat
+ * sigil — it reads as intentional, not broken. Title overlays the cover; the
+ * blurb sits beneath.
+ */
 function FeatureCard({ entry }: { entry: SearchEntry }) {
   const visual = entryVisual(entry);
   const [r, g, b] = visual.rgb;
+  const eyebrow = `${entry.entityType}${visual.label ? ` · ${visual.label}` : ''}`;
+
   return (
     <Link
       href={`/codex/${entry.id}`}
       className="group block overflow-hidden rounded-[0.55rem] border transition-all"
-      style={{
-        borderColor: 'var(--border)',
-        background: `linear-gradient(180deg, rgba(${r},${g},${b},0.08), rgba(44,36,22,0.5)), var(--parchment-light)`,
-      }}
-      onMouseEnter={(e) => {
-        (e.currentTarget as HTMLElement).style.borderColor = `rgba(${r},${g},${b},0.7)`;
-        (e.currentTarget as HTMLElement).style.transform = 'translateY(-2px)';
-      }}
-      onMouseLeave={(e) => {
-        (e.currentTarget as HTMLElement).style.borderColor = 'var(--border)';
-        (e.currentTarget as HTMLElement).style.transform = 'translateY(0)';
-      }}
+      style={{ borderColor: `rgba(${r},${g},${b},0.38)`, background: 'var(--parchment-light)' }}
+      {...cardHover(r, g, b)}
     >
-      {/* accent bar */}
-      <div style={{ height: 3, background: `linear-gradient(90deg, rgba(${r},${g},${b},1), rgba(${r},${g},${b},0.15))` }} />
-      {/* banner image */}
-      <div style={{ height: 116 }}>
-        <EntityImage
-          src={entry.banner}
-          entry={{ id: entry.id, name: entry.name, entityType: entry.entityType, tags: [] }}
-          visual={visual}
-          aspect="16 / 9"
-        />
-      </div>
-      {/* body */}
-      <div style={{ padding: '0.7rem 0.85rem 0.95rem' }}>
-        <div className="flex items-center gap-2">
-          <EntitySeal entry={{ entityType: entry.entityType, tags: [] }} visual={visual} size="sm" />
-          <span className="font-display text-[1.05rem]" style={{ color: 'var(--ink)' }}>{entry.name}</span>
-        </div>
-        <div className="text-[0.62rem] uppercase tracking-[0.12em] mt-1 mb-1.5" style={{ color: 'var(--ink-muted)' }}>
-          {entry.entityType} · {visual.label ? visual.label : entry.weight}
-        </div>
-        {entry.blurb && (
-          <div className="text-[0.82rem] leading-[1.45]" style={{ color: 'var(--ink-muted)' }}>
-            {entry.blurb}
+      {/* cover */}
+      <div className="relative overflow-hidden" style={{ height: 150 }}>
+        {entry.banner ? (
+          <EntityImage
+            src={entry.banner}
+            entry={{ id: entry.id, name: entry.name, entityType: entry.entityType, tags: [] }}
+            visual={visual}
+            objectPosition="50% 40%"
+            className="w-full h-full transition-transform duration-[650ms] ease-out group-hover:scale-[1.06]"
+          />
+        ) : (
+          <div className="absolute inset-0" aria-hidden>
+            <div className="absolute inset-0" style={{ background: `linear-gradient(135deg, rgba(${r},${g},${b},0.24), rgba(15,13,10,0.9) 78%)` }} />
+            <div className="absolute inset-0" style={{ background: `radial-gradient(95% 130% at 82% -12%, rgba(${r},${g},${b},0.34), transparent 60%)` }} />
+            <div className="absolute inset-0" style={{ background: `repeating-linear-gradient(118deg, transparent 0 16px, rgba(${r},${g},${b},0.05) 16px 17px)` }} />
+            <span style={{ position: 'absolute', top: 10, left: 10, width: '1.7rem', height: '1.7rem', borderTop: `1px solid rgba(${r},${g},${b},0.55)`, borderLeft: `1px solid rgba(${r},${g},${b},0.55)` }} />
+            <span style={{ position: 'absolute', bottom: 10, right: 10, width: '1.7rem', height: '1.7rem', borderBottom: `1px solid rgba(${r},${g},${b},0.55)`, borderRight: `1px solid rgba(${r},${g},${b},0.55)` }} />
           </div>
         )}
+        <div className="absolute top-0 left-0 right-0" style={{ height: 3, background: `linear-gradient(90deg, rgba(${r},${g},${b},1), rgba(${r},${g},${b},0.1))`, zIndex: 2 }} />
+        <div className="pointer-events-none absolute inset-0" style={{ background: COVER_SCRIM }} />
+        <CardCaption title={entry.name} eyebrow={eyebrow} accent={`rgba(${r},${g},${b},0.95)`} big />
       </div>
+      {/* body */}
+      {entry.blurb && (
+        <div style={{ padding: '0.65rem 0.8rem 0.85rem' }}>
+          <div className="text-[0.84rem] leading-[1.5]" style={{ color: 'var(--ink-muted)' }}>{entry.blurb}</div>
+        </div>
+      )}
     </Link>
   );
 }
 
-function PortalTile({ overview }: { overview: SearchEntry }) {
+/**
+ * One of the ten "realms of lore" — a banner cover card. Every overview entity
+ * has a 16:9 banner, cropped to a 4:3 tile with the realm name + subtitle
+ * overlaid. Hover zooms the art and lights the atmosphere-hued border.
+ */
+function RealmCard({ overview }: { overview: SearchEntry }) {
   const category = overview.category;
   const visual = categoryVisual(category);
   const [r, g, b] = visual.rgb;
-  const iconType = CATEGORY_ICON_TYPE[category];
-  if (!iconType) throw new Error(`No icon type for category: ${category}`);
   const subtitle = CATEGORY_SUBTITLE[category];
   if (subtitle === undefined) throw new Error(`No subtitle for category: ${category}`);
 
   return (
     <Link
       href={`/codex/${overview.id}`}
-      className="group flex flex-col gap-2 rounded-[0.5rem] border transition-all cursor-pointer"
-      style={{
-        border: `1px solid rgba(${r},${g},${b},0.4)`,
-        background: `linear-gradient(180deg, rgba(${r},${g},${b},0.14), rgba(${r},${g},${b},0.03))`,
-        padding: '0.85rem 0.7rem',
-        minHeight: '6.2rem',
-      }}
-      onMouseEnter={(e) => {
-        (e.currentTarget as HTMLElement).style.borderColor = `rgba(${r},${g},${b},0.9)`;
-        (e.currentTarget as HTMLElement).style.background = `linear-gradient(180deg, rgba(${r},${g},${b},0.22), rgba(${r},${g},${b},0.06))`;
-        (e.currentTarget as HTMLElement).style.transform = 'translateY(-2px)';
-      }}
-      onMouseLeave={(e) => {
-        (e.currentTarget as HTMLElement).style.borderColor = `rgba(${r},${g},${b},0.4)`;
-        (e.currentTarget as HTMLElement).style.background = `linear-gradient(180deg, rgba(${r},${g},${b},0.14), rgba(${r},${g},${b},0.03))`;
-        (e.currentTarget as HTMLElement).style.transform = 'translateY(0)';
-      }}
+      className="group relative block overflow-hidden rounded-[0.5rem] border transition-all"
+      style={{ borderColor: `rgba(${r},${g},${b},0.38)`, aspectRatio: '4 / 3', background: 'rgba(15,13,10,0.6)' }}
+      {...cardHover(r, g, b)}
     >
-      <EntitySeal entry={{ entityType: iconType, tags: [] }} visual={visual} size="md" />
-      <div>
-        <div className="font-display text-[0.92rem]" style={{ color: 'var(--ink)' }}>{overview.name}</div>
-        {subtitle && <div className="text-[0.66rem]" style={{ color: 'var(--ink-muted)' }}>{subtitle}</div>}
+      <div className="absolute inset-0">
+        <EntityImage
+          src={overview.banner}
+          entry={{ id: overview.id, name: overview.name, entityType: overview.entityType, tags: [] }}
+          visual={visual}
+          objectPosition="50% 40%"
+          className="w-full h-full transition-transform duration-[650ms] ease-out group-hover:scale-[1.07]"
+        />
       </div>
+      <div className="pointer-events-none absolute inset-0" style={{ background: COVER_SCRIM }} />
+      <div className="absolute top-0 left-0 right-0" style={{ height: 3, background: `linear-gradient(90deg, rgba(${r},${g},${b},1), rgba(${r},${g},${b},0.08))` }} />
+      <CardCaption title={overview.name} eyebrow={subtitle} accent={`rgba(${r},${g},${b},0.95)`} />
     </Link>
   );
 }
@@ -206,19 +258,14 @@ export default function CodexPage() {
   const router = useRouter();
   const [index, setIndex] = useState<SearchEntry[] | null>(null);
   const [query, setQuery] = useState('');
-  // Day-bucket for the rotating featured hero. Computed in an effect (not during
-  // render) so the component stays pure; defaults to 0 for the first paint.
-  const [dayIndex, setDayIndex] = useState(0);
+  // Which Bryn banner variation the landing hero shows. Temporary A/B toggle
+  // while we choose among scene/sky/rite; collapse to a constant after.
+  const [bannerKey, setBannerKey] = useState<'scene' | 'sky' | 'rite'>('scene');
 
   useEffect(() => {
     fetch('/codex-search.json')
       .then((r) => r.json())
-      .then((data: SearchEntry[]) => {
-        setIndex(data);
-        // Read the clock here (in the async callback, not during render) so the
-        // component stays pure and we still rotate the featured hero by day.
-        setDayIndex(Math.floor(Date.now() / 86_400_000));
-      })
+      .then((data: SearchEntry[]) => setIndex(data))
       .catch(() => setIndex([]));
   }, []);
 
@@ -245,14 +292,6 @@ export default function CodexPage() {
     return OVERVIEW_ORDER.map((id) => byId[id]).filter((e): e is SearchEntry => Boolean(e));
   }, [index]);
 
-  // Featured hero: rotate among legendary entries by day
-  const featured = useMemo(() => {
-    if (!index) return null;
-    const legendary = index.filter((e) => e.weight === 'legendary' && e.entityType !== 'overview');
-    if (!legendary.length) return null;
-    return legendary[dayIndex % legendary.length];
-  }, [index, dayIndex]);
-
   // Cornerstone cards: top legendary (then major) non-overview entries, up to 3
   const cornerstones = useMemo(() => {
     if (!index) return [];
@@ -269,7 +308,8 @@ export default function CodexPage() {
     return rankResults(index, dq, 200);
   }, [index, dq]);
 
-  const featuredVisual = featured ? entryVisual(featured) : getAtmosphereVisual('default');
+  const banner = LANDING_BANNERS.find((b) => b.key === bannerKey) ?? LANDING_BANNERS[0];
+  const bannerVisual = getAtmosphereVisual('water');
 
   return (
     <div
@@ -289,23 +329,40 @@ export default function CodexPage() {
         style={
           q
             ? { paddingTop: '1.5rem' }
-            : { position: 'relative', height: 300, overflow: 'hidden' }
+            : { position: 'relative', height: 460, overflow: 'hidden' }
         }
       >
         {/* hero backdrop — image, overlay, corner flourishes (no-query only) */}
         {!q && (
           <>
-            {featured && (
-              <div style={{ position: 'absolute', inset: 0 }}>
-                <EntityImage
-                  src={featured.banner}
-                  entry={{ id: featured.id, name: featured.name, entityType: featured.entityType, tags: [] }}
-                  visual={featuredVisual}
-                  aspect="3 / 1"
-                  className="w-full h-full"
-                />
-              </div>
-            )}
+            <div style={{ position: 'absolute', inset: 0 }}>
+              <EntityImage
+                src={banner.url}
+                entry={{ id: 'codex-landing', name: 'The Codex of Alaria', entityType: 'plane', tags: [] }}
+                visual={bannerVisual}
+                objectPosition="50% 45%"
+                className="w-full h-full"
+              />
+            </div>
+            {/* TEMP A/B banner chooser — remove once a banner is chosen */}
+            <div style={{ position: 'absolute', bottom: '0.5rem', right: '0.6rem', zIndex: 7, display: 'flex', gap: '0.35rem' }}>
+              {LANDING_BANNERS.map((b) => (
+                <button
+                  key={b.key}
+                  type="button"
+                  onClick={() => setBannerKey(b.key)}
+                  style={{
+                    all: 'unset', cursor: 'pointer', padding: '0.2rem 0.6rem', borderRadius: '0.3rem',
+                    fontSize: '0.7rem', textTransform: 'capitalize', fontFamily: 'var(--display)',
+                    color: bannerKey === b.key ? 'var(--ink)' : 'rgba(232,224,208,0.7)',
+                    background: bannerKey === b.key ? 'rgba(201,162,39,0.85)' : 'rgba(20,17,13,0.6)',
+                    border: '1px solid var(--gold-muted)',
+                  }}
+                >
+                  {b.key}
+                </button>
+              ))}
+            </div>
             <div
               style={{
                 position: 'absolute',
@@ -416,7 +473,7 @@ export default function CodexPage() {
         </div>
 
         {/* caption (no-query only) */}
-        {!q && featured && (
+        {!q && (
           <div
             style={{
               position: 'absolute', bottom: 0, left: 0, right: 0, zIndex: 5,
@@ -426,7 +483,7 @@ export default function CodexPage() {
               padding: '0.55rem 1rem 0.35rem',
             }}
           >
-            Featured · {featured.name} — rotates daily
+            {BRYN_CAPTION}
           </div>
         )}
       </div>
@@ -478,7 +535,7 @@ export default function CodexPage() {
                   >
                     Begin with — the cornerstones
                   </p>
-                  <div className="grid gap-3.5" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 16rem), 1fr))' }}>
+                  <div className="grid gap-3.5 grid-cols-1 sm:grid-cols-3">
                     {cornerstones.map((entry) => (
                       <FeatureCard key={entry.id} entry={entry} />
                     ))}
@@ -495,12 +552,11 @@ export default function CodexPage() {
                   >
                     Browse the world — ten realms of lore
                   </p>
-                  <div
-                    className="grid gap-2.5"
-                    style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 11rem), 1fr))' }}
-                  >
+                  {/* 10 realms in a balanced 5×2 grid. Only 2 and 5 divide 10
+                      evenly, so the breakpoints are 2↔5 — never an orphan row. */}
+                  <div className="grid gap-3 grid-cols-2 lg:grid-cols-5">
                     {overviews.map((o) => (
-                      <PortalTile key={o.id} overview={o} />
+                      <RealmCard key={o.id} overview={o} />
                     ))}
                   </div>
                 </section>
