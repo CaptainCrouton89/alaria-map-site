@@ -15,6 +15,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Rewrote from stub: frozen grasslands, Beathamuir River, four member features (Wurmling Mountains, Temple of Zicadia, The Plumes, Jemco Mountains) each given a tight section."
+bannerPosition: "50% 31.8%"
+bannerHeight: 360
 ---
 The Northern Plains are the frozen grasslands at the heart of the Northlands, stretching between the Titanwurm mountain ranges that break this part of the tundra. The Beathamuir River cuts east-west across the plains—one of the few sources of liquid water in a region otherwise locked in permafrost year-round, fed by glacial melt from the Nysanna Range to the north. The plains sit west of the Wurmling Mountains and south of the Gwyndolsong Mountains. There are no permanent settlements; travel across the open expanse is slow except in the brief window when frozen ground supports loaded sleds.
 

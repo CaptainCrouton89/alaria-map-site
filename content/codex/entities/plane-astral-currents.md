@@ -10,6 +10,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+bannerPosition: "50% 60.0%"
+bannerHeight: 400
 ---
 The Astral Sea is not still. Vast currents sweep through its depths, carrying the floating islands in slow, predictable orbits. Where these currents pass close to the Material Plane—in the transitional zone where astral ocean becomes material atmosphere—they create invisible highways across the sky. The sky trade of Alaria depends entirely on these currents.
 

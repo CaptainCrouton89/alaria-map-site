@@ -23,6 +23,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Long (7k) but on-theme; eastward peninsula anchoring Northern Isles; coord [386,141] matches E. Possibly trimmable."
+bannerPosition: "50% 17.5%"
+bannerHeight: 360
 ---
 ### Geography
 

@@ -17,6 +17,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Rich, internally consistent culture/geography for NW Northlands sub-region (Atowatowa caribou-herders, Wind-Roads, air attunements). Matches map placement NW of Northlands center, east of Senaveer Mtns. Keep."
+bannerPosition: "50% 15.9%"
+bannerHeight: 360
 ---
 A frozen, windblasted wasteland in the northwestern Northlands, Anu'Itiklik stretches from the foothills of the Senaveer Mountains in the west to the edges of the Northern Plains in the east. Hundred-mile-per-hour winds are nearly constant across these wastes, and the temperature rarely rises above freezing even in summer.
 

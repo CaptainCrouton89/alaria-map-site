@@ -16,6 +16,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Coherent on-theme underwater region: Bfaspeen brood territory in the Alrock's southern waters (within ocean 6), warring with triton Vetral (7, borders NE). Map-confirmed open-water region, no land border, no member pins inside. No geo conflicts."
+bannerPosition: "50% 41.3%"
+bannerHeight: 360
 ---
 The southern waters where the Bfaspeen broods lair. Warm volcanic vents heat the sea here, creating the thermal environment the eel-bodied horrors prefer. The water steams in places. The seabed glitters with centuries of sunken treasure.
 
