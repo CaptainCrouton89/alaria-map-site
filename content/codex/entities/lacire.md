@@ -8,66 +8,49 @@ zoomLevel: 4
 tags: ["city", "state", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4333"]
 relations:
-  - { rel: spatial, kind: within, target: "981" }
+  - { rel: spatial, kind: within, target: "1186" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
 ---
-A city of perhaps fifteen thousand people built on and around the Springs of Vyowehr, deep within Ierya at the heart of the Walking Forest. Lacire is the only significant permanent settlement in the entire Walking Forest—and it exists because its people have learned to live in silence.
+A city of perhaps fifteen thousand people built on and around the Springs of Vyowehr, deep within Ierya at the heart of the Walking Forest. Lacire is the only permanent settlement of any size in the entire forest, and it survives for one reason: its people have given up speech.
 
-#### The City of Silence
+#### The city of silence
 
-Lacireans do not speak.
+Lacireans do not speak. This is not a figure of speech. Within the city, speaking aloud is forbidden, and the prohibition is absolute enough that a child who has never made a sound louder than a footstep is considered well raised. Lacireans communicate through Stillspeech, an elaborate sign language, with written notes for anything complex or permanent.
 
-This is not metaphor or exaggeration. Within city limits, verbal communication is forbidden. Lacireans communicate through an elaborate sign language called Stillspeech, through written notes, through gesture and expression and the subtle vocabulary of a culture that has abandoned voice entirely.
+The rule is not religious and it is not arbitrary. It is survival. The Grayls who dwell in Ierya find mortal voices physically painful, the pitch and speed and volume of speech causing them real distress. When the founders first reached the springs and spoke as any people speak, the Grayls' response nearly ended the colony inside its first year. Those who lived through it learned to be quiet, and their descendants have been quiet ever since.
 
-The prohibition isn't religious or arbitrary—it's survival. The Grayls who dwell in Ierya find humanoid speech physically painful. The pitch, the speed, the sheer volume of mortal voices causes them genuine distress. When Lacire's founders first settled at the springs, the Grayls' response to their voices drove them to the edge of extinction.
+Silence in Lacire is more than the absence of speech. Lacireans walk softly, set objects down with care, and build from materials that swallow sound rather than throw it back. Buildings curve around the great roots and follow the line of the spring-pools, with no flat face to carry an echo. There is intent behind the shape of the place. The Postronamas built in straight lines and ringing symmetry, and their heirs build nothing that could ring. Music survives only as percussion, low drums the Grayls will tolerate, perhaps because the sound is slow and even rather than sharp. Children learn Stillspeech before they learn to walk, and they learn it well enough to carry poetry, argument, gossip, and filthy jokes. Lacireans are proud of it.
 
-The survivors learned. Over generations, Lacire evolved into something unique: an entire city-state built around the absence of speech.
+Outsiders may enter, but they keep the silence. Those who cannot are confined to a visitors' quarter at the city's edge, where low voices are permitted and closely watched, and repeat offenders are expelled. People who shout, whether from anger or fear or ignorance, are not handled by any city guard. They are handled by the forest.
 
-#### Life in Lacire
-
-**Communication:** Stillspeech is taught from infancy. Children learn to sign before they learn to walk. The language is sophisticated—capable of poetry, philosophy, insults, and dirty jokes—and Lacireans are proud of its expressiveness. Written communication supplements Stillspeech for complex or permanent matters.
-
-**Sound Discipline:** Lacireans don't just avoid speech—they minimize all sound. They walk softly, handle objects carefully, build with sound-dampening materials. Music exists but is percussion-only—drums, which the Grayls tolerate, perhaps because the sounds are low and rhythmic rather than sharp and chaotic.
-
-**Visitors:** Outsiders are allowed in Lacire, but they must observe the silence. Those who cannot or will not are confined to a visitors' quarter at the city's edge, where low voices are permitted but carefully monitored. Repeat offenders are expelled. Those who shout—whether in anger, fear, or ignorance—find themselves facing not the city guard but the forest itself.
-
-**Architecture:** Buildings in Lacire are organic, flowing things. They curve around massive roots, integrate fallen branches, use stone from the springs' pools. No sharp angles, no hard edges. The aesthetic isn't just cultural—it minimizes echo and sound reflection.
+> Midday in the market square, and the loudest thing is the rain coming through the canopy. A fishmonger and a buyer settle a price in a flurry of fingers. Somewhere a child is being scolded, the whole reprimand carried in one parent's face. The only sound that travels is a drum two streets over, marking the hour in slow, even beats.
 
 #### The Compact
 
-Lacire exists because of an ancient bargain with the Grayls—what the Lacireans call "the Compact."
+Lacire's founders were survivors of the Postronamas Empire, gnomes who fled the collapse of everything their people had built.
 
-The details have been lost to time, known only in fragments and children's stories. What's remembered: the founders were refugees (from where is disputed—some say the Postronamas collapse, others say wars further east). They stumbled into Ierya, dying of thirst, and drank from the springs. The dreams they received showed them how to live: what to do, what never to do, how to exist alongside beings who experience time and sound so differently.
+When the deep crystals beneath Enimogos broke the minds of the Postronamas leaders, the madness ran outward along the resonance network, pillar to pillar, until the empire tore itself apart inside a single generation. Most who survived it died soon after. Some climbed the Chakatann pillars and became the Seyiki. Some fled into the singing forest of Melodia. One band ran the other way, east, away from every humming stone, past the Woods of Systoril and into the Walking Forest, where no pillar had ever stood and no crystal sang. They were dying of thirst when they reached the springs.
 
-The Compact's requirements, as understood today:
-- No fire larger than a candle within Ierya (cooking uses geothermal vents near the springs)
-- No cutting of living wood (construction uses only deadfall and stone)
-- The springs must remain open to all who come in peace
-- Once per generation, a delegation travels deep into Ierya to commune with the eldest Grayls, reaffirming the agreement
+They drank, and the springs gave them dreams. The Waters of Vyowehr carry something of the Grayls' slow awareness, and those who drink at the source sometimes dream true. What the founders dreamed was how to live in Ierya: what to do, what never to do, how to share a forest with beings who measure time and sound on another scale. No voice struck the bargain, because the Grayls cannot bear a voice. The agreement passed through the water, in sleep. Lacireans call it the Compact.
 
-In exchange, Ierya doesn't shift around Lacire. The city exists in a pocket of stability, a fixed point in a moving forest.
+For a people unmade by sound, silence was never the price of the bargain. It was the thing they had been looking for.
+
+The Compact's terms have held unchanged since. No fire larger than a candle may burn within Ierya, so cooking is done over the geothermal vents near the springs. No living wood may be cut, so the city is built from deadfall and stone. The springs must stay open to anyone who comes in peace. And once in a generation a delegation walks deep into Ierya to stand before the eldest Grayls and renew the agreement. In return, Ierya holds still around Lacire. The outer forest migrates a mile a year; the city does not travel with it. Lacire sits in a fixed pocket of a forest that refuses to stay put.
+
+> The delegation that renews the Compact numbers nine, by old custom, and goes without packs or lanterns. They walk into Ierya until the canopy closes over the last of the daylight, until the trunks stand wider than houses and the moss throws its own faint glow, and there they stand among the eldest Grayls and say nothing at all. The Grayls may not move. They may not seem to notice. They notice. The delegation comes home when it comes home; some years it is gone a week, some years a season.
 
 #### Economy
 
-Lacire survives on trade in three precious commodities:
-
-**Spring Water:** The Waters of Vyowehr have genuine healing properties and are valuable across the Westwilds and beyond. Lacire carefully controls export, never taking more than the springs can renew.
-
-**Grayl-Amber:** Hardened sap from the Walking Forest's trees, sometimes found on the forest floor, occasionally purchased directly from Grayls who are willing to sell. The amber has magical properties useful for enchanting and alchemy.
-
-**Guidance:** Anyone who needs to cross the Walking Forest needs a Lacirean guide. They know which paths are passable this season, which groves to avoid, how to navigate a forest that doesn't stay still. This service is expensive and essential.
+Lacire lives on three things the rest of the world cannot get elsewhere. The first is the water. The Waters of Vyowehr heal, slowly and genuinely, and a sealed flask of it commands a high price across the Westwilds and well beyond, so the city rations export with care and never draws more than the springs renew. The second is Grayl-amber, hardened sap found on the forest floor or, more rarely, bought from a Grayl willing to part with it, prized by enchanters and alchemists. The third is harder to carry home. Anyone who needs to cross the Walking Forest needs a Lacirean guide, because only Lacireans know which paths are open this season, which groves to leave alone, and how to travel ground that will not stay where it was. The guiding is expensive. It is also the only reliable way through.
 
 #### Defense
 
-Lacire has walls but barely staffs them. The city's defense is the forest itself.
+Lacire has walls and barely mans them. Its defense is the forest.
 
-Hostile forces entering the Walking Forest find paths closing behind them, landmarks shifting, the trees themselves seeming to lean in watchfully. Those who come with violence in their hearts rarely find Lacire at all—they wander until they starve, or until they attract the attention of something in the deep forest that deals with threats in its own way.
-
-The few armies that have reached Lacire's walls found the Grayls waiting. The wooden beings don't fight like mortals—they're slow, patient, implacable. A Grayl can stand motionless for hours, then move with terrifying sudden force. Generals who thought they could overwhelm the city discovered that the forest contained more defenders than any scout had reported.
+Hostile forces that enter the Walking Forest find the paths closing behind them, the landmarks gone, the trees leaning in. Most never reach the city at all; they wander until their supplies run out. The few armies that have made it to the walls found the Grayls waiting. Grayls do not fight the way mortals fight. A Grayl can stand without moving for hours and then strike with sudden, enormous force, and there are always more of them in the deep forest than any scout has reported.
 
 #### The Grayl Market
 
-Outside Lacire's walls, at the forest's edge, stands the Grayl Market—a silent trading post where Grayls occasionally come to exchange goods with mortals.
+Outside the walls, at the forest's edge, sits the Grayl Market, a trading post where Grayls sometimes come to deal with mortals in silence.
 
-The Grayls trade their own body-material: wood shavings, bark, sap, and occasionally larger pieces harvested from themselves (a painful process they undertake for reasons mortals don't fully understand). In exchange, they accept... strange things. Seeds from distant lands. Memories written down. Songs performed in absolute silence (signed descriptions of music, which they seem to find meaningful). Stories about places that don't move.
-
-Transactions take days. The Grayls don't negotiate in any timeframe mortals find comfortable. But the results are worth fortunes to those with patience.
+What the Grayls bring is their own substance: shavings, bark, sap, and now and then a larger piece cut from their own bodies, a thing that costs them something mortals do not fully understand. They were hunted for that material for most of their history, which makes the offering of it stranger still. What they take in trade is stranger yet. Seeds from far-off places. Memories someone has written down. Descriptions of music, signed in silence, which seem to mean something to them. Accounts of places that stay where they are put. A transaction can run for days, because the Grayls will not bargain on any clock a mortal finds comfortable. For those with the patience, the goods are worth a fortune.

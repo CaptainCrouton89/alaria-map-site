@@ -8,6 +8,7 @@ zoomLevel: 1
 sources: ["all_sections_formatted/Greenwater_Isles.md#L1"]
 relations:
   - { rel: spatial, kind: borders, target: "4450", note: "NW, across the Chykos Strait and Bejeweled Sea" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-gruynmar" }
 review:
   aiWritten: true
   archetype: ai-ok

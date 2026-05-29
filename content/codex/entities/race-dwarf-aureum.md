@@ -2,7 +2,7 @@
 id: "race-dwarf-aureum"
 name: "Aureum"
 entityType: race
-blurb: "Sun-worshipping underground dwarves who harness liquid sunlight to ward off darkness; law, honor, and the sanctity of one's word define their culture."
+blurb: "An ancient, mostly vanished dwarf civilization that captured sunlight in mirror-and-glass engines a mile underground; their works are ruins, stranded when the sun's path shifted."
 aliases: ["Sun Dwarf"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
@@ -13,14 +13,27 @@ review:
   aiWritten: false
   action: keep
 ---
-In the early days of the Uline, when no more than a few underground settlements existed, an upwelling of shadereavers from deep below nearly wiped out the underground population. Multiple factions debated solutions. One concluded that only sunlight could hold the creatures back and swore to find a way to bring it underground. Many Uline thought this impossible. Those who did not became the Aureum.
+The Aureum were the dwarves who decided to bring the sun underground, and for an age they managed it.
 
-The older world had known a sun daemon. Sorveth was the Golden Age's open-sky patron — the deity workers greeted at sunrise, gave thanks to at noon, and bid farewell at dusk. When the Long Winter's volcanic darkness blotted the sky for decades, Sorveth's ubiquitous, sky-dependent worship collapsed overnight. He had been everywhere; then he was nowhere. No cult survived to sustain him because his entire theology required the sun to stay where you could look up and see it.
+They broke from the Uline in the deep past, during the shadereaver crisis, when things from far below welled up into the early underground settlements and nearly emptied them. The Uline met that dark with iron and teach their children the iron still. The Aureum took a different vow. They swore to carry daylight a mile beneath the rock and hold the deep creatures back with light rather than blades. Most who heard the plan thought it impossible. The dwarves who did not became the Aureum.
 
-The Aureum did not rebuild Sorveth. Their patron is Aurigeum — the daemon who rose when they captured the sun instead of petitioning it. A complex network of mirrors and glass channels daylight a mile below the surface; a technique mastered within centuries of their founding decants that light into liquid form, held in vials. The liquid sunlight is smelted into armor and weapons, and sustains the Aureum as they believe — in body and in covenant. Where Sorveth's followers had greeted the sky, the Aureum stand in a tunnel and tend the mirror, and the light comes through whether the sky above is clear or not.
+> The light is not ours. We are only the ones who keep it moving.
+> — a glass-tender's vow, recorded in the Aureum oath-rolls
 
-Aurea's oath is the theological root. When the Aureum first broke away from the Uline, their founder promised to keep her people safe so long as they trusted her and followed her commands. They did, and she carried through — permanently cementing the importance of a promise and following one's leader. The religion built itself on that structure: every Aureum priest is a glass-tender, every vow a maintenance schedule, every named mirror a covenant between worshipper and patron. A vial broken is a vow broken. The patron holds the light in trust; the Aureum hold the trust in practice.
+What they built to keep that promise had no equal anywhere in Alaria, and almost none of it still works. They cut intake-vaults into the high places where Bryn's band crossed their mountains, polished mirrors the width of a feasting hall, and ran the captured light down through shafts and glass channels into chambers a mile below the surface. Within a few centuries they learned to decant it. Light drawn off the prime mirrors could be collected, thickened, and held in glass as a slow golden fluid, and that liquid sunlight could be smelted into metal. Aureum armor carried daylight in its grain. An Aureum blade lit the tunnel it was drawn in. None of this depended on a clear sky, because the light was already below the weather. The vaults fed whether the day above was bright or grey.
+
+This is where the Aureum are most often confused with their living cousins, and the confusion is worth ending. The Glorindians are a surface clan of gold-eyed prospectors who mine the metal, read its veins through solid stone, and still hold their mountains in the east. The Aureum mined nothing. Their gold was light, captured and poured, and their works sat far deeper than any ore. A Glorindian finds a thing that is already in the rock. An Aureum engineered a phenomenon and built a whole civilization on the wager that it would keep arriving. One of those two peoples is still here.
+
+The whole of it ran on an oath. Their founder, Aurea, promised to keep her people safe so long as they kept the light moving and never hoarded it, and Aurigeum, the patron who rose with that promise, held the captured sun in trust on the same terms. Religion and infrastructure were one thing. Every priest was a glass-tender. Every vow was a maintenance schedule. Each mirror in a chain carried a name, and an unnamed mirror would not hold the light long enough to pass it down the line. A broken vial was a broken vow. The full shape of that theology, and the inversion the Nydor later made of it, belongs to Aurigeum's own account.
+
+The one thing the Aureum never hedged was the sun itself. Their intake-vaults were cut for the precise crossings where Bryn's band ran over their peaks, and Bryn keeps no fixed road. The sun is sung onto its trails, and its path drifted and was fought over for centuries before any treaty pinned a calendar to it. When the band slid off the old crossings, the vaults at the head of every chain went dark. The mirrors still turned. The glass-tenders still tended their schedules. There was simply nothing left at the top to send down. The light that had held the deep creatures back for an age thinned and then guttered out, and the dark the Aureum had been built to defeat came back up the very shafts they had cut for the sun.
+
+> The lens-hall at Aurivum, the first and deepest the Aureum ever sank. Nine tiers of mirror-frames ring a central well that drops out of lamplight, every frame still bolted to its bearing, every reflective face long gone to corrosion or theft. The naming-plaques remain, one to a mirror, the script worn but legible. At the bottom of the well the air is cold and the channels run dry, and the only light is whatever a visitor brought down with them.
+
+What remains is ruins. The sun-wells stand empty, the lens-halls dark, the channels dry. A few Aureum bloodlines persist, scattered through other holds and surface towns, and here and there a remnant still tends a single mirror in a hold that catches a little true light, more out of inherited vow than any hope of feeding a chain. There is no Aureum nation, and has not been for a long time. The Nydor, who broke away to keep the captured sun for darker uses, outlasted the people they left behind.
+
+One remnant has done more than tend a mirror. In the covenant-state of Xoth, where the Temple of Theros is built to catch the dawn and the deep works run on Petranos-blessed water, a living community of Aureum has re-gathered and sworn itself anew. They did not abandon Aurigeum; they folded the old sun-oath into devotion to Theros, the covenant's dawn-patron, and read the keeping of that light as the same promise their founders kept a mile underground. It is the nearest thing to a home the Aureum have had since the vaults went dark — not the old work returned, but the vow still moving, which was always the part that mattered.
 
 #### Aspects
-- The law comes first
 - My word is my bond
+- The light is held in trust, never owned

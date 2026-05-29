@@ -15,7 +15,7 @@ review:
 ---
 The Gruynmar have taken to the seas in massive iron vessels that serve as floating cities for entire clans. These bronze-skinned, curly-haired dwarves have mastered naval warfare and are the only people who understand the secrets of gunpowder weapons. Their ships are legendary juggernauts that can devastate any naval opposition, making them both feared and respected across all maritime nations.
 
-Clan loyalty runs deeper than blood among the Gruynmar, and abandoning one's ship-family is considered the ultimate betrayal. However, those rare individuals who do leave their floating homes often become exceptional pirates, mercenaries, or adventurers, bringing their unique seafaring skills and firearm expertise to land-based endeavors.
+The sheltered channels of the Greenwater Isles are the closest thing the Gruynmar have to home waters — the anchorage where clan-ships gather to careen their hulls, trade powder, and settle disputes between fleets — but no Gruynmar would call the islands themselves home; the deck underfoot is the only ground that counts. Clan loyalty runs deeper than blood among the Gruynmar, and abandoning one's ship-family is considered the ultimate betrayal. However, those rare individuals who do leave their floating homes often become exceptional pirates, mercenaries, or adventurers, bringing their unique seafaring skills and firearm expertise to land-based endeavors.
 
 #### Aspects
 - The clan-ship is my true home

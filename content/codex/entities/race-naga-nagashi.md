@@ -2,7 +2,7 @@
 id: "race-naga-nagashi"
 name: "Nagashi"
 entityType: race
-blurb: "The most common Naga bloodline, found across Alaria; passionate artists and scholars who treat draconic transformation as sacred ancestral trust."
+blurb: "The common form of the Naga and the ruling people of Adron; artists and scholars who hold the dragon's transformation a sacred trust."
 aliases: ["Dragonheart"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-naga" }
@@ -12,13 +12,13 @@ review:
   aiWritten: false
   action: keep
 ---
-The Nagashi represent the most common expression of draconic heritage among the Naga peoples. Found across Alaria in great numbers, they have integrated into countless societies while maintaining their distinctive pride and passion. Their scales manifest in subtle patterns across their skin - sometimes only visible in certain light - marking them as carriers of Nagatayora's legacy.
+The Nagashi are the form the dragon-blood throws most often, and so the face the rest of Alaria puts to the word Naga. Their scales come in fine and patterned, sometimes no more than a sheen that surfaces in slanted light and vanishes when they turn. A Nagashi is not a separate line within the Naga; the word names the form, not the family. Two Nagashi parents can raise a black-scaled Megélren or a heavy-scaled child the mountain clans would claim, and a Nagashi can be born to parents who wore neither. The scale is the accident. The blood beneath it is the constant.
 
-Nagashi communities are centers of art, learning, and philosophical debate. They approach every endeavor with the burning intensity of their draconic blood, whether crafting a masterpiece, engaging in scholarly pursuit, or seeking vengeance for wrongs done to their kin. This passion makes them both inspiring allies and terrifying enemies.
+Where the Nagashi settle in numbers they build for art and argument. They take up a craft or a question and drive at it well past the point most people would call enough, on the conviction that anything worth doing is worth being consumed by. The same heat that makes them patrons and scholars makes them dangerous to cross. A Nagashi who believes a wrong has been done to kin does not forget it, and does not usually forgive it.
 
-Their transformation is perhaps the purest expression of their heritage - a direct channeling of Nagatayora's fury that served him in his final battle. The Nagashi see this ability not as a tool but as a sacred trust, a reminder of their ancestor's sacrifice and their duty to live with the same unwavering determination.
+Their transformation runs close to the source: the plain channeling of Nagatayora's fury that carried him through his last fight. The Nagashi treat it as something held in trust rather than wielded at will. To take the dragon's shape for a small cause is, to them, an insult to the ancestor who took it for the largest cause there ever was.
 
-Adron, on the Middle Sea's eastern shore, is the one polity built specifically as a Naga homeland. The Nagashi are its ruling people — the banking families, the shipwrights, the keepers of the dragon-rider traditions that give the kingdom its identity. Elsewhere across Alaria they are found in port cities, scholarly institutions, and merchant guilds in numbers that reflect a people comfortable integrating without disappearing.
+Adron, on the Middle Sea's eastern shore, is the one realm raised as a Naga homeland, and the Nagashi are its ruling people: the banking houses, the shipwrights, the keepers of the old draconic rites that give the kingdom its identity. Elsewhere they spread through port cities, scholarly halls, and merchant guilds in numbers that show a people at ease settling among others without dissolving into them.
 
 #### Aspects
 - Boiling vengeance

@@ -69,7 +69,7 @@ function stripAuthorNotes(content: string): string {
 // Frontmatter keys with a dedicated home; everything else falls through to `metadata`.
 const RESERVED_FM = new Set([
   'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
-  'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review',
+  'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review', 'category',
 ]);
 
 // ---- load + parse entity files ----
@@ -92,6 +92,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     relations: Array.isArray(d.relations) ? (d.relations as Relation[]) : [],
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
+    category: typeof d.category === 'string' ? d.category : undefined,
     metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
     ...splitMechanics(stripAuthorNotes(parsed.content.trim())),
   });
@@ -263,7 +264,7 @@ for (const e of entities) derivedInhabitantsOf.set(e.id, computePass2(e.id));
 
 // ---- weight / atmosphere mapping (entityType-driven; authored value wins) ----
 const WEIGHT_BY_TYPE: Record<string, EntryWeight> = {
-  deity: 'legendary', plane: 'legendary',
+  overview: 'legendary', deity: 'legendary', plane: 'legendary',
   region: 'major', nation: 'major', faction: 'major',
   city: 'standard', water: 'standard', wilderness: 'standard', fortress: 'standard', event: 'standard', era: 'standard',
   town: 'minor', poi: 'minor', ruins: 'minor', creature: 'minor', artifact: 'minor', person: 'minor',

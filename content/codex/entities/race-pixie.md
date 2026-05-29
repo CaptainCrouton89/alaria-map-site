@@ -20,7 +20,7 @@ Pixies reproduce through a mystical process involving moonlight, flower nectar, 
 
 ### Heritages
 - **Zelle** — Theocratic pixies of Zelidia's jungle kingdom; High Priestess-ruled matriarchy practicing ritual sacrifice to dark forest gods. See [[race-pixie-zelle]].
-- **Ianovko** — Master illusionists whose settlements blur material plane and collective unconscious; culture prizes audacious pranks and elaborate deception. See [[race-pixie-ianovko]].
+- **Ianovko** — Wandering illusionists who negotiate a city's Faesong into a brighter remembered copy of itself; the people walk out happy and the streets empty behind them. See [[race-pixie-ianovko]].
 - **Ikriel** (Icehearts) — Frost-transformed pixies who worship winter as cosmic entropy; emotionally vampiric manipulators who drain warmth from victims. See [[race-pixie-ikriel]].
 - **Luma** (Grove Keepers) — Grove-bonded living libraries of Nykotheryx Amberylika; translucent wings carry captured tree memories stretching back millennia. See [[race-pixie-luma]].
 

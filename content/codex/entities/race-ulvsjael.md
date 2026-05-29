@@ -2,16 +2,16 @@
 id: "race-ulvsjael"
 name: "Ulvsjael"
 entityType: race
-blurb: "The Ulvsjael are the descendants of those who drank from the blood of Ulvma, the great wolf mother who fell defending Alaria against the titan…"
+blurb: "Descendants of the warriors who drank the blood of Ulvma, the wolf-mother who fell beside the mortal armies against the titan Hykravones."
 sources:
   - "races/Ulvsjael.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Ulvsjael are the descendants of those who drank from the blood of Ulvma, the great wolf mother who fell defending Alaria against the titan Hykravones. Where Nagatayora descended into rage and Shara Bolasi stood alone, Ulvma remained with the armies, fighting with pack tactics and fierce loyalty until her final breath. Her blood, seeping into the earth where warriors gathered, was consumed by those seeking her strength - and they were forever changed.
+The Ulvsjael descend from the mortals who drank the blood of Ulvma, the wolf-mother who fell in the war against Hykravones alongside the dragon Nagatayora and the lion Shara Bolasi. The other two fought apart from the armies. Ulvma fought inside them. She ran with the mortal ranks and fought the way a wolf fights, by the pack and never alone, until she was brought down still among them. Her blood ran out where the warriors stood, and they drank it, deliberately, reaching for whatever strength was in it. It changed them, and the change bred true into their children. The Ulvsjael are the only one of the three lines whose ancestors chose the gift instead of merely being marked by it.
 
-All Ulvsjael carry the wolf's spirit within them, granting them the ability to partially transform and take on lupine characteristics. But more than physical traits, they inherited Ulvma's philosophy: the pack survives through unity, the weak must be culled or made strong, and loyalty once earned is absolute. This harsh pragmatism has shaped every Ulvsjael culture, though it expresses itself in different ways.
+What they took from Ulvma is more than the wolf-shape they can call up. They took her terms for living: the pack holds together or it dies, the weak are made strong or culled out, and loyalty a wolf has earned is owed without limit. Every Ulvsjael culture rests on that hard bargain, though they read it in very different ways.
 
 ### Vitals
 - **Size:** Medium

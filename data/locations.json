@@ -995,6 +995,7 @@
     "parentId": null,
     "relatedIds": [
       "4450",
+      "race-dwarf-gruynmar",
       "4445",
       "4469",
       "4421",
@@ -2403,7 +2404,7 @@
     "atmosphere": "civilization",
     "blurb": "The Westwilds occupy the southwestern corner of Clueanda, forming a transitional zone between the frozen Northlands and the maritime regions to the south.",
     "parentName": "Clueanda",
-    "containsCount": 56,
+    "containsCount": 55,
     "borders": [
       {
         "id": "1327",
@@ -7944,6 +7945,7 @@
       "creature-surrey-mahaila",
       "race-dwelyn",
       "race-elnir",
+      "race-elf-caerene",
       "2651",
       "2843",
       "2712",
@@ -13729,7 +13731,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A desert necropolis peninsula whose dunes are crowded with tombs, god-courts, and the dead-cities of a vanished dynasty.",
-    "containsCount": 9
+    "containsCount": 10
   },
   {
     "id": "4054",
@@ -14948,6 +14950,7 @@
     "parentId": "4446",
     "relatedIds": [
       "4446",
+      "race-dwarf-aureum",
       "4469",
       "manual-mpifq55k-qtmi5",
       "4475",
@@ -21885,16 +21888,25 @@
   {
     "id": "manual-mph9uuk7-sk6cn",
     "name": "Istori Agnostus",
-    "type": "wilderness",
+    "type": "ruins",
     "coordinates": [
       98,
       197
     ],
     "zoomLevel": 4,
-    "parentId": null,
-    "relatedIds": [],
+    "parentId": "manual-mpkmfw20-zmzyd",
+    "relatedIds": [
+      "manual-mpkmfw20-zmzyd",
+      "region-the-wastes",
+      "race-pixie-ianovko",
+      "creature-pixies",
+      "race-elf-istori",
+      "magic-time"
+    ],
     "tags": [],
-    "atmosphere": "nature"
+    "atmosphere": "ancient",
+    "blurb": "A dead city in the Wastes of Al G'hesh, emptied not by war or plague but by the pixies who once wintered in its walls.",
+    "parentName": "The Wastes of Al G'hesh"
   },
   {
     "id": "manual-mph716b1-k24bo",
@@ -21927,8 +21939,11 @@
       "4285",
       "race-human",
       "4165",
+      "manual-mph70v3w-3xjdw",
       "manual-mph71itd-6g6tw",
-      "4276",
+      "manual-mph70yda-vtytb",
+      "magic-force",
+      "magic-water",
       "4310"
     ],
     "loreFile": "Western_Isles.md",
@@ -21938,7 +21953,7 @@
       "nation"
     ],
     "atmosphere": "civilization",
-    "blurb": "The dominant city-state on the island of Migos—a trading hub built on the lower slopes of Mount Iypos, controlling the only significant harbor on the…",
+    "blurb": "The dominant city-state on the island of Migos—a trading hub perched on the southeastern crag, controlling the island's only sheltered deepwater harbor.",
     "parentName": "Migos"
   },
   {
@@ -22991,14 +23006,21 @@
       135
     ],
     "zoomLevel": 4,
-    "parentId": "981",
+    "parentId": "1186",
     "relatedIds": [
-      "981",
-      "1187",
-      "1183",
-      "manual-mpii94rh-4ulqj",
-      "race-grayls",
       "1186",
+      "race-gnome",
+      "1187",
+      "nation-postronamas-empire",
+      "1200",
+      "1183",
+      "998",
+      "manual-mpii94rh-4ulqj",
+      "981",
+      "1117",
+      "1101",
+      "nation-seyiki",
+      "race-grayls",
       "magic-force",
       "magic-water",
       "manual-mphqwz19-951b6",
@@ -23013,7 +23035,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A city of perhaps fifteen thousand people built on and around the Springs of Vyowehr, deep within Ierya at the heart of the Walking Forest.",
-    "parentName": "Westwilds"
+    "parentName": "Ierya"
   },
   {
     "id": "3228",
@@ -32459,13 +32481,24 @@
     "parentId": "4446",
     "relatedIds": [
       "4446",
+      "race-mira",
+      "race-gnome-techgnomes",
+      "race-human",
+      "race-dwarf",
+      "4466",
+      "4363",
+      "4468",
+      "4392",
+      "453",
       "magic-light",
-      "magic-dark"
+      "magic-dark",
+      "magic-time",
+      "4471"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "The Timekeeper city rises from a high plateau in the central Tethryns, its marble architecture stark white against the dark volcanic stone.",
+    "blurb": "A marble city grown into the wreck of a fallen Mira orb-ship, high in the Tethryns, whose aura traps anyone who stays past a few days.",
     "parentName": "Urok"
   },
   {
@@ -45353,7 +45386,7 @@
     "atmosphere": "nature",
     "blurb": "At the heart of the Walking Forest lies Ierya, the oldest grove, where the largest and most ancient Grayls stand.",
     "parentName": "Walking Forest",
-    "containsCount": 1
+    "containsCount": 2
   },
   {
     "id": "manual-mphqbuhs-ecxvi",

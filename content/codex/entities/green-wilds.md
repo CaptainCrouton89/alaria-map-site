@@ -12,6 +12,7 @@ relations:
   - { rel: culture, kind: inhabitedBy, target: "creature-surrey-mahaila" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwelyn" }
   - { rel: culture, kind: inhabitedBy, target: "race-elnir" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-caerene" }
 ---
 The Green Wilds are what the Ishnit Jungles become when they thin enough to walk through—still dangerous, still wild, but no longer the impenetrable deathscape of the deep jungle. The Dwelyn of Enapay claim this territory, but claiming and controlling are different things. Beyond the Ishtar River corridor where Lise sits, the Green Wilds belong to no one.
 

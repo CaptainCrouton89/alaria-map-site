@@ -8,6 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Greenwater_Isles.md#L987"]
 relations:
   - { rel: spatial, kind: within, target: "4446" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-aureum", note: "living Aureum remnant re-gathered in the Seven-Patrons covenant; sun-oath to Aurigeum reframed as devotion to the dawn-patron Theros" }
 review:
   aiWritten: true
   archetype: ai-ok

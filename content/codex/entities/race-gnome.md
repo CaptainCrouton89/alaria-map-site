@@ -25,7 +25,7 @@ Gnomes are small, naturally magical creatures, resembling miniature humans. They
 - **Ohblex** (Gem Gnomes) — Crystalline gnomes born from Gemstone Peaks gems; sole clockmaking masters who sustain themselves on jewels and scheme endlessly. See [[race-gnome-ohblex]].
 - **Techgnomes** (Lost Gnome) — Near-extinct technological gnomes whose civilization was destroyed by their own creation; surviving relics of a lost mechanical age. See [[race-gnome-techgnomes]].
 - **Qipi** (Sinkhole Gnome) — Smallest gnome heritage, dwelling in Tyberoskos sinkhole cities; green-skinned with huge eyes, masters of acoustic communication. See [[race-gnome-qipi]].
-- **Whiteling** (Prophet Gnome) — Fragile, alabaster-skinned gnomes cursed with fate-sight; rare as sacred oracles, perpetually hunted for their prophetic gifts. See [[race-gnome-whiteling]].
+- **Qovryx** (Prophet Gnome) — Alabaster gnomes born carrying an unfinished Deoric command grown into their own flesh; rare fate-sight oracles, hunted, their stray power deadly to those nearby. See [[race-gnome-whiteling]].
 - **Ansari** (Sea Gnome) — Blue-green skinned gnomes of the Pelican Isles; wary of strangers but superb navigators, warm once trust is earned. See [[race-gnome-ansari]].
 - **Shyoka Saseidi** (Forest Gnome) — Hidden forest gnomes of Nykotheryx Amberylika who tend the fauna, wearing badger pelts and befriending all burrowing creatures. See [[race-gnome-shyoka-saseidi]].
 
@@ -78,7 +78,7 @@ You begin play with a damaged but functional mechanical device of your choice (s
 **Passive ability.**
 You gain the Observant talent as a racial ability (it does not count towards the number of talents you have), along with its destiny level. Additionally, you have darkvision out to 30 feet and can see normally in dim light.
 
-### Whiteling (Prophet Gnome) — Oracle's Burden
+### Qovryx (Prophet Gnome) — Oracle's Burden
 **Passive ability.**
 You gain the Oracle talent as a racial ability (it does not count towards the number of talents you have), along with its destiny level. However, your connection to the threads of fate has left your body withered: your maximum hit points start at 25 instead of 40, and increasing your maximum hit points costs 1 additional XP (stacking with the gnomish penalty for 2 total). Additionally, your might die can never be increased above a d6.
 

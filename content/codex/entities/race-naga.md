@@ -2,16 +2,20 @@
 id: "race-naga"
 name: "Naga"
 entityType: race
-blurb: "The Naga are the descendants of Nagatayora, the mighty dragon-father who fell in battle against the titan Hykravones."
+blurb: "Descendants of the dragon-father Nagatayora, who fell against the titan Hykravones; his blood still throws three forms through a single bloodline."
 sources:
   - "races/Naga.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Naga are the descendants of Nagatayora, the mighty dragon-father who fell in battle against the titan Hykravones. When Nagatayora's burning blood fell to earth, it transformed those it touched, imbuing them with a spark of draconic power that has been passed down through generations. All Naga carry this legacy within them, though it manifests differently among their various bloodlines.
+The Naga descend from Nagatayora, the dragon-father who fell in the war against the titan Hykravones, the same war that took the lion-father Shara Bolasi and the wolf-mother Ulvma. He did not fall cleanly. When his body broke open above the field, his blood came down still burning, and the mortals it struck did not burn with it. They changed. Scales rose through their skin, their eyes took on a reptile's set, and a measure of the dragon-father's temper lodged in them and stayed. What fell on the parents passed to the children, and to theirs after them. Every Naga alive carries it.
 
-At the core of every Naga is the potential for transformation - the ability to partially assume the form of their draconic ancestor. This gift comes with both power and responsibility, as the passionate nature of dragonkind burns within their hearts. The Naga have developed rich cultures of art, philosophy, and religious tradition, all touched by their inherent pride and determination.
+That blood does not breed true, and this is the fact outsiders most often miss. The Naga are not three peoples. They are one bloodline that comes out in three forms, and which form a child takes is no one's to choose, not even the parents'. A house of common scale can bear a child whose scales come in black. A line that has bred for the heavy mountain form across ten generations can still throw a child marked with nothing but the faint lowland patterning. The blood decides for itself.
+
+Three forms keep returning. Most Naga are Nagashi, their scales fine and patterned and easy to miss in plain light; this is the kind the rest of Alaria has met, and the ruling people of the Naga homeland at Adron. The Nagakani carry a heavier ridged scale that holds against cold and thin mountain air, and a culture in the Lyagnadarr peaks has built itself around that form and ranks it above the others. The third form is the one no household says aloud before it must. A Megélren is born with scale of obsidian black that takes in light and gives none back, and when one appears in a line the Naga read it as the old betrayal surfacing again. What that costs the child, and the house that bore it, belongs to the Megélren's own account.
+
+Whatever scale a Naga wears, the inheritance underneath is the same. Any of them can call up a measure of Nagatayora's shape, scales spreading and the head turning draconic, and any of them carries the dragon-father's pride and his long memory for a wrong. The Naga hold this not as a tool but as a trust. It is the one thing the three forms never argue about.
 
 ### Vitals
 - **Size:** Medium
@@ -24,9 +28,9 @@ At the core of every Naga is the potential for transformation - the ability to p
 - Pride runs deeper than blood
 
 ### Heritages
-- **Nagakani** (Scale Riders) — Mountain conquerors of the Lyagnadarr peaks serving an ancient orange dragon's holy crusade, riding giant lizards. See [[race-naga-nagakani]].
-- **Nagashi** (Dragonheart) — The most common Naga, found across Alaria; passionate artists and scholars who treat draconic transformation as sacred trust. See [[race-naga-nagashi]].
-- **Megélren** (Shadow Naga) — Obsidian-scaled outcasts condemned as ancient traitors; masters of espionage, poison, and assassination across Alaria. See [[race-naga-megelren]].
+- **Nagakani** (Scale Riders) — A Lyagnadarr mountain culture built around the heavy-scaled form, sworn to an old orange dragon's crusade and mounted on giant lizards. See [[race-naga-nagakani]].
+- **Nagashi** (Dragonheart) — The common form, found across Alaria; artists, scholars, and the ruling people of Adron, who hold the dragon's transformation a sacred trust. See [[race-naga-nagashi]].
+- **Megélren** (Shadow Naga) — The obsidian-scaled form that surfaces unbidden in any Naga line; read as the traitor's blood returning, and pushed into exile and the killing trades. See [[race-naga-megelren]].
 
 <!-- mechanics -->
 

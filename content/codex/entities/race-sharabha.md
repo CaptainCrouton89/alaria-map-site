@@ -2,16 +2,16 @@
 id: "race-sharabha"
 name: "Sharabha"
 entityType: race
-blurb: "The Sharabha are the noble descendants of Shara Bolasi, the great lion father who stood alone against the titan Hykravones in the world's darkest hour."
+blurb: "Descendants of Shara Bolasi, the lion-father who stood alone against the titan Hykravones; his heart's blood changed the ground, and the ground changed them."
 sources:
   - "races/Sharabha.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Sharabha are the noble descendants of Shara Bolasi, the great lion father who stood alone against the titan Hykravones in the world's darkest hour. Though he fell in that legendary battle, his courage and sacrifice transformed the very earth where his heart's blood spilled. Generations later, those who settled upon that sacred ground found themselves changed, imbued with the lion father's indomitable spirit.
+The Sharabha descend from Shara Bolasi, the lion-father who fell in the same war against Hykravones that took the dragon Nagatayora and the wolf Ulvma. The three did not fall the same way. The dragon's blood came down burning and the wolf's was drunk from the field; the lion's went into the ground. Shara Bolasi held his stretch of the line alone after the rank beside him broke, and when he was killed his heart's blood ran out into the earth and soaked it. Nothing happened then. Generations later, the people who settled that ground and worked it and were buried in it began to come up changed, carrying the lion in their blood without ever having touched the beast that put it there.
 
-All Sharabha carry within them Shara Bolasi's legacy - not just his leonine strength, but his profound sense of honor, his protective instincts, and his willingness to face any odds for what is right. This inheritance manifests in their ability to partially assume their ancestor's form, but more importantly in their unshakeable moral compass and fierce loyalty to their chosen pride.
+Every Sharabha carries Shara Bolasi's strength, and the harder parts of him with it: the pull toward putting yourself between danger and the people behind you, and the refusal to break an oath once it is spoken. It surfaces as the power to take on a measure of the lion's shape, but it shows more plainly in how the Sharabha live. They bind to a pride, by birth or by choosing, and they do not walk away from it.
 
 ### Vitals
 - **Size:** Medium

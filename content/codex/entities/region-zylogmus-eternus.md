@@ -11,6 +11,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "plane-material-plane" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-undead", note: "shadows of the dead hunt the labyrinth at night; megadungeon's defining denizens" }
 ---
 Stretching all the way across the Material Plane, Zylogmus Eternus is the "infinite labyrinth." Housing all manner of horrors, and plagued by a terrible curse, Zylogmus Eternus is one of the worst places you can possibly find yourself.
 
