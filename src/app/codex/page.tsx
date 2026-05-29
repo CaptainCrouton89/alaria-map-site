@@ -25,7 +25,10 @@ function score(entry: SearchEntry, q: string): number {
     else if (new RegExp(`\\b${q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`).test(h)) best = Math.min(best, 2);
     else if (h.includes(q)) best = Math.min(best, 3);
   }
-  if (best === Infinity && entry.blurb.toLowerCase().includes(q)) best = 4;
+  // Category match: typing "daemon" should surface every daemon entry, not just
+  // the 14 whose name/blurb happens to contain the literal word.
+  if (best === Infinity && entry.entityType.toLowerCase().startsWith(q)) best = 4;
+  if (best === Infinity && entry.blurb.toLowerCase().includes(q)) best = 5;
   return best === Infinity ? -1 : best;
 }
 
@@ -54,7 +57,7 @@ export default function CodexPage() {
       .map((e) => ({ e, s: score(e, q) }))
       .filter((x) => x.s >= 0)
       .sort((a, b) => a.s - b.s || WEIGHT_RANK[a.e.weight] - WEIGHT_RANK[b.e.weight] || a.e.name.localeCompare(b.e.name))
-      .slice(0, 60)
+      .slice(0, 200)
       .map((x) => x.e);
   }, [index, q]);
 

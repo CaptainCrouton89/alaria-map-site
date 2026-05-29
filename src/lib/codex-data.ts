@@ -13,10 +13,23 @@ interface Compiled {
 }
 
 let cache: Compiled | null = null;
+let cacheMtimeMs = 0;
 
 function load(): Compiled {
+  const file = path.join(process.cwd(), 'data/codex/compiled.json');
+  // In dev, re-read when the file's mtime has advanced so the page reflects the
+  // latest `build-codex` output without a server restart. Next.js doesn't watch
+  // JSON data files, so without this the module-level cache pins a stale snapshot
+  // for the lifetime of the dev process. In prod, build the cache once and trust it.
+  if (process.env.NODE_ENV !== 'production') {
+    const mtimeMs = fs.statSync(file).mtimeMs;
+    if (!cache || mtimeMs !== cacheMtimeMs) {
+      cache = JSON.parse(fs.readFileSync(file, 'utf8')) as Compiled;
+      cacheMtimeMs = mtimeMs;
+    }
+    return cache;
+  }
   if (!cache) {
-    const file = path.join(process.cwd(), 'data/codex/compiled.json');
     cache = JSON.parse(fs.readFileSync(file, 'utf8')) as Compiled;
   }
   return cache;
@@ -24,6 +37,18 @@ function load(): Compiled {
 
 export function getEntryById(id: string): CodexEntry | undefined {
   return load().byId[id];
+}
+
+/**
+ * Every entry carrying `tag`, matched case-insensitively. Case folding also
+ * merges the data's accidental casing duplicates (e.g. "yolus breach" vs
+ * "Yolus breach") into one list. Unsorted — callers order for display.
+ */
+export function getEntriesByTag(tag: string): CodexEntry[] {
+  const needle = tag.toLowerCase();
+  return Object.values(load().byId).filter((e) =>
+    e.tags?.some((t) => t.toLowerCase() === needle)
+  );
 }
 
 /** Resolve a list of entity ids to {id, name}, dropping any that no longer exist. */

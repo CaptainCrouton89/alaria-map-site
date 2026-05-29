@@ -116,13 +116,15 @@ export function EntityHero({ entry, weight, visual }: EntityHeroProps) {
         {entry.tags.length > 0 && (
           <div className={`mt-4 flex flex-wrap gap-1.5 ${w.centered ? 'justify-center' : ''}`}>
             {entry.tags.slice(0, 10).map((tag) => (
-              <span
+              <Link
                 key={tag}
-                className="px-2 py-0.5 text-[11px] tracking-wide text-ink-muted border rounded-sm"
+                href={`/codex/tag/${encodeURIComponent(tag)}`}
+                title={`See all entries tagged “${tag}”`}
+                className="px-2 py-0.5 text-[11px] tracking-wide text-ink-muted border rounded-sm transition-colors hover:text-gold hover:shadow-[inset_0_0_0_1px_var(--gold-muted)]"
                 style={{ borderColor: atmosRgba(visual, 0.35), background: atmosRgba(visual, 0.06) }}
               >
                 {tag}
-              </span>
+              </Link>
             ))}
           </div>
         )}
