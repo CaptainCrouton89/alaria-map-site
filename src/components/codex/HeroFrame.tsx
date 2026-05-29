@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { Check, GripHorizontal, Loader2, Move, RotateCcw, TriangleAlert } from 'lucide-react';
 import type { CodexEntry } from '@/types/codex';
 import type { AtmosphereVisual } from '@/lib/atmosphere';
@@ -151,6 +151,22 @@ export function HeroFrame({
     save(null, null);
   };
 
+  // Enter (save & close) / Escape (close) finish editing. Drags already autosave
+  // on release, so the latest crop is persisted by the time the editor closes.
+  useEffect(() => {
+    if (!editing) return;
+    const onKey = (e: KeyboardEvent) => {
+      const el = e.target as HTMLElement | null;
+      if (el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable)) return;
+      if (e.key === 'Enter' || e.key === 'Escape') {
+        e.preventDefault();
+        setEditing(false);
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [editing]);
+
   return (
     <header
       ref={headerRef}
@@ -224,9 +240,10 @@ export function HeroFrame({
                 </button>
                 <button
                   onClick={() => setEditing(false)}
-                  className="rounded bg-[#c9a227] px-2.5 py-1 text-[11px] font-medium text-[#1a1612] transition hover:bg-[#d9b237]"
+                  className="flex items-center gap-1 rounded bg-[#c9a227] px-2.5 py-1 text-[11px] font-medium text-[#1a1612] transition hover:bg-[#d9b237]"
                 >
                   Done
+                  <kbd className="rounded bg-[#1a1612]/20 px-1 text-[9px] leading-none">↵</kbd>
                 </button>
               </div>
               <p className="mt-2 flex items-center gap-1 text-[10px] text-[#9a8f7a]">
