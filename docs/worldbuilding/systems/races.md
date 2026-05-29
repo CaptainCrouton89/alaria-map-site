@@ -1,6 +1,6 @@
 # Races
 
-Invariant: Interbreeding follows origin-substance. Gaea-flesh family (humans, beastmen, giants, trolls) interbreed; half-giants and trollkin exist. Druid-crafted elves (wood, stone, river-mud) cannot cross with flesh; no half-elves. Daemon-descended lines follow their own rules. Beastmen are Gaea's minor animal-children. The sacred three sons are Wolf, Lion, and Dragon (Ulvma / Shara Bolasi / Nagatayora → Ulvsjael / Sharabha / Naga).
+Invariant: Interbreeding follows origin-substance. Gaea-flesh family (humans, beastmen, giants, trolls) interbreed; half-giants and trollkin exist. Druid-crafted elves (wood, stone, river-mud) cannot cross with flesh; no half-elves. Daemon-descended lines follow their own rules. Beastmen are Gaea's minor animal-children. The sacred three — two sons and a daughter — are Wolf, Lion, and Dragon: the wolf-mother Ulvma, the lion-father Shara Bolasi, and the dragon-father Nagatayora (→ Ulvsjael / Sharabha / Naga).
 
 Interbreeding in Alaria follows origin-substance, not proximity or appearance.
 
@@ -10,7 +10,7 @@ Elves are druid-crafted, not flesh-born — shaped from wood, stone, or river-mu
 
 Daemon-descended lines (tiefling-adjacent) follow their own inheritance rules, which vary by line.
 
-Beastmen are Gaea's minor animal-children, distinct from the sacred three. The three sacred sons are Wolf (Ulvma → Ulvsjael), Lion (Shara Bolasi → Sharabha), and Dragon (Nagatayora → Naga).
+Beastmen are Gaea's minor animal-children, distinct from the sacred three. The sacred three are two sons and a daughter: Wolf (the wolf-mother Ulvma → Ulvsjael), Lion (the lion-father Shara Bolasi → Sharabha), and Dragon (the dragon-father Nagatayora → Naga).
 
 The Gaea entity exists at `content/codex/entities/person-gaea.md` and is fully authored. Her dormancy is settled canon: Kethic self-expenditure and diffusion (see below).
 

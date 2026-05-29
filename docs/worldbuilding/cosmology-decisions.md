@@ -206,8 +206,8 @@ Edit `event-world-timeline.md` + `plane-life-and-death.md`.
 - Druid-crafted elves (wood/stone/river-mud) **cannot** cross with flesh → **no half-elves.**
 - Daemon-descended lines: their own rules.
 
-🔒 **Beastmen = Gaea's MINOR animal-children.** Only **Wolf / Lion / Dragon** (Ulvma /
-Shara Bolasi / Nagatayora → Ulvsjael / Sharabha / Naga) are the **sacred three sons**.
+🔒 **Beastmen = Gaea's MINOR animal-children.** Only **Wolf / Lion / Dragon** (the wolf-mother Ulvma /
+the lion-father Shara Bolasi / the dragon-father Nagatayora → Ulvsjael / Sharabha / Naga) are the **sacred three — two sons and a daughter**.
 
 🔒 **Create a Gaea entity** (currently missing entirely).
 
@@ -438,18 +438,27 @@ its name and may internalize occasional structural patterns. This is not a curri
 path to mastery. It is background entropy.
 
 The structural Deoric command that elder daemons hold above current mortal practitioners is
-overwhelmingly **pre-mortem surplus**:
-- **Depth of pre-mortem study.** The oldest daemons died with lifetimes — potentially centuries in
-  long-lived communities — devoted to inscription study before grammar-internalization.
-- **Freshest-inscription advantage.** The oldest daemons studied titan inscriptions at far lower
-  weathering — material thousands of years old at the time versus the same material at twelve
-  million years today. The structural clarity of the source was meaningfully different.
-- **Pre-burning Vyanoweir-library access.** The earliest daemon-eligible scholars had access to the
-  full Vyanoweir reconstructed corpus before the burning. That corpus is gone; its structural
-  grammar survives only in daemons who internalized it before the fire.
+overwhelmingly **pre-mortem surplus**, and two drivers dominate:
+- **Pre-burning Vyanoweir-library access.** The earliest daemon-eligible scholars learned the full
+  reconstructed grammar before the Vyanoweir libraries burned. That corpus is destroyed; the living
+  tradition now rebuilds from a fraction of it. Daemons who internalized it carry structural
+  grammar-clusters lost to current practice. This advantage is independent of weathering and is the
+  strongest of the three.
+- **Depth of pre-mortem study.** The oldest daemons gave entire mortal lifetimes — potentially
+  centuries in long-lived communities — to Deoric, and crossed death holding the whole grammar.
+  They also studied inscriptions and sources that have since been destroyed or lost outright, not
+  merely weathered a little further.
 
-The cap "~200,000 years" applies because the oldest possible daemon dates from the early Golden
-Age (~200 kya). Mastery surplus is a function of source quality, not study length.
+A third driver is real but minor:
+- **Inscription freshness.** The oldest daemon read titan inscriptions on stone only about 200,000
+  years less weathered than the same stone today, a small edge on a roughly twelve-million-year
+  erosion curve. Every daemon-eligible mortal studied inscriptions already millions of years old, so
+  no one ever read titan stone in anything like its original state. This is a genuine effect, never
+  a primary one.
+
+The cap "~200,000 years" is a time-depth, not a study length: the oldest possible daemon dates from
+the early Golden Age and died about 200 kya. Mastery surplus is a function of corpus access and
+depth of study, not of any single mortal studying for eons.
 
 ### Knowledge-as-worship-currency: hoarding as default
 
@@ -485,19 +494,22 @@ Sharing occurs only through mechanisms that neutralize or compensate the competi
 Structural consequences: daemons have **economic enemies** wherever domains overlap; mortal
 pantheons are frequently **cartels** in daemon-economy; cartel **schism** follows domain expansion
 past non-overlap conditions; near-R_min daemons **sell grammar in desperation**, accelerating
-collapse; a daemon's most jealously-guarded possession is **freshest-inscription-era structural
-grammar** — exactly what Vyanoweir scholars most need.
+collapse; a daemon's most jealously-guarded possession is **pre-burning-corpus structural
+grammar**, the early-Golden-Age grammar the living tradition has lost — exactly what Vyanoweir
+scholars most need.
 
 ### Lost-knowledge archive: structural, not accidental
 
 🔒 **EXPLICIT CANON.** The oldest daemons hold structural Deoric grammar the current Vyanoweir
 tradition has lost. This is a designed consequence of the model, not a story-hook possibility.
 
-The mechanism is structural: pre-mortem study used less-weathered inscriptions that are now twelve
-million years further eroded (or gone entirely); the pre-burning Vyanoweir libraries that partially
-compensated for weathering are destroyed; the daemons who internalized that material before death
-hold the only living record. Their economic rationality keeps them from teaching it. The loss is
-actively maintained by daemon self-interest, not the passage of time alone.
+The mechanism is structural. The dominant loss is the burned corpus: the pre-burning Vyanoweir
+libraries held a reconstructed grammar the living tradition has never recovered, and the daemons who
+internalized it before death hold the only complete record. Pre-mortem study also drew on
+inscriptions and sources that are now gone entirely, with the surviving stone only about 200,000
+years further weathered than when the oldest daemons read it — a minor change against the wholesale
+loss of the libraries. Their economic rationality keeps them from teaching what they hold. The loss
+is actively maintained by daemon self-interest, not the passage of time alone.
 
 **Named case: Ahzel-Ori.** The oldest daemon currently in canon (Early Golden Age, ascended
 approximately 175,000 years ago) remains worshipped by a small, closed network of archivists and
@@ -526,13 +538,19 @@ deferred lineage mechanic — see `context/daemon-outliers-brainstorm.md`.
 
 The §9 characterization of elder daemons as having "direct exposure to the titans (pre- or
 peri-Ezz Rift)" and "millions of years of study" is superseded for all entity-file and prose use.
-The corrected phrasing is:
-- **"direct study of titan inscriptions in their freshest state"** — the substrate gate rules out
-  any daemon having met a living titan; mortals as we know them postdate the Ezz Rift, and only
-  mortals can cross the knowledge gate.
-- **"up to ~200,000 years of pre-mortem study"** or **"hundreds of thousands of years"** — the
-  oldest possible daemon dates from the early Golden Age (~200 kya); no daemon studied for millions
-  of years.
+No daemon met a living titan (the substrate gate, plus the fact that mortals as we know them
+postdate the Ezz Rift and only mortals can cross the knowledge gate), and no daemon studied for
+millions of years (the oldest possible daemon dates from the early Golden Age, ~200 kya). The
+corrected phrasing is:
+- The real advantage is the **now-destroyed pre-burning Vyanoweir corpus** plus a **mortal
+  lifetime's depth of study**. Inscription freshness is a minor edge, not a primary driver: the
+  oldest daemon read titan stone only about 200,000 years less weathered than the same stone today,
+  not in any "freshest state" — every daemon-eligible mortal studied inscriptions already millions
+  of years old.
+- **"up to ~200,000 years"** is a time-depth, not a study length: it marks how long ago the oldest
+  daemon died (early Golden Age, ~200 kya), not the duration of any single mortal's study. Render as
+  "pre-mortem study by daemons who died as long as ~200,000 years ago" or "hundreds of thousands of
+  years of time-depth," never as a 200,000-year-long study.
 
 The §9 text in this document is not retroactively edited; the design log is an append record.
 **Wave 2 application targets** (prose must mirror this section's phrasing, not §9's):
