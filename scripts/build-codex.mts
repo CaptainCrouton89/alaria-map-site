@@ -17,6 +17,7 @@ import * as path from 'path';
 import matter from 'gray-matter';
 import type { Location, LocationType } from '../src/types/location';
 import type { CodexEntry, EntryWeight, AtmosphereType, EntityRef, InEdge, OutEdge, SearchEntry } from '../src/types/codex';
+import { MENTION_SCAN_SKIP_NAMES } from './mention-scan-skipnames.mts';
 
 const REPO = path.resolve(import.meta.dirname, '..');
 const ENTITIES = path.join(REPO, 'content/codex/entities');
@@ -38,6 +39,8 @@ interface Entity {
   relations: Relation[];
   weight?: EntryWeight;
   atmosphere?: AtmosphereType;
+  /** Explicit category slug — only authored on `overview` root pages, which span many types. */
+  category?: string;
   /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
   metadata?: Record<string, unknown>;
   body: string;
@@ -144,7 +147,8 @@ for (const e of entities) {
   nameToIds.get(n)!.push(e.id);
 }
 const names = [...nameToIds.keys()].sort((a, b) => b.length - a.length);
-const skipNames = new Set(['the', 'and', 'for', 'but', 'bay', 'sea', 'lake', 'hill', 'port', 'fort', 'east', 'west', 'north', 'south', 'old', 'new', 'great', 'little', 'upper', 'lower']);
+// Single-word entity names that collide with everyday English — see scripts/mention-scan-skipnames.mts.
+const skipNames = MENTION_SCAN_SKIP_NAMES;
 const esc = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 const related = new Map<string, Set<string>>(entities.map((e) => [e.id, new Set<string>()]));
@@ -166,6 +170,84 @@ for (const e of entities) {
       // else: ambiguous cross-region mention — skip (matches finalize's manual-review path)
     }
   }
+}
+
+// ---- autolink pass: rewrite body + mechanics to link the first mention of each entity ----
+// Mirrors the mention-scan's eligibility (same names list, length guard, skipNames, ancestor
+// disambiguation). Skips fenced code blocks, inline code, and existing markdown links/images so
+// we never link inside opaque regions. "First reference" = each target id is linked at most once
+// per body, at its earliest plain-text occurrence. Source markdown files are untouched; only the
+// emitted `content` / `mechanics` fields get the [name](/codex/<id>) syntax baked in.
+
+interface Seg { type: 'plain' | 'opaque'; text: string }
+
+// Tokenize markdown: opaque runs are anything we must not rewrite into (fenced code, inline code,
+// images, links). Everything between is plain text where auto-linking is safe.
+const OPAQUE_RE = /(```[\s\S]*?```)|(`[^`\n]+`)|(!\[[^\]]*\]\([^)]*\))|(\[[^\]]+\]\([^)]*\))/g;
+function tokenize(body: string): Seg[] {
+  const segs: Seg[] = [];
+  let i = 0;
+  for (let m: RegExpExecArray | null; (m = OPAQUE_RE.exec(body)) !== null;) {
+    if (m.index > i) segs.push({ type: 'plain', text: body.slice(i, m.index) });
+    segs.push({ type: 'opaque', text: m[0] });
+    i = m.index + m[0].length;
+  }
+  if (i < body.length) segs.push({ type: 'plain', text: body.slice(i) });
+  return segs;
+}
+
+function autolinkBody(rawBody: string, ownId: string): string {
+  if (!rawBody) return rawBody;
+  const segs = tokenize(rawBody);
+  const usedTargets = new Set<string>();
+
+  for (const name of names) {
+    if (name.length < 4 || skipNames.has(name)) continue;
+    // Disambiguate to a single target id (same rules as the mention-scan above).
+    const others = nameToIds.get(name)!.filter((id) => id !== ownId);
+    if (others.length === 0) continue;
+    let targetId: string | undefined;
+    if (others.length === 1) {
+      targetId = others[0];
+    } else {
+      const shared = others.filter((id) => shareAncestor(ownId, id));
+      if (shared.length === 1) {
+        targetId = shared[0];
+      } else {
+        const e = byId.get(ownId);
+        const direct = shared.find((id) => byId.get(id)?.parent === ownId || e?.parent === id);
+        if (direct) targetId = direct;
+      }
+    }
+    if (!targetId || usedTargets.has(targetId)) continue;
+
+    const re = new RegExp(`\\b${esc(name)}\\b`, 'i');
+    for (let si = 0; si < segs.length; si++) {
+      const seg = segs[si];
+      if (seg.type !== 'plain') continue;
+      const m = seg.text.match(re);
+      if (!m || m.index === undefined) continue;
+      const idx = m.index;
+      const matched = m[0];
+      const before = seg.text.slice(0, idx);
+      const after = seg.text.slice(idx + matched.length);
+      const linked: Seg = { type: 'opaque', text: `[${matched}](/codex/${targetId})` };
+      const replacement: Seg[] = [];
+      if (before) replacement.push({ type: 'plain', text: before });
+      replacement.push(linked);
+      if (after) replacement.push({ type: 'plain', text: after });
+      segs.splice(si, 1, ...replacement);
+      usedTargets.add(targetId);
+      break;
+    }
+  }
+
+  return segs.map((s) => s.text).join('');
+}
+
+for (const e of entities) {
+  if (e.body) e.body = autolinkBody(e.body, e.id);
+  if (e.mechanics) e.mechanics = autolinkBody(e.mechanics, e.id);
 }
 
 // ---- containment children + reverse (incoming) typed edges ----
@@ -303,29 +385,41 @@ function computeAtmosphere(e: Entity): AtmosphereType {
 }
 
 // ---- category mapping ----
-const CATEGORY_BY_TYPE: Record<string, { name: string; slug: string }> = {
-  region: { name: 'Geography & Places', slug: 'geography' },
-  city: { name: 'Geography & Places', slug: 'geography' },
-  town: { name: 'Geography & Places', slug: 'geography' },
-  fortress: { name: 'Geography & Places', slug: 'geography' },
-  ruins: { name: 'Geography & Places', slug: 'geography' },
-  wilderness: { name: 'Geography & Places', slug: 'geography' },
-  water: { name: 'Geography & Places', slug: 'geography' },
-  poi: { name: 'Geography & Places', slug: 'geography' },
-  uncategorized: { name: 'Geography & Places', slug: 'geography' },
-  nation: { name: 'Geography & Places', slug: 'geography' },
-  deity: { name: 'Deities & Religion', slug: 'deities' },
-  daemon: { name: 'Deities & Religion', slug: 'deities' },
-  plane: { name: 'Deities & Religion', slug: 'deities' },
-  faction: { name: 'Factions & Organizations', slug: 'factions' },
-  creature: { name: 'Creatures & Beings', slug: 'creatures' },
-  race: { name: 'Races & Peoples', slug: 'races' },
+// Categories are the codex's top-level taxonomy: each has an `overview` root page
+// (entityType: overview) that heads it on the landing page. `plane` and `person` split
+// into their own categories (cosmology, personae) so every category has a 1:1 root page.
+const CATEGORY_META: Record<string, { name: string; slug: string }> = {
+  geography: { name: 'Geography & Places', slug: 'geography' },
+  races: { name: 'Races & Peoples', slug: 'races' },
+  creatures: { name: 'Creatures & Beings', slug: 'creatures' },
+  factions: { name: 'Factions & Organizations', slug: 'factions' },
   magic: { name: 'Magic & Knowledge', slug: 'magic' },
-  artifact: { name: 'Artifacts & Relics', slug: 'artifacts' },
-  event: { name: 'History & Events', slug: 'history' },
-  era: { name: 'History & Events', slug: 'history' },
-  person: { name: 'History & Events', slug: 'history' },
+  deities: { name: 'Deities & Religion', slug: 'deities' },
+  cosmology: { name: 'Cosmology & the Planes', slug: 'cosmology' },
+  history: { name: 'History & Events', slug: 'history' },
+  personae: { name: 'Dramatis Personae', slug: 'personae' },
+  artifacts: { name: 'Artifacts & Relics', slug: 'artifacts' },
 };
+const CATEGORY_BY_TYPE: Record<string, string> = {
+  region: 'geography', city: 'geography', town: 'geography', fortress: 'geography',
+  ruins: 'geography', wilderness: 'geography', water: 'geography', poi: 'geography',
+  uncategorized: 'geography', nation: 'geography',
+  deity: 'deities', daemon: 'deities',
+  plane: 'cosmology',
+  faction: 'factions',
+  creature: 'creatures',
+  race: 'races',
+  magic: 'magic',
+  artifact: 'artifacts',
+  event: 'history', era: 'history',
+  person: 'personae',
+};
+/** Resolve an entity's category. Overview root pages carry an explicit `category`; everything
+ *  else maps from entityType. Falls back to geography for unknown types. */
+function categoryOf(e: Entity): { name: string; slug: string } {
+  if (e.entityType === 'overview' && e.category && CATEGORY_META[e.category]) return CATEGORY_META[e.category];
+  return CATEGORY_META[CATEGORY_BY_TYPE[e.entityType] ?? 'geography'] ?? CATEGORY_META.geography;
+}
 const loreFileOf = (e: Entity) => e.sources[0]?.replace(/^.*\//, '').replace(/#.*$/, '');
 
 const humanizeKey = (k: string) =>
@@ -414,7 +508,7 @@ fs.writeFileSync(path.join(PUBLIC, 'codex-edges.json'), JSON.stringify(mapEdges)
 
 // ---- emit codex compiled JSON ----
 const codexEntries: CodexEntry[] = entities.map((e) => {
-  const cat = CATEGORY_BY_TYPE[e.entityType] ?? { name: 'Geography & Places', slug: 'geography' };
+  const cat = categoryOf(e);
   const root = rootAncestor(e);
 
   // graph navigation: part-of, contains, typed out/in edges, and leftover see-also links
@@ -480,6 +574,7 @@ const searchIndex: SearchEntry[] = codexEntries
       id: ce.id,
       name: ce.name,
       entityType: ce.entityType ?? 'uncategorized',
+      category: ce.category,
       blurb: ce.blurb ?? '',
       weight: ce.weight!,
       ...(byId.get(ce.id)!.aliases.length ? { aliases: byId.get(ce.id)!.aliases } : {}),

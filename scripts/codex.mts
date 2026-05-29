@@ -9,6 +9,7 @@ import * as path from 'path';
 import { execFileSync } from 'child_process';
 import sharp from 'sharp';
 import matter from 'gray-matter';
+import { MENTION_SCAN_SKIP_NAMES } from './mention-scan-skipnames.mts';
 
 const REPO = path.resolve(import.meta.dirname, '..');
 const ENTITIES = path.join(REPO, 'content/codex/entities');
@@ -610,13 +611,16 @@ function reportLint() {
 codex report lint — graph-validity checks over the entity corpus. Read-only. Exits 1 when any error-severity finding exists.
 
 Checks
-  danglingTargets      (error)   relation targets that do not exist in the index (surfaced from build's silent skip)
-  capitalOfNonPolity   (error)   capitalOf edges whose target entityType is not region/nation/faction
-  bothEndsDirected     (error)   directed edge kinds authored in both directions (violates one-direction-only discipline)
-  worshipsTargetType   (error)   worships edges whose target is not a daemon or a titan-tagged creature
-  bothEndsUndirected   (warning) undirected edge kinds (borders, separatedBy) authored on both ends — redundant but harmless
-  orphansGeographic    (warning) geographic entities (region/town/city/water/wilderness/ruins/fortress/poi) with no within edge
-  orphansNonGeographic (info)    non-geographic entities with no within edge — expected; count only, not enumerated
+  danglingTargets        (error)   relation targets that do not exist in the index (surfaced from build's silent skip)
+  capitalOfNonPolity     (error)   capitalOf edges whose target entityType is not region/nation/faction
+  bothEndsDirected       (error)   directed edge kinds authored in both directions (violates one-direction-only discipline)
+  worshipsTargetType     (error)   worships edges whose target is not a daemon or a titan-tagged creature
+  bothEndsUndirected     (warning) undirected edge kinds (borders, separatedBy) authored on both ends — redundant but harmless
+  orphansGeographic      (warning) geographic entities (region/town/city/water/wilderness/ruins/fortress/poi) with no within edge
+  mentionScanCollisions  (warning) single-word entity names not in MENTION_SCAN_SKIP_NAMES with ≥ threshold cross-body
+                                   prose hits — candidate common-English collisions polluting See Also. Review and
+                                   add to scripts/mention-scan-skipnames.mts if appropriate. Threshold via --hits (default 25).
+  orphansNonGeographic   (info)    non-geographic entities with no within edge — expected; count only, not enumerated
 
 Severity model
   error   → ok:false, exit code 1 (gates CI/agents)
@@ -627,9 +631,12 @@ Limitations
   date-sanity: no structured date fields — entities use free-text dates in body prose; born-after-death /
   capital-predates-polity checks are not implementable without a structured era ordering (future schema work).
 
+Flags
+  --hits <n>             mentionScanCollisions threshold (default 25)
+
 Output (JSON)
   { ok, errors, warnings, checks: { danglingTargets, capitalOfNonPolity, bothEndsDirected, worshipsTargetType,
-    bothEndsUndirected, orphansGeographic, orphansNonGeographic }, limitations }
+    bothEndsUndirected, orphansGeographic, mentionScanCollisions, orphansNonGeographic }, limitations }
 `);
 
   interface Finding { source: string; sourceName: string; kind: string; target?: string; detail: string }
@@ -763,21 +770,67 @@ Output (JSON)
     }
   }
 
+  // Check 6 — mention-scan collisions
+  // Single-word entity names whose string appears in many other entity bodies are likely common
+  // English vocabulary collisions polluting See Also (e.g. "Sometimes" the place vs. "sometimes"
+  // the adverb). Real proper-noun names rarely cross > ~20 bodies in this corpus; once they do
+  // it is either an intentional dense node (a race, the continent Ve) or a collision that needs
+  // adding to MENTION_SCAN_SKIP_NAMES. Warning severity: surfaces candidates for human review.
+  // Mirrors the build's mention-scan: strips <!-- mechanics --> + <!-- author-notes --> so only
+  // the lore body is counted (matches what the build actually scans).
+  interface MentionFinding { source: string; sourceName: string; hits: number; detail: string }
+  const hitsThreshold = Number(flag('hits') ?? '25');
+  const escRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const loreBody = (raw: string): string => {
+    let b = raw;
+    const m = b.indexOf('<!-- mechanics -->');
+    if (m >= 0) b = b.slice(0, m);
+    const a = b.indexOf('<!-- author-notes -->');
+    if (a >= 0) b = b.slice(0, a);
+    return b;
+  };
+  const lore = new Map<string, string>(entities.map((e) => [String(e.data.id), loreBody(e.body)]));
+  const mentionFindings: MentionFinding[] = [];
+  for (const e of entities) {
+    const name = String(e.data.name ?? '').trim();
+    const lc = name.toLowerCase();
+    if (!/^[a-z]+$/.test(lc)) continue;          // single ASCII word only
+    if (lc.length < 4) continue;                  // mirror build's length guard
+    if (MENTION_SCAN_SKIP_NAMES.has(lc)) continue;
+    const re = new RegExp('\\b' + escRe(lc) + '\\b', 'i');
+    let hits = 0;
+    const selfId = String(e.data.id);
+    for (const [oid, body] of lore) {
+      if (oid === selfId) continue;
+      if (body && re.test(body)) hits++;
+    }
+    if (hits >= hitsThreshold) {
+      mentionFindings.push({
+        source: selfId,
+        sourceName: name,
+        hits,
+        detail: `single-word name appears in ${hits} other entity bodies — review for common-English collision`,
+      });
+    }
+  }
+  mentionFindings.sort((a, b) => b.hits - a.hits);
+
   const errors = danglingFindings.length + capitalFindings.length + bothDirectedFindings.length + worshipsTypeFindings.length;
-  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length;
+  const warnings = bothUndirectedFindings.length + orphanGeoFindings.length + mentionFindings.length;
 
   emit({
     ok: errors === 0,
     errors,
     warnings,
     checks: {
-      danglingTargets:     { severity: 'error',   count: danglingFindings.length,          findings: danglingFindings },
-      capitalOfNonPolity:  { severity: 'error',   count: capitalFindings.length,            findings: capitalFindings },
-      bothEndsDirected:    { severity: 'error',   count: bothDirectedFindings.length,       findings: bothDirectedFindings },
-      worshipsTargetType:  { severity: 'error',   count: worshipsTypeFindings.length,       findings: worshipsTypeFindings },
-      bothEndsUndirected:  { severity: 'warning', count: bothUndirectedFindings.length,     findings: bothUndirectedFindings },
-      orphansGeographic:   { severity: 'warning', count: orphanGeoFindings.length,          findings: orphanGeoFindings },
-      orphansNonGeographic:{ severity: 'info',    count: orphanNonGeoCount },
+      danglingTargets:       { severity: 'error',   count: danglingFindings.length,       findings: danglingFindings },
+      capitalOfNonPolity:    { severity: 'error',   count: capitalFindings.length,        findings: capitalFindings },
+      bothEndsDirected:      { severity: 'error',   count: bothDirectedFindings.length,   findings: bothDirectedFindings },
+      worshipsTargetType:    { severity: 'error',   count: worshipsTypeFindings.length,   findings: worshipsTypeFindings },
+      bothEndsUndirected:    { severity: 'warning', count: bothUndirectedFindings.length, findings: bothUndirectedFindings },
+      orphansGeographic:     { severity: 'warning', count: orphanGeoFindings.length,      findings: orphanGeoFindings },
+      mentionScanCollisions: { severity: 'warning', count: mentionFindings.length,        findings: mentionFindings, threshold: hitsThreshold },
+      orphansNonGeographic:  { severity: 'info',    count: orphanNonGeoCount },
     },
     limitations: ['date-sanity: no structured date fields — see plan'],
   });

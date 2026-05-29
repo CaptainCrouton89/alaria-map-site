@@ -25,9 +25,7 @@
       "3151",
       "manual-mphbt2hf-hd923",
       "1544",
-      "1390",
-      "2372",
-      "manual-mphqwz19-951b6"
+      "1390"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -55,9 +53,7 @@
       "1328",
       "390",
       "1311",
-      "981",
-      "2372",
-      "manual-mphqwz19-951b6"
+      "981"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -98,12 +94,10 @@
       "creature-dragons",
       "529",
       "816",
-      "2372",
       "768",
       "411",
       "494",
       "652",
-      "magic-water",
       "864",
       "884"
     ],
@@ -172,10 +166,7 @@
       "manual-mpghfkq4-res9f",
       "1377",
       "race-tuktuk",
-      "magic-water",
       "race-giant",
-      "magic-fire",
-      "magic-time",
       "1384"
     ],
     "loreFile": "Clueanda.md",
@@ -225,8 +216,7 @@
       "390",
       "3151",
       "2857",
-      "2620",
-      "2372"
+      "2620"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -249,11 +239,7 @@
       "manual-mphcf46l-3ua62",
       "3129",
       "3087",
-      "race-kendor",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "magic-time"
+      "race-kendor"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -317,8 +303,6 @@
       "race-craven",
       "race-nyolci",
       "3604",
-      "2372",
-      "magic-force",
       "race-giant",
       "race-satyr",
       "3390"
@@ -344,10 +328,7 @@
     "relatedIds": [
       "race-bfaspeen",
       "race-triton",
-      "7",
-      "magic-light",
-      "magic-water",
-      "magic-time"
+      "7"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -427,7 +408,6 @@
       "1776",
       "1738",
       "1661",
-      "manual-mpii94rh-4ulqj",
       "manual-mphbt2hf-hd923",
       "creature-monsters",
       "1544",
@@ -440,14 +420,8 @@
       "race-orc-tytheri",
       "1729",
       "1611",
-      "2372",
-      "magic-light",
-      "magic-water",
       "race-human",
-      "creature-orcs",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-fire"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -497,14 +471,7 @@
       "2443",
       "2430",
       "creature-ghosts",
-      "2420",
-      "2372",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time",
-      "magic-void"
+      "2420"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -537,8 +504,7 @@
       "plane-material-plane",
       "race-elf-dark-elves",
       "plane-celestia",
-      "creature-pixies",
-      "magic-dark"
+      "creature-pixies"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -584,12 +550,7 @@
       "race-dwarf-fengruk",
       "manual-mph5ny7n-m1wi0",
       "1951",
-      "2372",
-      "magic-force",
-      "magic-water",
-      "race-dwarf-nydor",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -642,7 +603,6 @@
       "3151",
       "1822",
       "creature-shemazari",
-      "manual-mpii94rh-4ulqj",
       "manual-mphbt2hf-hd923",
       "1833",
       "magic-faesong",
@@ -653,13 +613,9 @@
       "1861",
       "race-elf-gamori",
       "creature-titan",
-      "magic-earth",
-      "magic-force",
-      "magic-water",
       "race-dwarf",
       "1823",
-      "creature-hags",
-      "magic-time"
+      "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -695,12 +651,7 @@
       "race-elnir",
       "775",
       "1079",
-      "1114",
-      "manual-mpii94rh-4ulqj",
-      "magic-light",
-      "magic-water",
-      "magic-fire",
-      "magic-time"
+      "1114"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -766,12 +717,9 @@
       "3529",
       "3573",
       "3604",
-      "2372",
       "creature-titan",
-      "magic-water",
       "4423",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -908,16 +856,9 @@
       "405",
       "710",
       "1234",
-      "2372",
       "manual-mphbybgg-dm1kn",
-      "manual-mphcbgsb-wykgk",
       "1227",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "race-giant",
-      "manual-mphqwz19-951b6"
+      "race-giant"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -959,8 +900,7 @@
       "3548",
       "3850",
       "creature-hykravones",
-      "1117",
-      "manual-mphqwz19-951b6"
+      "1117"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -1024,10 +964,7 @@
       "4384",
       "4393",
       "2758",
-      "2372",
       "4423",
-      "magic-fire",
-      "magic-time",
       "4446",
       "4471"
     ],
@@ -1092,10 +1029,7 @@
       "71",
       "3178",
       "3383",
-      "2372",
-      "3046",
-      "magic-dark",
-      "magic-time"
+      "3046"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -1166,15 +1100,10 @@
       "801",
       "710",
       "race-elf-sivakr",
-      "2372",
       "411",
-      "manual-mphcbgsb-wykgk",
-      "magic-earth",
-      "magic-force",
       "race-giant",
       "race-human",
-      "race-pixie",
-      "magic-fire"
+      "race-pixie"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -1251,10 +1180,7 @@
       "1328",
       "creature-magma-snails",
       "manual-mpgcpu0x-6vwvi",
-      "creature-titanwurm",
-      "magic-force",
-      "magic-water",
-      "magic-fire"
+      "creature-titanwurm"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -1290,10 +1216,7 @@
       "creature-magma-snails",
       "manual-mpgcpu0x-6vwvi",
       "creature-titanwurm",
-      "creature-dragons",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "creature-dragons"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -1341,8 +1264,7 @@
       "plane-celestia",
       "creature-dragons",
       "1326",
-      "1334",
-      "magic-light"
+      "1334"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -1424,9 +1346,7 @@
       "1355",
       "1354",
       "1358",
-      "manual-mpghf87j-5ry42",
-      "magic-fire",
-      "magic-time"
+      "manual-mpghf87j-5ry42"
     ],
     "tags": [
       "region"
@@ -1453,18 +1373,10 @@
       "2238",
       "2201",
       "2289",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "creature-dragons",
       "2228",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -1504,9 +1416,6 @@
       "3799",
       "race-giant",
       "4423",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time",
       "4446"
     ],
     "loreFile": "Upoceax.md",
@@ -1560,15 +1469,9 @@
       "3902",
       "race-dwarf-cendelle",
       "3817",
-      "2372",
       "3799",
-      "magic-force",
-      "magic-water",
       "race-giant",
-      "creature-orcs",
-      "magic-fire",
-      "magic-time",
-      "magic-void"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -1632,10 +1535,8 @@
       "3357",
       "3375",
       "3405",
-      "2372",
       "3376",
       "3394",
-      "manual-mphqwz19-951b6",
       "3390"
     ],
     "loreFile": "Upoceax.md",
@@ -1672,8 +1573,7 @@
       "3793",
       "manual-mpih7bat-clo5a",
       "3725",
-      "3662",
-      "manual-mpii94rh-4ulqj"
+      "3662"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -1705,7 +1605,6 @@
       "3288",
       "manual-mphcqwrl-01eaj",
       "3306",
-      "manual-mpii94rh-4ulqj",
       "3275",
       "3087",
       "3337",
@@ -1717,12 +1616,8 @@
       "3206",
       "2921",
       "race-goblin",
-      "2372",
       "3229",
-      "magic-force",
-      "magic-light",
-      "3231",
-      "magic-dark"
+      "3231"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -1777,10 +1672,8 @@
       "manual-mph5jmlv-475bd",
       "manual-mph5hyqq-objlt",
       "manual-mph5j5tz-sg8vd",
-      "magic-water",
       "manual-mph5ju5m-54vgn",
-      "race-koren-korel",
-      "manual-mphqwz19-951b6"
+      "race-koren-korel"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -1870,18 +1763,13 @@
       "2593",
       "2620",
       "2530",
-      "2372",
       "2484",
       "2519",
-      "magic-light",
       "2544",
       "person-ulyas",
       "race-dwarf-uline",
       "race-dwarf",
       "creature-orcs",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time",
       "race-rhea",
       "2611"
     ],
@@ -1927,7 +1815,6 @@
       "1544",
       "1579",
       "creature-trolls",
-      "2372",
       "1464"
     ],
     "loreFile": "Aboyinzu.md",
@@ -1977,7 +1864,6 @@
       "317",
       "manual-mph5bnva-jpnni",
       "349",
-      "manual-mpii94rh-4ulqj",
       "374",
       "224",
       "274",
@@ -1986,15 +1872,10 @@
       "18",
       "71",
       "338",
-      "2372",
       "493",
       "129",
-      "magic-force",
-      "magic-water",
       "race-krell",
-      "race-pixie",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-pixie"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -2044,10 +1925,8 @@
       "creature-nabuhe",
       "creature-pixies",
       "creature-titan",
-      "magic-light",
       "4154",
-      "race-dwarf",
-      "manual-mphqwz19-951b6"
+      "race-dwarf"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -2110,10 +1989,6 @@
       "manual-mphbt2hf-hd923",
       "race-halfling",
       "1798",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-void",
       "1805"
     ],
     "loreFile": "Aboyinzu.md",
@@ -2172,11 +2047,8 @@
       "creature-undead",
       "race-gnome-ansari",
       "race-triton",
-      "2372",
       "4276",
-      "4310",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -2275,14 +2147,9 @@
       "race-dwelyn",
       "race-kendor",
       "2815",
-      "2372",
-      "magic-water",
       "race-giant",
       "2774",
-      "manual-mphqwz19-951b6",
-      "2735",
-      "magic-dark",
-      "magic-time"
+      "2735"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -2357,7 +2224,6 @@
       "998",
       "creature-cirthikin",
       "1022",
-      "manual-mpii94rh-4ulqj",
       "1117",
       "947",
       "manual-mpghahhd-fo6s4",
@@ -2370,21 +2236,14 @@
       "nation-seyiki",
       "race-goblin",
       "race-orc-griebi",
-      "2372",
       "creature-twaan",
       "1035",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
       "race-giant",
       "race-gnome",
       "race-human",
       "race-skaag",
       "creature-orcs",
       "daemon-korn",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time",
       "magic-twyl",
       "1150"
     ],
@@ -2522,10 +2381,7 @@
       "390",
       "421",
       "556",
-      "magic-water",
       "race-dwarf",
-      "magic-dark",
-      "magic-time",
       "race-naga"
     ],
     "loreFile": "Clueanda.md",
@@ -2576,8 +2432,6 @@
       "4384",
       "2758",
       "race-nyolci",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "4446"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -2607,10 +2461,7 @@
       "1374",
       "1363",
       "1382",
-      "1383",
-      "magic-water",
-      "magic-dark",
-      "magic-fire"
+      "1383"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -2643,9 +2494,7 @@
       "4139",
       "4145",
       "creature-nabuhe",
-      "creature-titan",
-      "magic-dark",
-      "magic-time"
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -2677,8 +2526,7 @@
       "464",
       "430",
       "creature-dragons",
-      "race-goblin",
-      "magic-dark"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -2760,9 +2608,7 @@
       "268",
       "322",
       "71",
-      "magic-light",
-      "92",
-      "magic-time"
+      "92"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -2843,8 +2689,7 @@
     "relatedIds": [
       "6",
       "7",
-      "race-bfaspeen",
-      "magic-water"
+      "race-bfaspeen"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -2895,7 +2740,6 @@
       "manual-mpigns6x-mns3c",
       "manual-mph6630b-cl2dz",
       "manual-mpignw8h-ari7f",
-      "manual-mpii94rh-4ulqj",
       "1428",
       "manual-mpigokze-8l9yb",
       "manual-mphazhcw-cuf08",
@@ -2903,13 +2747,10 @@
       "manual-mphazqiq-b037e",
       "manual-mpignyf6-8uhkn",
       "manual-mph65zi3-5534t",
-      "2372",
       "manual-mph65rka-y6nyi",
-      "magic-water",
       "manual-mpigo9of-tvlcr",
       "manual-mpigohr2-n0at2",
-      "creature-hags",
-      "manual-mphqwz19-951b6"
+      "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -2999,12 +2840,9 @@
       "1754",
       "1962",
       "2236",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "1988",
-      "1944",
-      "2372",
-      "magic-dark"
+      "1944"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -3111,9 +2949,7 @@
       "1759",
       "1799",
       "manual-mphbt2hf-hd923",
-      "race-dwarf-grendel",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-dwarf-grendel"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -3174,15 +3010,11 @@
       "1332",
       "plane-material-plane",
       "1301",
-      "manual-mpii94rh-4ulqj",
       "453",
       "1310",
       "plane-celestia",
       "race-dwarf-zwaeron",
-      "manual-mphqwz19-951b6",
-      "magic-time",
-      "race-human-neth",
-      "2966"
+      "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -3242,14 +3074,10 @@
       "338",
       "61",
       "493",
-      "manual-mpii8krk-9f2qk",
-      "magic-earth",
-      "magic-water",
       "race-dwarf",
       "race-giant",
       "race-human",
-      "race-krell",
-      "magic-dark"
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -3283,9 +3111,7 @@
       "329",
       "race-koren-korel",
       "373",
-      "manual-mpii94rh-4ulqj",
       "193",
-      "magic-water",
       "race-koren"
     ],
     "loreFile": "Ve.md",
@@ -3362,12 +3188,7 @@
       "3206",
       "race-halfling-dengar",
       "race-kendor",
-      "2372",
       "3146",
-      "magic-earth",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "3046"
     ],
     "loreFile": "Rimihuica.md",
@@ -3468,16 +3289,11 @@
       "manual-mpih90gt-yf36d",
       "3921",
       "event-faesummer",
-      "manual-mpii94rh-4ulqj",
       "3913",
       "race-ulvsjael",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
       "person-ulvma",
       "race-human",
       "race-satyr",
-      "manual-mphqwz19-951b6",
       "person-gaea"
     ],
     "loreFile": "Upoceax.md",
@@ -3549,9 +3365,7 @@
       "race-lizardfolk-ixvasyla",
       "2453",
       "3275",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -3651,9 +3465,6 @@
       "manual-mphakmbu-y2mfb",
       "manual-mphakqt2-cf5xf",
       "race-ogre-silzar",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time",
       "race-elf-nemo"
     ],
     "loreFile": "Clueanda.md",
@@ -3730,12 +3541,7 @@
       "2555",
       "2593",
       "2519",
-      "magic-light",
       "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-fire",
-      "magic-time",
       "2611"
     ],
     "loreFile": "Kingdoms of Fire.md",
@@ -3766,9 +3572,7 @@
       "1292",
       "race-dwarf-zwaeron",
       "race-chulpe",
-      "magic-water",
       "race-human",
-      "manual-mphqwz19-951b6",
       "race-human-neth",
       "1682"
     ],
@@ -3800,8 +3604,6 @@
       "creature-feriptus",
       "1011",
       "race-human",
-      "magic-dark",
-      "magic-void",
       "race-orc-enti"
     ],
     "loreFile": "Clueanda.md",
@@ -3847,11 +3649,9 @@
       "3226",
       "3178",
       "manual-mphbsdtz-8wk8o",
-      "2372",
       "manual-mphaxqlz-w1u3a",
       "manual-mphqokew-o6eev",
       "3229",
-      "manual-mpii8krk-9f2qk",
       "manual-mphbs83f-3dmnk",
       "3231",
       "race-human-kuru",
@@ -3879,8 +3679,7 @@
     "parentId": "1248",
     "relatedIds": [
       "1248",
-      "race-dwarf-zwaeron",
-      "magic-water"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -3932,7 +3731,7 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "Ofrenia is the dominant island of the inner Middle Sea, positioned at the crossing of north–south sea lanes where the Clueandan coast gives way to the open passage toward Rimihuica…",
+    "blurb": "Ofrenia is the dominant island of the inner Middle Sea(/codex/390), positioned at the crossing of north–south sea(/codex/manual-mphbt2hf-hd923) lanes where the Clueandan coast gives way to the open passage toward Rimihuica(/codex/2453)…",
     "parentName": "Middle Sea",
     "containsCount": 7
   },
@@ -3950,7 +3749,6 @@
       "2857",
       "plane-material-plane",
       "560",
-      "manual-mpii94rh-4ulqj",
       "plane-psywinds",
       "creature-sprites",
       "magic-faesong",
@@ -3959,10 +3757,7 @@
       "514",
       "magic-deoric",
       "magic-kethic",
-      "magic-light",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -3991,7 +3786,6 @@
       "2352",
       "3427",
       "3405",
-      "2372",
       "3426"
     ],
     "loreFile": "Upoceax.md",
@@ -4024,11 +3818,7 @@
       "71",
       "338",
       "17",
-      "493",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "493"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -4060,10 +3850,6 @@
       "998",
       "1011",
       "creature-dragons",
-      "2372",
-      "manual-mphcbgsb-wykgk",
-      "magic-earth",
-      "magic-water",
       "race-giant"
     ],
     "loreFile": "Clueanda.md",
@@ -4095,13 +3881,9 @@
       "manual-mph548r2-t2bbo",
       "4033",
       "4031",
-      "manual-mpii94rh-4ulqj",
       "3913",
-      "magic-earth",
-      "magic-water",
       "race-human",
-      "race-satyr",
-      "magic-dark"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -4257,11 +4039,8 @@
       "368",
       "race-halfling-shailin",
       "338",
-      "2372",
       "129",
-      "231",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "231"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -4298,9 +4077,7 @@
       "2079",
       "1806",
       "1754",
-      "1388",
-      "magic-water",
-      "magic-dark"
+      "1388"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -4326,13 +4103,7 @@
       "race-ogre-groyza",
       "2819",
       "1327",
-      "magic-earth",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time",
-      "race-elf-nemo",
-      "2966"
+      "race-elf-nemo"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -4387,11 +4158,7 @@
       "1122",
       "magic-languages",
       "1154",
-      "2372",
-      "manual-mphcbgsb-wykgk",
-      "magic-water",
       "race-giant",
-      "manual-mphqwz19-951b6",
       "1150"
     ],
     "loreFile": "Clueanda.md",
@@ -4570,8 +4337,7 @@
     "parentId": null,
     "relatedIds": [
       "390",
-      "2574",
-      "magic-fire"
+      "2574"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -4611,8 +4377,7 @@
       "1066",
       "2544",
       "race-dwarf",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -4645,10 +4410,7 @@
       "manual-mph4s2ow-ouogd",
       "manual-mph5k6xw-prs2h",
       "manual-mph4rpj8-pgziz",
-      "2372",
-      "magic-light",
-      "manual-mph5hm69-ojqko",
-      "magic-time"
+      "manual-mph5hm69-ojqko"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -4715,7 +4477,7 @@
     ],
     "tags": [],
     "atmosphere": "nature",
-    "blurb": "The windswept wasteland between the Eceraen Mountains in the north and the Whitewall glacier fields to the south—a vast expanse of frozen emptiness that forms Venalthier's northern interior…",
+    "blurb": "The windswept wasteland between the Eceraen Mountains(/codex/3952) in the north and the Whitewall glacier fields to the south—a vast expanse of frozen emptiness that forms Venalthier(/codex/4085)'s northern interior…",
     "parentName": "Venalthier"
   },
   {
@@ -4736,8 +4498,7 @@
       "creature-lady",
       "race-tuktuk",
       "3468",
-      "manual-mpii6khk-6c4c3",
-      "magic-light"
+      "manual-mpii6khk-6c4c3"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -4799,11 +4560,7 @@
       "4485",
       "4413",
       "4467",
-      "2372",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "4411",
-      "magic-fire",
       "4484",
       "4471"
     ],
@@ -4864,8 +4621,7 @@
       "1158",
       "1011",
       "1084",
-      "1186",
-      "magic-water"
+      "1186"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -4888,8 +4644,7 @@
     "zoomLevel": 2,
     "parentId": "1346",
     "relatedIds": [
-      "1346",
-      "magic-water"
+      "1346"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -4922,21 +4677,16 @@
       "race-orc-glivornaxi",
       "1022",
       "race-orc-shazuihni",
-      "manual-mpii94rh-4ulqj",
       "2582",
       "manual-mpgh9qez-umkf1",
       "1128",
       "1137",
       "1179",
       "race-orc-griebi",
-      "2372",
       "1035",
-      "magic-water",
       "race-orc-tarni",
       "creature-orcs",
       "daemon-dyos",
-      "manual-mphqwz19-951b6",
-      "magic-time",
       "1150"
     ],
     "loreFile": "Clueanda.md",
@@ -4968,9 +4718,6 @@
       "918",
       "race-dwarf-zwaeron",
       "1290",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
       "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
@@ -4996,11 +4743,7 @@
       "1263",
       "1252",
       "1311",
-      "manual-mpii94rh-4ulqj",
       "race-dwarf-zwaeron",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
       "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
@@ -5036,8 +4779,7 @@
       "1400",
       "1406",
       "1401",
-      "creature-trolls",
-      "magic-water"
+      "creature-trolls"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -5192,8 +4934,7 @@
       "plane-material-plane",
       "creature-atowatowa",
       "plane-malstaris",
-      "plane-celestia",
-      "manual-mphqwz19-951b6"
+      "plane-celestia"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -5316,9 +5057,7 @@
       "person-selron-ii",
       "2453",
       "2574",
-      "2555",
-      "magic-water",
-      "magic-fire"
+      "2555"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -5376,12 +5115,8 @@
       "2742",
       "race-kendor",
       "2815",
-      "2372",
-      "magic-water",
       "race-giant",
-      "manual-mphqwz19-951b6",
-      "2727",
-      "magic-time"
+      "2727"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -5460,13 +5195,9 @@
       "752",
       "624",
       "390",
-      "manual-mpii94rh-4ulqj",
       "race-goblin-scalawag",
       "race-sharabha",
-      "race-goblin",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -5503,7 +5234,6 @@
       "3982",
       "3917",
       "creature-drakes",
-      "magic-water",
       "race-satyr"
     ],
     "loreFile": "Upoceax.md",
@@ -5547,7 +5277,6 @@
       "114",
       "race-lizardfolk-ixmeglyakuk",
       "race-lizardfolk",
-      "magic-water",
       "race-krell"
     ],
     "loreFile": "Ve.md",
@@ -5586,13 +5315,7 @@
       "3972",
       "manual-mpih90gt-yf36d",
       "3922",
-      "manual-mpii94rh-4ulqj",
-      "race-ulvsjael",
-      "manual-mphcbgsb-wykgk",
-      "magic-light",
-      "magic-water",
-      "magic-dark",
-      "magic-time"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -5626,16 +5349,12 @@
       "2298",
       "manual-mph5o478-ilww3",
       "creature-ice-wyrms",
-      "manual-mpii94rh-4ulqj",
       "453",
       "2259",
       "2342",
       "manual-mph5oc6z-g4sqo",
       "manual-mph5ny7n-m1wi0",
-      "creature-titan",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -5668,7 +5387,6 @@
       "463",
       "390",
       "creature-undead",
-      "magic-force",
       "race-ghoul",
       "race-gnome",
       "864"
@@ -5711,7 +5429,6 @@
       "1292",
       "1278",
       "1290",
-      "manual-mphqwz19-951b6",
       "race-human-neth",
       "1682"
     ],
@@ -5743,9 +5460,7 @@
       "1606",
       "manual-mph6063i-vvg24",
       "race-orc-tytheri",
-      "magic-water",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -5777,10 +5492,7 @@
       "96",
       "303",
       "493",
-      "magic-light",
-      "race-giant",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "race-giant"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -5816,10 +5528,7 @@
       "person-hermelia",
       "3802",
       "3803",
-      "3804",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "3804"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -5844,9 +5553,7 @@
     "relatedIds": [
       "1",
       "race-triton",
-      "7",
-      "magic-light",
-      "magic-dark"
+      "7"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -5906,8 +5613,7 @@
       "race-frialve",
       "creature-bygos-shemazari",
       "1832",
-      "creature-shemazari",
-      "magic-time"
+      "creature-shemazari"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -5939,13 +5645,7 @@
       "creature-qorgath",
       "creature-erzqin",
       "creature-shades",
-      "4276",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-fire",
-      "magic-time"
+      "4276"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -6063,8 +5763,6 @@
       "2023",
       "1520",
       "1899",
-      "2372",
-      "magic-light",
       "race-ogre"
     ],
     "loreFile": "Aboyinzu.md",
@@ -6138,7 +5836,6 @@
       "1867",
       "1865",
       "1520",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "1544",
       "plane-celestia",
@@ -6148,8 +5845,6 @@
       "manual-mphbbma7-tn01q",
       "race-minotaur-rentar",
       "1524",
-      "2372",
-      "magic-light",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -6230,8 +5925,7 @@
       "3061",
       "2875",
       "2868",
-      "2857",
-      "manual-mphqwz19-951b6"
+      "2857"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -6273,11 +5967,9 @@
       "manual-mphcf46l-3ua62",
       "4363",
       "3098",
-      "manual-mpii94rh-4ulqj",
       "manual-mpjrcf71-vystr",
       "creature-monsters",
-      "race-halfling-dengar",
-      "magic-water"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -6305,10 +5997,7 @@
       "4106",
       "manual-mpihyyf5-f1xtw",
       "4117",
-      "creature-nabuhe",
-      "magic-light",
-      "magic-water",
-      "magic-dark"
+      "creature-nabuhe"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -6363,12 +6052,7 @@
       "1806",
       "1754",
       "creature-true-name",
-      "manual-mpii94rh-4ulqj",
-      "1927",
-      "2372",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "1927"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -6407,8 +6091,6 @@
       "manual-mpigjd4d-93pt6",
       "manual-mpigj1by-itb9w",
       "manual-mpigizce-jqbff",
-      "manual-mphqwz19-951b6",
-      "magic-time",
       "race-orc-enti"
     ],
     "loreFile": "Clueanda.md",
@@ -6461,14 +6143,10 @@
       "1767",
       "1705",
       "1754",
-      "manual-mpii94rh-4ulqj",
       "manual-mphbt2hf-hd923",
       "1388",
       "1515",
-      "1729",
-      "magic-water",
-      "magic-dark",
-      "magic-time"
+      "1729"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -6526,8 +6204,7 @@
       "manual-mpihi6y6-yupjp",
       "manual-mpihchh6-uf7kf",
       "manual-mpihd5cm-1f5fw",
-      "creature-titan",
-      "manual-mphqwz19-951b6"
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -6557,11 +6234,9 @@
       "race-dwarf-dern",
       "race-dwarf-hestrube",
       "298",
-      "manual-mpii94rh-4ulqj",
       "18",
       "338",
       "race-lyzine",
-      "2372",
       "359",
       "95"
     ],
@@ -6588,8 +6263,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
-      "388",
-      "magic-fire"
+      "388"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -6669,10 +6343,7 @@
       "1777",
       "1799",
       "manual-mphbt2hf-hd923",
-      "race-dwarf-grendel",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-dwarf-grendel"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -6702,8 +6373,7 @@
       "4252",
       "manual-mpiftlzz-35uhf",
       "race-swordsmen",
-      "race-human-drachma",
-      "magic-time"
+      "race-human-drachma"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -6746,9 +6416,7 @@
       "3680",
       "3662",
       "3677",
-      "3799",
-      "magic-water",
-      "magic-fire"
+      "3799"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -6797,11 +6465,7 @@
       "3902",
       "3972",
       "4085",
-      "manual-mpii94rh-4ulqj",
-      "race-ulvsjael",
-      "magic-force",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -6864,9 +6528,7 @@
       "race-chulpe-skree",
       "1653",
       "1723",
-      "1388",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "1388"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -6900,8 +6562,7 @@
       "516",
       "race-goblin-scalawag",
       "720",
-      "race-goblin",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -6980,9 +6641,7 @@
       "race-lizardfolk-ixmeglyakuk",
       "284",
       "race-lizardfolk",
-      "493",
-      "magic-water",
-      "magic-time"
+      "493"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -7034,7 +6693,6 @@
       "race-human",
       "race-craven",
       "race-human-stone-men",
-      "manual-mpii94rh-4ulqj",
       "2574",
       "453",
       "creature-monsters",
@@ -7096,9 +6754,7 @@
       "3048",
       "manual-mpjrcf71-vystr",
       "3087",
-      "3206",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3206"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -7138,7 +6794,6 @@
       "race-halfling-belenstrope",
       "390",
       "race-halfling",
-      "2372",
       "manual-mphr471a-m34fc"
     ],
     "loreFile": "Clueanda.md",
@@ -7228,11 +6883,9 @@
       "667",
       "681",
       "race-gnome-ohblex",
-      "2372",
       "race-gnome",
       "race-human",
-      "666",
-      "magic-time"
+      "666"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -7273,7 +6926,6 @@
     "parentId": "1",
     "relatedIds": [
       "1",
-      "magic-water",
       "race-koren-korel"
     ],
     "loreFile": "Ve.md",
@@ -7330,14 +6982,10 @@
       "4033",
       "3967",
       "4067",
-      "manual-mpii94rh-4ulqj",
       "creature-monsters",
       "race-ulvsjael",
       "creature-ghosts",
-      "magic-light",
-      "magic-water",
-      "race-satyr",
-      "magic-time"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -7408,8 +7056,7 @@
       "4418",
       "race-kendor-kendrel",
       "2634",
-      "2758",
-      "manual-mphqwz19-951b6"
+      "2758"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [
@@ -7467,8 +7114,7 @@
       "2079",
       "1754",
       "race-goblin",
-      "creature-titan",
-      "magic-time"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -7524,10 +7170,7 @@
       "2201",
       "1388",
       "creature-titan",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -7555,13 +7198,9 @@
       "2317",
       "2332",
       "2352",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "2345",
-      "2305",
-      "magic-force",
-      "magic-light",
-      "manual-mphqwz19-951b6"
+      "2305"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -7652,8 +7291,7 @@
       "daemon-kiev",
       "2573",
       "person-khalira",
-      "2574",
-      "magic-fire"
+      "2574"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -7697,7 +7335,6 @@
       "4369",
       "race-kendor-cendoriln",
       "race-bfaspeen",
-      "magic-water",
       "race-giant"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -7776,8 +7413,7 @@
       "576",
       "574",
       "693",
-      "577",
-      "magic-earth"
+      "577"
     ],
     "tags": [
       "state",
@@ -7881,11 +7517,8 @@
       "1311",
       "1022",
       "manual-mpgh9qez-umkf1",
-      "2372",
       "1035",
-      "magic-water",
       "race-human",
-      "manual-mphqwz19-951b6",
       "1150"
     ],
     "loreFile": "Clueanda.md",
@@ -7954,15 +7587,11 @@
       "4387",
       "2683",
       "race-naruaghin",
-      "manual-mpii94rh-4ulqj",
       "2682",
       "magic-faesong",
       "creature-monkin",
       "faction-druids",
-      "manual-mphqwz19-951b6",
-      "2735",
-      "magic-fire",
-      "magic-time"
+      "2735"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -7992,8 +7621,7 @@
       "1786",
       "1759",
       "1785",
-      "race-dwarf-grendel",
-      "magic-water"
+      "race-dwarf-grendel"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -8106,7 +7734,6 @@
       "485",
       "590",
       "race-goblin",
-      "2372",
       "438",
       "493"
     ],
@@ -8162,11 +7789,8 @@
       "1388",
       "creature-undead",
       "1670",
-      "2372",
       "1597",
-      "1514",
-      "magic-light",
-      "magic-time"
+      "1514"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -8218,9 +7842,7 @@
       "creature-dragons",
       "manual-mpjrcf71-enapy",
       "race-dwelyn",
-      "magic-water",
-      "2735",
-      "magic-time"
+      "2735"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [
@@ -8246,8 +7868,7 @@
       "3106",
       "3093",
       "3087",
-      "race-halfling-dengar",
-      "magic-water"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -8319,9 +7940,7 @@
       "race-dwarf-surry",
       "manual-mpghbn1h-5h2la",
       "928",
-      "creature-cirthikin",
-      "magic-earth",
-      "manual-mphqwz19-951b6"
+      "creature-cirthikin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -8386,7 +8005,6 @@
       "1206",
       "719",
       "1195",
-      "magic-force",
       "creature-orcs",
       "daemon-dyos"
     ],
@@ -8506,15 +8124,12 @@
     "parentId": "1248",
     "relatedIds": [
       "1248",
-      "1254",
-      "magic-force",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "1254"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "nature",
-    "blurb": "A cluster of low, rocky hills rising from the frozen steppe of the Celedrim Plains, the Hills of Starfire take their name from the deep furrows that stripe their slopes—long gouges in the rock running at consistent angles, as if something fell from the sky at speed and dragged across the ground before the plains swallowed it…",
+    "blurb": "A cluster of low, rocky hills rising from the frozen steppe of the Celedrim Plains(/codex/1248), the Hills of Starfire take their name from the deep furrows that stripe their slopes—long gouges in the rock running at consistent angles, as if something fell from the sky at speed and dragged across the ground before the plains swallowed it…",
     "parentName": "Celedrim Plains"
   },
   {
@@ -8535,7 +8150,7 @@
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "nature",
-    "blurb": "A low range of rounded hills occupying the far western margin of the Celedrim Plains, where the steppe begins to blur toward the Northlands…",
+    "blurb": "A low range of rounded hills occupying the far western margin of the Celedrim Plains(/codex/1248), where the steppe begins to blur toward the Northlands(/codex/1311)…",
     "parentName": "Celedrim Plains"
   },
   {
@@ -8585,8 +8200,7 @@
       "3902",
       "manual-mpihbdvh-xue3f",
       "manual-mpihb6u5-600t7",
-      "creature-titan",
-      "manual-mphqwz19-951b6"
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -8624,9 +8238,7 @@
       "3383",
       "manual-mpii2vku-fem83",
       "manual-mpii2rm4-chkcl",
-      "manual-mpii2o84-9ocsy",
-      "magic-force",
-      "magic-water"
+      "manual-mpii2o84-9ocsy"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -8667,10 +8279,8 @@
       "manual-mpii6z41-f6glj",
       "manual-mpii718h-aact5",
       "3375",
-      "magic-water",
       "3394",
       "manual-mpii72yw-mnsjt",
-      "magic-dark",
       "3397"
     ],
     "loreFile": "Upoceax.md",
@@ -8795,7 +8405,6 @@
       "3342",
       "4302",
       "2453",
-      "manual-mpii94rh-4ulqj",
       "2758",
       "race-giant",
       "race-human",
@@ -8836,13 +8445,10 @@
       "4242",
       "4302",
       "2453",
-      "manual-mpii94rh-4ulqj",
       "4255",
       "2758",
-      "magic-water",
       "race-human",
-      "4310",
-      "manual-mphqwz19-951b6"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -8874,11 +8480,7 @@
       "2395",
       "2390",
       "2430",
-      "race-elf-istori",
-      "magic-force",
-      "magic-water",
-      "magic-fire",
-      "magic-void"
+      "race-elf-istori"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -8913,11 +8515,8 @@
       "manual-mpihbrht-312f0",
       "manual-mpihbdvh-xue3f",
       "3498",
-      "manual-mpii94rh-4ulqj",
       "manual-mpihb6u5-600t7",
-      "3573",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "3573"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -8963,7 +8562,6 @@
       "manual-mphcahw3-0ox67",
       "manual-mphcaw66-zgnro",
       "631",
-      "manual-mphcbgsb-wykgk",
       "manual-mphcbdlh-il5f7"
     ],
     "loreFile": "Clueanda.md",
@@ -9009,8 +8607,6 @@
       "creature-trolls",
       "1290",
       "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
       "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
@@ -9034,8 +8630,7 @@
     "parentId": "284",
     "relatedIds": [
       "284",
-      "17",
-      "magic-water"
+      "17"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -9073,7 +8668,6 @@
       "3037",
       "manual-mph6bluv-cljks",
       "71",
-      "2372",
       "3046"
     ],
     "loreFile": "Rimihuica.md",
@@ -9127,7 +8721,6 @@
     "relatedIds": [
       "3206",
       "manual-mphcf46l-3ua62",
-      "manual-mpii94rh-4ulqj",
       "3229"
     ],
     "loreFile": "Rimihuica.md",
@@ -9160,10 +8753,7 @@
       "manual-mpha3di4-etrb5",
       "2574",
       "2593",
-      "magic-force",
-      "race-human",
-      "magic-fire",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -9221,7 +8811,6 @@
       "manual-mpigvb3d-vlgra",
       "manual-mph60hs5-8pttx",
       "manual-mph5zvef-1ived",
-      "magic-water",
       "manual-mpiguvpf-mvvp4",
       "creature-orcs",
       "manual-mph612ql-cs75y",
@@ -9276,12 +8865,8 @@
       "3902",
       "3946",
       "4123",
-      "manual-mpii94rh-4ulqj",
       "creature-undead",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -9431,16 +9016,13 @@
       "event-the-severance",
       "2473",
       "2536",
-      "manual-mpii94rh-4ulqj",
       "2574",
       "453",
       "race-neferati",
       "2555",
       "2472",
       "2533",
-      "manual-mphaatp1-bcdf0",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "manual-mphaatp1-bcdf0"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -9475,9 +9057,7 @@
       "race-human-shontobi",
       "148",
       "322",
-      "338",
-      "2372",
-      "manual-mphqwz19-951b6"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -9512,7 +9092,7 @@
       "geography"
     ],
     "atmosphere": "nature",
-    "blurb": "The Kilbyurn Mountains form the western boundary of Wycendeula—a massive, snow-capped range taller and more rugged than any other highland in the region, with jagged peaks that stay white year-round and valleys choked by ancient forest…",
+    "blurb": "The Kilbyurn Mountains form the western boundary of Wycendeula(/codex/3902)—a massive, snow-capped range taller and more rugged than any other highland in the region, with jagged peaks that stay white year-round and valleys choked by ancient forest…",
     "parentName": "Wycendeula",
     "containsCount": 1
   },
@@ -9550,7 +9130,6 @@
       "1401",
       "2443",
       "2420",
-      "magic-force",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -9587,7 +9166,6 @@
       "981",
       "388",
       "manual-mph71itd-6g6tw",
-      "magic-water",
       "4310"
     ],
     "loreFile": "Western_Isles.md",
@@ -9648,9 +9226,7 @@
       "person-hermelia",
       "race-goblin",
       "creature-twaan",
-      "494",
-      "magic-water",
-      "magic-fire"
+      "494"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -9760,13 +9336,8 @@
       "137",
       "197",
       "338",
-      "2372",
       "493",
-      "magic-force",
-      "magic-water",
       "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -9803,9 +9374,7 @@
       "2805",
       "magic-midnight-fire",
       "2734",
-      "2854",
-      "magic-water",
-      "magic-fire"
+      "2854"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -9886,7 +9455,6 @@
       "1978",
       "1895",
       "1977",
-      "2372",
       "1979"
     ],
     "loreFile": "Aboyinzu.md",
@@ -9996,15 +9564,10 @@
       "3189",
       "3255",
       "faction-druids",
-      "2372",
       "manual-mphqoxh1-jg43e",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
       "manual-mphqpe6f-25e2g",
       "race-human",
-      "manual-mphcnazg-3849y",
-      "magic-time"
+      "manual-mphcnazg-3849y"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -10094,10 +9657,7 @@
       "manual-mph64lhc-ramgt",
       "race-lizardfolk-ixlorett",
       "1388",
-      "1623",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "1623"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -10128,8 +9688,7 @@
       "3680",
       "3700",
       "3684",
-      "3724",
-      "magic-fire"
+      "3724"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -10157,11 +9716,11 @@
       "race-naga-nagakani",
       "3820",
       "3679",
+      "overview-creatures",
       "manual-mpih7bat-clo5a",
       "3662",
       "453",
-      "race-centaur",
-      "manual-mphqwz19-951b6"
+      "race-centaur"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -10188,11 +9747,9 @@
       "3151",
       "race-goblin-mudzwiti",
       "creature-dinosaurs",
-      "manual-mpii94rh-4ulqj",
       "manual-mphayxz1-j0vk3",
       "race-alekroin",
-      "race-goblin",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -10228,11 +9785,7 @@
       "race-lizardfolk",
       "1388",
       "manual-mph6558x-37uls",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -10278,13 +9831,10 @@
       "3880",
       "3885",
       "3854",
-      "2372",
       "3840",
       "3898",
       "3799",
-      "magic-water",
       "race-human",
-      "manual-mphqwz19-951b6",
       "race-ogre"
     ],
     "loreFile": "Upoceax.md",
@@ -10359,10 +9909,7 @@
       "3689",
       "3680",
       "3684",
-      "manual-mpii94rh-4ulqj",
-      "race-human-gezzerin",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-human-gezzerin"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -10385,8 +9932,6 @@
     "parentId": "129",
     "relatedIds": [
       "129",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
       "race-koren-korel"
     ],
     "loreFile": "Ve.md",
@@ -10416,12 +9961,9 @@
       "race-dwarf-dern",
       "manual-mph5fg9z-x69z4",
       "338",
-      "magic-force",
-      "magic-light",
       "race-human",
       "92",
-      "manual-mph4venj-lkmzf",
-      "magic-time"
+      "manual-mph4venj-lkmzf"
     ],
     "loreFile": "Mez.md",
     "tags": [
@@ -10443,8 +9985,7 @@
     "parentId": "872",
     "relatedIds": [
       "872",
-      "3061",
-      "manual-mphqwz19-951b6"
+      "3061"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -10469,10 +10010,7 @@
       "1388",
       "1776",
       "1544",
-      "1729",
-      "magic-light",
-      "magic-water",
-      "magic-dark"
+      "1729"
     ],
     "loreFile": "Mikisapi Forest.md",
     "tags": [
@@ -10505,10 +10043,7 @@
       "manual-mph5qnsd-i1l38",
       "manual-mpigx5ih-jzrp1",
       "manual-mpigx19v-ubj0s",
-      "manual-mpigwyml-1x907",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "manual-mpigwyml-1x907"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -10570,10 +10105,7 @@
       "1754",
       "430",
       "race-goblin",
-      "creature-titan",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -10604,9 +10136,7 @@
       "manual-mpii3fga-ragm2",
       "manual-mpii41fi-kwcyp",
       "manual-mpii3r77-xn5l8",
-      "manual-mpii4by2-01ufq",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "manual-mpii4by2-01ufq"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -10755,8 +10285,7 @@
       "1410",
       "1422",
       "1416",
-      "creature-undead",
-      "manual-mphqwz19-951b6"
+      "creature-undead"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -10780,12 +10309,8 @@
       "4443",
       "4387",
       "creature-true-name",
-      "manual-mpii94rh-4ulqj",
       "plane-celestia",
-      "race-dwarf-velwey",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-dwarf-velwey"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [
@@ -10865,14 +10390,11 @@
       "2782",
       "2779",
       "2453",
-      "manual-mpii94rh-4ulqj",
       "2767",
       "manual-mpift1wj-i7n5w",
       "2771",
       "2776",
-      "magic-water",
-      "2774",
-      "manual-mphqwz19-951b6"
+      "2774"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -10901,9 +10423,7 @@
       "1738",
       "race-orc-tytheri",
       "creature-ghosts",
-      "creature-orcs",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -10935,7 +10455,6 @@
       "manual-mph728ir-59ztz",
       "2546",
       "418",
-      "manual-mpii94rh-4ulqj",
       "2574",
       "2582",
       "719",
@@ -10943,9 +10462,7 @@
       "2550",
       "2547",
       "creature-titan",
-      "magic-water",
-      "race-human",
-      "magic-fire"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -10991,9 +10508,7 @@
       "manual-mphqvfo9-1z7oe",
       "2926",
       "race-sylthik",
-      "magic-water",
       "race-human",
-      "manual-mphqwz19-951b6",
       "2927"
     ],
     "loreFile": "Rimihuica.md",
@@ -11032,16 +10547,12 @@
       "race-gnome",
       "4363",
       "4403",
-      "manual-mpii94rh-4ulqj",
       "4410",
       "4412",
       "4414",
       "4413",
-      "magic-earth",
       "race-human",
       "4411",
-      "magic-dark",
-      "magic-fire",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -11075,18 +10586,14 @@
       "2488",
       "2565",
       "manual-mpha3di4-etrb5",
-      "manual-mpii94rh-4ulqj",
       "2574",
       "2463",
       "race-neferati",
       "2530",
       "2484",
-      "magic-light",
-      "magic-water",
       "person-ulyas",
       "2568",
       "race-human",
-      "magic-fire",
       "2611"
     ],
     "loreFile": "Rimihuica.md",
@@ -11298,16 +10805,11 @@
       "4139",
       "3984",
       "creature-ezra-olkanis",
-      "manual-mpii94rh-4ulqj",
       "4117",
       "4145",
       "3961",
       "creature-nabuhe",
-      "magic-force",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time",
-      "magic-void"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -11377,7 +10879,6 @@
       "manual-mpifor24-v9qqc",
       "4487",
       "4485",
-      "magic-light",
       "4484",
       "4471"
     ],
@@ -11404,10 +10905,7 @@
       "4369",
       "race-kendor-cendoriln",
       "race-bfaspeen",
-      "race-kendor-kendrel",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "race-kendor-kendrel"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [
@@ -11440,8 +10938,7 @@
       "1248",
       "1328",
       "1311",
-      "race-dwarf-zwaeron",
-      "magic-force"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -11518,9 +11015,7 @@
       "2968",
       "3093",
       "race-dwarf-stromgodden",
-      "race-halfling-dengar",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -11554,18 +11049,13 @@
       "4165",
       "4166",
       "manual-mpifts0q-rkqps",
-      "manual-mpii94rh-4ulqj",
       "388",
       "manual-mph71itd-6g6tw",
       "race-triton",
       "4262",
       "4276",
-      "magic-light",
-      "magic-water",
       "4285",
-      "4310",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -11617,7 +11107,6 @@
       "1036",
       "719",
       "creature-titan",
-      "magic-water",
       "2544"
     ],
     "loreFile": "Clueanda.md",
@@ -11736,9 +11225,7 @@
     "relatedIds": [
       "1254",
       "1248",
-      "manual-mpii94rh-4ulqj",
-      "race-dwarf-zwaeron",
-      "magic-water"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -11827,7 +11314,6 @@
       "1583",
       "1410",
       "1675",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "1718",
       "1721",
@@ -11835,9 +11321,7 @@
       "1677",
       "race-elf-kryaaji",
       "creature-undead",
-      "magic-light",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -11910,10 +11394,8 @@
       "3178",
       "2921",
       "creature-titan",
-      "magic-water",
       "race-human",
       "2996",
-      "magic-time",
       "race-elf-vyko"
     ],
     "loreFile": "Rimihuica.md",
@@ -11940,13 +11422,9 @@
     "relatedIds": [
       "322",
       "329",
-      "manual-mpii94rh-4ulqj",
       "race-halfling-shailin",
       "231",
-      "magic-water",
-      "race-koren-korel",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-koren-korel"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -11992,8 +11470,6 @@
       "302",
       "race-halfling",
       "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
       "4446",
       "4471"
     ],
@@ -12022,9 +11498,6 @@
     "relatedIds": [
       "manual-mpihv2qf-qcodz",
       "4430",
-      "manual-mpii94rh-4ulqj",
-      "magic-force",
-      "magic-light",
       "4423"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -12045,7 +11518,6 @@
     "relatedIds": [
       "1806",
       "creature-shemazari",
-      "magic-water",
       "1823"
     ],
     "loreFile": "Aboyinzu.md",
@@ -12153,8 +11625,7 @@
       "3820",
       "3902",
       "3662",
-      "453",
-      "magic-fire"
+      "453"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -12181,11 +11652,7 @@
       "manual-mpihzt0w-8ry2f",
       "manual-mpihyyf5-f1xtw",
       "453",
-      "creature-nabuhe",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "creature-nabuhe"
     ],
     "loreFile": "Scepter Mountains.md",
     "tags": [
@@ -12279,8 +11746,6 @@
       "2453",
       "4252",
       "2758",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "4332"
     ],
     "loreFile": "Western_Isles.md",
@@ -12358,8 +11823,7 @@
       "4123",
       "4117",
       "3961",
-      "creature-nabuhe",
-      "magic-time"
+      "creature-nabuhe"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -12385,9 +11849,7 @@
       "1311",
       "1321",
       "creature-atowatowa",
-      "plane-celestia",
-      "magic-light",
-      "magic-dark"
+      "plane-celestia"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -12415,8 +11877,6 @@
       "998",
       "981",
       "1117",
-      "2372",
-      "magic-force",
       "race-giant",
       "creature-orcs",
       "magic-twyl"
@@ -12452,7 +11912,6 @@
       "creature-shemazari",
       "nation-urzula",
       "creature-titan",
-      "magic-water",
       "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
@@ -12520,11 +11979,7 @@
       "2462",
       "race-orc-shazuihni",
       "988",
-      "1195",
-      "2372",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-void"
+      "1195"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -12583,9 +12038,7 @@
       "3338",
       "race-neferati",
       "4252",
-      "4276",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "4276"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -12634,12 +12087,9 @@
       "317",
       "race-halfling-shailin",
       "322",
-      "manual-mphcbgsb-wykgk",
       "129",
       "231",
-      "magic-light",
-      "race-koren-korel",
-      "manual-mphqwz19-951b6"
+      "race-koren-korel"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -12718,8 +12168,7 @@
       "2634",
       "race-goblin-blitzling",
       "2651",
-      "2494",
-      "manual-mphqwz19-951b6"
+      "2494"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -12755,8 +12204,6 @@
       "manual-mphayuds-21pl5",
       "3178",
       "3206",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "manual-mphayn4a-k6x35",
       "manual-mphek23r-ucbum"
     ],
@@ -13037,8 +12484,7 @@
     "zoomLevel": 3,
     "parentId": "6",
     "relatedIds": [
-      "6",
-      "magic-light"
+      "6"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -13080,13 +12526,8 @@
       "4194",
       "4166",
       "4165",
-      "manual-mpii94rh-4ulqj",
       "manual-mph71itd-6g6tw",
-      "race-elf-xicrein",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-void"
+      "race-elf-xicrein"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -13239,11 +12680,7 @@
       "2410",
       "2430",
       "2381",
-      "2420",
-      "manual-mpii8krk-9f2qk",
-      "magic-light",
-      "magic-dark",
-      "magic-void"
+      "2420"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -13297,7 +12734,6 @@
       "nation-kingdoms-of-fire",
       "2565",
       "manual-mpha3di4-etrb5",
-      "magic-fire",
       "2611"
     ],
     "loreFile": "Rimihuica.md",
@@ -13331,7 +12767,6 @@
       "1023",
       "993",
       "1195",
-      "magic-water",
       "creature-orcs"
     ],
     "loreFile": "Clueanda.md",
@@ -13386,8 +12821,6 @@
       "2266",
       "manual-mphboyus-0zjag",
       "manual-mphb4ivz-3yn78",
-      "2372",
-      "magic-water",
       "manual-mphb4nb1-kfnv5",
       "manual-mph5wc2t-655cv"
     ],
@@ -13423,11 +12856,8 @@
       "1141",
       "1107",
       "1032",
-      "2372",
       "manual-mph6mttf-l1v32",
       "1035",
-      "magic-force",
-      "magic-water",
       "race-human",
       "1150"
     ],
@@ -13455,14 +12885,10 @@
       "race-troenka",
       "1079",
       "1183",
-      "manual-mpii94rh-4ulqj",
       "1011",
       "creature-wyverns",
       "1084",
-      "race-grayls",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "race-grayls"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -13490,8 +12916,7 @@
       "1817",
       "creature-anchor-trees",
       "1822",
-      "1823",
-      "magic-dark"
+      "1823"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -13516,7 +12941,6 @@
       "1520",
       "1832",
       "creature-monsters",
-      "magic-water",
       "race-giant",
       "1823"
     ],
@@ -13538,8 +12962,7 @@
     "parentId": "1361",
     "relatedIds": [
       "1361",
-      "453",
-      "magic-fire"
+      "453"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -13593,12 +13016,9 @@
       "1248",
       "plane-astral-plane",
       "1252",
-      "manual-mpii94rh-4ulqj",
       "1289",
       "race-dwarf-zwaeron",
       "1260",
-      "magic-water",
-      "magic-dark",
       "1283",
       "race-human-neth"
     ],
@@ -13625,9 +13045,7 @@
       "race-bfaspeen",
       "4418",
       "4381",
-      "4384",
-      "2372",
-      "magic-fire"
+      "4384"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -13848,10 +13266,7 @@
     "relatedIds": [
       "1843",
       "manual-mphbt2hf-hd923",
-      "manual-mphcbgsb-wykgk",
-      "magic-water",
-      "1823",
-      "manual-mphqwz19-951b6"
+      "1823"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -13883,10 +13298,8 @@
       "1754",
       "1776",
       "2145",
-      "manual-mpii94rh-4ulqj",
       "4145",
       "creature-titan",
-      "magic-earth",
       "race-human",
       "1805"
     ],
@@ -13956,9 +13369,7 @@
       "555",
       "467",
       "399",
-      "388",
-      "magic-water",
-      "magic-dark"
+      "388"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -13997,10 +13408,7 @@
       "creature-monsters",
       "race-ulvsjael",
       "race-sylthik",
-      "magic-force",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -14033,11 +13441,7 @@
       "453",
       "race-dwarf-drasnian",
       "3178",
-      "2977",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2977"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -14098,9 +13502,7 @@
       "creature-turxis-golathi",
       "wilderness-twaan-forests",
       "1095",
-      "creature-twaan",
-      "magic-earth",
-      "manual-mphqwz19-951b6"
+      "creature-twaan"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -14126,22 +13528,13 @@
       "1173",
       "1095",
       "creature-cirthikin",
-      "manual-mpii94rh-4ulqj",
       "947",
       "race-goblin",
-      "2372",
       "creature-twaan",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-water",
       "race-human",
       "race-skaag",
       "creature-orcs",
-      "daemon-korn",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "daemon-korn"
     ],
     "loreFile": "Twaan Forests.md",
     "tags": [
@@ -14171,11 +13564,7 @@
       "1242",
       "388",
       "creature-monsters",
-      "race-elf-spindral",
-      "magic-light",
-      "magic-dark",
-      "magic-time",
-      "magic-void"
+      "race-elf-spindral"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -14203,7 +13592,6 @@
       "race-minotaur-korlan",
       "872",
       "390",
-      "manual-mpii94rh-4ulqj",
       "race-minotaur",
       "720",
       "855",
@@ -14245,13 +13633,9 @@
       "1695",
       "1496",
       "1569",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "1606",
-      "magic-force",
-      "magic-water",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -14281,10 +13665,7 @@
       "race-dwarf-uline",
       "390",
       "477",
-      "2372",
-      "magic-force",
-      "race-dwarf",
-      "magic-fire"
+      "race-dwarf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -14321,7 +13702,6 @@
       "1311",
       "1128",
       "1195",
-      "2372",
       "creature-orcs"
     ],
     "loreFile": "Clueanda.md",
@@ -14407,10 +13787,7 @@
       "484",
       "491",
       "magic-faesong",
-      "2372",
-      "538",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "538"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -14418,7 +13795,7 @@
       "nation"
     ],
     "atmosphere": "civilization",
-    "blurb": "The United Free Nations is a confederation of seven sovereign city-states occupying the open country between the Sharabha savanna to the north, the Jungles of Godahi to the east and south, the Foxborne valleys to the southwest, and the haunted remnants of Old Tolaria to the west…",
+    "blurb": "The United Free Nations is a confederation of seven sovereign city-states occupying the open country between the Sharabha(/codex/race-sharabha) savanna to the north, the Jungles of Godahi(/codex/3061) to the east and south, the Foxborne(/codex/race-gnome-foxborne) valleys to the southwest, and the haunted remnants of Old Tolaria(/codex/732) to the west…",
     "parentName": "Innerrim",
     "containsCount": 14,
     "borders": [
@@ -14487,7 +13864,6 @@
       "1388",
       "race-elf-gamori",
       "creature-titan",
-      "magic-water",
       "1823",
       "creature-hags"
     ],
@@ -14523,11 +13899,9 @@
       "2574",
       "1195",
       "manual-mpghonng-4ts4l",
-      "2372",
       "manual-mpghohae-t851o",
       "2544",
-      "race-dwarf",
-      "manual-mphqwz19-951b6"
+      "race-dwarf"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -14569,15 +13943,9 @@
       "daemon-kiev",
       "event-the-severance",
       "manual-mpha3di4-etrb5",
-      "manual-mpii94rh-4ulqj",
       "2574",
       "2519",
-      "magic-earth",
-      "magic-force",
-      "magic-water",
       "race-human",
-      "magic-fire",
-      "magic-time",
       "2611"
     ],
     "loreFile": "Rimihuica.md",
@@ -14656,7 +14024,6 @@
       "2759",
       "2777",
       "manual-mpii8n6r-0p4du",
-      "manual-mpii8krk-9f2qk",
       "manual-mpii8hko-mb2q4"
     ],
     "loreFile": "Rimihuica.md",
@@ -14678,9 +14045,7 @@
     "parentId": "4085",
     "relatedIds": [
       "4085",
-      "4117",
-      "magic-force",
-      "magic-time"
+      "4117"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -14726,9 +14091,7 @@
       "4106",
       "manual-mpihzt0w-8ry2f",
       "manual-mpihyyf5-f1xtw",
-      "creature-nabuhe",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "creature-nabuhe"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -14773,11 +14136,8 @@
       "manual-mpigsans-abqq9",
       "manual-mpigstom-77yws",
       "manual-mpigrxe8-v2kdd",
-      "magic-water",
       "manual-mpigrd2z-ccrik",
-      "manual-mpigslp9-1770b",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "manual-mpigslp9-1770b"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -14845,8 +14205,7 @@
     "relatedIds": [
       "1248",
       "1254",
-      "race-dwarf-zwaeron",
-      "magic-dark"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -14892,9 +14251,7 @@
       "race-human-stone-men",
       "2488",
       "1036",
-      "manual-mpii94rh-4ulqj",
       "2582",
-      "2372",
       "creature-titan"
     ],
     "loreFile": "Rimihuica.md",
@@ -14961,8 +14318,7 @@
       "manual-mpifs4o2-jsxfj",
       "manual-mpifqk1a-tjuwu",
       "manual-mpifqqga-3jvau",
-      "4472",
-      "manual-mphqwz19-951b6"
+      "4472"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -14995,13 +14351,7 @@
       "person-khalira",
       "manual-mpha3di4-etrb5",
       "2574",
-      "2593",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "magic-dark",
-      "magic-fire",
-      "magic-time"
+      "2593"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -15047,9 +14397,7 @@
       "1273",
       "1274",
       "creature-wyverns",
-      "449",
-      "magic-force",
-      "magic-water"
+      "449"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -15077,7 +14425,6 @@
       "4449",
       "4454",
       "4453",
-      "manual-mphqwz19-951b6",
       "4455"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -15174,13 +14521,7 @@
     "relatedIds": [
       "981",
       "1095",
-      "creature-twaan",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "creature-twaan"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -15203,8 +14544,7 @@
       "494",
       "race-gnome",
       "region-zylogmus-eternus",
-      "plane-material-plane",
-      "magic-time"
+      "plane-material-plane"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -15224,8 +14564,7 @@
     "parentId": "411",
     "relatedIds": [
       "411",
-      "creature-dragons",
-      "magic-water"
+      "creature-dragons"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -15270,9 +14609,7 @@
       "4166",
       "4294",
       "453",
-      "magic-water",
-      "race-goblin-xibli",
-      "magic-time"
+      "race-goblin-xibli"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -15311,8 +14648,7 @@
     "relatedIds": [
       "2519",
       "race-neferati",
-      "nation-kingdoms-of-fire",
-      "magic-fire"
+      "nation-kingdoms-of-fire"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -15332,9 +14668,7 @@
     "parentId": "2593",
     "relatedIds": [
       "2593",
-      "race-neferati",
-      "magic-dark",
-      "magic-fire"
+      "race-neferati"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -15398,8 +14732,7 @@
     "parentId": "4363",
     "relatedIds": [
       "4363",
-      "4460",
-      "magic-water"
+      "4460"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -15643,11 +14976,7 @@
       "race-human",
       "3737",
       "manual-mph54u1t-vr51s",
-      "manual-mpii94rh-4ulqj",
-      "3341",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "3341"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -15727,9 +15056,7 @@
       "3952",
       "3620",
       "creature-titan",
-      "magic-water",
-      "race-satyr",
-      "manual-mphqwz19-951b6"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -15753,11 +15080,9 @@
       "race-human-drevaya",
       "race-human",
       "450",
-      "manual-mpii94rh-4ulqj",
       "667",
       "681",
-      "666",
-      "magic-time"
+      "666"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -15826,8 +15151,7 @@
       "2001",
       "2136",
       "2146",
-      "2079",
-      "2372"
+      "2079"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -15848,9 +15172,7 @@
     "relatedIds": [
       "2727",
       "race-yngli",
-      "race-human-nuun",
-      "magic-water",
-      "magic-fire"
+      "race-human-nuun"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -15927,10 +15249,7 @@
       "4423",
       "manual-mpihv2qf-qcodz",
       "4432",
-      "4438",
-      "magic-force",
-      "magic-light",
-      "magic-water"
+      "4438"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -15999,9 +15318,7 @@
       "244",
       "245",
       "224",
-      "creature-pixies",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "creature-pixies"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -16032,7 +15349,6 @@
       "27",
       "224",
       "creature-pixies",
-      "magic-water",
       "race-pixie"
     ],
     "loreFile": "Ve.md",
@@ -16058,8 +15374,7 @@
     "parentId": "2620",
     "relatedIds": [
       "2620",
-      "2651",
-      "magic-water"
+      "2651"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -16128,17 +15443,11 @@
       "race-lizardfolk-ixmeglyakuk",
       "race-lizardfolk",
       "plane-malstaris",
-      "manual-mpii94rh-4ulqj",
       "430",
       "338",
       "61",
       "493",
-      "magic-water",
-      "race-giant",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time",
-      "2966"
+      "race-giant"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -16226,7 +15535,6 @@
     "relatedIds": [
       "2236",
       "manual-mph5z0gq-vtdw4",
-      "magic-force",
       "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
@@ -16272,9 +15580,7 @@
       "211",
       "253",
       "197",
-      "magic-water",
       "race-krell",
-      "manual-mphqwz19-951b6",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -16315,7 +15621,6 @@
       "race-dwarf-aureum",
       "race-lyzine",
       "manual-mph5fi43-tkms5",
-      "magic-force",
       "92"
     ],
     "loreFile": "Ve.md",
@@ -16344,14 +15649,9 @@
       "2712",
       "2671",
       "race-naruaghin",
-      "manual-mpii94rh-4ulqj",
       "race-sharabha",
       "2853",
-      "2634",
-      "2372",
-      "manual-mphcbgsb-wykgk",
-      "magic-earth",
-      "manual-mphqwz19-951b6"
+      "2634"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -16396,8 +15696,7 @@
       "1821",
       "3151",
       "manual-mph5q68t-nc169",
-      "1823",
-      "magic-fire"
+      "1823"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -16478,8 +15777,7 @@
     "parentId": "905",
     "relatedIds": [
       "905",
-      "918",
-      "magic-earth"
+      "918"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -16526,8 +15824,7 @@
       "1346",
       "1359",
       "manual-pherezi-imnuttut",
-      "1358",
-      "magic-fire"
+      "1358"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -16547,7 +15844,6 @@
     "parentId": "1475",
     "relatedIds": [
       "1475",
-      "manual-mpii94rh-4ulqj",
       "1388"
     ],
     "loreFile": "Aboyinzu.md",
@@ -16570,7 +15866,6 @@
       "71",
       "race-dwarf-dern",
       "creature-undead",
-      "magic-water",
       "92"
     ],
     "loreFile": "Ve.md",
@@ -16596,17 +15891,13 @@
       "3177",
       "3725",
       "3700",
-      "manual-mpii94rh-4ulqj",
       "creature-bonnetaz",
       "magic-diamonds",
       "3317",
       "3178",
       "magic-deoric",
       "race-elf-kuzagt",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -16685,8 +15976,7 @@
       "979",
       "430",
       "951",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -16873,7 +16163,6 @@
     "relatedIds": [
       "2676",
       "2843",
-      "manual-mpii94rh-4ulqj",
       "2682",
       "magic-faesong",
       "race-dwelyn"
@@ -16910,10 +16199,7 @@
       "creature-drakes",
       "manual-mpih81e9-hjwig",
       "manual-mpih7l0k-xdup0",
-      "magic-force",
       "race-human",
-      "magic-fire",
-      "magic-time",
       "manual-mpih87b3-wquv1"
     ],
     "loreFile": "Upoceax.md",
@@ -16959,9 +16245,7 @@
     "parentId": "3799",
     "relatedIds": [
       "3799",
-      "race-human",
-      "magic-water",
-      "magic-fire"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -16984,12 +16268,9 @@
       "3972",
       "3932",
       "race-ulvsjael",
-      "magic-earth",
-      "magic-water",
       "race-giant",
       "race-human",
-      "race-satyr",
-      "magic-time"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -17138,8 +16419,7 @@
     "relatedIds": [
       "3108",
       "2857",
-      "race-gnome-foxborne",
-      "magic-water"
+      "race-gnome-foxborne"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -17178,9 +16458,7 @@
       "2049",
       "manual-mph5r16f-ucyiz",
       "1951",
-      "2372",
-      "manual-mph5r6im-wurpc",
-      "magic-water"
+      "manual-mph5r6im-wurpc"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -17226,12 +16504,9 @@
       "311",
       "manual-mph53941-93a8z",
       "211",
-      "manual-mpii94rh-4ulqj",
       "71",
       "338",
-      "magic-water",
       "race-krell",
-      "manual-mphqwz19-951b6",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -17367,13 +16642,8 @@
       "manual-mpifts0q-rkqps",
       "4270",
       "magic-languages",
-      "magic-light",
-      "magic-water",
       "race-human",
-      "4310",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -17401,11 +16671,7 @@
       "4324",
       "city-tollgate",
       "manual-mph71itd-6g6tw",
-      "magic-light",
-      "magic-water",
-      "4310",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "4310"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -17445,8 +16711,7 @@
     "parentId": "1670",
     "relatedIds": [
       "1670",
-      "race-elf-amverela",
-      "magic-light"
+      "race-elf-amverela"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -17470,11 +16735,9 @@
       "race-goblin-rudding",
       "faction-first-brotherhood",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "race-halfling",
       "2472",
-      "2533",
-      "magic-earth"
+      "2533"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -17497,7 +16760,6 @@
     "parentId": "373",
     "relatedIds": [
       "373",
-      "manual-mpii94rh-4ulqj",
       "338",
       "129"
     ],
@@ -17538,9 +16800,7 @@
       "person-bridger-blindeyes",
       "4369",
       "4376",
-      "2758",
-      "magic-water",
-      "magic-dark"
+      "2758"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [
@@ -17571,8 +16831,7 @@
     "relatedIds": [
       "3087",
       "3089",
-      "3093",
-      "manual-mphqwz19-951b6"
+      "3093"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -17618,9 +16877,6 @@
       "1390",
       "1623",
       "creature-undead",
-      "2372",
-      "magic-light",
-      "magic-water",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -17651,10 +16907,8 @@
       "241",
       "158",
       "203",
-      "manual-mpii94rh-4ulqj",
       "148",
-      "338",
-      "magic-water"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -17677,8 +16931,7 @@
     "parentId": "2530",
     "relatedIds": [
       "2530",
-      "2533",
-      "magic-light"
+      "2533"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -17871,10 +17124,7 @@
     "parentId": "405",
     "relatedIds": [
       "405",
-      "404",
-      "magic-earth",
-      "magic-light",
-      "magic-dark"
+      "404"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -17915,9 +17165,7 @@
       "1487",
       "1569",
       "2565",
-      "manual-mph6063i-vvg24",
-      "magic-water",
-      "magic-dark"
+      "manual-mph6063i-vvg24"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -17944,11 +17192,7 @@
       "3972",
       "1422",
       "3816",
-      "race-ulvsjael",
-      "2372",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -17974,7 +17218,6 @@
       "4450",
       "4457",
       "4459",
-      "magic-water",
       "race-pixie-zelle"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -18015,7 +17258,6 @@
       "1141",
       "1183",
       "1028",
-      "2372",
       "creature-titan",
       "1035",
       "race-human"
@@ -18065,8 +17307,7 @@
     "relatedIds": [
       "2236",
       "453",
-      "race-dwarf-nydor",
-      "manual-mphqwz19-951b6"
+      "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -18161,9 +17402,7 @@
       "3337",
       "3189",
       "3178",
-      "magic-force",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -18209,9 +17448,6 @@
       "3662",
       "3799",
       "3803",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
       "race-human"
     ],
     "loreFile": "Upoceax.md",
@@ -18276,8 +17512,7 @@
       "manual-mpjrcf71-bzqwt",
       "650",
       "425",
-      "538",
-      "magic-water"
+      "538"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -18317,9 +17552,6 @@
     "relatedIds": [
       "1776",
       "1798",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-void",
       "1805"
     ],
     "loreFile": "Dragon's Gate.md",
@@ -18348,9 +17580,7 @@
       "4184",
       "manual-mpifts0q-rkqps",
       "creature-erzqin",
-      "creature-qorgath",
-      "magic-water",
-      "magic-dark"
+      "creature-qorgath"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -18387,10 +17617,7 @@
       "3657",
       "race-elf-rakiten",
       "3573",
-      "magic-light",
-      "4423",
-      "manual-mphqwz19-951b6",
-      "magic-void"
+      "4423"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -18420,18 +17647,10 @@
       "race-lizardfolk-ixmeglyakuk",
       "36",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "274",
       "303",
       "creature-dragons",
-      "493",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-fire",
-      "magic-time"
+      "493"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -18457,8 +17676,7 @@
     "relatedIds": [
       "61",
       "race-lizardfolk-ixmeglyakuk",
-      "96",
-      "magic-time"
+      "96"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -18506,9 +17724,7 @@
       "race-lizardfolk-ixvasyla",
       "453",
       "2974",
-      "3178",
-      "magic-force",
-      "magic-water"
+      "3178"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -18580,11 +17796,9 @@
       "373",
       "158",
       "255",
-      "manual-mpii94rh-4ulqj",
       "148",
       "322",
-      "338",
-      "magic-water"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -18635,9 +17849,7 @@
       "158",
       "255",
       "148",
-      "338",
-      "magic-light",
-      "magic-water"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -18736,9 +17948,7 @@
       "3835",
       "3689",
       "3680",
-      "3687",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3687"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -18774,12 +17984,8 @@
       "2771",
       "creature-drakes",
       "creature-ghosts",
-      "magic-water",
       "race-yngli",
-      "2774",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "2774"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -18870,12 +18076,8 @@
       "4009",
       "3957",
       "4123",
-      "manual-mpii94rh-4ulqj",
       "3961",
-      "4046",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "4046"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -18929,8 +18131,7 @@
       "3850",
       "430",
       "race-giant",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -18976,9 +18177,7 @@
     "parentId": "2611",
     "relatedIds": [
       "2611",
-      "race-neferati",
-      "magic-dark",
-      "magic-fire"
+      "race-neferati"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -19005,9 +18204,7 @@
       "1520",
       "453",
       "1388",
-      "magic-water",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -19030,14 +18227,9 @@
       "creature-velorax-the-unfinished",
       "plane-elemental-planes",
       "event-the-severance",
-      "manual-mpii94rh-4ulqj",
       "2890",
       "creature-dragons",
-      "magic-faesong",
-      "manual-mpii8krk-9f2qk",
-      "magic-water",
-      "magic-fire",
-      "magic-time"
+      "magic-faesong"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -19082,11 +18274,8 @@
       "872",
       "624",
       "472",
-      "manual-mpii94rh-4ulqj",
       "race-elf-eloweir",
-      "race-goblin",
-      "magic-water",
-      "magic-time"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -19172,14 +18361,9 @@
       "nation-kingdoms-of-fire",
       "4302",
       "4324",
-      "manual-mpii94rh-4ulqj",
       "4217",
       "race-neferati",
-      "faction-druids",
-      "magic-earth",
-      "magic-force",
-      "magic-water",
-      "magic-fire"
+      "faction-druids"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -19246,7 +18430,6 @@
       "4387",
       "2676",
       "race-naruaghin",
-      "manual-mphqwz19-951b6",
       "2735"
     ],
     "tags": [],
@@ -19315,7 +18498,6 @@
       "race-elf-kryaaji",
       "race-goblin-aciabro",
       "1514",
-      "magic-light",
       "race-giant",
       "race-human",
       "person-bryn"
@@ -19341,8 +18523,7 @@
     "relatedIds": [
       "872",
       "manual-mpjrcf71-bzqwt",
-      "492",
-      "magic-water"
+      "492"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -19443,7 +18624,6 @@
       "905",
       "1265",
       "1301",
-      "manual-mpii94rh-4ulqj",
       "1306",
       "race-dwarf-zwaeron"
     ],
@@ -19490,9 +18670,7 @@
       "1141",
       "1023",
       "1107",
-      "1154",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "1154"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -19515,13 +18693,9 @@
     "parentId": "732",
     "relatedIds": [
       "732",
-      "manual-mpii94rh-4ulqj",
       "2881",
       "magic-faesong",
-      "2962",
-      "magic-force",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2962"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -19550,11 +18724,8 @@
       "manual-mph630ea-qm8uw",
       "1707",
       "1388",
-      "magic-water",
       "race-human",
-      "race-satyr",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-satyr"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -19622,8 +18793,6 @@
       "3420",
       "race-splinkreen",
       "3405",
-      "2372",
-      "magic-water",
       "race-kappa",
       "3426"
     ],
@@ -19692,12 +18861,8 @@
       "event-the-severance",
       "person-khalira",
       "4165",
-      "manual-mpii94rh-4ulqj",
       "race-neferati",
-      "2593",
-      "magic-earth",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "2593"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -19721,11 +18886,9 @@
     "relatedIds": [
       "2462",
       "2501",
-      "manual-mpii94rh-4ulqj",
       "453",
       "2530",
-      "person-ulyas",
-      "magic-fire"
+      "person-ulyas"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -19749,8 +18912,7 @@
     "relatedIds": [
       "2462",
       "plane-elemental-planes",
-      "creature-trolls",
-      "magic-fire"
+      "creature-trolls"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -19786,9 +18948,7 @@
     "parentId": "3342",
     "relatedIds": [
       "3342",
-      "3460",
-      "magic-water",
-      "magic-dark"
+      "3460"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -19832,9 +18992,7 @@
       "1653",
       "1549",
       "race-chulpe-terrogones",
-      "1544",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "1544"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -19904,11 +19062,7 @@
       "2406",
       "2368",
       "2380",
-      "2372",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -19986,8 +19140,7 @@
       "1410",
       "1412",
       "1413",
-      "creature-undead",
-      "magic-light"
+      "creature-undead"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -20010,9 +19163,7 @@
       "manual-mph53941-93a8z",
       "292",
       "284",
-      "17",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "17"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -20032,8 +19183,7 @@
     "parentId": "849",
     "relatedIds": [
       "849",
-      "850",
-      "manual-mphqwz19-951b6"
+      "850"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -20056,12 +19206,9 @@
       "race-goblin-spine-goblin",
       "race-satyr-greater-satyr",
       "1707",
-      "manual-mpii94rh-4ulqj",
       "453",
       "race-goblin",
-      "magic-force",
-      "race-satyr",
-      "manual-mphqwz19-951b6"
+      "race-satyr"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -20125,8 +19272,7 @@
     "parentId": "3674",
     "relatedIds": [
       "3674",
-      "race-centaur",
-      "magic-water"
+      "race-centaur"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -20195,8 +19341,6 @@
       "2967",
       "3002",
       "3383",
-      "magic-earth",
-      "magic-water",
       "race-giant"
     ],
     "loreFile": "Rimihuica.md",
@@ -20341,11 +19485,9 @@
       "560",
       "500",
       "732",
-      "manual-mpii94rh-4ulqj",
       "race-elf-eloweir",
       "514",
-      "race-goblin",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -20390,8 +19532,7 @@
       "manual-mph4wmh8-0jwu2",
       "race-halfling-shailin",
       "manual-mph5g1r4-j1xkt",
-      "338",
-      "magic-water"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -20465,9 +19606,7 @@
       "255",
       "203",
       "322",
-      "338",
-      "magic-water",
-      "magic-time"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -20518,11 +19657,7 @@
       "373",
       "255",
       "203",
-      "manual-mpii94rh-4ulqj",
-      "148",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "148"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -20548,10 +19683,7 @@
       "18",
       "23",
       "189",
-      "race-human-temptari",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human-temptari"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -20730,8 +19862,6 @@
       "1145",
       "manual-mpgh9qez-umkf1",
       "1195",
-      "2372",
-      "magic-water",
       "creature-orcs",
       "1150"
     ],
@@ -20757,8 +19887,7 @@
     "relatedIds": [
       "2758",
       "2785",
-      "2844",
-      "magic-dark"
+      "2844"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -20781,10 +19910,7 @@
       "3807",
       "3834",
       "3902",
-      "3662",
-      "manual-mpii94rh-4ulqj",
-      "magic-force",
-      "magic-water"
+      "3662"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -20920,8 +20046,7 @@
       "creature-valkyries",
       "1273",
       "449",
-      "manual-mph4ljyt-k4873",
-      "magic-fire"
+      "manual-mph4ljyt-k4873"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -20966,11 +20091,8 @@
       "282",
       "2651",
       "2701",
-      "magic-force",
-      "magic-water",
       "race-giant",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -21026,8 +20148,7 @@
     "parentId": "1410",
     "relatedIds": [
       "1410",
-      "creature-hags",
-      "magic-dark"
+      "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -21049,8 +20170,7 @@
     "relatedIds": [
       "10",
       "race-minotaur",
-      "9",
-      "magic-water"
+      "9"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -21179,9 +20299,7 @@
       "1164",
       "race-goblin-coghead",
       "creature-drakes",
-      "1066",
-      "magic-water",
-      "magic-fire"
+      "1066"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -21213,14 +20331,9 @@
       "artifact-the-labyrinth",
       "3725",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "manual-mph55nw0-sjl00",
       "3785",
-      "plane-glyssen",
-      "manual-mphcbgsb-wykgk",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "plane-glyssen"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -21347,11 +20460,9 @@
       "241",
       "158",
       "203",
-      "manual-mpii94rh-4ulqj",
       "148",
       "322",
       "338",
-      "magic-water",
       "race-human"
     ],
     "loreFile": "Ve.md",
@@ -21380,8 +20491,6 @@
       "race-human-gezzerin",
       "race-belgron",
       "3662",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
       "race-giant"
     ],
     "loreFile": "Upoceax.md",
@@ -21518,11 +20627,7 @@
       "2079",
       "1754",
       "1776",
-      "manual-mpii94rh-4ulqj",
-      "1927",
-      "2372",
-      "magic-force",
-      "manual-mphqwz19-951b6"
+      "1927"
     ],
     "loreFile": "Hills of Tharoz.md",
     "tags": [],
@@ -21546,11 +20651,8 @@
       "1040",
       "2462",
       "4045",
-      "manual-mpii94rh-4ulqj",
       "981",
-      "1066",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "1066"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -21580,7 +20682,6 @@
       "185",
       "302",
       "race-human-temptari",
-      "magic-water",
       "manual-mph4w0cm-gmofx",
       "92"
     ],
@@ -21633,9 +20734,7 @@
       "131",
       "606",
       "race-giant",
-      "race-koren-korel",
-      "magic-dark",
-      "magic-time"
+      "race-koren-korel"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -21660,10 +20759,8 @@
     "parentId": "132",
     "relatedIds": [
       "132",
-      "manual-mpii94rh-4ulqj",
       "race-koren-korel",
-      "race-koren",
-      "magic-dark"
+      "race-koren"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -21692,10 +20789,8 @@
       "2830",
       "2722",
       "2806",
-      "manual-mpii94rh-4ulqj",
       "2686",
       "2857",
-      "magic-water",
       "race-giant"
     ],
     "loreFile": "Rimihuica.md",
@@ -21783,10 +20878,8 @@
       "3430",
       "4369",
       "3447",
-      "manual-mpii94rh-4ulqj",
       "3341",
       "3402",
-      "magic-water",
       "3394",
       "race-human-qindo",
       "3390"
@@ -21876,8 +20969,7 @@
       "race-human-temptari",
       "23",
       "189",
-      "165",
-      "magic-time"
+      "165"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -21900,8 +20992,7 @@
       "region-the-wastes",
       "race-pixie-ianovko",
       "creature-pixies",
-      "race-elf-istori",
-      "magic-time"
+      "race-elf-istori"
     ],
     "tags": [],
     "atmosphere": "ancient",
@@ -21942,8 +21033,6 @@
       "manual-mph70v3w-3xjdw",
       "manual-mph71itd-6g6tw",
       "manual-mph70yda-vtytb",
-      "magic-force",
-      "magic-water",
       "4310"
     ],
     "loreFile": "Western_Isles.md",
@@ -21979,12 +21068,7 @@
       "1899",
       "1931",
       "creature-titan",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -22111,7 +21195,6 @@
       "560",
       "732",
       "440",
-      "manual-mpii94rh-4ulqj",
       "race-goblin-scalawag",
       "race-sharabha",
       "race-elf-eloweir",
@@ -22167,13 +21250,10 @@
       "4270",
       "magic-languages",
       "990",
-      "manual-mpii94rh-4ulqj",
       "1101",
       "1084",
       "nation-seyiki",
-      "2372",
       "manual-mph6mttf-l1v32",
-      "magic-water",
       "creature-orcs",
       "magic-twyl"
     ],
@@ -22255,8 +21335,7 @@
       "514",
       "race-elf-eloweir",
       "517",
-      "390",
-      "magic-water"
+      "390"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -22357,7 +21436,6 @@
     "relatedIds": [
       "18",
       "189",
-      "2372",
       "92"
     ],
     "loreFile": "Ve.md",
@@ -22378,8 +21456,7 @@
     "parentId": "4252",
     "relatedIds": [
       "4252",
-      "race-chargon",
-      "magic-water"
+      "race-chargon"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [],
@@ -22501,9 +21578,7 @@
     "relatedIds": [
       "4165",
       "4194",
-      "4166",
-      "magic-water",
-      "magic-dark"
+      "4166"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -22609,7 +21684,6 @@
       "3206",
       "race-human-kuru",
       "3222",
-      "2372",
       "3231"
     ],
     "loreFile": "Rimihuica.md",
@@ -22772,8 +21846,7 @@
       "3151",
       "3341",
       "3178",
-      "3206",
-      "magic-water"
+      "3206"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -22861,11 +21934,7 @@
       "3604",
       "race-elf-rakiten",
       "3607",
-      "manual-mphcbgsb-wykgk",
-      "magic-water",
-      "4423",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "4423"
     ],
     "loreFile": "Kro Shiik.md",
     "tags": [
@@ -22892,7 +21961,6 @@
       "4469",
       "4496",
       "manual-mpifqqga-3jvau",
-      "magic-earth",
       "4472"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -22919,9 +21987,7 @@
       "race-goblin-blitzling",
       "2806",
       "2815",
-      "magic-water",
-      "race-giant",
-      "manual-mphqwz19-951b6"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -22986,7 +22052,6 @@
       "manual-mphbyq97-ygwqy",
       "404",
       "race-human-tikhaya",
-      "2372",
       "manual-mphbybgg-dm1kn",
       "race-giant"
     ],
@@ -23015,17 +22080,11 @@
       "1200",
       "1183",
       "998",
-      "manual-mpii94rh-4ulqj",
       "981",
       "1117",
       "1101",
       "nation-seyiki",
-      "race-grayls",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "race-grayls"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -23050,8 +22109,7 @@
     "relatedIds": [
       "3206",
       "race-dwarf-drasnian",
-      "3226",
-      "magic-water"
+      "3226"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -23087,8 +22145,7 @@
     "zoomLevel": 4,
     "parentId": "3793",
     "relatedIds": [
-      "3793",
-      "magic-water"
+      "3793"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -23154,8 +22211,7 @@
     "relatedIds": [
       "1444",
       "race-goblin-scalawag",
-      "1456",
-      "manual-mpii94rh-4ulqj"
+      "1456"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -23310,9 +22366,7 @@
       "race-naruaghin",
       "magic-faesong",
       "2620",
-      "faction-druids",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "faction-druids"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -23374,9 +22428,7 @@
     "relatedIds": [
       "1",
       "race-pixie",
-      "manual-mpii94rh-4ulqj",
-      "creature-pixies",
-      "magic-water"
+      "creature-pixies"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -23504,8 +22556,6 @@
     "relatedIds": [
       "1410",
       "1428",
-      "magic-force",
-      "magic-water",
       "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
@@ -23572,12 +22622,7 @@
       "947",
       "race-goblin",
       "creature-twaan",
-      "magic-earth",
-      "magic-force",
-      "daemon-korn",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "daemon-korn"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -23689,7 +22734,6 @@
       "245",
       "224",
       "338",
-      "magic-water",
       "race-pixie"
     ],
     "loreFile": "Marmoroy River.md",
@@ -23719,11 +22763,7 @@
       "1991",
       "2001",
       "1520",
-      "manual-mpii94rh-4ulqj",
-      "2372",
       "creature-titan",
-      "magic-light",
-      "magic-water",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -23885,9 +22925,7 @@
     "parentId": "3087",
     "relatedIds": [
       "3087",
-      "race-halfling-dengar",
-      "magic-force",
-      "magic-water"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -23979,11 +23017,7 @@
       "981",
       "1114",
       "manual-mpghmiq2-zazu5",
-      "2372",
       "manual-mph6mttf-l1v32",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time",
       "magic-twyl"
     ],
     "loreFile": "Clueanda.md",
@@ -24048,9 +23082,7 @@
     "zoomLevel": 4,
     "parentId": "914",
     "relatedIds": [
-      "914",
-      "manual-mpii94rh-4ulqj",
-      "magic-dark"
+      "914"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -24149,7 +23181,6 @@
       "manual-mph71itd-6g6tw",
       "manual-mph70yda-vtytb",
       "4262",
-      "magic-water",
       "4310"
     ],
     "loreFile": "Western_Isles.md",
@@ -24180,10 +23211,7 @@
       "981",
       "2634",
       "2742",
-      "2372",
-      "manual-mphqwz19-951b6",
-      "2727",
-      "magic-time"
+      "2727"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -24208,8 +23236,6 @@
     "relatedIds": [
       "3375",
       "race-human",
-      "2372",
-      "magic-water",
       "3390"
     ],
     "loreFile": "Upoceax.md",
@@ -24234,12 +23260,7 @@
       "3946",
       "4009",
       "4060",
-      "manual-mpii94rh-4ulqj",
-      "430",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "430"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -24346,7 +23367,6 @@
       "race-gnome-ohblex",
       "557",
       "449",
-      "magic-light",
       "race-gnome"
     ],
     "loreFile": "Clueanda.md",
@@ -24385,9 +23405,7 @@
       "3226",
       "3255",
       "magic-kethic",
-      "2372",
-      "race-giant",
-      "magic-dark"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -24435,13 +23453,7 @@
       "453",
       "693",
       "manual-mpk2v7lk-92aoi",
-      "race-goblin",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-dark",
-      "magic-time",
-      "magic-void"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -24502,10 +23514,7 @@
       "453",
       "1606",
       "race-centaur",
-      "1611",
-      "magic-earth",
-      "magic-force",
-      "manual-mphqwz19-951b6"
+      "1611"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -24546,10 +23555,7 @@
       "2267",
       "creature-true-name",
       "creature-dragons",
-      "magic-force",
-      "race-dwarf-nydor",
-      "magic-fire",
-      "magic-time"
+      "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -24575,10 +23581,7 @@
     "relatedIds": [
       "4393",
       "race-dwarf-velwey",
-      "creature-true-name",
-      "magic-light",
-      "magic-water",
-      "magic-dark"
+      "creature-true-name"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -24619,11 +23622,7 @@
       "creature-bathemiel",
       "3750",
       "3763",
-      "manual-mpii94rh-4ulqj",
-      "2372",
-      "magic-earth",
-      "race-human",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -24695,12 +23694,8 @@
       "2654",
       "2759",
       "1520",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
       "race-human",
-      "race-yngli",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-yngli"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -24787,8 +23782,7 @@
     "parentId": "4423",
     "relatedIds": [
       "4423",
-      "race-halfling",
-      "magic-light"
+      "race-halfling"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -24858,9 +23852,7 @@
       "3061",
       "2870",
       "2997",
-      "magic-earth",
-      "2996",
-      "2966"
+      "2996"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -24954,7 +23946,6 @@
       "3223",
       "3220",
       "race-sylthik",
-      "2372",
       "3231",
       "race-human-kuru"
     ],
@@ -25132,8 +24123,6 @@
     "parentId": "1254",
     "relatedIds": [
       "1254",
-      "magic-water",
-      "magic-dark",
       "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
@@ -25182,9 +24171,7 @@
       "2712",
       "plane-material-plane",
       "2804",
-      "2713",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "2713"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -25282,8 +24269,7 @@
       "manual-mpii72yw-mnsjt",
       "race-human-qindo",
       "1520",
-      "3394",
-      "manual-mphqwz19-951b6"
+      "3394"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -25368,7 +24354,6 @@
     "parentId": "3087",
     "relatedIds": [
       "3087",
-      "manual-mpii94rh-4ulqj",
       "3086",
       "race-halfling-dengar"
     ],
@@ -25392,9 +24377,7 @@
       "3087",
       "3106",
       "3093",
-      "race-halfling-dengar",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -25431,9 +24414,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
-      "932",
-      "magic-dark",
-      "magic-fire"
+      "932"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -25503,12 +24484,7 @@
       "creature-dragons",
       "race-dwarf-fengruk",
       "creature-undead",
-      "creature-titan",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -25703,9 +24679,7 @@
       "746",
       "744",
       "745",
-      "magic-water",
-      "747",
-      "magic-time"
+      "747"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -25759,16 +24733,11 @@
       "72",
       "creature-suki-jungle",
       "96",
-      "manual-mpii94rh-4ulqj",
       "303",
       "creature-dragons",
       "338",
       "61",
-      "493",
-      "magic-earth",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "493"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -25807,12 +24776,9 @@
       "3346",
       "manual-mpii1z9k-f3u88",
       "3342",
-      "manual-mpii94rh-4ulqj",
       "manual-mpii3fga-ragm2",
       "3405",
-      "magic-water",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -25931,8 +24897,7 @@
       "2462",
       "manual-mpgh9qez-umkf1",
       "race-orc-tarni",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -25998,12 +24963,10 @@
       "1606",
       "race-human",
       "race-naga",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "creature-dragons",
       "manual-mph6063i-vvg24",
-      "race-orc-tytheri",
-      "magic-fire"
+      "race-orc-tytheri"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -26026,8 +24989,7 @@
     "zoomLevel": 4,
     "parentId": null,
     "relatedIds": [
-      "2368",
-      "magic-dark"
+      "2368"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -26085,8 +25047,7 @@
     "relatedIds": [
       "1395",
       "1396",
-      "1407",
-      "magic-dark"
+      "1407"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -26107,10 +25068,8 @@
     "relatedIds": [
       "18",
       "3",
-      "manual-mpii94rh-4ulqj",
       "race-human-temptari",
-      "71",
-      "manual-mphqwz19-951b6"
+      "71"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -26185,7 +25144,7 @@
     ],
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "A small island northeast of Shinori in the Northern Archipelago, home to a fishing community descended from Tamadrezan settlers who arrived centuries ago…",
+    "blurb": "A small island northeast of Shinori in the Northern Archipelago(/codex/3281), home to a fishing community descended from Tamadrezan settlers who arrived centuries ago…",
     "parentName": "The Northern Archipelago"
   },
   {
@@ -26205,15 +25164,10 @@
       "114",
       "race-lizardfolk-ixmeglyakuk",
       "96",
-      "manual-mpii94rh-4ulqj",
       "creature-dragons",
       "71",
       "61",
-      "493",
-      "magic-light",
-      "magic-dark",
-      "magic-fire",
-      "magic-time"
+      "493"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -26261,8 +25215,7 @@
       "manual-mpifq55k-qtmi5",
       "manual-mpifr4wn-1glxz",
       "4473",
-      "manual-mpifpt4d-yy04p",
-      "2372"
+      "manual-mpifpt4d-yy04p"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -26290,8 +25243,7 @@
       "2565",
       "manual-mpha3di4-etrb5",
       "2574",
-      "race-neferati",
-      "magic-fire"
+      "race-neferati"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -26320,9 +25272,7 @@
       "1053",
       "1107",
       "manual-mpghahhd-fo6s4",
-      "1154",
-      "2372",
-      "manual-mphqwz19-951b6"
+      "1154"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -26345,9 +25295,7 @@
     "parentId": "3250",
     "relatedIds": [
       "3250",
-      "creature-gillykin",
-      "magic-water",
-      "magic-dark"
+      "creature-gillykin"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -26438,8 +25386,7 @@
       "1661",
       "1515",
       "manual-mph6063i-vvg24",
-      "race-orc-tytheri",
-      "2372"
+      "race-orc-tytheri"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -26572,9 +25519,7 @@
       "3177",
       "3725",
       "3178",
-      "race-elf-kuzagt",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-elf-kuzagt"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -26641,12 +25586,8 @@
       "3427",
       "manual-mpii28ef-4g1qp",
       "3405",
-      "manual-mphcbgsb-wykgk",
-      "magic-earth",
-      "magic-light",
       "race-human",
-      "race-kappa",
-      "magic-time"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -26695,12 +25636,8 @@
       "1882",
       "2023",
       "1899",
-      "manual-mpii94rh-4ulqj",
       "430",
-      "manual-mphcbgsb-wykgk",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -26765,7 +25702,6 @@
       "manual-mph62233-zc6fw",
       "1606",
       "race-orc-tytheri",
-      "magic-water",
       "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
@@ -26868,8 +25804,7 @@
       "284",
       "94",
       "292",
-      "17",
-      "manual-mphqwz19-951b6"
+      "17"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -26894,9 +25829,7 @@
       "1617",
       "manual-mph62tyb-6q18q",
       "453",
-      "1388",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "1388"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -26927,7 +25860,6 @@
       "2767",
       "2790",
       "2789",
-      "manual-mphqwz19-951b6",
       "2727"
     ],
     "loreFile": "Rimihuica.md",
@@ -26972,8 +25904,7 @@
       "3689",
       "race-elf-kuzagt",
       "3177",
-      "3711",
-      "magic-water"
+      "3711"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -27006,7 +25937,7 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "A range of hills running north-south through Thespia's interior, the Salty Hills divide the kingdom's western farmland from the more settled eastern terrain near Stipen…",
+    "blurb": "A range of hills running north-south through Thespia(/codex/816)'s interior, the Salty Hills divide the kingdom's western farmland from the more settled eastern terrain near Stipen(/codex/768)…",
     "parentName": "Thespia"
   },
   {
@@ -27089,8 +26020,7 @@
       "manual-mph62oaq-vl9a1",
       "1388",
       "race-human",
-      "race-satyr",
-      "manual-mphqwz19-951b6"
+      "race-satyr"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -27197,10 +26127,7 @@
       "manual-mpii28ef-4g1qp",
       "3405",
       "manual-mpii2vku-fem83",
-      "2372",
-      "magic-water",
-      "3426",
-      "magic-dark"
+      "3426"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -27400,8 +26327,7 @@
       "4459",
       "4450",
       "race-pixie-zelle",
-      "race-pixie",
-      "magic-time"
+      "race-pixie"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -27425,9 +26351,7 @@
       "3375",
       "3354",
       "3379",
-      "3377",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3377"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -27467,11 +26391,7 @@
       "2332",
       "2275",
       "2352",
-      "manual-mpii94rh-4ulqj",
-      "2253",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2253"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -27518,7 +26438,6 @@
       "4469",
       "4480",
       "race-dwarf-uline",
-      "magic-dark",
       "4484",
       "4471"
     ],
@@ -27558,8 +26477,7 @@
     "parentId": "2634",
     "relatedIds": [
       "2634",
-      "2722",
-      "manual-mphqwz19-951b6"
+      "2722"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -27589,11 +26507,7 @@
       "3275",
       "race-dwarf-drasnian",
       "3178",
-      "magic-water",
-      "race-dwarf",
-      "magic-dark",
-      "magic-fire",
-      "magic-time"
+      "race-dwarf"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -27625,8 +26539,7 @@
     "relatedIds": [
       "manual-mpihxjf4-ffmk4",
       "3670",
-      "3290",
-      "magic-water"
+      "3290"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -27673,7 +26586,6 @@
       "2857",
       "race-goblin-scalawag",
       "440",
-      "manual-mpii94rh-4ulqj",
       "race-sharabha",
       "race-elf-eloweir",
       "race-goblin"
@@ -27732,11 +26644,9 @@
       "189",
       "298",
       "24",
-      "manual-mpii94rh-4ulqj",
       "race-dwarf-dern",
       "92",
-      "95",
-      "manual-mphqwz19-951b6"
+      "95"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -27769,9 +26679,7 @@
       "2321",
       "2342",
       "race-dwarf-fengruk",
-      "creature-titan",
-      "magic-force",
-      "magic-water"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -27862,9 +26770,7 @@
       "2259",
       "2342",
       "race-dwarf-fengruk",
-      "creature-titan",
-      "magic-water",
-      "magic-time"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -27973,8 +26879,6 @@
       "211",
       "351",
       "magic-languages",
-      "magic-force",
-      "magic-water",
       "race-krell",
       "382"
     ],
@@ -28154,8 +27058,6 @@
       "3151",
       "race-alekroin",
       "3178",
-      "magic-water",
-      "magic-time",
       "manual-mphek23r-ucbum"
     ],
     "loreFile": "Rimihuica.md",
@@ -28197,9 +27099,7 @@
       "2712",
       "4389",
       "2714",
-      "2713",
-      "magic-water",
-      "magic-dark"
+      "2713"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -28276,8 +27176,7 @@
     "zoomLevel": 4,
     "parentId": "607",
     "relatedIds": [
-      "607",
-      "manual-mphqwz19-951b6"
+      "607"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -28323,10 +27222,7 @@
       "magic-languages",
       "2686",
       "2701",
-      "magic-force",
-      "magic-water",
-      "race-giant",
-      "manual-mphqwz19-951b6"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -28353,7 +27249,6 @@
       "2811",
       "race-sharabha",
       "race-kendor",
-      "magic-water",
       "2727"
     ],
     "loreFile": "Rimihuica.md",
@@ -28423,10 +27318,8 @@
       "4242",
       "3357",
       "2759",
-      "manual-mpii94rh-4ulqj",
       "2758",
       "3404",
-      "magic-water",
       "3376"
     ],
     "loreFile": "Upoceax.md",
@@ -28520,8 +27413,7 @@
     "relatedIds": [
       "284",
       "291",
-      "17",
-      "magic-time"
+      "17"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -28542,9 +27434,7 @@
     "relatedIds": [
       "359",
       "4145",
-      "2372",
-      "92",
-      "magic-dark"
+      "92"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -28570,8 +27460,7 @@
       "4363",
       "4496",
       "4392",
-      "4472",
-      "manual-mphqwz19-951b6"
+      "4472"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -28593,9 +27482,7 @@
       "1865",
       "2001",
       "2136",
-      "2079",
-      "magic-water",
-      "magic-dark"
+      "2079"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -28618,9 +27505,7 @@
       "1520",
       "3177",
       "3725",
-      "3700",
-      "magic-force",
-      "magic-water"
+      "3700"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -28673,14 +27558,11 @@
       "211",
       "253",
       "343",
-      "manual-mpii94rh-4ulqj",
       "71",
       "137",
       "magic-aether",
-      "2372",
       "race-human",
       "race-krell",
-      "magic-time",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -28829,8 +27711,7 @@
     "relatedIds": [
       "2430",
       "race-elf-istori",
-      "2378",
-      "magic-water"
+      "2378"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -28853,10 +27734,7 @@
       "2870",
       "3098",
       "3056",
-      "3089",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3089"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -28910,7 +27788,6 @@
       "3220",
       "race-ulvsjael",
       "3226",
-      "2372",
       "3229",
       "3231"
     ],
@@ -28936,11 +27813,7 @@
       "4294",
       "manual-mpgh9qez-umkf1",
       "1195",
-      "race-orc-griebi",
-      "2372",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-orc-griebi"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -28968,9 +27841,7 @@
       "race-dwarf-drasnian",
       "3228",
       "3208",
-      "3214",
-      "magic-water",
-      "magic-fire"
+      "3214"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29056,12 +27927,10 @@
       "2751",
       "2797",
       "2782",
-      "manual-mpii94rh-4ulqj",
       "2796",
       "2776",
       "race-human",
-      "race-yngli",
-      "manual-mphqwz19-951b6"
+      "race-yngli"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -29185,9 +28054,7 @@
       "1653",
       "race-chulpe-terrogones",
       "1544",
-      "race-chulpe",
-      "manual-mphcbgsb-wykgk",
-      "magic-water"
+      "race-chulpe"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -29211,8 +28078,7 @@
     "parentId": "3961",
     "relatedIds": [
       "3961",
-      "3984",
-      "manual-mphqwz19-951b6"
+      "3984"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -29243,9 +28109,7 @@
       "3233",
       "3222",
       "3226",
-      "2372",
-      "race-human-kuru",
-      "2966"
+      "race-human-kuru"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29273,8 +28137,7 @@
       "2453",
       "creature-monsters",
       "race-dwarf-gruynmar",
-      "2758",
-      "magic-water"
+      "2758"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -29318,9 +28181,7 @@
     "parentId": "905",
     "relatedIds": [
       "905",
-      "race-goblin",
-      "magic-water",
-      "magic-fire"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -29346,9 +28207,7 @@
       "manual-mphbt2hf-hd923",
       "1388",
       "1544",
-      "1515",
-      "magic-light",
-      "manual-mphqwz19-951b6"
+      "1515"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -29443,7 +28302,6 @@
       "4392",
       "4487",
       "4467",
-      "magic-water",
       "4471"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -29465,8 +28323,7 @@
     "relatedIds": [
       "3206",
       "race-dwarf-drasnian",
-      "race-sylthik",
-      "2372"
+      "race-sylthik"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29512,8 +28369,7 @@
     "zoomLevel": 4,
     "parentId": "61",
     "relatedIds": [
-      "61",
-      "magic-water"
+      "61"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -29596,8 +28452,7 @@
     "relatedIds": [
       "591",
       "529",
-      "race-goblin",
-      "2372"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -29618,8 +28473,7 @@
     "relatedIds": [
       "3087",
       "race-dwarf-stromgodden",
-      "2974",
-      "magic-time"
+      "2974"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29644,10 +28498,7 @@
       "2844",
       "4369",
       "1784",
-      "2782",
-      "magic-light",
-      "magic-dark",
-      "magic-void"
+      "2782"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29671,8 +28522,7 @@
       "696",
       "magic-red-gold",
       "693",
-      "816",
-      "manual-mphqwz19-951b6"
+      "816"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -29693,8 +28543,7 @@
     "relatedIds": [
       "3046",
       "3061",
-      "2870",
-      "magic-water"
+      "2870"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -29719,15 +28568,9 @@
       "4158",
       "4123",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "creature-nabuhe",
-      "2372",
       "creature-titan",
-      "magic-force",
-      "magic-water",
-      "race-human",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -29753,7 +28596,6 @@
       "4446",
       "4402",
       "creature-titan",
-      "magic-fire",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -29830,11 +28672,7 @@
       "2273",
       "2352",
       "2253",
-      "2305",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "2305"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -29923,11 +28761,7 @@
       "1066",
       "1040",
       "wilderness-twaan-forests",
-      "manual-mpii94rh-4ulqj",
-      "creature-twaan",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "creature-twaan"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -29977,11 +28811,8 @@
       "27",
       "32",
       "245",
-      "manual-mpii94rh-4ulqj",
       "224",
-      "race-pixie",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-pixie"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -30005,8 +28836,7 @@
       "185",
       "189",
       "268",
-      "71",
-      "magic-time"
+      "71"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -30026,8 +28856,7 @@
     "parentId": "1229",
     "relatedIds": [
       "1229",
-      "1236",
-      "magic-water"
+      "1236"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -30047,8 +28876,7 @@
     "parentId": "768",
     "relatedIds": [
       "768",
-      "895",
-      "manual-mphqwz19-951b6"
+      "895"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -30131,7 +28959,6 @@
       "3375",
       "manual-mpii7b25-rxb9k",
       "3385",
-      "magic-water",
       "3376"
     ],
     "loreFile": "Upoceax.md",
@@ -30266,9 +29093,7 @@
       "453",
       "2345",
       "creature-dragons",
-      "creature-drakes",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "creature-drakes"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -30297,8 +29122,7 @@
       "3440",
       "2352",
       "manual-mpii28ef-4g1qp",
-      "3405",
-      "2372"
+      "3405"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -30319,8 +29143,7 @@
     "relatedIds": [
       "2817",
       "607",
-      "race-ogre-silzar",
-      "magic-water"
+      "race-ogre-silzar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -30361,8 +29184,7 @@
       "2574",
       "2555",
       "creature-titan",
-      "2484",
-      "magic-earth"
+      "2484"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -30383,10 +29205,7 @@
     "relatedIds": [
       "61",
       "94",
-      "96",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "96"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -30426,8 +29245,7 @@
     "zoomLevel": 4,
     "parentId": null,
     "relatedIds": [
-      "manual-mphedoav-902ne",
-      "magic-water"
+      "manual-mphedoav-902ne"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -30571,8 +29389,7 @@
       "4456",
       "4461",
       "4457",
-      "creature-titan",
-      "magic-water"
+      "creature-titan"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -30599,9 +29416,7 @@
       "453",
       "2921",
       "2977",
-      "magic-force",
-      "2980",
-      "magic-dark"
+      "2980"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -30666,8 +29481,7 @@
       "manual-mpigkj97-ecmrs",
       "1355",
       "region-the-wastes",
-      "1358",
-      "magic-time"
+      "1358"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -30738,8 +29552,7 @@
       "2009",
       "creature-titan",
       "race-giant",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -30784,11 +29597,8 @@
       "manual-mph71itd-6g6tw",
       "4262",
       "4276",
-      "magic-force",
-      "magic-water",
       "4285",
-      "4310",
-      "magic-fire"
+      "4310"
     ],
     "loreFile": "Tollgate.md",
     "tags": [
@@ -30873,9 +29683,7 @@
       "2162",
       "1899",
       "453",
-      "2372",
-      "creature-titan",
-      "manual-mphqwz19-951b6"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -30935,9 +29743,7 @@
       "3412",
       "3368",
       "3465",
-      "manual-mpii94rh-4ulqj",
-      "race-tuktuk",
-      "magic-water"
+      "race-tuktuk"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31007,10 +29813,8 @@
       "3859",
       "3888",
       "3662",
-      "2372",
       "3799",
       "race-giant",
-      "magic-time",
       "race-ogre"
     ],
     "loreFile": "Upoceax.md",
@@ -31042,11 +29846,9 @@
       "2098",
       "453",
       "creature-monsters",
-      "2372",
       "creature-titan",
       "race-giant",
       "race-human",
-      "manual-mphqwz19-951b6",
       "race-ogre"
     ],
     "loreFile": "Aboyinzu.md",
@@ -31112,11 +29914,8 @@
     "relatedIds": [
       "322",
       "3",
-      "manual-mpii94rh-4ulqj",
       "race-halfling-shailin",
-      "71",
-      "magic-light",
-      "manual-mphqwz19-951b6"
+      "71"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -31216,13 +30015,9 @@
       "4446",
       "race-gnome-qipi",
       "4469",
-      "manual-mpii94rh-4ulqj",
       "creature-monsters",
       "4485",
-      "magic-earth",
       "race-human",
-      "magic-dark",
-      "magic-time",
       "4484"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -31267,12 +30062,8 @@
       "3596",
       "3653",
       "3508",
-      "manual-mpii94rh-4ulqj",
       "3606",
-      "race-elf-rakiten",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-fire"
+      "race-elf-rakiten"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31302,10 +30093,7 @@
       "3627",
       "water-kro-shiik",
       "race-elf-rakiten",
-      "4423",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "4423"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31352,7 +30140,6 @@
     "parentId": "4471",
     "relatedIds": [
       "4471",
-      "magic-earth",
       "4446"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -31394,8 +30181,7 @@
       "faction-first-brotherhood",
       "2494",
       "2649",
-      "2743",
-      "2372"
+      "2743"
     ],
     "loreFile": "City_States.md",
     "tags": [
@@ -31529,8 +30315,7 @@
       "1486",
       "1606",
       "manual-mph6063i-vvg24",
-      "1611",
-      "2372"
+      "1611"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -31558,8 +30343,7 @@
       "race-dwarf-drasnian",
       "3219",
       "3214",
-      "3226",
-      "2966"
+      "3226"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -31607,10 +30391,7 @@
       "manual-mph55nw0-sjl00",
       "3785",
       "plane-glyssen",
-      "magic-light",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31652,8 +30433,7 @@
     "parentId": "3300",
     "relatedIds": [
       "3300",
-      "race-alekroin",
-      "magic-water"
+      "race-alekroin"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -31700,14 +30480,11 @@
       "3508",
       "magic-languages",
       "race-orc-xiivrach",
-      "manual-mpii94rh-4ulqj",
       "453",
       "3606",
       "3547",
       "race-elf-rakiten",
-      "magic-light",
-      "creature-orcs",
-      "magic-fire"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31851,8 +30628,7 @@
     "zoomLevel": 4,
     "parentId": "9000",
     "relatedIds": [
-      "9000",
-      "magic-water"
+      "9000"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -31878,11 +30654,7 @@
       "3984",
       "creature-ezra-olkanis",
       "3997",
-      "4060",
-      "manual-mpii94rh-4ulqj",
-      "magic-light",
-      "magic-water",
-      "magic-time"
+      "4060"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -31915,11 +30687,7 @@
       "1028",
       "1032",
       "1122",
-      "manual-mpii94rh-4ulqj",
-      "2372",
       "1035",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "1150"
     ],
     "loreFile": "Clueanda.md",
@@ -32028,10 +30796,7 @@
       "3832",
       "3662",
       "race-human-gezzerin",
-      "manual-mphcbgsb-wykgk",
-      "magic-light",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -32052,8 +30817,7 @@
     "zoomLevel": 4,
     "parentId": "1444",
     "relatedIds": [
-      "1444",
-      "magic-water"
+      "1444"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -32074,8 +30838,7 @@
     "relatedIds": [
       "1395",
       "1397",
-      "1444",
-      "magic-light"
+      "1444"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -32098,9 +30861,7 @@
       "1270",
       "1301",
       "921",
-      "952",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "952"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -32161,9 +30922,7 @@
     "relatedIds": [
       "440",
       "624",
-      "race-goblin",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -32244,10 +31003,7 @@
     "relatedIds": [
       "981",
       "1114",
-      "1101",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "1101"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -32429,10 +31185,8 @@
       "3932",
       "3852",
       "3883",
-      "2372",
       "3840",
       "race-giant",
-      "manual-mphqwz19-951b6",
       "race-ogre"
     ],
     "loreFile": "Upoceax.md",
@@ -32490,9 +31244,6 @@
       "4468",
       "4392",
       "453",
-      "magic-light",
-      "magic-dark",
-      "magic-time",
       "4471"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -32518,7 +31269,6 @@
       "race-goblin-xibli",
       "2573",
       "4294",
-      "magic-water",
       "4310"
     ],
     "loreFile": "Western_Isles.md",
@@ -32554,13 +31304,8 @@
       "2912",
       "3178",
       "2921",
-      "magic-earth",
-      "magic-water",
       "2996",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "race-elf-vyko",
-      "2966"
+      "race-elf-vyko"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -32588,10 +31333,7 @@
       "3791",
       "manual-mph55twc-xk1lw",
       "3750",
-      "2372",
-      "magic-water",
-      "3761",
-      "manual-mphqwz19-951b6"
+      "3761"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -32641,11 +31383,8 @@
       "race-orc-hedroscobbi",
       "1036",
       "race-orc-glivornaxi",
-      "manual-mpii94rh-4ulqj",
       "2582",
       "1195",
-      "2372",
-      "magic-water",
       "daemon-dyos",
       "1150"
     ],
@@ -32680,10 +31419,7 @@
       "magic-aether",
       "race-goblin",
       "338",
-      "2372",
-      "race-krell",
-      "magic-fire",
-      "magic-time"
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -32814,9 +31550,7 @@
       "650",
       "425",
       "492",
-      "2372",
-      "538",
-      "magic-water"
+      "538"
     ],
     "tags": [],
     "atmosphere": "water",
@@ -32838,10 +31572,7 @@
       "race-human",
       "creature-ezra-olkanis",
       "4067",
-      "manual-mpii94rh-4ulqj",
-      "3961",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3961"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -32894,8 +31625,7 @@
       "creature-true-name",
       "plane-celestia",
       "1057",
-      "manual-mpgh5aog-e7bd3",
-      "manual-mphqwz19-951b6"
+      "manual-mpgh5aog-e7bd3"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -33203,10 +31933,7 @@
     "zoomLevel": 5,
     "parentId": "2803",
     "relatedIds": [
-      "2803",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "2803"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -33236,13 +31963,10 @@
       "1488",
       "1569",
       "1661",
-      "manual-mpii94rh-4ulqj",
       "1606",
       "manual-mph6063i-vvg24",
       "race-orc-tytheri",
-      "creature-orcs",
-      "magic-dark",
-      "magic-time"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -33586,10 +32310,7 @@
       "3405",
       "3412",
       "3474",
-      "magic-water",
-      "race-kappa",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -34066,9 +32787,7 @@
     "relatedIds": [
       "3126",
       "creature-aphoryis",
-      "race-kendor",
-      "magic-force",
-      "magic-fire"
+      "race-kendor"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -34355,8 +33074,7 @@
       "2420",
       "2379",
       "2395",
-      "2430",
-      "manual-mphqwz19-951b6"
+      "2430"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -34415,7 +33133,6 @@
       "591",
       "race-goblin-scalawag",
       "536",
-      "2372",
       "493"
     ],
     "loreFile": "Clueanda.md",
@@ -34549,8 +33266,7 @@
     "parentId": "2817",
     "relatedIds": [
       "2817",
-      "race-ogre-silzar",
-      "magic-water"
+      "race-ogre-silzar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -34906,8 +33622,7 @@
     "relatedIds": [
       "4393",
       "race-dwarf-velwey",
-      "4396",
-      "manual-mphqwz19-951b6"
+      "4396"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -35092,9 +33807,7 @@
     "relatedIds": [
       "3689",
       "3835",
-      "race-murazi",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-murazi"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -35137,8 +33850,7 @@
       "2758",
       "2759",
       "2761",
-      "2771",
-      "magic-water"
+      "2771"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -35160,8 +33872,6 @@
       "4363",
       "4469",
       "4480",
-      "magic-light",
-      "magic-water",
       "4484"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -35239,9 +33949,7 @@
     "zoomLevel": 5,
     "parentId": "3662",
     "relatedIds": [
-      "3662",
-      "magic-light",
-      "magic-fire"
+      "3662"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -35350,8 +34058,7 @@
     "relatedIds": [
       "2555",
       "400",
-      "2574",
-      "magic-time"
+      "2574"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -35372,10 +34079,7 @@
     "relatedIds": [
       "398",
       "race-human",
-      "2561",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "2561"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -35394,8 +34098,7 @@
     "zoomLevel": 5,
     "parentId": "3837",
     "relatedIds": [
-      "3837",
-      "magic-water"
+      "3837"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -35485,8 +34188,7 @@
     "parentId": "2345",
     "relatedIds": [
       "2345",
-      "2314",
-      "magic-water"
+      "2314"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -35524,7 +34226,6 @@
     "relatedIds": [
       "3378",
       "3404",
-      "magic-water",
       "3376"
     ],
     "loreFile": "Upoceax.md",
@@ -35582,8 +34283,7 @@
     "zoomLevel": 5,
     "parentId": "607",
     "relatedIds": [
-      "607",
-      "magic-water"
+      "607"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -35639,8 +34339,7 @@
       "1321",
       "1328",
       "1340",
-      "race-dwarf-zwaeron",
-      "magic-light"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -35663,8 +34362,7 @@
       "plane-material-plane",
       "manual-mpih90gt-yf36d",
       "race-ulvsjael",
-      "race-human",
-      "magic-void"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -35743,8 +34441,7 @@
     "parentId": "4276",
     "relatedIds": [
       "4276",
-      "4236",
-      "magic-dark"
+      "4236"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [],
@@ -35831,9 +34528,7 @@
     "zoomLevel": 5,
     "parentId": "1534",
     "relatedIds": [
-      "1534",
-      "magic-light",
-      "magic-void"
+      "1534"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -35852,9 +34547,7 @@
     "zoomLevel": 5,
     "parentId": "3342",
     "relatedIds": [
-      "3342",
-      "magic-water",
-      "magic-time"
+      "3342"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -35933,10 +34626,8 @@
       "manual-mph610a1-mnq8z",
       "manual-mph5zofk-tpxsi",
       "race-orc-tytheri",
-      "magic-water",
       "race-human",
       "creature-orcs",
-      "manual-mphqwz19-951b6",
       "race-naga"
     ],
     "loreFile": "Aboyinzu.md",
@@ -36120,8 +34811,7 @@
     "relatedIds": [
       "3275",
       "3700",
-      "race-elf-kuzagt",
-      "manual-mphqwz19-951b6"
+      "race-elf-kuzagt"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -36144,8 +34834,7 @@
     "parentId": "1395",
     "relatedIds": [
       "1395",
-      "creature-trolls",
-      "manual-mphqwz19-951b6"
+      "creature-trolls"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -36292,8 +34981,7 @@
     "relatedIds": [
       "514",
       "race-elf-eloweir",
-      "race-goblin",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -36429,8 +35117,7 @@
       "race-goblin-scalawag",
       "536",
       "426",
-      "590",
-      "2372"
+      "590"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -36582,9 +35269,7 @@
       "3459",
       "3653",
       "3547",
-      "magic-light",
-      "creature-orcs",
-      "magic-dark"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -36703,9 +35388,7 @@
       "1511",
       "race-lizardfolk-ixlorett",
       "1623",
-      "magic-water",
-      "race-human",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -36786,8 +35469,7 @@
       "732",
       "872",
       "507",
-      "race-goblin",
-      "magic-water"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -37075,11 +35757,8 @@
     "relatedIds": [
       "3317",
       "3177",
-      "manual-mpii94rh-4ulqj",
       "race-elf-kuzagt",
-      "magic-water",
-      "race-human",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -37139,8 +35818,7 @@
     "zoomLevel": 5,
     "parentId": "914",
     "relatedIds": [
-      "914",
-      "magic-light"
+      "914"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -37242,10 +35920,7 @@
       "1899",
       "2098",
       "race-goblin",
-      "2372",
       "creature-titan",
-      "magic-water",
-      "magic-time",
       "race-ogre"
     ],
     "loreFile": "Aboyinzu.md",
@@ -37341,8 +36016,7 @@
     "parentId": "3108",
     "relatedIds": [
       "3108",
-      "3117",
-      "manual-mphqwz19-951b6"
+      "3117"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -37518,8 +36192,7 @@
     "parentId": "3498",
     "relatedIds": [
       "3498",
-      "3576",
-      "magic-void"
+      "3576"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -37582,10 +36255,7 @@
       "2009",
       "430",
       "creature-titan",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -37700,9 +36370,7 @@
     "zoomLevel": 5,
     "parentId": "1311",
     "relatedIds": [
-      "1311",
-      "magic-earth",
-      "magic-force"
+      "1311"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -37721,9 +36389,7 @@
     "zoomLevel": 5,
     "parentId": "1435",
     "relatedIds": [
-      "1435",
-      "magic-water",
-      "magic-dark"
+      "1435"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -37855,9 +36521,7 @@
     "zoomLevel": 5,
     "parentId": "2352",
     "relatedIds": [
-      "2352",
-      "magic-force",
-      "magic-water"
+      "2352"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -38098,10 +36762,6 @@
       "magic-aether",
       "race-kendor",
       "3146",
-      "magic-earth",
-      "magic-force",
-      "magic-light",
-      "magic-water",
       "race-human",
       "3046"
     ],
@@ -38183,9 +36843,7 @@
     "parentId": "1913",
     "relatedIds": [
       "1913",
-      "race-rusalka",
-      "magic-force",
-      "magic-void"
+      "race-rusalka"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -38296,8 +36954,7 @@
     "parentId": "3108",
     "relatedIds": [
       "3108",
-      "3037",
-      "magic-water"
+      "3037"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -38367,7 +37024,6 @@
       "2236",
       "2225",
       "2227",
-      "2372",
       "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
@@ -38393,10 +37049,7 @@
       "1410",
       "3942",
       "manual-mphq2fue-0es13",
-      "manual-mpii94rh-4ulqj",
-      "creature-undead",
-      "magic-water",
-      "magic-dark"
+      "creature-undead"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -38438,8 +37091,7 @@
     "parentId": "3108",
     "relatedIds": [
       "3108",
-      "manual-mph6bluv-cljks",
-      "magic-water"
+      "manual-mph6bluv-cljks"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -38461,8 +37113,7 @@
       "3206",
       "3219",
       "3214",
-      "race-sylthik",
-      "magic-water"
+      "race-sylthik"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -38485,10 +37136,7 @@
       "2034",
       "2001",
       "2136",
-      "manual-mpii94rh-4ulqj",
-      "creature-titan",
-      "magic-water",
-      "magic-time"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -38583,11 +37231,7 @@
       "region-the-wastes",
       "plane-malstaris",
       "race-naruaghin",
-      "magic-deoric",
-      "manual-mpii8krk-9f2qk",
-      "magic-water",
-      "magic-dark",
-      "magic-time"
+      "magic-deoric"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -38609,8 +37253,7 @@
       "2825",
       "4387",
       "2714",
-      "race-naruaghin",
-      "magic-water"
+      "race-naruaghin"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -38664,8 +37307,7 @@
     "parentId": "952",
     "relatedIds": [
       "952",
-      "953",
-      "magic-water"
+      "953"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -38979,8 +37621,7 @@
     "parentId": "750",
     "relatedIds": [
       "750",
-      "race-dwarf-verucan",
-      "magic-water"
+      "race-dwarf-verucan"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -39076,10 +37717,7 @@
     "parentId": "1137",
     "relatedIds": [
       "1137",
-      "manual-mpii94rh-4ulqj",
-      "1129",
-      "magic-fire",
-      "magic-void"
+      "1129"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -39172,8 +37810,7 @@
     "parentId": "4393",
     "relatedIds": [
       "4393",
-      "race-dwarf-velwey",
-      "2372"
+      "race-dwarf-velwey"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -39213,7 +37850,6 @@
       "4475",
       "4485",
       "creature-titan",
-      "magic-earth",
       "race-giant",
       "race-gnome-qipi",
       "4471"
@@ -39256,8 +37892,6 @@
       "4463",
       "manual-mpifpoq9-vp9xx",
       "4473",
-      "manual-mpii94rh-4ulqj",
-      "magic-time",
       "4446"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -39277,8 +37911,7 @@
     "zoomLevel": 5,
     "parentId": "3725",
     "relatedIds": [
-      "3725",
-      "magic-light"
+      "3725"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -39436,8 +38069,7 @@
       "591",
       "race-goblin-scalawag",
       "536",
-      "race-goblin",
-      "2372"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -39608,7 +38240,6 @@
       "region-zylogmus-eternus",
       "manual-mplrk736-up4t5",
       "4369",
-      "magic-water",
       "3390"
     ],
     "loreFile": "Upoceax.md",
@@ -39648,8 +38279,7 @@
       "3354",
       "3342",
       "3359",
-      "3361",
-      "magic-water"
+      "3361"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -39761,9 +38391,7 @@
       "race-gnome",
       "470",
       "race-elf-eloweir",
-      "race-goblin",
-      "magic-light",
-      "magic-water"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -39804,8 +38432,7 @@
     "parentId": null,
     "relatedIds": [
       "750",
-      "race-dwarf-verucan",
-      "magic-water"
+      "race-dwarf-verucan"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -39892,10 +38519,8 @@
       "2504",
       "390",
       "2565",
-      "manual-mpii94rh-4ulqj",
       "2574",
-      "2484",
-      "magic-time"
+      "2484"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -39954,9 +38579,7 @@
       "2798",
       "2712",
       "plane-material-plane",
-      "race-naruaghin",
-      "manual-mpii94rh-4ulqj",
-      "manual-mphqwz19-951b6"
+      "race-naruaghin"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -39980,16 +38603,11 @@
       "wilderness-scepter-mountains",
       "plane-life-and-death",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "4117",
       "4145",
       "3961",
       "creature-nabuhe",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -40018,9 +38636,7 @@
       "race-orc-xiivrach",
       "3606",
       "race-elf-rakiten",
-      "magic-water",
-      "creature-orcs",
-      "manual-mphqwz19-951b6"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -40115,16 +38731,8 @@
     "parentId": "2306",
     "relatedIds": [
       "2306",
-      "manual-mpii94rh-4ulqj",
       "creature-dragons",
-      "creature-elebria",
-      "2372",
-      "magic-earth",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
-      "magic-time"
+      "creature-elebria"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -40364,8 +38972,7 @@
     "parentId": "918",
     "relatedIds": [
       "918",
-      "1248",
-      "manual-mpii94rh-4ulqj"
+      "1248"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -40388,10 +38995,7 @@
       "3984",
       "3946",
       "4123",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -40416,8 +39020,7 @@
     "relatedIds": [
       "3484",
       "3540",
-      "3532",
-      "magic-time"
+      "3532"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -40807,8 +39410,7 @@
     "parentId": "3662",
     "relatedIds": [
       "3662",
-      "3684",
-      "magic-water"
+      "3684"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -40832,8 +39434,7 @@
       "3587",
       "3610",
       "creature-titan",
-      "3583",
-      "magic-time"
+      "3583"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -41050,9 +39651,7 @@
       "1784",
       "2574",
       "race-neferati",
-      "magic-light",
       "race-human",
-      "magic-fire",
       "2611"
     ],
     "tags": [],
@@ -41112,8 +39711,7 @@
       "3632",
       "3627",
       "race-elf-rakiten",
-      "3607",
-      "manual-mphqwz19-951b6"
+      "3607"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -41226,8 +39824,7 @@
       "3799",
       "3820",
       "3844",
-      "race-giant",
-      "manual-mphqwz19-951b6"
+      "race-giant"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -41264,8 +39861,7 @@
     "parentId": "4423",
     "relatedIds": [
       "4423",
-      "4441",
-      "magic-water"
+      "4441"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -41405,9 +40001,7 @@
     "relatedIds": [
       "2727",
       "2749",
-      "2854",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2854"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -41450,8 +40044,7 @@
       "race-naruaghin",
       "2840",
       "race-sharabha",
-      "2853",
-      "magic-water"
+      "2853"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -41662,7 +40255,7 @@
     ],
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "Feza is a crossroads town in the southern interior of Iqes, where overland routes from Zuko in the east converge with the forest paths leading west toward Ntando and the coast…",
+    "blurb": "Feza is a crossroads town in the southern interior of Iqes(/codex/3390), where overland routes from Zuko(/codex/3397) in the east converge with the forest paths leading west toward Ntando(/codex/3391) and the coast…",
     "parentName": "Iqes",
     "borders": [
       {
@@ -41699,16 +40292,11 @@
       "2306",
       "2289",
       "2236",
-      "manual-mpii94rh-4ulqj",
       "creature-dragons",
       "2228",
       "race-triton",
       "creature-titan",
-      "magic-force",
-      "magic-light",
-      "magic-water",
-      "race-dwarf-nydor",
-      "magic-time"
+      "race-dwarf-nydor"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -41737,9 +40325,7 @@
       "region-the-wastes",
       "3902",
       "3662",
-      "race-goblin",
-      "manual-mphqwz19-951b6",
-      "magic-fire"
+      "race-goblin"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -41801,9 +40387,7 @@
       "1579",
       "1583",
       "1720",
-      "race-elf-kryaaji",
-      "magic-light",
-      "magic-water"
+      "race-elf-kryaaji"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -41933,9 +40517,7 @@
       "1899",
       "1754",
       "1776",
-      "manual-mpii94rh-4ulqj",
       "creature-titan",
-      "magic-water",
       "1805"
     ],
     "loreFile": "Aboyinzu.md",
@@ -42042,8 +40624,7 @@
       "magic-languages",
       "2574",
       "race-neferati",
-      "race-human",
-      "magic-fire"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -42237,8 +40818,7 @@
     "zoomLevel": 5,
     "parentId": "2443",
     "relatedIds": [
-      "2443",
-      "manual-mphqwz19-951b6"
+      "2443"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -42297,8 +40877,7 @@
       "1539",
       "1487",
       "1738",
-      "race-orc-tytheri",
-      "magic-force"
+      "race-orc-tytheri"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -42557,14 +41136,12 @@
       "383",
       "1293",
       "magic-languages",
-      "manual-mpii94rh-4ulqj",
       "manual-mph6njar-srqmu",
       "71",
       "197",
       "magic-aether",
       "race-goblin",
       "race-krell",
-      "manual-mphqwz19-951b6",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -42831,8 +41408,7 @@
     "zoomLevel": 5,
     "parentId": "398",
     "relatedIds": [
-      "398",
-      "magic-water"
+      "398"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -43067,7 +41643,6 @@
     "parentId": "732",
     "relatedIds": [
       "732",
-      "manual-mpii94rh-4ulqj",
       "race-goblin-scalawag",
       "creature-sprites",
       "magic-faesong",
@@ -43075,11 +41650,7 @@
       "creature-pixies",
       "514",
       "race-goblin",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -43159,9 +41730,7 @@
       "3412",
       "3451",
       "3405",
-      "magic-light",
-      "race-kappa",
-      "magic-time"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -43203,8 +41772,7 @@
       "108",
       "158",
       "373",
-      "148",
-      "magic-water"
+      "148"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -43241,8 +41809,8 @@
     "parentId": "783",
     "relatedIds": [
       "783",
-      "manual-mph9u0nl-4w10y",
-      "magic-force"
+      "overview-deities",
+      "manual-mph9u0nl-4w10y"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -43402,9 +41970,7 @@
     "relatedIds": [
       "591",
       "race-goblin-scalawag",
-      "536",
-      "2372",
-      "magic-water"
+      "536"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -43536,11 +42102,7 @@
     "zoomLevel": 5,
     "parentId": "1410",
     "relatedIds": [
-      "1410",
-      "manual-mpii94rh-4ulqj",
-      "magic-earth",
-      "magic-force",
-      "magic-water"
+      "1410"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -43602,9 +42164,7 @@
       "manual-mph5td6n-wmngq",
       "1776",
       "manual-mph5t8xv-6qlzk",
-      "race-halfling-wispen",
-      "manual-mphcbgsb-wykgk",
-      "magic-dark"
+      "race-halfling-wispen"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -43668,9 +42228,7 @@
     "parentId": "607",
     "relatedIds": [
       "607",
-      "589",
-      "magic-water",
-      "magic-dark"
+      "589"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -43734,9 +42292,7 @@
       "981",
       "1327",
       "1183",
-      "race-grayls",
-      "2372",
-      "manual-mphqwz19-951b6"
+      "race-grayls"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -43814,8 +42370,7 @@
     "relatedIds": [
       "591",
       "race-goblin-scalawag",
-      "536",
-      "2372"
+      "536"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -43840,9 +42395,7 @@
     "relatedIds": [
       "3087",
       "3089",
-      "manual-mpii94rh-4ulqj",
-      "race-halfling-dengar",
-      "magic-dark"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -43865,9 +42418,7 @@
       "913",
       "manual-mpghbn1h-5h2la",
       "creature-cirthikin",
-      "manual-mpii94rh-4ulqj",
-      "race-goblin",
-      "manual-mphqwz19-951b6"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -43997,9 +42548,7 @@
     "parentId": "3087",
     "relatedIds": [
       "3087",
-      "manual-mpii94rh-4ulqj",
       "race-halfling-dengar",
-      "magic-earth",
       "creature-hags"
     ],
     "loreFile": "Rimihuica.md",
@@ -44556,8 +43105,7 @@
       "1040",
       "3677",
       "person-hermelia",
-      "3799",
-      "magic-fire"
+      "3799"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -44659,10 +43207,7 @@
     "relatedIds": [
       "2443",
       "2400",
-      "2368",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2368"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -44685,8 +43230,7 @@
     "zoomLevel": 5,
     "parentId": "2443",
     "relatedIds": [
-      "2443",
-      "manual-mphqwz19-951b6"
+      "2443"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -44711,12 +43255,8 @@
       "2124",
       "2023",
       "1899",
-      "manual-mpii94rh-4ulqj",
       "1955",
-      "creature-shades",
-      "2372",
-      "magic-light",
-      "manual-mphqwz19-951b6"
+      "creature-shades"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -44746,9 +43286,7 @@
       "2162",
       "1899",
       "1927",
-      "2372",
-      "creature-titan",
-      "magic-water"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -44794,8 +43332,7 @@
       "race-dwarf-fengruk",
       "manual-mph5ny7n-m1wi0",
       "creature-undead",
-      "creature-titan",
-      "magic-force"
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -44843,10 +43380,7 @@
       "2067",
       "race-goblin",
       "creature-titan",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -44923,8 +43457,7 @@
     "relatedIds": [
       "1395",
       "1396",
-      "1407",
-      "magic-dark"
+      "1407"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -44998,11 +43531,7 @@
       "981",
       "1183",
       "1190",
-      "manual-mpii94rh-4ulqj",
-      "3048",
-      "2372",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "3048"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -45029,9 +43558,7 @@
       "334",
       "189",
       "race-human-temptari",
-      "magic-water",
-      "92",
-      "manual-mphqwz19-951b6"
+      "92"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -45099,13 +43626,9 @@
       "2620",
       "282",
       "creature-this-thing",
-      "manual-mpii94rh-4ulqj",
       "2701",
-      "magic-light",
-      "magic-water",
       "race-giant",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -45199,8 +43722,7 @@
     "parentId": "4460",
     "relatedIds": [
       "4460",
-      "4462",
-      "magic-water"
+      "4462"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -45235,9 +43757,6 @@
     "relatedIds": [
       "4402",
       "4403",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -45378,8 +43897,7 @@
     "parentId": "1183",
     "relatedIds": [
       "1183",
-      "race-grayls",
-      "magic-light"
+      "race-grayls"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -45569,8 +44087,7 @@
     "zoomLevel": 5,
     "parentId": "1962",
     "relatedIds": [
-      "1962",
-      "magic-force"
+      "1962"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -45615,9 +44132,7 @@
       "3573",
       "manual-mpihcb8f-39d5v",
       "creature-true-name",
-      "manual-mpii94rh-4ulqj",
-      "plane-celestia",
-      "magic-time"
+      "plane-celestia"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -45783,9 +44298,7 @@
     "parentId": "1328",
     "relatedIds": [
       "1328",
-      "plane-material-plane",
-      "magic-force",
-      "magic-water"
+      "plane-material-plane"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -46119,8 +44632,7 @@
     "relatedIds": [
       "3108",
       "3115",
-      "3109",
-      "manual-mphqwz19-951b6"
+      "3109"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -46191,8 +44703,7 @@
     "parentId": "1410",
     "relatedIds": [
       "1410",
-      "422",
-      "magic-water"
+      "422"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -46217,11 +44728,8 @@
       "211",
       "343",
       "magic-aether",
-      "2372",
-      "magic-earth",
       "race-human",
       "race-krell",
-      "manual-mphqwz19-951b6",
       "382"
     ],
     "loreFile": "Ve.md",
@@ -46553,8 +45061,7 @@
     "relatedIds": [
       "4423",
       "4425",
-      "race-halfling",
-      "manual-mphqwz19-951b6"
+      "race-halfling"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -46797,10 +45304,7 @@
       "4402",
       "4403",
       "4414",
-      "magic-force",
-      "magic-light",
       "4411",
-      "magic-fire",
       "race-gnome-neka",
       "4446"
     ],
@@ -46874,8 +45378,7 @@
     "relatedIds": [
       "2236",
       "2283",
-      "creature-kanzekill",
-      "magic-force"
+      "creature-kanzekill"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -47345,8 +45848,7 @@
     "relatedIds": [
       "3206",
       "3213",
-      "race-ulvsjael",
-      "magic-water"
+      "race-ulvsjael"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -48025,9 +46527,7 @@
       "3459",
       "race-orc-xiivrach",
       "3547",
-      "magic-water",
-      "creature-orcs",
-      "magic-dark"
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -48051,9 +46551,7 @@
     "parentId": "1913",
     "relatedIds": [
       "1913",
-      "1925",
-      "magic-force",
-      "magic-void"
+      "1925"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -48298,9 +46796,7 @@
     "parentId": "4423",
     "relatedIds": [
       "4423",
-      "4425",
-      "manual-mpii94rh-4ulqj",
-      "magic-force"
+      "4425"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -48323,8 +46819,7 @@
       "faction-first-brotherhood",
       "2494",
       "2649",
-      "2743",
-      "2372"
+      "2743"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -48347,8 +46842,7 @@
       "2751",
       "2761",
       "2777",
-      "2776",
-      "manual-mphqwz19-951b6"
+      "2776"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -48389,8 +46883,7 @@
       "manual-mpihd01b-de09w",
       "3498",
       "3529",
-      "3573",
-      "manual-mphqwz19-951b6"
+      "3573"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -48464,8 +46957,7 @@
     "zoomLevel": 5,
     "parentId": "2345",
     "relatedIds": [
-      "2345",
-      "magic-water"
+      "2345"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -48543,11 +47035,8 @@
       "329",
       "262",
       "race-dwarf-dern",
-      "2372",
       "359",
       "129",
-      "magic-light",
-      "magic-water",
       "race-giant",
       "race-human",
       "92"
@@ -48570,7 +47059,6 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
-      "magic-water",
       "3231"
     ],
     "loreFile": "Rimihuica.md",
@@ -48681,8 +47169,7 @@
       "453",
       "creature-wydlings",
       "719",
-      "magic-aether",
-      "manual-mphqwz19-951b6"
+      "magic-aether"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -48889,8 +47376,7 @@
     "relatedIds": [
       "981",
       "1141",
-      "1122",
-      "magic-water"
+      "1122"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -49184,8 +47670,7 @@
       "1606",
       "1661",
       "manual-mph62233-zc6fw",
-      "1486",
-      "magic-water"
+      "1486"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -49225,9 +47710,7 @@
     "parentId": "479",
     "relatedIds": [
       "479",
-      "430",
-      "magic-water",
-      "magic-dark"
+      "430"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -49339,11 +47822,8 @@
       "329",
       "317",
       "race-halfling-shailin",
-      "magic-water",
       "race-human",
-      "race-koren-korel",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-koren-korel"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -49403,8 +47883,7 @@
     "zoomLevel": 5,
     "parentId": "3046",
     "relatedIds": [
-      "3046",
-      "manual-mphqwz19-951b6"
+      "3046"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -49791,8 +48270,7 @@
       "3",
       "179",
       "87",
-      "203",
-      "magic-water"
+      "203"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -50179,8 +48657,6 @@
       "race-naruaghin",
       "magic-faesong",
       "race-dwelyn",
-      "magic-water",
-      "manual-mphqwz19-951b6",
       "2735"
     ],
     "loreFile": "Rimihuica.md",
@@ -50254,15 +48730,12 @@
       "1475",
       "1749",
       "1485",
-      "manual-mpii94rh-4ulqj",
       "1388",
       "1486",
       "1606",
       "manual-mph6063i-vvg24",
       "race-centaur",
       "1611",
-      "magic-earth",
-      "magic-water",
       "race-human",
       "race-satyr"
     ],
@@ -50339,8 +48812,7 @@
     "parentId": "2430",
     "relatedIds": [
       "2430",
-      "2442",
-      "magic-water"
+      "2442"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -50573,8 +49045,7 @@
       "2565",
       "2574",
       "2477",
-      "2484",
-      "magic-time"
+      "2484"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -50622,10 +49093,7 @@
       "creature-monsters",
       "manual-mpghahhd-fo6s4",
       "1154",
-      "2372",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -50651,8 +49119,7 @@
       "1107",
       "2854",
       "981",
-      "388",
-      "magic-time"
+      "388"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -50767,8 +49234,7 @@
     "relatedIds": [
       "529",
       "390",
-      "477",
-      "2372"
+      "477"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -50794,8 +49260,6 @@
       "2337",
       "2267",
       "2321",
-      "magic-fire",
-      "magic-time",
       "1150"
     ],
     "loreFile": "Aboyinzu.md",
@@ -50887,10 +49351,8 @@
       "magic-faesong",
       "creature-pixies",
       "338",
-      "magic-water",
       "race-krell",
-      "race-pixie",
-      "magic-time"
+      "race-pixie"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -50966,8 +49428,7 @@
     "parentId": "981",
     "relatedIds": [
       "981",
-      "388",
-      "magic-earth"
+      "388"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -51179,12 +49640,7 @@
     "relatedIds": [
       "3781",
       "manual-mph55twc-xk1lw",
-      "manual-mpii94rh-4ulqj",
-      "3785",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "3785"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -51288,8 +49744,7 @@
       "2676",
       "race-naruaghin",
       "manual-mpjrcf71-enapy",
-      "race-dwelyn",
-      "manual-mphqwz19-951b6"
+      "race-dwelyn"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -51312,8 +49767,7 @@
       "4153",
       "4106",
       "manual-mpihzt0w-8ry2f",
-      "creature-nabuhe",
-      "manual-mphqwz19-951b6"
+      "creature-nabuhe"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -51472,9 +49926,7 @@
     "zoomLevel": 5,
     "parentId": "732",
     "relatedIds": [
-      "732",
-      "magic-force",
-      "magic-dark"
+      "732"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -51629,9 +50081,7 @@
       "3087",
       "3106",
       "3089",
-      "race-halfling-dengar",
-      "magic-water",
-      "magic-dark"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -51702,9 +50152,7 @@
     "parentId": "2430",
     "relatedIds": [
       "2430",
-      "2368",
-      "magic-water",
-      "magic-time"
+      "2368"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -51757,13 +50205,10 @@
     "relatedIds": [
       "3390",
       "3399",
-      "manual-mpii94rh-4ulqj",
       "race-halfling",
       "creature-ghosts",
-      "magic-water",
       "3394",
-      "race-human-qindo",
-      "manual-mphqwz19-951b6"
+      "race-human-qindo"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -51787,8 +50232,7 @@
     "parentId": "2352",
     "relatedIds": [
       "2352",
-      "2326",
-      "magic-water"
+      "2326"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -51978,8 +50422,7 @@
     "zoomLevel": 5,
     "parentId": "2634",
     "relatedIds": [
-      "2634",
-      "2372"
+      "2634"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -52178,10 +50621,7 @@
       "4016",
       "4054",
       "manual-mph548r2-t2bbo",
-      "3725",
-      "magic-force",
-      "magic-water",
-      "magic-fire"
+      "3725"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -52393,10 +50833,7 @@
     "parentId": "479",
     "relatedIds": [
       "479",
-      "939",
-      "manual-mpii94rh-4ulqj",
-      "magic-earth",
-      "magic-time"
+      "939"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -52579,8 +51016,7 @@
     "relatedIds": [
       "1428",
       "1430",
-      "creature-hags",
-      "magic-dark"
+      "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -52825,9 +51261,7 @@
     "zoomLevel": 5,
     "parentId": "2758",
     "relatedIds": [
-      "2758",
-      "magic-water",
-      "magic-fire"
+      "2758"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -53002,8 +51436,7 @@
       "3521",
       "3610",
       "creature-titan",
-      "3583",
-      "magic-time"
+      "3583"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -53189,8 +51622,6 @@
       "1388",
       "1544",
       "race-chulpe",
-      "magic-force",
-      "magic-light",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -53238,8 +51669,7 @@
       "980",
       "creature-nyinsylys",
       "race-dwarf-zwaeron",
-      "creature-kyth",
-      "manual-mphqwz19-951b6"
+      "creature-kyth"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -53354,15 +51784,11 @@
       "2306",
       "2201",
       "2283",
-      "manual-mpii94rh-4ulqj",
       "creature-dragons",
       "2228",
       "magic-deoric",
       "race-triton",
-      "7",
-      "magic-force",
-      "magic-water",
-      "magic-dark"
+      "7"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -53478,11 +51904,8 @@
       "2179",
       "1991",
       "1888",
-      "manual-mpii94rh-4ulqj",
       "race-ogre-groyza",
       "race-ogre-silzar",
-      "2372",
-      "magic-water",
       "race-human",
       "race-ogre"
     ],
@@ -53886,8 +52309,7 @@
       "158",
       "203",
       "148",
-      "338",
-      "magic-dark"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -54081,8 +52503,7 @@
     "relatedIds": [
       "3108",
       "3109",
-      "3120",
-      "manual-mphqwz19-951b6"
+      "3120"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -54320,15 +52741,10 @@
       "3604",
       "race-fallen-angels",
       "3627",
-      "manual-mpii94rh-4ulqj",
       "3606",
       "race-fallen-angels-sarakiel",
       "race-elf-rakiten",
-      "magic-light",
-      "4423",
-      "manual-mphqwz19-951b6",
-      "magic-time",
-      "magic-void"
+      "4423"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -54353,13 +52769,9 @@
     "relatedIds": [
       "3",
       "221",
-      "2372",
       "359",
-      "magic-light",
       "92",
-      "95",
-      "magic-fire",
-      "magic-void"
+      "95"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -54518,8 +52930,7 @@
       "630",
       "707",
       "786",
-      "manual-mphcalsb-yz07p",
-      "manual-mphqwz19-951b6"
+      "manual-mphcalsb-yz07p"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -54611,11 +53022,8 @@
     "relatedIds": [
       "18",
       "189",
-      "manual-mpii94rh-4ulqj",
       "race-human-temptari",
-      "322",
-      "magic-light",
-      "magic-time"
+      "322"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -54758,9 +53166,7 @@
       "2345",
       "2273",
       "creature-pelera",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -55091,8 +53497,7 @@
     "relatedIds": [
       "4446",
       "4469",
-      "manual-mpifngwy-7g88n",
-      "magic-water"
+      "manual-mpifngwy-7g88n"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -55213,7 +53618,6 @@
       "4387",
       "race-naruaghin",
       "race-dwelyn",
-      "magic-water",
       "2735"
     ],
     "loreFile": "Rimihuica.md",
@@ -55267,8 +53671,7 @@
       "3913",
       "3982",
       "3917",
-      "race-satyr",
-      "magic-time"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -55484,9 +53887,7 @@
       "race-human",
       "4363",
       "4417",
-      "2844",
-      "manual-mpii94rh-4ulqj",
-      "magic-water"
+      "2844"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -55791,8 +54192,7 @@
     "relatedIds": [
       "4016",
       "4037",
-      "418",
-      "magic-water"
+      "418"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -55814,7 +54214,6 @@
       "4016",
       "4038",
       "418",
-      "magic-water",
       "race-satyr"
     ],
     "loreFile": "Upoceax.md",
@@ -55835,8 +54234,7 @@
     "parentId": "4016",
     "relatedIds": [
       "4016",
-      "418",
-      "magic-water"
+      "418"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -56156,7 +54554,6 @@
       "284",
       "291",
       "17",
-      "magic-earth",
       "race-human"
     ],
     "loreFile": "Ve.md",
@@ -56231,8 +54628,7 @@
     "parentId": "2443",
     "relatedIds": [
       "2443",
-      "2400",
-      "magic-void"
+      "2400"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -56354,7 +54750,6 @@
     "parentId": "4423",
     "relatedIds": [
       "4423",
-      "manual-mpii94rh-4ulqj",
       "4435",
       "4436",
       "race-halfling",
@@ -56380,10 +54775,8 @@
       "1738",
       "1488",
       "1487",
-      "manual-mpii94rh-4ulqj",
       "430",
       "race-orc-tytheri",
-      "magic-water",
       "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
@@ -56459,8 +54852,7 @@
     "relatedIds": [
       "3465",
       "race-tuktuk",
-      "manual-mpii4y56-cn0qu",
-      "magic-fire"
+      "manual-mpii4y56-cn0qu"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -56555,13 +54947,11 @@
       "creature-monsters",
       "3341",
       "3391",
-      "magic-water",
       "3394",
       "race-giant",
       "race-human-qindo",
       "race-human",
-      "3390",
-      "magic-dark"
+      "3390"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -56847,8 +55237,7 @@
     "zoomLevel": 5,
     "parentId": "1129",
     "relatedIds": [
-      "1129",
-      "magic-water"
+      "1129"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -57039,10 +55428,7 @@
       "732",
       "2881",
       "2890",
-      "magic-faesong",
-      "manual-mpii8krk-9f2qk",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "magic-faesong"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -57067,9 +55453,7 @@
     "parentId": "1361",
     "relatedIds": [
       "1361",
-      "1382",
-      "magic-earth",
-      "magic-fire"
+      "1382"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -57092,9 +55476,7 @@
       "3498",
       "3587",
       "creature-titan",
-      "magic-earth",
-      "3583",
-      "magic-time"
+      "3583"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -57118,9 +55500,7 @@
     "parentId": "3833",
     "relatedIds": [
       "3833",
-      "3942",
-      "magic-water",
-      "magic-dark"
+      "3942"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -57234,12 +55614,9 @@
       "2722",
       "2855",
       "2854",
-      "manual-mpii94rh-4ulqj",
       "2634",
       "2815",
-      "magic-light",
-      "race-giant",
-      "magic-time"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -57263,9 +55640,7 @@
     "relatedIds": [
       "4363",
       "3689",
-      "3662",
-      "magic-water",
-      "magic-time"
+      "3662"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -57320,8 +55695,7 @@
     "zoomLevel": 5,
     "parentId": "3554",
     "relatedIds": [
-      "3554",
-      "manual-mphqwz19-951b6"
+      "3554"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -57342,8 +55716,7 @@
     "relatedIds": [
       "2758",
       "2785",
-      "2782",
-      "magic-void"
+      "2782"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -57476,10 +55849,7 @@
       "3472",
       "manual-mpii5qyj-9mpv2",
       "race-tuktuk",
-      "magic-light",
-      "magic-water",
-      "race-kappa",
-      "magic-time"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -57504,9 +55874,6 @@
       "4403",
       "4412",
       "4413",
-      "manual-mphcbgsb-wykgk",
-      "magic-water",
-      "magic-fire",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -57616,8 +55983,7 @@
     "zoomLevel": 5,
     "parentId": "4276",
     "relatedIds": [
-      "4276",
-      "magic-fire"
+      "4276"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [],
@@ -57656,9 +56022,7 @@
     "parentId": "manual-mpjrcf71-gtrw6",
     "relatedIds": [
       "manual-mpjrcf71-gtrw6",
-      "magic-water",
-      "849",
-      "manual-mphqwz19-951b6"
+      "849"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -57857,11 +56221,7 @@
       "manual-mphbt2hf-hd923",
       "1388",
       "creature-monsters",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -57906,8 +56266,7 @@
       "1410",
       "422",
       "1428",
-      "creature-hags",
-      "magic-time"
+      "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -57963,7 +56322,6 @@
       "1410",
       "422",
       "1428",
-      "magic-water",
       "creature-hags"
     ],
     "loreFile": "Aboyinzu.md",
@@ -58161,7 +56519,6 @@
       "2652",
       "2729",
       "race-human-shapers",
-      "magic-water",
       "race-human-nuun"
     ],
     "loreFile": "Rimihuica.md",
@@ -58297,9 +56654,7 @@
       "2620",
       "2840",
       "2634",
-      "race-kendor",
-      "2372",
-      "magic-water"
+      "race-kendor"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -58501,10 +56856,7 @@
       "2345",
       "creature-pelera",
       "2352",
-      "2305",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "2305"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -58621,8 +56973,7 @@
     "relatedIds": [
       "702",
       "race-human",
-      "720",
-      "manual-mphqwz19-951b6"
+      "720"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -58643,8 +56994,7 @@
     "relatedIds": [
       "3378",
       "race-rusalka",
-      "3375",
-      "magic-water"
+      "3375"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -58716,10 +57066,8 @@
     "relatedIds": [
       "3399",
       "3451",
-      "magic-water",
       "3394",
-      "race-human",
-      "manual-mphqwz19-951b6"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -58761,8 +57109,7 @@
     "relatedIds": [
       "3799",
       "1041",
-      "person-hermelia",
-      "magic-fire"
+      "person-hermelia"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -59064,7 +57411,6 @@
       "3391",
       "3394",
       "race-human-qindo",
-      "manual-mphqwz19-951b6",
       "3390"
     ],
     "loreFile": "Upoceax.md",
@@ -59335,8 +57681,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
-      "race-sylthik",
-      "2372"
+      "race-sylthik"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -59356,10 +57701,7 @@
     "parentId": "927",
     "relatedIds": [
       "927",
-      "905",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "905"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -59391,9 +57733,7 @@
       "race-dwarf-drasnian",
       "3337",
       "3189",
-      "3178",
-      "magic-water",
-      "magic-dark"
+      "3178"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -59438,10 +57778,7 @@
     "parentId": "2201",
     "relatedIds": [
       "2201",
-      "2278",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "2278"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -59550,9 +57887,7 @@
     "parentId": "2430",
     "relatedIds": [
       "2430",
-      "2378",
-      "magic-water",
-      "magic-void"
+      "2378"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -59928,10 +58263,7 @@
     "relatedIds": [
       "1865",
       "2155",
-      "2009",
-      "2372",
-      "manual-mphqwz19-951b6",
-      "magic-dark"
+      "2009"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -60005,8 +58337,7 @@
       "2378",
       "2442",
       "2395",
-      "race-elf-istori",
-      "magic-water"
+      "race-elf-istori"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -60026,9 +58357,7 @@
     "parentId": "4450",
     "relatedIds": [
       "4450",
-      "manual-mpii94rh-4ulqj",
-      "race-pixie-zelle",
-      "magic-dark"
+      "race-pixie-zelle"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -60191,7 +58520,6 @@
     "parentId": "3781",
     "relatedIds": [
       "3781",
-      "manual-mpii94rh-4ulqj",
       "plane-glyssen"
     ],
     "loreFile": "Upoceax.md",
@@ -60315,8 +58643,6 @@
     "relatedIds": [
       "417",
       "412",
-      "magic-water",
-      "magic-time",
       "race-naga"
     ],
     "loreFile": "Clueanda.md",
@@ -60339,8 +58665,7 @@
       "manual-mpjrcf71-gtrw6",
       "553",
       "720",
-      "849",
-      "manual-mphqwz19-951b6"
+      "849"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -60392,8 +58717,7 @@
     "relatedIds": [
       "927",
       "453",
-      "918",
-      "magic-earth"
+      "918"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -60571,9 +58895,7 @@
     "relatedIds": [
       "2259",
       "2337",
-      "2342",
-      "magic-light",
-      "magic-water"
+      "2342"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -60635,13 +58957,9 @@
       "3750",
       "creature-true-name",
       "magic-languages",
-      "2372",
       "daemon-solas",
-      "magic-light",
-      "magic-water",
       "race-giant",
-      "race-human",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -60815,8 +59133,7 @@
     "relatedIds": [
       "3087",
       "3093",
-      "race-halfling-dengar",
-      "manual-mphqwz19-951b6"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -60837,7 +59154,6 @@
     "relatedIds": [
       "4402",
       "4410",
-      "magic-water",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -60857,8 +59173,7 @@
     "parentId": "479",
     "relatedIds": [
       "479",
-      "race-giant",
-      "manual-mphqwz19-951b6"
+      "race-giant"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -60896,9 +59211,7 @@
     "relatedIds": [
       "4402",
       "4403",
-      "manual-mpii94rh-4ulqj",
       "4411",
-      "magic-fire",
       "race-gnome-neka"
     ],
     "loreFile": "Greenwater_Isles.md",
@@ -61067,8 +59380,7 @@
     "parentId": "477",
     "relatedIds": [
       "477",
-      "race-giant",
-      "magic-dark"
+      "race-giant"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -61246,8 +59558,7 @@
     "relatedIds": [
       "3108",
       "2912",
-      "2918",
-      "manual-mphqwz19-951b6"
+      "2918"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -61382,8 +59693,6 @@
       "3662",
       "manual-mph4psob-48u4u",
       "3680",
-      "magic-light",
-      "magic-fire",
       "person-bryn"
     ],
     "loreFile": "Upoceax.md",
@@ -61432,8 +59741,7 @@
     "parentId": "1112",
     "relatedIds": [
       "1112",
-      "creature-mechwurm",
-      "magic-earth"
+      "creature-mechwurm"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -61454,8 +59762,7 @@
     "relatedIds": [
       "1327",
       "1345",
-      "1311",
-      "magic-force"
+      "1311"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -61602,10 +59909,7 @@
     "parentId": "4423",
     "relatedIds": [
       "4423",
-      "4425",
-      "manual-mpii94rh-4ulqj",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "4425"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -61677,9 +59981,7 @@
     "parentId": "666",
     "relatedIds": [
       "666",
-      "667",
-      "magic-water",
-      "magic-time"
+      "667"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -61721,9 +60023,7 @@
     "parentId": "2253",
     "relatedIds": [
       "2253",
-      "2345",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "2345"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -61744,9 +60044,7 @@
     "relatedIds": [
       "692",
       "1066",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -61787,7 +60085,6 @@
     "relatedIds": [
       "211",
       "311",
-      "manual-mpii94rh-4ulqj",
       "race-human",
       "race-krell"
     ],
@@ -61817,8 +60114,7 @@
       "274",
       "race-lizardfolk-ixmeglyakuk",
       "96",
-      "303",
-      "magic-fire"
+      "303"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -61885,8 +60181,7 @@
       "race-lizardfolk-ixmeglyakuk",
       "creature-suki-jungle",
       "303",
-      "71",
-      "manual-mphqwz19-951b6"
+      "71"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -61907,8 +60202,7 @@
     "relatedIds": [
       "3972",
       "3913",
-      "race-ulvsjael",
-      "magic-water"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -61952,7 +60246,6 @@
     "relatedIds": [
       "3540",
       "manual-mpihbrht-312f0",
-      "manual-mpii94rh-4ulqj",
       "manual-mpihb6u5-600t7"
     ],
     "loreFile": "Upoceax.md",
@@ -62016,10 +60309,7 @@
     "relatedIds": [
       "1510",
       "1617",
-      "magic-water",
-      "race-human",
-      "magic-dark",
-      "magic-time"
+      "race-human"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -62041,8 +60331,7 @@
       "1738",
       "1487",
       "race-orc-tytheri",
-      "creature-orcs",
-      "magic-time"
+      "creature-orcs"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -62065,8 +60354,7 @@
       "4016",
       "4021",
       "418",
-      "race-goblin",
-      "magic-water"
+      "race-goblin"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -62193,8 +60481,7 @@
     "relatedIds": [
       "3725",
       "3733",
-      "3786",
-      "magic-water"
+      "3786"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -62215,7 +60502,6 @@
     "relatedIds": [
       "4010",
       "4031",
-      "magic-water",
       "race-satyr"
     ],
     "loreFile": "Upoceax.md",
@@ -62365,8 +60651,7 @@
       "108",
       "255",
       "148",
-      "338",
-      "magic-earth"
+      "338"
     ],
     "loreFile": "Ve.md",
     "tags": [],
@@ -62413,8 +60698,7 @@
       "2467",
       "manual-mpha4gzt-vjyu9",
       "2574",
-      "2463",
-      "magic-water"
+      "2463"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -62436,15 +60720,8 @@
       "3902",
       "3946",
       "plane-malstaris",
-      "manual-mpii94rh-4ulqj",
       "plane-celestia",
-      "magic-light",
-      "magic-water",
-      "race-human",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time",
-      "magic-void"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -62470,9 +60747,7 @@
     "zoomLevel": 5,
     "parentId": "449",
     "relatedIds": [
-      "449",
-      "manual-mpii94rh-4ulqj",
-      "magic-time"
+      "449"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -62492,8 +60767,7 @@
     "parentId": "4471",
     "relatedIds": [
       "4471",
-      "4485",
-      "magic-water"
+      "4485"
     ],
     "loreFile": "City_States.md",
     "tags": [],
@@ -62520,11 +60794,8 @@
       "418",
       "3902",
       "4004",
-      "magic-force",
-      "magic-water",
       "race-human",
-      "race-satyr",
-      "magic-fire"
+      "race-satyr"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -62681,9 +60952,7 @@
     "zoomLevel": 5,
     "parentId": "2634",
     "relatedIds": [
-      "2634",
-      "magic-force",
-      "magic-water"
+      "2634"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -62730,7 +60999,6 @@
       "3918",
       "3982",
       "3917",
-      "magic-water",
       "race-satyr"
     ],
     "loreFile": "Upoceax.md",
@@ -62753,8 +61021,7 @@
       "4054",
       "3833",
       "4041",
-      "1327",
-      "magic-water"
+      "1327"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -62793,8 +61060,7 @@
     "zoomLevel": 5,
     "parentId": "1865",
     "relatedIds": [
-      "1865",
-      "manual-mpii94rh-4ulqj"
+      "1865"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -62834,9 +61100,7 @@
     "relatedIds": [
       "1186",
       "1183",
-      "manual-mpii94rh-4ulqj",
-      "race-grayls",
-      "magic-water"
+      "race-grayls"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -62898,8 +61162,7 @@
       "3913",
       "3972",
       "4032",
-      "race-ulvsjael",
-      "manual-mphqwz19-951b6"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -62962,11 +61225,7 @@
     "relatedIds": [
       "1754",
       "manual-mphbt2hf-hd923",
-      "creature-shades",
-      "magic-force",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "creature-shades"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -63037,10 +61296,7 @@
       "1332",
       "region-the-wastes",
       "952",
-      "race-dwarf-zwaeron",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "race-dwarf-zwaeron"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -63147,9 +61403,7 @@
     "relatedIds": [
       "1346",
       "1355",
-      "manual-mpigl24u-ih530",
-      "magic-earth",
-      "magic-fire"
+      "manual-mpigl24u-ih530"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -63460,8 +61714,7 @@
     "parentId": "2443",
     "relatedIds": [
       "2443",
-      "2380",
-      "magic-void"
+      "2380"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -63655,8 +61908,7 @@
     "parentId": "1361",
     "relatedIds": [
       "1361",
-      "1362",
-      "magic-fire"
+      "1362"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -63675,8 +61927,7 @@
     "zoomLevel": 5,
     "parentId": "3725",
     "relatedIds": [
-      "3725",
-      "magic-light"
+      "3725"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -63703,8 +61954,7 @@
       "211",
       "343",
       "137",
-      "race-krell",
-      "manual-mphqwz19-951b6"
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -63933,9 +62183,7 @@
     "relatedIds": [
       "3972",
       "3921",
-      "race-ulvsjael",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-ulvsjael"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -64161,8 +62409,6 @@
     "relatedIds": [
       "1311",
       "1327",
-      "magic-light",
-      "magic-water",
       "race-human-neth"
     ],
     "loreFile": "Clueanda.md",
@@ -64219,9 +62465,7 @@
       "3465",
       "race-tuktuk",
       "manual-mpii6g1i-ij0uc",
-      "race-human",
-      "magic-dark",
-      "magic-void"
+      "race-human"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -64295,8 +62539,7 @@
     "relatedIds": [
       "529",
       "536",
-      "race-goblin",
-      "2372"
+      "race-goblin"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -64318,8 +62561,7 @@
       "952",
       "932",
       "957",
-      "918",
-      "magic-time"
+      "918"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -64340,12 +62582,7 @@
     "relatedIds": [
       "3946",
       "3984",
-      "3902",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-time"
+      "3902"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -64444,16 +62681,12 @@
     "relatedIds": [
       "3459",
       "390",
-      "manual-mpii94rh-4ulqj",
       "3476",
       "3547",
       "3383",
       "3405",
-      "magic-light",
-      "magic-water",
       "creature-orcs",
-      "3390",
-      "magic-dark"
+      "3390"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -64698,9 +62931,7 @@
       "3151",
       "2997",
       "3178",
-      "2921",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "2921"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -64744,10 +62975,7 @@
       "magic-midnight-fire",
       "2729",
       "race-neferati",
-      "magic-light",
-      "race-yngli",
-      "magic-dark",
-      "magic-fire"
+      "race-yngli"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -64842,10 +63070,7 @@
     "parentId": "3300",
     "relatedIds": [
       "3300",
-      "manual-mpii94rh-4ulqj",
-      "race-alekroin",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-alekroin"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -65117,9 +63342,6 @@
       "4416",
       "magic-languages",
       "2453",
-      "magic-light",
-      "manual-mphqwz19-951b6",
-      "magic-fire",
       "race-gnome-neka",
       "4446"
     ],
@@ -65160,8 +63382,7 @@
       "1444",
       "1435",
       "1457",
-      "1472",
-      "magic-water"
+      "1472"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -65294,7 +63515,6 @@
       "3576",
       "race-giant",
       "race-human",
-      "manual-mphqwz19-951b6",
       "race-ogre"
     ],
     "loreFile": "Upoceax.md",
@@ -65439,8 +63659,7 @@
     "relatedIds": [
       "1238",
       "creature-ural-of-the-third-moon",
-      "race-elf-spindral",
-      "magic-force"
+      "race-elf-spindral"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -65522,10 +63741,7 @@
       "3440",
       "2352",
       "manual-mpii45xd-5tqq0",
-      "magic-water",
-      "race-kappa",
-      "manual-mphqwz19-951b6",
-      "magic-time"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -65706,8 +63922,7 @@
     "parentId": "1395",
     "relatedIds": [
       "1395",
-      "1406",
-      "manual-mpii94rh-4ulqj"
+      "1406"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -65747,8 +63962,7 @@
       "4457",
       "4459",
       "race-ayblek",
-      "creature-titan",
-      "magic-water"
+      "creature-titan"
     ],
     "loreFile": "Greenwater_Isles.md",
     "tags": [],
@@ -65860,9 +64074,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
-      "manual-mpii94rh-4ulqj",
-      "race-sylthik",
-      "magic-time"
+      "race-sylthik"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -65935,8 +64147,7 @@
       "4322",
       "magic-gaeic-melodies",
       "manual-mphctju9-6zif6",
-      "magic-deoric",
-      "magic-dark"
+      "magic-deoric"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
@@ -66034,15 +64245,9 @@
       "3508",
       "creature-the-fallen",
       "3627",
-      "manual-mpii94rh-4ulqj",
       "water-kro-shiik",
       "race-fallen-angels-sarakiel",
-      "race-elf-rakiten",
-      "magic-light",
-      "magic-water",
-      "manual-mphqwz19-951b6",
-      "magic-dark",
-      "magic-void"
+      "race-elf-rakiten"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -66069,11 +64274,7 @@
       "manual-mpii16li-ifz3i",
       "race-elf-rakiten",
       "4442",
-      "magic-force",
-      "magic-water",
-      "4423",
-      "magic-fire",
-      "magic-time"
+      "4423"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -66098,11 +64299,7 @@
       "3657",
       "3606",
       "water-kro-shiik",
-      "race-elf-rakiten",
-      "manual-mphcbgsb-wykgk",
-      "magic-earth",
-      "magic-water",
-      "magic-void"
+      "race-elf-rakiten"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -66305,9 +64502,7 @@
     "zoomLevel": 5,
     "parentId": "3837",
     "relatedIds": [
-      "3837",
-      "magic-fire",
-      "magic-time"
+      "3837"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
@@ -66361,8 +64556,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
-      "manual-mphbsmjd-2lbk0",
-      "magic-water"
+      "manual-mphbsmjd-2lbk0"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -66624,8 +64818,7 @@
     "parentId": "411",
     "relatedIds": [
       "411",
-      "585",
-      "magic-water"
+      "585"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -66779,9 +64972,7 @@
     "relatedIds": [
       "3087",
       "3025",
-      "race-halfling-dengar",
-      "magic-water",
-      "manual-mphqwz19-951b6"
+      "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -66947,10 +65138,8 @@
     "parentId": "918",
     "relatedIds": [
       "918",
-      "manual-mpii94rh-4ulqj",
       "creature-undead",
-      "922",
-      "magic-water"
+      "922"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -66974,8 +65163,7 @@
       "1301",
       "1401",
       "2430",
-      "race-elf-istori",
-      "magic-dark"
+      "race-elf-istori"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -66997,9 +65185,7 @@
       "3412",
       "3435",
       "race-tuktuk",
-      "magic-water",
-      "race-kappa",
-      "magic-time"
+      "race-kappa"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -67276,8 +65462,7 @@
     "parentId": "3250",
     "relatedIds": [
       "3250",
-      "3178",
-      "magic-time"
+      "3178"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -67384,9 +65569,6 @@
       "4402",
       "4415",
       "4403",
-      "manual-mpii94rh-4ulqj",
-      "magic-water",
-      "magic-fire",
       "race-gnome-neka",
       "4446"
     ],
@@ -67431,7 +65613,6 @@
       "race-dwarf-drasnian",
       "3317",
       "3178",
-      "magic-time",
       "3299"
     ],
     "loreFile": "Rimihuica.md",
@@ -67646,8 +65827,7 @@
     "relatedIds": [
       "2758",
       "2844",
-      "2782",
-      "manual-mphqwz19-951b6"
+      "2782"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -67903,13 +66083,7 @@
     "relatedIds": [
       "2897",
       "3006",
-      "manual-mpii94rh-4ulqj",
-      "magic-earth",
-      "magic-light",
-      "magic-water",
-      "race-giant",
-      "magic-dark",
-      "magic-time"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -67934,10 +66108,7 @@
     "parentId": "2897",
     "relatedIds": [
       "2897",
-      "magic-earth",
-      "magic-water",
-      "race-giant",
-      "magic-time"
+      "race-giant"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -68267,8 +66438,7 @@
       "3390",
       "race-halfling",
       "3391",
-      "3394",
-      "2966"
+      "3394"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
