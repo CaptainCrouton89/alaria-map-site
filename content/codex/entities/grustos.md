@@ -11,8 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "1475" }
   - { rel: culture, kind: inhabitedBy, target: "race-elf-kryaaji" }
   - { rel: culture, kind: inhabitedBy, target: "race-goblin-aciabro" }
-  - { rel: culture, kind: inhabitedBy, target: "race-giant" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant-hill" }
 review:
   aiWritten: true
   archetype: ai-ok

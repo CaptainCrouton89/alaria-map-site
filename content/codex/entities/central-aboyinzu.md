@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L732"]
 relations:
   - { rel: spatial, kind: within, target: "1388" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga" }
-  - { rel: culture, kind: inhabitedBy, target: "race-satyr" }
+  - { rel: culture, kind: inhabitedBy, target: "race-satyr-lesser-satyr" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -6,5 +6,5 @@ blurb: ""
 coordinates: [285, 387]
 zoomLevel: 2
 relations:
-  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-cendoriln" }
 ---

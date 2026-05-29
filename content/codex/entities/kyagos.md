@@ -13,7 +13,7 @@ review:
   action: keep
   notes: "Region overview; map-consistent island w/ 4 city-states, interior Aktarvkus range. Rich, on-theme."
 relations:
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-sylthik" }
 ---
 A mountainous island roughly 400 miles across, Kyagos rises from the waters between the Sea of Seven Snakes and the Alrock Ocean like a clenched fist of stone. The Aktarvkus Mountains dominate the interior—an impassable tangle of peaks, ravines, and wind-scoured passes that effectively divides the island into isolated coastal territories. This geography explains why Kyagos never unified into a single nation: four city-states emerged independently around the island's rim, each controlling its own slice of coast and whatever mountain approaches it could defend.
 

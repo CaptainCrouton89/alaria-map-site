@@ -10,7 +10,7 @@ aliases: ["Eidlesandres"]
 sources: ["all_sections_formatted/Clueanda.md#L691"]
 relations:
   - { rel: spatial, kind: within, target: "630" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-goshwen" }
 ---
 Eidlsandres doesn't exist. Ask the goblins of the plains, and they'll tell you the Bygone Hills are cursed—people who go in don't come out. Ask the Eloweir, and they'll shrug and say they've never had reason to explore those hills. Ask anyone else, and they've never heard of the place.
 

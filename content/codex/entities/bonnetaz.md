@@ -9,7 +9,7 @@ tags: ["city", "state", "nation"]
 sources: ["all_sections_formatted/Upoceax.md#L2854"]
 relations:
   - { rel: spatial, kind: within, target: "3337" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-kuzagt" }
 ---
 Bonnetaz rises from the Salt Flats like a fever dream—towers of white salt-brick and bone, their surfaces carved with geometric patterns that catch the light. From a distance, the city appears beautiful. Up close, visitors notice that much of the "bone" ornamentation is human.
 

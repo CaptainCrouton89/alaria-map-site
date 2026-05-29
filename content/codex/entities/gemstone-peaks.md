@@ -9,7 +9,7 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L1003"]
 relations:
   - { rel: spatial, kind: within, target: "681" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-ohblex" }
 review:
   aiWritten: true
   archetype: ai-ok

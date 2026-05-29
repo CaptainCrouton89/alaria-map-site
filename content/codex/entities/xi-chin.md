@@ -11,7 +11,7 @@ relations:
   - { rel: culture, kind: inhabitedBy, target: "race-mira" }
   - { rel: culture, kind: inhabitedBy, target: "race-gnome-techgnomes" }
   - { rel: culture, kind: inhabitedBy, target: "race-human", note: "trapped pilgrims, traders, refugees fused into the mixing-pot" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf", note: "trapped pilgrims, traders, refugees fused into the mixing-pot" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-drasnian" }
 ---
 Xi Chin rises from a high plateau in the central Tethryn Mountains, its white marble stark against the dark volcanic stone of the peaks. From a distance it seems to glow at dawn and dusk, the marble holding the light after the surrounding mountains have fallen into shadow. On a clear day the towers are visible from ships out in the Gulf of Xoth. What those ships cannot see is what the marble was built around.
 

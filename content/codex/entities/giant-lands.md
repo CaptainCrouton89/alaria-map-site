@@ -11,12 +11,13 @@ relations:
   - { rel: spatial, kind: borders, target: "3476", note: "W" }
   - { rel: spatial, kind: borders, target: "3902", note: "S" }
   - { rel: spatial, kind: borders, target: "3793", note: "E" }
-  - { rel: culture, kind: inhabitedBy, target: "race-giant" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant-guli" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant-hill" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Dropped three TODO placeholder sections (Political Climate, What Makes It Interesting, What Will Go Wrong); kept geography, terrain, inhabitants, Enimogos and Forges of Phlethagoros content."
+  notes: "Dropped three TODO placeholder sections (Political Climate, What Makes It Interesting, What Will Go Wrong); kept geography, terrain, inhabitants, Enimogos and Forges of Phlethageros content."
 ---
 ### Geography
 
@@ -41,6 +42,6 @@ The region is home to various giant populations, including the Güli mountain gi
 
 Giant helmet and battleaxe, likely used by the titans, that have never sunk into the ground. Would be troublesome if Hykravones got ahold of them.
 
-#### Forges of Phlethagoros
+#### Forges of Phlethageros
 
 Cyclops forges where 6 Cyclops rule together as joint owners, each specializing in a different skill. A huge mountain wall with magma flowing out—the Cyclops can wade straight through it unharmed. They can craft some of the best weapons in the world.

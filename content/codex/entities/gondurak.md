@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2260", note: "N" }
   - { rel: spatial, kind: borders, target: "2298", note: "S" }
   - { rel: spatial, kind: within, target: "2218" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-fengruk" }
 review:
   aiWritten: true
   archetype: ai-ok

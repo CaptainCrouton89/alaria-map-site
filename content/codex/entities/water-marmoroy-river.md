@@ -14,27 +14,27 @@ review:
 relations:
   - { rel: spatial, kind: within, target: "1" }
 ---
-The largest northern tributary of the Misery River, the Marmoroy flows south from the highlands near Shyona's interior before joining the main channel east of Locquine. Its waters carry a milder version of the Misery's grief—still melancholic, but more wistful than crushing.
+The Marmoroy is the largest northern tributary of the Misery River. It rises in the highlands near Shyona's interior and flows south to join the main channel east of Locquine. Its water carries a gentler version of the Misery's grief, melancholic still, but wistful rather than crushing.
 
 ### Course
-The Marmoroy rises in the forested hills that mark the transition between Shyona's settled farmland and the wild jungles of the south. It flows generally southwest, gathering smaller streams as it descends through increasingly dense vegetation. The river joins the Misery roughly twenty miles east of Locquine, their combined waters continuing toward Belanorn Bay.
 
-The Marmoroy is navigable for small craft along much of its length, making it the preferred approach for traders seeking to reach the Misery River watershed from Shyona. The journey upstream is demanding but possible, unlike the Misery's main channel where the psychological effects intensify the closer one gets to the source.
+The Marmoroy rises in the forested hills that mark the change from Shyona's settled farmland to the wild jungle of the south. It flows generally southwest, gathering smaller streams as it drops through thickening growth, and meets the Misery roughly twenty miles east of Locquine, the joined water continuing on toward Belanorn Bay. Small craft can work most of its length, which makes it the preferred way for traders bound for the Misery watershed from Shyona. The journey upstream is hard but possible, unlike the Misery's own channel, where the sorrow only deepens the nearer one comes to its source.
 
 ### Character
-The Marmoroy's waters produce melancholy rather than despair. Travelers report a sense of nostalgic sadness—memories of happier times, awareness of opportunities lost, gentle regret rather than crushing grief. Some find it almost pleasant, in a bittersweet way. Others compare it to the feeling of visiting a childhood home that has changed beyond recognition.
 
-This milder effect likely results from distance. The Marmoroy doesn't flow from whatever contaminates the Misery's source. It merely joins the afflicted water partway through its course, picking up a diluted version of the grief before carrying it to the confluence.
+The Marmoroy's water brings melancholy rather than despair. Travelers describe a nostalgic sadness, memories of happier days, an awareness of chances let slip, gentle regret in place of crushing grief. Some find it almost pleasant in a bittersweet way. Others compare it to walking back into a childhood home that has changed past recognition. The milder effect is a matter of distance. The Marmoroy does not flow from whatever lies at the Misery's source. It only joins the afflicted water partway down its course, taking up a thinned share of the grief before carrying it to the confluence.
 
-### The Marmoroy Settlements
-Several small communities line the Marmoroy's banks, particularly in its upper reaches where the effect is weakest. These villages serve as staging points for expeditions into Locquine territory and as trading posts for jungle products. The largest, **Sorrow's Rest**, sits at the navigable limit of the river—a cluster of perhaps fifty families who've made their peace with perpetual melancholy.
+### The Marmoroy settlements
 
-The villagers of the Marmoroy have developed customs around their environment. They celebrate the past rather than the future. They tell stories of the dead with fondness rather than grief. They've found that accepting the sadness rather than fighting it makes life in the watershed bearable.
+Small communities line the river's banks, most of them in the upper reaches where the effect is weakest. They work as staging points for expeditions into Locquine territory and as trading posts for jungle goods. The largest, Sorrow's Rest, sits at the navigable limit of the river, a cluster of perhaps fifty families who have made their peace with a permanent melancholy. The people of the Marmoroy have built their customs around the water. They celebrate the past rather than the future, and they tell stories of their dead with fondness rather than mourning, having learned that accepting the sadness instead of fighting it is what makes a life in the watershed bearable.
 
-### Trade Route
-The Marmoroy provides the most practical water route into Locquine territory. Traders travel upstream by poled barge, spending several days on the river before transferring to smaller boats at Sorrow's Rest. From there, they can either continue up minor tributaries or travel overland to the Misery's main channel.
+> We don't fight the river. Fight it and it wins. Sit with it, and you learn to love the ones you've lost all over again, every morning. That's not the worst way to live.
+> — a saying in Sorrow's Rest
 
-This route avoids the worst of the Misery's psychological effects while still providing water transport for bulky goods. The trade is modest but consistent—luxury items heading into Locquine, pixie artifacts heading out, and provisions moving in both directions.
+### Trade route
+
+The Marmoroy is the most practical water route into Locquine territory. Traders go upstream by poled barge, several days on the river, then transfer to smaller boats at Sorrow's Rest, where they either push on up the minor tributaries or cut overland to the Misery's main channel. The route avoids the worst of the grief while still carrying bulk goods by water. The trade is modest but steady: luxury goods moving into Locquine, pixie artifacts moving out, provisions going both ways.
 
 ### Why "Marmoroy"
-The name comes from an old Shyonan word meaning "remembrance of stone." Early explorers noted that the river's rocky bed seemed to hold echoes of the past—travelers would find themselves remembering events that happened in this place before they arrived, as if the stones themselves retained memories. Whether this is a real phenomenon or simply the river's psychological effects manifesting as vivid imagination remains unclear.
+
+The name comes from an old Shyonan word meaning remembrance of stone. Early explorers found that the river's rocky bed seemed to hold the past, that travelers along it would catch themselves remembering things that happened here before they ever arrived, as if the stones kept the memories themselves. Whether that is a real phenomenon or only the river's sorrow surfacing as vivid imagination, no one has settled.

@@ -11,8 +11,8 @@ relations:
   - { rel: spatial, kind: within, target: "3014" }
   - { rel: spatial, kind: borders, target: "2974", note: "SW" }
   - { rel: culture, kind: inhabitedBy, target: "creature-pfustias" }
-  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
   - { rel: polity, kind: ruledBy, target: "person-phendexelas-the-beautiful" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-dengar" }
 review:
   aiWritten: true
   archetype: ai-ok

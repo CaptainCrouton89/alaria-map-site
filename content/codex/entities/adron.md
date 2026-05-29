@@ -11,9 +11,9 @@ relations:
   - { rel: spatial, kind: borders, target: "416", note: "SW (islands off southwest coast, across the strait)" }
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: economy, kind: produces, target: "magic-red-gold" }
-  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-nagashi" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-megelren" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelaendor" }
 review:
   aiWritten: true
   archetype: ai-ok

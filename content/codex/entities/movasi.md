@@ -9,7 +9,7 @@ tags: ["island", "state", "nation", "geography", "pilgrimage", "psychedelic"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L287"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-velwey" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -9,6 +9,6 @@ tags: ["mountains", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4609"]
 relations:
   - { rel: spatial, kind: within, target: "1311" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-einwissel" }
 ---
 TODO

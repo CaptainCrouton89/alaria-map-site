@@ -9,7 +9,7 @@ tags: ["city", "state", "geography"]
 sources: ["all_sections_formatted/Clueanda.md#L4333"]
 relations:
   - { rel: spatial, kind: within, target: "1186" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-lacirean" }
 ---
 A city of perhaps fifteen thousand people built on and around the Springs of Vyowehr, deep within Ierya at the heart of the Walking Forest. Lacire is the only permanent settlement of any size in the entire forest, and it survives for one reason: its people have given up speech.
 

@@ -9,8 +9,8 @@ tags: ["plains", "geography"]
 sources: ["all_sections_formatted/Aboyinzu.md#L3338"]
 relations:
   - { rel: spatial, kind: within, target: "1754" }
-  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-grendel" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-wispen" }
 ---
 Pastoral plains and meadows region.
 

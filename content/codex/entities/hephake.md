@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "710", note: "southeast" }
   - { rel: spatial, kind: borders, target: "918", note: "northwest" }
   - { rel: spatial, kind: borders, target: "715", note: "east" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -1,1 +1,2 @@
 - `<!-- mechanics -->` in an entity body splits the file: content **above** the sentinel is lore (rendered in the public codex); content **below** is game mechanics (stripped from the build). Omitting the sentinel causes mechanics text to leak into the public codex output.
+- `<!-- author-notes -->` strips everything from the sentinel to end-of-file — private authoring notes that never reach public output. Must be the **last** block in the file (after `<!-- mechanics -->` if both are present). Content accidentally placed after it is silently discarded.

@@ -9,7 +9,7 @@ tags: ["jungle", "plains", "forest", "ve", "region"]
 sources: ["all_sections_formatted/Ve.md#L1029"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
-  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixmeglyakuk" }
 review:
   aiWritten: true
   archetype: ai-ok

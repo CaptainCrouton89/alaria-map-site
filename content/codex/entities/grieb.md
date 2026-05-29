@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "981" }
   - { rel: spatial, kind: borders, target: "1179", note: "west" }
   - { rel: spatial, kind: borders, target: "1150", note: "south" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-griebi" }
 review:
   aiWritten: false
   archetype: stub

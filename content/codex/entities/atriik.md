@@ -12,7 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2651", note: "east" }
   - { rel: spatial, kind: borders, target: "2644", note: "south" }
   - { rel: culture, kind: inhabitedBy, target: "race-koren-kor" }
-  - { rel: culture, kind: inhabitedBy, target: "race-sharabha" }
+  - { rel: culture, kind: inhabitedBy, target: "race-sharabha-sharadin" }
 review:
   aiWritten: true
   archetype: ai-ok

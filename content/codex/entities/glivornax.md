@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1036", note: "south" }
   - { rel: spatial, kind: borders, target: "1195", note: "east" }
   - { rel: spatial, kind: within, target: "981" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-glivornaxi" }
 review:
   aiWritten: false
   archetype: stub

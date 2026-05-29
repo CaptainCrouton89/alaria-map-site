@@ -15,7 +15,7 @@ relations:
   - { rel: spatial, kind: borders, target: "4085", note: "SW" }
   - { rel: spatial, kind: borders, target: "3952", note: "S" }
   - { rel: spatial, kind: borders, target: "3833", note: "W" }
-  - { rel: culture, kind: inhabitedBy, target: "race-satyr" }
+  - { rel: culture, kind: inhabitedBy, target: "race-satyr-lesser-satyr" }
 review:
   aiWritten: true
   archetype: ai-ok

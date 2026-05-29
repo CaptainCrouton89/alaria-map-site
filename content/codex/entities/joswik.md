@@ -13,7 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "396", note: "south" }
   - { rel: spatial, kind: borders, target: "manual-mpjrcf71-gtrw6", note: "north" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-drasnian" }
 review:
   aiWritten: true
   archetype: ai-ok

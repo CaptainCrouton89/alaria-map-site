@@ -13,7 +13,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2921", note: "E" }
   - { rel: spatial, kind: borders, target: "3151", note: "S" }
   - { rel: spatial, kind: within, target: "3151" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-gamori" }
 review:
   aiWritten: true
   archetype: ai-ok

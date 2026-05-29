@@ -10,8 +10,8 @@ sources: ["all_sections_formatted/Clueanda.md#L4099"]
 relations:
   - { rel: spatial, kind: within, target: "981" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
-  - { rel: culture, kind: inhabitedBy, target: "race-orc" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-goshwen" }
+  - { rel: culture, kind: inhabitedBy, target: "race-orc-thrygun" }
 ---
 A port city of roughly twenty thousand people positioned on Kettle Bay, where the Westwilds coast meets the sea. Jüt is the region's window to the outside world—the only significant harbor on this stretch of coastline, and the place where the Westwilds' strange goods reach the broader markets.
 

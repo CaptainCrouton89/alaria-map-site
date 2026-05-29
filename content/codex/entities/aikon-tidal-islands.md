@@ -12,7 +12,7 @@ relations:
   - { rel: spatial, kind: borders, target: "4310", note: "SW" }
   - { rel: spatial, kind: borders, target: "4355", note: "E" }
   - { rel: spatial, kind: borders, target: "manual-mph9r4cg-3z250", note: "NE" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-tidewalkers" }
 review:
   aiWritten: true
   archetype: ai-ok

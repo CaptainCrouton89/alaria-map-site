@@ -10,54 +10,46 @@ sources: ["all_sections_formatted/Ve.md#L2147"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
 ---
-The largest river system in the jungles between Shyona and the Krell Lands, the Misery River drains a vast watershed through a network of tributaries before depositing into Belanorn Bay. Its waters carry an ancient grief that has shaped everything along its banks.
+The Misery River is the largest river system in the jungles between Shyona and the Krell Lands, draining a vast watershed before it empties into Belanorn Bay. Its water carries an ancient grief. The grief is not a poison and does the body no harm, but it settles into anyone who drinks it as a sorrow that is not their own, and it grows more specific the closer one comes to the headwaters. Everything along the banks has been shaped by it.
 
 ### Course
 
-The Misery River's source remains disputed. The main channel emerges from the mountains northwest of Locquine, fed by dozens of streams that wind down from the highlands. From there, it flows generally eastward, gathering tributaries as it goes—the Marmoroy from the north being the largest. The river passes through or near the pixie city-state of Locquine before continuing through increasingly dense jungle, finally widening as it approaches Belanorn Bay.
+The main channel comes down out of the mountains northwest of Locquine, fed by dozens of streams off the highlands, and runs down through thickening jungle toward the coast. It gathers tributaries as it goes, the Marmoroy from the north being the largest. The river passes near the pixie city-state of Locquine and widens as it nears Belanorn Bay. So many smaller streams feed it that the whole watershed becomes a web of waterways, and in the wet season the low ground floods into temporary lakes.
 
-The tributary system is extensive. Countless smaller streams feed the Misery, creating a web of waterways that makes overland travel in this region difficult. During wet season, the entire watershed floods, turning low-lying areas into temporary lakes.
+### The water's grief
 
-### The Water's Nature
+The Misery is not poisoned. It supports abundant life, and drinking it does no physical harm. What it does is grief. Those who drink from it feel a sudden sorrow that belongs to someone else: memories of losses they never suffered, mourning for people they never knew. A few mouthfuls pass within hours. Heavy exposure lingers for days.
 
-Something is wrong with the Misery River. Not poisoned—the water supports abundant life, and drinking it causes no physical harm. But those who drink from it experience sudden, inexplicable sorrow. Memories of grief that isn't theirs. Mourning for losses they've never suffered. The sensation passes within hours for small amounts, but lingers for days after heavy exposure.
+Prolonged contact is worse. People who spend weeks on the Misery's tributaries describe a creeping despair, an inability to feel joy, and finally the urge to end it. More than one expedition has lost members to self-inflicted death with no cause anyone could point to. The effect answers to no detection spell and no antimagic field, because it is not an enchantment. It is older than structured magic, and it behaves less like a spell than like something bleeding into the water from far upstream.
 
-Prolonged contact is worse. Explorers who've spent weeks traveling the Misery's tributaries report creeping despair, inability to feel joy, and eventually active suicidal ideation. Several expeditions have lost members to self-inflicted death without any apparent external cause.
+### The unreachable source
 
-The effect doesn't seem to be magical in the conventional sense—no detection spells reveal enchantment, and antimagic fields don't suppress it. Scholars theorize the water carries something older than structured magic, perhaps connected to Faesong or to the emotional residue of an ancient catastrophe.
+The grief grows specific as the river climbs. Near the headwaters it is no longer a vague sadness but the unmistakable mourning of a single consciousness, grieving something lost so long ago that time itself has forgotten what it was. The source has never been reached. Those who push too far upstream either turn back overwhelmed or do not come back at all. The last serious attempt, funded out of Shyona in 3,298 SD, lost six of its eight members. What waits at the source is left to the imagination of the few who have returned from the upper river, and they do not like to speak of it.
 
-### The Source
+The pixies of Locquine know more than they will say. Asked about the source, they answer the same way every time.
 
-Whatever taints the Misery begins somewhere in the northwestern mountains. Expeditions to find the headwaters have uniformly failed—those who venture too far upstream either turn back overwhelmed by despair or don't return at all. The last documented attempt, funded by Shyonan scholars in 3,298 SD, lost six of eight members to self-inflicted deaths. The survivors reported that the grief became *specific* as they climbed: not random sorrow but the unmistakable sensation of a single consciousness mourning something lost so long ago that time itself had forgotten it.
-
-The pixies of Locquine know something. When asked about the source, they say only: "She remembers. We remember with her."
-
-### Who Remembers
-
-Three theories dominate scholarly debate.
-
-The most compelling traces the grief to Melera, the imprisoned goddess of harmony trapped by Azus in a "prison of specificity" billions of years ago. Her song leaks into the world as Faesong, the ambient magic of emotion and connection. The Misery River would then be a place where that leakage pools, concentrated grief from an entity who has mourned her imprisonment for longer than life has existed on Alaria. The pixies of Locquine hear "deeper harmonics, sounds that predate Melera's imprisonment"—which would mean the river carries notes of the goddess's song from before she was caged. The grief's emotional specificity supports this: it feels like losing something precious, not like abstract sadness.
-
-A second school holds that a titanic disaster occurred at the source—perhaps during the Ezz Rift that fractured reality 12 million years ago, or during the God War that ended the Second Eon. The grief would be an echo, reality itself still reverberating from a wound that never healed. This explains why the effect isn't magical in the conventional sense: it's older than structured magic.
-
-The third theory is more literal. Something is held at the source. Not Melera herself—her prison exists outside normal space—but perhaps a fragment of her, a piece that broke off during her failed escape attempt. Or something else entirely, a being whose nature is suffering, deliberately contained where it cannot harm anything except explorers stupid enough to go looking.
-
-The pixies won't clarify which theory is correct. They simply smile sadly and repeat: "She remembers."
-
-Whatever the truth, one thing is certain: the source is not a natural phenomenon. The Misery River was made—or is being made—by something capable of grief on a cosmic scale.
+> She remembers. We remember with her.
+> — the Locquine pixies, when asked what lies at the headwaters
 
 ### Ecology
 
-Despite its psychological dangers, the Misery River teems with life. Fish species found nowhere else swim its waters. Amphibians and reptiles congregate along its banks. The jungle flora along its course grows particularly lush, as if the water's grief nourishes rather than poisons.
+For all the danger it carries, the Misery teems with life. Fish found in no other water swim its channels, amphibians and reptiles crowd its banks, and the jungle along its course grows unusually lush, as though the grief feeds the green rather than poisoning it. The forest here feels watchful, not hostile but mournful. Travelers describe trees that seem to lean toward them and animal calls that come close to weeping.
 
-This has led to a disturbing theory: the creatures here have adapted to the sorrow the way life adapts to any environmental factor. The jungle itself may have developed a capacity for grief. Some researchers report that the forest along the Misery feels watchful—not hostile, but mournful. Trees that seem to lean toward travelers. Animal calls that sound almost like weeping.
+### Travel and trade
 
-### Travel and Trade
+The Misery is the most direct water route from the interior to Belanorn Bay, and almost no one uses it. The toll on the mind is too high. Those who must go usually arm themselves against it: earplugs packed with particular herbs, masks soaked in alchemical compounds, or pixie guides hired out of Locquine who know how to read the river's moods. The mouth at Belanorn Bay is the gentlest stretch, where the grief thins as the water meets the sea. A few fishing communities work there, and even they report melancholic dreams and more sorrow in their houses than other towns carry.
 
-Few traders use the Misery River, despite it being the most direct water route from the interior to Belanorn Bay. The psychological toll is too high. Those who do usually employ protective measures: earplugs stuffed with specific herbs, masks soaked in alchemical compounds, or hired pixie guides from Locquine who can navigate the river's moods.
+### The name
 
-The river's mouth at Belanorn Bay is the safest portion—the water's effect dilutes significantly where it meets the sound. Small fishing communities operate here, though even they report melancholic dreams and a higher-than-average incidence of depression.
+The first Shyonan parties to chart this country named the river for what it cost them. Their journals describe the change coming on once they entered the watershed: companions who had been laughing went silent, plans made in good cheer collapsed into bitter argument. By the time they reached Locquine, three of their number had walked off into the jungle and never come back. The survivors called the river the Misery and turned for home.
 
-### Naming
+<!-- author-notes
+Canonical cause of the Misery River grief (deliberately withheld from the public prose above; do NOT enumerate as rival theories in-body):
 
-The river earned its name from the first Shyonan explorers to chart this region. Their journals describe the expedition's mood shifting dramatically once they entered the watershed—laughing companions becoming withdrawn, optimistic plans giving way to bitter argument. By the time they reached Locquine, three of their number had walked into the jungle and never returned. The survivors named the river for what it had cost them.
+The grief in the water is Melera's Faesong leaking into the world and pooling at this watershed. At the unreachable source lies a broken-off fragment of Melera herself, her sorrow given form, sheared away in the course of her imprisonment by Azus. Per world-systems-invariants.md (Azus/Melera spine): Melera is the primordial creator-force of chaos, emotion, beauty, and harmony, paired with Azus (order/thought/structure); she is imprisoned, and her Faesong now only echoes into the world. She is NOT a "daemon" and not a "goddess of harmony" in the pantheon sense. The "single consciousness mourning something lost so long ago that time itself has forgotten it" IS that sheared-off fragment. The Locquine pixies' reported "deeper harmonics predating Melera's imprisonment" are the Faesong itself, heard by minds the grief-water has rewired.
+
+Consistent with the three-strand death / Celestia lever (world-systems-invariants.md, Death + Celestia rows): a spirit-thread faded toward being forgotten, near ending but not yet ended; the grief is the residue of that near-erasure stretched across cosmic time.
+
+The Marmoroy's milder, wistful grief is dilution-by-distance, not a second source.
+-->
+

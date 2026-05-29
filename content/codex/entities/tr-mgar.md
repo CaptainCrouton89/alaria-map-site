@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2921", note: "southwest" }
   - { rel: spatial, kind: borders, target: "3087", note: "east, across the Croaking Briars" }
   - { rel: spatial, kind: within, target: "3014" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-stromgodden" }
 review:
   aiWritten: true
   archetype: ai-ok

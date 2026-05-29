@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Ve.md#L2852"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: culture, kind: worships, target: "daemon-talressses" }
-  - { rel: culture, kind: inhabitedBy, target: "race-halfling" }
+  - { rel: culture, kind: inhabitedBy, target: "race-halfling-shailin" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -10,8 +10,7 @@ tags: ["island", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L1073"]
 relations:
   - { rel: spatial, kind: within, target: "2555" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human-pyrisi" }
 review:
   aiWritten: true
   archetype: ai-ok

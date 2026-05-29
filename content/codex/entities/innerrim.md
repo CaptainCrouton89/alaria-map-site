@@ -13,8 +13,8 @@ relations:
   - { rel: spatial, kind: borders, target: "2870", note: "S" }
   - { rel: spatial, kind: borders, target: "3038", note: "E" }
   - { rel: spatial, kind: borders, target: "2712", note: "W" }
-  - { rel: culture, kind: inhabitedBy, target: "race-ulvsjael" }
   - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixtyrann" }
+  - { rel: culture, kind: inhabitedBy, target: "race-ulvsjael-ulvskyn" }
 review:
   aiWritten: true
   archetype: ai-ok

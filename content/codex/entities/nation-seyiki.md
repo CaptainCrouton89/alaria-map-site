@@ -13,7 +13,7 @@ review:
   action: keep
 relations:
   - { rel: spatial, kind: within, target: "1114" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-seyiki" }
 ---
 A distributed nation of dragonfly-riding gnomes living among the Chakatann pillars—the massive stone monuments left by the fallen Postronamas Empire in the western Piktiniti Desert.
 

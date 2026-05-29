@@ -10,7 +10,6 @@ sources: ["all_sections_formatted/Aboyinzu.md#L1375"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
   - { rel: culture, kind: inhabitedBy, target: "race-chulpe-terrogones" }
-  - { rel: culture, kind: inhabitedBy, target: "race-chulpe" }
   - { rel: culture, kind: inhabitedBy, target: "race-chulpe-skree" }
 ---
 A vast killing ground in northwestern Central Aboyinzu, Echem Yiakraxes is Terrogone territory—and everyone knows it. The name translates roughly from Old Aboyinzan as "the Empty Throne," though whether this refers to some forgotten kingdom or the Terrogones' unchallenged dominion is lost to history. Caravans route around it. Armies avoid it. The few explorers who've returned describe endless tan grass under a bleached sky, the silence broken only by wind and the distant crack of bones.

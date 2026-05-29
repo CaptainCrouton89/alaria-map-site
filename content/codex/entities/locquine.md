@@ -9,7 +9,7 @@ tags: ["citystate", "ve", "pixie", "fae"]
 sources: ["all_sections_formatted/Ve.md#L1987"]
 relations:
   - { rel: spatial, kind: within, target: "1" }
-  - { rel: culture, kind: inhabitedBy, target: "race-pixie" }
+  - { rel: culture, kind: inhabitedBy, target: "race-pixie-iliko" }
 review:
   aiWritten: true
   archetype: ai-ok

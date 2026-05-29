@@ -9,7 +9,7 @@ tags: ["citystate"]
 sources: ["all_sections_formatted/Aboyinzu.md#L1424"]
 relations:
   - { rel: spatial, kind: within, target: "1579" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-kryaaji" }
 ---
 The radiant House of the Sun—a golden city-state of the Kryaaji sun elves, forbidden to outsiders. Enuau Kemjallb rises from the shores of Sopona Fia lake in western Grustos, its white stone towers and golden domes reflecting sunlight in displays visible for miles. The Light leyline passes directly through the city, and the Kryaaji believe this is no coincidence.
 

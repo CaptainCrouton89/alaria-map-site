@@ -10,6 +10,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L3504"]
 relations:
   - { rel: spatial, kind: within, target: "1388" }
   - { rel: culture, kind: inhabitedBy, target: "creature-anchor-trees" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-gamori" }
 review:
   aiWritten: true
   archetype: ai-ok

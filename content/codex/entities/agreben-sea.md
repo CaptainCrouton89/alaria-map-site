@@ -9,7 +9,8 @@ tags: ["sea", "geography", "greenwater-isles"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L74"]
 relations:
   - { rel: spatial, kind: within, target: "4363" }
-  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-kendrel" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelarian" }
 ---
 The northern waters of the Greenwater Isles archipelago—a warm, teal-colored sea bounded by Mueras to the north, Atriik to the east, and the great island of Urok to the south. The Agreben is contested territory: the elegant reef-cities of the Kendrel Kingdoms line the eastern continental shelf, while Bfaspeen broods lair in the deeper waters to the west and south.
 

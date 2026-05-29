@@ -14,7 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "3902", note: "SE" }
   - { rel: culture, kind: inhabitedBy, target: "race-orc-xiivrach" }
   - { rel: culture, kind: inhabitedBy, target: "race-elf-rakiten" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-laeren" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "1" }
   - { rel: spatial, kind: borders, target: "338", note: "north" }
   - { rel: spatial, kind: borders, target: "92", note: "south" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-dern" }
 review:
   aiWritten: true
   archetype: ai-ok

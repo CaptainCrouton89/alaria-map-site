@@ -8,7 +8,7 @@ zoomLevel: 3
 sources: ["all_sections_formatted/Clueanda.md#L6506"]
 relations:
   - { rel: spatial, kind: within, target: "1346" }
-  - { rel: culture, kind: inhabitedBy, target: "race-giant" }
+  - { rel: culture, kind: inhabitedBy, target: "race-giant-hill" }
 review:
   aiWritten: true
   archetype: ai-ok

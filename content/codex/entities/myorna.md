@@ -13,8 +13,8 @@ relations:
   - { rel: spatial, kind: borders, target: "952", note: "barely touches, northwest" }
   - { rel: spatial, kind: within, target: "905" }
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
-  - { rel: culture, kind: inhabitedBy, target: "race-elf" }
   - { rel: polity, kind: ruledBy, target: "person-king-samaryn" }
+  - { rel: culture, kind: inhabitedBy, target: "race-elf-sivakr" }
 review:
   aiWritten: true
   archetype: ai-ok

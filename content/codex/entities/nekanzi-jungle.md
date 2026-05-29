@@ -9,7 +9,7 @@ tags: ["jungle", "urok", "neka", "fire-leyline"]
 sources: ["all_sections_formatted/Greenwater_Isles.md#L413"]
 relations:
   - { rel: spatial, kind: within, target: "4446" }
-  - { rel: culture, kind: inhabitedBy, target: "race-gnome" }
+  - { rel: culture, kind: inhabitedBy, target: "race-gnome-neka" }
 ---
 The Nekanzi Jungle covers the northeastern peninsula of Urok—a dense, humid rainforest split down its center by the Firespine, a raw wound in the earth where the Yolus fire leyline breaches the surface. This is Neka territory, home to the dark-skinned, fire-attuned gnomes who have claimed these lands since before human ships first reached the Greenwater Isles.
 

@@ -11,7 +11,7 @@ relations:
   - { rel: spatial, kind: borders, target: "2974", note: "northeast" }
   - { rel: spatial, kind: borders, target: "3178", note: "southwest" }
   - { rel: spatial, kind: within, target: "3014" }
-  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk" }
+  - { rel: culture, kind: inhabitedBy, target: "race-lizardfolk-ixvasyla" }
 review:
   aiWritten: true
   archetype: ai-ok

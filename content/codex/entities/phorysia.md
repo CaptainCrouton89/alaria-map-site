@@ -9,7 +9,7 @@ sources: ["all_sections_formatted/Clueanda.md#L3304"]
 relations:
   - { rel: spatial, kind: within, target: "952" }
   - { rel: polity, kind: capitalOf, target: "952" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf", note: "Hephake is a dwarven state; capital city population" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
 review:
   aiWritten: true
   archetype: stub

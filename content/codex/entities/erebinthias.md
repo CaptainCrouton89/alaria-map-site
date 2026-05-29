@@ -8,7 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Clueanda.md#L3326"]
 relations:
   - { rel: spatial, kind: within, target: "952" }
-  - { rel: culture, kind: inhabitedBy, target: "race-dwarf" }
+  - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
 review:
   aiWritten: true
   archetype: ai-ok

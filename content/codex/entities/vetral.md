@@ -8,7 +8,7 @@ zoomLevel: 2
 sources: ["all_sections_formatted/Ve.md#L78"]
 relations:
   - { rel: spatial, kind: borders, target: "8", note: "SW" }
-  - { rel: culture, kind: inhabitedBy, target: "race-kendor" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelaendor" }
 review:
   aiWritten: true
   archetype: ai-ok
