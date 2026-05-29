@@ -17,6 +17,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Kharvorn Mtns range doc (9.2k); diagonal range center-north to SE, matches map. Newly added as within-388 member."
+bannerPosition: "50% 56.1%"
+bannerHeight: 360
 ---
 ### Geography
 

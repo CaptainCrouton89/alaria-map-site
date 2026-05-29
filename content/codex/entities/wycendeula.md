@@ -22,6 +22,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Dropped three TODO sections; trimmed Cobbled Coast full article to 2-sentence pointer; removed invented monster catalog (Granite Wyrms, Cloudwalkers, Thornback Swarms) by moving Kilbyurn prose to 3833; trimmed Rivers of Wycendeula full article to summary sentence; removed empty Kilburn Mountains TODO stub."
+bannerPosition: "50% 23.6%"
+bannerHeight: 360
 ---
 ### Geography
 

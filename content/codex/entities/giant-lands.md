@@ -19,6 +19,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Dropped three TODO placeholder sections (Political Climate, What Makes It Interesting, What Will Go Wrong); kept geography, terrain, inhabitants, Enimogos and Forges of Phlethageros content."
+bannerPosition: "50% 39.0%"
+bannerHeight: 360
 ---
 ### Geography
 

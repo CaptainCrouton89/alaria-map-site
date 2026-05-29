@@ -17,6 +17,8 @@ review:
   archetype: ai-ok
   action: keep
   notes: "Nysanna Range, tallest/polar mountains; coord [121,28] N edge. Newly added as within-388 member."
+bannerPosition: "50% 10.5%"
+bannerHeight: 360
 ---
 The Nysanna Range is one of the most inhospitable places on Alaria—and by some measures, the most dramatic. These are the tallest mountains in the world, their peaks rising so high that the air becomes too thin to breathe. The entire range is plagued with constant blizzards, high winds, and freezing temperatures. It is rare for the temperature to climb above -20°F, and the high altitudes cause confusion, hallucination, and poor judgment in those who venture too high without magical protection.
 

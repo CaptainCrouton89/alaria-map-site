@@ -1297,7 +1297,7 @@
     "atmosphere": "trade",
     "blurb": "The Middle Sea Lands are the coastal lowlands and inner-sea rim south of the Kharvorn Mountains — home to the Middle Sea trade nations from Anarak in the west to Adron in the east.",
     "parentName": "Clueanda",
-    "containsCount": 13
+    "containsCount": 15
   },
   {
     "id": "manual-mph53on6-mirms",
@@ -4382,7 +4382,7 @@
     "atmosphere": "civilization",
     "blurb": "An Oznak horse theocracy on the western Middle Sea coast—vast grassy steppes ruled by the Kazigh, the chief horse shaman.",
     "parentName": "Middle Sea Lands",
-    "containsCount": 12,
+    "containsCount": 10,
     "borders": [
       {
         "id": "591",
@@ -7612,12 +7612,12 @@
       168
     ],
     "zoomLevel": 3,
-    "parentId": "801",
+    "parentId": "9000",
     "relatedIds": [
       "816",
       "692",
       "652",
-      "801",
+      "9000",
       "race-dwarf-glorindian",
       "578",
       "575",
@@ -7632,7 +7632,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A dwarven gold-mining clan-state in the Whistle-Stone Mountains, quietly rich and deliberately unremarkable.",
-    "parentName": "Ta Minn",
+    "parentName": "Middle Sea Lands",
     "containsCount": 14,
     "borders": [
       {
@@ -13437,11 +13437,12 @@
       158
     ],
     "zoomLevel": 3,
-    "parentId": "801",
+    "parentId": "9000",
     "relatedIds": [
       "692",
       "768",
       "801",
+      "9000",
       "race-human",
       "754",
       "manual-mphadynf-prl38",
@@ -13461,7 +13462,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A human agricultural kingdom in chaos.",
-    "parentName": "Ta Minn",
+    "parentName": "Middle Sea Lands",
     "containsCount": 13,
     "borders": [
       {
@@ -16618,7 +16619,14 @@
     "zoomLevel": 4,
     "parentId": "416",
     "relatedIds": [
-      "416"
+      "416",
+      "creature-nagatayora",
+      "415",
+      "creature-dragons",
+      "race-naga-nagashi",
+      "creature-chavux",
+      "411",
+      "race-naga"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -16626,6 +16634,7 @@
       "creature"
     ],
     "atmosphere": "dangerous",
+    "blurb": "A wild green dragon lairing in the northern Blades, raiding strait shipping—untouchable under Adron's law that no dragon may be killed.",
     "parentName": "The Blades"
   },
   {
