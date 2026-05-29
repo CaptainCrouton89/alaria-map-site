@@ -4,7 +4,7 @@ import type { CodexEntry, EntryWeight } from '@/types/codex';
 import type { AtmosphereVisual } from '@/lib/atmosphere';
 import { atmosRgba } from '@/lib/atmosphere';
 import { EntitySeal } from './EntitySeal';
-import { EntityImage } from './EntityImage';
+import { HeroFrame } from './HeroFrame';
 
 const TYPE_LABELS: Record<string, string> = {
   region: 'Region', wilderness: 'Wilderness', water: 'Body of Water',
@@ -28,16 +28,23 @@ interface WeightStyle {
   seal: 'lg' | 'md' | 'sm';
   title: string;
   flourishes: boolean;
-  heroHeight: string;
 }
 
 const WEIGHT_STYLE: Record<EntryWeight, WeightStyle> = {
-  legendary: { centered: true,  seal: 'lg', title: 'text-4xl sm:text-5xl', flourishes: true,  heroHeight: 'min-h-[320px]' },
-  major:     { centered: false, seal: 'lg', title: 'text-3xl sm:text-4xl', flourishes: false, heroHeight: 'min-h-[280px]' },
-  standard:  { centered: false, seal: 'md', title: 'text-2xl sm:text-3xl', flourishes: false, heroHeight: 'min-h-[240px]' },
-  minor:     { centered: false, seal: 'md', title: 'text-xl sm:text-2xl',  flourishes: false, heroHeight: 'min-h-[200px]' },
-  footnote:  { centered: false, seal: 'sm', title: 'text-lg sm:text-xl',   flourishes: false, heroHeight: 'min-h-[180px]' },
+  legendary: { centered: true,  seal: 'lg', title: 'text-4xl sm:text-5xl', flourishes: true  },
+  major:     { centered: false, seal: 'lg', title: 'text-3xl sm:text-4xl', flourishes: false },
+  standard:  { centered: false, seal: 'md', title: 'text-2xl sm:text-3xl', flourishes: false },
+  minor:     { centered: false, seal: 'md', title: 'text-xl sm:text-2xl',  flourishes: false },
+  footnote:  { centered: false, seal: 'sm', title: 'text-lg sm:text-xl',   flourishes: false },
 };
+
+/** Weight-derived default banner min-height (px), restored by the editor's "Reset". */
+const WEIGHT_DEFAULT_HEIGHT: Record<EntryWeight, number> = {
+  legendary: 400, major: 360, standard: 320, minor: 260, footnote: 230,
+};
+
+/** Default banner crop — biases toward the upper third, matching EntityImage. */
+const DEFAULT_BANNER_POSITION = '50% 33%';
 
 interface GlanceFact {
   label: string;
@@ -63,40 +70,28 @@ export function EntityHero({ entry, weight, visual, glanceFacts }: EntityHeroPro
   const accent = atmosRgba(visual, 1);
   const accentFaint = atmosRgba(visual, 0.18);
 
+  const gradient = `linear-gradient(to bottom,
+    ${accentFaint} 0%,
+    rgba(15,13,10,0.1) 30%,
+    rgba(15,13,10,0.55) 55%,
+    rgba(15,13,10,0.92) 100%)`;
+  const defaultHeight = WEIGHT_DEFAULT_HEIGHT[weight];
+  const initialHeight = entry.bannerHeight ?? defaultHeight;
+  const initialPosition = entry.bannerPosition ?? DEFAULT_BANNER_POSITION;
+
   return (
     <>
       {/* ── Hero banner ─────────────────────────────────────────────────── */}
-      <header className={`relative overflow-hidden border-b border-border ${w.heroHeight}`}>
-        {/* Background: full-bleed EntityImage */}
-        <div className="absolute inset-0">
-          <EntityImage
-            src={entry.banner}
-            entry={entry}
-            visual={visual}
-            aspect="3 / 1"
-            className="w-full h-full"
-          />
-        </div>
-
-        {/* Dark bottom gradient overlay so text reads clearly */}
-        <div
-          className="pointer-events-none absolute inset-0"
-          style={{
-            background: `linear-gradient(to bottom,
-              ${accentFaint} 0%,
-              rgba(15,13,10,0.1) 30%,
-              rgba(15,13,10,0.55) 55%,
-              rgba(15,13,10,0.92) 100%)`,
-          }}
-        />
-
-        {w.flourishes && (
-          <>
-            <div className="corner-flourish corner-flourish-tl" />
-            <div className="corner-flourish corner-flourish-tr" />
-          </>
-        )}
-
+      <HeroFrame
+        entry={entry}
+        visual={visual}
+        gradient={gradient}
+        flourishes={w.flourishes}
+        initialPosition={initialPosition}
+        initialHeight={initialHeight}
+        defaultPosition={DEFAULT_BANNER_POSITION}
+        defaultHeight={defaultHeight}
+      >
         {/* Breadcrumb — top-left overlay */}
         <div className="absolute top-0 left-0 right-0 z-10 max-w-6xl mx-auto px-6 pt-4">
           <nav
@@ -120,7 +115,7 @@ export function EntityHero({ entry, weight, visual, glanceFacts }: EntityHeroPro
 
         {/* Bottom overlay content */}
         <div
-          className={`absolute bottom-0 left-0 right-0 z-10 max-w-6xl mx-auto px-6 pb-5 pt-12 ${w.centered ? 'text-center' : ''}`}
+          className={`absolute bottom-0 left-0 right-0 z-10 max-w-6xl mx-auto px-6 pb-8 pt-12 ${w.centered ? 'text-center' : ''}`}
         >
           {/* Seal + title row */}
           <div className={`flex items-center gap-3 ${w.centered ? 'flex-col' : ''}`}>
@@ -177,7 +172,7 @@ export function EntityHero({ entry, weight, visual, glanceFacts }: EntityHeroPro
             </div>
           )}
         </div>
-      </header>
+      </HeroFrame>
 
       {/* ── At-a-glance stat strip ───────────────────────────────────────── */}
       {glanceFacts.length > 0 && (

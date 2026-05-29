@@ -43,6 +43,9 @@ interface Entity {
   category?: string;
   /** Banner image URL from frontmatter (the page header + card preview). */
   banner?: string;
+  /** Admin overrides for the hero banner crop/size (authored via the in-page banner editor). */
+  bannerPosition?: string;
+  bannerHeight?: number;
   /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
   metadata?: Record<string, unknown>;
   body: string;
@@ -75,6 +78,7 @@ function stripAuthorNotes(content: string): string {
 const RESERVED_FM = new Set([
   'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
   'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review', 'category', 'banner',
+  'bannerPosition', 'bannerHeight',
 ]);
 
 /** First image URL in a markdown body: `![alt](url)` or `<img src="url">`. Used as the
@@ -108,6 +112,8 @@ for (const file of fs.readdirSync(ENTITIES)) {
     atmosphere: d.atmosphere as AtmosphereType | undefined,
     category: typeof d.category === 'string' ? d.category : undefined,
     banner: typeof d.banner === 'string' ? d.banner : undefined,
+    bannerPosition: typeof d.bannerPosition === 'string' ? d.bannerPosition : undefined,
+    bannerHeight: typeof d.bannerHeight === 'number' ? d.bannerHeight : undefined,
     metadata: Object.fromEntries(Object.entries(d).filter(([k]) => !RESERVED_FM.has(k))),
     ...splitMechanics(stripAuthorNotes(parsed.content.trim())),
   });
@@ -572,6 +578,8 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     tags: e.tags,
     content: e.body,
     ...(banner ? { banner } : {}),
+    ...(e.bannerPosition ? { bannerPosition: e.bannerPosition } : {}),
+    ...(typeof e.bannerHeight === 'number' ? { bannerHeight: e.bannerHeight } : {}),
     ...(e.mechanics ? { mechanics: e.mechanics } : {}),
     sourceFile: loreFileOf(e) ?? '',
     sourceHeader: e.name,

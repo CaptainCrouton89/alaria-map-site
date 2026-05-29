@@ -57,6 +57,10 @@ export interface CodexEntry {
   blurb?: string;
   /** Card-preview image URL: the frontmatter `banner:`, else the first body image (resolved by build). */
   banner?: string;
+  /** Admin override: CSS object-position for the hero banner crop, e.g. "50% 25%". */
+  bannerPosition?: string;
+  /** Admin override: hero banner min-height in px (else weight-derived default). */
+  bannerHeight?: number;
   atmosphere?: AtmosphereType;
   coordinates?: [number, number];
   zoomLevel?: number;
