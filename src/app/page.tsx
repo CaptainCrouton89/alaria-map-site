@@ -3,7 +3,6 @@
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { useState, useEffect, useCallback, useRef, type ReactNode } from 'react';
-import { useRouter } from 'next/navigation';
 import { BookOpen, ArrowRight, X } from 'lucide-react';
 import type { Location, MapConfig, MapEdge, EdgeKind } from '@/types/location';
 import { EDGE_KINDS } from '@/types/location';
@@ -16,6 +15,7 @@ import { EntitySeal } from '@/components/codex/EntitySeal';
 
 import { MapSearch } from '@/components/MapSearch';
 import { AdminPanel } from '@/components/AdminPanel';
+import { PrimaryNav } from '@/components/PrimaryNav';
 import { useAdmin } from '@/hooks/useAdmin';
 
 /** A wiki-infobox row: label on the left, value on the right. */
@@ -66,7 +66,6 @@ function CinematicOverlay({ isFading }: { isFading: boolean }) {
 }
 
 export default function Home() {
-  const router = useRouter();
   const [config, setConfig] = useState<MapConfig | null>(null);
   const [locations, setLocations] = useState<Location[]>([]);
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(null);
@@ -377,22 +376,10 @@ export default function Home() {
         );
       })()}
 
-      {/* Floating header buttons (top-left to avoid sidebar overlap) */}
-      <div className="absolute top-4 left-4 flex gap-2 z-[900]">
-        <Button
-          variant="nav-active"
-          size="sm"
-        >
-          Map
-        </Button>
-        <Button
-          variant="nav"
-          size="sm"
-          onClick={() => router.push('/codex')}
-        >
-          Codex
-        </Button>
-      </div>
+      {/* Shared nav cluster (top-right). Search here opens the map's place-search
+          — the same overlay `f` opens. The cluster sits below the sidebar's
+          z-index, so an open location panel cleanly covers it. */}
+      <PrimaryNav active="map" onSearch={() => setSearchOpen(true)} searchKbd="f" />
 
       {/* Keyboard hints */}
       <div className="absolute bottom-4 left-4 flex items-center gap-3 text-xs text-ink-muted bg-sidebar/80 backdrop-blur-sm px-3 py-1.5 rounded border border-border/40 z-[900]">

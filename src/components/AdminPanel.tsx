@@ -37,7 +37,7 @@ export function AdminPanel({
   };
 
   return (
-    <div className="absolute top-4 right-4 z-[1000] flex flex-col items-end gap-2">
+    <div className="absolute bottom-4 right-4 z-[1000] flex flex-col-reverse items-end gap-2">
       <button
         onClick={() => setOpen((v) => !v)}
         aria-label="Admin panel"
