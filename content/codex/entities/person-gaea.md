@@ -17,9 +17,7 @@ Gaea rose alongside the Ezz Rift, born from the flood of psyic energy that trans
 
 ### Nature
 
-Gaea's power is Kethic, the language she named and shaped. Where Deoric is the titans' command tongue that reshapes reality at the cost of life, Kethic channels the caster's own psyic energy through Alaria's leylines and into the Elemental Planes — a bridge of raw emotion structured outward. It is not a free conduit. Casting Kethic is a net drain on the caster's reserve, because psyic energy spent through the leylines disperses into the broader Ezz via the Psywinds and does not return.
-
-For a mortal mage this cost is manageable. For Gaea, who poured herself through Kethic into every creature she made across millions of years, it was cumulative and eventually total.
+Gaea's power is Kethic, the language she named and shaped. Where Deoric is the titans' command tongue that reshapes reality at the cost of life, Kethic channels the caster's own psyic energy through Alaria's leylines and into the Elemental Planes — a bridge of raw emotion structured outward. Casting Kethic draws on the caster's own psyic reserve. At mortal scale that reserve replenishes naturally — a practitioner who works Kethic for an afternoon is not measurably diminished by it. At cosmological scale and duration the arithmetic is different: psyic energy poured through the leylines disperses into the broader Ezz via the Psywinds faster than it returns, and what disperses at that rate does not come back. A mortal never approaches that threshold. Gaea, pouring herself through Kethic into every creature she made across millions of years, did — cumulatively and totally.
 
 ### The flesh life of Alaria
 
@@ -39,9 +37,9 @@ The three are not interchangeable. Nagatayora descended into rage at Hykravones;
 
 Gaea is far less active in the current age. This is not absence — it is dispersal.
 
-The Kethic she spent over 12 million years of creation diffused into the Ezz via the Psywinds and did not come back. Psyic energy is the finite substrate between planar layers, not a self-replenishing well. She thinned herself into her own creations. When Eyachria challenged her roughly 600,000 years ago, she had already spent most of what she was; the aeons of making had cost her the reserve to match it.
+The Kethic she spent over 12 million years of creation diffused into the Ezz via the Psywinds and did not come back. At that scale and duration, the global Ezz substrate could not refill what she poured out. She thinned herself into her own creations. When Eyachria challenged her roughly 600,000 years ago, she had already spent most of what she was; the aeons of making had cost her the reserve to match it.
 
-She did not diminish because she lost worshippers to a rival power. She diminished because Kethic is self-expending, and she used it without restraint across deep time.
+She did not diminish because she lost worshippers to a rival power. She diminished because Kethic spent at the scale and duration of world-making does not return — used without restraint across deep time, it drew more from the Ezz than could ever refill.
 
 Gaea is still present. She is not a daemon waiting on prayers; she is an Earth Mother dispersed through the world she built. The ground over which Kethic flows still carries her pattern. Those who listen carefully enough describe her not as a voice but as a song in the ground — ambient, sourceless, everywhere.
 

@@ -16,7 +16,7 @@ The Gaea entity exists at `content/codex/entities/person-gaea.md` and is fully a
 
 ## Gaea's dormancy — settled canon (ratified 2026-05-27)
 
-Gaea is not gone — she is diffused. Kethic channels the caster's own psyic energy and is self-expending: casting it is a net drain on the caster's reserve, not a free conduit. Across ~12 million years of extravagant creation (the Gaeaic Eon: dinosaurs, rocs, beastmen, humans), Gaea poured herself out through Kethic into her creations. Psyic energy is the finite substrate between planar layers; what she spent diffused into the broader Ezz via the Psywinds and did not return. She is thinned to "a song in the ground." This also explains why she was already drained when Eyachria challenged her (~600,000 ya).
+Gaea is not gone — she is diffused. Kethic draws on the caster's own psyic energy; for an ordinary practitioner that reserve replenishes naturally, but at cosmological scale and duration what is spent does not return. Across ~12 million years of extravagant creation (the Gaeaic Eon: dinosaurs, rocs, beastmen, humans), Gaea poured herself out through Kethic into her creations. Psyic energy is the finite substrate between planar layers; what she spent diffused into the broader Ezz via the Psywinds and did not return. She is thinned to "a song in the ground." This also explains why she was already drained when Eyachria challenged her (~600,000 ya).
 
 Do not assert she is worship-starved: she is not a daemon and does not run on prayer.
 

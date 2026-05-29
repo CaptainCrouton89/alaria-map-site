@@ -1,0 +1,3 @@
+- **`cosmology-decisions.md` is an append log — §11 supersedes §9** for all entity-file prose on daemon mastery. §9 says daemons had "direct exposure to titans" and "millions of years of study" — both wrong. §11's corrected framing: advantage comes from the pre-burning Vyanoweir corpus (destroyed) + depth of pre-mortem study; ~200 kya is a time-depth (when the oldest daemon died), not a study duration. Wave-2 targets that must mirror §11, not §9: `magic-deoric.md`, `plane-celestia.md`, `era-golden-age-of-man.md`.
+
+- **Daemon lineage mechanic deferred** (§11 knowledge-currency section) — do not author any entity that depends on parent-daemons teaching child-daemons under loyalty economics until `cosmology-decisions.md` marks it ratified.

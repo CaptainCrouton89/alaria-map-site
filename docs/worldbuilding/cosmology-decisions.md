@@ -215,16 +215,19 @@ the lion-father Shara Bolasi / the dragon-father Nagatayora → Ulvsjael / Shara
 she's Earth-Mother / psyic-energy, not a worship-sustained daemon, so she wouldn't need faith.
 
 🔒 **Gaea-dormancy = Kethic self-expenditure (DECIDED).** Kethic channels the caster's *own*
-psyic energy and is **self-expending** (not a free conduit — casting it is a net drain on the
-caster's reserve). Across ~12 My of extravagant creation (mammoths, dinosaurs, rocs, scorpions,
-then beastmen and humans), Gaea poured herself out through Kethic into her creations. Psyic energy
-is the finite substrate between planar layers, not a self-replenishing well; what she spent
-diffused into the broader Ezz via the Psywinds and dissipated. **She is not gone — she is diffused
-into her own creations**, thinned to "a song in the ground." This also explains why she lost to
-Eyachria (~600 kya): she was already drained by aeons of making. Writing requirements: (1) the new
-Gaea entity must state Kethic is self-expending and that her diminishment is the cumulative cost
-of her creation, not lost worship; (2) the magic/Kethic lore must frame Kethic as net-drain
-self-expenditure (distinct from Faesong, which is Melera's ambient emotion, freely heard).
+psyic energy. At mortal scale that reserve replenishes naturally — a practitioner who works Kethic
+for an afternoon is not measurably diminished. The permanent-loss threshold is a cosmological
+phenomenon: at the scale and duration of world-making, psyic energy poured through the leylines
+disperses into the broader Ezz via the Psywinds faster than it returns. Across ~12 My of extravagant
+creation (mammoths, dinosaurs, rocs, scorpions, then beastmen and humans), Gaea poured herself out
+through Kethic into her creations; the global Ezz substrate could not refill what she spent at that
+rate. What she poured out diffused into the broader Ezz via the Psywinds and dissipated. **She is
+not gone — she is diffused into her own creations**, thinned to "a song in the ground." This also
+explains why she lost to Eyachria (~600 kya): she was already drained by aeons of making. Writing
+requirements: (1) the Gaea entity must state that her diminishment is the cumulative cost of Kethic
+spent at cosmological scale, not lost worship; (2) Kethic lore must reflect the scale-split: mortal
+casters replenish naturally; permanent dispersal is a consequence of cosmological-scale expenditure
+(distinct from Faesong, which is Melera's ambient emotion, freely heard).
 
 ### 8d. Deep-time / stasis — 🔒 LIGHT TRIM (DECIDED)
 Deoric-fixity holds (species are Deoric-*defined*, don't biologically drift; true name = your
