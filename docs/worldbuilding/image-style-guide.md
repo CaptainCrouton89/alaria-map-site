@@ -1,5 +1,10 @@
 ### Image generation style guide
 
+> **The first rule: specific, never generic.** Generic is the enemy of good. Every subject and every
+> caption must describe *this* entity in *this* world and no other — named places, named figures, the
+> world's own mechanics. If a sentence could sit under any fantasy picture, it has failed. (Enforced
+> as a tripwire in `.claude/rules/image-authoring.md`.)
+
 Every codex image is an **oil painting of its subject**, generated from a **hand-written** description.
 
 There is no prompt-generation script and no auto-derived descriptions — that approach is a trap (it
@@ -77,6 +82,28 @@ can't see. Lead with the role framing so the composition is right:
 Fold palette/lighting cues into the sentence when the entity has a strong mood (a cursed ruin reads
 cold and desaturated; a sacred site reads warm and golden) rather than relying on any automatic
 modifier — there isn't one anymore.
+
+Prefer a **specific named entity** over a representative stand-in: paint Enimogos, not "a desert ruin";
+the Aciabro, not "cyborg goblins." On overview/atlas pages a representative image is sometimes
+unavoidable — then ground the subject in the page's actual named geography and mechanics, never in mood
+alone, and have the two body illustrations each depict a *named* thing from that domain.
+
+---
+
+### Captions (the alt text)
+
+The alt text on an inline body image renders as the figure's caption, so it must be specific. Its job
+is to say *what specific thing you are looking at* and anchor it in named lore — never generic mood.
+
+- ❌ "A harbor town of the warm band, terraced into a headland above a working bay." — could be anywhere.
+- ✅ "A Middle Sea city-state of Clueanda — the temperate water whose trade matters out of all
+  proportion to its size, because every western hull must first pay the Tarkhon strait."
+- ❌ "A frozen city at the edge of the map." — names nothing, asserts nothing.
+- ✅ "A sun-city of the far latitudes, frozen mid-life when its coalition lost its grip on Bryn's path —
+  grain still in the jars, two hundred miles past any living border."
+
+Banned: `a`/`an` + generic noun with no name or world hook ("an ancient ruin", "a sacred place", "a
+mighty warrior", "a powerful relic"). Name it, or anchor it in named lore and the world's mechanics.
 
 ---
 
