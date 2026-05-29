@@ -47,28 +47,54 @@ Full stage spec retired to `archive/phase-foundations.md`. Shipped as commits `a
 
 ---
 
-## Super-phase: History Generation (the pincer, scaled) — IN PROGRESS (started 2026-05-28)
+## Super-phase: History Generation (the pincer, scaled) — COMPLETE (2026-05-28 → 2026-05-29)
 
-Turn the crank. With the reference frames locked and the pincer proven on Tarkhon, build the
-missing middle — the events and people connecting cosmogony to the present map — by running the
-pincer loop across regions. Active spec + sequence in `phase-history.md`.
+Turned the crank across the two ratified anchor clusters. Full stage spec retired to
+`archive/phase-history.md`. Lead sign-off 2026-05-29 (completion deck: signoff=approve, names=lock).
 
-### Starting state (snapshot 2026-05-28)
-- Corpus past 3,700 entities; 140 daemons, 13 eras, 20 scholars, ~21 onomastic sheets, linter live.
-- The "missing middle" is still mostly empty: only a handful of `event` entities exist beyond the
-  Tarkhon set and the World-Timeline decomposition. This is the work.
-- One region (Tarkhon) is through the full pincer loop as the template; all others are not.
+### Delivered
+- **Both anchor clusters authored** — Cluster A (Kharvorn/Middle Sea, 14 regions incl. the A4 set
+  Kazül/Ta Minn/Stipen/Eloesi) + Cluster B (Tarkhon inner provinces, 7 + Kingdoms of Fire). Events +
+  people authored, edge-wired (`participatedIn`/`caused`/`ruinsOf`/`atWarWith`/`foundedBy`/`ruledBy`),
+  names from local onomastic sheets. Periphery stayed cold-start by design.
+- **Three shared cross-polity spines authored once, consistent everywhere** — Aldriktch Trade Alliance
+  founding; Argysis dragon-feud (kept distinct from Adron's earlier Severing — ~200yr gap, no shared
+  dragons); Kingdoms-of-Fire rivalry (the Severance, reconciled with frozen Tarkhon canon).
+- **Coherence proven** — T5 (Cluster A) + T8 (Cluster B) + T9 (final corpus) sweeps all PASS; every
+  present-day fact traces to a cause; `report lint` held `errors:0` throughout.
+- **Three names ratified** — "The Glassing", "the Ederhi", "The Ride of Ta Minn" locked as canon
+  (provisional flags dropped, commit `20e2ce1`).
 
-### Bounding — RATIFIED (user gate 2026-05-29: Option B)
-Discovery explores (agent-046 inventory + agent-047 region-candidates) found 100 polities, ~95%
-cold-start, pressure concentrated in two clusters. User ratified authoring **the two high-pressure
-anchor clusters** — Kharvorn/Middle Sea (~14) + Tarkhon inner provinces (~7), ~21 regions — and
-declined the smaller prove-the-batch wave (pincer already proven on Tarkhon; the open risk is
-cluster-level coherence where regions share events, which these two clusters stress). Periphery stays
-cold-start by design. Enumerated set + shared spines in `phase-history.md`.
+### Locked decisions / new invariants (carry forward)
+- **borders+within is mutually exclusive.** A new linter check `bordersWithinSameTarget` (error) gates
+  an entity declaring both `borders` and `within` the same target; 8 self-declared cases were
+  adjudicated + fixed. A reciprocal `containerBordersChild` (warning) tracks a container bordering its
+  own contained child — 17 out-of-scope periphery cases remain (the cleanup phase below).
+- **Net-new edge kinds in use:** `atWarWith`, `ruinsOf` — authored one-direction (war on the aggressor;
+  ruins on the ruin pointing at the event).
+- Shipped on `main` (`cd87d70`, `10d67d7`, `a6edd07`, `50e5c2c`, `20e2ce1` + regen `b64135c`).
 
-### Open (orchestrator-resolvable in planning)
-- **Region sequencing / parallelism** — plan batches by causal spine, file-disjoint per wave;
-  `sisyphus:review-plan` gates the wave DAG before authoring.
-- **Contradiction-control cadence at scale** — `report lint` + build after every batch; cross-region
-  coherence sweep between waves, focused on the three shared spines.
+---
+
+## Super-phase: Cleanup & Backlog — IN PROGRESS (started 2026-05-29)
+
+Out-of-scope items surfaced during History Generation that the user routed to a dedicated bounded
+follow-up phase (completion deck: backlog=followup_phase). Active spec in `phase-cleanup.md`.
+
+### Scope (4 items)
+1. **17 `containerBordersChild` contradictions** — periphery regions where a container declares
+   `borders` to its own contained child. Each needs the agent-075 geographic adjudication (drop the
+   spurious border, or repoint the within). Currently tracked as linter warnings.
+2. **Waterdark duplicate pin** — id 893 ("Wateytrdark") vs the live entity. Investigate whether 893 is
+   a synthetic dup (graph-safe delete, like the earlier dalizi/claude-md-manager artifacts) or a real
+   content merge. Frozen-map caution: never reassign a live pin id.
+3. **Giant onomastic register gap** — `onomastics-giant.md` is a 28-line sparse/English-descriptive
+   sheet, off the Gül-Germanic register canon elsewhere. Enrich it.
+4. **Kazül onomastic sub-sheet** — the mixed Romance/invented-harsh palette used in Kazül has no
+   dedicated sheet. Assess whether the authored Kazül names justify one; author if warranted.
+
+### Done when
+- `containerBordersChild` warnings resolved (or each remaining one documented as a deliberate keep).
+- Waterdark dup resolved or documented as intentionally-frozen with rationale.
+- Giant sheet enriched to register parity; Kazül sub-sheet authored or its omission justified.
+- `report lint` stays `errors:0` throughout; no map coordinate changes.
