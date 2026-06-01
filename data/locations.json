@@ -50,6 +50,7 @@
       "race-human-vaelish",
       "1729",
       "3341",
+      "creature-wights",
       "faction-druids",
       "2420",
       "magic-deoric",
@@ -286,6 +287,7 @@
       "3056",
       "3274",
       "2494",
+      "person-shara-bolasi",
       "4369",
       "732",
       "2561",
@@ -608,6 +610,7 @@
       "2443",
       "2430",
       "creature-ghosts",
+      "creature-wights",
       "2420"
     ],
     "loreFile": "Aboyinzu.md",
@@ -620,7 +623,7 @@
     "atmosphere": "ancient",
     "blurb": "The Crimson Coast earns its name honestly.",
     "parentName": "Aboyinzu",
-    "containsCount": 5
+    "containsCount": 6
   },
   {
     "id": "1913",
@@ -3763,6 +3766,7 @@
     "relatedIds": [
       "race-human-sylthik",
       "3207",
+      "faction-dead-moon-tribe",
       "manual-mphcf46l-3ua62",
       "3219",
       "3305",
@@ -5332,6 +5336,7 @@
       "872",
       "752",
       "624",
+      "person-shara-bolasi",
       "390",
       "race-goblin-scalawag",
       "race-sharabha",
@@ -10412,7 +10417,7 @@
     "parentId": "1311",
     "relatedIds": [
       "1311",
-      "race-dwarf-einwissel"
+      "race-dwarf-cendelle"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -15962,7 +15967,7 @@
     "parentId": "905",
     "relatedIds": [
       "905",
-      "918"
+      "race-korrun"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -16380,6 +16385,7 @@
       "3824",
       "manual-mpih84ep-zinza",
       "manual-mpih7quw-898db",
+      "region-the-wastes",
       "manual-mpih8cxg-6d558",
       "3662",
       "manual-mpih8fq8-0fw4h",
@@ -23605,14 +23611,14 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
+      "faction-dead-moon-tribe",
       "manual-mphcf46l-3ua62",
       "3216",
-      "magic-psy-magic",
       "race-dwarf-drasnian",
       "3226",
       "3255",
-      "magic-kethic",
-      "race-giant"
+      "race-giant",
+      "race-human"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -25060,6 +25066,7 @@
     "parentId": "440",
     "relatedIds": [
       "440",
+      "person-shara-bolasi",
       "race-sharabha"
     ],
     "loreFile": "Clueanda.md",
@@ -25819,9 +25826,15 @@
       545
     ],
     "zoomLevel": 4,
-    "parentId": null,
+    "parentId": "2368",
     "relatedIds": [
-      "2368"
+      "2368",
+      "2440",
+      "plane-malstaris",
+      "2430",
+      "creature-wights",
+      "2420",
+      "magic-deoric"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -25829,7 +25842,8 @@
       "geography"
     ],
     "atmosphere": "water",
-    "blurb": "A haunted river in the Crimson Coast."
+    "blurb": "A Crimson Coast river where the violently dead rise as wights, with no necromancer to raise them.",
+    "parentName": "Crimson Coast"
   },
   {
     "id": "2124",
@@ -28003,6 +28017,7 @@
       "3206",
       "race-sylthik",
       "race-dwarf-drasnian",
+      "faction-dead-moon-tribe",
       "manual-mphcf46l-3ua62",
       "3213",
       "3220",
@@ -28059,6 +28074,7 @@
       "3206",
       "race-sylthik",
       "race-dwarf-drasnian",
+      "faction-dead-moon-tribe",
       "3228",
       "3208",
       "3214"
@@ -30834,9 +30850,12 @@
     "relatedIds": [
       "2857",
       "race-human",
+      "era-hykravones",
       "3133",
       "3014",
-      "3137"
+      "creature-hykravones",
+      "3137",
+      "person-gaea"
     ],
     "tags": [],
     "atmosphere": "civilization",
@@ -31855,7 +31874,7 @@
     "parentId": "1311",
     "relatedIds": [
       "1311",
-      "race-dwarf-einwissel",
+      "race-dwarf-cendelle",
       "creature-true-name",
       "plane-celestia",
       "1057",
@@ -31864,7 +31883,7 @@
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "nature",
-    "blurb": "Home to Zorheim, the dragon guardian of the Einwissel dwarves who traveled back from Celestia.",
+    "blurb": "Home to Zorheim, the dragon guardian of the Cendelle dwarves who traveled back from Celestia.",
     "parentName": "Northlands",
     "containsCount": 1
   },
@@ -36055,7 +36074,11 @@
     "zoomLevel": 5,
     "parentId": "914",
     "relatedIds": [
-      "914"
+      "914",
+      "creature-the-unmade",
+      "event-oblivion-years",
+      "719",
+      "magic-kethic"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -36611,7 +36634,7 @@
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
-    "atmosphere": "civilization",
+    "atmosphere": "ancient",
     "blurb": "Like Stonehenge but far more imposing—colossal stones arranged in an ancient circle, each stone unbreakable and emanating massive magical power.",
     "parentName": "Northlands"
   },
@@ -37348,6 +37371,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
+      "faction-dead-moon-tribe",
       "3219",
       "3214"
     ],
@@ -40567,6 +40591,7 @@
       "region-the-wastes",
       "3902",
       "3662",
+      "453",
       "race-goblin"
     ],
     "loreFile": "Upoceax.md",
@@ -40574,9 +40599,15 @@
       "hills",
       "geography"
     ],
-    "atmosphere": "nature",
+    "atmosphere": "ancient",
     "blurb": "A transitional zone between the southern Caffas Mountains and the White Wastes, where the elevation drops from mountain heights to the flat expanse of the…",
-    "parentName": "Sandreach Mountains"
+    "parentName": "Sandreach Mountains",
+    "borders": [
+      {
+        "id": "3807",
+        "name": "Caffas Mountains"
+      }
+    ]
   },
   {
     "id": "3081",
@@ -45254,6 +45285,7 @@
     "parentId": "3206",
     "relatedIds": [
       "3206",
+      "faction-dead-moon-tribe",
       "3214"
     ],
     "loreFile": "Rimihuica.md",
@@ -64351,7 +64383,8 @@
     "zoomLevel": 5,
     "parentId": "3206",
     "relatedIds": [
-      "3206"
+      "3206",
+      "faction-dead-moon-tribe"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
