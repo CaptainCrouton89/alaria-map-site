@@ -1,7 +1,8 @@
 ---
 id: "race-star-hag"
 name: "Star Hag"
-entityType: race
+entityType: creature
+entityCategory: creature
 blurb: "Star Hags are ancient, malevolent beings born of starlight."
 sources:
   - "races/Star_Hag.md"

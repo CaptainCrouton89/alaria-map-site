@@ -2,8 +2,10 @@
 id: "race-dwarf-aureum"
 name: "Aureum"
 entityType: race
+entityCategory: culture
 blurb: "An ancient, mostly vanished dwarf civilization that captured sunlight in mirror-and-glass engines a mile underground; their works are ruins, stranded when the sun's path shifted."
 aliases: ["Sun Dwarf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
   - { rel: culture, kind: worships, target: "daemon-aurigeum" }
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Aureum were the dwarves who decided to bring the sun underground, and for an age they managed it.
+The Aureum are a people of the dwarf, not a separate lineage — a civilization defined by a vow they took, not a change in blood. The Aureum were the dwarves who decided to bring the sun underground, and for an age they managed it.
 
 They broke from the Uline in the deep past, during the shadereaver crisis, when things from far below welled up into the early underground settlements and nearly emptied them. The Uline met that dark with iron and teach their children the iron still. The Aureum took a different vow. They swore to carry daylight a mile beneath the rock and hold the deep creatures back with light rather than blades. Most who heard the plan thought it impossible. The dwarves who did not became the Aureum.
 

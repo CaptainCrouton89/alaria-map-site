@@ -2,12 +2,19 @@
 id: "race-halfling-shelwin"
 name: "Shelwin"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Blue-eyed halflings of Iqes, cave-ancestored and now river-coastal, navigating foreign-dominated trade cities as dockworkers and Ripmaw Sound pilots."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }
   - { rel: culture, kind: worships, target: "daemon-nellwen" }
   - { rel: culture, kind: worships, target: "daemon-olisea" }
+review:
+  aiWritten: false
+  action: keep
 ---
+The Shelwin are a people of the halfling, not a separate lineage — a branch of the Qindo halflings displaced from highland caves to the coast by trade and conquest, their distinctiveness a matter of history and place.
+
 The Shelwin are the halfling branch of the Qindo people — dark-skinned, blue-eyed, and native to Iqes long before the coral-and-mica cities rose along its coast. Cave mouths carved into the western highlands near Qonwabi mark their oldest settlements, most of them ruined now, though a few families still remember the way in.
 
 They share the Qindo's piercing blue eyes, which look startling against dark skin and — in the Shelwin — tend toward a lighter gray-blue that sailors call "pale water." Whether this distinction carries meaning within Qindo culture or is an outsider classification is something the Shelwin themselves do not agree on.

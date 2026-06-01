@@ -2,8 +2,10 @@
 id: "race-elf-gamori"
 name: "Gamori"
 entityType: race
+entityCategory: culture
 blurb: "Nocturnal jungle elves who ride giant bats on territorial raids; matriarchal moon-worshippers who have rejected civilization for canopy savagery."
 aliases: ["Jungle Elf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-vaerivra" }
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Gamori are brutally wild elves who have rejected civilization for the savagery of the deep jungle. With wild, tangled hair and supernatural senses honed by generations of nocturnal hunting, they are the terrors of the canopy. They have formed a symbiotic bond with giant jungle bats, riding them through the night skies on raids against any who dare encroach on their territory.
+The Gamori are a people of the elf, not a separate lineage — a group defined by cultural tradition, not a split in ancestry. The Gamori are brutally wild elves who have rejected civilization for the savagery of the deep jungle. With wild, tangled hair and senses trained to a razor edge by a lifetime of hunting in the dark, they are the terrors of the canopy. They have formed a symbiotic bond with giant jungle bats, riding them through the night skies on raids against any who dare encroach on their territory.
 
 They are nocturnal hunters who fear the burning sun and worship the moon and the darkness beneath the trees. Their society is matriarchal and fiercely territorial, with each tribe controlling vast swaths of jungle that they patrol from above. To outsiders, the Gamori seem like savage monsters, but among themselves they maintain complex social bonds and oral traditions passed down through generations of moonlit gatherings.
 

@@ -2,6 +2,8 @@
 id: "race-kendor-pelaendor"
 name: "Pelaendor"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Nomadic Kendor who travel ocean currents and venture onto land; primary ambassadors between Kendor society and the surface world."
 aliases: ["Wanderer Kendor"]
 relations:
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Some Kendor have abandoned the hidden fortresses entirely, becoming nomadic wanderers who travel the ocean currents and occasionally venture onto land. The Pelaendor have adapted to life between worlds, their scales taking on sandy, mottled patterns that help them blend into various environments. They serve as the primary ambassadors between Kendor society and the surface world.
+The Pelaendor are a people of the kendor, not a separate biological lineage — nomadic wanderers who bridge ocean and surface worlds, defined by their ambassador lifestyle, not by any biological split from kendor kind. Some Kendor have abandoned the hidden fortresses entirely, becoming nomadic wanderers who travel the ocean currents and occasionally venture onto land. The Pelaendor have adapted to life between worlds, their scales taking on sandy, mottled patterns that help them blend into various environments. They serve as the primary ambassadors between Kendor society and the surface world.
 
 Unlike their fortress-dwelling kin, the Pelaendor have learned that sometimes violence, while regrettable, is necessary for survival. They maintain the Kendor appreciation for beauty and social grace but temper it with practicality. Many become traders, messengers, or guides, using their ability to navigate both underwater and terrestrial societies.
 

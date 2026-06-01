@@ -2,6 +2,8 @@
 id: "race-pixie-ikriel"
 name: "Ikriel"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Frost-transformed pixies who worship winter as cosmic entropy; emotionally vampiric manipulators who drain warmth from victims to sustain themselves."
 aliases: ["Icehearts"]
 relations:
@@ -13,7 +15,9 @@ review:
   aiWritten: false
   action: keep
 ---
-Icehearts are pixies transformed by their worship of winter itself — not as a season, but as a cosmic force of entropy and hunger. Their crystalline wings generate a constant aura of frost, and their very presence leeches warmth from their surroundings. This hunger extends beyond the physical; Icehearts feed on emotional warmth, leaving their victims feeling hollow and cold inside.
+The Ikriel are a people of the pixie, not a separate bloodline — winter-worshippers whose hunger and frost are the mark of their devotion, not a biological split from pixie stock.
+
+Icehearts are pixies transformed by their worship of winter itself, not as a season but as a cosmic force of entropy and hunger. That devotion shows in the body: wings rimed to frost-crystal, and a constant cold that leeches warmth from everything around them. The deeper an Iceheart sinks into the worship, the harder the cold bites. This hunger extends beyond the physical; Icehearts feed on emotional warmth, leaving their victims feeling hollow and cold inside.
 
 Icehearts are master manipulators who view other creatures as sources of sustenance. They excel at gaining trust through false vulnerability or promises of aid, only to drain their victims when defenses are lowered. To an Iceheart, every relationship is ultimately transactional — a question of when, not if, they will feed.
 

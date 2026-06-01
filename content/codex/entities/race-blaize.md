@@ -2,6 +2,8 @@
 id: "race-blaize"
 name: "Blaize"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Blaize are enigmatic humanoids whose very existence seems to flicker between states of being, their blue-tinged skin constantly shifting in subtle ways that make…"
 sources:
   - "races/Blaize.md"
@@ -9,11 +11,14 @@ review:
   aiWritten: false
   action: keep
 ---
-The Blaize are enigmatic humanoids whose very existence seems to flicker between states of being, their blue-tinged skin constantly shifting in subtle ways that make them difficult to focus on. These emotion-feeding beings were once enslaved across the western regions of Alaria, bred for their supernatural speed and used as messengers, scouts, and worse. Though now free, the scars of their servitude run deep—they are pathologically suggestible, finding it nearly impossible to resist direct commands or strong suggestions.
+The Blaize came out of the same flood that made the pixies, and out of a hungrier part of it. When Ezz poured into the world, the feeling it carried did not all gather into thick, settled places. Some of it caught at the thin edges, in the spaces of want and lack, and what condensed there came into being already needing more than it had. A Blaize cannot make feeling of its own. It draws feeling off the people around it, the way a cold room draws heat off a body, and without that draw it weakens and fails. The need is the whole reason they exist, set in at the first moment, and it runs in a closed loop: a creature that visibly feeds on emotion unsettles people, and an unsettled person throws off exactly the fear and suspicion the Blaize feeds on. They are fed best by the reaction their own nature provokes.
 
-The Blaize survive by feeding on the emotional energy of those around them, creating a tragic cycle of dependency. They gravitate toward populated areas where emotions run high, yet their presence often provokes fear and mistrust, leading to abuse that ironically provides the very emotional sustenance they need. This horrific symbiosis has shaped their culture into one of constant movement and careful social navigation.
+They existed long before anyone thought to own them. When the western kingdoms learned what the Blaize were, they did not make them; they bred the ones they had caught, selecting down the generations for the single trait worth selling. A Blaize runs faster than anything on two legs. As bonded messengers and scouts they were worth a great deal, and were used as such, and worse. The race is free now in law. The mark of that long servitude is not. Blaize are pathologically suggestible, barely able to refuse a direct command or a strong suggestion, and a people who feed on emotion and cannot say no make uneasy neighbors wherever they settle.
 
-Their incredible speed allows them to literally run on water, their feet moving so rapidly that surface tension becomes solid ground. When threatened or excited, their skin flickers more intensely, creating a disorienting strobe effect that can nauseate those who stare too long.
+> Feed them or fear them, it makes no difference to a Blaize. The fear is the meal.
+> — a saying in the western free-towns
+
+The speed is real and strange. A running Blaize moves its feet fast enough that the surface of water holds it like ground, and it can cross a river without sinking. Under threat or excitement its blue-tinged skin flickers harder, stuttering between one moment and the next until the eye cannot hold it, and a person who stares too long goes queasy trying.
 
 ### Aspects
 - Too fast to catch, too weak to resist

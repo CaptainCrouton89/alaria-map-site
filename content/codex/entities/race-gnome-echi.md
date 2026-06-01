@@ -2,11 +2,15 @@
 id: "race-gnome-echi"
 name: "Echi"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Gnomes of the Echean magocracy, raised in the mountain universities into elemental war-casters who would rather argue a citation than fight."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-gnome" }
   - { rel: culture, kind: originatedIn, target: "494" }
 ---
+The Echi began as a demonym and are a people of the gnome, not a separate lineage.
+
 The Echi are the gnomes of Echea, the small magocracy on the tip of the Watar peninsula, and the word for them began as a demonym before it settled into the name of a people. There is no Echi homeland apart from the two Iri peaks and the universities carved into them, and there is no Echi who did not pass through one of those schools. To be Echi is less a matter of blood than of having been raised inside the only culture in Alaria that treats a university the way other peoples treat a temple or a clan.
 
 Every Echi learns elemental magic, the practical crafting that turns it into magitech, and enough combat doctrine to make the result dangerous. The product is a population of trained elemental war-casters who almost never fight, because fighting is beneath the work and interrupts it. An Echi will sooner win an argument over a flawed citation than win a duel, and the academic feuds that run between the universities are conducted with a viciousness that outsiders mistake for the real thing until they see the rare occasion an Echi is actually pressed to violence. Echi scholars turn up across the world, hired for enchantment and artifice that few others can manage, and they carry the Echean manner with them, exacting, faintly superior, more interested in your problem than in you.

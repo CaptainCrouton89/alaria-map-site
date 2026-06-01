@@ -2,6 +2,8 @@
 id: "race-murazi"
 name: "Murazi"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Murazi are an enigmatic merfolk civilization that thrives in the vast network of warm subterranean rivers crisscrossing beneath the Luquihn Desert."
 relations:
   - { rel: culture, kind: worships, target: "daemon-marazin" }
@@ -16,6 +18,10 @@ The Murazi are an enigmatic merfolk civilization that thrives in the vast networ
 Their economy revolves around the cultivation and harvest of black pearls—lustrous treasures that grow only in the warm-water clams found in their underground rivers. These pearls are so valuable that a single one can buy a small house on the surface, making the Murazi wealthy despite their isolation. They maintain careful trade relationships with both surface dwellers at desert oases and with triton merchants along the distant Sunshine Coast.
 
 The Murazi have adapted perfectly to their unique environment, with skin that shifts between deep blue and sandy brown depending on their surroundings, and eyes that gleam like pearls in the darkness of their river homes.
+
+### The making
+
+Gaea named the Murazi for warm rivers, fish-folk made at the Birth of Man like all her animal-children (see [[race-beastman]]). The rivers she named them for happen to run beneath the Luquihn sand rather than under open sky, so a people shaped for warm shallow water came up in the dark under a desert. Their pearl-gleam eyes, their skin that shifts between river-blue and sand-brown, and the whole black-pearl trade are what that warm-water making looks like when its water is hidden underground.
 
 ### Aspects
 - The desert's secret waterways sustain us

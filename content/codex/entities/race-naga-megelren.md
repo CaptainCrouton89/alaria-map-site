@@ -2,6 +2,8 @@
 id: "race-naga-megelren"
 name: "Megélren"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "The obsidian-scaled form that surfaces unbidden in any Naga line; cast out as the traitor's blood returned, and pushed into the assassin's trade."
 aliases: ["Shadow Naga"]
 relations:
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-A Megélren is a Naga born with scale the color of wet obsidian, black enough to swallow lamplight. The form runs lithe where other Naga run heavy, and it carries its own gifts: a tread that makes no sound, an ease in shadow, a body that shrugs off poisons that would kill the kin who fear it. The Megélren are not a tribe or a lost colony. They are a form the dragon-blood throws, and it can surface in any Naga line, in any generation, with no warning the parents could have read.
+The Megélren are a people of the naga, not a separate biological lineage — the obsidian-scaled form the dragon-blood throws in any naga house, pushed into exile and the assassin's trade by custom, not by kind. A Megélren is a Naga born with scale the color of wet obsidian, black enough to swallow lamplight. The form runs lithe where other Naga run heavy, and it carries its own gifts: a tread that makes no sound, an ease in shadow, a body that shrugs off poisons that would kill the kin who fear it. The Megélren are not a tribe or a lost colony. They are a form the dragon-blood throws, and it can surface in any Naga line, in any generation, with no warning the parents could have read.
 
 The Naga have a story for why it keeps returning. When Nagatayora fell at Hykravones' field, the telling goes, some of those his blood had touched turned from the fire and ran rather than spend themselves on a lost cause, and the black scale is that cowardice working its way back to the surface generations on. There was no such band. No company of traitors bred true down the ages to seed the houses with shame. The blood throws the obsidian form the way it throws the rest, by its own logic and nobody's fault. But the story earns its keep: it gives an honorable house a name for the thing it least wanted to happen, and a reason to put it outside the door.
 

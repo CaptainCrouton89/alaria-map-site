@@ -2,6 +2,8 @@
 id: "race-nyolci"
 name: "Nyolci"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Nyolci are a maritime people whose distinctive cephalopod features mark them as some of the finest sailors and navigators in the known world."
 sources:
   - "races/Nyolci.md"
@@ -16,6 +18,10 @@ Born from the marriage of sea and civilization, the Nyolci serve as the backbone
 Despite their aquatic origins, the Nyolci have fully embraced life among the various races of the surface world. They can be found in every major port city, often serving as intermediaries between land-based merchants and the mysteries of the deep ocean. Their communities typically cluster around harbors, docks, and shipyards, where their expertise is most valued.
 
 The Nyolci possess an almost supernatural ability to read people and situations, making them excellent negotiators and traders. This intuitive cunning, combined with their reputation for fairness in business dealings, has earned them respect and trust throughout the maritime world.
+
+### The making
+
+Five working arms about the head, and a read of moving water older than any chart: that is what Gaea named into the Nyolci when she shaped them from the octopus, one of her animal-children of the Birth of Man (see [[race-beastman]]). The first gift made them the hands of a ship, rigging and repairing faster than anyone with only two arms. The second made them its pilots, feeling a current or a coming storm before it shows on the surface, which is why the Nyolci became the backbone of half the world's shipping.
 
 ### Vitals
 - **Size:** Medium

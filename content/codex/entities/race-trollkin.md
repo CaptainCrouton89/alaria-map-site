@@ -2,6 +2,8 @@
 id: "race-trollkin"
 name: "Trollkin"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Half-breeds and outcasts—trollkin are the unwanted children of humans and trolls."
 sources:
   - "races/Trollkin.md"

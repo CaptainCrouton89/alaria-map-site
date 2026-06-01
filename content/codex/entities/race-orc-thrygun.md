@@ -2,6 +2,8 @@
 id: "race-orc-thrygun"
 name: "Thrygun"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Blue-skinned, red-haired wild orcs of the White Hills; the most primal orcish heritage, guided by instinct and ancient tribal law."
 aliases: ["Wild Orc"]
 relations:

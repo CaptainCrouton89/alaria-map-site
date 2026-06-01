@@ -2,6 +2,8 @@
 id: "race-gnome-seyiki"
 name: "Seyiki"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Dragonfly-riding pillar gnomes of the Piktiniti Desert, raised on the vertical and reckoning distance up and down before they reckon it across."
 aliases: ["Pillar Gnomes"]
 relations:
@@ -10,7 +12,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Seyiki are the gnomes of the Chakatann pillars in the western Piktiniti, and they have lived on the sides of those stones long enough that the stones have reshaped them. Generations on the vertical have left them lean even by gnome measure, long in the arm, with gripping toes and strong hands and a flat lack of concern for heights that turns a lowlander's stomach. A Seyiki reckons a place by elevation first. Ask where a cousin lives and the answer comes as a height before it comes as a direction, two hundred feet up the western face, near the breeding pools, rather than north or south.
+The Seyiki are the gnomes of the Chakatann pillars in the western Piktiniti, and the build that fits them to the stone was set in a single season: the one in which the Postronamas Empire fell and its gnomes ran. The refugees who reached the pillars went up them to get above what was hunting the ground, and on the bare rock they began to fall. A handmagic tattooist among them, Sekoryx, whose name the Seyiki still keep, wrote a working into the climbing children that was meant to do nothing grander than hold them to the stone until they were over the worst of it. Handmagic is supposed to fade. But a gnome is already an unclosed command reaching for an ending, and this working was laid onto flesh that had been written and never finished. Instead of fading it was taken up into the open command and made part of it. The children it was cut into bred true. The Seyiki are lean even by gnome measure, long in the arm, with gripping toes and strong hands and a flat lack of concern for heights that turns a lowlander's stomach, because one tattooist in the worst week of the flight asked the stone of their bodies to keep them from falling, and the asking never closed. A Seyiki reckons a place by elevation first. Ask where a cousin lives and the answer comes as a height before it comes as a direction, two hundred feet up the western face, near the breeding pools, rather than north or south.
 
 Every Seyiki wears a robe that opens into a wingsuit when they fall, and they are never without it. A Seyiki stripped of the robe is exposed in a way that has nothing to do with skin. Children are taught to fall before they are taught to climb, dropped from low ledges into nets and then from higher ones without, until the body learns to spread the robe and catch the air on its own. By the time a Seyiki can walk a ledge they can survive coming off one. This is not bravado. On a pillar that rises hundreds of feet from a salt lake, a person who freezes at a drop does not live to pass on the habit.
 

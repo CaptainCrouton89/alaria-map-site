@@ -2,6 +2,8 @@
 id: "race-minotaur-lorean-minotaur"
 name: "Lorean Minotaur"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Tactically brilliant Minotaur commanders who place duty and protection of others above all; logic governs every decision while emotion is suppressed."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-minotaur" }
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-While Danaki may be a fast hire for a mercenary crew, Lorean are more likely to be found as the commanding general for a king's army. In describing the difference between Lorean and Danaki, it is most famously quoted that "Lorean think with their head, not with their horns". Of course, if you ask their spouses, they will say that they "think with their head, not with their hearts". This is the cursed blessing of Lorean—incredibly tactically minded, but seemingly incapable of thinking about problems in any other way.
+The Lorean are a people of the minotaur, not a separate biological lineage — defined by a culture of tactical discipline, duty toward protection, and the suppression of emotional decision-making, not by any divergence from minotaur kind. While Danaki may be a fast hire for a mercenary crew, Lorean are more likely to be found as the commanding general for a king's army. In describing the difference between Lorean and Danaki, it is most famously quoted that "Lorean think with their head, not with their horns". Of course, if you ask their spouses, they will say that they "think with their head, not with their hearts". This is the cursed blessing of Lorean—incredibly tactically minded, but seemingly incapable of thinking about problems in any other way.
 
 Lorean culture places a heavy emphasis on education and sound decision making. To make a mistake because emotions clouded one's judgement is worthy of profound shame. It's not that Lorean don't experience emotions—they do—but to let them influence one's decision at all is weakness and failure, especially when other people's wellbeing is at stake.
 

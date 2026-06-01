@@ -2,6 +2,8 @@
 id: "race-ghoul"
 name: "Ghoul"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Ghouls are the descendants of servants spawned by ancient, powerful wizards."
 sources:
   - "races/Ghoul.md"
@@ -9,15 +11,15 @@ review:
   aiWritten: false
   action: keep
 ---
-Ghouls are the descendants of servants spawned by ancient, powerful wizards. They were created as butlers, maids, and test subjects, fabricated from the combination of Deoric ritual and a body of the recently deceased, made to serve the wizards. Because of this, ghouls lack any spirit, making them immune to some effects, but incredibly susceptible to Kethic elemental magic. They exert no Kethic presence, meaning there's nothing stopping a water attuned mage from filling a ghoul's lungs with water, or a fire attuned mage from igniting the very skin of a ghoul.
+Ghouls are the descendants of servants spawned by ancient, powerful wizards. They were created as butlers, maids, and test subjects, fabricated from the combination of Deoric ritual and a body of the recently deceased, made to serve the wizards. The wizards left them without any spirit on purpose, since a servant with no soul keeps no will of its own. That same absence makes them immune to some effects, but incredibly susceptible to Kethic elemental magic. They exert no Kethic presence, meaning there's nothing stopping a water attuned mage from filling a ghoul's lungs with water, or a fire attuned mage from igniting the very skin of a ghoul.
 
-After the age of great Deoric mages ended, ghouls lived on. They are rare, and not infrequently killed for their distinctive, gaunt, gray skin that identifies them as ghouls, an aspect that many try to cover up. This widely felt vehemence towards ghouls stems from the belief that they kill other humanoids and eat them—which is partially true.
+After the age of great Deoric mages ended, ghouls lived on. They are rare, and not infrequently killed for their distinctive, gaunt, gray skin that identifies them as ghouls, an aspect that many try to cover up. This widely felt vehemence towards ghouls stems from the belief that they kill other humanoids and eat them, which is partially true.
 
-Due to the nature of ghouls' origin, they feel an eternal emptiness within their bodies that aches to be filled. Eating magic, and the souls of other living things sate that hunger. While eating magic and flesh are not strictly necessary for ghoul survival, it usually feels that way, and any chance to eat magic or the recently deceased has a powerful frenzying effect on all ghouls. Many give in to this urge, feeling little sympathy towards a world that has given them nothing but hurt, creating a reputation for all ghouls of hunting and eating humans. Seeing a ghoul in a feeding frenzy is a truly horrifying experience—one that only needs to be seen once before never wanting to be near another ghoul again.
+Due to the nature of ghouls' origin, they feel an eternal emptiness within their bodies that aches to be filled. Eating magic, and the souls of other living things sate that hunger. While eating magic and flesh are not strictly necessary for ghoul survival, it usually feels that way, and any chance to eat magic or the recently deceased has a powerful frenzying effect on all ghouls. Many give in to this urge, feeling little sympathy towards a world that has given them nothing but hurt, creating a reputation for all ghouls of hunting and eating humans. Seeing a ghoul in a feeding frenzy is a truly horrifying experience, one that only needs to be seen once before never wanting to be near another ghoul again.
 
-For these reasons, ghoul hunters can be found across Alaria. Nearly all are mages—capable of killing a ghoul in nearly an instant. While some ghouls try to flee or hide from the hunters, others fight back, usually gathering in small groups in the hopes of overwhelming the hunter.
+For these reasons, ghoul hunters can be found across Alaria. Nearly all are mages, capable of killing a ghoul in nearly an instant. While some ghouls try to flee or hide from the hunters, others fight back, usually gathering in small groups in the hopes of overwhelming the hunter.
 
-Despite not being able to create biological offspring, some ghouls will create other ghouls, using the same cruel magic as was used to create the original few. The Deoric ritual is innately known by all ghouls, and requires nothing more than one dead body, and one live one for sacrifice. This ritual takes 1 hour to perform.
+Despite not being able to create biological offspring, some ghouls make other ghouls, using the same cruel working that made the first of them. Every ghoul knows the ritual without ever being taught it, because the Deoric command that raised its own corpse wrote a copy of itself into the new ghoul as it rose. The command does not stay where it was cast; it writes itself forward into each body it raises. That copying carries a price every time: the ritual needs one dead body to inhabit and one living body to spend, so the ghoul line continues only by killing. The hunger that drives a ghoul into a feeding frenzy and the hunger that drives it to make another ghoul are the same hunger, the loop the wizards built into the work and never put a stop to. The ritual takes one hour to perform.
 
 ### Aspects
 - I must eat flesh

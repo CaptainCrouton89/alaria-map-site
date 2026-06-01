@@ -2,6 +2,8 @@
 id: "race-mira"
 name: "Mira"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Mirror-skinned and rigidly caste-bound, the Mira keep no homeland; they live around vast orb-ships whose aura they cannot bear to be without."
 sources:
   - "races/Mira.md"

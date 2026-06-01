@@ -2,7 +2,9 @@
 id: "race-human-gezzerin"
 name: "Gezzerin"
 entityType: race
-blurb: "Scarification-covered humans of the Hills of Gezzeri who evolved to hide from giants through guerrilla warfare and cliff-face settlements."
+entityCategory: culture
+tags: ["playable"]
+blurb: "Scarification-covered humans of the Hills of Gezzeri who hide from giants through guerrilla warfare and cliff-face settlements."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
 sources:
@@ -11,7 +13,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Gezzerin are humans who inhabit the arid Hills of Gezzeri. Their culture has been shaped by two factors: water scarcity and the constant threat of giants. They have evolved—both culturally and physically—to hide. Their bodies retain water with camel-like efficiency, and their skin is covered in ritual scarification that helps them blend into the rocky terrain.
+The Gezzerin are humans who inhabit the arid Hills of Gezzeri. Two pressures shape them: water scarcity and the constant threat of giants. Their whole way of life is built around going unseen. They have turned the conservation of water into a discipline drilled from childhood, knowing to the mouthful when to drink and when to hold, and they cover their skin in ritual scarification patterned to break their outline against the rocky terrain. The Gezzerin are a people of the human, shaped by desert survival and the constant giant threat, not a separate biological lineage.
 
 They are masters of guerrilla warfare and stealth, able to vanish into the landscape when a giant's shadow falls over them. Gezzerin children learn to freeze mid-step at the first rumble of approaching footfalls, and their settlements are built into cliff faces and under overhangs where massive hands cannot reach.
 

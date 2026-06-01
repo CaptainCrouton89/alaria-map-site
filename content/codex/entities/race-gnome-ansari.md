@@ -2,6 +2,8 @@
 id: "race-gnome-ansari"
 name: "Ansari"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Blue-green skinned gnomes of the Pelican Isles; wary of strangers but superb navigators, warm once trust is earned."
 aliases: ["Sea Gnome"]
 relations:

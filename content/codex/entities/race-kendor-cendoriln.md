@@ -2,6 +2,8 @@
 id: "race-kendor-cendoriln"
 name: "Cendoriln"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Deep-ocean Kendor with controllable bioluminescent dark scales who trade in secrets and blackmail from underwater caves and thermal vents."
 aliases: ["Abyss Kendor"]
 relations:

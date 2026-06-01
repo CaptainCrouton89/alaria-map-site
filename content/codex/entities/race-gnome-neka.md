@@ -2,6 +2,8 @@
 id: "race-gnome-neka"
 name: "Neka"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Dark-skinned jungle gnomes of the Nekanzi, masters of fire magic and oral tradition who chose survival over comfort."
 aliases: ["Wild Gnomes"]
 relations:

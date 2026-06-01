@@ -54,7 +54,7 @@ The coastal strip has no overarching authority—just a scatter of small harbor 
 
 The Crystal Caverns are destabilizing. Centuries of harvesting have removed more force-dampening crystals than can regrow, and the Force/Earth leyline intersection is approaching critical instability. Earthquakes have increased 40% over the past century. Coastlines are subsiding. The Kendor who understand the situation have begun sabotaging Chimeyan harvesting operations, but their warnings go unheard.
 
-If harvesting continues at current rates, the intersection will catastrophically destabilize within two to three centuries—possibly within decades if extraction accelerates. The resulting shockwave will trigger earthquakes along the entire Golus leyline network and force discharges along the Nilus, affecting regions far beyond the Emerald Coast.
+If harvesting continues at current rates, the intersection will catastrophically destabilize within two to three centuries—possibly within decades if extraction accelerates. The resulting shockwave will trigger earthquakes along the entire Golus leyline network and force discharges along the Dynus leyline, affecting regions far beyond the Emerald Coast.
 
 Meanwhile, the coastal states remain focused on their trade rivalries, oblivious to the slowly mounting disaster beneath their waters.
 

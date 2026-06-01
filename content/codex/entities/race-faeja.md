@@ -2,6 +2,8 @@
 id: "race-faeja"
 name: "Faeja"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Faeja are perhaps the most elusive of all Alaria's races, small jungle dwellers whose bodies are covered in fine, iridescent tendrils that can shift…"
 sources:
   - "races/Faeja.md"
@@ -14,6 +16,10 @@ The Faeja are perhaps the most elusive of all Alaria's races, small jungle dwell
 Living in small villages deep within the jungles of Lethos, the Faeja have developed a culture entirely integrated with their environment. They communicate with jungle spirits, cultivate medicinal plants unknown to others, and can navigate the dangerous jungle with ease. Their magic-infused hair-like tendrils allow them to become virtually invisible, contorting their bodies and hardening their fur into shapes that perfectly mimic surrounding foliage.
 
 Despite their gentle appearance, the Faeja are fierce protectors of their jungle homes. They have mastered the use of natural poisons, can call upon jungle predators for aid, and know every secret path through their territories. Those who threaten their lands often simply vanish, leaving no trace of what befell them.
+
+### The making
+
+The Faeja are condensed Faesong, the emotion-half of the Ezz worn in a small body. Where that feeling-current runs strongest it can thicken past mere sensing into something that acts, and in the deep jungle of Lethos it thickened into the Faeja. Where the [[race-pixie]] wander wherever the world's feeling pools and read it as it comes, each Faeja stays bound to one stretch of living jungle and the single current that runs through it. Tending that current is the whole of what they are: they keep the green growing where the feeling is clean and turn lethal on anything that would foul it, which is why intruders in Faeja country so often simply stop being found.
 
 ### Aspects
 - The jungle speaks to those who listen

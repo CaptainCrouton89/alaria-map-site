@@ -2,6 +2,8 @@
 id: "race-troenka"
 name: "Troenka"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Troenka are cruel, wood-like beings that inhabit the deep forests of Ichneum and Tenekee."
 sources:
   - "races/Troenka.md"
@@ -9,9 +11,11 @@ review:
   aiWritten: false
   action: keep
 ---
-The Troenka are cruel, wood-like beings that inhabit the deep forests of Ichneum and Tenekee. Indistinguishable from trees when they stand still, they ambush travelers not for food, but for the sheer sadistic pleasure of torture. They are strong, intelligent, and view themselves as the forest's punishment on intruders.
+The Troenka are cruel, wood-like beings of the deep forests of Ichneum and Tenekee. Standing still, they cannot be told from a tree, and they use it: a Troenka will hold motionless for days over a path, waiting for a traveler to pass beneath its branches, and take him not for food but for the pleasure of it. Their bark-hide turns most weapons, and their root-tendrils can wrap and crush a grown man. They hold that the forest set them to punish what enters it, and they are not wrong about where they came from, only about who meant it.
 
-A Troenka can stand motionless for days, waiting for a victim to walk beneath its branches before striking. Their bark-like skin is resistant to most weapons, and their root-like tendrils can entangle and crush victims with terrifying strength. Some scholars believe they were once peaceful forest spirits, corrupted by centuries of watching their woods burned and cut.
+The druids made the Troenka, the same dying nature-race that shaped the elves from wood and stone and river-mud. Near the end of their long thinning, the druids bound living spirit into standing wood to make wardens for the deepest groves, guardians that would never tire and never leave. The working that made the elves had carried the druids' own harmony with growing things into the new people. The warden-working in Ichneum did not. The spirit took to the wood and stood up strong, patient, and clever, and the love of the forest that was meant to come with it never set. What the druids built as a guardian came out a thing that keeps the guardian's single instruction, let nothing through, and feels nothing else around it. The flaw bred true. Every Troenka since is born to the same broken making: the mandate intact, the care left out, and a forest to enforce it on.
+
+> The Tenekee charcoal-cutters teach the rule to their children. Count the trees along your path going in, and count them again coming out. If the forest has grown one while your back was turned, do not walk back under it.
 
 ### Vitals
 - **Size:** Large

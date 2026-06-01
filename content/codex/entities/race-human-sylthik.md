@@ -2,6 +2,8 @@
 id: "race-human-sylthik"
 name: "Sylthik"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "The scar-ranked ruling caste of Kyagos's four city-states, grown wealthy on slave-worked mines and now reeling from the fall of Syvlius."
 aliases: ["Scar-lords"]
 relations:
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Sylthik rule the four city-states of Kyagos, and they measure a person's worth in scars. A line cut into the cheek marks distinction: one for a minor honor, five for the highest lords of Vassum or Tekos. The scars are read at a glance, so a Sylthik's standing walks into a room on their face before they say a word. Outsiders carry the opposite mark. A handkerchief knotted at the throat identifies a visitor as rightless, someone the law does not protect, and most Sylthik treat anyone wearing one accordingly.
+The Sylthik are a ruling caste of Kyagos humans, not a separate lineage — their distinction is scar-rank, not blood. They rule the four city-states of Kyagos, and they measure a person's worth in scars. A line cut into the cheek marks distinction: one for a minor honor, five for the highest lords of Vassum or Tekos. The scars are read at a glance, so a Sylthik's standing walks into a room on their face before they say a word. Outsiders carry the opposite mark. A handkerchief knotted at the throat identifies a visitor as rightless, someone the law does not protect, and most Sylthik treat anyone wearing one accordingly.
 
 Their wealth comes out of the mountains, and it is dug by people who are not Sylthik. For roughly four centuries the city-states have run on slave-worked mines, and for three of those they sold the gems and worked metal to Drasnian dwarf traders out of Gorath's Slaver's Coast, who supplied fresh slaves in return. A Sylthik lord never had to break ore. He had to own the shaft and read the ledger. That bred a ruling caste fluent in cruelty at one remove, counting profit while the dying happened underground and out of earshot.
 

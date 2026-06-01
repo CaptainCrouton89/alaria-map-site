@@ -2,6 +2,8 @@
 id: "race-minotaur"
 name: "Minotaur"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Minotaur are mighty, formidable creatures, known for their powerful builds and no-nonsense nature."
 sources:
   - "races/Minotaur.md"
@@ -10,6 +12,17 @@ review:
   action: keep
 ---
 Minotaur are mighty, formidable creatures, known for their powerful builds and no-nonsense nature. Although most grow up in minotaur-dominated communities, they have spread out across Alaria, and can be found in great numbers in many large armies.
+
+### The making
+
+Gaea made the minotaur in the likeness of the bull, one of her minor animal-children, named at the Birth of Man with all the beastfolk (see [[race-beastman]]). She gave them the bull's body and a person's mind, and with the body came the bull's temper: a thing that stands quiet and gathering until it does not. A bull is placid until it is not, and then nothing in front of it matters. The minotaur carry that same engine, and a person's wit set over it to watch it run and be unable to stop.
+
+This is the loop a minotaur lives inside. Feeling is banked, held down, treated as a weakness to be mastered, until the pressure finds its limit and breaks loose as rage. After the rage burns through, the banking starts again. The strength they are prized for and the fury that ruins them draw from the same store, and a minotaur cannot fill the one without filling the other. Most learn to time the release, to spend it on a wall that needs breaking or a line that needs folding, and to live in the long middle between.
+
+The Danaki refuse that middle. They raise their children to show nothing in the open, to pack every grief and joy down out of sight, and to loose it all at once as battle-rage on command (see [[race-minotaur-danaki]]). Every minotaur carries this loop; the Danaki simply live it in the open. What the rest spend their lives learning to hold, a Danaki is taught from the first never to hold at all.
+
+> Hold it down. Hold it down. Then give it to the one in front of you, all of it, and begin again.
+> — a Danaki teaching, spoken over children before their first muster
 
 ### Vitals
 - **Size:** Medium

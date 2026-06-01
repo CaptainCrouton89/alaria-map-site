@@ -2,6 +2,8 @@
 id: "race-halfling-wispen"
 name: "Wispen"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Silver-skinned nomadic halflings whose bare touch absorbs object histories; the greatest trackers and investigators in Grendenheim."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }

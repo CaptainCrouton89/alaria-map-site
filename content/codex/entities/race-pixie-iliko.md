@@ -2,6 +2,8 @@
 id: "race-pixie-iliko"
 name: "Iliko"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Jungle pixies of southern Ve who navigate by truth-lines, invisible currents of meaning only they perceive, and pity the half-blind world."
 aliases: ["Truth-line Pixies", "Locquine Pixies"]
 relations:
@@ -12,7 +14,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Iliko are the pixies of the southern Ve jungles, the people of the city outsiders call Locquine. Every Iliko is born seeing what they call truth-lines: currents of meaning that run through the world the way rivers run through the jungle, plain to them and invisible to everyone else. The sense is not learned and cannot be taught to an outsider. An Iliko reads the lines the way another race reads a face, constantly and without effort, and the habit shapes everything they do, from how they raise a wall of woven vine to how they meet a predator in the dark. Their wings are the pale translucent green of new leaves, and the light moves across them in slow bands, as though something were always passing.
+The Iliko are a people of the pixie, not a separate bloodline — jungle truth-seers of southern Ve whose native attunement to meaning is a defining way of being, not a heritable departure from pixie stock.
+
+The Iliko are the pixies of the southern Ve jungles, the people of the city outsiders call Locquine. Every pixie is born attuned to the currents of meaning the Iliko call truth-lines, threads that run through the world the way rivers run through the jungle. The attunement is the common birthright of their kind, but the Iliko are the ones who build a whole way of being out of it. Their children are raised inside the lines from the first breath, taught to read them as plainly as another people teaches a child to read a face, and for a grown Iliko the reading is constant and effortless and shapes everything they do, from how they raise a wall of woven vine to how they meet a predator in the dark. It cannot be handed to an outsider come late; the reading takes a whole Iliko childhood, and there is no shortcut into it. Their wings are the pale translucent green of new leaves, and the light moves across them in slow bands, as though something were always passing.
 
 To anyone who cannot see the lines, an Iliko looks deranged. They answer questions before those questions are asked, break off mid-sentence to watch a patch of empty air, and strike at threats that have not yet arrived. None of it is madness to them. They are acting on information the world around them simply lacks, and they regard other races with the mild pity owed to the half-blind. Outsiders argue over whether the Iliko are prophets or lunatics. The Iliko find the question itself confused, and will not settle it for you.
 

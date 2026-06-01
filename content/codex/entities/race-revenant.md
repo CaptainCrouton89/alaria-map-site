@@ -1,7 +1,9 @@
 ---
 id: "race-revenant"
 name: "Revenant"
-entityType: race
+entityType: template
+entityCategory: template
+tags: ["playable"]
 blurb: "Once you were dead, but now—well, you still are, kind of."
 sources:
   - "races/Revenant.md"

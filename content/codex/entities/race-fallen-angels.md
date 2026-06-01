@@ -2,6 +2,8 @@
 id: "race-fallen-angels"
 name: "Fallen Angels"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Fallen Angels are celestial beings cast down from their eternal war among the stars, their wings clipped as punishment for bringing their conflict to…"
 sources:
   - "races/Fallen_Angels.md"
@@ -9,9 +11,13 @@ review:
   aiWritten: false
   action: keep
 ---
-The Fallen Angels are celestial beings cast down from their eternal war among the stars, their wings clipped as punishment for bringing their conflict to the mortal realm. Once, the light-born Sarakiel and shadow-born Xaphkiel waged their battles in the heavens, but their violence grew so extreme that it threatened to rain destruction upon the world below. The cosmic powers that govern the planes intervened, stripping both sides of their ability to fly and banishing them to walk among the mortals they once ignored.
+The Fallen Angels are exiles from the star realm, cast down to the material world with their wings clipped so they can never climb back to the lights they came from. Those lights are the titan-glass stars, the great orbs that hang above the Skies, and the angels are the host that dwells within and among them, the same Starborn the Syngers sail beneath but never reach. High above the world, the light-born Sarakiel keep their tower-cities in the bright stars while the shadow-born Xaphkiel war against them, smashing the cores of the orbs and seizing the dead stars they leave behind. The Fallen are the ones that war threw down.
 
-Now these proud beings struggle to adapt to terrestrial life, their magnificent wings reduced to painful reminders of lost glory. The Sarakiel and Xaphkiel continue their ancient hatred even in exile, though they must now fight with mortal limitations. Their clipped wings still possess some power—able to slow falls and channel their respective elements—but true flight remains forever beyond their reach.
+The war is older than mortal memory and older than mortal kind, and it was never really about ground. The stars are titan-glass, as old as the titans themselves, and the two hosts took their sides from the two directions the great titan-gods Aurus and Nydus dissolved into as they shed their selves: Aurus toward the soul and its keeping, Nydus toward the shadow and its undoing. The Sarakiel lean to the soul-pole and the Xaphkiel to the shadow-pole, and between those two pulls there has never been a stable middle to stand on. Their quarrel is the same tension the whole cosmos is strung across, only fought out among the stars by beings who refuse to let it rest.
+
+Once the fighting climbed too far. It reached all the way to the sun and very nearly put it out, and the long dark that spilled down onto the world below was not a thing the star realm chose to forgive. The host that had carried the war that high, light and shadow alike, was brought down to the material plane and had its wings clipped at the root. That cutting is what made the Fallen what they are. Severed from the stars and locked into mortal flesh, they stopped being the deathless things they had been and became a people that is born, grows old, and dies, breeding true down every generation as the Fallen and nothing else. The clipping did not only ground them. It fixed them.
+
+They have never made peace with it. The Sarakiel keep their purity enclaves and work their long rituals to grow back what was cut, certain the stars will take them home again. The Xaphkiel walk among mortals and study the world below, and tell themselves the exile is a kind of sight the towers never had. Both still hate each other exactly as they did above, and both still carry the old war in miniature wherever they settle. Their clipped wings hold a little of the former power, enough to slow a fall and to throw the light or the dark they were born to, but true flight is gone for good. The valkyries who guard the tower of Starreach turn back any of the Fallen who try to climb home.
 
 ### Vitals
 - **Size:** Medium

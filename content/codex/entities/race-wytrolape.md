@@ -2,6 +2,8 @@
 id: "race-wytrolape"
 name: "Wytrolape"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Wytrolape are white-furred giant apes residing in Kyorda."
 sources:
   - "races/Wytrolape.md"

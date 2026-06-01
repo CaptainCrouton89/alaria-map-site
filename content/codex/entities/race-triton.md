@@ -2,6 +2,8 @@
 id: "race-triton"
 name: "Triton"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Tritons are the proud aquatic warriors of the deep, dwelling in magnificent underwater cities carved from coral and stone."
 relations:
   - { rel: culture, kind: worships, target: "daemon-tromaran" }
@@ -14,6 +16,10 @@ review:
 Tritons are the proud aquatic warriors of the deep, dwelling in magnificent underwater cities carved from coral and stone. These theistic people worship the ocean deities with fervor, viewing themselves as the chosen guardians of the seas. More warlike than their surface cousins, tritons patrol the waters with military precision, defending their territories from threats both above and below the waves.
 
 Their society is built on martial excellence and divine devotion. Every triton learns combat from childhood, training with trident and net in elaborate underwater arenas. They view the surface world with a mixture of curiosity and disdain, believing land-dwellers to be clumsy and graceless compared to their own fluid movements in water. This pride often manifests as arrogance when dealing with other races, though their competence in aquatic combat is undeniable.
+
+### The making
+
+The Tritons are beastfolk, a sea-guardian people Gaea named among her minor animal-children (see [[race-beastman]]). Their bodies and their bent for patrolling and holding the water come from that naming and nothing more. The worship of [[daemon-tromaran]] and the talk of being the seas' chosen guardians came much later, a religion the Tritons built atop what they already were. They are not descended from any daemon, and tromaran did not make them.
 
 ### Aspects
 - Natural grace in water

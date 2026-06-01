@@ -2,6 +2,8 @@
 id: "race-orc-hedroscobbi"
 name: "Hedroscobbi"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Master smiths who forge algae-iron alloys into abrasive heavy armor; dark-skinned and corrosion-resistant, found in contested swamplands."
 aliases: ["Black Orc"]
 relations:
@@ -13,9 +15,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Hedroscobbi are master smiths who have learned to forge iron combined with corrosive algae from rivers and swamps to create incredibly heavy armor. This armor is so abrasive that only their naturally tough skin can withstand wearing it. Their mastery of this unique metallurgy makes them nearly impervious to conventional weapons.
+Every orc was made in one morning at Mount Kajiit, when the eruption that ended the God War loosed more Deoric command than its working could spend and the overflow rewrote the survivors hard enough to outlast the Long Winter. The Hedroscobbi are the orcs who were standing closest to the vent. Where the rest of the survivors caught that overflow as raw resilience, the bodies down in the corrosive wash at the mountain's foot, ankle-deep in the acids the eruption brought up out of the ground, caught a narrower cut of the same stroke: skin the acid could not eat. It set that morning, and it has run true down every Hedroscobbi clan line since.
 
-The Hedroscobbi's dark skin has adapted over generations to resist the corrosive properties of their algae-iron alloys. They are often found in the contested swamplands, where they fight alongside and against other orc clans for territory and resources.
+Everything outsiders know them for is built on that one trait. The Hedroscobbi are the only orcs who can wear algae-iron, the brutally heavy alloy they smith from river-iron and the corrosive swamp algae that would flay any other smith raw, so they alone make it, and the armor it produces shrugs off conventional weapons. They hold the contested marsh of Yugurbas Dyos, the ground the eruption made, against the Glivornaxi and against each other. Living on the site of their own making is not lost on them.
 
 #### Aspects
 - Master of algae-iron smithing

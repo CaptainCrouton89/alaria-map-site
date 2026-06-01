@@ -2,7 +2,9 @@
 id: "race-elf"
 name: "Elf"
 entityType: race
+entityCategory: race
 blurb: "Elves are a race of fiercely independent, ancient, culturally rich people."
+tags: ["playable"]
 sources:
   - "races/Elf.md"
 review:
@@ -13,7 +15,9 @@ Elves are a race of fiercely independent, ancient, culturally rich people. With 
 
 ### Origin and kinship
 
-Elves are not flesh-kin. They were crafted by the druids from natural materials — wood, stone, river-mud — distinct in origin from the flesh family Gaea built through Kethic. That difference in substance is not superficial: elves cannot interbreed with the flesh family (humans, beastmen, giants, trolls). Half-elves do not exist.
+Elves are not Gaea's work. They were made by the druids, the ancient nature-race that came into the world alongside Gaea and worked Faesong, the ambient music of Melera, rather than her Kethic. The druids never died of natural causes, but they were being killed off all the same, thinning across the millions of years until only a handful were left. Before they were gone they made successors. Around two and a half million years ago, in the span the elves themselves call the Walk of Elves, the druids shaped a people from the branches of trees, the stone and mud of riverbeds, and a measure of their own life, and made them in their own image: the pointed ears, the slender build, the long sight, the same love of growing things. Elves were skilled at whatever they turned to, and they spread fast, sharing the world with the dragons for an age.
+
+The substance they were cut from is why elves stand apart from the rest of Alaria's peoples. The flesh family of humans, beastmen, giants, and trolls was grown by Gaea through Kethic, and those lines cross freely with one another. Elves were not grown; they were crafted, from wood and stone and river-mud, and that making does not mix with flesh. Elves cannot interbreed with the flesh family. Half-elves do not exist, whatever a hopeful story claims, and the heritages that descend from the three druidic substances remain elven through and through.
 
 ### Vitals
 - **Size:** Medium

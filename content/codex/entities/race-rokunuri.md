@@ -2,6 +2,8 @@
 id: "race-rokunuri"
 name: "Rokunuri"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Rokunuri are a terrifying race of predators inhabiting the southern region of Aboyuinzu."
 sources:
   - "races/Rokunuri.md"
@@ -12,6 +14,10 @@ review:
 The Rokunuri are a terrifying race of predators inhabiting the southern region of Aboyuinzu. At first glance, they appear to be normal humans, allowing them to blend into settlements. However, their true form is revealed when they hunt: their necks can extend up to 15 feet like a constrictor snake, and their mouths house a second row of razor-sharp incisors behind their human teeth.
 
 They are extremely quick, intelligent, and feast on human flesh. A Rokunuri can snap a victim's neck from across a room before anyone realizes they aren't human. They infiltrate communities, living among their prey for months or years before striking, and their victims often never know what killed them.
+
+### The making
+
+Like every beastman kind, the Rokunuri were named at the Birth of Man (see [[race-beastman]]), shaped by Gaea from a constricting snake. The cruelty is in how she finished the work: she gave the snake-people a human face and a human voice, not as a disguise they put on but as the shape the true name fixed on them. The concealment is the creature. A Rokunuri is built to be trusted before the neck unspools and the second row of teeth comes forward, and it can no more stop wearing the face that makes the trust possible than it can stop being hungry.
 
 ### Vitals
 - **Size:** Medium

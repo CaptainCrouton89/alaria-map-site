@@ -2,6 +2,8 @@
 id: "race-kendor-pelarian"
 name: "Pelarian"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Volcanic-vent Kendor with fire attunement who distinguish honorable combat from aggression; considered borderline heretics by northern Kendor."
 aliases: ["Fire Kendor"]
 relations:

@@ -2,6 +2,8 @@
 id: "race-human-neth"
 name: "Neth"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Inscrutable, community-oriented northern tundra humans who commune with ancestral spirits through the wind, drawing on a millennium of ancestral wisdom."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Neth are thoughtful and inscrutable, and place a high emphasis on community, ancestry, and wind. It is easy to misinterpret a Neth's silence at a joke as boredom or even worse, anger, but if you look carefully, you may see a glint in their eyes, and they will soon fire back a joke of their own, all while never breaking a smile.
+Neth are thoughtful and inscrutable, and place a high emphasis on community, ancestry, and wind. It is easy to misinterpret a Neth's silence at a joke as boredom or even worse, anger, but if you look carefully, you may see a glint in their eyes, and they will soon fire back a joke of their own, all while never breaking a smile. The Neth are a people of the human, bound by ancestral-communion tradition and northern tundra life, not a separate biological lineage.
 
 Neth are best known for their ability to speak with the wind, allowing them to communicate with the deceased members of their communities to gather advice. The advice and secrets of their ancestors is central to the longevity and power of the many Neth-composed tribes that cover the northern tundras. For this reason, maintaining good relation with one's family, and community are critical to Neth culture, an outlook and behavior that extends to friends they meet who become close.
 

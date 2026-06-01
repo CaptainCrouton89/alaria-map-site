@@ -2,6 +2,8 @@
 id: "race-giant-guli"
 name: "Güli"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Patient, clan-bound mountain giants of the high basins, who hold their grazing grounds by reciting lineage further back than any rival can."
 aliases: ["Mountain Giants", "Güli Giants"]
 relations:
@@ -10,6 +12,8 @@ review:
   aiWritten: false
   action: keep
 ---
+The Güli are a people of the giant, not a separate bloodline — their culture of patient memory and recited lineage sets them apart, not any divergence from giant flesh.
+
 The Güli are mountain giants, the people of the high basins where the Gül Mountains close off the weather. They stand fifteen to twenty feet, gray-skinned and slow to anger, and they regard the lowland giants — the wandering Gorgers, the boulder-throwing hill giants — as poor relations who never learned to stay in one place. A Güli stays. The clan holds its grazing ground for as long as anyone can recite, and the reciting is the point. Their heartland is the Breidlheiss Basin, the sheltered valley they call the Broad Pasture, and Güli clans range more widely through the Giant Lands beyond it.
 
 A clan runs to twenty or fifty giants under an elder, claiming traditional pasture it defends without much bloodshed. When two clans want the same meadow they rarely fight for it. They contest it: wrestling, stone-throwing, and the recitation of lineage, in which the giant who can name ancestors furthest back takes the prize. A long memory is wealth here. The Güli carry centuries of genealogy in their heads, and a clan that loses its reciters loses its claims.

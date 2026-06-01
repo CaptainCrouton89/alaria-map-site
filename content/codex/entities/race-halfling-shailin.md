@@ -2,6 +2,8 @@
 id: "race-halfling-shailin"
 name: "Shailin"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Yellow-eyed halflings of Sestros shaped by daemon prophecies from Talresses; they build for futures not yet arrived and age strangely."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-halfling" }

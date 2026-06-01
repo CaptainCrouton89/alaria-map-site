@@ -2,6 +2,8 @@
 id: "race-orc"
 name: "Orc"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Orcs are a diverse and hardy race known for their physical prowess, tribal cultures, and fierce independence."
 sources:
   - "races/Orc.md"
@@ -9,9 +11,16 @@ review:
   aiWritten: false
   action: keep
 ---
-Orcs are a diverse and hardy race known for their physical prowess, tribal cultures, and fierce independence. Found across many different environments on Alaria, orcs have adapted to thrive in conditions that would challenge most other races. Their societies are typically clan-based, with strong traditions of warfare, survival, and loyalty to their chosen family groups.
+Orcs are a diverse and hardy race known for their physical prowess, tribal cultures, and fierce independence. Found across many different environments on Alaria, orcs hold ground in conditions that would kill most other races outright. Their societies are typically clan-based, with strong traditions of warfare, survival, and loyalty to their chosen family groups.
 
 While often misunderstood by other races as purely savage, orcish cultures are rich with tradition, spiritual practices, and complex social structures. Their natural resilience and strength have allowed them to carve out territories in some of the most hostile environments on Alaria.
+
+That resilience is the oldest thing an orc carries, older than any generation that could have taught it, because orcs were made by the worst thing ever to happen to the world. When the God War ended, it ended at Mount Kajiit, where a zealot of the daemon Dyos forced the volcano open as a sacrifice on a scale no working had ever spent before. The eruption bought the world's survival at the price of the world as it had been, and dropped the Long Winter over everything that lived. Whatever mortals were sheltering nearest the mountain should have died there with the rest. Instead the sacrifice caught them. Deoric is always paid for in life, and a working that size loosed far more command than its single purpose could spend; the overflow washed across the survivors at the epicenter and rewrote them where they stood, in one stroke, into something hard enough to outlast the winter that was busy killing the Golden Age. They came up out of the ash as the first orcs.
+
+Nearly everything other peoples find alarming about orcs runs back to that morning. The resilience, the reach across desert and tundra and swamp and ruin, the turn of mind that treats survival and warfare as one discipline rather than two: every one of these is the standing shape of beings forged in the single most destructive hour Alaria has on record. What other peoples read as savagery is only the imprint of that morning. Orcs carry the knowledge more plainly than any outside study of them ever has. The marsh now called Yugurbas Dyos, contested ground between Hedroscobb and Glivornax, sits on the site of the Long Winter's origin, and the orcish tradition that keeps the name has kept it longer than anyone can account for. Whether the first orcs knew whose name they were cutting into the ground or only knew that the place had made them, their descendants have never once let it go.
+
+> Other peoples ask where they came from and answer with a story. We were spared the asking. We come from here, from the cold that ate the gods, and not one of us has ever mistaken it for a home.
+> — held among the orcs of Yugurbas Dyos
 
 ### Vitals
 - **Size:** Medium

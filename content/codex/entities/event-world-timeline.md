@@ -30,8 +30,10 @@ Time has consisted of three eons of full world cycles. Each cycle ends with a re
 | 6 | The God War & Long Winter | ~75,000–45,000 years ago |
 | 7 | The Age of Craggus | 45,000–30,000 years ago |
 | 8 | The Lost Ages | 30,000–10,209 years ago |
-| 9 | Hykravones, the Shattering | 10,210–10,209 BSD |
-| 10 | The Great Expansion | 9,950–0 BSD |
-| 11 | The World Fire | ~10 BSD |
-| 12 | The Seventh Dawn | 0 SD–Now |
-| 13 | The Dark Ages | 0–231 SD |
+| 9 | The Oblivion Years (Nilus void-bleed) | 11,500–10,400 BSD |
+| 10 | Hykravones, the Shattering | 10,210–10,209 BSD |
+| 11 | The Great Expansion | 9,950–0 BSD |
+| 12 | The Frost Fall (Pelus drift) | 8,840–8,695 BSD |
+| 13 | The World Fire | ~10 BSD |
+| 14 | The Seventh Dawn | 0 SD–Now |
+| 15 | The Dark Ages | 0–231 SD |

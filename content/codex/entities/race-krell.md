@@ -2,6 +2,8 @@
 id: "race-krell"
 name: "Krell"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Krell are an ancient insectoid race whose very existence revolves around their massive colonial structure and absolute devotion to their queen."
 sources:
   - "races/Krell.md"
@@ -14,6 +16,10 @@ The Krell are an ancient insectoid race whose very existence revolves around the
 The princesses are raised in luxury for fifty years before engaging in ritual combat to the death. The survivor becomes the new queen, selects a mate, and leads a great migration called a "swarming" to establish a new colony elsewhere. During these swarmings, the Krell become a force of nature, destroying everything in their path as they claim new territory for their queen.
 
 Individual Krell communicate through complex patterns of pheromones, antenna movements, and rhythmic footsteps that outsiders find impossible to decipher. While they possess vocal cords, they rarely use them, preferring their natural forms of communication. A single Krell poses little threat, but when the hive mobilizes, entire settlements vanish without a trace.
+
+### The making
+
+The Krell are beastfolk, the hive-insect among Gaea's minor animal-children (see [[race-beastman]]). There is no special cause behind the princess-duels, the swarmings, or the single queen every Krell lives for. That is simply the insect Gaea named, its colonial nature carried up whole into a people with hands and a tongue. What an ant-mound does without thinking, the Krell do as a civilization.
 
 ### Vitals
 - **Size:** Medium

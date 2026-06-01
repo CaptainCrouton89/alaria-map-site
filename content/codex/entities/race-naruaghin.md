@@ -2,6 +2,8 @@
 id: "race-naruaghin"
 name: "Naruaghin"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Naruaghin are the fierce offspring of dwarven stoicism and draconic fury."
 sources:
   - "races/Naruaghin.md"

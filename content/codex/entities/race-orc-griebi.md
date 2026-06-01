@@ -2,6 +2,8 @@
 id: "race-orc-griebi"
 name: "Griebi"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Blueish-gray aquatic orcs who breathe underwater, hunt with needle-like teeth, and answer to a mysterious hag queen in the deep."
 aliases: ["Lakemen"]
 relations:

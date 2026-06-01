@@ -2,6 +2,8 @@
 id: "race-human"
 name: "Human"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Humans are resilient and abundant."
 sources:
   - "races/Human.md"
@@ -10,6 +12,12 @@ review:
   action: keep
 ---
 Humans are resilient and abundant. They are far the most prolific across Alaria, and have the greatest breadth of culture. Contributing to their success as a species is their perseverance; just when you think you've knocked one down for good, they're back up for more.
+
+### Origin and kinship
+
+Humans are Gaea's work, and they were made in envy. By the time the Earth Mother turned her hand to them, the druids' elves had walked Alaria for close to two million years, skilled at everything they set out to do, and Gaea wanted a people of her own flesh to match them. So in the long stretch the chronicles call the Birth of Man, about five hundred thousand years ago, she shaped humans and beastmen from the same living substance as her earlier creatures, structured through Kethic and held fast by a true name the way every Gaea-creature is held fast. Humans were the part of that work that got away from her. She had meant to answer the elves; instead she made a people more versatile and more grasping than anything she had built before, and inside a few thousand years they had spread across the whole of Alaria.
+
+Because humans are flesh of Gaea's making, they are kin to the rest of her flesh-children: the beastmen, the giants, the trolls. The lines cross where they meet. Giant blood runs in the Qord'ik of the Free Isles, and trollkin are born where human and troll come together. What humans cannot cross is the elves. Elves were cut from wood and stone and river-mud by the druids, not grown from Gaea's flesh, and the two kinds of making do not mix. There are no half-elves, however the stories run.
 
 ### Vitals
 - **Size:** Medium
@@ -35,7 +43,7 @@ Humans are resilient and abundant. They are far the most prolific across Alaria,
 - **Gezzerin** — Scarification-covered humans of the Hills of Gezzeri who hide from giants through guerrilla warfare and cliff-face settlements. See [[race-human-gezzerin]].
 - **Inavolin** — Bronze-skinned sky knights of Breia who form sacred bonds with griffins from childhood and live in mountain citadels. See [[race-human-inavolin]].
 - **Qindo** — Blue-skinned, charming sailors with sapphire eyes who run on their own time and blur the line between merchant and pirate. See [[race-human-qindo]].
-- **Stone Men** — Gray-skinned humans of the Wurn Mountains whose skin hardened through generations of elemental exposure; stoic and fiercely independent. See [[race-human-stone-men]].
+- **Stone Men** — Gray-skinned humans of the Wurn Mountains; stoic, fiercely independent, and deeply wary of lowland authority. See [[race-human-stone-men]].
 - **Wendi** — Strawberry-blonde drake-riding warriors who hurl lightning spears at giants and hold death-defying sky races. See [[race-human-wendi]].
 - **Shyona** — Ceremonious, craft-obsessed humans of Ve's northeastern plains who prize family honor, blade-dancing arts, and deliberate provincial governance. See [[race-human-shyona]].
 - **Drevaya** — Small, austere monastic culture born to the Shogi Monastery on the peaks of northern Erpeus; few among the foreign trainees they teach. See [[race-human-drevaya]].

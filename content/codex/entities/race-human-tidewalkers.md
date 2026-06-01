@@ -2,6 +2,8 @@
 id: "race-human-tidewalkers"
 name: "Tidewalkers"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Human islanders of the Aikon shallows whose lives follow the twice-daily tide, governed by the Tide-Counters who call the safe windows."
 aliases: ["Aikon", "Aikon people"]
 relations:
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Tidewalkers are the human people of the Aikon Tidal Islands, and their whole way of living is set by water that comes and goes twice a day. They keep permanent homes only on the peak islands, the few points of rock high enough to stay dry when the sea is full. Almost everything else they own is portable or expendable, because almost everything else spends half of each day underwater.
+The Tidewalkers are the human people of the Aikon Tidal Islands, and their whole way of living is set by water that comes and goes twice a day. They keep permanent homes only on the peak islands, the few points of rock high enough to stay dry when the sea is full. Almost everything else they own is portable or expendable, because almost everything else spends half of each day underwater. They are a people of the human, wholly shaped by the Aikon tidal rhythms, not a separate biological lineage.
 
 When the tide pulls back, the Tidewalkers go down onto the drained seabed. They cross it on memorized paths to work the wet sand, lift shellfish from exposed beds, and gather whatever the water has left behind, then climb back to the peaks before the sea returns. Children learn the rhythm before they can walk. A Tidewalker reads the state of the tide the way a farmer elsewhere reads weather, and the question that orders the day is never the hour but how long until the water turns.
 

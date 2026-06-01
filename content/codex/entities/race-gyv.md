@@ -2,6 +2,8 @@
 id: "race-gyv"
 name: "Gyv"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Gyv are the puppet masters of Iylovia, a race whose very presence makes others question their own thoughts."
 relations:
   - { rel: culture, kind: worships, target: "daemon-velyv" }
@@ -11,9 +13,22 @@ review:
   aiWritten: false
   action: keep
 ---
-The Gyv are the puppet masters of Iylovia, a race whose very presence makes others question their own thoughts. With their distinctive silver hair and grayish skin, these tall, lithe beings move through society like whispers of smoke. Born from the mingling of Zaelian elf and human bloodlines, they inherited something far more dangerous than either parent race possessed—the ability to subtly influence minds.
+The Gyv are the puppet masters of Iylovia, a race whose very presence makes others question their own thoughts. With their distinctive silver hair and grayish skin, these tall, lithe beings move through society like whispers of smoke. They are born with an unnatural sensitivity to the Psywinds, the thought-current that runs beneath every mind, and from it comes their most dangerous gift: the power to nudge another's thoughts so gently the victim believes the idea was their own all along.
 
 In Gyv society, direct confrontation is considered both crude and foolish. Why argue when you can make someone believe your position was their idea all along? This has created a culture of extreme paranoia where every conversation is a chess match and trust is a luxury none can afford. Even among themselves, the Gyv deal in shadows and schemes, using intermediaries and elaborate protocols to avoid direct mental manipulation.
+
+### The making
+
+The Psywinds run under every mind in the world, a current of thought no one is built to hear. The Gyv hear it. That is the whole of what happened to them, and it happened at once. Somewhere back in the deep forests of Iylovia the thought-current surged the way the Ezz flood once surged through everything, and instead of passing over the people living there it soaked in and stayed. It fixed in them a sense no mortal is meant to carry: the involuntary reading of the currents beneath every nearby mind, and the lighter trick of nudging those currents so a thought lands where the Gyv wants it. The surge bred true. Every Gyv since has been born already listening.
+
+The silver hair and the gray cast of their skin are where the touch shows, the way fire shows on a Neferati. The long life is the same touch spending itself slowly: two centuries to a human's one, the Ezz in them burning down at its own rate.
+
+What the surge gave them is also the wall around them. A Gyv cannot stop listening; the current is always running and the reading of it never shuts off. A Gyv cannot trust another Gyv, since the only people who share the gift are the only people who can turn it on each other, and both always know it. And a Gyv cannot truly reach anyone who lacks the gift, because to a Silver Tongue a plain mind is a current to read and lean on, never wholly a person to meet. Everything the Gyv have built of themselves comes out of that bind: the paper contracts, the chains of go-betweens, the silent markets, the friendships proven only by surviving each other's attempts.
+
+> Strangers think the gift is hearing the current under your thoughts. The worse part is the one they never ask about, that I cannot stop hearing the current under my own.
+> — a Gyv arbiter, recorded among the Marked
+
+Velyv came afterward. The daemon of the unseen hand accreted to the Gyv only once they had turned from open service in their neighbors' courts to the indirect work they are known for now; the worship answered the culture and did not cause it. The Psywind-touch is older than all of it. It predates the daemon they pray to and the courts they once advised, and it will outlast the war they are now losing on the plains.
 
 ### Society and Culture
 The Gyv have built elaborate systems to function in a society where no one can trust anyone.

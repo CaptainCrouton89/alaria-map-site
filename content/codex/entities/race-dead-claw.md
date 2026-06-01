@@ -2,6 +2,8 @@
 id: "race-dead-claw"
 name: "Dead Claw"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Dead Claw are a race of feline warriors residing in the mountainous region of Phaer Hom."
 sources:
   - "races/Dead_Claw.md"
@@ -12,6 +14,10 @@ review:
 The Dead Claw are a race of feline warriors residing in the mountainous region of Phaer Hom. They possess cat-like agility, retractable claws, and fur whose color determines their physical traits and social standing. Known for their ritual scarring and silent demeanor, they are the ultimate stalkers of the high peaks.
 
 Legend says the Dead Claw possess nine lives, making them fearless in battle. They never cut their whiskers, which serve as sensitive sensory organs that can detect the slightest air currents. Their culture is one of quiet lethality, where a threat is rarely spoken but simply acted upon. Dead Claw society is organized into Prides, each led by a Pridekeeper whose word is law.
+
+### The making
+
+The Dead Claw are beastfolk, named at the Birth of Man with the rest of Gaea's minor animal-children (see [[race-beastman]]). What sets them apart is what Gaea sealed into the cat's true name. The old tales give a cat nine lives; in the making those lives were literal, a counted reserve of the animal's resilience poured into the name, nine deaths a Dead Claw can walk back from and not one more. Each life spent is gone for good, so a Pride reckons an elder's standing by the scars worn and the deaths already used, and a people who know exactly how often they can cheat death live nearer its edge than anyone else alive.
 
 ### Vitals
 - **Size:** Medium

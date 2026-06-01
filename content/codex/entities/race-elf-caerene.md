@@ -2,8 +2,10 @@
 id: "race-elf-caerene"
 name: "Caerene"
 entityType: race
+entityCategory: culture
 blurb: "Isolationist wood elves with olive skin who blend into forests, emphasizing balance, fate, and immediate justice with no second chances."
 aliases: ["Wood Elf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
@@ -14,7 +16,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Caerene have darker, more olive skin than their Zaelian and Amverela cousins, allowing them to blend into forest shadow in ways the settled elves of the confederation never learned. They do not build in the ordinary sense. What counts as a Caerene village is a cluster of hammocks in the canopy, a shared cache of preserved food, a fire-circle used once and abandoned, and none of it is visible to anyone not already looking for it.
+The Caerene are a people of the elf, not a separate lineage — a forest-dwelling community whose identity is defined by place and practice, not a divergence in bloodline. Caerene skin tends to weather darker and more olive than that of their Zaelian and Amverela cousins, the tan of a life spent under broken canopy light rather than under a roof. What lets them blend into forest shadow, though, is craft rather than coloring, and it is craft the settled elves of the confederation never bothered to learn. They do not build in the ordinary sense. What counts as a Caerene village is a cluster of hammocks in the canopy, a shared cache of preserved food, a fire-circle used once and abandoned, and none of it is visible to anyone not already looking for it.
 
 > A Caerene camp in the Green Wilds canopy, two hundred feet up in the crown of a strangler fig: a dozen hammocks, a cache of river-fish smoked and wrapped in waxleaf, a fire-pit of loose stones that will be scattered before the band moves on. From the floor of the forest there is nothing to see. A Dwelyn hunting party passed beneath it one season back and marked the grove empty in its tally.
 

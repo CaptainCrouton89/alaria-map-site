@@ -2,6 +2,8 @@
 id: "race-lizardfolk-ixlorett"
 name: "Ix'Lorett"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Iguana-like contemplatives of M'Svyla's forests and Crystal Mountains; philosophers and artists with legendary regenerative abilities who prize beauty."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }

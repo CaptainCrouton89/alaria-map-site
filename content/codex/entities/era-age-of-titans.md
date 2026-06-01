@@ -24,7 +24,7 @@ After them came Lyzaria, the first daughter, and with her the first true titan w
 
 ### The Lyzaria Era: 23.5–18 million years ago
 
-Titans populated all three planes. Their most epic civilizations rose in the depths of the Astral Sea and deep in the caves of Malstaris. Titan consciousness was powered by pure Deoric structure — they had will without feeling, purpose without passion, for Alaria had no Ezz during this age.
+Titans populated all three planes. Their most epic civilizations rose in the depths of the Astral Sea and deep in the caves of Malstaris. Titan consciousness was powered by pure Deoric structure — they had will without feeling, purpose without passion, for Alaria had no Ezz during this age. The nine Elemental Planes already lay adjacent to the world, part of the same Azus-ordered architecture, but nothing could reach them. With no Ezz there was no emotion to spend and no Kethic to shape the crossing, so the elemental stack stayed sealed until Gaea found the leyline bridge after the Rift.
 
 Lyzaria was obsessed with endings. She chose to die — the first titan to willingly end her own existence. When she did, her soul rose to the Astral Plane and her shadow sank to Malstaris, carving the two original channels every later death flows through. Her soul spread across the Astral Sea and became the foundational substrate that later souls settle into — scholars call this presence the Dreaming of Lyzaria. Her shadow became the first and most ancient of the Shadow Lords: the First Dark. At this moment mortality had two strands only; a third would not exist until Ezz reshaped the world.
 

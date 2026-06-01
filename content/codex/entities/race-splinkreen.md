@@ -2,6 +2,8 @@
 id: "race-splinkreen"
 name: "Splinkreen"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Splinkreen are the living legacy of an ancient wizard's experiment, their souls transplanted from mighty trees into humanoid forms."
 sources:
   - "races/Splinkreen.md"

@@ -2,6 +2,8 @@
 id: "race-bfaspeen"
 name: "Bfaspeen"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Bfaspeen are horrid, aquatic monstrosities that plague the Bejeweled Sea."
 sources:
   - "races/Bfaspeen.md"
@@ -12,6 +14,10 @@ review:
 The Bfaspeen are horrid, aquatic monstrosities that plague the Bejeweled Sea. With the lower body of a powerful eel and a torso dominated by mandibles and bulbous eyes, they are the stuff of sailors' nightmares. They live in strict matriarchal broods, where the males are subservient hunters who drag prey back to the deep lairs to be consumed.
 
 They have a pathological lust for gold and shiny objects, often attacking ships not just for food, but to sink them and loot the wreckage. Bfaspeen are cruel and intelligent, capable of coordinating complex raids on merchant vessels. Their underwater hoards glitter with centuries of accumulated treasure, jealously guarded by the brood mothers.
+
+### The making
+
+Gaea made the Bfaspeen in the dark of the deep sea, one of her eel-shaped animal-children named at the Birth of Man (see [[race-beastman]]). She gave the eel its mandibles and a hunger that fixes on whatever glints where almost no light reaches; in the deep, the thing that glints is gold. The matriarchal broods and their spent hunter-males are later custom, but the lust for bright metal was set in the true name from the first.
 
 ### Vitals
 - **Size:** Medium

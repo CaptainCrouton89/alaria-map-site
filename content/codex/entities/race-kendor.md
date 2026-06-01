@@ -2,6 +2,8 @@
 id: "race-kendor"
 name: "Kendor"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Kendor are an ancient aquatic people whose grace and beauty are matched only by their mastery of courtly intrigue."
 sources:
   - "races/Kendor.md"
@@ -9,9 +11,18 @@ review:
   aiWritten: false
   action: keep
 ---
-The Kendor are an ancient aquatic people whose grace and beauty are matched only by their mastery of courtly intrigue. Evolved from seahorses in the warm tropical seas, they have developed into bipedal beings who can thrive both in water and on land, though they vastly prefer their hidden underwater palaces. Their elongated, elegant forms move with hypnotic fluidity, and their iridescent scales shift color with their moods and intentions.
+The Kendor are an ancient aquatic people whose grace and beauty are matched only by their mastery of courtly intrigue. Gaea made them in the likeness of the seahorse, one of her minor animal-children of the warm tropical seas, bipedal from the first and able to live in water and on land, though they vastly prefer their hidden underwater palaces. Their elongated, elegant forms move with hypnotic fluidity, and their iridescent scales shift color with their moods and intentions.
 
-Kendor society revolves around elaborate courtship rituals, political maneuvering, and the cultivation of beauty in all its forms. Violence is considered the ultimate vulgarity—a last resort for those who lack the wit and charm to achieve their goals through more civilized means. Their hidden fortress-cities are marvels of coral architecture and bioluminescent gardens, accessible only to those who know the secret currents and can navigate the maze-like approaches.
+### The making
+
+The Kendor are beastfolk, named at the Birth of Man with all of Gaea's minor animal-children (see [[race-beastman]]). Their true name is the warm-water seahorse-person, and like every beastman kind it does not drift; a Kendor is now exactly what Gaea made it then. The warmth their bodies require was set into them at the making and cannot be unset. That is why temperate and polar waters are not merely unpleasant to a Kendor but physiologically hostile.
+
+What made the Kendor the people they are now was not the making but a catastrophe long after it. In distant prehistory the aquatic peoples of what is now Adron were driven from their home, the tritons fleeing north for reasons lost even to the naga who displaced them. Not every kind went with them. The seahorse-people faced a choice their own bodies had already decided: follow the exodus into the cold deep water that would kill them, or stay in the warm southern shallows they had been named for. The ones who tried to follow did not last. The ones who stayed are the Kendor. The catastrophe worked by subtraction rather than change: it cut away everything in them that was not true to the warm shallows and fixed the rest in place, and their entire range, their thermal limits, and the inward-turned court culture that grew up in the safety of the reefs all date from the staying.
+
+> The tritons say we hid while they fought. We did not hide. We stayed where we could live, and we have lived there ever since.
+> — a Pelaendor envoy, to the naga court at Adron
+
+Kendor society revolves around elaborate courtship rituals, political maneuvering, and the cultivation of beauty in all its forms. Violence is considered the ultimate vulgarity, a last resort for those who lack the wit and charm to achieve their goals through more civilized means. Their hidden fortress-cities are marvels of coral architecture and bioluminescent gardens, accessible only to those who know the secret currents and can navigate the maze-like approaches.
 
 ### Vitals
 - **Size:** Medium
@@ -19,11 +30,11 @@ Kendor society revolves around elaborate courtship rituals, political maneuverin
 - **Weight:** 140-200 pounds
 
 ### Distribution & Diaspora
-The Kendor are far more widespread than surface-dwellers realize. The three Kendrel Kingdoms of the Agreben Sea represent only the most visible concentration—the settlements that chose to engage with the surface world. Across the world's oceans, other Kendor communities exist in varying degrees of isolation.
+The Kendor are far more widespread than surface-dwellers realize. The three Kendrel Kingdoms of the Agreben Sea represent only the most visible concentration, the settlements that chose to engage with the surface world. Across the world's oceans, other Kendor communities exist in varying degrees of isolation.
 
 **Why the concentration in Agreben?** Several factors:
 
-- **Thermal requirements**: Kendor evolved in tropical waters and require warm temperatures to thrive. The Agreben Sea's shallow, sun-warmed continental shelf provides ideal conditions. Temperate and polar waters are physiologically hostile.
+- **Thermal requirements**: Kendor were made for tropical waters and need warm temperatures to thrive. The Agreben Sea's shallow, sun-warmed continental shelf provides ideal conditions. Temperate and polar waters are physiologically hostile.
 - **Bfaspeen pressure**: The eel-bodied Bfaspeen broods dominate much of the world's deep ocean, forcing Kendor into defensive enclaves along continental shelves where shallow water provides natural protection.
 - **Surface-interaction bias**: Most Kendor communities refuse contact with "land-dwellers." The Kendrel Kingdoms are unusual in their willingness to trade with surface nations. Other communities exist but remain hidden.
 
@@ -39,16 +50,16 @@ The Kendor are far more widespread than surface-dwellers realize. The three Kend
 ### Relationship with Tritons
 The Kendor and the Tritons of Vetral share ancient origins but have diverged profoundly over millennia.
 
-**The Common Ancestry**: Both peoples trace their origins to the prehistoric aquatic civilizations that once flourished in what is now Adron. When the tritons fled Adron in distant prehistory (the reasons lost even to the naga who displaced them), not all underwater peoples went with them. The ancestors of the Kendor remained in warmer southern waters, evolving separately.
+**The Common Ancestry**: Both peoples trace their origins to the prehistoric aquatic civilizations that once flourished in what is now Adron. When the tritons fled Adron in distant prehistory (the reasons lost even to the naga who displaced them), not all underwater peoples went with them. The ancestors of the Kendor stayed in the warm southern shallows their bodies were named for, and the staying is what set the two peoples on separate histories (see The making, above). What has diverged since is custom and bearing, not blood; the Kendor did not become a new thing, they held to the thing they were made to be while the world around them changed.
 
 **Modern Relations**: Cool and distant. The two civilizations maintain formal diplomatic contact through Pelaendor intermediaries but view each other with mutual disdain:
 
-- Tritons consider Kendor effete and cowardly—hiding behind reefs while Vetral fights the Bfaspeen directly, obsessing over courtship games while the real war for oceanic survival is being lost.
-- Kendor consider tritons crude and militaristic—a theocracy of warriors who've forgotten that civilization means more than fighting. The triton obsession with "Old Lanes" and sovereignty claims strikes Kendor as unsophisticated posturing.
+- Tritons consider Kendor effete and cowardly, hiding behind reefs while Vetral fights the Bfaspeen directly, obsessing over courtship games while the real war for oceanic survival is being lost.
+- Kendor consider tritons crude and militaristic, a theocracy of warriors who've forgotten that civilization means more than fighting. The triton obsession with "Old Lanes" and sovereignty claims strikes Kendor as unsophisticated posturing.
 
 **The Bfaspeen Question**: Both peoples fight the Bfaspeen, but they don't coordinate. The Agreben Sea and Alrock Ocean are separated by vast distances, and neither civilization is willing to subordinate itself to the other's strategic priorities. Occasional proposals for alliance founder on questions of command, prestige, and fundamental cultural incompatibility.
 
-**Trade**: Limited but present. Pelaendor traders occasionally reach Vetral-controlled waters, exchanging Kendrel luxury goods for triton forgecrab metal and deep-sea salvage rights. These transactions are strictly commercial—neither side pretends friendship.
+**Trade**: Limited but present. Pelaendor traders occasionally reach Vetral-controlled waters, exchanging Kendrel luxury goods for triton forgecrab metal and deep-sea salvage rights. These transactions are strictly commercial, neither side pretends friendship.
 
 ### Heritages
 - **Kendrel** (Court Kendor) — Masters of etiquette and social manipulation in hidden palace-fortresses beneath tropical reefs. See [[race-kendor-kendrel]].

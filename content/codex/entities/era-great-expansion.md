@@ -18,7 +18,7 @@ The Great Expansion is the first age of the Modern Era, spanning 9,950–0 BSD. 
 
 ### Frost Fall: 8,840–8,695 BSD
 
-A 145-year period of severe cold that tested the early recovery of civilization.
+A 145-year period of severe cold that tested the early recovery of civilization. The water plane Pelus had drifted close against the material world and held there, and the cold bled through until it withdrew. Its course and lasting mark are covered in the Frost Fall's own entry.
 
 ### The Return of Dragons: 8,104 BSD
 
@@ -26,4 +26,4 @@ Most sentient creatures did not get along with dragons, who were quickly taking 
 
 ### The World Fire: 10 BSD
 
-The Great Expansion ends with the World Fire — a catastrophic event marked as zero on many calendars, defining the boundary between the BSD and SD dating systems. The World Fire is treated as its own era given its significance as a civilizational threshold.
+The age ended when a fire-paragon over-channeled the Yolus seam until it ruptured, the cataclysm that gives the World Fire its name and sets calendar zero between the BSD and SD reckonings. Its course and lasting scar are covered in the World Fire's own entry.

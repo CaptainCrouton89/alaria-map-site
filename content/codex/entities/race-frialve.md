@@ -2,6 +2,8 @@
 id: "race-frialve"
 name: "Frialve"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Frialve are a bird-like race residing in the sprawling jungle city of Bygos Shemazari."
 relations:
   - { rel: culture, kind: worships, target: "daemon-shrazvi" }
@@ -14,6 +16,10 @@ review:
 The Frialve are a bird-like race residing in the sprawling jungle city of Bygos Shemazari. Their heads are dominated by massive beaks, and their arms are feathered, functioning as stunted wings. Though they cannot truly fly, they are agile jumpers and climbers, using their wings to glide between the massive trees of their homeland.
 
 Their city is a low-density sprawl of nests and tree-homes stretching for hundreds of miles through the jungle canopy. They communicate through complex bird calls that can carry for miles through the forest, allowing them to coordinate hunts and warn of dangers across vast distances. To outsiders, the jungle seems empty—but the Frialve are always watching, always listening.
+
+### The making
+
+The Frialve are beastfolk of the jungle, a bird-people Gaea named at the Birth of Man (see [[race-beastman]]). She made them for the canopy and not the open air above it, so the wings she gave them carry a glide between the great trees but never a true climb into the sky. A Frialve belongs to the green roof of the world the way a fish belongs to a river, and the nest-city of Bygos Shemazari is that belonging built out across hundreds of miles.
 
 ### Vitals
 - **Size:** Medium

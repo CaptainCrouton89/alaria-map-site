@@ -2,6 +2,8 @@
 id: "race-human-nuun"
 name: "Nuun"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Golden- or ice-eyed desert people of Kura; master traders who blend elemental magic with a deep reverence for beauty and knowledge."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Nuun are a desert people blessed with striking golden or ice-blue eyes that reflect their deep attunement to the primal elements of fire and water. Dark-skinned and dark-haired, they have built magnificent cities in the desert realm of Kura, where their mastery of trade has brought wealth and their appreciation for beauty has created architectural wonders that rival any in the known world.
+The Nuun are a desert people blessed with striking golden or ice-blue eyes that reflect their deep attunement to the primal elements of fire and water. Dark-skinned and dark-haired, they have built magnificent cities in the desert realm of Kura, where their mastery of trade has brought wealth and their appreciation for beauty has created architectural wonders that rival any in the known world. The Nuun are a people of the human, shaped by the elemental traditions and trade culture of Kura, not a separate biological lineage.
 
 Education and proper upbringing are cornerstones of Nuun society. Every child is taught not only practical skills but also philosophy, art, and the appreciation of beauty in all its forms. Their cities are filled with fountains, gardens, and structures that seem to defy the harsh desert environment through the careful application of elemental magic.
 

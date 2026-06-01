@@ -2,8 +2,10 @@
 id: "race-elf-amverela"
 name: "Amverela"
 entityType: race
+entityCategory: culture
 blurb: "Most prolific and long-living elves, renowned across Alaria for extraordinary skill, wisdom, and building magnificent utopian cities."
 aliases: ["High Elf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
@@ -15,7 +17,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Amverela are the most prolific and long-living of the elves, and most interactive with the other inhabitants of Alaria. Partially due to their long life times, but especially due to their extreme wisdom, passion, and expertise, the Amverela are some of the longest running ethnic identities among all people on Alaria—having survived numerous cataclysmic events, wars, and famines while remaining relatively culturally intact.
+The Amverela are a people of the elf, not a separate lineage — a community defined by their long-accumulated wisdom and cultural continuity, not by distinct biology. The Amverela are the most prolific and long-living of the elves, and most interactive with the other inhabitants of Alaria. Partially due to their long life times, but especially due to their extreme wisdom, passion, and expertise, the Amverela are some of the longest running ethnic identities among all people on Alaria—having survived numerous cataclysmic events, wars, and famines while remaining relatively culturally intact.
 
 They place a higher value on investing in themselves, their relationships, and their communities. This has led them to building some of the most magnificent cities in Alaria—utopian, by most standards.
 

@@ -2,8 +2,10 @@
 id: "race-dwarf-uline"
 name: "Uline"
 entityType: race
+entityCategory: culture
 blurb: "Industrious underground dwarves who adapted to mine life over generations; pragmatic and stubborn, masters of iron combat and air-circulation engineering."
 aliases: ["Chain Dwarf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
   - { rel: culture, kind: worships, target: "daemon-krondeum" }
@@ -15,7 +17,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Uline originated from a particularly productive iron mine, many thousands of years ago. The mine, which had struck a rich vein of ore was so vast and deep that it would inevitably take more than a generation to complete. Rather than journey to and from the surface daily, they discovered that it was more efficient to temporarily station some dwarves within the mines for days, or even weeks at a time. With time, these temporary stations became more permanent residencies, and eventually, entire settlements. These dwarves became the Uline—named after the settlement that grew up in that first mine. Today, the Uline are the most industrious of the dwarves, preferring to live underground, mining, and making their homes in the mountains beneath the surface.
+The Uline are a people of the dwarf, not a separate lineage — gradual mine settlement shaped a culture, not a biological divergence. The Uline originated from a particularly productive iron mine, many thousands of years ago. The mine, which had struck a rich vein of ore was so vast and deep that it would inevitably take more than a generation to complete. Rather than journey to and from the surface daily, they discovered that it was more efficient to temporarily station some dwarves within the mines for days, or even weeks at a time. With time, these temporary stations became more permanent residencies, and eventually, entire settlements. These dwarves became the Uline—named after the settlement that grew up in that first mine. Today, the Uline are the most industrious of the dwarves, preferring to live underground, mining, and making their homes in the mountains beneath the surface.
 
 Living underground came with several unexpected effects, that the Uline now embrace or have adapted to. Beneath the surface, there are few people who can interfere with a settlement's growth. Defense from invaders is easier when underground, which has allowed the Uline to allocate more resources towards magnificent palaces, inventions, and other intellectual efforts. Additionally, within a single generation, the number of earth attuned individuals increased drastically, enhancing the population's ability to mine and control their environment underground.
 

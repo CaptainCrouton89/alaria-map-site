@@ -2,6 +2,8 @@
 id: "race-swordsmen"
 name: "Swordsmen"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "The Swordsmen are a notorious seafaring people whose name strikes fear into merchant vessels across the known seas."
 relations:
   - { rel: culture, kind: worships, target: "daemon-marolan" }
@@ -11,7 +13,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Swordsmen are a notorious seafaring people whose name strikes fear into merchant vessels across the known seas. Their bronze skin bears faint scale patterns, but it's their eyes that truly unnerve—beady and dark like a shark's, constantly calculating weakness and opportunity. These eyes can shift from appearing almost human to utterly predatory in an instant, betraying the cold ruthlessness that lurks beneath even the friendliest smile.
+The Swordsmen are a notorious seafaring people whose name strikes fear into merchant vessels across the known seas. They are bronze-skinned human seafarers, an ethnic people of humankind, not a separate lineage. Their bronze skin bears faint scale patterns, but it's their eyes that truly unnerve—beady and dark like a shark's, constantly calculating weakness and opportunity. These eyes can shift from appearing almost human to utterly predatory in an instant, betraying the cold ruthlessness that lurks beneath even the friendliest smile.
 
 Born to the blade and raised on the deck, Swordsmen possess an almost supernatural ability to fight in the chaotic environment of ship-to-ship combat. They treat sword fighting not as an art but as a brutal necessity, incorporating dirty tricks and psychological warfare that would make honorable duelists blanch. Their techniques involve using the ship itself as a weapon—rigging, railings, and rolling decks all become extensions of their blade work.
 

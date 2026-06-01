@@ -2,14 +2,16 @@
 id: "race-belgron"
 name: "Belgron"
 entityType: race
-blurb: "The Belgron are a distinct offshoot of cyclopes, known for their massive, overweight frames and distinctive purplish skin."
+entityCategory: race
+tags: ["playable"]
+blurb: "A massive, indulgent highland people of purplish skin and enormous bulk, solitary hedonists whose contented sluggishness hides a landslide's strength."
 sources:
   - "races/Belgron.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Belgron are a distinct offshoot of cyclopes, known for their massive, overweight frames and distinctive purplish skin. Unlike their more athletic cousins who forge weapons or tend sheep in the mountains, the Belgron are creatures of excess and indulgence. They are often solitary, claiming large territories where they can eat and lounge undisturbed.
+The Belgron are a massive, slow-moving people of the dry highlands, known for their overweight frames and distinctive purplish skin. They are their own breed and have held the broken uplands as long as anyone can record, never numerous and never crowding together. They are creatures of excess and indulgence, often solitary, claiming large territories where they can eat and lounge undisturbed.
 
 Despite their sluggish appearance, their bulk hides a terrifying strength. A Belgron in motion is like a landslide—unstoppable and destructive. They are not unintelligent, but their minds are often focused entirely on their next meal or comfort, making them seem simple to those who don't understand their hedonistic philosophy. A contented Belgron is surprisingly philosophical, discoursing on the nature of pleasure and satisfaction between enormous bites of roasted goat.
 

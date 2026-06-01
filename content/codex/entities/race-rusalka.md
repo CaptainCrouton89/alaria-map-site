@@ -1,7 +1,9 @@
 ---
 id: "race-rusalka"
 name: "Rusalka"
-entityType: race
+entityType: creature
+entityCategory: creature
+tags: ["playable"]
 blurb: "The Rusalka are solitary predators of swamps and marshes, appearing as beautiful women who lure travelers to watery graves."
 sources:
   - "races/Rusalka.md"

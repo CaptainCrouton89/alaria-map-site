@@ -2,6 +2,8 @@
 id: "race-lizardfolk"
 name: "Lizardfolk"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Lizardfolk are an ancient people who walked Alaria long before the rise of the younger races."
 sources:
   - "races/Lizardfolk.md"
@@ -9,9 +11,17 @@ review:
   aiWritten: false
   action: keep
 ---
-The Lizardfolk are an ancient people who walked Alaria long before the rise of the younger races. Their societies evolved in isolation, developing along four distinct paths shaped by the harsh environments they call home. While outsiders often dismiss them as primitive savages, the Lizardfolk possess complex social structures and deep cultural traditions passed down through countless generations.
+The Lizardfolk are an ancient people who walked Alaria long before the rise of the younger races. Their societies took shape in isolation, developing along four distinct paths set by the harsh environments they call home. While outsiders often dismiss them as primitive savages, the Lizardfolk possess complex social structures and deep cultural traditions passed down through countless generations.
 
-All Lizardfolk share certain traits: they are cold-blooded, requiring external heat to maintain their energy; they possess scales that provide natural protection; and they view the world through the lens of predator and prey—a perspective that makes them seem alien and cruel to warm-blooded races. Yet this same perspective has allowed them to survive and thrive in some of Alaria's most inhospitable regions.
+All Lizardfolk share certain traits: they are cold-blooded, requiring external heat to maintain their energy; they possess scales that provide natural protection; and they view the world through the lens of predator and prey, a perspective that makes them seem alien and cruel to warm-blooded races. Yet this same perspective has allowed them to survive and thrive in some of Alaria's most inhospitable regions.
+
+### The making
+
+The Lizardfolk are Gaea's reptile-kind, named at the Birth of Man with all her minor animal-children (see [[race-beastman]]). That they walked Alaria long before the younger races is true, but it does not make them older than their making; every beastman kind dates to the same brief season of Gaea's work, and the Lizardfolk are no exception. What sets them apart is what she named into the body. She made them cold-blooded, which is to say she made a people whose warmth does not come from inside them. It comes from the world, or it does not come at all.
+
+Everything else follows from that single fact. A Lizardfolk wakes when the sun or the stone or the vent gives it heat and slows toward stillness when the heat is taken away; the day is not theirs to spend until the world has funded it. A mind built around that dependency learns to read the world as the dependency demands, and so the Lizardfolk read every place and every creature as one of two things: a source of the heat they cannot make for themselves, or a threat to it. This is the predator-and-prey lens the warm-blooded races find so cold in them. It is not cruelty. It is the shape a thought takes when the one thinking it can never once stop reckoning where the next warmth will come from.
+
+> A hunting band of Ix'Vasyla at first light, laid out motionless on a slab of black rock above the Nashua marsh, scales turned flat to catch the early sun. They have lain there since before dawn, unable to move faster than a crawl until the stone gives the day's heat back into them. The prey they are waiting on knows this, and crosses the open ground early, while the marsh is still cold and the hunters are still slow. Both sides are reading the same temperature off the same stone.
 
 ### Vitals
 - **Size:** Medium

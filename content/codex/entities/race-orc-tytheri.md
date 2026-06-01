@@ -2,6 +2,8 @@
 id: "race-orc-tytheri"
 name: "Tytheri"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Bleached-white orcs transformed by ancient ichor from the cursed Agony Stones; Tythmasters grow to ten feet and lead through blood-ritual power."
 aliases: ["Blood Orc"]
 relations:

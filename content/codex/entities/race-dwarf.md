@@ -2,6 +2,8 @@
 id: "race-dwarf"
 name: "Dwarf"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Dwarves are a short but hearty people, and are generally more pragmatic than the other races."
 sources:
   - "races/Dwarf.md"
@@ -10,6 +12,14 @@ review:
   action: keep
 ---
 Dwarves are a short but hearty people, and are generally more pragmatic than the other races. While some live underground, many more do not.
+
+### Origin
+
+Dwarves are the youngest of the old peoples, and they were made by a disease. About thirty thousand years ago the Laughing Plague came to Alaria out of the plane of Glyssen and drove nearly everyone it touched into a fevered, murderous, laughing madness. A few in every population proved naturally resistant. They did not go mad, but the sickness still worked on them, and the ones who lived sealed themselves away from the laughter in the deep stone while the surface tore itself apart above.
+
+What happened in the deep was not survival alone. Down in the old places the rock is threaded with titan-bone, and titan-bone holds Deoric, the command-language that costs life to speak. Pressed against the living stone of the Stone Elemental Plane and its Kethic current, that buried Deoric woke and spent itself on the survivors all at once. It burned the plague out of them, and the cure took the life-price Deoric always takes, paid by the Deoric itself as it consumed away in the working. In the same stroke it wrote the stone into the survivors and fixed it there. They came up shorter, harder, slower to age, set against the world the way rock is set against everything, and their children were born the same. This was not a band of humans slowly adapting to a life underground. It was a single event that ended with a new species where the plague-survivors had gone in. It is why the Uline and the Hestrube run so close to earth and stone in their blood; the alignment is older than either culture, struck into the whole race at its making.
+
+The plague never ended. It still circulates in the deepest tunnels, down among the Kackles, and the Uline hold the line against it the way their ancestors first did, by keeping to the deep stone and not letting the laughter back up into the light.
 
 ### Vitals
 - **Size:** Medium
@@ -28,11 +38,10 @@ Dwarves are a short but hearty people, and are generally more pragmatic than the
 - **Strømgodden** (Battle Dwarves) — Battle-devoted dwarves of Trømgar whose spiked armor turns their bodies into weapons; glorious combat is a sacred offering and rite of passage. See [[race-dwarf-stromgodden]].
 - **Nydor** (Dark Dwarves) — Aureum breakaway who embraced darkness; tusked, ash-skinned master slavers of Emblydium who trade war machines for captives under the black sun. See [[race-dwarf-nydor]].
 - **Velwey** (Dream Dwarves) — Dream-harvesting dwarves of Movasi who extract and crystallize dreams via hallucinogens, Psy dream-walking, and Deoric ritual; not a playable race. See [[race-dwarf-velwey]].
-- **Einwissel** (Celestial Draugr) — Descendants of dwarves who survived the planar journey from Celesté; blue-gray psychic dwarves whose exposed true names make them vulnerable to mystical attack. See [[race-dwarf-einwissel]].
 - **Surry** (White Dwarves) — Translucent-skinned deep-cave dwarves adapted to total darkness; pragmatic cannibals who view all flesh as sustenance in their resource-scarce fungal kingdom. See [[race-dwarf-surry]].
 - **Gruynmar** — Bronze-skinned seafaring dwarves who live on iron clan-ships; sole keepers of gunpowder secrets, feared naval warriors with deep clan loyalty. See [[race-dwarf-gruynmar]].
 - **Fengruk** (Forgewardens) — Sacred smiths of Gondurak who treat the forge as a life metaphor; patient teachers shaped by the belief that hardship and discipline temper true potential. See [[race-dwarf-fengruk]].
-- **Cendelle** (Celestial Draugr) — Ancient guardians of portals to Celesté beneath Dnykuul; millennia of planar exposure grants silvery-flecked eyes and awareness of otherworldly presences. Not a playable race. See [[race-dwarf-cendelle]].
+- **Cendelle** (Celestial Draugr) — Ancient guardians of portals to Celesté beneath Dnykuul; millennia of planar exposure grants silvery-flecked eyes and awareness of otherworldly presences; true-name exposure makes them vulnerable to mental attack. See [[race-dwarf-cendelle]].
 - **Sennites** (Lake Dwarf) — Slimy green-skinned lake-adapted dwarves of Sennos who traded forbidden Deoric secrets with deep entities to survive a flooding catastrophe; reviled for valuing survival over honor. See [[race-dwarf-sennites]].
 - **Zwaeron** (Tundra Dwarf) — Gray-blue, frizzy orange-haired tundra dwarves who abandoned mines for the open snow; nomadic dire wolf riders who scorn underground life and prize freedom. See [[race-dwarf-zwaeron]].
 - **Dernish** — Siege-adapted mountain dwarves of the central Widebarrow whose concentric capital and deep-debt service rotations are built around the generational Lyzine threat from below. See [[race-dwarf-dern]].
@@ -100,9 +109,9 @@ Additionally, whenever you are grappled while wearing your spiked armor, the ene
 **Passive ability.**
 You gain a basic attunement to darkness, and you have advantage on crafting checks for weapons, armor, and restraints.
 
-### Einwissel (Celestial Draugr) — Celestial Resonance
+### Cendelle (Celestial Draugr) — Celestial Resonance
 **Passive ability.**
-You can telepathically communicate with other Einwissel within 1 mile and share rush points with willing Einwissel within 30 feet during combat. When another Einwissel within 30 feet takes damage, you may choose to split the damage between both of you.
+You can telepathically communicate with other Cendelle within 1 mile and share rush points with willing Cendelle within 30 feet during combat. When another Cendelle within 30 feet takes damage, you may choose to split the damage between both of you.
 
 However, any creature that learns part of your true name gains advantage on all mental attacks against you, and you automatically fail saves against effects that target your true name.
 

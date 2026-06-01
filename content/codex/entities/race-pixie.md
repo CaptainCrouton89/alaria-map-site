@@ -2,16 +2,22 @@
 id: "race-pixie"
 name: "Pixie"
 entityType: race
-blurb: "Born from the intersection of the material plane and the realm of fae, pixies are diminutive winged beings who exist in a state of heightened…"
+entityCategory: race
+tags: ["playable"]
+blurb: "Diminutive winged beings born where Melera's escaped music runs thick through the world; they hear the Faesong in all things and live by emotional resonance."
 sources:
   - "races/Pixie.md"
 review:
   aiWritten: false
   action: keep
 ---
-Born from the intersection of the material plane and the realm of fae, pixies are diminutive winged beings who exist in a state of heightened emotional and magical awareness. All pixies can hear the underlying Faesong that resonates through reality—a melody imperceptible to most other creatures. This attunement to the emotional and magical currents of the world shapes every aspect of pixie society, from their fierce protectiveness of natural spaces to their complex social hierarchies built on emotional resonance rather than physical might.
+When Melera's stolen ripple of music cracked the Alarian stack and let Ezz flood the world, the emotion did not arrive evenly. It moved like water, and it pooled. Faesong, the feeling-half of Ezz, runs thin across most of the material world and thick in a few places: old groves, certain springs, the deep green folds of a forest that has never been cut. Where it runs thickest, it condenses, and a pixie is what it condenses into. They are not visitors from some separate country of the fae. There is no such country. A pixie belongs to the exact patch of the living world where the music gathered enough to make one.
 
-Pixies reproduce through a mystical process involving moonlight, flower nectar, and concentrated emotional energy. A new pixie emerges fully formed from a bloom after a gestation of exactly one lunar cycle, inheriting not just physical traits but emotional memories from their progenitors.
+A pixie hears the Faesong the way other creatures hear sound, the same melody Melera plays from her prison, and through it feels the emotional weather of everything nearby. This is less a gift the pixie uses than the thing it is for. Where the current runs clean, pixies tend it and guard the place without mercy. Where it sickens or thins or turns, they feel the wrongness before anything else does, and they leave or they fight. Their courts rank their members by emotional resonance rather than size or strength, which is why a pixie hierarchy can look, to an outsider, ordered by a logic no outsider can hear.
+
+> A spring in the Nykotheryx understory where the moss grows in a perfect ring. Stand in it at dusk and the air hums just under hearing. The pixies will not suffer the surrounding trees to be cut, and three logging concerns have learned this the hard way. The fourth pays them, and not in coin.
+
+Pixies reproduce through a slow working of moonlight, flower nectar, and gathered emotional energy. A new pixie emerges fully formed from a bloom after a gestation of exactly one lunar cycle, carrying not only the physical traits of its progenitors but their emotional memories, so that it is born already knowing some of what its parents felt.
 
 ### Vitals
 - **Size:** Minuscule

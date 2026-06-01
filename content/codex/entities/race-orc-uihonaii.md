@@ -2,6 +2,8 @@
 id: "race-orc-uihonaii"
 name: "Uihonaii"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Forest-bonded orcs whose dead become trees; bark-skinned and centuries-wise, they transform at death and are reborn from sacred wood."
 aliases: ["Wooden Men"]
 relations:

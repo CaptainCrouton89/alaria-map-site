@@ -2,6 +2,8 @@
 id: "race-gnome-foxborne"
 name: "Foxborne"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Chivalric fox-riding gnomes of Cherry Blossom Valley, built around courtly traditions and honor above all else."
 aliases: ["Noble Gnome"]
 relations:
@@ -13,6 +15,8 @@ review:
   aiWritten: false
   action: keep
 ---
+The Foxborne are a people of the gnome, not a separate lineage — a chivalric tradition born in Cherry Blossom Valley that shaped a culture of honor and fox-companionship, not a distinct descent.
+
 The Foxborne are a gallant and noble breed of gnomes who dwell in the picturesque Cherry Blossom Valley. These refined gnomes have formed deep bonds with foxes, riding them as mounts and treating them as honored companions rather than mere beasts. Their society is built around chivalric ideals and courtly traditions, making them perhaps the most aristocratic of all gnomish communities.
 
 The Foxborne value honor, loyalty, and grace above all else. Their cherry blossom-adorned settlements are marvels of elegant architecture, and their mounted cavalry units are both beautiful and formidable in combat.

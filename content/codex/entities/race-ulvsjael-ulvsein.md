@@ -2,6 +2,8 @@
 id: "race-ulvsjael-ulvsein"
 name: "Ulvsein"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Ulvsjael who believe each wolf must survive alone, becoming legendary scouts and trackers whose solitary skills strengthen the whole pack."
 aliases: ["Lone Wolf"]
 relations:
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Ulvsein represent a paradox in Ulvsjael culture - those who honor the wolf mother by walking alone. They believe that while Ulvma fought with the pack, she died surrounded yet ultimately alone, teaching that every wolf must be capable of surviving without others. These Ulvsjael become legendary scouts, trackers, and assassins, developing an almost supernatural connection to the wilderness.
+The Ulvsein are a people of the ulvsjael, not a separate biological lineage — a loner philosophy that honors Ulvma by walking alone rather than with the pack, defined by tradition, not by any divergence from the shared wolf-blood. The Ulvsein represent a paradox in Ulvsjael culture - those who honor the wolf mother by walking alone. They believe that while Ulvma fought with the pack, she died surrounded yet ultimately alone, teaching that every wolf must be capable of surviving without others. These Ulvsjael become legendary scouts, trackers, and assassins, developing an almost supernatural connection to the wilderness.
 
 Where Ulvskkyn see strength in unity, Ulvsein find it in self-reliance. They often serve as far-ranging scouts for Ulvsjael communities or work as guides and hunters for other races. Their philosophy isn't a rejection of the pack but rather a belief that the pack is strongest when each member could survive alone. They return to their communities with valuable skills and knowledge gained from solitary wandering.
 

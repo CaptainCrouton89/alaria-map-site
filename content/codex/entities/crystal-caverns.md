@@ -21,7 +21,7 @@ The crystals are among the most valuable magical resources on the Emerald Coast.
 
 #### The Leyline Intersection
 
-Where the Nilus (Force) and Golus (Earth) leylines cross, their energies do not harmonize. They grind.
+Where the Dynus (Force) and Golus (Earth) leylines cross, their energies do not harmonize. They grind.
 
 The Earth leyline seeks stability—stone wants to be stone, unmoved and eternal. The Force leyline is pure kinetic potential, energy seeking release, pressure demanding outlet. Where they meet, these opposing natures create friction at a metaphysical level. Left unchecked, the intersection would destabilize catastrophically, sending shockwaves through both leylines that could trigger earthquakes across the Emerald Coast.
 
@@ -65,7 +65,7 @@ The signs are subtle but accelerating. The Emerald Coast has experienced a 40% i
 
 A few scholars have noticed the correlation between harvesting and seismic activity. Their warnings have been ignored. The crystal trade is too profitable, and the nations of the Jungles of Godahi cannot afford to surrender it.
 
-The intersection will eventually reach a critical point. When it does, the remaining crystals will shatter simultaneously, releasing centuries of accumulated force magic in a single catastrophic event. The resulting shockwave will propagate through both leylines, triggering earthquakes along the entire Golus network and force discharges along the Nilus.
+The intersection will eventually reach a critical point. When it does, the remaining crystals will shatter simultaneously, releasing centuries of accumulated force magic in a single catastrophic event. The resulting shockwave will propagate through both leylines, triggering earthquakes along the entire Golus network and force discharges along the Dynus leyline.
 
 Current estimates suggest this will occur within two to three centuries if harvesting continues at present rates. Accelerated harvesting could trigger it within decades.
 

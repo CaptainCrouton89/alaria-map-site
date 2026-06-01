@@ -2,6 +2,8 @@
 id: "race-chulpe-terrogones"
 name: "Terrogones"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Massive apex predators of Echem Yiakraxis who use crude tools and sophisticated hunting strategies; their jaws can crush armor and bone."
 aliases: ["The Bone Crushers"]
 relations:

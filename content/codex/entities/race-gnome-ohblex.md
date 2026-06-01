@@ -2,6 +2,8 @@
 id: "race-gnome-ohblex"
 name: "Ohblex"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Crystalline gnomes born from Gemstone Peaks gems; sole clockmaking masters who sustain themselves on jewels and scheme endlessly."
 aliases: ["Gem Gnomes"]
 relations:

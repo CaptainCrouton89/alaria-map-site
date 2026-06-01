@@ -2,6 +2,8 @@
 id: "race-lizardfolk-ixtyrann"
 name: "Ix'Tyrann"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Numerically dominant Lizardfolk of Da Trang's swamps, ruled by chieftain strength and brutality; battle scars are prized, weakness cast out."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-lizardfolk" }

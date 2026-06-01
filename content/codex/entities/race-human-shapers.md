@@ -2,6 +2,8 @@
 id: "race-human-shapers"
 name: "Shapers"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Silver-eyed humans capable of true physical transformation who can perfectly mimic any humanoid; their distinctive eyes never change form."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -16,6 +18,10 @@ The Shapers are perhaps the most distrusted of all human bloodlines, marked by t
 Their abilities are not illusion but true physical transformation, allowing them to perfectly replicate height, build, facial features, and even voice. However, their silver eyes always remain, serving as the only reliable way to identify a Shaper. This limitation has led to widespread fear and suspicion of anyone with silver eyes, even among those who are not Shapers.
 
 Many Shapers struggle with questions of identity, as the ease with which they can become someone else sometimes makes it difficult to remember who they truly are. Some embrace their gift as freedom from the constraints of a single form, while others see it as a curse that forever separates them from genuine human connection.
+
+### The making
+
+The Shapers come from an event, not a bloodline trick or a wizard's design. Their founders were caught in a welling of raw Ezz, the thought-and-feeling substrate that still rises where the old rift-wounds never fully sealed, and Ezz is the very stuff in which form gets decided. Where it flooded them it loosened that decision. An ordinary human line came out of the welling with its true name rewritten to mean the one who is not fixed to a single shape, and the change took at once and bred true after. The silver eyes are the part the Ezz did not touch. They are the one anchor every Shaper keeps through every face they wear, and the only reliable way to know one by sight.
 
 #### Aspects
 - Am I who I appear to be?

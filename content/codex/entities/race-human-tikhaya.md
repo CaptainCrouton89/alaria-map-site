@@ -2,6 +2,8 @@
 id: "race-human-tikhaya"
 name: "Tikhaya"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Self-certain, contemplative humans of central and northern Alaria; philosophers, mathematicians, and martial warriors who value strength and truth over idle talk."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Tikhaya are generous, quiet, and highly value strength and truth. Some would mistake Tikhaya for being socially inept, or boring, but the fact is that Tikhaya are simply uninterested in idle chat, and are comfortable spending time alone and in contemplation. There is a sort of strength that emanates from Tikhaya that has nothing to do with their physiology—but instead from their self-certainty and outlook on the ways of the world. Even Tikhaya children have a sort of natural wisdom about them that is hardly met by even adults of other cultures.
+Tikhaya are generous, quiet, and highly value strength and truth. Some would mistake Tikhaya for being socially inept, or boring, but the fact is that Tikhaya are simply uninterested in idle chat, and are comfortable spending time alone and in contemplation. There is a sort of strength that emanates from Tikhaya that has nothing to do with their physiology—but instead from their self-certainty and outlook on the ways of the world. Even Tikhaya children have a sort of natural wisdom about them that is hardly met by even adults of other cultures. The Tikhaya are a people of the human, defined by a contemplative and martial tradition, not a separate biological lineage.
 
 Tikhaya can be found across central and northern Alaria, as well as the Nautili Archipelago, and are known for their incredible philosophers, mathematicians, and martial warriors.
 

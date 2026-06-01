@@ -2,6 +2,8 @@
 id: "race-ulvsjael"
 name: "Ulvsjael"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Descendants of the warriors who drank the blood of Ulvma, the wolf-mother who fell beside the mortal armies against the titan Hykravones."
 sources:
   - "races/Ulvsjael.md"

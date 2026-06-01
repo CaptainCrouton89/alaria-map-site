@@ -2,6 +2,8 @@
 id: "race-pixie-ianovko"
 name: "Ianovko"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Diaspora illusionist pixies who cannot settle anywhere without it dying around them; the cities they leave behind empty quietly, never violently."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-pixie" }
@@ -12,6 +14,8 @@ review:
   aiWritten: false
   action: keep
 ---
+The Ianovko are a people of the pixie, not a separate bloodline — diaspora illusionists and city-killers whose compulsion to move on is a way of being, not a heritable divergence from pixie stock.
+
 The Ianovko are pixies who cannot stay. Wherever a band of them settles for more than a season, the place around them begins to die, and they have always moved on before it finishes. They do not appear to decide this. It is simply what their presence does to a town, the way damp does to plaster.
 
 Like all pixies, the Ianovko hear the Faesong, the emotional music running under the world. The Ianovko do more than hear it. They negotiate with it. A band settles into the shared imaginative life of a city the way a tenant settles into rooms, and from inside it they revise. They soften a real street into the remembered version of itself. They swap the taste of the well-water for the taste people expect. They replace the thing with the agreed image of the thing, and none of it looks like harm. The first sign is usually that the bells sound slightly wrong, as though rung in the next room over.

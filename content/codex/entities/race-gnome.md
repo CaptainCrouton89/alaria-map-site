@@ -2,6 +2,8 @@
 id: "race-gnome"
 name: "Gnome"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Gnomes are small, naturally magical creatures, resembling miniature humans."
 sources:
   - "races/Gnome.md"
@@ -10,6 +12,13 @@ review:
   action: keep
 ---
 Gnomes are small, naturally magical creatures, resembling miniature humans. They range in height from two to three feet, and are frequently quite slender and nimble. Gnomish adventurers are generally more magically adept than hearty, and will often have entire sleeves of handmagic tattoos stretching up their arms.
+
+That ease with magic is not a talent so much as an unfinished sentence. A gnome is what grows when a Deoric working is begun on living flesh and never closed. The inscriber spent their life on the opening lines, the way Deoric always demands its price in life, and died before reaching the binding that would have ended the command. An unclosed command does not simply dissipate. It keeps reaching for its own completion, and in reaching it took root in the flesh it had been written on and taught itself to copy into the next generation. Every gnome since is born mid-syllable, carrying a command that has been trying to finish itself for as long as there have been gnomes. What other peoples read as natural magic is only that reaching, felt from outside.
+
+A gnome is the whole of that condition, and gnomes have built their lives leaning into it instead of fighting it. The tattoo sleeves are the clearest case. They are not ornament; they are more inscription laid over an already-inscribed people, fresh handmagic written onto a body that was itself written and never finished. In most gnomes the open command runs quietly under the skin and shows only as that lifelong knack. In the Qovryx it surfaces and becomes legible: alabaster oracles who read the threads of fate straight off the unclosed working they carry, and whose stray power can kill the people standing nearest them. The Qovryx are the same condition every gnome carries, only with the lid off.
+
+> You cannot finish what was begun in us. No one living holds the rest of the command. All you can do is lay a clean line down beside it, and mean it.
+> — a maxim among gnomish handmagic tattooists
 
 ### Vitals
 - **Size:** Small
@@ -100,3 +109,6 @@ You can communicate freely with squirrels, badgers, rabbits, foxes, and other sm
 ### Shyoka Saseidi (Forest Gnome) — Forest Stealth
 **Passive ability.**
 You can vanish into the undergrowth with preternatural ease. You can hide even when only lightly obscured by foliage, and you leave no tracks in natural forest environments. You have A2 on stealth checks in forests and woodlands.
+
+<!-- author-notes -->
+The content of the original unfinished command — what the inscriber was trying to make — is deliberately left open for future authoring. The load-bearing fact is that the working was interrupted and bred true incomplete, not what it was for. Do not pin its purpose without coordinating, since it would touch every gnome heritage at once.

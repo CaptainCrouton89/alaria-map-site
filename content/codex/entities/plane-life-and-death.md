@@ -66,6 +66,11 @@ Those who work with the threads directly access the overlay planes. In all three
 - **Necromancers** who sever or manipulate malstaric threads work through the Nethereal Plane, which is why death magic feels cold and invasive—it is literally reaching into the substrate that holds a person together.
 - **Diviners** perceive the vibrations that significant events send through the vast web of threads. The echoes of the past and the nascent tensions of the future are both readable in the thread-substrate.
 
+### Displacement and the Stolen Life
+The threads can be made to give up their owner. The cruelest working of all severs a living person's spirit from the soul and shadow it was born between and unmakes it—the true death, the self gone past remembering—while leaving the body, the soul, and the shadow whole and still bound to one another. Into that emptied but still-living vessel another spirit can be drawn and seated, threaded to the borrowed soul and shadow as though it had been born there.
+
+This is the only road by which a spirit already fallen to Celestia can re-enter the living world without a body of its own kept waiting. A daemon, which is only such a spirit, cannot reclaim its own dissolved flesh; but it can be put into flesh taken from someone else, where there are still hands willing and able to work the rite. What is seated this way comes back mortal, not divine—housed in a borrowed body with a borrowed soul and shadow, it has no more reach across the boundary than the person it replaced, and it ages and dies on the same terms. The working ends one self to house another. It is sometimes suffered willingly, the last gift of a devotee to a dying god, and more often inflicted on someone given no say. Where the knowledge survives it is hoarded and hidden, and in most reckonings counted among the blackest things a person can do.
+
 ### Beings In Between
 Various names are given to the creatures with different combinations of soul, shadow, and spirit. 
 

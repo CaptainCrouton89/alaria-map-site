@@ -2,6 +2,8 @@
 id: "race-chargon"
 name: "Chargon"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Chargon are an enigmatic people whose eel-like heads and serpentine grace mask hearts filled with unexpected kindness."
 sources:
   - "races/Chargon.md"
@@ -14,6 +16,10 @@ The Chargon are an enigmatic people whose eel-like heads and serpentine grace ma
 Masters of stealth and misdirection, the Chargon can slip through shadows and squeeze through impossibly tight spaces with fluid ease. Yet they use these abilities primarily to help others, appearing unexpectedly to offer aid to travelers in need or to resolve conflicts through subtle intervention. Their philosophy emphasizes moving through the world like water—adapting to obstacles rather than confronting them directly.
 
 Chargon communities are often built in coastal caves or riverside settlements where they can easily access both land and water. They serve as intermediaries between different cultures, their natural talent for reading emotional undercurrents making them exceptional mediators and counselors.
+
+### The making
+
+An eel feels the water move before anything in it is seen, and that sense is the whole of what Gaea set into the Chargon when she named them among her animal-children at the Birth of Man (see [[race-beastman]]). In them it turned inward, becoming a feel for the currents under a conversation, the small pressures of mood and intent. The warmth they are known for runs the same way the eel runs through water, by reading the flow rather than fighting it.
 
 ### Vitals
 - **Size:** Medium

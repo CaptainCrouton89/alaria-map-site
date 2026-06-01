@@ -2,6 +2,8 @@
 id: "race-kappa"
 name: "Kappa"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Kappa are massive, toad-like beings that dominate the criminal underbelly of Moigos."
 sources:
   - "races/Kappa.md"
@@ -12,6 +14,10 @@ review:
 The Kappa are massive, toad-like beings that dominate the criminal underbelly of Moigos. Resembling gigantic, toxic toads, they are often obese and sluggish, preferring to have others do their dirty work. They secrete a constant layer of mucous that keeps their skin moist and makes them slippery to hold.
 
 Despite their appearance, they are shrewd, intelligent, and powerful. They run vast criminal syndicates, acting as mob bosses who trade in secrets, illicit goods, and favors. A Kappa never forgets a debt, and their patience is as vast as their appetites. To cross a Kappa is to invite a slow, methodical destruction of everything you hold dear.
+
+### The making
+
+A toad waits. That patience is the whole of the Kappa, who are toad-folk of Gaea's making, named at the Birth of Man with her other animal-children (see [[race-beastman]]). Gaea named into the toad a body that takes what comes to it and poisons what touches it, never hurrying, and the Kappa hold the criminal trade of Moigos in just that manner: by the slow pressure of a debt and the certainty that they can outwait anyone. The patience that makes them crime-lords was never learned, only inherited from the shape Gaea gave them.
 
 ### Vitals
 - **Size:** Large

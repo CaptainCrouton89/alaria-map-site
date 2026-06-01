@@ -2,6 +2,8 @@
 id: "race-giant-greikh"
 name: "Greikh"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "City-building giants of the Xcraya valley, a dozen sovereign city-states that farm, trade, feud, and pen captives in the Prisoner Hills."
 aliases: ["Greikh Giants", "Civilized Giants"]
 relations:
@@ -10,6 +12,8 @@ review:
   aiWritten: false
   action: keep
 ---
+The Greikh are a people of the giant, not a separate bloodline — their civilization of farming, trade, and city-states is a cultural achievement, not a biological divergence from giant stock.
+
 The Greikh are the giants who built cities. Where most of their kind wander or squat in scattered steadings, the Greikh raised walls along the Xcraya River, learned to put seed in the ground, and worked out how to live a dozen city-states deep without eating one another out of field and house. By human measure their cities are crude: heaped stone, timber the size of ship masts, streets laid for legs that cross them in a stride. By giant measure they are a civilization, and the Greikh know the difference. They speak of the savage hill giants of Triuci the way a man speaks of a wolf — kin to the dog, and nothing he would let in the door.
 
 They farm, which sets them apart from the proud herding giants of the northern basins. Greikh fields carry grain bred to giant scale and orchards whose single trees would pass for woodlots elsewhere, and they keep the enormous cattle that anchor every giant's diet. A Greikh city eats from its own valley. That surplus buys them the thing other giants cannot afford, which is politics.

@@ -2,6 +2,8 @@
 id: "race-bogies"
 name: "Bogies"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Bogies are humble frog-folk who have built their peaceful civilization in the wetlands of Kosko."
 sources:
   - "races/Bogies.md"
@@ -14,6 +16,10 @@ The Bogies are humble frog-folk who have built their peaceful civilization in th
 However, the Bogies harbor one of Alaria's deadliest secrets: they produce the most toxic venoms in the known world. Their skin naturally secretes a variety of poisons that they carefully harvest and refine into weapons of terrifying potency. Despite this lethal capability, Bogies are fundamentally peaceful, preferring to hide rather than fight. When threatened, they can disappear into their bogs, submerging themselves in mud and water for months at a time, entering a hibernation-like state until danger passes.
 
 Their philosophy of conflict avoidance has allowed them to survive for millennia in lands that others might try to conquer, simply by being too troublesome to catch and too dangerous to corner.
+
+### The making
+
+The Bogies are frog-folk, named with the rest of Gaea's small animal-children at the Birth of Man (see [[race-beastman]]). The venom came with the naming, the most lethal Gaea ever poured into a skin, and it settled the question of violence before the Bogies could ever raise it: nothing that corners them survives the cornering. Their peace is the certainty of a creature that has never needed to strike first.
 
 ### Aspects
 - Peace through being too dangerous to attack

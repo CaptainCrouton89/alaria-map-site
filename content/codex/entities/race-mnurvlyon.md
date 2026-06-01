@@ -2,6 +2,8 @@
 id: "race-mnurvlyon"
 name: "Mnurvlyon"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Mnurvlyon are walking contradictions—beings who inherited both the giants' towering height and the dwarves' love of enclosed spaces."
 sources:
   - "races/Mnurvlyon.md"

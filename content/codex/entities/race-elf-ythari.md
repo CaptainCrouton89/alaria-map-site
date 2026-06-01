@@ -2,8 +2,10 @@
 id: "race-elf-ythari"
 name: "Ythari"
 entityType: race
+entityCategory: race
 blurb: "Solitary elves each bound from birth to a single tree. They live exactly as long as it lives, and die the moment it dies."
 aliases: ["Heartwood Elf"]
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
@@ -15,6 +17,10 @@ review:
   action: keep
 ---
 The Ythari live alone, one elf to one tree, and they do not outlast it. Each Ythari is quickened from a seed of the tree that will hold them, and the two come into the world as a single life wearing two shapes. The elf walks. The tree does not. Past that, the difference between them is thinner than it looks.
+
+### The making
+
+The other elves were shaped from matter that had stopped growing: cut wood, quarried stone, river-mud lifted off the bank. The Ythari were made the one way that keeps growing. An elder druid set a measure of life not into worked material but into a living tree-seed, and let the two come up together, so that the elf and the tree share one making rather than the elf being built and the tree being found. The spirit went into the heartwood at that first working and has gone there ever since, in every Ythari quickened from a seed of its own tree. Nothing about this softened or shifted across the ages; it was fixed in the first making and breeds true with each new pairing. It is the oldest of the elven craftings still worked, and the only one that plants itself.
 
 A Ythari's skin and hair carry the color of their tree's canopy, and turn as it turns: green through the growing months, rust and ocher when the leaves go, bare grey in winter. One bonded to an evergreen stays dark the year round. One whose tree has taken a blight greys early and in patches, in the same places the tree is failing. The health of the tree can be read on the elf by anyone who knows what they are looking at, long before the tree itself is found.
 

@@ -2,7 +2,9 @@
 id: "race-dwarf-dern"
 name: "Dernish"
 entityType: race
+entityCategory: culture
 blurb: "Siege-adapted mountain dwarves of the central Widebarrow; their concentric capital and deep-debt rotations are built around the generational Lyzine threat."
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
   - { rel: culture, kind: worships, target: "daemon-krondeum" }
@@ -14,7 +16,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Dernish dwarves have spent so many generations fighting the Lyzine that siege logic has become cultural logic. The capital Dodi is built in concentric rings expressly so that outer districts can be sealed and sacrificed while defenders fall back to the inner fortress. Every Dernish dwarf understands this not as a flaw in their city's design but as its highest expression: survival above sentiment.
+The Dern are a people of the dwarf, not a separate lineage — a lifestyle group defined by where and how they settled, not a split in bloodline. Dernish dwarves have spent so many generations fighting the Lyzine that siege logic has become cultural logic. The capital Dodi is built in concentric rings expressly so that outer districts can be sealed and sacrificed while defenders fall back to the inner fortress. Every Dernish dwarf understands this not as a flaw in their city's design but as its highest expression: survival above sentiment.
 
 Service in the deep-facing tunnels is called "deep-debt," and every Dernish family is expected to contribute fighters to the watch rotation. Those who complete their debt are permitted to retire to places like Lush — the sunniest valley in Dern, where the name is aspirational rather than accurate. The social contract is blunt: you fight when called, you get to grow old when it's done.
 

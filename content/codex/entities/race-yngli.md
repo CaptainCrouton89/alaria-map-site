@@ -2,14 +2,16 @@
 id: "race-yngli"
 name: "Yngli"
 entityType: race
-blurb: "The Yngli are living reminders of the danger of careless words around vengeful cyclopes."
+entityCategory: race
+tags: ["playable"]
+blurb: "A squat, one-eyed people of inborn force-attunement, bound to silence by an ancient Deoric curse and exploited as outsiders across the Western Isles and Kura."
 sources:
   - "races/Yngli.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Yngli are living reminders of the danger of careless words around vengeful cyclopes. These squat, one-eyed beings were once the faithful assistants in the great cyclops forges, using their inborn force attunement to accelerate hammers and move tools with mere thoughts. But when one of their number spoke too freely about their master's work, the betrayed cyclops cursed their entire race to eternal silence.
+The Yngli are a squat, one-eyed people born with an inborn attunement to force, which they once turned to fine work in the great forge-halls, accelerating hammers and moving tools with a thought alone. Their own telling holds that one of their number betrayed a guarded secret of the smiths they served, and that the masters of those halls answered by binding the whole Yngli line to silence with a Deoric curse. Whatever the truth of it, the silence is real, it took hold in one stroke, and it has bred true ever since: no Yngli has spoken a clear word in living memory.
 
 Now the Yngli struggle as second-class citizens across the Western Isles and Kura. Unable to negotiate, explain, or defend themselves verbally, they are easily exploited by those who separate them from their kin. Only when united under a rare telepath of their kind can they organize effectively, forming silent unions that communicate through gesture and force manipulation.
 

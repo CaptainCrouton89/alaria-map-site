@@ -2,6 +2,8 @@
 id: "race-minotaur-danaki"
 name: "Danaki"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Communally raised Minotaur who suppress all emotion as weakness and channel it into devastating berserker rage; toughness is paramount."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-minotaur" }
@@ -12,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Danaki are infamous for their toughness and their terrifying rage. Danaki have no sense of family, as the baby minotaur children are raised by the village. Most do not know who their parents are, nor are they interested in finding out. From a young age, they are taught to fight and kill, usually long before they learn how to read and write.
+The Danaki are a people of the minotaur, not a separate biological lineage — a communal warrior culture that defines itself through suppressed emotion, village-raised children, and berserker tradition, not through any divergence from minotaur kind. Danaki are infamous for their toughness and their terrifying rage. Danaki have no sense of family, as the baby minotaur children are raised by the village. Most do not know who their parents are, nor are they interested in finding out. From a young age, they are taught to fight and kill, usually long before they learn how to read and write.
 
 Danaki are also known for their rage—a berserk state of anger and pure, single-minded aggression. During a rage, they can behave unpredictably and incredibly violently, and are capable of ignoring many injuries.
 

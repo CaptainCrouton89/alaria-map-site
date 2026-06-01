@@ -43,6 +43,8 @@ A 500-year-long night caused by a shadowrift. A period of great fear and loss fo
 
 All information was lost. The survivors of the Dark Night possessed no written records, no oral tradition that reached back more than a generation. The world began again from nothing.
 
+The reason it began from nothing, as the modern Kethic reading has it, is that a void-heavy leyline convergence collapsed in this span and the coherence that lets a people hold a continuous memory wore away with it. The void took the structure out of the spirit, slowly and across a whole population, until a name no longer fixed the person who carried it and a generation could not reach back past the living. No one inside the era understood this, and no account of it survived to be understood later; the cause is named only now, run backward from the instability the collapse left in the ground.
+
 ### The Hel Dynasties: 11,400–10,900 BSD
 
 A series of tyrannical dynasties that achieved complete dominion over the world, each ruling as total overlords. The period ends with the Killing Moon, which destroyed them.

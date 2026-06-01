@@ -2,6 +2,8 @@
 id: "race-naga"
 name: "Naga"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Descendants of the dragon-father Nagatayora, who fell against the titan Hykravones; his blood still throws three forms through a single bloodline."
 sources:
   - "races/Naga.md"

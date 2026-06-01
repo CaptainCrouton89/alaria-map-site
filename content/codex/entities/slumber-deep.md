@@ -17,7 +17,7 @@ Nothing moves in Slumber Deep.
 
 #### The Stasis Effect
 
-Where the Nilus (Force) and Pelus (Water) leylines cross, their energies reach a state of perfect opposition. Force presses inward with crushing intensity while Water resists outward with equal pressure. The result is equilibrium so complete that motion itself becomes impossible within the intersection's sphere of influence.
+Where the Dynus (Force) and Pelus (Water) leylines cross, their energies reach a state of perfect opposition. Force presses inward with crushing intensity while Water resists outward with equal pressure. The result is equilibrium so complete that motion itself becomes impossible within the intersection's sphere of influence.
 
 Objects that drift into the stasis zone stop. Not slowly—instantly. Currents terminate at the boundary. Fish that swim too deep hang suspended, gills frozen mid-flutter. Ships that sink toward the trench floor never reach it. They hang in the black water at whatever depth the stasis caught them, perfectly preserved, crews still at their posts.
 

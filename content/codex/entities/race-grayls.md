@@ -2,6 +2,8 @@
 id: "race-grayls"
 name: "Grayls"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Grayls are among the most melancholic beings on Alaria, wooden humanoids whose backward-bent knees and perpetual sadness mark them as fundamentally different from other…"
 sources:
   - "races/Grayls.md"

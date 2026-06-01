@@ -1,7 +1,9 @@
 ---
 id: "race-savant"
 name: "Savant"
-entityType: race
+entityType: template
+entityCategory: template
+tags: ["playable"]
 blurb: "Savants, for reasons unknown, are born with rare differences in their physiology, sometimes sacrificing the ability to move, sense, or communicate effectively in exchange for…"
 sources:
   - "races/Savant.md"

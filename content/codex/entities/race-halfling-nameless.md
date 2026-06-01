@@ -2,6 +2,8 @@
 id: "race-halfling-nameless"
 name: "Nameless Ones"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Desert halflings of Keshwindi who took the 'half-people' slur for their own and built a people on the deliberate forgetting of who they used to be."
 aliases: ["The Nameless", "Half-People"]
 relations:
@@ -12,6 +14,8 @@ review:
   aiWritten: false
   action: keep
 ---
+The Nameless Ones are a people of the halfling, not a separate lineage — a desert exile community who built their identity on the deliberate shedding of ancestry, not on any divergence from other halflings.
+
 The Nameless Ones are the halflings of the Hills of Dolor, and almost everything that defines them is an inversion of the people who cast their founders out. Their forebears came from a culture that measured a person entirely by ancestry, by the unbroken chain of names behind them. To be exiled there was to have that chain cut and the name struck from every record. The first survivors of the desert could have spent their lives mourning what was taken. Instead they made the taking into the whole of who they are. They are the nameless. They say it the way other peoples say the name of a homeland.
 
 In practice this means a Nameless One carries no family name and offers none. Children are raised in neighborhood cohorts rather than households, so there is no lineage to inherit and no ancestor to honor. A person is the sum of what they have done since the wells took them in, nothing before it. Names are earned and provisional: a use-name picked up at work, an epithet hung on someone by the people who know them, dropped and replaced when the work or the reputation changes. Ask a Nameless One who their people are and they will tell you what they do. Ask who their father was and the conversation is simply over, politely and completely, with no offense taken and none given.

@@ -1,11 +1,12 @@
 ---
 id: "race-gnome-whiteling"
 name: "Qovryx"
-entityType: race
+entityType: template
+entityCategory: template
+tags: ["playable"]
 blurb: "A gnome born with a Deoric command grown into its own flesh. Its stray power kills kin by accident; survivors bind themselves into lichdom."
 aliases: ["Prophet Gnome", "Whiteling"]
 relations:
-  - { rel: culture, kind: subraceOf, target: "race-gnome" }
   - { rel: culture, kind: worships, target: "daemon-qhytheryx", note: "fate-sight oracles share via deep-knowledge/hidden-voice aspect" }
 sources:
   - "races/Gnome.md"

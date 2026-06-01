@@ -2,6 +2,8 @@
 id: "race-swuigrach"
 name: "Swuigrach"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Swuigrach are large, imposing humanoids with the heads of pigs—pink, gray, or black depending on their lineage."
 sources:
   - "races/Swuigrach.md"
@@ -14,6 +16,10 @@ The Swuigrach are large, imposing humanoids with the heads of pigs—pink, gray,
 Their porcine features—snouts, small eyes, and bristly hair—bely razor-sharp intellects focused primarily on the acquisition of wealth and power. Swuigrach culture values cunning over strength, wealth over honor, and results over methods. They see greed not as a vice but as the primary virtue that drives progress and civilization forward.
 
 Despite their often unsavory reputations, the Swuigrach have created some of the most sophisticated financial institutions and trade networks in Alaria. Their ability to smell out profitable opportunities—both literally and figuratively—has made them indispensable to the economy of many nations, even as they are personally reviled.
+
+### The making
+
+Greed, to the Swuigrach, is the first virtue, and they come by it honestly: Gaea named them from the pig, one of her animal-children of the Birth of Man (see [[race-beastman]]). The pig's snout roots out what is worth having below the surface, and in the Swuigrach that became a nose for profit and an open love of gain. The merchant houses of the United Free Nations and the Free Isles have grown rich treating as a virtue what other peoples hide as a fault.
 
 ### Aspects
 - Greed is the engine of progress

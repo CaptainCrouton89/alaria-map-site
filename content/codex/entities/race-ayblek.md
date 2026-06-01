@@ -2,6 +2,8 @@
 id: "race-ayblek"
 name: "Ayblek"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The ayblek are enigmatic beings from the distant realm of Instraxofinum, where the very nature of existence operates on principles alien to mortal comprehension."
 sources:
   - "races/Ayblek.md"

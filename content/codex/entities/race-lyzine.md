@@ -2,6 +2,8 @@
 id: "race-lyzine"
 name: "Lyzine"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Lyzine are fallen nobility whose pride remains unbroken despite their exile to the depths below."
 sources:
   - "races/Lyzine.md"
@@ -14,6 +16,10 @@ The Lyzine are fallen nobility whose pride remains unbroken despite their exile 
 Every year, the Lyzine attempt to reclaim their "rightful" place on the surface, sending expeditions to establish new footholds in the world above. They view themselves as inherently superior beings temporarily displaced by the jealousy and ignorance of lesser races. Their underground cities are marvels of web-architecture and dark elegance, maintained by strict hierarchies that mirror their lost surface kingdoms.
 
 Despite their exile, the Lyzine have retained their sophisticated culture, complete with elaborate courts, intricate political maneuvering, and a refined aesthetic sense. They are skilled in both diplomacy and warfare, though their overwhelming pride often makes peaceful coexistence difficult.
+
+### The making
+
+The Lyzine are beastfolk, the spider-people Gaea named among her minor animal-children (see [[race-beastman]]). The true name set the body, the patience, the web-craft; everything else about them was set by a single catastrophe long after the making, when the surface kingdoms they had ruled cast them down into Mez and sealed the exile behind them. That casting-down did to the Lyzine what staying behind once did to the [[race-kendor]]: it fixed them. The fallen-noble pride, the web-courts built to mirror lost surface halls, the yearly expedition that always fails to retake the world above, all of it dates from the banishment, a spider's slow patience bent now toward one long campaign of return.
 
 ### Vitals
 - **Size:** Medium

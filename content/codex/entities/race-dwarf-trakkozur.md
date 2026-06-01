@@ -2,7 +2,9 @@
 id: "race-dwarf-trakkozur"
 name: "Trakkozur"
 entityType: race
+entityCategory: race
 blurb: "Weathered deep-cavern dwarves of Eoga who seem primitive but are the ancient wardens who chained the titan Hykravones beneath the Cascades of Ygg."
+tags: ["playable"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-dwarf" }
 sources:
@@ -12,6 +14,10 @@ review:
   action: keep
 ---
 The Trakkozur look like a people the world left behind. They keep to the wet caverns under Eoga's southern reaches, dress in undyed leather and bone, and raise none of the glittering halls other dwarves are known for. Travelers who pass them on the Dylania toll-roads take them for a poor digging-clan, meaner than the meanest surface dwarf. The truth runs the other way. When the dwarven peoples were young the Trakkozur were the strongest of them all, and in the one thing that has ever mattered they still are. Their masterwork is just invisible. It is a prison, and it lies far below the Cascades of Ygg.
+
+### The making
+
+The Trakkozur became a separate people on the day the binding was first carved. Holding a titan still takes Deoric on a scale no other dwarven work has ever matched, and Deoric is paid in life. The founding work-gangs spoke the sentence into titan-bone in one enormous labor, and the life-price of it fell on them all at once: it weathered them, shortened their years, and worked itself so deep that their children were born already weathered and already short-lived. That was the stroke that made them. Everything that follows, the tithe, the warden-holds, the long vigil under the Cascades, is the upkeep of a thing the first generation bought with their own lifespans.
 
 What they keep down there is Hykravones. The Gray Prince did not lie down to sleep of his own will, whatever the surface nations tell themselves; he is bound, and the Trakkozur forged the binding. To hold a titan they needed an absolute, and the only tongue of absolutes is Deoric—the titans' own command-speech, where a thing said with power behind it must occur. So they learned the language of the very thing they hate. They cut its words into titan-bone dragged up from the deep, since titan-bone alone holds a Deoric charge without weathering away, and they spoke a sentence a titan could not argue with: he does not wake. Every Trakkozur alive is descended from the work-gangs that carved it.
 

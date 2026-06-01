@@ -2,6 +2,8 @@
 id: "race-goblin"
 name: "Goblin"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Goblins are born in broods, from a single father and up to hundreds of mothers."
 sources:
   - "races/Goblin.md"
@@ -9,9 +11,15 @@ review:
   aiWritten: false
   action: keep
 ---
-Goblins are born in broods, from a single father and up to hundreds of mothers. A single brood-father may sire thousands of goblin children, who are all raised together, with no knowledge of their specific mother. The brood-father, over the course of his lifetime, will eventually choose exactly one queen, who will mother the next brood-father—the first born son.
+Goblins are born in broods, from a single father and up to hundreds of mothers. A single brood-father may sire thousands of goblin children, who are all raised together, with no knowledge of their specific mother. The brood-father, over the course of his lifetime, will eventually choose exactly one queen, who will mother the next brood-father, the first born son.
 
 Most goblins live in communities around a single goblin lineage. Therefore, all of their neighbors and friends are one's half-siblings. This can lead to bickering, but very rarely outright violent conflict. Living among siblings contributes to a camaraderie that many goblins feel towards their brood-mates.
+
+The brood is the original accident, still running. Goblins first took shape in low, wet country where loose magic pooled in standing water and rotting leaves, the kind of substrate a stray resonance can sink into and feed on. Nearly all such resonances gutter out. One did not. It found a way to copy itself through living matter, and the copying has never stopped since. The brood structure is the shape of that first accident kept intact: a single unbroken line, brood-father to one chosen queen to the next brood-father, is the loop that carries the original working forward, and the hundreds of mothers and thousands of half-siblings are the matter it spends to keep that loop closed.
+
+This is why a goblin lineage never simply dwindles away. It cannot afford to. Open the loop and the resonance that animates the whole brood has nowhere left to run. A brood that loses its father has not lost a leader, it has lost the one thread the entire structure exists to carry, and a brood-father with no chosen queen is a working a single death from ending. The first brood and the ten-thousandth are the same command copied without a flaw, which is why goblins breed true down the whole length of their history, and why a brood holds together even through its endless bickering. Every face in the hall is the same accident as your own, set going half a step apart.
+
+> A brood-hall at first light. One long room, the sleeping mothers ranked along both walls, and at the center the brood-father's bench where the day's nursing is parceled out by a steward who keeps no records because none are needed. Every child in the hall is half-sibling to every other. None of them knows which mother is his, and by old custom none of them asks.
 
 ### Vitals
 - **Size:** Small
@@ -114,3 +122,6 @@ You can breathe air and water equally well. You have a swim speed equal to your 
 ### Xibli — Slippery Escape
 **Passive ability.**
 Your skin secretes a slick coating that makes you difficult to hold. You have A2 on all checks to escape grapples or restraints. Additionally, creatures have D2 on attempts to grapple you.
+
+<!-- author-notes -->
+The origin substrate is deliberately left ungeographic ("low, wet country") rather than pinned to a named swamp. If a future author wants to site the first brood, coordinate first; the self-copying brood-loop is the load-bearing canon here, not the location.

@@ -2,6 +2,8 @@
 id: "race-human-shontobi"
 name: "Shontobi"
 entityType: race
+entityCategory: culture
+tags: ["playable"]
 blurb: "Honor-bound samurai people of the great plains who ride griffons and sacred eagles, governed by strict family duty and ancestral obligation."
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -13,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Shontobi are the noble samurai of the great plains, a people who have built their entire culture around concepts of honor, inheritance, and family duty. In their society, one's position is determined not just by skill with a blade, but by the honor of one's ancestors and the careful maintenance of family obligations that stretch back generations.
+The Shontobi are the noble samurai of the great plains, a people who have built their entire culture around concepts of honor, inheritance, and family duty. In their society, one's position is determined not just by skill with a blade, but by the honor of one's ancestors and the careful maintenance of family obligations that stretch back generations. The Shontobi are a people of the human, bound by the honor-culture and samurai tradition of the plains, not a separate biological lineage.
 
 The nobility ride magnificent griffons into battle, their great wings casting shadows across the grasslands, while other honorable warriors mount swift horses bred for speed and endurance across the endless plains. Sacred eagles, revered as divine messengers, serve as hunting companions and symbols of prestige - to harm another's eagle is among the gravest of insults.
 

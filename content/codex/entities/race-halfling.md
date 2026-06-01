@@ -2,6 +2,8 @@
 id: "race-halfling"
 name: "Halfling"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Halflings possess an uncanny ability to thrive where others merely survive."
 sources:
   - "races/Halfling.md"
@@ -10,6 +12,13 @@ review:
   action: keep
 ---
 Halflings possess an uncanny ability to thrive where others merely survive. Their small stature grants them a unique perspective on the world—quite literally seeing it from a different angle than the tall folk. This has given them an almost supernatural knack for finding hidden advantages in any situation, turning disadvantages into opportunities with an ease that larger races find deeply unsettling. Each halfling culture has taken this adaptability to extremes, creating societies that flourish in conditions that would break other peoples.
+
+That knack runs deeper than cleverness, and to see why means going back to how halflings were made, which is to say not the way other peoples were made at all. Gaea shaped the flesh-races. The druids cut the elves from wood and river-mud. Catastrophe forged others in a single hard stroke. Halflings answer to none of these. When Ezz flooded Alaria and most of it woke into the great forces that drive the world, a little of it caught and set in an emptier place: the unclaimed margin between settled peoples, the corner no one was looking at, the particular feeling of being overlooked that until then had belonged to no one, because no one had been small enough to live inside it. Ezz is thought and feeling made substrate, and it sets to the shape of whatever it pools in. Here it pooled in an absence and froze the way water freezes around a single flaw, all at once. What set was a people, and it has held that shape ever since.
+
+So halflings are, as nearly as the world lets the words be literal, made of the gap. That is the quiet engine under the famous luck. A halfling is never wholly out of place because a halfling is the thing places forget to count, and the unclaimed advantage in any room is plain to them because they are themselves the unclaimed thing, reading its own kind. The taller peoples felt all this long before they could explain it, and they explained it badly: half a person, half-made, half-people. The slur is older than any of the reasons later given for it. It is also the one honest outside witness to where halflings come from.
+
+> They called us half-people before they could say why. They were nearer the truth than they meant to be. We are the half the world left out, and we have made a fine life of walking around in it.
+> — a saying kept among the Nameless of the Hills of Dolor
 
 ### Vitals
 - **Size:** Small

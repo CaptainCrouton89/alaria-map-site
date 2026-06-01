@@ -2,6 +2,8 @@
 id: "race-sharabha"
 name: "Sharabha"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Descendants of Shara Bolasi, the lion-father who stood alone against the titan Hykravones; his heart's blood changed the ground, and the ground changed them."
 sources:
   - "races/Sharabha.md"

@@ -2,6 +2,8 @@
 id: "race-elnir"
 name: "Elnir"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Elnir were once druids who protected the wilds, but they have been corrupted by dark magic and a desire to control nature rather than…"
 sources:
   - "races/Elnir.md"

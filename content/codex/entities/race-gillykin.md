@@ -2,6 +2,8 @@
 id: "race-gillykin"
 name: "Gillykin"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Gillykin are the cheerful amphibians of rivers and wetlands, their bulbous eyes and wide mouths giving them an expression of perpetual surprise."
 sources:
   - "races/Gillykin.md"
@@ -12,6 +14,10 @@ review:
 The Gillykin are the cheerful amphibians of rivers and wetlands, their bulbous eyes and wide mouths giving them an expression of perpetual surprise. These frog-like humanoids bound through life with infectious enthusiasm, their powerful legs carrying them in great leaps that defy their small stature. Their skin ranges from bright greens to deep blues, often mottled with patterns unique to each individual.
 
 Despite their jovial nature, Gillykin face a constant challenge—their amphibian biology demands regular submersion in water. This need shapes their settlements, which cluster along the rivers and oxbow lakes of the Tamadrez and Pesalolo river networks, where dozens of slow-moving tributaries provide the constant access to water they require. Gillykin society is largely solitary; a traveler along the Feejaka or the Jobanga might pass a lone Gillykin's reed platform without seeing another for miles. Many who venture beyond their wetland heartland carry large water skins not for drinking, but for emergency skin-wetting.
+
+### The making
+
+Like the Bogies, the Gillykin are frog-folk named at the Birth of Man, though a separate making with its own true name (see [[race-beastman]]). Gaea built the wet skin of the riverbank frog into them, and that skin still has to be returned to water or the body fails. Everything else about Gillykin life, the scattered reed platforms and the long string of settlements down the Tamadrez and Pesalolo, is arranged around that one standing need.
 
 ### Aspects
 - Eternally optimistic

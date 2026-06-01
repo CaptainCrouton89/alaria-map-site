@@ -2,18 +2,22 @@
 id: "race-syngers"
 name: "Syngers"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Syngers are perhaps the most mysterious race on Alaria, immortal beings who sail through the skies in ships that defy comprehension."
 sources:
   - "races/Syngers.md"
+relations:
+  - { rel: culture, kind: originatedIn, target: "plane-the-skies" }
 review:
   aiWritten: false
   action: keep
 ---
-The Syngers are perhaps the most mysterious race on Alaria, immortal beings who sail through the skies in ships that defy comprehension. Their skin shifts through stunning hues of vivid red, violet, and blue, constantly changing like living auroras. These eternal wanderers travel far above where even sky ships dare to venture, in the thin air where the stars begin to show during daylight.
+The Syngers condensed in the one part of Alaria that belongs to no plane in particular. Far above the Surfacelands, in the thin airless band beneath the titan-glass stars, the material world has run out and the Astral has not yet begun. The Ezz flood reached that height as little more than a haze, and where it settled there it never resolved into either life or death. The Syngers are what came of that unresolved settling. They do not age, sicken, or die of any cause the world below knows, because nothing in that band fully dies; and they regard the world with the flat, unbothered distance of beings in whom nothing was ever fully quickened to begin with. Their immortality and their detachment are one fact seen from two sides.
 
-Rarely seen by terrestrial races, the Syngers observe the world below with the detached interest of near-gods. Their immortality has given them a perspective measured in millennia rather than years, and their concerns often seem incomprehensible to shorter-lived races. When they do descend to interact with the world below, it is usually for purposes that become clear only centuries later.
+Terrestrial peoples almost never see them. A Synger measures time in millennia and finds the doings of shorter-lived races about as pressing as a tide finds a footprint in the sand. When one does descend to deal with the world below, the reason behind it tends to surface only centuries later, if ever. Their skin shifts constantly through vivid reds, violets, and blues, like a living aurora, and it shifts with their mood, which is most of what an outsider can read of a Synger at all.
 
-Their flying ships, known as Synger Vessels, are constructed from materials unknown to modern science and powered by principles that even the most learned sages cannot explain. These craft move silently through the high atmosphere, leaving trails of colored light that are sometimes visible from the ground on clear nights.
+They cross the high country in vessels no mortal shipwright can account for, silent craft that leave trails of colored light sometimes mistaken from the ground for falling stars. The vessels work heights no sky fleet can reach. What little ever passes between the Syngers and the surface passes up there, in the band where the heaviest skystone drifts, and it passes rarely, on terms the Syngers set and abandon without warning. They pass over a sleeping world without often troubling to touch it.
 
 ### Aspects
 - Immortal perspective makes mortals seem like mayflies

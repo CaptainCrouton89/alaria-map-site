@@ -2,6 +2,8 @@
 id: "race-chulpe-skree"
 name: "Skree"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "Smaller, more numerous pack hunters who use speed, cunning, and coordination to bring down prey much larger than themselves."
 aliases: ["The Pack Runners"]
 relations:

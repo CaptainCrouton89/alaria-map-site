@@ -2,6 +2,8 @@
 id: "race-karchon"
 name: "Karchon"
 entityType: race
+entityCategory: race
+tags: ["playable"]
 blurb: "The Karchon are shark-headed humanoids from the Shattered Sea."
 sources:
   - "races/Karchon.md"
@@ -12,6 +14,10 @@ review:
 The Karchon are shark-headed humanoids from the Shattered Sea. They possess the rough, sandpaper skin of sharks and rows of serrated teeth that regrow constantly. They are a people of steel will and resolute action—once a Karchon decides on a course, nothing short of death will stop them.
 
 They are feared pirates and naval mercenaries, known for their bloodlust in battle and their cold, efficient demeanor. To a Karchon, hesitation is death. Their societies are built around strength and decisiveness, with leaders earning their positions through combat rather than inheritance. A Karchon who shows weakness is quickly replaced.
+
+### The making
+
+A shark that stops swimming dies. Gaea took that and made it a cast of mind when she named the Karchon, shark-folk among her animal-children at the Birth of Man (see [[race-beastman]]): once a Karchon has chosen a course, holding still feels like drowning. The pirate fleets, the mercenary companies, the captains who keep their place only until a stronger one takes it, all run down from that single relentless line in the naming.
 
 ### Vitals
 - **Size:** Medium

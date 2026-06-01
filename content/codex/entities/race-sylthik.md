@@ -2,18 +2,20 @@
 id: "race-sylthik"
 name: "Sylthik"
 entityType: race
-blurb: "The Sylthik are a serpentine people whose scaled bodies and ophidian features mark them as children of the great snake goddess Sythikranos."
+entityCategory: race
+tags: ["playable"]
+blurb: "A serpentine people bred by Sythikranos, a false dragon who named herself a snake-god; their venom and gifts fail the moment communion with her breaks."
 sources:
   - "races/Sylthik.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Sylthik are a serpentine people whose scaled bodies and ophidian features mark them as children of the great snake goddess Sythikranos. These proud and merciless beings view themselves as the apex of creation, considering all other races to be inferior creatures unworthy of respect or mercy. Their society is built around a complex religious hierarchy that governs every aspect of daily life, from marriage and trade to warfare and diplomacy.
+The Sylthik were made, and they were made by neither a god nor a daemon. Sythikranos is a false dragon, one of the great serpents who named themselves gods over the snakes of the world. Pythalomos and Senwyn did as much in the Ishnit Jungles, declaring themselves lords of the constrictors and the vipers; Sythikranos is the same kind of thing, older and reaching further. The difference is that she did not stop at demanding worship. She bred herself worshippers. The scaled bodies, the fanged faces, the venom, and the serpent-tongue that lets a Sylthik speak to snakes were all set into them at her making. The Sylthik would not recognize a word of this. They know only that they are her children and she is their goddess, and they kill outsiders who suggest otherwise.
 
-Ruled by venomous high priests who claim direct communion with their serpent deity, Sylthik settlements are often found in desert oases, ancient ruins, or deep caverns where snakes naturally congregate. Their architecture favors winding passages and circular chambers that mirror the movements of their sacred serpents. The Sylthik believe that their goddess will one day return to reclaim the world, and they see themselves as her chosen instruments to prepare for that glorious day.
+What she set into them, she kept the key to. Every gift a Sylthik carries runs through living communion with Sythikranos, and the priests who claim the closest communion claim the most. A high priest invokes her name and is answered: a surer strike, a scent that tracks a traveler across a hundred miles, a serpent that comes when called. Cut a Sylthik off from her, by exile or by doubt, and the gifts thin and go dead in him, the venom last of all. So the religious hierarchy that orders every Sylthik life runs deeper than any custom: it is the tap the race drinks from. Communion is survival, Sythikranos is the source, and a people built that way does not tolerate apostasy.
 
-Their natural ability to communicate with snakes makes them formidable opponents, as they often employ serpentine allies in their schemes. The Sylthik take great pride in their venomous nature, viewing their ability to kill with a single bite as proof of their divine superiority over the "warm-blooded vermin" that populate the world.
+They hold themselves the apex of creation, every warm-blooded race beneath their notice and fit only to be ruled or removed. They build in winding passages and circular chambers that follow the line a snake takes, in desert oases, old ruins, and the deep caverns where snakes already gather. And they wait. Their faith holds that Sythikranos will one day come to take the world in earnest, and that the Sylthik are the instrument she bred to make it ready for her. Whether the false dragon intends any such thing, or simply enjoys being prayed to the way Pythalomos and Senwyn enjoy it, is not a question a Sylthik will entertain.
 
 ### Vitals
 - **Size:** Medium
