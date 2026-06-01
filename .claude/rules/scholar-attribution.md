@@ -87,19 +87,7 @@ line is a linting target (Item 5). No exceptions for "minor" or `footnote`-weigh
 These 7 scholars own every era and cross-cutting theme. Future authors MUST use roster names —
 do not invent new major scholar names without adding them here first.
 
-| id | Name | Era owned / theme |
-|----|------|-------------------|
-| `person-temavori` | Temavori of Drachma | Golden Age of Man, cosmogony, dead pantheon |
-| `person-erindath-of-sennos` | Erindath of Sennos | Age of Craggus, reborn world, Laughing Plague |
-| `person-oblexan` | Oblexan | Lost Ages, empirical reconstruction, Blight of Arcanus |
-| `person-shoryaven` | Shoryaven | Great Expansion, modern polities, Frost Fall, Return of Dragons |
-| `person-pembling` | Pembling of Grendenheim | Seventh Dawn, Dark Ages, current era |
-| `person-velorin` | Velorin of Istora | Cosmology, planes, three-soul death, daemon mechanics |
-| `person-ghrythan` | Ghrythan | Races, migrations, languages, oral tradition |
-
-For deep-niche citations (a specific war's eyewitness, a regional genealogist, a creature naturalist)
-use the niche-expert persons tagged `["scholar","stub"]` — they are listed in
-`content/codex/entities/person-*.md` files with `weight: minor`.
+For the full roster, voice profiles, and niche-expert index, see `scholar-voices.md`.
 
 ## Linter invariants (Item 5 enforcement targets)
 

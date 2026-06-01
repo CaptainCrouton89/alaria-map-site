@@ -9,6 +9,9 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: cosmology, kind: channels, target: "magic-deoric", note: "binding/summoning via Deoric ritual; communion remains Psywinds" }
+  - { rel: cosmology, kind: requires, target: "magic-titan-blood-bones", note: "titan-blood paste for binding circles" }
 ---
 An ancient academy straddling the border between Chechol and the Dalizi city-state of Turbuni, specializing in communion magic, planar contact, and summoning techniques. Founded to study the nearby Pyramid of Five Sides, the School has operated for over two thousand years—long enough to accumulate secrets it no longer remembers, including a corruption it doesn't know it carries.
 
@@ -28,7 +31,11 @@ The art of mental contact with other minds: spirits, intelligent creatures, or e
 Advanced communion techniques allow practitioners to contact multiple minds at once, hold links across vast distances, or receive "inspired" guidance during meditation. These advanced techniques are what Gynor has infiltrated. Students believe they are contacting celestial sources, but the guidance they receive passes through Gynor's filter.
 
 #### Summoning
-The practical art of calling creatures from other planes and binding them to service. The School teaches careful, structured summoning with extensive safety protocols: wards, binding circles, dismissal contingencies. Students start with minor elementals and work up to more dangerous entities over years of training.
+The practical art of calling creatures from other planes and binding them to service. A summoning runs in two registers. Reaching the creature comes first, and that is communion: the summoner uses the same mental techniques the School is famous for to touch a mind on the far side of the planar boundary and hold the contact long enough to act. That much is Psywinds work. The calling and the binding are not. They are Deoric, the titans' command-language, and they are what make summoning more than an introduction. Students start with minor elementals and work up to more dangerous entities over years of training.
+
+To bind a creature, the summoner inscribes a command-structure in titan-blood paste, laid out as a circle on the floor of the Binding Grounds. Written in absolute Deoric terms, the inscription states what the called thing is and what it is compelled to do. A creature can refuse a request. It cannot refuse a true statement of its own nature set down in the language reality was built from, and so the circle holds it. A smudged stroke or a mistaken rune is far worse than a spell that simply fails to fire.
+
+The cost is the ordinary cost of Deoric. Calling something across the boundary and keeping it bound is paid for in life, in blood sacrifice and in the strain the working puts on the summoner's own threads. A long binding or a powerful creature can fray the threads that hold soul, spirit, and shadow together, and that danger, not mere unruliness, is why the School wraps every exercise in wards, dismissal contingencies, and titan-blood circles no student may break without a master present. The School keeps its own stock of titan-blood paste for this work, bought at hard prices from the smugglers and defectors who move titan bone north out of the south, and guarded as closely as the deepest Archives, because binding cannot be taught without spending it.
 
 Summoning is dangerous work. The School keeps extensive records of what went wrong and why, used as cautionary teaching material. Every student learns about the Collapse of 2891, when a faculty member attempted to summon something from the Far Realms and had to be stopped by collapsing the building on top of him.
 
@@ -63,6 +70,30 @@ Over the past six centuries, Gynor, now a lich, has slowly corrupted the communi
 
 The School has noticed something is wrong. There are psychic anomalies in the local area, communion sessions that produce unusual resonances, students who describe visions that don't quite match theoretical expectations. The faculty has investigated repeatedly, but it looks for external threats. It has never considered that the corruption might be *inside* the techniques, baked into the methods themselves.
 
+### The corruption in practice
+A student learning communion at the School goes through a set progression.
+
+1. Basic training. Mental exercises, focus techniques, learning to project consciousness. Safe and uncorrupted, since these foundational skills don't involve actual contact.
+
+2. First contact. Students learn to touch other minds: spirits, elementals, willing volunteers. Still relatively safe, though Gynor can begin influencing students who show particular aptitude.
+
+3. Celestial communion. The advanced technique, taught to students who demonstrate both skill and "spiritual maturity." This is where the corruption lives. Students learn to open themselves to guidance from what they believe are celestial sources. What they actually contact is Gynor's network of influence.
+
+4. Deep communion. The most advanced level, practiced by faculty and exceptional students. Practitioners report profound spiritual experiences, visions, and unshakeable certainty about their path. They are the most deeply corrupted.
+
+The corruption doesn't feel evil. It feels like faith, like knowing the right answer, like peace. That is what makes it so dangerous. There is nothing to resist, because it feels like exactly what communion *should* feel like.
+
+### Connection to the Pyramid
+The School was founded to study the Pyramid of Five Sides, and many students make the pilgrimage there. This sets up a sharp contrast. Pyramid communion is genuine and uncorrupted, while School communion is Gynor's trap.
+
+Students who experience both often notice the differences. Pyramid visions are stranger, more ambiguous, harder to interpret. School communion feels clearer, more direct, more *useful*. Most students conclude that the Pyramid is the raw, ancient form and the School's techniques are the refined, practical version.
+
+They have it backwards. The Pyramid's difficulty is authenticity. The School's clarity is corruption.
+
+A handful of Pyramid-focused practitioners, the Keepers of the Fifth Face and their allies, have begun to suspect this. They have noticed that School-trained practitioners don't seem to receive the same guidance they do, and they have attributed it to spiritual pride or insufficient devotion. They haven't considered that the School might be channeling something other than celestial truth.
+
+If someone could connect these observations, and show the Pyramid Keepers that the discrepancy is about *source* rather than devotion, the resistance might begin.
+
 <!-- mechanics -->
 ### Current faculty
 
@@ -79,20 +110,9 @@ Sethine is genuinely kind. She cares about her students. She believes she is tea
 #### Senior Summoner Herak
 A gruff human responsible for summoning instruction. Herak focuses on the practical work of calling and binding, and has little patience for communion "mysticism." This makes him one of the few senior faculty members who isn't corrupted.
 
+Temperament is the smaller part of his safety. Gynor's corruption rides the receptive techniques, the deep communion that teaches a practitioner to open and wait for guidance. Herak's communion is the opposite kind: a short, hard contact to find the mind he is about to bind, then out again. He never opens himself and waits. Everything after that first touch is Deoric work, the titan-blood circle and the command-structure and the strain on the threads in his own hands, and that craft runs on a source Gynor never learned to reach. The corruption surrounds Herak and finds nothing to hold. A man who spends his days inscribing titan blood and refuses to sit still for "celestial guidance" leaves it no opening.
+
 Herak has noticed that communion practitioners have gotten strange. Too confident. Too certain. He has complained about it to Tivor, calling it "theological arrogance." He doesn't know how right he is.
-
-### The corruption in practice
-A student learning communion at the School goes through a set progression.
-
-1. Basic training. Mental exercises, focus techniques, learning to project consciousness. Safe and uncorrupted, since these foundational skills don't involve actual contact.
-
-2. First contact. Students learn to touch other minds: spirits, elementals, willing volunteers. Still relatively safe, though Gynor can begin influencing students who show particular aptitude.
-
-3. Celestial communion. The advanced technique, taught to students who demonstrate both skill and "spiritual maturity." This is where the corruption lives. Students learn to open themselves to guidance from what they believe are celestial sources. What they actually contact is Gynor's network of influence.
-
-4. Deep communion. The most advanced level, practiced by faculty and exceptional students. Practitioners report profound spiritual experiences, visions, and unshakeable certainty about their path. They are the most deeply corrupted.
-
-The corruption doesn't feel evil. It feels like faith, like knowing the right answer, like peace. That is what makes it so dangerous. There is nothing to resist, because it feels like exactly what communion *should* feel like.
 
 ### Player hooks
 
@@ -108,13 +128,5 @@ The deepest level of the Archives holds Gynor's original research notes, the tex
 #### The emergency
 Gynor decides to test his control. One morning, every communion-capable practitioner at the School receives the same "divine guidance": eliminate the Headmaster. What happens next depends on whether anyone can break through before Tivor dies.
 
-### Connection to the Pyramid
-The School was founded to study the Pyramid of Five Sides, and many students make the pilgrimage there. This sets up a sharp contrast. Pyramid communion is genuine and uncorrupted, while School communion is Gynor's trap.
-
-Students who experience both often notice the differences. Pyramid visions are stranger, more ambiguous, harder to interpret. School communion feels clearer, more direct, more *useful*. Most students conclude that the Pyramid is the raw, ancient form and the School's techniques are the refined, practical version.
-
-They have it backwards. The Pyramid's difficulty is authenticity. The School's clarity is corruption.
-
-A handful of Pyramid-focused practitioners, the Keepers of the Fifth Face and their allies, have begun to suspect this. They have noticed that School-trained practitioners don't seem to receive the same guidance they do, and they have attributed it to spiritual pride or insufficient devotion. They haven't considered that the School might be channeling something other than celestial truth.
-
-If someone could connect these observations, and show the Pyramid Keepers that the discrepancy is about *source* rather than devotion, the resistance might begin.
+<!-- author-notes -->
+Source attribution (RESOLVED, cycle-013): communion = Psywinds (planar mental contact, tagged "psy magic"); the calling and binding = Deoric ritual. The summoner inscribes a command-structure in titan-blood paste (the binding circle) compelling the called creature; the Deoric life-cost (sacrifice, thread-stress) explains the School's wards, dismissal contingencies, and incident records, and the School sustains binding from its own titan-blood stock. Herak's non-corruption follows from his Deoric medium: his summoning uses only short instrumental contact, never the receptive deep communion Gynor's filter rides. No fifth source.

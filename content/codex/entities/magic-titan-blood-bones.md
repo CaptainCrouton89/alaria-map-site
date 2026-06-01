@@ -43,6 +43,8 @@ The same materials can be processed into ink for recording Deoric text. Writing 
 
 Some Deoric rituals call for titan blood as a component, though the sacrifice of mortal life remains the primary power source.
 
+The School of Summoning is one standing customer of this kind. Its summoners lay binding circles in titan-blood paste, inscribing command-structures that compel called creatures to service, and the practice spends paste at a steady rate. That demand draws on the same finite Deo Esari supply as every handmagic tattoo, so the School's purchasing agents feel each climbing price and each exhausted quarry as sharply as anyone in the trade.
+
 ### Sources and scarcity
 The vast majority of titan bones come from Deo Esari, a mountain kingdom built atop the ruins of ancient titan cities. The mountains there contain massive titan skeletons that have been harvested for centuries. Deo Esari supplies roughly 95% of the world's titan bone.
 

@@ -8,8 +8,10 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: originatedIn, target: "era-hykravones" }
 ---
-The Sharabha descend from Shara Bolasi, the lion-father who fell in the same war against Hykravones that took the dragon Nagatayora and the wolf Ulvma. The three did not fall the same way. The dragon's blood came down burning and the wolf's was drunk from the field; the lion's went into the ground. Shara Bolasi held his stretch of the line alone after the rank beside him broke, and when he was killed his heart's blood ran out into the earth and soaked it. Nothing happened then. Generations later, the people who settled that ground and worked it and were buried in it began to come up changed, carrying the lion in their blood without ever having touched the beast that put it there.
+The Sharabha descend from Shara Bolasi, the lion-father who fell in the same war against Hykravones, the Shattering, that took the dragon Nagatayora and the wolf Ulvma. The three did not fall the same way. The dragon's blood came down burning and the wolf's was drunk from the field; the lion's went into the ground. Shara Bolasi held his stretch of the line alone after the rank beside him broke, and when he was killed his heart's blood ran out into the earth and soaked it. Nothing happened then. Generations later, the people who settled that ground and worked it and were buried in it began to come up changed, carrying the lion in their blood without ever having touched the beast that put it there.
 
 Every Sharabha carries Shara Bolasi's strength, and the harder parts of him with it: the pull toward putting yourself between danger and the people behind you, and the refusal to break an oath once it is spoken. It surfaces as the power to take on a measure of the lion's shape, but it shows more plainly in how the Sharabha live. They bind to a pride, by birth or by choosing, and they do not walk away from it.
 

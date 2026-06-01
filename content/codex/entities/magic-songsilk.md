@@ -2,7 +2,7 @@
 id: "magic-songsilk"
 name: "Songsilk"
 entityType: magic
-blurb: "A combination of whale blood and baleen, this silk has amplifying or dampenging effects on emotion."
+blurb: "Cloth woven from whale baleen and blood; worn against the skin, it attunes the wearer to a whale's dying song and amplifies or dampens emotion."
 tags: ["material"]
 sources:
   - "magic_and_knowledge/materials/Songsilk.md"

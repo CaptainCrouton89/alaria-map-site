@@ -23,6 +23,8 @@ As people shifted from the material realm to Celestia, believers and prayers fad
 
 The combination of daemon survival war and gross expenditure of power on their followers resulted in total war across Alaria. Most people died; many others returned from Celestia and hid in isolation; others fought on.
 
+The war's first and most deliberate campaign was waged not over land but over a class of priests. The anchor-vessel orders were the specialists who seated each daemon's presence on the material plane, and every faction grasped at once that a rival god could be reached by killing the people who held it there. So the factions hunted them. Sanctuaries that had stood neutral for ages were stormed for the binders inside, who took thirty to forty years to train and could not be replaced in the middle of a war. Within a single decade the orders were broken across the world, and Krathokh, the daemon of the binding rite itself, thinned and died before the eruption ever came. His loss is why the cold found the rest of the pantheon already failing: the anchor-vessel rite that had held every god to the world had stopped first.
+
 The war ended when a follower of Dyos used all of his god's power to force an eruption of the Kajiit volcano, immediately killing millions more and beginning a volcanic winter that would set the world into a multi-millennia ice age.
 
 ### The Long Winter: 75,000–45,000 years ago

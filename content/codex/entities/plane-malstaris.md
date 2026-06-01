@@ -23,6 +23,12 @@ Strange creatures have made Malstaris their home, including Devourers, Mind Fien
 
 High above Malstaris is Nydus, the Black Sun, spilling heavy darkness across the land.
 
+### The shadow-dead and their keepers
+
+The milling crowds that fill Malstaris are shades. When a living creature dies and its shadow is cut loose, that shadow sinks here and stays, a husk of borrowed dark that holds what the dead person hid and nothing of who they were. The person was never the shadow. What gathers on the gray plains is the leaving, not the one who left, in numbers no one has ever counted.
+
+Because a shade still holds secrets, it can be hoarded and traded and lost track of, which a will-less soul cannot, and so the shadow-dead are kept rather than left to drift. That keeping falls to the umbral agents: shadow that was never alive, native to Malstaris and never anyone's, which herd the shade-crowds for the powers that hold the plane. The Lord of the Dead and the Parliament of Shadows do not move the dead with their own hands. The agents do it for them.
+
 ### The First Dark
 When Lyzaria, the first titan to die, was split apart 23.5 million years ago, her soul rose to the Astral Plane—but her shadow sank here, to Malstaris. As the first shadow to ever enter this plane, she carried with her the first secret Malstaris had ever known: the secret of what death *is*.
 

@@ -10,6 +10,8 @@ sources: []
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: history, kind: participatedIn, target: "era-hykravones" }
 ---
 **Domains:** Language, inherited memory, song-as-archive.
 

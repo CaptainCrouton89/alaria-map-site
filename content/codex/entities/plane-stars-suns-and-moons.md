@@ -16,7 +16,7 @@ relations:
 ### Stars
 Built by the titans to illuminate the darkness of the world. The sun did not exist yet. No night and day yet, just eternal stars. Consist of glowing orbs, containing incredibly rare celestial glass, which emits lots of light. Taken care of by the Starborn, who live within the stars, tending to the magical cores.
 
-Most famous among the Starborn is Koras, tender of the sun. Koras lives within the sun's blazing core, maintaining its celestial glass and ensuring its light burns steady. Though Koras tends the sun's physical form, it is Bryn—the sun's awakened spirit—who chooses where it travels. Koras is immune to the extreme heat and has served the sun since before it gained consciousness.
+Most famous among the Starborn is Koras, tender of the sun. Koras lives within the sun's blazing core, maintaining its celestial glass and ensuring its light burns steady. Though Koras tends the sun's physical form, it is Bryn—the sun's awakened spirit—who chooses where it travels. Koras is immune to the extreme heat and has served the sun since before it gained consciousness. When a Xaphkiel reached the sun's core and corrupted it, Koras held the Sunless Vigil: a five-hundred-year fight to draw the corruption from the glass and rekindle the light while the world below went dark. The seam the Xaphkiel left never fully closed, which is why the sun, alone among the great cores, has never been left untended.
 
 Above the star live Sarakiel civilizations—huge towers, usually not more than one per star, filled with Sarakiel. Some stars have gone out due to Xaphkiel smashing their cores, and taking them over. Also, among the stars lie super-high density sky-stones, which float incredibly high up.
 
@@ -108,7 +108,7 @@ Or perhaps the cycles simply reminded people that something was missing, and the
 
 **The Orthodox View:** Most scholars hold that the "Killing Moon" is simply a poetic name for destabilization periods. There is no literal third moon in the sky during these times—only bleeding planar light that kills those who look upon it. "Don't look at the Killing Moon" is a warning, not an astronomical observation.
 
-**The Literalist View:** Some druids and old cults believe the third moon still exists, damaged and drifting through the void between planar stacks. Every few millennia, its erratic orbit brings it screaming back through Alaria's sky. It is broken, and its light is poison. The destabilization isn't the cause of its return—it's the symptom.
+**The Literalist View:** Some druids and old cults believe the third moon still exists, damaged and drifting through the void between planar stacks. Every few millennia, its erratic orbit brings it screaming back through Alaria's sky. It is broken, and its light is poison. The destabilization isn't the cause of its return—it's the symptom. The Moonwatcher cult holds this view to the letter and gathers on Hollownight to pray the lost moon home.
 
 **The Celest Theory:** Celestian theologians argue the third moon was Celest's physical form before her sacrifice. When she transformed into Celestia, her moon-body was left behind—hollow, dead, purposeless. The "Killing Moon" is her corpse, still caught in Alaria's gravity, and when it passes overhead it reminds the entire planar stack of her absence. A wound that never healed.
 

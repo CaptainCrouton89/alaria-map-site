@@ -34,6 +34,8 @@ The Astral Plane is illuminated by Aurus, the White Sun (counterpart to Nydus, t
 
 All souls of the living go to the Astral Plane upon death. The Astral Plane is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the souls of the dead.
 
+These drifting soul-husks are ghosts. A ghost is the bare soul that outlived its body, a strand of Aurus-light without will or purpose, and it is not the person who died. The person was the spirit, and the spirit has already faded toward Celestia. What is left rides the astral currents and fills the island cities, milling in crowds that never thin and never disperse. No one rules them. A will-less soul answers no command and needs no keeping, so the soul-cities take their shape and shift on their own. This is the reverse of the shadow-dead below in Malstaris, who are sorted and kept because a shadow still holds secrets worth keeping.
+
 #### The Dreaming of Lyzaria
 The very fabric of the Astral Sea is woven from the essence of Lyzaria, the first titan to die. When she chose death 23.5 million years ago, her soul spread across the Astral Plane, becoming the foundational substrate that all later souls settle into. Every soul that enters the Astral Sea flows through traces of her essence.
 

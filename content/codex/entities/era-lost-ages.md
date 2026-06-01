@@ -29,7 +29,11 @@ A pretender claiming divine authority rose in the power vacuum left by Craggus' 
 
 ### Blight of Arcanus: 12,000 BSD
 
-Magic itself was cursed. Using it killed the caster. The sudden reversal of a fundamental resource brought down an entire empire that had been rebuilding on aetherial foundations.
+For a span near the end of the Lost Ages, working magic killed the one who worked it. The cause lay in the Ezz, the thought-and-emotion substrate the planes hang within. Something poisoned it. The likeliest culprit is the shadowrift that tore open in the same years and brought on the Dark Night, though no account of the disaster survived the Oblivion Years to confirm it.
+
+Three of the four ways of working magic draw on the Ezz, and all three turned lethal at once. Kethic elementalism, Faesong, and the Psywinds each run on the substrate, so each carried the poison straight into anyone who tapped it. The Ezz that ran through a practitioner's spirit no longer ran clean. It shredded the spirit's core and drove death outward through the body. Deoric was spared the worst, because it draws on titan material and the deeper threads rather than on the Ezz. It stayed as costly as Deoric always is, paid in life, but it did not kill on contact, and whoever lived through the Blight at all may well have been its practitioners.
+
+The empire that fell had rebuilt itself on what its mage-kings called aetherial magic, their own confident name for Kethic elementalism. When the fuel turned lethal, the foundation went with it.
 
 ### The Dark Night: 12,000–11,500 BSD
 
@@ -46,3 +50,6 @@ A series of tyrannical dynasties that achieved complete dominion over the world,
 ### The Blood War: 10,900 BSD
 
 The dynasties, weakened by the Killing Moon, turned on each other in a final conflagration. There were no winners. This left Alaria in ruins on the eve of Hykravones' return.
+
+<!-- author-notes -->
+RESOLVED cycle-013: Blight of Arcanus = Ezz-substrate contamination. A catastrophe (probably the contemporaneous shadowrift) poisoned the Ezz; the three Ezz-based sources (Kethic, Faesong, Psywinds) turned lethal; Deoric was differently affected (still life-cost, not instant-kill) and its practitioners may be the rare survivors. "Aetherial foundations" = Kethic, the mage-kings' failed taxonomy name. The cause going unrecorded is canon (Oblivion Years) — do NOT invent a contamination mechanism beyond "a catastrophe poisoned the Ezz."

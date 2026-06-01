@@ -1,3 +1,0 @@
-- `<!-- author-notes -->` in entity files strips everything from that sentinel to EOF — nothing after it reaches any output. Lore/content intended for the codex must appear before this block.
-- `<!-- mechanics -->` splits the body: content before it becomes `body`; content after becomes the `mechanics` field. Lore placed after the sentinel is excluded from the main codex content field.
-- `overview` entities require an explicit `category:` frontmatter key matching a `CATEGORY_META` slug (e.g. `cosmology`, `personae`) — without it the entity silently resolves to `geography` because `overview` has no entry in `CATEGORY_BY_TYPE`.

@@ -11,6 +11,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: history, kind: occurredDuring, target: "era-golden-age-of-man" }
 ---
 **Domains:** Sacrifice, divine war, volcanic fire.
 
@@ -27,3 +29,5 @@ The God War ended catastrophically when a follower of Dyos — acting from a com
 ### Legacy
 
 The Long Winter that killed Dyos also ended the age of the great pantheon. Every Golden Age deity died in the same collapse. Dyos's name survived in the orcish landscape — "Yugurbas Dyos" — though whether the ancient orcs understood who Dyos was or simply inherited a name they found already carved into the land is unclear.
+
+The eruption his follower set was the loud death; the quiet one had already begun. The anchor-vessel rite that seated Dyos on the material plane depended on Krathokh's priesthood, and when the God War broke those orders his binding attenuated like every other god's, the keystone gone well before the mountain opened.

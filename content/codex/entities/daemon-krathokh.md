@@ -10,6 +10,9 @@ sources: []
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: history, kind: occurredDuring, target: "era-golden-age-of-man" }
+  - { rel: history, kind: participatedIn, target: "era-god-war-and-long-winter" }
 ---
 **Domains:** The anchor-vessel rite as divine invocation; the moment of binding a daemon to a living conduit; the priestly act itself, distinct from the priestly technology.
 
@@ -29,6 +32,8 @@ The God War broke the priesthoods directly. The first decade saw inter-faction v
 
 Krathokh died in this attenuation. The rite that constituted his worship was no longer being performed at the cumulative volume his god-body required, and his presence on the plane thinned correspondingly, even before any of his individual priests were killed. The texts describe his absence from the rites in the late pre-eruption years as a gradual fade rather than a discrete death — the bindings simply began not taking, the way a coal gives less heat as it cools. The eruption killed what was left of the orders directly; the cold finished the rest.
 
-His death is the structural reason the Long Winter killed the Golden Age pantheon so completely. The anchor-vessel rite had been the institutional substrate for every other daemon's continued material existence; when the rite stopped, every cult was on attenuation timer regardless of whether the cold had reached its priests yet. The other gods died on their own timetables — Vassanéth in days, Henélleth in weeks, Aedorath in two harvests, Vrokún in three generations — but they died because the rite that anchored them had failed first. He is the keystone the entire collapse can be diagrammed against.
+His death is the structural reason the Long Winter killed the Golden Age pantheon so completely. The anchor-vessel rite had been the institutional substrate for every other daemon's continued material existence; when the rite stopped, every cult was on attenuation timer regardless of whether the cold had reached its priests yet. The other gods died on their own timetables. Vassanéth went in days, Henélleth in weeks. Aedorath lasted two harvests, and Ezzaróth, her wild counterpart, outlasted her by a single decade and no more. Romath held only as long as the last kingdoms held, which was not long. Dyos died loudest, at the mountain his own follower opened, though his binding had worn through before the first ash fell. Vrokún, rooted deepest, took three generations to go cold. Every one of them died because the rite that anchored them had failed first. He is the keystone the entire collapse can be diagrammed against.
+
+> In the last years before Kajiit, a binder would set the rite exactly as he had a thousand times before, and the vessel would take nothing. Every word was right. The god of the act had simply worn too thin to lend the act its weight, so the act no longer held, so the god wore thinner still. Krathokh died inside that circle, the first of the pantheon to go and the reason the rest would follow him down.
 
 No successor daemon ever covered his domain. Mernath later partially organized the *memory* of the rite; nobody ever performed it again at world-altering scale.

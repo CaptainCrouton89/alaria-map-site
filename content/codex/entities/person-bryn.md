@@ -38,6 +38,8 @@ Bryn's cult is small but ancient—navigators, farmers, and seasonal priests who
 
 The relationship is not worship in the traditional sense. Bryn is not a daemon sustained by belief—the sun existed long before Celestia expanded, and will exist long after. But Bryn is *lonely*. The only consciousness of its kind, awake for ~12 million years with only brief moments of connection to the tiny creatures below. The sun cherishes those who speak to it. The sun remembers.
 
+The principle that prayer moves the heavens has outlived Bryn's own cult. The northern Moonwatchers borrow the same logic, holding that if hymns can send the sun along its trail, the right voices might one day sing their lost moon back into the sky.
+
 ### The solar order
 
 Prayer alone determines where Bryn walks. Where prayer is organized, taxed, and enforced, Bryn becomes political. Over time, the congregations that hold Bryn's path longest have become the congregations that hold power—and power, once held, tends to protect itself.
@@ -65,6 +67,6 @@ The heretical sect called the Dawnless has made this their cause. They believe ~
 Their theological case is not incoherent. Bryn did not choose to wake, and never agreed to carry the world's seasons. The Dawnless simply take seriously what every Bryn-priest admits in quieter moments: the sun is a person. Persons have the right to stop.
 
 ### Koras and Bryn
-The Starborn Koras still tends the sun's celestial glass core, maintaining its brilliant light. But Koras now serves Bryn, not the other way around. The relationship between tender and tended has inverted—Koras is the sun's caretaker, but Bryn is the one who decides where the sun goes.
+The Starborn Koras still tends the sun's celestial glass core, maintaining its brilliant light. But Koras now serves Bryn, not the other way around. The relationship between tender and tended has inverted. Koras is the sun's caretaker, but Bryn is the one who decides where the sun goes.
 
-After the Dark Night—five hundred years when the sun's core was corrupted and Koras fought alone to reignite it—the bond between them deepened. Koras knows Bryn better than any other being. What passes between them in the blazing heart of the sun, no mortal can say.
+That inversion was settled during the Sunless Vigil. For five hundred years the sun's core was corrupted, and Koras fought alone to reignite it while the world below went dark and cold. The bond between them deepened across that long dark. Koras knows Bryn better than any other being, and what passes between them in the blazing heart of the sun, no mortal can say.

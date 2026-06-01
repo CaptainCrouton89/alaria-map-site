@@ -49,7 +49,7 @@ A sect called the Dawnless holds that twelve million years of ceaseless motion c
 
 The moons aligning represents the cycle of magic; the calendar's turn represents the cycle of nature.
 
-Lunar cultures: moon elves and other peoples who center life around the arcane generally celebrate lunar holidays — every 253 days on Brightnight, the monthly rhythms of Nyxara, and the weekly tide of Auris.
+Lunar cultures: moon elves and other peoples who center life around magic generally celebrate lunar holidays — every 253 days on Brightnight, the monthly rhythms of Nyxara, and the weekly tide of Auris.
 
 Solar cultures: seasons are more celebrated by commonfolk, less attached to magic and more connected to nature. Major celebrations fall on the first day of spring, the Accord's new year, the last week of fall, and the opposite seasonal turn. Winter celebrations are especially important — cheerfulness held against the cold and dark.
 

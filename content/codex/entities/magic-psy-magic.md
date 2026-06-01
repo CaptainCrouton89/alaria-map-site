@@ -2,7 +2,7 @@
 id: "magic-psy-magic"
 name: "Psy Magic"
 entityType: magic
-blurb: "Psy magic harnesses the Psywinds—the ever-present, swirling mass of thoughts of all life within the planar stack."
+blurb: "Psy magic harnesses the Psywinds, the swirling mass of thought that every living being sheds across Alaria; it is the counterpart to Faesong."
 tags: ["magic"]
 sources:
   - "magic_and_knowledge/psy_magic/Psy_Magic.md"
@@ -18,7 +18,7 @@ The Psywinds are currents of flowing Ezz, and they carry the thought and intenti
 Faesong carries emotion and harmony, flowing outward from Melera. The Psywinds carry thought and intention, flowing between all minds. They are the cognitive substrate of the world, the medium through which minds touch and nothing else does.
 
 ### Nature of psy magic
-Psy magic works by tapping the Psywinds directly. A practitioner either reads what already moves through the currents or adds thought of their own. That is its whole character. Kethic channels emotion through elemental expression and Deoric commands reality through absolute language, but psy magic never touches the physical world at all. It works on thought and will alone.
+Psy magic works by tapping the Psywinds directly. A practitioner either reads what already moves through the currents or adds thought of their own. That is its whole character. Kethic channels emotion through elemental expression and Deoric commands reality through absolute language, but psy magic never touches the physical world at all. It works on thought and intention alone.
 
 A psy mage does not move objects or shape fire. They read thoughts and memories out of the currents, press their own thoughts into another mind, and feel intention gathering at a distance before it acts. The subtlest of them alter what the Psywinds carry to a target, so that the victim's own senses lie to them. None of this leaves a mark a body could find.
 

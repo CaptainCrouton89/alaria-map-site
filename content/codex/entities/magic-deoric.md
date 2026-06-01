@@ -13,9 +13,9 @@ review:
 Deoric is the language of absolute power. A statement spoken in true Deoric can tear the world apart, given a speaker with the knowledge to compose it and the capacity to bear what wielding it costs. It is the titans' native tongue, the command-language Azus's first creations used to give reality its form. The spoken language is nearly dead now. Its written form survives in the runes of handmagic and in the forbidden rituals that the few who still know the words continue to perform.
 
 ### Handmagic
-The amount of power required to channel Deoric is immense, let alone wield it in a purposeful way. It is only through the strengthening of the astral and malstaric threads—the bindings between one's soul, spirit, and shadow—that one can hope to channel the power necessary to use Deoric.
+The amount of power required to channel Deoric is immense, let alone wield it in a purposeful way. It is only through the strengthening of the astral and malstaric threads, the bindings between one's soul, spirit, and shadow, that one can hope to channel the power necessary to use Deoric.
 
-Handmagic runes are tattooed on the back of one's hands using titan blood (or ground titan bone mixed into a paste). The hands serve a dual purpose: they are the extremities through which the runes are articulated—specific hand movements activate specific runes—and their distance from the spirit's core in the chest provides the leverage needed to control the flow of cosmic power.
+Handmagic runes are tattooed on the back of one's hands using titan blood (or ground titan bone mixed into a paste). The hands serve a dual purpose: they are the extremities through which the runes are articulated, since specific hand movements activate specific runes, and their distance from the spirit's core in the chest provides the leverage needed to control the flow of cosmic power.
 
 With stronger threads, one's hands can bear more runes. However, inscribing too many runs the risk of snapping one's threads entirely, killing the owner instantly as their soul, spirit, and shadow fly apart.
 
@@ -31,10 +31,12 @@ Titan blood acts as a buffer. Because titans were cosmic beings, their blood res
 ### Ritual Magic
 Ritual magic is magic performed using Deoric speech, powered by blood sacrifice. Anything is possible with ritual magic so long as you know the words and have a suitable amount of life sacrificed. Rules for ritual magic are described in below the Spells section.
 
-### Recording Deoric Text
-Deoric can be inscribed on stone, bone, and other materials — the titans did so freely across the landscapes of ancient Alaria. But only titan-material inks hold the Deoric charge without decay: inscriptions on stone and organic media slowly lose potency as the medium weathers, and over the millions of years since the titans left, most such inscriptions have crumbled to illegibility or vanished entirely. The surviving corpus is fragmentary; what mortals know of Deoric was painstakingly reconstructed by scholars — foremost among them the Vyanoweir — from scattered ruins and partial glyphs.
+One standing application of ritual binding is planar summoning. To call a creature across the planar boundary and hold it to service, a summoner inscribes a command-structure in titan-blood paste, a binding circle that states in absolute Deoric terms what the called thing is and must do. A creature can refuse a request; it cannot refuse a true statement of its own nature spoken in the language reality was built from. The School of Summoning teaches this as a formal discipline, and its binding work carries the ordinary Deoric price: blood sacrifice for the calling, and thread-strain on the summoner who holds the circle.
 
-For *functional* use — handmagic runes, ritual inscriptions — only titan blood or bone paste holds the charge. It is magically draining to write, due to the powerful nature of the text. Writing a rune or simple command takes about an hour to complete, and causes you to lose 10 hitpoints. You regain hitpoints lost in this way at a rate of 1 hitpoint each week.
+### Recording Deoric Text
+Deoric can be inscribed on stone, bone, and other materials — the titans did so freely across the landscapes of ancient Alaria. But only titan-material inks hold the Deoric charge without decay: inscriptions on stone and organic media slowly lose potency as the medium weathers, and over the millions of years since the titans left, most such inscriptions have crumbled to illegibility or vanished entirely. The surviving corpus is fragmentary; what mortals know of Deoric was painstakingly reconstructed by scholars, foremost among them the Vyanoweir, from scattered ruins and partial glyphs.
+
+For *functional* use, such as handmagic runes and ritual inscriptions, only titan blood or bone paste holds the charge. It is magically draining to write, due to the powerful nature of the text. Writing a rune or simple command takes about an hour to complete, and causes you to lose 10 hitpoints. You regain hitpoints lost in this way at a rate of 1 hitpoint each week.
 
 Once Deoric text is read by someone other than the author, the text disintegrates into ash. For this reason, along with the reasons above, any book of Deoric text is incredibly valuable.
 
@@ -48,7 +50,7 @@ Deoric is practiced most by the daemons of Celestia, who command it at depths no
 None of this makes daemons the source of the language. The grammar mortals hold was rebuilt by mortals: the Vyanoweir tradition was the first to cross from reciting fixed phrases into composing new ones, and every scholar who commands generative Deoric stands on that work. What a daemon offers is refinement. The grammar itself is a mortal inheritance, carried from teacher to student on the Material Plane.
 
 #### The Celestia Paradox
-Deoric does not function on Celestia. The plane is saturated with Ezz—the same substance that gave it form—and this Ezzic interference disrupts the absolute commands of Deoric speech. A daemon standing in Celestia cannot simply speak Deoric words and reshape reality as a mortal could on the Material Plane.
+Deoric does not function on Celestia. The plane is saturated with Ezz, the same substance that gave it form, and this Ezzic interference disrupts the absolute commands of Deoric speech. A daemon standing in Celestia cannot simply speak Deoric words and reshape reality as a mortal could on the Material Plane.
 
 Yet daemons are the greatest Deoric practitioners in existence. How?
 

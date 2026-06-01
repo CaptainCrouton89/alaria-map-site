@@ -44,5 +44,4 @@ lore in its container (see `docs/worldbuilding/lore-style-guide.md` §Process).
 
 The build DERIVES codex `category`/`section` (from `entityType`), `relatedIds` and containment
 (`contains`/`partOf`, from `within` edges in `relations`), and map links (from `coordinates`).
-`data/locations.json` and the compiled codex JSON are generated FROM these files — never hand-edit
-the outputs.
+Build/output discipline: see root `CLAUDE.md`.

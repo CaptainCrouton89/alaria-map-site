@@ -26,7 +26,7 @@ A hostile dragon wants something from visitors — to kill them, to drive them a
 
 Conversations with Lady — for those who manage to have them — are exercises in frustration. She answers questions with questions. She offers nothing freely. She radiates an aura of profound emptiness that makes visitors question why they came, what they wanted, whether any of it matters. Many leave without getting what they sought, unable to articulate what went wrong.
 
-Some scholars theorize that Lady has been changed by centuries at the leyline intersection — that the Void energy has drained something essential from her, leaving only this hollow shell. Others believe she sought out the intersection precisely because it matched what she already was. The truth, if there is one, Lady isn't sharing.
+The Void energy may have drained something essential from her over the centuries, leaving a hollow shell where a dragon used to be. Or she sought out the intersection precisely because it already matched what she was. The truth, if there is one, Lady isn't sharing.
 
 ### The Name
 "Lady" is what the locals call her — a polite title for something they don't understand and don't want to offend. The Tuktuk know she's there; they avoid the areas near her lair and warn others to do the same. The name is deliberately vague, deliberately respectful, deliberately *not* her true name.

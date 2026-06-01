@@ -8,8 +8,10 @@ sources:
 review:
   aiWritten: false
   action: keep
+relations:
+  - { rel: culture, kind: originatedIn, target: "era-hykravones" }
 ---
-The Naga descend from Nagatayora, the dragon-father who fell in the war against the titan Hykravones, the same war that took the lion-father Shara Bolasi and the wolf-mother Ulvma. He did not fall cleanly. When his body broke open above the field, his blood came down still burning, and the mortals it struck did not burn with it. They changed. Scales rose through their skin, their eyes took on a reptile's set, and a measure of the dragon-father's temper lodged in them and stayed. What fell on the parents passed to the children, and to theirs after them. Every Naga alive carries it.
+The Naga descend from Nagatayora, the dragon-father who fell in the war against the titan Hykravones, the Shattering, the same war that took the lion-father Shara Bolasi and the wolf-mother Ulvma. He did not fall cleanly. When his body broke open above the field, his blood came down still burning, and the mortals it struck did not burn with it. They changed. Scales rose through their skin, their eyes took on a reptile's set, and a measure of the dragon-father's temper lodged in them and stayed. What fell on the parents passed to the children, and to theirs after them. Every Naga alive carries it.
 
 That blood does not breed true, and this is the fact outsiders most often miss. The Naga are not three peoples. They are one bloodline that comes out in three forms, and which form a child takes is no one's to choose, not even the parents'. A house of common scale can bear a child whose scales come in black. A line that has bred for the heavy mountain form across ten generations can still throw a child marked with nothing but the faint lowland patterning. The blood decides for itself.
 

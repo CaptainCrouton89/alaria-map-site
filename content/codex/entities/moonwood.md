@@ -20,15 +20,7 @@ This is Dead Moon Tribe territory.
 
 ##### The Dead Moon Tribe
 
-The humans who ruled Kyagos before the Sylthik arrived—and who never accepted their displacement. For generations they've maintained a fighting retreat into Moonwood, trading open warfare for guerrilla resistance. The Sylthik called them weakened, broken, finished. The smoking ruins of Syvlius suggest otherwise.
-
-The tribe takes its name from Nyxara, the dark moon. Their shamans claim a special connection to Nyxara's cycles, drawing power from the nights when the dark moon dominates the sky. Their healing abilities are legendary—wounds that should kill close within hours, poisons that should be fatal become mere illness. The shamans say Nyxara accepts their pain so they may continue fighting.
-
-Whether this is Psy magic, some form of shadow-aspected Kethic work, or something older remains unclear. What's clear is that Dead Moon warriors fight with unsettling fearlessness, knowing their healers can pull them back from injuries that would end other soldiers.
-
-The revolution revealed what decades of low-intensity conflict obscured: the Dead Moon Tribe was never as weak as they pretended. They were waiting. When a band of outsiders arrived with a plan to free the Drasnian slaves, the tribe saw their opportunity. Dead Moon warriors poured out of Moonwood, joined the slave uprising, and helped reduce Syvlius to rubble.
-
-Now they've retreated back to the forest, nominally. But their warriors patrol further south than they have in decades, and their shamans have been seen meeting with Drasnian leaders in the ruins. Something is being negotiated. The remaining Sylthik city-states are terrified to find out what.
+Moonwood is the refuge and the war-ground of the Dead Moon Tribe, the displaced human people of Kyagos who never accepted Sylthik rule and have fought it from these trees for generations. They take their name and their uncanny battlefield healing from Nyxara, the dark moon, and it was out of this forest that they poured to help burn Syvlius during the Drasnian uprising. Their warriors now patrol further south than they have in decades, and their shamans have been seen treating with Drasnian leaders in the ruins. The tribe keeps its own entry, which covers its history, its Nyxara shamanism, and its disputed link to the Moonwatcher cult in full.
 
 ##### Xyrionn
 

@@ -138,7 +138,7 @@ This is a TTRPG campaign setting, not a museum. Entities that hand a GM a live d
 
 When lore doesn't cohere, rewrite it to cohere. Do not rationalize a broken detail by inventing a justification that preserves it. The one exception is established canon — the locked invariants in `world-systems-invariants.md`. Those must be consulted before any cosmological claim, and conflicts with them must be flagged rather than papered over with an in-universe explanation. A contradiction with a locked invariant is a bug in the entity file, not a feature.
 
-Entity files are canonical. Never hand-edit `data/locations.json`, `public/locations.json`, `data/codex/compiled.json`, or `public/codex-search.json`. These are generated outputs. Regenerate them with `node scripts/build-codex.mts` (or `alaria-codex build`).
+Build/output discipline: see root `CLAUDE.md`.
 
 ---
 

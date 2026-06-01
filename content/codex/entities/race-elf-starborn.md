@@ -8,6 +8,7 @@ relations:
   - { rel: culture, kind: subraceOf, target: "race-elf" }
   - { rel: culture, kind: worships, target: "daemon-eluvarin-aelweir" }
   - { rel: culture, kind: worships, target: "daemon-aelwennar" }
+  - { rel: cosmology, kind: attunedTo, target: "plane-stars-suns-and-moons" }
 sources:
   - "races/Elf.md"
 review:
@@ -19,6 +20,8 @@ The Starborn are the enigmatic caretakers of the celestial order, dwelling withi
 Unlike their druidic cousins who immerse themselves in nature's wild passions, the Starborn maintain strict neutrality in worldly affairs. They view existence from a cosmic perspective where individual lives and even civilizations are but brief flickers against the eternal night. This detachment makes them seem cold to other races, but it stems from their burden of maintaining universal harmony rather than any lack of compassion.
 
 The Starborn conduct nightly rituals to guide wayward stars back to their proper courses and rekindle those whose light begins to fade. They believe that should the stars ever fall from their appointed places, chaos would consume all creation.
+
+The best known of the Starborn is Koras, sole tender of the sun, who broke the order's strict neutrality to serve the sun's awakened spirit, Bryn. Koras's five-hundred-year fight to reignite the corrupted solar core, the Sunless Vigil, is the order's own duty carried to its furthest extreme.
 
 #### Aspects
 - The stars must maintain their course

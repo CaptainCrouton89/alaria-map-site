@@ -22,7 +22,7 @@ The kind of undead follows from which strand is caught.
 
 A held shadow animates the corpse. These are the common dead, the corporeal mass of any necromancer's army: walking carrion, skeletons strung on a single bound shadow, and the stronger wights, which keep a corpse's cunning and spite without keeping its mind. They are slow on their feet and tireless, and useless when no one is left to give them orders.
 
-A held soul instead of a shadow makes a specter: bodiless, mindless in the same fashion, and bound as readily as any corpse.
+A held soul instead of a shadow makes a specter: bodiless, mindless in the same fashion, and bound as readily as any corpse. The same held soul, clamped into a fabricated suit of armor rather than left bodiless, makes a souljack.
 
 A creature that keeps all three of its strands by will alone, declining its own death to settle something it cannot leave undone, is a revenant. Revenants have what the mindless dead lack, because they kept their spirit, and they pay for it: watching everything they loved grow old while a borrowed body rots around their resolve.
 
