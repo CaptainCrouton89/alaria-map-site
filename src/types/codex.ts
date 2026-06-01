@@ -54,6 +54,8 @@ export interface CodexEntry {
   weight?: EntryWeight;
   // New entity model (baked by scripts/build-codex.mts from content/codex/entities/)
   entityType?: string;
+  /** Four-way taxonomy axis: race | culture | template | creature. */
+  entityCategory?: string;
   blurb?: string;
   /** Card-preview image URL: the frontmatter `banner:`, else the first body image (resolved by build). */
   banner?: string;
@@ -83,6 +85,8 @@ export interface SearchEntry {
   /** Card-preview image URL (banner frontmatter, else first body image) — for landing/search cards. */
   banner?: string;
   weight: EntryWeight;
+  tags: string[];
+  entityCategory?: string;
   aliases?: string[];
   derivedInhabitantNames?: string[]; // resolved race names for search (from derivedInhabitants)
 }

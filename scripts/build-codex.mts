@@ -46,6 +46,8 @@ interface Entity {
   /** Admin overrides for the hero banner crop/size (authored via the in-page banner editor). */
   bannerPosition?: string;
   bannerHeight?: number;
+  /** Four-way taxonomy axis: race | culture | template | creature. */
+  entityCategory?: string;
   /** Non-reserved frontmatter keys (population, ruler, founded…) — shown as sidebar facts. */
   metadata?: Record<string, unknown>;
   body: string;
@@ -78,7 +80,7 @@ function stripAuthorNotes(content: string): string {
 const RESERVED_FM = new Set([
   'id', 'name', 'entityType', 'parent', 'blurb', 'coordinates', 'zoomLevel',
   'tags', 'aliases', 'sources', 'relations', 'weight', 'atmosphere', 'review', 'category', 'banner',
-  'bannerPosition', 'bannerHeight',
+  'bannerPosition', 'bannerHeight', 'entityCategory',
 ]);
 
 /** First image URL in a markdown body: `![alt](url)` or `<img src="url">`. Used as the
@@ -111,6 +113,7 @@ for (const file of fs.readdirSync(ENTITIES)) {
     weight: d.weight as EntryWeight | undefined,
     atmosphere: d.atmosphere as AtmosphereType | undefined,
     category: typeof d.category === 'string' ? d.category : undefined,
+    entityCategory: typeof d.entityCategory === 'string' ? d.entityCategory : undefined,
     banner: typeof d.banner === 'string' ? d.banner : undefined,
     bannerPosition: typeof d.bannerPosition === 'string' ? d.bannerPosition : undefined,
     bannerHeight: typeof d.bannerHeight === 'number' ? d.bannerHeight : undefined,
@@ -419,6 +422,7 @@ const WEIGHT_BY_TYPE: Record<string, EntryWeight> = {
   region: 'major', nation: 'major', faction: 'major',
   city: 'standard', water: 'standard', wilderness: 'standard', fortress: 'standard', event: 'standard', era: 'standard',
   town: 'minor', poi: 'minor', ruins: 'minor', creature: 'minor', artifact: 'minor', person: 'minor',
+  template: 'minor',
 };
 function computeWeight(e: Entity): EntryWeight {
   if (e.weight) return e.weight;
@@ -478,6 +482,7 @@ const CATEGORY_BY_TYPE: Record<string, string> = {
   faction: 'factions',
   creature: 'creatures',
   race: 'races',
+  template: 'races',
   magic: 'magic',
   artifact: 'artifacts',
   event: 'history', era: 'history',
@@ -620,6 +625,7 @@ const codexEntries: CodexEntry[] = entities.map((e) => {
     ...(e.coordinates ? { mapLocationId: e.id, coordinates: e.coordinates, zoomLevel: e.zoomLevel } : {}),
     ...(e.parent ? { parentLocationId: e.parent } : {}),
     entityType: e.entityType,
+    ...(e.entityCategory ? { entityCategory: e.entityCategory } : {}),
     blurb: e.blurb,
     weight: computeWeight(e),
     atmosphere: computeAtmosphere(e),
@@ -653,6 +659,8 @@ const searchIndex: SearchEntry[] = codexEntries
       blurb: ce.blurb ?? '',
       ...(ce.banner ? { banner: ce.banner } : {}),
       weight: ce.weight!,
+      tags: ce.tags,
+      ...(ce.entityCategory ? { entityCategory: ce.entityCategory } : {}),
       ...(byId.get(ce.id)!.aliases.length ? { aliases: byId.get(ce.id)!.aliases } : {}),
       ...(derivedNames.length ? { derivedInhabitantNames: derivedNames } : {}),
     };

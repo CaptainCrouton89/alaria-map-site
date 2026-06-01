@@ -11,7 +11,11 @@ const TYPE_LABELS: Record<string, string> = {
   city: 'City', town: 'Town', village: 'Village', fortress: 'Fortress',
   ruins: 'Ruin', poi: 'Landmark', nation: 'Nation', faction: 'Organization',
   deity: 'Deity', plane: 'Plane', event: 'Event', era: 'Era', person: 'Person',
-  artifact: 'Artifact', race: 'People', creature: 'Creature',
+  artifact: 'Artifact', race: 'People', creature: 'Creature', template: 'Template',
+};
+
+const ENTITY_CATEGORY_LABELS: Record<string, string> = {
+  race: 'Race', culture: 'Culture', template: 'Template', creature: 'Creature',
 };
 
 export function typeLabel(entry: CodexEntry): string {
@@ -128,12 +132,25 @@ export function EntityHero({ entry, weight, visual, glanceFacts }: EntityHeroPro
                 {entry.name}
               </h1>
               <div
-                className={`mt-1 flex items-center gap-2.5 text-sm text-ink-muted ${w.centered ? 'justify-center' : ''}`}
+                className={`mt-1 flex flex-wrap items-center gap-2 text-sm text-ink-muted ${w.centered ? 'justify-center' : ''}`}
               >
-                <span aria-hidden className="inline-block w-1.5 h-1.5 rotate-45" style={{ background: accent }} />
+                <span aria-hidden className="inline-block w-1.5 h-1.5 rotate-45 shrink-0" style={{ background: accent }} />
                 <span className="uppercase tracking-[0.14em] text-xs font-display">
                   {typeLabel(entry)}{parent ? ` · part of ${parent.name}` : ''}
                 </span>
+                {entry.entityCategory && ENTITY_CATEGORY_LABELS[entry.entityCategory] && (
+                  <span
+                    className="px-1.5 py-0.5 text-[10px] tracking-[0.1em] uppercase border rounded-sm font-display"
+                    style={{ borderColor: accent, color: accent }}
+                  >
+                    {ENTITY_CATEGORY_LABELS[entry.entityCategory]}
+                  </span>
+                )}
+                {entry.tags.includes('playable') && (
+                  <span className="px-1.5 py-0.5 text-[10px] tracking-[0.1em] uppercase border rounded-sm font-display border-emerald-500/50 text-emerald-400">
+                    Playable
+                  </span>
+                )}
               </div>
             </div>
           </div>

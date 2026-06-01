@@ -41,7 +41,10 @@ export default async function EntryPage({ params }: PageProps) {
     city: 'City', town: 'Town', village: 'Village', fortress: 'Fortress',
     ruins: 'Ruin', poi: 'Landmark', nation: 'Nation', faction: 'Organization',
     deity: 'Deity', plane: 'Plane', event: 'Event', era: 'Era', person: 'Person',
-    artifact: 'Artifact', race: 'People', creature: 'Creature',
+    artifact: 'Artifact', race: 'People', creature: 'Creature', template: 'Template',
+  };
+  const ENTITY_CATEGORY_LABELS: Record<string, string> = {
+    race: 'Race', culture: 'Culture', template: 'Template', creature: 'Creature',
   };
   let entryTypeLabel = 'Entry';
   if (entry.entityType && TYPE_LABELS[entry.entityType]) {
@@ -73,6 +76,13 @@ export default async function EntryPage({ params }: PageProps) {
   const glanceFacts: GlanceFact[] = [];
 
   glanceFacts.push({ label: 'Type', value: entryTypeLabel });
+
+  if (entry.entityCategory && ENTITY_CATEGORY_LABELS[entry.entityCategory]) {
+    glanceFacts.push({ label: 'Category', value: ENTITY_CATEGORY_LABELS[entry.entityCategory] });
+  }
+  if (entry.tags.includes('playable')) {
+    glanceFacts.push({ label: 'Player Option', value: 'Yes' });
+  }
 
   if (entry.partOf) {
     glanceFacts.push({ label: 'Within', value: entry.partOf.name, href: `/codex/${entry.partOf.id}` });

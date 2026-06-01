@@ -3,7 +3,7 @@ import type { LucideIcon } from 'lucide-react';
 import {
   Map, Trees, Waves, MapPin, Home, Tent, Castle, Shield, Landmark, Crown,
   Sparkles, Flame, Skull, PawPrint, Swords, Gem, User, ScrollText, Orbit,
-  Hourglass, Users, BookOpen, Wand2,
+  Hourglass, Users, BookOpen, Wand2, Layers,
 } from 'lucide-react';
 import type { CodexEntry } from '@/types/codex';
 import type { AtmosphereVisual } from '@/lib/atmosphere';
@@ -32,6 +32,7 @@ const TYPE_ICON: Record<string, LucideIcon> = {
   artifact: Gem,
   race: Users,
   creature: PawPrint,
+  template: Layers,
   faction: Swords,
   overview: BookOpen,
 };
