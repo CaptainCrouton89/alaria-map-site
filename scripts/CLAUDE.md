@@ -1,0 +1,1 @@
+- **Sentinel ordering in entity files**: `<!-- author-notes -->` strips everything after it to end-of-file. It must be the *last* block — after `<!-- mechanics -->`. Placing it before `<!-- mechanics -->` silently drops the mechanics section from all codex outputs (no error; source file is untouched).

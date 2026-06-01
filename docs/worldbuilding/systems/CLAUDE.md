@@ -1,0 +1,1 @@
+- **Daemon return is body-theft only**: daemons have no kept body and cannot use anchor-return; the only pathway back to the living world is the stolen-body rite, which destroys the original occupant — detail lives in `plane-life-and-death.md §Displacement and the Stolen Life`. Authoring a daemon who returned by any other means silently contradicts `systems/celestia-return.md`.
