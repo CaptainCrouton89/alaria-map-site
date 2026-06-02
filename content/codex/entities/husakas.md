@@ -8,8 +8,8 @@ zoomLevel: 4
 tags: ["desert", "geography", "culture"]
 sources: ["all_sections_formatted/Rimihuica.md#L2347"]
 relations:
-  - { rel: spatial, kind: within, target: "2620" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-husakas" }
+  - { rel: spatial, kind: within, target: "2651" }
 review:
   aiWritten: true
   archetype: ai-ok

@@ -21,7 +21,7 @@ review:
 ---
 ### Geography
 
-The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle Sea and the open western ocean. This strategic position has made Tarkhon one of the most powerful—and most resented—political entities in the region. The Middle Sea opens to the strait at Kazül, the desert glass-kingdom that pays the toll most directly of all the inner-sea coast and skims what trade it can around the edge of the imperial count.
+The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle Sea and the open western ocean. This strategic position has made Tarkhon one of the most powerful—and most resented—political entities in the region. The Middle Sea opens to the strait at Kazül, the desert glass-kingdom that pays the toll most directly of all the inner-sea coast and skims what trade it can around the edge of the imperial count. The toll at the strait is only the first gate of a longer corridor: a hull that has paid Tarkhon still faces Sheîr's pilots across the Sea of Merchants and Tollgate's fee at the mouth of Phyndarr Sound, two Western Isles powers that tax the same trade the empire would rather tax alone.
 
 ##### On Clueanda (Northern Holdings)
 - **Nektuna**: The imperial heartland, controlling the northern shore of the strait
@@ -95,3 +95,7 @@ The Neferati founders understood from the beginning that controlling the strait 
 For nearly three centuries, Neferati emperors—or their increasingly diluted descendants—ruled from Tarkhetan. They expanded through trade agreements and tributary arrangements, absorbing states like Kerwin through negotiation rather than war.
 
 Then came the Severance, and human hands took the throne. The new rulers maintained the symbols and traditions of their predecessors while slowly forgetting their origins. The Evertorch still burns. The institutions still function. But the fire that founded them has withdrawn to the Kingdoms of Fire, waiting.
+
+### The orcs beyond the passes
+
+Tarkhon's maps end the empire at the Wurmspine, and the court rarely looks past them. Beyond the Vogenfeld passes lies Hedroscobb and five more orc states, and when Tarkhetan speaks of the orcs at all it speaks of them as vermin: a northern infestation penned behind the dwarves, not a power to be reckoned with or bargained with. The contempt is policy as much as prejudice. An empire that grew by buying its neighbors has no language for a people who cannot be bought, so it has decided they are beasts and left the matter there. This suits the orcs well enough. They are not massing for conquest and want nothing Tarkhon could sell them; they are simply watching to see how long the dwarves keep standing on the wall.

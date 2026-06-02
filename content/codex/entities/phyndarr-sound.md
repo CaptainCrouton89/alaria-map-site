@@ -52,6 +52,8 @@ Several powers maintain presence along the Sound:
 
 **Iypos** on Migos controls the western approach. Their harbor serves ships entering or leaving the Sound—a natural resupply point.
 
+**Tollgate** holds the fortified island at the Sound's northern mouth, where the channel meets the Iron Sea. It has taxed north-south passage there for three centuries, and every ship running the corridor between the Iron Sea and the Shattered Sea passes under its gate towers and pays, or takes the long route around. Of all the Sound's powers, Tollgate is the one that treats the channel as a toll booth rather than a shared road, which is why everyone uses it and no one likes it.
+
 **Knova** maintains no territorial claim but their ships patrol the northern entrance. The triton patrol the waters below.
 
 **The Foggy Isles** lie near the Sound's eastern edge. Ships passing close report fog banks drifting into the channel—the Veilkeepers extending their influence, or just natural weather.

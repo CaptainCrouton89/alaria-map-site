@@ -34,6 +34,10 @@ No central authority exists. Attempts to create one have historically failed; th
 
 **Dragonfly Bonds:** The relationship between gnome and mount is intimate and lifelong. Losing a dragonfly is a genuine tragedy; bonding with a new one takes months of patient work.
 
+**The Breeds:** Three breeds carry Seyiki life. Skimmers are light and fast, the mounts of scouts, messengers, and racers; a skimmer can cross the ten miles between pillars in under an hour. Haulers are heavier, bred to sling cargo beneath them. War-dancers are aggressive and precise, trained for the air-combat the warbands are feared for. Racing skimmers from pillar to pillar is the network's great sport, and its champions are celebrities.
+
+**The Resonance-Touched:** Generations spent living against active crystal have left the Seyiki faintly attuned to the old magic. They are no kind of mage, but they read the pillars' moods. A shift in the crystal-hum warns of a coming storm; a locust swarm is felt days before it rises; and a sleeper atop a "blessed" pillar sometimes wakes with fragments of a vision he cannot place.
+
 **The Reaping:** The seven-year locust swarms are the most important cultural event. Seyiki don't hide—they hunt, riding into the swarms to harvest locusts by the ton. A gnome's worth is measured partly by how many Reapings they've survived.
 
 ### Economy

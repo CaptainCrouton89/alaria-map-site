@@ -81,7 +81,7 @@ The ruins of what was once one of the most magically advanced civilizations in A
 
 Old Tolaria's mage-kings pursued magical knowledge without restraint. They believed magic was too entangled—elemental, arcane, divine, and fae energies all bleeding into each other, impossible to isolate or perfect. They built the Apparatus of Severance in their capital of Elderran to separate these magical traditions into pure, controllable forms.
 
-The activation of the Apparatus was the end of Old Tolaria as a functioning nation. The magical backlash created the Faewoods in an instant, tore holes in reality across the region, and left Elderran itself trapped in a temporal catastrophe that continues to this day. The mage-kings who survived scattered. The population fled or died. Within a generation, Old Tolaria existed only in memory and ruin.
+The activation of the Apparatus ended Old Tolaria as a functioning nation. The backlash created the Faewoods in an instant, tore holes in reality across the region, and left Elderran trapped in a temporal catastrophe that runs to this day. What became of the mage-kings themselves was never settled. Many were caught in the dilation at the city's heart and may still be alive there, frozen in the instant of their greatest triumph and their worst failure. At least one is reckoned to have fled before the end. Vesimar the Unsevered escaped the severance he had helped design, and the stories that still circulate place him loose in the world long after the rest of his line went silent. The population fled or died. Within a generation, Old Tolaria survived only in memory and ruin.
 
 #### Elderran
 

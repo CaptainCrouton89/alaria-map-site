@@ -14,6 +14,8 @@ review:
 relations:
   - { rel: spatial, kind: within, target: "4165" }
   - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human city-states; named human governance (Lord Brennan Toll, Harbor Master Theodras Vane, Admiral Kess Ironhull, founding families)" }
+  - { rel: polity, kind: rivalOf, target: "2455", note: "Tarkhon covets the Phyndarr Sound toll revenue and has threatened to 'resolve the Tollgate problem,' but cannot justify the cost of taking the fortified island" }
+  - { rel: polity, kind: rivalOf, target: "4310", note: "competing claims to strait control; Sheîr proposed joint administration of the corridor tolls, Tollgate refused to share" }
 ---
 A fortified city-state occupying a strategic island at the mouth of Phyndarr Sound—the self-proclaimed "Gatekeepers of the North." Tollgate charges tolls on ships passing between the Iron Sea and the Shattered Sea, and backs the claim with enough military force to make it stick.
 
@@ -84,6 +86,11 @@ Everyone hates Tollgate. Everyone also uses Tollgate's services.
 **Knova** tolerates Tollgate because disrupting the strait would hurt Knova's own trade. They've made clear that any attack on Tollgate shipping would invite response.
 
 **Tarkhon** has threatened to "resolve the Tollgate problem" repeatedly. So far, the cost of conquering a fortified island has exceeded the benefit of eliminating the tolls.
+
+### The corridor's last gate
+Tollgate is the northern end of a longer road. A cargo carried from the Middle Sea to the northern Western Isles pays three separate powers before it arrives. The Tarkhon Empire takes the first toll at its strait, the only sea gate out of the inner sea. Sheîr takes the second for pilots and approach across the Sea of Merchants. Tollgate takes the last, at the mouth of Phyndarr Sound, for the passage north. None of the three coordinates with the others. Tollgate simply holds the northern door and charges for it, as it has for three centuries, and lets the empire and Sheîr collect at their own gates.
+
+This is why Tarkhon's standing threat against Tollgate is more than bluster and less than a plan. The empire already takes the first and largest cut at the narrows, and the sight of two island powers taxing the same hulls afterward is a grievance Tarkhetan has aired for years. Lord Brennan reads it correctly. An island fortress that has never fallen is a poor target for even a fire-mage fleet, and the tolls would still need collecting once the empire held the rock. So the threat recurs, and the toll house stays open.
 
 ### What Brings People Here
 - **Necessity**: Ships traveling north-south pay the toll or take dangerous alternate routes

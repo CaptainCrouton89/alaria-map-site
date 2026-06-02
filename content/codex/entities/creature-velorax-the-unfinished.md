@@ -6,6 +6,8 @@ blurb: "A young dragon frozen above the ruins of Elderran, caught in the moment 
 tags: ["dragon", "elderran", "old-tolaria", "temporal"]
 sources:
   - "bestiary/dragons/Velorax.md"
+relations:
+  - { rel: possession, kind: boundTo, target: "artifact-apparatus-of-severance", note: "frozen mid-transformation by the machine" }
 review:
   aiWritten: false
   action: keep
@@ -16,6 +18,8 @@ A young dragon frozen above the ruins of Elderran, caught in the moment of the A
 Velorax was barely a century old when she flew into Elderran, drawn by the unprecedented magical energies of the Apparatus's activation. Young for a dragon, curious, and perhaps foolish. She arrived at the exact wrong moment.
 
 The Apparatus was designed to separate magical traditions into their pure forms. Dragons are inherently creatures of many magics woven together, and the Apparatus read that tangle through the mage-kings' own scheme—elemental fire in the breath, the patterned power they named arcane in the mind, the deep resonance they called divine in the ancient blood. When it tried to unweave Velorax along those assumed seams, it partially succeeded.
+
+What holds her is the Apparatus of Severance itself, the crystalline engine at Elderran's heart. It caught her in the first instant of its activation, froze her mid-transformation, and has not finished with her since. She is bound to the machine as surely as the mage-kings are, and like them she cannot be freed without answering what the Apparatus would do once its grip let go.
 
 ### Appearance
 From a distance, Velorax appears frozen in flight above Elderran's central spire—wings spread, jaws open, fire mid-breath. A dramatic statue of a dragon mid-attack.

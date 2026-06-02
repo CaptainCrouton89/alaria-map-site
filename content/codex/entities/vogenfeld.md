@@ -13,6 +13,7 @@ relations:
   - { rel: spatial, kind: within, target: "2455" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-uline" }
   - { rel: polity, kind: tributaryOf, target: "2455", note: "unpaid dwarven passes — northern-collapse tension" }
+  - { rel: polity, kind: protects, target: "2455", note: "the northern shield of Tarkhon; holds the Wurmspine passes that are the only army-route to the imperial heartland" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -58,3 +59,7 @@ Vogenfeld still receives tribute from Tarkhetan, but the payments are a fraction
 Daily patrols into the Wildwood's edge watch for signs of orcish coordination among the six great tribal states to the north. These patrols are costly; dwarves die each year, and their names join the monuments. Tarkhon doesn't ask about the patrols. The question of how long Vogenfeld continues to honor an increasingly one-sided pact grows louder every year.
 
 The wager runs wider than Tarkhon knows. The passes Vogenfeld holds are the northern shoulder of the Tarkhon Strait, the one gap through which all Middle Sea trade reaches the western ocean. Should the dwarves ever abandon the heights, Hedroscobb would gain a road south toward that strait's flank, and the whole inner-sea coast that lives on the toll-road below would find its trade threatened by an orc host none of those wealthy cities ever thought to pay for keeping out. The Middle Sea depends on dwarves it has never once met.
+
+#### Keeping the north divided
+
+The patrols do more than count orc banners. Watch the six tribal states long enough and a pattern shows itself: twice in living memory the orcs drew close to a general peace, and twice it came apart over a grievance that arrived at exactly the wrong moment. This is not luck. The dwarves of Kaisa, whose tunnels open in secret onto the Wildwood, have learned that a war is easiest to keep lit from the outside. A raiding party's route reaches the clan it meant to surprise a day early. A Hedroscobbi blade surfaces in Glivornaxi mud where the spear-guardians are certain to find it. The War of the Marshes grinds on over the Yugurbas Dyos algae. The Water War never settles the Contested Shore. And the Shazuihni come down on the Gray Orc each dry season, boars and all, for reasons that have nothing to do with any dwarf and everything to do with a feud Kaisa has taken quiet care never to let cool. The Council of Thanes states the logic without softening it. Six orc states at each other's throats cannot take the passes; six at peace would be over the Wurmspine in a single season. So the scouts go out, and come home fewer, and the Council cuts the new names into the wall and sends the next patrol north. They have long since stopped expecting Tarkhon to understand why.

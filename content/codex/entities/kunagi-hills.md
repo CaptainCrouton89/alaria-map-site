@@ -9,6 +9,7 @@ tags: ["hills", "geography"]
 sources: ["all_sections_formatted/Rimihuica.md#L2521"]
 relations:
   - { rel: spatial, kind: within, target: "2634" }
+  - { rel: spatial, kind: borders, target: "2651" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -45,4 +46,4 @@ Caravans pause at the hills' eastern foot to rest, resupply, and nerve themselve
 
 **The Last Water**: A cluster of springs at the hills' eastern base, the final reliable water source before the desert crossing. Control of these springs gives Shinii leverage over the caravan trade.
 
-**Blitzling Territory**: The northern Kunagi Hills merge into the Shyaliviin range (also called Malasi Karkus), where Blitzling creatures are known to dwell. Shinii's northern patrols avoid this area.
+**Blitzling Territory**: The northern Kunagi Hills merge into the Shyalaviin range (also called Malasi Karkus), where Blitzling creatures are known to dwell. Shinii's northern patrols avoid this area.

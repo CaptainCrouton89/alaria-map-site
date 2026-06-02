@@ -57,6 +57,21 @@ The awakened trees are their own kind. They run from barely aware, responding to
 
 Other things live here that are neither fae nor awakened, only changed. Animals that ate magic-soaked forage and became something else. Plants that learned to hunt. Stones that watch. And through the elemental rifts come things that belong to other planes entirely, drawn to the broken places the way moths come to a lamp. Those who meet them describe them in contradictory ways, because the rifts do not open onto any single elsewhere.
 
+#### The leak and the cordon
+
+The dead zone does not spread. That is the one mercy of Old Tolaria, and the people who live around it have learned to trust it. The border the catastrophe drew has held roughly where it fell, and a farmer in the Innerrim lowlands can work land within sight of the Glass Forest's glow and expect to die of old age. What the border does not do is hold things in. The region leaks, it has always leaked, and it leaks at a rate that never lets the surrounding states forget it is there.
+
+What comes out is everything that lives inside, scattered and at large. Animals warped by the time-pockets wander out aged wrong: a wolf with a gray muzzle on a yearling's body, a hind whose antlers carry more winters than the rest of her. Things from the elemental rifts follow the broken ground outward, salamander-bright and burning no fuel, until they reach a village well and cool it to slag. Faesong-touched creatures drift with the resonance, including the worst kind, an awakened thing wearing the borrowed manners of a scholar it ate, a courtesy that knocks before it kills. And loose objects work their way to the surface and get carried off: a Tolarian focus-stone, a ledger that writes in itself, a small clock that runs backward and takes the room with it.
+
+To catch all this the Innerrim states maintain a cordon. It is a thin line of watch-forts and paid trackers strung along the region's habitable margin, thickest at the western edge where the Glass Forest funnels most of what escapes. The cordon is not a wall and was never built to be one. Its work is to meet what comes out before it reaches a town, name it, and decide what to do with it. The deciding is where the trouble lives.
+
+Three answers pull against each other and none has won. The states that pay for the cordon are the border holds, who bear the cost while the interior reaps the safety and contributes little, and they increasingly want a kill-line: destroy whatever crosses, burn the relics rather than catalogue them, and have done with the fiction that the place can be studied at all. The scholars want the opposite. They argue for a controlled intake, every creature and artifact logged and held, on the grounds that the only thing worse than Tolarian magic loose in the world is Tolarian magic no one has bothered to understand. The smugglers want the gaps kept open, because a captured rift-beast or an intact focus-stone is worth a working lifetime's wages to the right buyer, and the right buyer always exists.
+
+> Everything that comes out of Tolaria is one of three things. It is hungry, or it is valuable, or it is pretending to be a man. The fourth kind we do not talk about, because the fourth kind we never caught.
+> — attributed to a watch-captain of the western cordon
+
+The fourth kind has a name. Not everything that left Old Tolaria was a beast or a trinket. Vesimar, called the Unsevered, was one of the Tolarian mage-kings, a master of the Apparatus of Severance who walked out of Elderran before the machine was thrown and so was never caught in the severance that took the rest of his dynasty. He is still abroad centuries later, carrying stolen time in his own threads, still chasing the purified magic the Apparatus was built to make. The cordon was raised to stop loose creatures and looted relics. It has never once stopped a mage-king, because the first one was already gone before anyone thought to build it.
+
 #### Approaching Old Tolaria
 
 The borders are half-open. The Glass Forest can be entered, carefully, and people do: herbalists after rare plants, scholars after fragments of the lost kingdom. The trick is knowing the hour to leave and having the will to actually go.
@@ -66,3 +81,8 @@ The interior is another matter. Every generation throws up adventurers certain t
 Most do not come back. The ones who do are often changed, sometimes plainly and sometimes in ways that only surface later, and their accounts never quite line up even when they walked in side by side.
 
 Old Tolaria is not a finished disaster. The Apparatus is still running, and the country is still coming apart by degrees.
+
+<!-- author-notes -->
+Wave 5 (the leak): added "The leak and the cordon" present-state hook per decision C — dead zone does not expand; the perpetual danger is what seeps out, and the Innerrim cordon exists to catch it. Three-way tension (states/quarantine vs. scholars/study vs. smugglers/black market) is the live GM lever; funding dispute (border holds pay, interior free-rides) is unresolved by design.
+Prose backlinks (no edges authored from this file — none required this wave): Vesimar the Unsevered (`person-vesimar`), Apparatus of Severance (`artifact-apparatus-of-severance`), Tolarian mage-kings (`faction-tolarian-mage-kings`).
+Name "Vesimar" is PROVISIONAL (no Tolarian onomastics sheet exists; matched to the Tolarian register — soft liquids, -ar/-or/-ran endings). Silas may rename.

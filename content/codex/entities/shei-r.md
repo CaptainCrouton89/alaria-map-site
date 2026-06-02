@@ -98,6 +98,12 @@ This gives Sheîr significant leverage. They charge tolls, offer pilots for trea
 - **The Drift Passage**: Through the central islands—fast but dangerous without local guidance
 - **The Southern Track**: Around Sheîr's islands toward Istokos and the Sea of Sharks
 
+### The corridor's second gate
+
+A cargo coming from the Middle Sea to the Shattered Sea travels one road, and Sheîr sits across the middle of it. The first toll is taken far to the east, at the Tarkhon Strait, where the Tarkhon Empire taxes everything leaving the inner sea. A hull that has paid the strait still has to cross the Sea of Merchants and thread the eastern islands, and that water is Sheîr's. The kingdom sells the pilots, the charts, and the safe approach, and charges for all three. North of here the route runs into Phyndarr Sound, where Tollgate takes a third toll at the Sound's mouth.
+
+Sheîr makes no apology for being the middle hand. The Seat is more Tarkhon than Western Isles by temperament, and the kingdom is content to profit from imperial trade without owing the empire fealty. What galls the Seat is not Tarkhon but Tollgate, which taxes the same northbound hulls a second time after they have already paid Sheîr. Sheîr has proposed sharing the work and splitting the take; the Gatemaster of Tollgate refuses to share anything. The two powers have never agreed on which of them is the upstart.
+
 ### What Brings People Here
 
 - **Trade**: The Seat is the gateway between Tarkhon and the Western Isles

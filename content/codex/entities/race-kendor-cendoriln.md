@@ -25,6 +25,8 @@ The Cendoriln are Kendor, named for the warm shallows like all their kind, and l
 
 **Diaspora**: Unlike the other subraces, Cendoriln have spread far beyond the Kendrel Kingdoms. Populations exist in the Riptear Sea, deep Aboyinzu, and scattered thermal vent systems throughout the world's oceans. These diaspora communities maintain no contact with surface nations and often refuse communication even with the Kendrel Kingdoms, considering themselves purer practitioners of Kendor tradition—uncorrupted by surface influence. The Riptear Cendoriln are particularly isolationist, and their existence is known only through rare Pelaendor encounters.
 
+One holding sits beneath the Emerald Coast, in the deepest galleries of the Crystal Caverns, where Cendoriln claims predate New Chimea's harvest by centuries. The surface nations cut force-crystals out of the leyline intersection faster than the caverns can regrow them, and the Cendoriln there answer with quiet sabotage: fouling safe routes, mismarking sound crystals, slowing a harvest that is grinding the coast toward collapse. They keep no envoys above the water; what warning the courts receive arrives through Pelaendor wanderers.
+
 #### Aspects
 - Secrets are currency
 - I thrive where others fear to swim

@@ -7,7 +7,7 @@ coordinates: [166, 251]
 zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L1918"]
 relations:
-  - { rel: spatial, kind: within, target: "2620" }
+  - { rel: spatial, kind: within, target: "2651" }
 review:
   aiWritten: true
   archetype: ai-ok

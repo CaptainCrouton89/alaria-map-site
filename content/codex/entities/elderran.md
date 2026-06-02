@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "732" }
   - { rel: culture, kind: inhabitedBy, target: "creature-velorax-the-unfinished" }
   - { rel: cosmology, kind: attunedTo, target: "magic-time", note: "the Apparatus's planar anchors tore the Izzus seam beneath Elderran; the city-wide time dilation and the region's fractures are torn Izzus, the same tear as the Torn Hour at the Plains of Oblivion" }
+  - { rel: history, kind: precededBy, target: "event-torn-hour", note: "the Torn Hour was the first recorded Izzus seam tear; the Apparatus tore the same seam a second time, on a far larger scale" }
 review:
   aiWritten: false
   archetype: ai-ok
@@ -61,7 +62,7 @@ What belongs to Elderran is the time. The fractures thin out with distance but n
 
 Elderran was not empty when the Apparatus activated. Thousands lived in the capital. Some died at once. Some are still dying, caught in loops of slowed time that have not yet finished killing them. And some, remade by the magical chaos, became other things entirely.
 
-Automatons built by the mage-kings still patrol the outer districts, keeping to maintenance routines written for a city that no longer exists. Elemental creatures, drawn in through the rifts, have made homes in the ruins. And deep in the dilated center, the mage-kings themselves may still be alive, frozen in the instant of their greatest triumph and their worst failure, waiting on someone to save them or end them.
+Automatons built by the mage-kings still patrol the outer districts, keeping to maintenance routines written for a city that no longer exists. Elemental creatures, drawn in through the rifts, have made homes in the ruins. And deep in the dilated center, the mage-kings themselves may still be alive, frozen in the instant of their greatest triumph and their worst failure. Caedran, the last of the line and the architect who threw the final switch, is caught at the Apparatus's heart where the dilation runs deepest, conscious, living the collapse out one slow heartbeat at a time the way Velorax lives her unraveling above the spire. Olarane, the mage-queen who argued the Apparatus would never hold and was overruled for it, stayed behind to try to stop it; whether she is frozen among them or was remade into something that walked away, no one who has gone in after her has come back to say. And not all of them are accounted for. At least one threw down the work and left before the end. Vesimar fled Elderran at the brink of activation and so was never severed, and he is loose in the world still, his life drawn long on the stolen hour he carried out with him, chasing the same purified magic the rest of them died inside.
 
 #### Hooks
 
@@ -72,3 +73,6 @@ Automatons built by the mage-kings still patrol the outer districts, keeping to 
 *The mage-kings' notes.* The Tolarians knew exactly what they were attempting. Their research, if it can be recovered from the vaults, might explain how to undo the damage. It would explain just as well how to build a second Apparatus somewhere else.
 
 *Lost in time.* Someone's grandparent walked into Elderran fifty years ago and never walked out. They may still be alive in there, halfway through an endless afternoon. The family wants them back, or at least wants to know.
+
+<!-- author-notes -->
+Wave 5: wove in the three named Tolarian figures now that their entities exist. Caedran (person-caedran) is the frozen architect at the Apparatus's heart, the figure behind the existing "mage-kings may still be alive" line. Olarane (person-olarane) is the dissenter; her fate is left open here to match whichever branch her own file picks (frozen at Elderran vs. wandering transformed). Vesimar (person-vesimar) is the one who escaped. All three names provisional pending a Tolarian onomastics sheet — Silas may rename. Added the D1 edge history/precededBy → event-torn-hour. Did NOT author edges from here to the Apparatus/faction/persons (computed, or authored from their side). "Apparatus of Severance" = the artifact (artifact-apparatus-of-severance); never the unrelated event-the-severance (the Tarkhon dynastic break).

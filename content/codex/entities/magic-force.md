@@ -11,6 +11,7 @@ review:
   action: keep
 relations:
   - { rel: cosmology, kind: channels, target: "1316", note: "Dynus leyline bound into the Circle of Stone convergence" }
+  - { rel: cosmology, kind: channels, target: "3030", note: "Dynus leyline intersecting Golus beneath New Chimea's coast" }
 ---
 Of the nine elements, force is the one that moves things directly. A shaper channels emotion through Dynus, the ninth elemental layer, and adds or strips momentum from the world with nothing in between. A thrown spear leaves the hand faster than the arm could send it. A falling crate stops a handspan above the floor. A gate four men cannot shift swings open under one finger. Where an air-shaper moves the air and lets the air move the world, a force-shaper skips the middle step.
 

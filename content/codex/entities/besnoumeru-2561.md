@@ -22,6 +22,8 @@ Access to the best of the seam is the city's real wealth, and it is held rather 
 
 The empire would like to own this and cannot. Tarkhon taxes Besnoumeru's profits the way it taxes everything in Nektuna, but the seam answers only to a shaper's feeling, and feeling is not a thing a tax-collector can seize. Tarkhetan's own markets resent the second city for it. The one question no one in Besnoumeru can answer is how deep the seam runs, or whether three centuries of merchants stretching their moments over it have begun to wear it thin. The houses swear it is bottomless. They have no way to know.
 
+The seam is not Besnoumeru's alone. Far to the west, past the Sea of Merchants, the same Izzus layer surfaces beneath the salt-white island the pirate isles call the White Oracle, where a seer works it for counsel instead of contracts and answers to no empire at all. The houses take no comfort from the comparison. A western node outside Tarkhon's monopoly is proof that the thing under their floors was never theirs to own, only theirs to lease.
+
 > A seat on the floor costs more than the house behind it. You are not buying the chair. You are buying the half-second.
 > — a Besnoumeru leasing-broker
 

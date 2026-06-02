@@ -14,6 +14,7 @@ relations:
   - { rel: spatial, kind: borders, target: "1137", note: "E" }
   - { rel: spatial, kind: borders, target: "2582", note: "S" }
   - { rel: culture, kind: inhabitedBy, target: "race-orc-hedroscobbi" }
+  - { rel: polity, kind: rivalOf, target: "2455", note: "no hatred; opportunistic — would take Tarkhon if the Vogenfeld wall ever failed; mutual, cold racial contempt" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -49,3 +50,14 @@ Continental temperate—cold winters with heavy snow, warm summers with occasion
 Hedroscobb controls the passes between the Wildwood and Tarkhon. If the orcs ever decided to invade the empire, they would come through Hedroscobb. The Vogenfeld dwarves exist specifically to prevent this.
 
 The Hedroscobbi's algae-iron armor makes them the most formidable conventional military force in the Wildwood. Their weakness is their dependence on swamp algae—which is why the War of the Marshes never ends.
+
+#### The view of Tarkhon
+
+The Hedroscobbi do not fear Tarkhon, and they do not respect it. To the smiths of the Slag Halls, the empire across the passes is a soft, scheming thing that has never once won a fight it could not buy its way out of. Tarkhon grew by treaty and coin, swallowing its neighbors with trade terms instead of armies, and to an orc who works a metal only acid can touch, that is not strength. It is the opposite of strength. The forge-clans have a name for the empire that translates as something close to the wheedler, and it is not said with affection.
+
+The contempt does not rise to hatred. Hatred would mean taking Tarkhon seriously. The Hedroscobbi simply note that a fat, rich neighbor sits one mountain range to the south, that only the Vogenfeld dwarves stand in the gap, and that walls come down eventually. They are in no hurry. Should the dwarves ever abandon the heights, the orcs will come through the passes and take what the empire could not be bothered to hold itself. Until then they wait, and they sharpen, and they fight each other. There is no crusade in this, no prophecy, no sacred grievance. Only patience, and a door that has not yet opened.
+
+> They will not fight us. They pay the dwarves to fight us, and pay the dwarves to die, and then they call us animals. Let the wall fall one winter and we will see who the animals were.
+> — a smith-captain of the Acid Gate
+
+The loathing runs both ways, and both sides are at peace with it. Tarkhon names the orcs vermin, a thing to be walled out rather than spoken with, and counts the killing of them no crime worth the name. The Hedroscobbi return the verdict exactly and feel wholly justified in it. A people who fight with bribes and clerks, who hire dwarves to die in their place, are not people at all by any reckoning that holds weight in the Wildwood. Neither side has ever found a reason to revise the judgment.

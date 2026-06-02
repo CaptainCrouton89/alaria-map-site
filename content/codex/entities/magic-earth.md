@@ -11,6 +11,7 @@ review:
   action: keep
 relations:
   - { rel: cosmology, kind: channels, target: "1316", note: "Golus leyline bound into the Circle of Stone convergence" }
+  - { rel: cosmology, kind: channels, target: "3030", note: "Golus leyline intersecting Dynus beneath New Chimea's coast" }
 ---
 Earth is the Kethic element of the solid ground: stone, soil, packed clay, the ore still locked in its vein. A shaper channels emotion through Golus, the earth layer of the Elemental Planes, and the rock obeys. Walls climb out of a bare hillside. A road's paving knits itself flat. A tunnel folds shut behind the people who just fled down it.
 

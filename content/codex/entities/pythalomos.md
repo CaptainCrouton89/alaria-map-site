@@ -8,7 +8,7 @@ zoomLevel: 5
 tags: ["dragon", "creature"]
 sources: ["all_sections_formatted/Rimihuica.md#L3072"]
 relations:
-  - { rel: spatial, kind: within, target: "2620" }
+  - { rel: spatial, kind: within, target: "2712" }
 ---
 A dragon of Westrim.
 

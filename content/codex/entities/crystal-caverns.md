@@ -5,10 +5,11 @@ entityType: poi
 blurb: "The Crystal Caverns lie beneath the coastal waters of New Chimea, a network of submarine caves that extends for miles beneath the seafloor."
 coordinates: [306, 257]
 zoomLevel: 5
-tags: ["underwater", "leyline", "caverns", "force", "earth", "dungeon", "Force", "Earth"]
+tags: ["underwater", "leyline", "caverns", "force", "earth", "dungeon"]
 sources: ["all_sections_formatted/Rimihuica.md#L4860"]
 relations:
   - { rel: spatial, kind: within, target: "3066" }
+  - { rel: culture, kind: inhabitedBy, target: "race-kendor-cendoriln" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -87,4 +88,9 @@ In practice, the cavern network is too extensive to patrol completely. Smugglers
 
 The Kendor communities maintain traditional claims to certain cavern sections, which New Chimea technically recognizes but frequently violates. Relations between surface harvesters and Kendor inhabitants remain tense—the Kendor understand the stabilization function that surface nations ignore, and they have begun sabotaging harvesting operations in the most critical areas.
 
+The communities running the sabotage are Cendoriln, the deep-cave Kendor whose claims here predate New Chimea by centuries. They hold the chambers nearest the intersection, galleries no surface diver reaches and returns from, and they read the crystal balance the way a geomancer reads a failing fault. For generations their resistance was passive: they kept to their own sections, refused to trade in cut crystal, and let the harvesters believe the deep galleries were simply impassable. The seismic toll ended that patience. Now they work against the operations directly, fouling safe routes and marking sound crystals as unstable, or steering an overconfident crew toward a chamber that closes behind it; a diver who never surfaces leaves no account the next crew will trust. What warning reaches land comes through the Pelaendor, the wanderers who carry word to the coastal courts that the harvest is unmaking the thing it sells.
+
 A quiet war is being fought in the Crystal Caverns. New Chimea assumes it is about profit. The Kendor know it is about survival.
+
+<!-- author-notes -->
+Wave-4 addition (crystal writer): named the Cendoriln (race-kendor-cendoriln) as the deep-cave Kendor running the sabotage, and the Pelaendor (race-kendor-pelaendor) as the wanderer-liaisons who carry warnings to surface courts. This subrace assignment is a provisional authorial pick for Silas's review/veto — the original body said only "the Kendor." Grounding: Cendoriln are deep-trench/cave specialists (master secret-keepers, willing to use fear and indirect violence; their existence among the Riptear is known only through "rare Pelaendor encounters" per race-kendor-cendoriln.md), so they fit cave-cavern habitation and covert sabotage; Pelaendor are the nomadic contact-bearers. The inhabitedBy edge to race-kendor-cendoriln lives in this file's frontmatter. The leyline cross-link edges (channels → 3030) are authored on magic-force.md and magic-earth.md, mirroring their existing channels → 1316 (Circle of Stone). No individual Kendor was named.
