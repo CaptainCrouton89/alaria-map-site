@@ -345,7 +345,7 @@
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "The middle continent of Alaria, falling from northern desert badlands through a vast jungle basin to the slave-trading Shacklands in the south.",
-    "containsCount": 6
+    "containsCount": 7
   },
   {
     "id": "3126",
@@ -783,7 +783,7 @@
     "atmosphere": "civilization",
     "blurb": "The Elder Wilds occupy the entire eastern peninsula of Aboyinzu—a vast region of ancient rainforest, winding rivers, and primordial wilderness.",
     "parentName": "Aboyinzu",
-    "containsCount": 15
+    "containsCount": 16
   },
   {
     "id": "1011",
@@ -1151,6 +1151,7 @@
       "2712",
       "race-lizardfolk-ixtyrann",
       "race-ulvsjael-ulvskyn",
+      "artifact-apparatus-of-severance",
       "3133",
       "3067",
       "2889",
@@ -1159,6 +1160,7 @@
       "2744",
       "2903",
       "2967",
+      "event-the-severance",
       "2908",
       "2911",
       "732",
@@ -1178,6 +1180,7 @@
       "3337",
       "magic-faesong",
       "720",
+      "person-vesimar",
       "2962",
       "2620",
       "71",
@@ -1924,8 +1927,11 @@
       "nation-kingdoms-of-fire",
       "2573",
       "2651",
+      "4294",
       "event-the-severance",
       "person-khalira",
+      "2462",
+      "4165",
       "2494",
       "2561",
       "1036",
@@ -1937,6 +1943,7 @@
       "2574",
       "2582",
       "2463",
+      "city-tollgate",
       "388",
       "race-halfling",
       "2555",
@@ -1950,6 +1957,7 @@
       "person-ulyas",
       "race-dwarf-uline",
       "race-dwarf",
+      "4310",
       "creature-orcs",
       "race-rhea",
       "2611"
@@ -1963,7 +1971,7 @@
     "atmosphere": "civilization",
     "blurb": "The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle…",
     "parentName": "Rimihuica",
-    "containsCount": 23
+    "containsCount": 24
   },
   {
     "id": "1390",
@@ -2223,6 +2231,7 @@
       "faction-pity-knights",
       "manual-mphcvgcl-rt1fj",
       "4210",
+      "faction-veilkeepers",
       "manual-mpifts0q-rkqps",
       "4270",
       "race-swordsmen",
@@ -2350,7 +2359,7 @@
     "atmosphere": "dangerous",
     "blurb": "Westrim occupies the northwestern quadrant of Rimihuica, dominated by the massive Dunes of Kunagi desert and ringed by mountains and deadly jungles.",
     "parentName": "Rimihuica",
-    "containsCount": 28,
+    "containsCount": 25,
     "borders": [
       {
         "id": "2857",
@@ -2378,10 +2387,10 @@
       "2455",
       "1112",
       "905",
-      "nation-postronamas-empire",
       "994",
       "1141",
       "9000",
+      "1114",
       "1023",
       "986",
       "1172",
@@ -2392,16 +2401,13 @@
       "988",
       "1032",
       "1173",
-      "creature-the-fallen",
       "1036",
-      "4270",
       "390",
       "1311",
       "1122",
       "998",
       "creature-cirthikin",
       "1022",
-      "1117",
       "947",
       "manual-mpghahhd-fo6s4",
       "719",
@@ -2415,13 +2421,9 @@
       "race-orc-griebi",
       "creature-twaan",
       "1035",
-      "race-giant",
-      "race-gnome",
-      "race-human",
       "race-skaag",
       "creature-orcs",
       "daemon-korn",
-      "magic-twyl",
       "1150"
     ],
     "loreFile": "Clueanda.md",
@@ -3214,6 +3216,15 @@
     "relatedIds": [
       "2620",
       "race-goblin-blitzling",
+      "2652",
+      "2712",
+      "2830",
+      "2494",
+      "430",
+      "2686",
+      "2701",
+      "2634",
+      "2815",
       "race-giant"
     ],
     "loreFile": "Rimihuica.md",
@@ -3221,8 +3232,9 @@
       "desert"
     ],
     "atmosphere": "nature",
-    "blurb": "Home to giant sand wurms a'la Dune.",
-    "parentName": "Westrim"
+    "blurb": "A vast rain-shadow desert in Westrim's interior, hunted by giant sand wurms and crossed only by those who can reach Benshu's Promise.",
+    "parentName": "Westrim",
+    "containsCount": 2
   },
   {
     "id": "114",
@@ -3916,6 +3928,8 @@
     "parentId": "2857",
     "relatedIds": [
       "2857",
+      "artifact-apparatus-of-severance",
+      "faction-tolarian-mage-kings",
       "plane-elemental-planes",
       "event-the-severance",
       "560",
@@ -3923,6 +3937,7 @@
       "plane-psywinds",
       "creature-sprites",
       "magic-faesong",
+      "person-vesimar",
       "race-elf-eloweir",
       "514",
       "magic-deoric",
@@ -4504,15 +4519,23 @@
       207
     ],
     "zoomLevel": 2,
-    "parentId": null,
+    "parentId": "2455",
     "relatedIds": [
+      "2455",
+      "4166",
+      "2573",
+      "4294",
+      "4165",
       "390",
-      "2574"
+      "2574",
+      "city-tollgate",
+      "4310"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "The empire's lifeblood—a narrow passage connecting the Middle Sea to the open ocean beyond."
+    "blurb": "The only sea passage between the Middle Sea and the open ocean, where every westbound cargo pays Tarkhon's toll or burns.",
+    "parentName": "Tarkhon Empire"
   },
   {
     "id": "2462",
@@ -5885,6 +5908,8 @@
       "390",
       "manual-mph6njar-srqmu",
       "magic-deoric",
+      "412",
+      "411",
       "494"
     ],
     "loreFile": "Clueanda.md",
@@ -7569,15 +7594,26 @@
       "1036",
       "1195",
       "981",
-      "race-orc-glivornaxi"
+      "race-orc-glivornaxi",
+      "1150",
+      "1023",
+      "993",
+      "1206",
+      "race-orc-hedroscobbi",
+      "race-orc-shazuihni",
+      "daemon-krovaxi",
+      "daemon-thrygar",
+      "race-orc-tarni",
+      "daemon-dyos"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
       "state",
-      "nation"
+      "nation",
+      "orc"
     ],
     "atmosphere": "civilization",
-    "blurb": "A state in the Westwilds.",
+    "blurb": "An embattled orc state of the Plenjorn Swamp, guarding the Wildwood's healing waters while fighting Hedroscobb and Tarn on two fronts at once.",
     "parentName": "Westwilds",
     "containsCount": 3,
     "borders": [
@@ -8201,6 +8237,7 @@
       "1137",
       "2582",
       "race-orc-hedroscobbi",
+      "2455",
       "994",
       "1206",
       "719",
@@ -8583,7 +8620,16 @@
       "creature-senwyn-the-agonizer",
       "race-naruaghin",
       "race-elnir",
-      "creature-monsters"
+      "2651",
+      "manual-mpjrcf71-enapy",
+      "plane-material-plane",
+      "4389",
+      "2676",
+      "2804",
+      "2714",
+      "creature-dragons",
+      "2713",
+      "race-dwelyn"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -8591,8 +8637,19 @@
       "geography"
     ],
     "atmosphere": "nature",
-    "blurb": "Superduper fucking deadly unless your quite powerful.",
-    "parentName": "Westrim"
+    "blurb": "The lethal jungle ringing the southern Dunes of Kunagi, ruled in pieces by two false-dragon gods, three Naruaghin confederations, and a bottomless rift.",
+    "parentName": "Westrim",
+    "containsCount": 1,
+    "borders": [
+      {
+        "id": "2651",
+        "name": "Dunes of Kunagi"
+      },
+      {
+        "id": "manual-mpjrcf71-enapy",
+        "name": "Enapay"
+      }
+    ]
   },
   {
     "id": "4242",
@@ -9166,6 +9223,7 @@
       "657",
       "event-the-glassing",
       "390",
+      "477",
       "manual-mphafe4r-lmmni",
       "manual-mpk2v7lk-92aoi"
     ],
@@ -11253,7 +11311,10 @@
     "relatedIds": [
       "4165",
       "4166",
+      "931",
+      "faction-veilkeepers",
       "manual-mpifts0q-rkqps",
+      "city-tollgate",
       "388",
       "manual-mph71itd-6g6tw",
       "race-triton",
@@ -11897,14 +11958,33 @@
       219
     ],
     "zoomLevel": 3,
-    "parentId": null,
-    "relatedIds": [],
+    "parentId": "2453",
+    "relatedIds": [
+      "2453",
+      "2460",
+      "4166",
+      "nation-kingdoms-of-fire",
+      "4294",
+      "2455",
+      "4165",
+      "390",
+      "city-tollgate",
+      "race-neferati",
+      "477",
+      "4252",
+      "2519",
+      "4310",
+      "4332",
+      "2611"
+    ],
     "loreFile": "Rimihuica.md",
     "tags": [
       "sea",
       "geography"
     ],
-    "atmosphere": "water"
+    "atmosphere": "water",
+    "blurb": "The water between the Tarkhon coast and the eastern Western Isles, where Middle Sea cargo crosses to the Shattered Sea and the tolls begin.",
+    "parentName": "Rimihuica"
   },
   {
     "id": "manual-mphcs1u5-mge8p",
@@ -12236,13 +12316,17 @@
       "race-human-bledreon",
       "race-human-drachma",
       "4318",
+      "2460",
       "4166",
       "2573",
       "4209",
       "4294",
+      "2455",
       "4302",
+      "390",
       "3048",
       "3338",
+      "city-tollgate",
       "race-neferati",
       "4252",
       "4276"
@@ -12483,10 +12567,18 @@
     "zoomLevel": 3,
     "parentId": "4165",
     "relatedIds": [
-      "4165"
+      "4165",
+      "4166",
+      "4201",
+      "manual-mphcu8zu-if1ye",
+      "city-tollgate",
+      "manual-mph71itd-6g6tw",
+      "magic-faesong",
+      "4310"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "Basalt stacks at the western edge of the Shattered Sea, where sirens sing a lament that stills any crew who hears it.",
     "parentName": "Western Isles",
     "containsCount": 1
   },
@@ -14105,9 +14197,13 @@
       "2460",
       "2604",
       "2462",
+      "1206",
+      "race-orc-hedroscobbi",
       "390",
+      "race-orc-glivornaxi",
       "manual-mphai60e-q7lti",
       "race-human-stone-men",
+      "race-orc-shazuihni",
       "2574",
       "1195",
       "manual-mpghonng-4ts4l",
@@ -14115,7 +14211,9 @@
       "manual-mpghohae-t851o",
       "2544",
       "race-dwarf",
-      "manual-mph6kfdn-wgzf5"
+      "manual-mph6kfdn-wgzf5",
+      "creature-orcs",
+      "daemon-dyos"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -15599,16 +15697,15 @@
       251
     ],
     "zoomLevel": 4,
-    "parentId": "2620",
+    "parentId": "2651",
     "relatedIds": [
-      "2620",
       "2651"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
     "atmosphere": "civilization",
     "blurb": "This oasis is located in the Dunes of Kunagi, and is the only source of freshwater for hundreds of miles.",
-    "parentName": "Westrim"
+    "parentName": "Dunes of Kunagi"
   },
   {
     "id": "1880",
@@ -18471,15 +18568,20 @@
       "732",
       "creature-velorax-the-unfinished",
       "magic-time",
+      "event-torn-hour",
+      "artifact-apparatus-of-severance",
+      "faction-tolarian-mage-kings",
       "994",
       "plane-elemental-planes",
       "event-the-severance",
-      "event-torn-hour",
       "race-human-vyanoweir",
       "2890",
       "719",
       "creature-dragons",
-      "magic-faesong"
+      "magic-faesong",
+      "person-caedran",
+      "person-olarane",
+      "person-vesimar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -18490,7 +18592,8 @@
     ],
     "atmosphere": "ancient",
     "blurb": "The ruined capital of Old Tolaria, and the epicenter of one of the most catastrophic magical disasters in Alarian history.",
-    "parentName": "Old Tolaria"
+    "parentName": "Old Tolaria",
+    "containsCount": 1
   },
   {
     "id": "manual-mphamnad-dfbce",
@@ -18942,6 +19045,8 @@
     "parentId": "732",
     "relatedIds": [
       "732",
+      "artifact-apparatus-of-severance",
+      "faction-tolarian-mage-kings",
       "2881",
       "magic-faesong",
       "2962"
@@ -21029,14 +21134,13 @@
       278
     ],
     "zoomLevel": 4,
-    "parentId": "2620",
+    "parentId": "2651",
     "relatedIds": [
-      "2620",
       "race-human-husakas",
+      "2651",
       "2693",
       "282",
       "2652",
-      "2651",
       "2712",
       "2830",
       "2722",
@@ -21053,7 +21157,7 @@
     ],
     "atmosphere": "nature",
     "blurb": "The southwestern reaches of the Dunes of Kunagi, where the sand sea breaks against the ancient fossil hills of Gyerekas and thins toward the Spotted…",
-    "parentName": "Westrim"
+    "parentName": "Dunes of Kunagi"
   },
   {
     "id": "1374",
@@ -22241,7 +22345,6 @@
       "2634",
       "2651",
       "1336",
-      "2816",
       "race-goblin-blitzling",
       "2806",
       "2815",
@@ -22255,7 +22358,13 @@
     "atmosphere": "nature",
     "blurb": "A transitional range of scrub-covered ridges and rocky outcrops marking the boundary between Atriik's settled lands and the Dunes of Kunagi proper.",
     "parentName": "Atriik",
-    "containsCount": 1
+    "containsCount": 1,
+    "borders": [
+      {
+        "id": "2651",
+        "name": "Dunes of Kunagi"
+      }
+    ]
   },
   {
     "id": "1970",
@@ -29869,15 +29978,19 @@
     "relatedIds": [
       "4165",
       "race-human",
+      "2455",
+      "4310",
       "4201",
       "4166",
+      "2573",
       "4294",
+      "390",
+      "2574",
       "388",
       "manual-mph71itd-6g6tw",
       "4262",
       "4276",
-      "4285",
-      "4310"
+      "4285"
     ],
     "loreFile": "Tollgate.md",
     "tags": [
@@ -31063,10 +31176,20 @@
     "zoomLevel": 4,
     "parentId": "4165",
     "relatedIds": [
-      "4165"
+      "4165",
+      "4166",
+      "faction-pity-knights",
+      "magic-faesong",
+      "4342",
+      "creature-undead",
+      "magic-deoric",
+      "4262",
+      "4285",
+      "4310"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "A silenced archipelago in the Western Isles where no sound carries, left mute by the Pity Knights' working against the lich who took Thergon.",
     "parentName": "Western Isles",
     "containsCount": 1
   },
@@ -34360,6 +34483,8 @@
       "2555",
       "magic-time",
       "plane-elemental-planes",
+      "2573",
+      "manual-mphcvgcl-rt1fj",
       "2574",
       "388"
     ],
@@ -37069,8 +37194,10 @@
     "parentId": "3066",
     "relatedIds": [
       "3066",
+      "race-kendor-cendoriln",
       "3061",
       "3014",
+      "race-kendor-pelaendor",
       "manual-mpjrcf71-vystr",
       "3037",
       "71",
@@ -37087,9 +37214,7 @@
       "caverns",
       "force",
       "earth",
-      "dungeon",
-      "Force",
-      "Earth"
+      "dungeon"
     ],
     "atmosphere": "dangerous",
     "blurb": "The Crystal Caverns lie beneath the coastal waters of New Chimea, a network of submarine caves that extends for miles beneath the seafloor.",
@@ -40763,10 +40888,14 @@
       "4165",
       "manual-mpifuckp-hzigt",
       "4208",
-      "manual-mpiftlzz-35uhf"
+      "manual-mpiftlzz-35uhf",
+      "4294",
+      "faction-veilkeepers",
+      "city-tollgate"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "A fog-drowned island cluster in the northern Shattered Sea where the mist never lifts. The Veilkeepers sell sanctuary here to anyone who must vanish.",
     "parentName": "Western Isles",
     "borders": [
       {
@@ -40780,6 +40909,10 @@
       {
         "id": "manual-mpiftlzz-35uhf",
         "name": "Pelican Isles"
+      },
+      {
+        "id": "4294",
+        "name": "Phyndarr Sound"
       }
     ]
   },
@@ -40909,10 +41042,26 @@
       155
     ],
     "zoomLevel": 5,
-    "parentId": null,
-    "relatedIds": [],
-    "tags": [],
-    "atmosphere": "nature"
+    "parentId": "1806",
+    "relatedIds": [
+      "1806",
+      "race-sevrai",
+      "artifact-apparatus-of-severance",
+      "plane-elemental-planes",
+      "era-lost-ages",
+      "732",
+      "2561",
+      "3816",
+      "2881"
+    ],
+    "tags": [
+      "wilderness",
+      "time",
+      "dangerous"
+    ],
+    "atmosphere": "ancient",
+    "blurb": "A stretch of the Elder Wilds where the Stillness, a permanent Izzus breach, runs time unevenly and wears the unwary into standing stone.",
+    "parentName": "Elder Wilds"
   },
   {
     "id": "manual-mphb0nzx-kvf1n",
@@ -41985,8 +42134,11 @@
     "parentId": "732",
     "relatedIds": [
       "732",
+      "artifact-apparatus-of-severance",
       "775",
+      "creature-monsters",
       "2881",
+      "2857",
       "race-goblin-scalawag",
       "creature-sprites",
       "magic-faesong",
@@ -50282,7 +50434,10 @@
     "zoomLevel": 5,
     "parentId": "732",
     "relatedIds": [
-      "732"
+      "732",
+      "artifact-apparatus-of-severance",
+      "faction-tolarian-mage-kings",
+      "2881"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -54754,8 +54909,9 @@
       300
     ],
     "zoomLevel": 5,
-    "parentId": "2620",
+    "parentId": "2712",
     "relatedIds": [
+      "2712",
       "2620"
     ],
     "loreFile": "Rimihuica.md",
@@ -54765,7 +54921,7 @@
     ],
     "atmosphere": "dangerous",
     "blurb": "A dragon of Westrim.",
-    "parentName": "Westrim"
+    "parentName": "Ishnit Jungles"
   },
   {
     "id": "manual-mph62h0r-9thkg",
@@ -55789,6 +55945,7 @@
     "parentId": "732",
     "relatedIds": [
       "732",
+      "artifact-apparatus-of-severance",
       "2881",
       "2890",
       "magic-faesong"
@@ -61742,13 +61899,19 @@
     "zoomLevel": 5,
     "parentId": "manual-mph71w5l-wkyy0",
     "relatedIds": [
-      "manual-mph71w5l-wkyy0"
+      "manual-mph71w5l-wkyy0",
+      "person-xynoth-azkonor",
+      "1410",
+      "4165",
+      "faction-pity-knights",
+      "creature-undead"
     ],
     "loreFile": "Western_Isles.md",
     "tags": [
       "poi"
     ],
     "atmosphere": "ancient",
+    "blurb": "The coral city Xynoth Azkonor ruled, died in, and raised as his first undead host before the Pity Knights silenced it to ruins.",
     "parentName": "Whisper Isles"
   },
   {
@@ -65398,10 +65561,19 @@
     "zoomLevel": 5,
     "parentId": "4165",
     "relatedIds": [
-      "4165"
+      "4165",
+      "magic-time",
+      "4166",
+      "plane-elemental-planes",
+      "2573",
+      "2561",
+      "city-tollgate",
+      "388",
+      "4276"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "A seer who works a western surfacing of the Izzus time-seam, selling hard judgment to the pirate isles and owing Tarkhon nothing.",
     "parentName": "Western Isles"
   },
   {
