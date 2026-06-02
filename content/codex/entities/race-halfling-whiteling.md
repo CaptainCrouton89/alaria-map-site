@@ -1,12 +1,10 @@
 ---
 id: "race-halfling-whiteling"
 name: "Whiteling"
-entityType: race
-entityCategory: race
+entityType: template
+entityCategory: template
 tags: ["playable"]
 blurb: "Undead halflings risen from emotional turmoil; pale corpse vampires who hunt former loved ones with perfect memory and absent emotion."
-relations:
-  - { rel: culture, kind: subraceOf, target: "race-halfling" }
 sources:
   - "races/Halfling.md"
 review:

@@ -17,7 +17,7 @@ review:
 ---
 The Qindo are a human culture of sailors and charmers, distinguished by their bluish skin and piercing sapphire eyes. They live life at their own pace, notoriously running "Qindo time" (always late), but their infectious charm means no one stays mad at them for long.
 
-They are masters of the sea and social navigation. A Qindo considers anything not nailed down to be potentially theirs, not out of malice, but out of a communal view of property—a view that conveniently benefits them. Their port cities are chaotic, colorful affairs where the line between merchant and pirate is delightfully blurred.
+They are masters of the sea and social navigation. A Qindo considers anything not nailed down to be potentially theirs, not out of malice, but out of a communal view of property, a view that conveniently benefits them. Their port cities are chaotic, colorful affairs where the line between merchant and pirate is delightfully blurred.
 
 ### The making
 

@@ -2,8 +2,9 @@
 id: "race-korrun"
 name: "Korrun"
 entityType: race
+entityCategory: race
 blurb: "A stone-touched people born of Golus, Ezz, and Gaea's song of creation: fully alive, patient and unmoving, holding the Blueshale Peaks as their own."
-tags: ["race"]
+tags: ["playable"]
 relations:
   - { rel: cosmology, kind: attunedTo,    target: "magic-earth", note: "born with a wide innate channel to Golus, the earth layer of the Elemental Planes" }
   - { rel: culture,   kind: originatedIn, target: "927",          note: "arose in and beneath the Blueshale Peaks, on its earth leyline" }
@@ -21,6 +22,8 @@ Their gatherings turn on that lesson. In the deep galleries beneath the peaks th
 > — a Korrun holding-master, recorded in the Blueshale galleries
 
 Most Korrun live in and under the Blueshale Peaks, the range northwest of Argysis that stands on an earth leyline. On that seam their attunement runs deepest, and a line raised in the galleries reaches a fluency with stone that the same blood never finds out on the flat lowland. They are not the only power in the peaks. Stormfather, the earth-attuned cyclops who once counseled the Argysisean dwarves, has held the high stone there longer than any Korrun memory, and they regard him much the way you regard weather older than your house. With the dwarves themselves the Korrun keep a wary respect. The holds raise stonework to a standard no born gift can match by instinct alone, cutting ore-rich rock clean and closing a gallery on command, while the Korrun answer stone without being taught and never quite reach the dwarves' precision. The two peoples have learned to leave each other their separate excellences.
+
+The Circle of Stone, the ancient ring far to the north on the Earth and Force convergence, is recognized among the Korrun as their deep-ancestral work. Their ancestors raised it in an age before any Northlands people now living could name. What they built there and exactly why, the Korrun do not hold in full account — the working outlasted the memory of it. But they know the hand in it on sight, that uncanny density no later stonework has matched, and they do not dispute the claim.
 
 ### Aspects
 - Steady as the deep stone
@@ -44,15 +47,13 @@ You gain an advanced attunement to earth. Rather than sleep, you must spend 4 ho
 
 <!-- author-notes -->
 
-PROVISIONAL COINAGE — name + slug. No earth/stone/Golus onomastics sheet exists (confirmed: nothing in
-docs/worldbuilding/onomastics/ covers an earth people). I coined the endonym "Korrun" (slug race-korrun)
-fresh, glossed loosely as "the set ones / those who hold." Deliberately NOT derived from "Golus" — mirrors
-how Neferati is not derived from "Yolus." Lead should ratify into the master slug-registry or commission a
-sheet. No collision found (turxis-golathi is unrelated).
+RATIFIED CANON — name + slug. "Korrun" (slug race-korrun) is locked, no rename, no sheet commissioned.
+Gloss: "the set ones / those who hold." Deliberately NOT derived from "Golus" — mirrors how Neferati is
+not derived from "Yolus." No collision found (turxis-golathi is unrelated).
 
-Sample personal names (also PROVISIONAL, coined in a Korrun phonology of hard stops + doubled consonants +
-heavy vowels o/a/u): Bedrath, Tarrun, Marn, Ossa, Velka, Durga. None are used in the body except the
-generic "holding-master" inset attribution; offered here as a starter pool if a sheet is commissioned.
+Personal-name pool (RATIFIED STARTER — phonology: hard stops + doubled consonants + heavy vowels o/a/u):
+Bedrath, Tarrun, Marn, Ossa, Velka, Durga. This is a starter pool; it may grow. A full onomastics sheet
+may be commissioned later but none is required now.
 
 Canon checks honored:
 - GAEA GUARDRAIL (design §11): origin uses the same creation formula as Neferati ("born of primordial
@@ -68,6 +69,6 @@ Canon checks honored:
 Stormfather (id 928) referenced in PROSE ONLY, no edge (per batch instruction — it is a ruins-typed
 individual; any link comes from the place/ruin side). No edge to Stormfather authored.
 
-CROSS-THREAD HAND-OFF: ratified slug for the orchestrator is race-korrun / display "Korrun" — for the
-later-wave Circle of Stone (and Shemazari) ancestral/builder tie. This file authors nothing toward Circle
-of Stone (one direction; the place authors any edge).
+CIRCLE OF STONE (id 1316) builder tie — PUBLIC/CLOSED CANON. The Circle of Stone is named in body prose
+as Korrun deep-ancestral work (recognition-not-archive texture). No edge authored on this side — the
+createdBy edge lives on the Circle of Stone (place authors origin edges per entity-relations.md).

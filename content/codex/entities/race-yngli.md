@@ -15,6 +15,10 @@ The Yngli are a squat, one-eyed people born with an inborn attunement to force, 
 
 Now the Yngli struggle as second-class citizens across the Western Isles and Kura. Unable to negotiate, explain, or defend themselves verbally, they are easily exploited by those who separate them from their kin. Only when united under a rare telepath of their kind can they organize effectively, forming silent unions that communicate through gesture and force manipulation.
 
+### The making
+
+The Yngli are cyclops-kin. Like the Belgron and the rest of that one-eyed branch, they trace back to the giant-kin Gaea shaped from her own flesh, and the force-attunement that lets an Yngli accelerate a hammer with a thought is the native gift of that line. The curse gave them none of it and took none of it away. The silence came later, and from outside: a Deoric working spoken over the whole line at once by the forge-masters their own telling blames, which closed their speech and has held it closed in every Yngli born since. Force they kept. Voice they lost. A people who can shift iron across a room by will alone yet cannot say one clear word to the men who profit from them is a people built for exactly the exploitation they suffer, and whoever cut that working got a far larger and more lasting result than the single traitor it was meant to punish.
+
 ### Aspects
 - Forever silenced
 - Natural force wielder

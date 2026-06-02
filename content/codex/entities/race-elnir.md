@@ -17,6 +17,10 @@ They view humanoids as mere biological clay to be molded. An Elnir might have th
 
 No Elnir city exists — they are solitary, scattering individually across the great wildernesses of Alaria: the Filvrae Sylvyryn and Ishnit Jungles, the Green Wilds and Jungles of Titania, the Walking Forest and Everwood, Sorix Melar and Winterwood, the Plutachranes and Knulak, and the remote reaches of Fathre Morn, Pitte Ank, Lovre Ank, and Eyendra. The tell is always the same: a stretch of forest where the undergrowth has been rearranged into geometric rows, where the creatures are wrong in ways that take a moment to name.
 
+### The making
+
+The Elnir were druids once, in the proper sense: shapers of living things who served the wild rather than ruled it. What unmade them was a working of their own. A circle of them grew certain that nature ran better under a firm hand than left to its own disorder, and they cut that conviction into their own flesh, a druid-craft binding meant to hand them mastery over every growing thing. It took. The binding rewrote the casters into what an Elnir is now, a flesh-shaper who can graft a bear's arm or a hawk's eye onto a body and feel no wrongness in the doing, and the change held in everyone the working had touched and everyone who came after them. What the Elnir were before all this, which people they sprang from and what their faces looked like, is gone past recovery, because the working overwrote that too. An Elnir cannot tell you what it used to be. Whatever records might once have answered the question are long gone, and no Elnir has ever gone looking for them.
+
 ### Vitals
 - **Size:** Medium
 - **Height:** 5-7 feet

@@ -17,7 +17,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Starborn are the enigmatic caretakers of the celestial order, dwelling within the stars themselves—the titan-forged orbs of celestial glass that hang above the world—where they tend the magical cores that keep each light burning. They descend, on occasion, to high mountain observatories where the veil between earth and sky grows thin, but the stars are their true home. These elves have taken upon themselves the sacred duty of maintaining the stars' positions and brightness—a task they believe essential to preserving the cosmic balance that keeps darker forces at bay. Their skin has a subtle luminescence that becomes more pronounced under starlight, and their eyes reflect the constellations they tend.
+The Starborn are the enigmatic caretakers of the celestial order, dwelling within the stars themselves, the titan-forged orbs of celestial glass that hang above the world, where they tend the magical cores that keep each light burning. They descend, on occasion, to high mountain observatories where the veil between earth and sky grows thin, but the stars are their true home. These elves have taken upon themselves the sacred duty of maintaining the stars' positions and brightness, a task they believe essential to preserving the cosmic balance that keeps darker forces at bay. Their skin has a subtle luminescence that becomes more pronounced under starlight, and their eyes reflect the constellations they tend.
 
 ### The making
 

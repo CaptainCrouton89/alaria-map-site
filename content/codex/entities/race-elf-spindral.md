@@ -18,7 +18,7 @@ review:
 ---
 The Spindral are elves who fled underground to escape the dragon Ural of the Third Moon. They are creatures of the Void and shadow now, and have not lived under open sky in a very long time. Their most striking feature is the long, midnight-black quills that sprout from their backs and arms, which seem to absorb all light that touches them.
 
-They venture to the surface only to hunt and keep watch for their ancient draconic enemy. They are silent, deadly, and accustomed to a world without sun. Other underground races have learned to avoid Spindral territory—these elves do not negotiate with trespassers.
+They venture to the surface only to hunt and keep watch for their ancient draconic enemy. They are silent, deadly, and accustomed to a world without sun. Other underground races have learned to avoid Spindral territory. These elves do not negotiate with trespassers.
 
 ### The making
 

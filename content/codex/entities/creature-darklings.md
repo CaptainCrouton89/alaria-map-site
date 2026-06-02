@@ -4,6 +4,8 @@ name: "Darklings"
 entityType: creature
 blurb: "Pitch-black goblins with an affinity for darkness that borders on the supernatural."
 tags: ["race", "lethos", "shacklands", "goblinoid"]
+relations:
+  - { rel: cosmology, kind: attunedTo, target: "magic-dark", note: "inborn Vulus affinity — the darkness the Darklings command, worked as substance through the Lethos shadow-layer" }
 sources:
   - "bestiary/Darklings.md"
 review:
@@ -24,7 +26,9 @@ All Darklings possess an innate magical attunement to shadow and absence of ligh
 
 More significantly, Darkling darkness cannot be pierced by ordinary means. Normal light—torches, lanterns, even daylight filtered through canopy—dims and fails against it. Only magical light can penetrate, and even that is muted, weakened. Within their darkness, Darklings see perfectly. Outsiders see nothing.
 
-This ability has made them invaluable to Lethos. When the druids performed the Binding three centuries ago, it was the Darklings who provided the shadow-component of the ritual—the darkness that helps trap and contain the Gorathi dead. The supernatural gloom that blankets Lethos, even at noon, is partly their doing.
+This ability has made them invaluable to Lethos. When the druids performed the Binding three centuries ago, it was the Darklings who provided the shadow-component of the ritual—the darkness that helps trap and contain the Gorathi dead. The supernatural gloom that blankets Lethos, even at noon, is partly their doing. The darkness the Darklings command is Vulus, the element worked as a substance; the power that actually holds the Gorathi dead is the shade-energy of Malstaris, the death-plane, and the two are confused only because they share a word.
+
+For all that the shadow is part of what they are, it follows none of them past death. A killed Darkling dies the ordinary mortal death: each strand goes where it is owed, the soul up to the Astral, the shadow down to Malstaris, the spirit to Celestia for as long as the name is still spoken, and the Vulus affinity ends with the body and leaves nothing behind in the dark.
 
 ### Culture
 Darklings live in small villages throughout Lethos, though their largest concentration is in Ohoka, deep in the jungle where the canopy is so thick that daylight never reaches the forest floor. They are primarily nocturnal, most active during the hours of true darkness, though they can function during the day if necessary.

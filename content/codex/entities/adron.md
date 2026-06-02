@@ -11,6 +11,7 @@ sources: ["all_sections_formatted/Clueanda.md#L142"]
 relations:
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: economy, kind: produces, target: "magic-red-gold" }
+  - { rel: economy, kind: tradesWith, target: "477", note: "Adron builds and finances the hulls that carry Camaran's manufactures around the rim" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-nagashi" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-megelren" }
   - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelaendor" }
@@ -30,6 +31,8 @@ Three major ley lines cross Adron: water through the capital, time running south
 Every Naga traces its blood to Nagatayora, the dragon-father, eldest son of Gaea and the first to fall in the war against the titan Hykravones. Adron does not worship him. He is long dead, gone since the deep cosmogonic age the world remembers as the Reign of Dragons, and the kingdom holds his blood as a trust rather than a god. That trust is the reason no Naga in Adron will kill a dragon. The bonded war-dragons of the Wyrmward were the trust made flesh; the wild dragons that have wandered back across the sea since the Return of Dragons are neither bonded nor wanted, and they are untouchable all the same. Chavux can raid the strait off the Blades and Adron will not lift a hand against him.
 
 The Nagashi are Adron's people: the ruling houses and banks, the thinned-out heirs of the rider caste. The houses govern as a body from Adrak, and the foremost of them just now answers to Mariseni. The Megélren are here too, far fewer and far quieter. Adron tells itself they are traitor's blood cast out long ago, the story it hangs on the old Megélren Exile. The obsidian form answers to no such tidy history; it surfaces unbidden in any Naga line, in houses that never went near the Exile. What keeps the Megélren in Adron is the shadow economy, which has always found work for operatives who ask nothing and are owed nothing.
+
+Adron's place in the Middle Sea is the bank and the shipyard. The red gold of its mountains and the depth of its counting-houses make Adrak the coast's lender of choice, and a fair share of the hulls that carry Camaran's manufactures and the eastern harvests around the rim are Adron-built and Adron-financed. The kingdom sits at the far eastern end of the arc, distant from the Tarkhon narrows, and pays the strait toll on its own exports with the same resentment as everyone else. But the distance from the chokepoint is what lets it play financier to the states that sit nearer the throat of it. When a Middle Sea war needs funding, the loan is usually written in Adrak.
 
 #### Mountain Ranges
 

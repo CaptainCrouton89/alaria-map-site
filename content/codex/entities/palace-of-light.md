@@ -8,6 +8,7 @@ zoomLevel: 5
 sources: ["all_sections_formatted/Ve.md#L2287"]
 relations:
   - { rel: spatial, kind: within, target: "3" }
+  - { rel: cosmology, kind: channels, target: "magic-light" }
 ---
 A fortress-monastery built directly over the point where the light leyline surfaces, located in the high Widebarrow Mountains on the border between Dern and Thorum. The original structure dates to the late Second Eon, though it has been rebuilt, expanded, and partially destroyed multiple times across millennia.
 

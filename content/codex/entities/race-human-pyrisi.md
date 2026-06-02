@@ -4,7 +4,7 @@ name: "Pyrisi"
 entityType: race
 entityCategory: race
 tags: ["playable"]
-blurb: "Stocky, stubborn islanders of Pyris, blended from human and dwarven stock over uncounted generations; farmers, fishers, and dry-stone masons who want only to be left alone."
+blurb: "Stocky, stubborn islanders of Pyris, sprung from one closed human-dwarven cross; farmers, fishers, and dry-stone masons who want only to be left alone."
 aliases: ["Island Folk"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
@@ -14,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-A mainlander meeting a Pyrisi for the first time usually takes them for a stunted human, broad in the shoulder and short in the leg, until they shake hands and feel how much weight is packed into that grip. The Pyrisi are neither human nor dwarf but the long settling-together of both, a mixing so old that no record marks when it began. The dwarven line shows in the build: dense bone, barrel chest, a stubbornness that reads as rudeness to anyone in a hurry. It shows too in the years. A Pyrisi who survives childhood and the sea tends to outlast their mainland cousins by a decade or more, and the island's elders are famous on the Tarkhon coast for refusing, at great age, to die on anyone's schedule but their own.
+A mainlander meeting a Pyrisi for the first time usually takes them for a stunted human, broad in the shoulder and short in the leg, until they shake hands and feel how much weight is packed into that grip. The Pyrisi are neither human nor dwarf but a single people made from both, founded so long ago that no record marks when it began. The dwarven line shows in the build: dense bone, barrel chest, a stubbornness that reads as rudeness to anyone in a hurry. It shows too in the years. A Pyrisi who survives childhood and the sea tends to outlast their mainland cousins by a decade or more, and the island's elders are famous on the Tarkhon coast for refusing, at great age, to die on anyone's schedule but their own.
 
 The blend runs through their work. Pyrisi farm the way coastal humans do, olives and vines and barley on the milder slopes, but they hold their land the way dwarves hold stone. The hill spine that runs the length of Pyris is cut and re-cut into dry-stone terraces, every wall fitted without mortar, some of them older than any family that now works them. The dead are not burned in the mainland fashion. They are laid in kin-vaults hollowed into the rock, and a family's standing is measured less by its fields than by the depth and age of the chamber it can name as its own. Among themselves the Pyrisi carry plain Romance given names for the tax-rolls and a second kin-word, dwarvish and unwritten, spoken only at the vault.
 

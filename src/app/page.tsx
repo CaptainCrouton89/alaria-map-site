@@ -16,6 +16,7 @@ import { EntitySeal } from '@/components/codex/EntitySeal';
 import { MapSearch } from '@/components/MapSearch';
 import { AdminPanel } from '@/components/AdminPanel';
 import { PrimaryNav } from '@/components/PrimaryNav';
+import { BuyMapButton } from '@/components/BuyMapButton';
 import { useAdmin } from '@/hooks/useAdmin';
 
 /** A wiki-infobox row: label on the left, value on the right. */
@@ -359,7 +360,13 @@ export default function Home() {
 
             {/* Slim contribute footer */}
             <Separator />
-            <div className="px-6 py-4">
+            <div className="px-6 py-4 space-y-3">
+              <BuyMapButton
+                variant="accent"
+                size="default"
+                className="w-full justify-center"
+                label="Buy the full-resolution map · $20"
+              />
               <p className="text-sm text-ink-muted leading-relaxed">
                 Know more about this place?{' '}
                 <a

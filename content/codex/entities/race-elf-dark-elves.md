@@ -16,9 +16,9 @@ review:
 ---
 The Dark Elves are an extinct lineage that once ruled the southern forests of Aboyuinzu as dragon riders of terrifying power. Their ashen gray skin and coal-black eyes marked them as a people touched by draconic magic, while their heavy furs protected them from the perpetual chill that followed in their wake. These elves formed soul-bonds with the great wyrms of the south, sharing consciousness with their mounts in a symbiosis that made them nearly invincible in battle.
 
-Their civilization came to an abrupt end during the Dragon Purge, when rival nations united to destroy both the dark elves and their dragon allies. The forests of Aboyuinzu are now filled with towering totems to the old dragon gods—massive stone monuments that still radiate faint draconic power. Some say the dark elves' spirits linger near these totems, waiting for the day when dragons might return to the world.
+Their civilization came to an abrupt end during the Dragon Purge, when rival nations united to destroy both the dark elves and their dragon allies. The forests of Aboyuinzu are now filled with towering totems to the old dragon gods, massive stone monuments that still radiate faint draconic power. The dark elves raised them, and the charge held in the stone is the same draconic working a wyrm once pressed into the people themselves.
 
-Though believed extinct, there are whispers of dark elf bloodlines persisting in remote communities, their draconic heritage diluted but not entirely lost. Those who discover such ancestry often feel an inexplicable pull toward the ancient totems and may even hear the whispered words of long-dead dragons in their dreams.
+The line is held to be extinct, but the working bred true, and a trait that breeds true is hard to end completely. In remote communities there are still people born with the ashen skin and the coal-black eyes the wyrm set into the founders. Those who carry the marks often feel a pull toward the old totems, and a few wake with the words of long-dead dragons still in their ears.
 
 ### The making
 

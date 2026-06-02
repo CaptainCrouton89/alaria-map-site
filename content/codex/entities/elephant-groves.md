@@ -57,4 +57,4 @@ The Elephant Groves offer several potential hooks:
 - **The spirit's bargain**: Non-loxodon might be allowed in if the spirit needs something done
 - **Border defense**: Helping the Eloweir or United Free Nations deal with something that emerged from the Groves
 - **The goblin problem**: The spirit tolerated a goblin incursion for mysterious reasons—what are they after, and why did the Groves allow it?
-- **Lost history**: Talarian ruins might exist somewhere in the Groves, predating even the loxodon—but finding them means convincing the spirit to cooperate
+- **Lost history**: Tolarian ruins might exist somewhere in the Groves, predating even the loxodon—but finding them means convincing the spirit to cooperate

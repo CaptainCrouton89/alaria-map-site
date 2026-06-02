@@ -17,6 +17,10 @@ Despite their sluggish appearance, their bulk hides a terrifying strength. A Bel
 
 Dry, broken highlands are preferred range. Belgron have been documented throughout the Hills of Gezzeri and the White Hills — the arid terrain and sparse human populations mean few disputes over territory. The Gezzerin, a people already practiced at going invisible when something large moves on the ridgeline, extend the same courtesy to a Belgron without needing to be told twice. Not every Belgron wanders free. Gorath warships and Free-Isles slavers take them when they can, valuing the raw strength over the complications of ownership — a calculation the Belgron remember.
 
+### The making
+
+The cyclopes are one of the giant-kin, a one-eyed branch of Gaea's flesh, and the Belgron came out of that stock back when Gaea still shaped her flesh-peoples by name. She drew a highland line off the cyclopes and named it anew. She closed the single eye into a pair, piled on bulk past anything the parent stock carried, and set in the broad rubbery hide and the purplish color that mark a Belgron now. What she left untouched was the appetite. A body that size runs on a great deal of food and a great deal of rest, and the Belgron have arranged their whole disposition around supplying both. The solitude, the vast claimed range, the slow pleasure taken in a roasted goat and a warm rock, all of it follows from the plain problem of moving so much weight. Their hedonism is less a vice they fell into than the plain arithmetic of the body. Carrying that much weight leaves little room to live any other way.
+
 ### Vitals
 - **Size:** Large
 - **Height:** 8-10 feet

@@ -17,6 +17,10 @@ Their gray, bark-like skin and wooden flesh contain properties that make them va
 
 Many Grayls have found refuge in the Walking Forest, where they can move with their home as it travels, never having to abandon the trees they've come to know over decades or centuries of patient observation.
 
+### The making
+
+A Grayls does not grow from a seed or a womb. It wakes, full-grown, out of an ancient tree in one of a handful of old groves, and that waking is the last working of a craft most of Alaria has forgotten. The elder druids who shaped the elves from wood and stone shaped slower things as well. In a few deep forests they set a working into the heartwood of the oldest trees, so that a grove which had stood long enough, and watched long enough, would gather its own accumulated awareness and stand up in a walking body to carry it. That was the whole purpose. A forest needs no memory while it stands, but a felled forest takes its centuries of watching down with it unless something can walk that memory out. The Grayls are that something. Their sorrow runs deeper than any mood. It is the accumulated weight of everything a grove remembers, set walking in a body the rest of the world keeps trying to cut down for the very wood it is made of.
+
 ### Aspects
 - The fast world brings only pain
 - Patience measured in seasons, not moments

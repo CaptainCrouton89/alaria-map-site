@@ -15,6 +15,10 @@ The Wytrolape are white-furred giant apes residing in Kyorda. Normally, they are
 
 They struggle constantly against this inner beast, seeking civilization as a way to tame their own nature. Many Wytrolape become monks, philosophers, or craftsmen, hoping that discipline and routine will help them control the rage within. Despite their efforts, every Wytrolape fears the War Moon—and fears what they might do when it rises.
 
+### The making
+
+The Wytrolape are apes, white-furred and large, and left alone they would be nothing stranger than that. The strangeness was put on them. When the Ezz flood drove the old titans to madness, one of those maddened powers spent its ruin on the ape-stock the Wytrolape descend from, and the curse it threw down bound their nature to the two moons and bred true down every line since. While either moon shows any light the curse lies quiet, and a Wytrolape is the calm, careful craftsman its neighbors on the Kyorda cliffs know. On Hollownight, when both Auris and Nyxara go dark together and the soul-light and shadow-light both fail, nothing holds the curse down and the beast in them rises whole. The Wytrolape call that the War Moon. They share the night with every other thing the dark moons stir, and they are the only such thing that spends the rest of the cycle dreading its own return. The discipline they pour into monasteries and workshops is real, and it is also an admission that the fight was lost before any of them was born. None of them is trying to cure the curse. Each is only trying to be somewhere safe when it next comes due.
+
 ### Vitals
 - **Size:** Large
 - **Height:** 8-9 feet

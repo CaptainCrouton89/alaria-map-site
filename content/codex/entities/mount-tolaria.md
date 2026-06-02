@@ -13,9 +13,9 @@ review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Rewrote from stub: name-giving peak, Talarian summit citadel, glassified stone ruins, erratic leyline discharge, ambient incantation echoes."
+  notes: "Rewrote from stub: name-giving peak, Tolarian summit citadel, glassified stone ruins, erratic leyline discharge, ambient incantation echoes."
 ---
-The peak that gave Old Tolaria its name rises at the region's heart — the highest fixed point in a landscape that is otherwise unreliable. Before the cataclysm, the Talarian wizards built their primary observatory and ritual citadel on its summit, choosing the altitude for both its clear sight lines and its proximity to the leylines that converged beneath the mountain's roots.
+The peak that gave Old Tolaria its name rises at the region's heart — the highest fixed point in a landscape that is otherwise unreliable. Before the cataclysm, the Tolarian wizards built their primary observatory and ritual citadel on its summit, choosing the altitude for both its clear sight lines and its proximity to the leylines that converged beneath the mountain's roots.
 
 That citadel is gone now, sheared away by the force that unmade the empire. What remains on the summit is a flat expanse of fused stone — the rock itself glassified by heat or magic or both — ringed by the stubs of foundation walls. The leylines still converge here, but they no longer carry structured power. They pulse erratically, discharging arcs of wild magic visible from the surrounding forest on dark nights.
 

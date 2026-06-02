@@ -19,6 +19,6 @@ review:
 ---
 The northernmost of the three Ofrenian kingdoms, Tornia controls the island's richest coastal lowlands and its most active northern ports. Queen Alisandra rules from the capital at Catalina, on the river delta of the northern coast. The kingdom takes its name from the older town of Tornia, which overlooks Gem Crest Bay nearby.
 
-Tornia's southern border with Joswik is openly contested—a line that has shifted through negotiation and skirmish over the years and now holds only because Alisandra has fortified it. To the west lies Sylke, which keeps to itself. The kingdom's eight settlements—among them Northpoint on the coast, Oakheart in the interior, Ryerton & Bexley, Besnoumeru, Mithras, Ylidor, and Catalina—make Tornia the most densely settled of the three kingdoms.
+Tornia's southern border with Joswik is openly contested—a line that has shifted through negotiation and skirmish over the years and now holds only because Alisandra has fortified it. To the west lies Sylke, which keeps to itself. The kingdom's eight settlements—among them Northpoint on the coast, Oakheart in the interior, Ryerton & Bexley, Corvalin, Mithras, Ylidor, and Catalina—make Tornia the most densely settled of the three kingdoms.
 
 Alisandra governs firmly. She has positioned Tornia as the island's legitimate political center, maintaining better sea connections northward to Clueanda than either rival. The contested border with Joswik is the defining pressure of her reign—Prince Edric holds the south and makes no secret of his ambitions.

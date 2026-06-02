@@ -19,6 +19,10 @@ Others choose to become experts in a niche field of academics, where they do not
 
 Still others turn to more violent areas of life. When faced with the constant frustration of trying to get others to understand you, some eventually consider violence. Due to their troll blood and hide, trollkin are formidable agents in combat.
 
+### The making
+
+Trolls are one of Gaea's flesh-peoples, cut from the same living stock as humans and giants, and that shared stock is the whole of the matter. A human and a troll can get a child between them, and the child is no sterile dead end. Trollkin bear young of their own, with humans, with trolls, and with each other, so the line never quite dies out wherever the two peoples share ground. From the troll side a trollkin inherits one thing above all others, and it is not the brute appetite the trolls are known for. It is a slow gate between thought and speech. The mind behind that gate works as well as anyone's; it simply cannot get the words out fast enough to prove the point. A life spent failing that proof, over and over, in front of people who have already decided what the failure means, shapes a trollkin more than any drop of blood does.
+
 ### Aspects
 - Thick-headed
 - Contemplating what no one else is

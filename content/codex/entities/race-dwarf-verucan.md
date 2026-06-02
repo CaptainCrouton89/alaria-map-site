@@ -22,7 +22,7 @@ Born from the volcanic forges of the southern peaks, the Verucan dwarves channel
 
 The Verucan were not brought to fire slowly. A single dwarf clan, mining the roots of a southern volcano that stood over a fire leyline, cut too deep in the wrong season and broke into the molten core while the leyline was running high. The Fire Elemental Plane's current came up through the breach and poured into them in one stroke, and it did not burn them to death. It set in them. Their skin cooled to black obsidian with the fire still trapped beneath it, which is why the red veins across a Verucan glow and pulse like a banked coal. Their bodies have run hot ever since, hot enough to need the volcano's heat to live in, and the clan bred true. The fury the Verucan prize is not a temper they cultivate. It is the same fire that filled them, looking for somewhere to go.
 
-Verucan society prizes passion and intensity in all things—their loves burn as hot as their hatred, and their craftsmanship reflects this fiery dedication. They view anger not as a weakness but as a sacred flame that drives innovation and excellence, though this philosophy often puts them at odds with more reserved cultures.
+Verucan society prizes passion and intensity in all things. Their loves burn as hot as their hatred, and their craftsmanship reflects this fiery dedication. They view anger not as a weakness but as a sacred flame that drives innovation and excellence, though this philosophy often puts them at odds with more reserved cultures.
 
 #### Aspects
 - Forged in fire, tempered by fury

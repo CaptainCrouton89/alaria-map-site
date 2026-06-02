@@ -115,7 +115,7 @@ The sky trade concentrates wealth in specific locations:
 
 **Adron** (particularly the city of Shipmarsh) builds sky ships. The Middle Sea's traditional shipwrights adapted their craft to astral construction, and Adron's position near the Emerald-Ophrenian convergence means easy access to both major trade networks. Adrak, the capital, handles financing; its banks underwrite most of the continent's sky vessels.
 
-**Tornia** competes with Adron for the Ophrenian shipbuilding trade. Its location on the same convergence point means ships built in Tornian yards can reach any viable route. The nation's time-gangs have extended their influence into sky commerce, manipulating cargo schedules and docking fees.
+**Tornia** competes with Adron for the Ophrenian shipbuilding trade. Its location on the same convergence point means ships built in Tornian yards can reach any viable route, and the marine underwriters of its Corvalin quarter — sea-hull and cargo risk through Ofrenian waters, never sky-routes — bank the deep credit Tornian shipwrights build against.
 
 **The Western Isles** are notably absent from the sky trade. Reaching them by air requires passing through the Nysanna Loop or the Frost Circuit—both effectively impassable. The isles' economy remains tied to ocean shipping, creating a cultural and economic divide between the sky-trading powers and the maritime west.
 

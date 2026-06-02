@@ -11,10 +11,10 @@ sources: ["all_sections_formatted/Clueanda.md#L15"]
 relations:
   - { rel: spatial, kind: within, target: "388" }
 review:
-  aiWritten: true
+  aiWritten: false
   archetype: ai-ok
   action: keep
-  notes: "Trimmed from ~16k to sea-geography overview. Removed embedded sub-entity articles (Glorin, Pii/Phiora, Swampdeep, Sylke, Tornia, Kazül+subentries, Apketrii stubs, Stillstone, Ternor, Straker, and ~15 TODO-only stubs). Retained: shape/position, coastal-states lists, Ofrenia overview, surrounding-waters (Oblivion/Maw of Chao)."
+  notes: "Geography section is the AI-trimmed sea-overview (retained). Wave-2: added a human-authored 'Politics of the inner sea' section (the stateless city-state system, the Tarkhon strait toll, the Bryn-trail freeze vulnerability, the Vogenfeld/Hedroscobb northern-flank lever). Original trim note: cut from ~16k to sea-geography overview; removed embedded sub-entity articles and ~15 TODO stubs; retained shape/position, coastal-states lists, Ofrenia overview, surrounding-waters (Oblivion/Maw of Chao)."
 bannerPosition: "50% 68.2%"
 bannerHeight: 320
 ---
@@ -62,4 +62,26 @@ A large island (technically separated from the mainland by Swampdeep) that exten
 
 - **Gray Sea**: The waters north of Swampdeep, between Ofrenia and the mainland
 - **Oblivion**: A permanent supernatural storm east of the Middle Sea proper and south of Adron—a hundred-mile-wide fog bank that causes complete memory loss. Those who enter forget everything and sail out in confusion, with no recollection of what lies within. At the center of Oblivion lies the Maw of Chao, a volcanic island that serves as the hatching ground for thousands of dragons. The memory fog protects this sacred place, where Damasaki Edara (daughter of the great dragon Nagatayora) raises dragon eggs before setting the young dragons free. In ancient times, the dragon riders of Adrus (now Adron) would brave the fog to reach the Maw of Chao and receive Damasaki Edara's blessing, earning the right to raise and ride with dragons
+
+### Politics of the inner sea
+
+No crown rules the Middle Sea. A dozen states ring it, each its own polity with its own laws and its own standing quarrel with the next harbor down the coast, and what governs them all is not a treaty but the water. The sea is the cheap road. A load of Camaran clockwork or Kazül glass moves around the rim by hull for a fraction of what it would cost dragged overland through the Kharvorn foothills, so no state can afford to close the sea to its neighbors; every state needs it open for itself. That mutual need is the closest thing the coast has to a government, and it holds the sea-lanes open through wars that would otherwise have shut them.
+
+The sea has a single door, and another power holds it. West past Kazül the water narrows into the Tarkhon Strait, the one sea route between the Middle Sea and the open ocean, and the Tarkhon Empire taxes everything that passes. A hull bound out pays at the narrows; the same hull, coming home, pays again. The coast has resented the toll for as long as Tarkhon has charged it and has never managed to do a thing about it, because the only alternative to paying the empire is not trading at all. Kazül, the last harbor before the strait, carries the grievance most sharply and turns it to profit where it can.
+
+> Every hull pays twice at the narrows, going out and coming home, and a Kazül captain will tell you the homeward toll is the one that galls. You expect to pay your way out into the world. Paying to come back to your own sea is the insult.
+> — a saying along the Middle Sea coast
+
+The toll is only the price of the warmth. The Middle Sea is temperate at a latitude that ought to be frozen, and it stays temperate only because the warm band of Bryn's trail still falls across it, held in place by the congregations of the Solar Accord. The north of Clueanda is the proof of what that arrangement is worth. Under the Nysanna glaciers stand cities that kept open sun in an older age and froze where they stood when the trail moved off them, their grain still sealed in the storehouses. Should the Accord's hold on Bryn's path ever slip this far south, the Middle Sea would freeze, and every tariff and trade-war on the coast would end together with the trade itself.
+
+The nearer threat is on land, at the strait's northern shoulder. The passes above the Tarkhon narrows are held by the Uline dwarves of Vogenfeld, who have shielded them against the orc states of Hedroscobb for five centuries in return for a tribute the empire now pays late and short. The dwarves keep the passes out of stubbornness and old oath more than any love left for Tarkhon. If they ever walk off them unpaid, Hedroscobb gains a road south toward the strait's northern flank, and the single gap that feeds the whole Middle Sea would be threatened from the land as well as taxed at the water.
+
+<!-- author-notes -->
+Wave-2 (Middle Sea political cluster). Added the "Politics of the inner sea" section; the Geography section above is the retained AI-trimmed sea-overview, untouched.
+
+Bryn-trail framing is canon per clueanda.md:62 (warm belt held by the Solar Accord's grip on Bryn's trail; Nysanna sun-frozen ruins are the precedent). NOTE: the Middle Sea freeze risk is the BRYN-TRAIL mechanism, NOT the Frost Fall (event-frost-fall is a deep-time Pelus-drift cold in the south, 8,840 BSD, a different cause). Deliberately did NOT wire a frost-fall edge or conflate the two mechanisms. Solar Accord / Bryn / magic-light referenced in prose only, no edge (locked cosmology; clueanda.md already carries the dependence canon).
+
+Vogenfeld/Hedroscobb lever referenced in prose; reciprocal prose backlink added in vogenfeld.md (no fitting edge kind for a water→shield-state geopolitical dependence — kept prose-only both directions).
+
+No edges authored on this water entity (political edges live on the land polities: Kazül rivalOf Tarkhon, Adron tradesWith Camaran, Camaran tradesWith Kazül). No new names coined.
 

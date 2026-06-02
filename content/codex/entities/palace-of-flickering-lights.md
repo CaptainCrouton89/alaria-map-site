@@ -9,6 +9,7 @@ tags: ["poi", "sarakiel", "rakite"]
 sources: ["all_sections_formatted/Upoceax.md#L2100"]
 relations:
   - { rel: spatial, kind: within, target: "3604" }
+  - { rel: cosmology, kind: attunedTo, target: "magic-light" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -17,7 +18,7 @@ review:
 ---
 A marble fortress at the northern edge of Tyror Miig, where the plains give way to the Ver Kanis headwaters. Home to a community of fallen Sarakiel who've been here for a thousand years, slowly forgetting what they used to be.
 
-The Palace sits at the intersection of the Light and Void leylines—where Kunus and Nilus cross. The original Sarakiel didn't choose this location by accident.
+The Palace sits where the Light and Void leylines cross, the seams of Kunus and Nilus running together beneath the marble. The crossing is a fact of the site, not the reason the Sarakiel settled it.
 
 #### The Structure
 
@@ -65,6 +66,6 @@ Unknown—even to them, probably. The younger Sarakiel want to leave, to explore
 
 Some whisper about the Roule. The halflings are burning the plains, disrupting the land, drawing attention. If outsiders keep coming, the Palace's isolation ends whether they want it or not. Better to act now, while they still have choices.
 
-Others whisper about the leylines. The intersection of Light and Void that powers their Palace—illumination and negation, presence and absence—represents something the Sarakiel once understood intuitively. They've lost that understanding, but the power remains. If they could reclaim their connection to Kunus, perhaps even harness the paradox of the intersection, they might become something more than fallen angels waiting for redemption that will never come.
+Others whisper about the leylines. The glow in the marble is Kunus, the Light element seeping up through the seam the Palace stands on, and over the centuries the Sarakiel have mistaken it for something it never was: the last of their celestial nature, kept burning in the walls, a thread they might follow back to the heaven that made them. Whatever they once were did not come from a leyline, and no light pooling in the stone will carry them home. But the belief gives the oldest of them a reason to hope. If they could only wake that light and take it up, they tell each other, they might stop waiting to be angels and simply be angels again.
 
 And a few—the oldest, the most devout—whisper about return. Not to the stars, but to relevance. A thousand years of hiding has accomplished nothing. Maybe it's time to be angels again, even if they have to do it on foot.

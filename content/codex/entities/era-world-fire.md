@@ -26,7 +26,7 @@ The fire ran for a long time and across a great deal of ground before it spent i
 
 ### The seam that never closed
 
-The Yolus seam did not heal over once the burning stopped. It runs erratic where it ruptured, surging and guttering on no schedule a shaper can read, so fire-Kethic worked over that ground behaves badly: a small flame swelling into something far larger than asked, or dying mid-working for no cause. This is the part of the World Fire still active in the present. A shaper who works fire over that ground takes a real risk now, centuries after the burning stopped.
+The Yolus seam did not heal over once the burning stopped. It runs erratic where it ruptured, surging and guttering on no schedule a shaper can read, so fire-Kethic worked over that ground behaves badly: a small flame swelling into something far larger than asked, or dying mid-working for no cause. This is the part of the World Fire that has not yet gone out. A shaper who works fire over that ground takes a real risk now, centuries after the burning stopped.
 
 ### The lost center
 

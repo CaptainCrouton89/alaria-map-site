@@ -12,6 +12,8 @@ sources:
 review:
   aiWritten: false
   action: keep
+bannerPosition: "50% 46.7%"
+bannerHeight: 400
 ---
 **Domains:** Mankind, civilization, rebirth.
 

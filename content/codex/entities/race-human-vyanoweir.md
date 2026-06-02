@@ -8,6 +8,7 @@ blurb: "Scattered remnants of a great Deoric civilization whose power to reshape
 relations:
   - { rel: culture, kind: subraceOf, target: "race-human" }
   - { rel: history, kind: participatedIn, target: "era-golden-age-of-man" }
+  - { rel: history, kind: participatedIn, target: "event-torn-hour" }
 sources:
   - "races/Human.md"
 review:
@@ -18,7 +19,9 @@ The Vyanoweir were once a mighty culture of community-oriented Deoric casters wh
 
 Now their great cities lie in ruins, their libraries burned — repositories of irreplaceable reconstruction work, each scroll the distillation of fragments found across dozens of dig sites. The burning did not destroy the original titan inscriptions scattered across ancient ruins, but it erased centuries of scholarly interpretation that had made those fragments usable. Their people scattered to the winds. Only a handful of individuals with Vyanoweir blood remain, carrying within them the fading echoes of their ancestors' incredible power. These survivors often don't even know their true heritage until moments of great need awaken the dormant magic in their blood.
 
-Among the scattered remnants are the Jae-Kai, nomadic spirit wranglers who have adapted their ancestral magic to herd spirits across the Plains of Oblivion. They make yearly pilgrimages to Estornum Agnostus to pay homage to the desolate ruins of their lost civilization.
+The reconstruction's reach was also its undoing. At the height of their fluency, a collective of Vyanoweir cartographers known as the seam-scribes turned the recovered grammar on the leylines themselves, in the working that became the Torn Hour. It killed them, and the body of knowledge they carried died with them, fifteen thousand years before the libraries that held the rest of it burned.
+
+Among the scattered remnants are the Jae-Kai, nomadic spirit wranglers who have adapted their ancestral magic to herd spirits across those same plains. They make yearly pilgrimages to Estornum Agnostus, the ruined installation where the seam-scribes cut their inscription, to pay homage to the desolate ruins of their lost civilization.
 
 #### Aspects
 - The last echo of a great civilization

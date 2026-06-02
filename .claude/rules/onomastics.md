@@ -35,3 +35,19 @@ provisional until the pool grows.
 | Region / culture | Finding |
 |-----------------|---------|
 | Kazül (desert kingdom) | Name pool too heterogeneous to codify: Jahazai = Arabic-flavored (j/h/z/-ai); Salomor/Porizzon = Romance-smooth; Bhutag/Ederhi/Yalami = invented one-offs with no shared morphemes. No recurring affixes or clear rules cross more than one name. Authoring a sheet would manufacture a register the corpus doesn't support. |
+
+## Ratified starter pools (no full sheet yet)
+
+These peoples have a ratified name and a usable personal-name starter pool but no full onomastics sheet authored. The starter pool may grow; a full sheet may be commissioned later.
+
+### Korrun (`race-korrun`)
+
+An earth/stone people of the Blueshale Peaks, born of Golus, Ezz, and Gaea's song of creation. Ratified
+endonym: **Korrun** (gloss: "the set ones / those who hold"). Slug: `race-korrun`. No rename.
+
+**Phonology:** hard stops (k, t, d, b) + doubled consonants (rr, nn) + heavy vowels (o, a, u).
+
+**Ratified starter personal-name pool:** Bedrath, Tarrun, Marn, Ossa, Velka, Durga.
+
+This is a starter pool — it may grow. A full sheet may be commissioned but none is required now.
+Do not blend these names with other race sheets.

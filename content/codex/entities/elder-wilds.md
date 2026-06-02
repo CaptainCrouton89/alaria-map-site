@@ -106,25 +106,25 @@ The ruins are inhabited by shadow hounds—creatures of Malstaric origin that ha
 
 #### Forest of Statues
 
-An ancient, eerily silent expanse of the Elder Wilds where reality bends and time becomes a tangible force. The Forest of Statues is the site of **The Stillness**—a permanent Izzus (time) breach that has existed since the Lost Ages, creating one of the most dangerous and mysterious locations in Alaria.
+An ancient, eerily silent stretch of the Elder Wilds where time runs unevenly. The forest is the site of the Stillness, a permanent Izzus breach that has stood open since the Lost Ages, and it is among the most dangerous places in Alaria for a reason most travelers never live long enough to understand.
 
-##### The Stillness: A Temporal Breach
+##### The Stillness
 
-Within the forest, time flows in deeply inconsistent patterns. The breach itself is not localized to a single point but pervades the entire forest region, creating zones of accelerated, decelerated, and frozen time. Those who venture into the forest without understanding its nature face a horrifying fate: they slow down progressively, their movements becoming increasingly sluggish until they effectively become stone-like—frozen in moments that stretch for centuries from the outside world, yet feel like mere seconds from their own distorted perspective.
+Time does not keep one rate inside the forest. An Izzus seam runs beneath it the way time leylines run beneath places like Besnoumeru, but here it does not lie quiet underfoot. It surfaces raw. The breach opened the time-layer onto the material world in the deep past and never closed, so the seam presses through unbounded, and the local rate runs fast in some pockets, slow in others, and in the deep zones nearly stalled. Each pocket holds its own pace, and the boundaries between them give no warning.
 
-The statues that give the forest its name are victims of The Stillness—travelers, explorers, and adventurers who became trapped by the temporal anomaly, their bodies hardened and petrified by the strange forces at work. Some are centuries old; others are recent additions to the forest's grim collection.
+The boundary is the danger, and the danger is to the hurried. A traveler who walks into a slowing pocket without feeling it slows along with it. Their steps lengthen, their thoughts stretch, and from outside they seem to freeze in place while from inside a single moment swells to fill what the world counts as years. The statues that name the forest are those people: travelers caught in the deep slow, held so far out of the world's pace that the rain wears them toward stone faster than they can lift a hand. Some have stood for centuries. Others arrived last season. None of it is cosmic. The Great Cycle runs on past the Forest of Statues exactly as it runs on past everything, the way it runs on past the Salt Tomb and every other place an Izzus seam has bent. What the breach bends is only the local rate, pocket by pocket. A statue is not frozen outside of time. It is a living person running so slow that the world has walked away and left it standing.
 
-##### The Time Witches
+Concentrated Izzus also settles into stone here. Time stones are turned up in the slow zones, dense little knots of the seam's own substance, and a worker who carries one can lean on it to bend the local rate in a small space, the way a shaper standing on a strong leyline reaches further than open ground allows. They are rare, the time-witches hold nearly all of them, and they are no shortcut past the element's limits. A time stone amplifies; it does not unlock history. The rate is all it touches.
 
-Over centuries, a society of witches and hags has learned to navigate The Stillness and exploit its power. These **time witches** possess an innate understanding of temporal flow—a gift or curse that allows them to move within the breach as others move through normal space. To outsiders, they appear to move impossibly fast, blurring between moments. They inhabit the forest and guard its secrets jealously.
+##### The time-witches
 
-The time witches have become custodians of a unique form of power: **time stones**—artifacts of concentrated Izzus energy that channel the breach's temporal manipulations. These stones are rare, precious, and tightly controlled by the witch communities. Those who possess them can influence time on localized scales, though the cost of such power is invariably steep.
+A people lives in the Stillness, and the world outside calls them time-witches. They call themselves the Sevrai. Generations of dwelling in the breach have bred into them a wide channel to Izzus and an instinct for which way the rate runs underfoot, so they cross the Forest of Statues at an easy walk while a stranger turns to stone a hundred yards in. They guard the breach and its time stones jealously and rarely teach an outsider anything. For all the strangeness of where they live, they are mortals and nothing stranger, fully alive and dying as mortals die. What they are and how their dying differs from the haunting kind of time-touched is the matter of their own account.
 
-##### Ciri the Time Witch
+##### Ciri
 
-Among the time witches, **Ciri** stands out as a legendary figure—ancient, powerful, and possessor of one of the most potent time stones. She is said to have lived through multiple centuries of subjective experience while only decades passed in the outside world. Ciri has been known to accept capable and determined travelers as students, teaching them to navigate The Stillness and understand temporal magic. However, her price is steep: she demands a piece of her student's soul—a literal fragment of their essence—in exchange for knowledge that most could never acquire elsewhere.
+Ciri is the oldest and most storied of the Sevrai. By the outside world's calendar she has been alive for close to four centuries, yet she is not deathless and has worked no magic to lengthen herself. She has spent that time in the slow heart of the Stillness, where a year outside passes in a few days within, and her body has run through a long but mortal span of its own slow time while the world aged on ahead of her. Carried out of the breach, she would keep the world's rate like anyone. The age is the ground's doing, not hers.
 
-Those who have trained under Ciri emerge transformed, bearing subtle marks of temporal affinity and understanding, but forever diminished in some ineffable way.
+She still takes students, the determined and the capable, and teaches them to feel the breach and to hold the slow. The price the traveler's tales make so much of is not what they say. It is not a fragment of the soul. It is the toll the element takes from anyone who works it past their depth. A student learns to summon the Izzus register, the patience and the regret and the long anticipation, and to pour it into the breach, and the pouring leaves them emptied of exactly those feelings, numb and flat for days until the feeling seeps back. Train long enough and hard enough under Ciri and it stops coming back all the way. Such students return unhurried, unsurprised, and never quite present, turned toward a then they can no longer step out of. They are not diminished in their souls. They are emptied in their hearts, and that emptiness is the whole of what the teaching costs.
 
 ### Apelands
 
@@ -175,3 +175,46 @@ Floods every year. Dolphins swim up from the ocean.
 ### Seyiy
 
 TODO
+
+<!-- author-notes -->
+
+STILLNESS — §9 CAUSE (withheld answer; GM-facing, strips from public build). The Stillness is a permanent
+deep-past Izzus seam-breach: in the Lost Ages the Izzus seam beneath the Forest of Statues ruptured open
+and never re-closed, so the time-layer presses through raw and unbounded across the whole forest. This is
+DISTINCT from the two other named Izzus features and the contrast is deliberate:
+- Salt Tomb (id 3816) = a localized Izzus STALL — one structure locked toward zero rate and set there.
+- Caves of Nykthos = self-nullification (a separate mechanism, not a breach).
+- The Stillness = a permanent open BREACH — not stalled and not stopped, but the seam surfacing wide and
+  unregulated, throwing pockets of fast/slow/near-stalled rate across a whole region with no clean edge.
+Player prose keeps the ORIGIN under-determined on purpose (the exact triggering event is left undated and
+unnamed). The definite GM answer: a deep-past seam rupture that failed to re-close — NOT a paragon
+over-channel (§9 cause #1, spent by the World Fire / Yolus) and NOT a Deoric leyline-cartography attempt
+(§9 cause #2, RESERVED for the later cartography-heresy event). Closest §9 menu fit is deep-structure /
+geological seam stress that tore the Izzus seam open; the specifics stay GM-choosable.
+
+LOCAL RATE ONLY honored throughout (magic-time / design §3.2/§8). The Stillness bends only the local rate,
+pocket by pocket — never history, never the Great Cycle. Stated outright in body ("None of it is cosmic.
+The Great Cycle runs on past the Forest of Statues"). The statues are living people running slow, not
+people removed from time; Ciri's age is local-rate (slow-zone residence), not life-extension magic.
+
+§5 COST FIX (was a CANON CONTRADICTION). The legacy text priced Ciri's teaching at "a piece of their soul
+— a literal fragment of their essence." That contradicts the §5 Kethic cost model (emotional toll, no
+literal soul extraction). Rewritten: the price is the Izzus emotional toll — the student is emptied of the
+register they channel, numb for days; sustained overreach is affective burnout (the elders "turned toward
+a then they can no longer step out of"). No soul is taken. Reciprocal fix lives on race-sevrai.md.
+
+CIRI LONGEVITY REFRAME. Legacy text had her experiencing centuries of subjective time while decades passed
+outside — incoherent for longevity and not local-rate-clean. Corrected to the inverse and the only coherent
+reading: outside reckons centuries, she lives a normal mortal span at a slow local rate (same as the Salt
+Tomb's slowed interior, worked on a person). Matches race-sevrai.md.
+
+SEVRAI / TIME-WITCHES. The time-witches are now the Sevrai, a Time affinity-overlay people authored at
+race-sevrai.md (slug id, non-pinnable). Per the Wikipedia container/member model this region gives them a
+short summary and DEFERS the people-detail (their §8 death, the Hourbound contrast) to the race entity. The
+outsider label "time-witches" is kept prominent here because it is how the region's neighbors refer to them.
+
+EDGES. No edge authored on this entity for the Sevrai or for magic-time. One-direction discipline: the
+typed edges (attunedTo→magic-time, originatedIn→1806) live on race-sevrai.md (the more-specific entity);
+this region reciprocates in PROSE only. The existing elder-wilds relations block is left untouched.
+
+No scholar attribution used (approval-gated); all assertions stated directly.

@@ -22,7 +22,7 @@ At night, the forest glows. The trees absorbed sunlight during the day; now they
 
 #### The Fae Population
 
-The Glass Forest teems with fae creatures—sprites, pixies, dryads, and things without names. They emerged when Ezz flooded through Old Tolaria, born from the collision of wild magic and Melera's imprisoned song.
+The Glass Forest teems with fae creatures—sprites, pixies, dryads, and things without names. They emerged when the Apparatus of Severance failed beneath Elderran and Melera's caged song tore loose across Old Tolaria, born where that first wave of loosed Faesong washed over the living forest and collided with the region's wild magic.
 
 Some fae are friendly, or at least not hostile. They'll bargain, play, share information that might or might not be true. Others are dangerous—hungry spirits, tricksters who find human suffering hilarious, predators who've learned that two-legged creatures are slow and soft.
 
@@ -32,7 +32,7 @@ Travelers who enter the Glass Forest learn quickly that every interaction is a n
 
 Deep in the Glass Forest, the trees themselves are aware. They don't move constantly—most of the time they're indistinguishable from ordinary (if strange-looking) trees. But they think, in whatever slow way trees think. They remember who passes. Some of them communicate, after a fashion.
 
-The oldest awakened trees have been conscious since the cataclysm. They witnessed the fall of Talaria, absorbed the wild magic, and became something new. What they want, if they want anything, is unclear. They seem content to grow, watch, and occasionally interact with the creatures that wander through their forest.
+The oldest awakened trees have been conscious since the cataclysm. They witnessed the fall of Tolaria, absorbed the wild magic, and became something new. What they want, if they want anything, is unclear. They seem content to grow, watch, and occasionally interact with the creatures that wander through their forest.
 
 Occasionally, a tree decides to move. This is terrifying. A tree that was rooted in one spot for decades suddenly isn't—and it goes wherever it wants, root-walking across the forest floor. The goblins of the nearby plains have stories about walking trees; they're not exaggerations.
 

@@ -21,7 +21,7 @@ review:
 ---
 ### Geography
 
-The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle Sea and the open western ocean. This strategic position has made Tarkhon one of the most powerful—and most resented—political entities in the region.
+The Tarkhon Empire straddles the critical strait between Clueanda and Rimihuica, controlling territory on both continents and dominating the only sea passage between the Middle Sea and the open western ocean. This strategic position has made Tarkhon one of the most powerful—and most resented—political entities in the region. The Middle Sea opens to the strait at Kazül, the desert glass-kingdom that pays the toll most directly of all the inner-sea coast and skims what trade it can around the edge of the imperial count.
 
 ##### On Clueanda (Northern Holdings)
 - **Nektuna**: The imperial heartland, controlling the northern shore of the strait
@@ -85,9 +85,8 @@ The flame burns without fuel, without maintenance, without apparent source. Scho
 
 Tarkhon's territory contains several important leylines:
 
-- **Fire Leyline**: Runs through Nektuna and Tarkhetan, producing the firemages who serve as the empire's elite military asset
-- **Time Leyline**: Runs through Besnoumeru, enabling the city's famous merchants to anticipate market changes before they happen
-- **Yolus Leyline**: Runs through the Fleimrut Mountains, unstable and dangerous, responsible for the Fleimrut Awakening
+- **Yolus (Fire) Leyline**: Runs through Nektuna and Tarkhetan, where it produces the firemages who serve as the empire's elite military asset; the same leyline surfaces again beneath the Fleimrut Mountains, where it is unstable and dangerous and responsible for the Fleimrut Awakening
+- **Time Leyline**: Surfaces at Besnoumeru in Nektuna, where the Oracle Merchants buy a stretched moment of local time to read and close a deal a step ahead of any rival
 
 ### The Imperial Legacy
 

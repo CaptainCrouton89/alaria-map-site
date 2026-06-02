@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { Search, Map as MapIcon } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { BuyMapButton } from '@/components/BuyMapButton';
 
 interface PrimaryNavProps {
   /** Which surface is current — its pill renders in the active style. */
@@ -58,6 +59,8 @@ export function PrimaryNav({ active, onSearch, searchKbd = 'f' }: PrimaryNavProp
           Codex
         </Link>
       </Button>
+
+      <BuyMapButton variant="nav" size="sm" label="Buy map" />
     </div>
   );
 }

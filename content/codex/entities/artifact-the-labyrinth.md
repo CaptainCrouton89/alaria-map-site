@@ -18,7 +18,7 @@ It is not built the way a crypt is built. It is the shape the leyline takes unde
 
 The flame above is the part of the Labyrinth that reaches daylight. The Evertorch burns without variation for the same reason the corridors below refuse to be measured. At the leyline's mouth time does not advance evenly, and the fire is held in a moment that does not move on. This is the older answer to the question Tarkhon's theologians prefer not to ask. Not what fuels the flame, but why it is exempt from the wear that any fuel would imply.
 
-The Izzus thread surfaces elsewhere, and stranger. In the merchant quarter of distant Tornia, traders turn a reliable profit on shifts in price they should have no way to see coming; in Kerwin, a halfling king has outlived every emperor who ever taxed him. Whether these are the same thread of Izzus or separate fissures of it is not settled, and the Labyrinth is the only place anyone has tried to walk it on purpose.
+The Izzus thread surfaces elsewhere, and stranger. In Besnoumeru, the second city of Nektuna, the Oracle Merchants turn a reliable profit closing deals a breath ahead of every rival on the floor; in Kerwin, a halfling king has outlived every emperor who ever taxed him; and beneath the ruined Tolarian capital of Elderran, where a mage-kings' machine tore the seam open outright, time has run wrong across a whole region for centuries. Whether these are the same thread of Izzus or separate fissures of it is not settled, and the Labyrinth is the only place anyone has tried to walk it on purpose.
 
 <!-- author-notes -->
 Open threads deliberately deferred (do not author as settled):

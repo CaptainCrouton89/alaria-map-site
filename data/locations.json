@@ -151,10 +151,14 @@
       "388",
       "905",
       "2460",
+      "2455",
       "4165",
+      "event-solar-accord",
       "creature-nagatayora",
+      "1036",
       "2453",
       "396",
+      "2582",
       "457",
       "587",
       "719",
@@ -168,8 +172,10 @@
       "411",
       "494",
       "652",
+      "race-dwarf-uline",
       "864",
-      "884"
+      "884",
+      "person-bryn"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -741,10 +747,12 @@
       "1834",
       "1835",
       "1754",
+      "2561",
       "1832",
       "3151",
       "1822",
       "creature-shemazari",
+      "3816",
       "manual-mphbt2hf-hd923",
       "1833",
       "magic-faesong",
@@ -753,6 +761,7 @@
       "magic-deoric",
       "nation-urzula",
       "1861",
+      "race-sevrai",
       "creature-titan",
       "race-dwarf",
       "1823",
@@ -1279,12 +1288,31 @@
     "relatedIds": [
       "388",
       "905",
+      "2460",
       "479",
+      "2455",
+      "event-solar-accord",
       "390",
       "981",
+      "457",
+      "magic-red-gold",
+      "895",
+      "477",
+      "creature-dragons",
+      "529",
+      "801",
       "816",
       "426",
-      "411"
+      "768",
+      "411",
+      "494",
+      "652",
+      "race-human-oznak",
+      "race-human",
+      "864",
+      "884",
+      "person-bryn",
+      "race-naga"
     ],
     "tags": [
       "Middle Sea",
@@ -1292,7 +1320,7 @@
       "trade"
     ],
     "atmosphere": "trade",
-    "blurb": "The Middle Sea Lands are the coastal lowlands and inner-sea rim south of the Kharvorn Mountains — home to the Middle Sea trade nations from Anarak in the west to Adron in the east.",
+    "blurb": "The temperate coastal belt of trade city-states ringing the Middle Sea south of the Kharvorn Mountains, the civilized core of Clueanda, united by no crown.",
     "parentName": "Clueanda",
     "containsCount": 18
   },
@@ -1834,7 +1862,7 @@
     "atmosphere": "civilization",
     "blurb": "A state in Ve.",
     "parentName": "Ve",
-    "containsCount": 47,
+    "containsCount": 48,
     "borders": [
       {
         "id": "359",
@@ -1888,6 +1916,7 @@
       "2453",
       "race-human",
       "race-neferati",
+      "event-fleimrut-awakening",
       "2495",
       "person-klor",
       "2501",
@@ -1916,6 +1945,7 @@
       "2530",
       "2484",
       "2519",
+      "652",
       "2544",
       "person-ulyas",
       "race-dwarf-uline",
@@ -2510,6 +2540,7 @@
     "relatedIds": [
       "9000",
       "magic-red-gold",
+      "477",
       "race-naga-nagashi",
       "race-naga-megelren",
       "race-kendor-pelaendor",
@@ -3885,13 +3916,14 @@
     "parentId": "2857",
     "relatedIds": [
       "2857",
-      "plane-material-plane",
+      "plane-elemental-planes",
+      "event-the-severance",
       "560",
+      "2881",
       "plane-psywinds",
       "creature-sprites",
       "magic-faesong",
       "race-elf-eloweir",
-      "creature-pixies",
       "514",
       "magic-deoric",
       "magic-kethic",
@@ -3904,7 +3936,7 @@
       "dangerous"
     ],
     "atmosphere": "ancient",
-    "blurb": "Old Tolaria is what remains after the greatest magical catastrophe in recorded history—a land where wizards reached too far and shattered the boundary between the…",
+    "blurb": "What remains of Alaria's magical heartland after the Tolarian mage-kings switched on the Apparatus of Severance at Elderran and tore the region apart.",
     "parentName": "Innerrim",
     "containsCount": 29
   },
@@ -5844,6 +5876,7 @@
       "479",
       "9000",
       "faction-aldriktch-trade-alliance",
+      "652",
       "person-doravin-selmari",
       "event-aldriktch-founding",
       "event-the-camaran-blight",
@@ -9123,7 +9156,9 @@
       "895",
       "9000",
       "person-salomor",
+      "2455",
       "race-human",
+      "2460",
       "663",
       "658",
       "469",
@@ -11271,6 +11306,7 @@
     "relatedIds": [
       "981",
       "race-human-vyanoweir",
+      "event-torn-hour",
       "4165",
       "person-queen-eranes",
       "manual-mph728ir-59ztz",
@@ -13499,10 +13535,10 @@
       "race-human",
       "837",
       "555",
-      "400",
       "832",
       "399",
       "388",
+      "400",
       "840",
       "830",
       "722",
@@ -14066,8 +14102,10 @@
       "2455",
       "race-dwarf-uline",
       "event-vogenfeld-pact",
+      "2460",
       "2604",
       "2462",
+      "390",
       "manual-mphai60e-q7lti",
       "race-human-stone-men",
       "2574",
@@ -18432,9 +18470,14 @@
     "relatedIds": [
       "732",
       "creature-velorax-the-unfinished",
+      "magic-time",
+      "994",
       "plane-elemental-planes",
       "event-the-severance",
+      "event-torn-hour",
+      "race-human-vyanoweir",
       "2890",
+      "719",
       "creature-dragons",
       "magic-faesong"
     ],
@@ -19091,6 +19134,7 @@
     "parentId": "2462",
     "relatedIds": [
       "2462",
+      "event-fleimrut-awakening",
       "2501",
       "453",
       "2530",
@@ -19117,6 +19161,7 @@
     "parentId": "2462",
     "relatedIds": [
       "2462",
+      "event-fleimrut-awakening",
       "plane-elemental-planes",
       "creature-trolls"
     ],
@@ -34201,7 +34246,11 @@
     "zoomLevel": 5,
     "parentId": "3662",
     "relatedIds": [
-      "3662"
+      "3662",
+      "magic-light",
+      "magic-fire",
+      "3681",
+      "person-bryn"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -34309,35 +34358,16 @@
     "parentId": "2555",
     "relatedIds": [
       "2555",
-      "400",
-      "2574"
+      "magic-time",
+      "plane-elemental-planes",
+      "2574",
+      "388"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "Nektuna's second city, built on a time leyline.",
+    "blurb": "Nektuna's second city, built where the Izzus time leyline surfaces. Its Oracle Merchants buy a stretched moment and out-trade any rival on the floor.",
     "parentName": "Nektuna"
-  },
-  {
-    "id": "400",
-    "name": "Besnoumeru",
-    "type": "region",
-    "coordinates": [
-      266,
-      184
-    ],
-    "zoomLevel": 5,
-    "parentId": "398",
-    "relatedIds": [
-      "398",
-      "race-human",
-      "2561"
-    ],
-    "loreFile": "Clueanda.md",
-    "tags": [],
-    "atmosphere": "civilization",
-    "blurb": "A wealthy merchant district of Tornia, where traders have made fortunes predicting shifts in supply and demand with uncanny accuracy.",
-    "parentName": "Tornia"
   },
   {
     "id": "3839",
@@ -36630,7 +36660,9 @@
     "zoomLevel": 5,
     "parentId": "1311",
     "relatedIds": [
-      "1311"
+      "1311",
+      "race-korrun",
+      "era-lost-ages"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -36878,6 +36910,29 @@
     "atmosphere": "water",
     "blurb": "South of Labyrinth Sound, Corpse Bay earned its name honestly.",
     "parentName": "Mueras"
+  },
+  {
+    "id": "400",
+    "name": "Corvalin",
+    "type": "region",
+    "coordinates": [
+      266,
+      184
+    ],
+    "zoomLevel": 5,
+    "parentId": "398",
+    "relatedIds": [
+      "398",
+      "race-human",
+      "399",
+      "388",
+      "630"
+    ],
+    "loreFile": "Clueanda.md",
+    "tags": [],
+    "atmosphere": "civilization",
+    "blurb": "A wealthy merchant quarter on Tornia's river delta, where underwriting houses price risk and insure the cargoes crossing Ofrenia's contested waters.",
+    "parentName": "Tornia"
   },
   {
     "id": "manual-mph4uxzr-7pm9b",
@@ -37248,10 +37303,19 @@
       114
     ],
     "zoomLevel": 5,
-    "parentId": null,
-    "relatedIds": [],
+    "parentId": "338",
+    "relatedIds": [
+      "338",
+      "3681",
+      "manual-mph53on6-mirms",
+      "3680",
+      "3662",
+      "person-bryn"
+    ],
     "tags": [],
-    "atmosphere": "civilization"
+    "atmosphere": "civilization",
+    "blurb": "A standing stone on Shyona's far-northern coast that holds Dawnbringer, the fire-and-light sword forged at the distant Temple of Bryn and borne north.",
+    "parentName": "Shyona"
   },
   {
     "id": "manual-mpha89oe-xtqya",
@@ -41921,6 +41985,8 @@
     "parentId": "732",
     "relatedIds": [
       "732",
+      "775",
+      "2881",
       "race-goblin-scalawag",
       "creature-sprites",
       "magic-faesong",
@@ -44367,18 +44433,21 @@
     "zoomLevel": 5,
     "parentId": "1962",
     "relatedIds": [
-      "1962"
+      "1962",
+      "magic-force",
+      "creature-heftbound",
+      "race-dwarf"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
-      "fortress",
-      "poi",
+      "ruins",
       "mines",
-      "vimlus",
+      "dwarven",
+      "force",
       "the-collapse"
     ],
     "atmosphere": "ancient",
-    "blurb": "The Implosion Mines are the ruins of an ancient dwarven civilization built around the manipulation of force leylines.",
+    "blurb": "Ruins of a dwarven civilization that mined by force, not pick, until the over-drawn Dynus seam collapsed a whole range inward and killed them.",
     "parentName": "Taulo Magi"
   },
   {
@@ -53030,6 +53099,7 @@
     "parentId": "3604",
     "relatedIds": [
       "3604",
+      "magic-light",
       "race-fallen-angels",
       "3627",
       "3606",
@@ -53059,6 +53129,7 @@
     "parentId": "3",
     "relatedIds": [
       "3",
+      "magic-light",
       "221",
       "359",
       "92",
@@ -55792,12 +55863,14 @@
     "parentId": "3833",
     "relatedIds": [
       "3833",
-      "3942"
+      "magic-time",
+      "3942",
+      "creature-hourbound"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
     "atmosphere": "ancient",
-    "blurb": "On the western shore of Deadman's Lake stands the Salt Tomb—a burial structure made entirely of salt blocks, gleaming white against the dark water.",
+    "blurb": "On the western shore of Deadman's Lake stands the Salt Tomb, a burial structure made entirely of salt blocks, gleaming white against the dark water.",
     "parentName": "Kilbyurn Mountains"
   },
   {
@@ -56756,10 +56829,12 @@
     "zoomLevel": 5,
     "parentId": "338",
     "relatedIds": [
-      "338"
+      "338",
+      "magic-dark"
     ],
     "tags": [],
     "atmosphere": "ancient",
+    "blurb": "A keep in northern Shyona drowned in permanent shadow, where a long-dead dark-shaper tore open a Vulus seam and never closed it.",
     "parentName": "Shyona"
   },
   {
@@ -59990,6 +60065,7 @@
     "parentId": "3662",
     "relatedIds": [
       "3662",
+      "magic-light",
       "manual-mph4psob-48u4u",
       "3680",
       "person-bryn"
@@ -59997,7 +60073,7 @@
     "loreFile": "Upoceax.md",
     "tags": [],
     "atmosphere": "ancient",
-    "blurb": "Located in the foothills north of Belu Jenari, at the intersection of the fire and light leylines, the Temple of Bryn was once a magnificent…",
+    "blurb": "Ruins of a Bryn sun-temple in the foothills north of Belu Jenari, scoured when the volcano formed but its light leyline still dangerously live.",
     "parentName": "Sandreach"
   },
   {

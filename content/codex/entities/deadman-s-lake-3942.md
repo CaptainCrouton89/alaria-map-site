@@ -34,15 +34,13 @@ The lake seems to collect the dead. Locals claim that bodies from miles around s
 
 #### The Salt Tomb
 
-On the lake's eastern shore, where the rocks rise sheer from the water, a cave mouth opens into the mountainside. The entrance is marked by white mineral deposits that give the appearance of salt encrustation—hence the name. Inside, the cave extends deep into the mountain, its walls lined with the same crystalline residue.
+On the western shore, where the thinning trees give onto the water, stands the Salt Tomb: a burial structure built entirely of white salt blocks, bright against the dark lake. It predates any local memory, and by every ordinary rule it should be long gone. Salt left in the weather dissolves, and a building of it on a cold lakeshore should have slumped to a white smear in a few wet winters. It has stood for centuries and lost nothing. The blocks are as square and bright as the day they were cut.
 
-The Salt Tomb is not a natural formation. The cave was carved, widened, and reinforced in a style that predates any known civilization in this region. The walls bear carvings that have been obscured by centuries of mineral buildup but are clearly deliberate. The passage descends at a gentle angle, spiraling into the mountain.
+The reason is a localized Izzus stall. A minor time leyline runs beneath Deadman's Lake, and where it surfaces at the tomb it neither ruptured nor ran wild. It stalled. The local rate inside the structure fell toward zero and set there, locking the whole burial out of the pace the world keeps, so the salt dissolves at a crawl too slow to watch. The danger is not the stilled core but the edge, where the stalled rate climbs steeply back to ordinary across the threshold. The people who have tried to break in learn it through their tools. Chisels shatter on salt turned harder than stone, and the one party that tried tunneling underneath watched its iron corrode to rust within the hour, years of weathering crowded into an afternoon at the boundary where the quick rate meets the slow.
 
-What lies at the bottom is unknown. Every expedition that has gone deep has either returned empty-handed—claiming the passage became impassable—or not returned at all. The survivors describe increasing disorientation as they descended, difficulty breathing despite adequate airflow, and the persistent feeling that something was following them back up.
+Who built the tomb, and who or what lies sealed inside it, is not recorded. The stall makes the question stranger than an ordinary grave's: if the rate truly fell near zero when it set, whatever was laid inside has scarcely aged since. That account, and what it would take to cross the killing edge and open the tomb, belongs to the Salt Tomb's own telling.
 
-The Salt Tomb's relationship to the lake is unclear. The cave doesn't connect to the water at any mapped point, but the mineral deposits suggest they share a source. Some scholars theorize that the tomb was built as a repository—a place to store something that needed to remain cold, isolated, and watched. Others think it was a prison.
-
-The ulvsjael don't enter the Salt Tomb. They don't go near Deadman's Lake at all. This is the only place in the northern forest where their absence is guaranteed. Whatever they sense here, they want no part of it.
+The ulvsjael don't go near the Salt Tomb, and they don't go near Deadman's Lake at all. This is the one place in the northern forest where their absence is certain. Whatever they sense here, they want no part of it.
 
 #### For Travelers
 
@@ -52,4 +50,4 @@ The operative word is "relative." The lake itself is dangerous—the cold water,
 
 Still, for those fleeing through ulvsjael territory, the lake represents a chance to rest. The western shore offers camping sites with clear sight lines. Water is plentiful, though drinking from a lake full of corpses takes some adjustment. The outlet stream is safer—the water has been filtered through several miles of rocky terrain by the time it's drinkable.
 
-Do not enter the Salt Tomb without significant preparation and the expectation that you may not return. Do not swim in the lake. Do not investigate the bodies—they've been dead long enough that disturbing them serves no purpose, and some of them... move in the current more than they should.
+Do not try to breach the Salt Tomb. Its wall ages a careless hand to ruin within the hour and gives nothing back. Do not swim in the lake. Do not investigate the bodies—they've been dead long enough that disturbing them serves no purpose, and some of them... move in the current more than they should.
