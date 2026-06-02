@@ -5,6 +5,10 @@ paths:
 
 # Onomastics — Naming Conventions
 
+This file is the shared sheet-routing reference. *When* and *how strictly* naming applies to a given
+entity is carried by the per-type rules (`.pi/rules/race.md`, `person.md`, and the place rules), which
+load from frontmatter when you read an entity of that type and point back here.
+
 When naming a new entity, find the race/culture's sheet in `docs/worldbuilding/onomastics/` and match it exactly.
 Do NOT blend families. Do NOT extrapolate beyond what the sheet explicitly supports.
 

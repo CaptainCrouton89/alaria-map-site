@@ -122,6 +122,8 @@ Multi-section depth is for entities that carry actual story weight: regions, nat
 
 `weight` is worth populating going forward; it could eventually drive tooling. But do not assume it is set when assessing what any given entity deserves.
 
+This section is the universal length kernel. Type-specific section patterns and length expectations — how a region, a magic system, a race, an era, or a daemon is each fleshed out — live in the per-type rules under `.pi/rules/<entityType>.md`, which load automatically from frontmatter when you read an entity of that type.
+
 ---
 
 ### Process

@@ -38,4 +38,6 @@ relations:
 - **Nuance lives in `note` and prose, never in a new kind.** "Complicated hatred" is `rivalOf` + note,
   not a new kind. Don't invent kinds outside this list — propose an addition instead.
 - **Time-bound facts take `when`**, or they read as present-tense canon.
-- **`subraceOf`** links a subrace `race` entity to its broad `race` (authored on the subrace, target = broad race; e.g. `race-dwarf-drasnian` → `race-dwarf`). The broad race surfaces its subraces via the computed reverse. Subraces are `entityType: race`, not places (no coordinates).
+- **`subraceOf`** links a subrace `race` entity to its broad `race`. The full semantics (authored on
+  the subrace, computed reverse, subraces are `entityType: race` not places) now live in the per-type
+  `.pi/rules/race.md`, loaded when you read a `race` entity.

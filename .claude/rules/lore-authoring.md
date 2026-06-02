@@ -54,3 +54,6 @@ verify it against the planar-stack docs rather than reasoning it out from the na
 - `.claude/rules/entity-files.md` — full frontmatter schema and `entityType` enum
 - `.claude/rules/entity-relations.md` — edge vocabulary and `within`/`capitalOf` semantics
 - `.claude/rules/codex-cli.md` — id-resolution, `map shot`, and CLI mutation rules
+- `.pi/rules/<entityType>.md` — per-type fleshing-out guidance (recommended sections, the type's
+  levers, which canon doc to read). Loads automatically from frontmatter when you read an entity of
+  that type; one file per `entityType` (region, city, magic, race, daemon, era, …).

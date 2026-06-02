@@ -62,11 +62,10 @@ grep -rl "Serisa" content/codex/entities/   # find the file
 **Settlement proximity ≠ containment.** The nearest pins are often across water in a different
 region — look at the landmass on the map, not the distance ranking.
 
-## Water bodies are siblings, not containers
+## Water-body containment lives in the per-type water rule
 
-A bay, sound, river, and peninsula are co-equal children of the parent region (all `within` the same
-region). An island or coastal ruin's `within` points to its **landmass** (the peninsula/region) or the
-top-level region — **never** to the water body it sits in.
+The "water bodies are siblings, not containers" authoring rule — where an island, bay, or coastal
+ruin's `within` should point — now loads from `.pi/rules/water.md` when you read a `water` entity.
 
 ## Orphans are invisible to containment navigation
 
