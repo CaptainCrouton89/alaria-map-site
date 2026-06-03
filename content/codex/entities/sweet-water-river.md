@@ -2,7 +2,7 @@
 id: "3106"
 name: "Sweet Water River"
 entityType: water
-blurb: "The only freshwater river in Phirexes, flowing from the Cloud Mountains in the south through Old One's Wood and the Misty Marshes before emptying into…"
+blurb: "Phirexes's only freshwater river; it runs too fast for the fog to bind, which makes its banks the refugees' lifeline."
 coordinates: [347, 288]
 zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L5381"]
@@ -14,8 +14,10 @@ review:
   action: keep
   notes: "Sweet Water River, fog-resistant refugee lifeline [347,288]; coherent, geo plausible (flows to Gulf of Tears)."
 ---
-The only freshwater river in Phirexes, flowing from the Cloud Mountains in the south through Old One's Wood and the Misty Marshes before emptying into the Gulf of Tears. The name is literal—this water is clean and sweet, untainted by the brackishness that afflicts most of the swamp.
+The only freshwater river in Phirexes. It rises in the Cloud Mountains to the south and runs north through Old One's Wood and the Misty Marshes before it reaches the Gulf of Tears. The name is plain fact. The water is clean and cold and sweet, with none of the brackish rot that fouls the rest of the swamp.
 
-The Sweet Water River predates the fogs and seems partially resistant to them. The water is clearer along its banks, the fog thinner, the creatures less warped. Queen Phendexelas has tried and failed to corrupt it fully; something in the river's nature—perhaps its mountain origin, perhaps something older—refuses her influence.
+The Sweet Water predates the fogs and shrugs them off, and the reason is the current. Fog-binding takes hold in things that stand still long enough to soak it up: standing pools, slow blood, lungs that breathe the mist for years. The river never stands still. It comes down off the mountains fast and cold and is gone again before the fog can settle into it, so along the main channel the mist thins, the water runs clear, and the creatures are less warped than the things a mile inland. Phendexelas has tried to corrupt it and failed. You cannot bind moving water.
 
-This makes the river the refugees' lifeline. Their camps cluster along its banks where the fog-binding sickness is weakest. The water itself seems to ease withdrawal symptoms, and plants that grow only along the river's edge have properties that help manage the addiction. The queen knows this and has tried to dam or divert the river multiple times. Each attempt has failed—the water finds new channels, sometimes overnight, as if the river itself is fighting back.
+Which is why she stopped trying to corrupt it and started trying to slow it. Her work on the river now is engineering, not destruction: silt-weirs, diversions, cuts meant to spread the flow into broad shallow fens where the water would stand and the fog could take it. Each has failed so far. The river finds new channels overnight, and the refugees help it, because where the Sweet Water slows it stops protecting them.
+
+That is the war along the banks. The refugee camps cluster on the fast water, where the binding-sickness eases and the riverside plants that blunt withdrawal still grow. A channel-warden named Fenwen walks the upper river breaking the queen's weirs and cutting the oxbows straight, keeping the Sweet Water quick. The dead backwaters he cannot reach are as fog-bound as the rest of Phirexes, and the camps know to draw only from the middle of the current.

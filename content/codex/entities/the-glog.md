@@ -35,31 +35,31 @@ The dragon's influence manifests in several ways:
 
 #### Notable Features
 
-**Birintine Lake** lies in the forest's western reaches, fed by the Birintine River that flows down from the Pinnacles of Rosensaw. The lake is relatively shallow and warm by local standards, heated by geothermal activity that also produces the sulfurous smell characteristic of much of The Glog. Small fishing communities work the lake during summer.
+Birintine Lake lies in the forest's western reaches, fed by the Birintine River that flows down from the Pinnacles of Rosensaw. The lake is relatively shallow and warm by local standards, heated by geothermal activity that also produces the sulfurous smell characteristic of much of The Glog. Small fishing communities work the lake during summer.
 
-**Lake Morgan** sits in the northwestern corner of the forest, drained by the Erginya River that flows north to the sea. The lake is colder, deeper, and surrounded by particularly dense forest. Local legend holds that something besides fish lives in its depths—something large enough to capsize boats that venture too far from shore.
+Lake Morgan sits in the northwestern corner of the forest, drained by the Erginya River that flows north to the sea. The lake is colder, deeper, and surrounded by particularly dense forest. Local legend holds that something besides fish lives in its depths—something large enough to capsize boats that venture too far from shore.
 
-**The Lonely Lakes** dot the northern forest in a chain that may once have been a single larger body of water. They're called "lonely" because nothing seems to live in or around them—no fish, no waterfowl, no animals coming to drink. The water is clear and cold and perfectly still. Most travelers avoid them.
+The Lonely Lakes dot the northern forest in a chain that may once have been a single larger body of water. They're called "lonely" because nothing seems to live in or around them—no fish, no waterfowl, no animals coming to drink. The water is clear and cold and perfectly still. Most travelers avoid them.
 
 #### Settlement
 
 No permanent settlements exist within The Glog proper. The forest is too wet, too cold, too dangerous, and too close to a dragon to attract permanent residents. What population exists concentrates in seasonal camps:
 
-**Logging camps** operate along the western fringe during summer, harvesting glogpine and fir for the timber trade. Workers rotate through on six-week shifts, and the camps close entirely when winter makes the work impossible.
+Logging camps operate along the western fringe during summer, harvesting glogpine and fir for the timber trade. Workers rotate through on six-week shifts, and the camps close entirely when winter makes the work impossible.
 
-**Trapping stations** support fur hunters who work the forest in autumn and early winter, when pelts are thickest and Pelera is least active. The trappers know the forest better than anyone—and have the highest casualty rate.
+Trapping stations support fur hunters who work the forest in autumn and early winter, when pelts are thickest and Pelera is least active. The trappers know the forest better than anyone, and have the highest casualty rate.
 
-**Way-stations** provide shelter for travelers crossing The Glog on the route between the Gaplands and The Screech. These are simple structures—four walls, a roof, and a firepit—maintained by no one in particular and used by everyone.
+Way-stations provide shelter for travelers crossing The Glog on the route between the Gaplands and The Screech. These are simple structures: four walls, a roof, and a firepit, maintained by no one in particular and used by everyone.
 
 #### Crossing The Glog
 
 The forest lies between the Gaplands to the west and The Screech to the east, making it an unavoidable obstacle for overland travel along this coast. Three routes exist:
 
-**The Northern Shore** follows the coastline, avoiding the forest entirely but requiring boats or difficult scrambling across tidal flats. It's the safest route but the longest.
+The Northern Shore follows the coastline, avoiding the forest entirely but requiring boats or difficult scrambling across tidal flats. It's the safest route but the longest.
 
-**The Glog Road** cuts directly through the forest, following higher ground that's merely damp rather than flooded. The road is marked with cairns and maintained—barely—by whoever uses it. Travel time is roughly four days on foot. The route passes within twenty miles of Shimmer Lake.
+The Glog Road cuts directly through the forest, following higher ground that's merely damp rather than flooded. The road is marked with cairns and maintained, barely, by whoever uses it. Travel time is roughly four days on foot. The route passes within twenty miles of Shimmer Lake.
 
-**The Southern Edge** skirts the forest along the foothills of The Screech and Shasalassere Mountains. It's drier but longer, and the mountain approaches have their own hazards.
+The Southern Edge skirts the forest along the foothills of The Screech and Shasalassere Mountains. It's drier but longer, and the mountain approaches have their own hazards.
 
 Most travelers take the Glog Road and hope Pelera isn't hunting that week.
 

@@ -10,16 +10,17 @@ relations:
   - { rel: spatial, kind: within, target: "720" }
   - { rel: spatial, kind: borders, target: "398", note: "northern border with Tornia" }
   - { rel: spatial, kind: borders, target: "630", note: "southern border with Joswik" }
-  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human kingdoms; sibling rulers (Queen Alisandra of Tornia, Prince Edric of Joswik) govern Ofrenia's founding house" }
+  - { rel: polity, kind: ruledBy, target: "person-renato" }
+  - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human kingdoms; ruled by Prince Renato, the middle sibling of Ofrenia's founding house (Alisandra of Tornia and Edric of Joswik are his siblings)" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
   notes: "Newly created to model Sylke-the-country per user correction: 726 is the capital town, this entity is the region/country. Mirrors ofrenia-tornia.md (398) pattern."
 ---
-Sylke occupies the center-west of Ofrenia, its territory running along the island's western coast between the richer lowlands of Tornia to the north and the mountain-backed holdings of Joswik to the south. Of the three Ofrenian kingdoms, Sylke is the least discussed and most deliberately opaque—it shares the island's feuding inheritance but has never been the loudest voice in the argument.
+Sylke occupies the center-west of Ofrenia, its territory running along the island's western coast between the richer lowlands of Tornia to the north and the mountain-backed holdings of Joswik to the south. Of the three Ofrenian kingdoms it is the smallest and the poorest, the strip of rough country the other two never thought worth taking. It is also the only one of the three that is exactly where it wants to be.
 
-Where Tornia presses outward and Joswik entrenches, Sylke sits between them, calculating. The kingdom has survived the sibling feud by making itself difficult to read. Its borders are acknowledged by the other two kingdoms without ever having been formally settled, which suits Sylke well enough.
+Prince Renato rules from Bridgeton, where an ancient bridge carries the western road across the river toward the coast and the royal palace watches everything that crosses. That bridge is the point of the whole kingdom. Sylke holds the only easy passage across the island's waist, and the interior on either side of it is broken enough to choke any march, which is why neither of Renato's siblings has ever been able to move against him and why all the island's overland traffic has to ask his leave. He grants it and withholds it as the season requires.
 
-Sylke's capital is Bridgeton, set where an ancient bridge carries the western road across the river down toward the coast; the royal palace watches everything that crosses. Beyond the coastal lowlands and the highland village of Cat Fell, the kingdom's interior is rough country that discourages easy passage between north and south, which may explain why neither Alisandra nor Edric has moved against it decisively.
+The war between Tornia and Joswik runs through Sylke, and not by accident. Renato manufactures it. Every envoy Edric of Joswik sends north to sue for terms passes through Bridgeton, where the letter that arrives in Catalina is rarely the one that left; raids in the shipping lanes are timed and blamed where they will do the most good; a slight is forged here, a convoy lost there, and Queen Alisandra reads each one as proof of her brother's bad faith and fortifies further. None of it shows Sylke's hand. The kingdom presents itself as the one neutral party on a divided island, the broker everyone can still deal with when the lanes go dangerous, and it charges accordingly. Its borders have never been formally settled, and Renato has no wish to settle them. An unmade peace is the kingdom's whole livelihood.
 ---

@@ -51,6 +51,7 @@ verify it against the planar-stack docs rather than reasoning it out from the na
 
 ## Cross-references
 
+- `.claude/rules/lore-complication.md` — set a rule, then invert it; depth and moral ambiguity through grounded contradiction
 - `.claude/rules/entity-files.md` — full frontmatter schema and `entityType` enum
 - `.claude/rules/entity-relations.md` — edge vocabulary and `within`/`capitalOf` semantics
 - `.claude/rules/codex-cli.md` — id-resolution, `map shot`, and CLI mutation rules

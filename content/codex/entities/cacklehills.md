@@ -28,7 +28,7 @@ Water is scarce. The few springs and seasonal streams are fiercely contested by 
 
 The Cacklehills sit between the Elephant Groves and the United Free Nations to the southeast. Anyone traveling overland between these regions must either cross the hills, circle around through goblin territory, or find another route entirely.
 
-This has made the Cacklehills a natural barrier—not quite impassable, but dangerous enough that casual travel is discouraged. The United Free Nations uses this to their advantage; the hills provide a buffer against whatever might come from the west.
+This has made the Cacklehills a natural barrier, dangerous enough that casual travel is discouraged though not quite impassable. The United Free Nations uses this to their advantage; the hills provide a buffer against whatever might come from the west.
 
 #### Who Uses the Hills
 

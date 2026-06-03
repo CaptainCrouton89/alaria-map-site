@@ -10,13 +10,13 @@ sources: ["all_sections_formatted/Ve.md#L2041"]
 relations:
   - { rel: spatial, kind: within, target: "322" }
 ---
-A fortress of black volcanic glass standing at the western edge of the Red Desert, where the Shepherds' Stones meet the arid sands. Lurza was built by followers of the daemon Vekkroth before Talresses drove that rival power from Ve. The fortress remains intact, its gates standing open, its halls empty—a monument to a war the Shailin have been taught to forget.
+A fortress of black volcanic glass standing at the western edge of the Red Desert, where the Shepherds' Stones meet the arid sands. Lurza was built by followers of the daemon Vekkroth before Talresses drove that rival power from Ve. The fortress remains intact, its gates standing open, its halls empty, a monument to a war the Shailin have been taught to forget.
 
 ### History
 
 Vekkroth and Talresses both sought worshippers among the early human settlers of western Ve. For generations they competed, their cults growing in parallel, each daemon whispering promises of power and purpose to different communities. The conflict turned violent when the cults grew large enough to matter.
 
-Talresses won. His followers were more numerous, more organized, more willing to fight for their god. Vekkroth's cult was destroyed—their priests killed, their temples burned, their worshippers forced to convert or die. The daemon itself was expelled from Ve, driven to seek followers elsewhere.
+Talresses won. His followers were more numerous, more organized, more willing to fight for their god. Vekkroth's cult was destroyed: their priests killed, their temples burned, their worshippers forced to convert or die. The daemon itself was expelled from Ve, driven to seek followers elsewhere.
 
 Lurza was Vekkroth's primary temple. The cult imported volcanic glass from across the sea to build it, constructing walls of gleaming black stone that stood in stark contrast to the golden rock of the surrounding mountains. The architecture followed Vekkroth's alien aesthetic: wrong angles, windowless halls, chambers designed for rituals no Shailin ever learned.
 
@@ -28,7 +28,7 @@ Lurza stands exactly as it was left centuries ago. Wind and sand have scoured th
 
 The Shailin avoid Lurza completely. Talresses teaches that it is cursed, that entering brings spiritual contamination, that some places should remain undisturbed. He doesn't explain why. The Shailin don't ask.
 
-The Korel avoid it too. They sense something wrong about the place—a lingering wrongness that makes their fur stand on end. Vekkroth's power persists in the stones even without worshippers to sustain it. Not enough to do anything, but enough to feel.
+The Korel avoid it too. They sense something wrong about the place—a lingering wrongness that makes their fur stand on end. Vekkroth's power persists in the stones even without worshippers to sustain it. There is enough left to feel, but not enough to do anything.
 
 ### What's Inside
 
@@ -40,9 +40,9 @@ The valuable contents include:
 - **A reliquary** in the central sanctum containing fragments of offerings to Vekkroth—bones, gems, and objects of unclear purpose
 - **The Binding Circle**, a permanent magical construction in the sanctum's floor that once allowed priests to communicate directly with Vekkroth. It still works. The daemon still answers, if someone knows the ritual. No one has called in centuries.
 
-The Binding Circle is why Talresses forbids entry. Not because the fortress is cursed, but because Vekkroth remains accessible to anyone willing to use it. The rival daemon lost Ve but didn't die. It found worshippers elsewhere and would happily reclaim a foothold here if given the chance. Every potential visitor to Lurza is a potential convert.
+The Binding Circle is the real reason Talresses forbids entry. The curse is a pretext; what matters is that Vekkroth remains accessible to anyone willing to use it. The rival daemon lost Ve but didn't die. It found worshippers elsewhere and would happily reclaim a foothold here if given the chance. Every potential visitor to Lurza is a potential convert.
 
-Talresses solved this problem by making the place taboo. Easier than destroying it—and destruction might have released something worse.
+Talresses solved this problem by making the place taboo. Easier than destroying it, and destruction might have released something worse.
 
 ### Location
 

@@ -10,48 +10,33 @@ sources: ["all_sections_formatted/Aboyinzu.md#L8509"]
 relations:
   - { rel: spatial, kind: within, target: "2443" }
 ---
-An ancient woodland in the northwestern Crimson Coast, smaller but far older than the neighboring Fragenstor Mielthøn. The forest takes its name from a legendary figure—Hilda the Wanderer, who supposedly lived here before the Winter Elves arrived, before humans crossed the Dragon's Spine, before recorded history began.
+Hilda's Forest covers the northwestern corner of the Crimson Coast. It is a small wood by the measure of the Fragenstor Mielthøn beside it, and a far older one. The trees are wrong-aged: gnarled oak and twisted pine grown thick as if the place had been standing since before the land had a name. Light barely reaches the floor, the few paths are faint, and travelers who come back a second time report that the paths have moved.
 
-#### Character
-
-Where the Fragenstor Mielthøn is oppressive in its vastness, Hilda's Forest is oppressive in its intensity. The trees are older here—gnarled oaks and twisted pines that look like they've been growing since the world was young. The canopy blocks almost all light; the undergrowth is thick and tangled; the paths (such as they are) seem to shift between visits.
-
-The forest feels *aware* in a way the Fragenstor doesn't. Travelers report being watched, being followed, being *considered* by something that decides whether to let them pass. Most are let pass. Some aren't.
+Where the Fragenstor oppresses by sheer size, Hilda's Forest oppresses by attention. People who walk in it feel watched, then followed, then weighed. Most are let through. Some are not. The forest behaves less like terrain than like a thing making decisions.
 
 #### Hilda the Wanderer
 
-Tangier legends describe Hilda as:
-- A woman who lived alone in the forest for centuries before humans arrived
-- A fey creature who guarded the woodland against outsiders
-- A prisoner kept in the forest by ancient powers
-- Something that merely wore the shape of a woman
+The forest is named for Hilda the Wanderer, who by every Tangier account was here first. The accounts agree on nothing else. She was a woman who lived alone in the wood for centuries before humans crossed the Dragon's Spine. She was a fey thing that guarded the trees against outsiders. She was a prisoner the wood was built around. She was something that only wore a woman's shape and answered to the name because it was convenient.
 
-The legends don't agree on details, but they agree on this: Hilda was here first, and the forest belongs to her. Even now, centuries or millennia after her disappearance (if she ever existed), locals leave offerings at the forest edge—bread, honey, small coins—before entering.
+What the tellings share is a shape. Hilda was here before anyone, the forest is hers, and she is gone now. The Tangier still leave bread, honey, and small coins at the forest edge before they enter, the way a tenant leaves rent. Lately the offerings have been disappearing — not eaten and not scattered, simply gone by morning.
 
-#### The Elven Avoidance
+There is one reading the Tangier mostly avoid: that Hilda was not the forest's owner but its keeper, that she watched over something deeper in the wood and that the watching was the whole of her purpose. The something is the ruin of Hildaneir, and what she kept there is its own account.
 
-The Winter Elves avoided Hilda's Forest entirely. They claimed the rest of the Crimson Coast, built settlements, extracted tribute, shaped the land to their purposes—but never touched this forest. Their records mention it only to note its existence and warn against entry.
+#### The forest the elves left alone
 
-This restraint is remarkable. The elves had the power to clear the forest, the need for its timber, the curiosity to explore its mysteries. They did none of these things. Either they knew something about Hilda's Forest that made leaving it alone worth the cost, or they tried to claim it and failed badly enough that no record survives.
+The Winter Elves took the whole of the Crimson Coast and shaped it to their needs. They cleared, they built, they logged, they pulled tribute from the humans at the forest's edge. Here they did none of it. Their records mention Hilda's Forest only to note that it exists and to warn against going in.
 
-#### Current Status
+That restraint is the loudest thing the elves ever said about the place. They had the numbers to clear it, the want of its timber, the long habit of taking what they pleased. They left it untouched anyway. Either they knew what the wood held and judged it not worth the disturbing, or they tried once and lost badly enough that no account of the attempt survives.
 
-Hilda's Forest is technically within Tangiern's borders but functionally independent. The Tangier people don't log here, don't hunt here, don't claim to control it. They maintain a respectful distance, and in return the forest doesn't expand into their territories or produce threats that require response.
+#### A standing arrangement
 
-This arrangement has held for centuries. Whether it will continue holding depends on factors no one fully understands.
+Hilda's Forest sits inside Tangiern's borders and outside its control. The Tangier do not log here, do not hunt here, and do not pretend to govern it. They keep their distance, and the forest keeps to its bounds. It does not creep into cleared land or send anything out that has to be answered. The arrangement has held for centuries on terms no one negotiated and no one writes down.
 
-#### Entering the Forest
+#### Going in
 
-Those who enter Hilda's Forest report:
-- **Disorientation**: Compasses spin; the sun seems to move too fast or too slow; landmarks appear in the wrong places
-- **Observation**: The constant sense of being watched by something intelligent
-- **Testing**: Small challenges—paths that lead in circles, obstacles that require specific solutions, moments where giving up would be the easy choice
-- **Judgment**: Those who pass the tests may proceed; those who don't find themselves back at the forest edge with no memory of the journey
+Those who enter and return describe the same stages. Direction fails first: compasses turn, the sun runs fast or slow, familiar landmarks stand in the wrong places. Then comes the sense of being considered by something that has not yet decided. Then small tests, a path that loops back, an obstacle with one correct answer, a moment where turning back would be easy and is meant to be. Those the forest judges worthy go on. Those it does not wake at the forest edge with the day gone and no memory of where it went.
 
-The forest seems to evaluate visitors and decide whether they deserve passage. The criteria are unclear; worthy visitors have included scholars, criminals, children, and at least one war party that entered seeking conquest and emerged seeking peace.
+The standard for passage is not virtue. The forest has passed scholars and criminals and children alike, and once turned a war party that went in for conquest and came out asking for peace. Whatever it weighs, it is not weighing the things a person would expect.
 
-#### Adventure Hooks
-
-- The offerings at the forest edge have been disappearing—not consumed, not scattered, simply gone. Someone or something is collecting them.
-- A child entered the forest three days ago and hasn't returned. The forest usually sends children back immediately; this time it hasn't.
-- A scholar claims to have found evidence that Hilda wasn't a person but a title—and that the position has been vacant for too long.
+<!-- author-notes -->
+The forest's deep lore ties to Hildaneir (id 2410): Hilda the Wanderer was the last vigil-keeper of the binding at Hildaneir, and the forest's intensifying strangeness — the moved paths, the vanishing offerings, the sharper sense of being watched — tracks the decay of that binding now that Hilda is forgotten. The GM-knowable cause and the bound thing's nature live in hildaneir.md author-notes; this entry owns Hilda's broader legend and the forest itself, and defers the binding/vigil detail to Hildaneir (Wikipedia-summary model). The vanishing offerings are a live hook: something at the forest edge is collecting them. Whether the forest's "awareness" is genuinely Hilda's residue / a fey character of the wood, or the cognition-bleed of the loosening entity at Hildaneir, is left open — do not resolve without canon sign-off. within → 2443 (Tangiern) kept. Old boldface bullet lists and the "a scholar claims" hook line were removed to meet the no-boldface / no-scholar-attribution standard.

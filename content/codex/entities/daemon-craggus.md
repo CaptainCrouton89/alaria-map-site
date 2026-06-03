@@ -23,17 +23,17 @@ bannerHeight: 400
 
 ### Overview
 
-Craggus was the first daemon of the reborn world. As the Long Winter's grip released and the God War's survivors emerged from hiding, there were no gods left — every deity of the Golden Age of Man had perished in the catastrophe that followed the Kajiit eruption. Into this void, Craggus arose: not a god of a single people, but of all mankind.
+Craggus was the first daemon of the reborn world. As the Long Winter's grip released and the God War's survivors emerged from hiding, there were no gods left — every deity of the Golden Age of Man had perished in the catastrophe that followed the Kajiit eruption. Into this void, Craggus arose: a god of all mankind, not of any single people.
 
-His ascension drew on the desperate faith of every surviving human culture at once. Historical reconstructions place the Long Winter's survivor count below a hundred thousand; when that remnant directed its prayers toward the same emerging presence, the concentration was extraordinary — the massed devotion of tens of thousands delivered over days rather than spread across generations. He became the most widely-worshipped deity in history before most of his followers had found food.
+His ascension drew on the desperate faith of every surviving human culture at once. Historical reconstructions place the Long Winter's survivor count below a hundred thousand; when that remnant directed its prayers toward the same emerging presence, the concentration was extraordinary, the massed devotion of tens of thousands delivered over days rather than spread across generations. He became the most widely-worshipped deity in history before most of his followers had found food.
 
-During the fifteen thousand years of the Age of Craggus, human civilization rebuilt itself under his watch. He was not a gentle god — accounts suggest he demanded order, labor, and sacrifice — but he was just. His following grew from those early desperate thousands to encompass every human culture that reemerged.
+During the fifteen thousand years of the Age of Craggus, human civilization rebuilt itself under his watch. He was not a gentle god. Accounts suggest he demanded order, labor, and sacrifice, but he was just. His following grew from those early desperate thousands to encompass every human culture that reemerged.
 
 ### Fall and the Laughing Plague
 
-The Laughing Plague struck approximately thirty thousand years ago, in the early Lost Ages. The disease did not kill Craggus directly; what killed him was what the Plague did to faith. The Plague was anomalous — it caused its victims to laugh until death, spreading through communities with horrifying speed. The terror and incomprehensibility of it dissolved the structured faith that had sustained Craggus for fifteen thousand years.
+The Laughing Plague struck approximately thirty thousand years ago, in the early Lost Ages. The disease did not kill Craggus directly; what killed him was what the Plague did to faith. The Plague was anomalous: it caused its victims to laugh until death, spreading through communities with horrifying speed. The terror and incomprehensibility of it dissolved the structured faith that had sustained Craggus for fifteen thousand years.
 
-At his peak, tens of millions contributed daily prayer — a word at planting, a gesture at dawn, the habitual devotion of a civilization that had rebuilt itself under his name. The Plague stripped it away in under a century. When active worship fell beneath what five hundred devoted believers could sustain in a year, Craggus crossed the remembrance floor and was gone.
+At his peak, tens of millions contributed daily prayer: a word at planting, a gesture at dawn, the habitual devotion of a civilization that had rebuilt itself under his name. The Plague stripped it away in under a century. When active worship fell beneath what five hundred devoted believers could sustain in a year, Craggus crossed the remembrance floor and was gone.
 
 No successor deity ever achieved comparable pan-human reach. The Lost Ages that followed his death were marked by exactly that loss.
 

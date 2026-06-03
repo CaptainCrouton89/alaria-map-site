@@ -16,7 +16,7 @@ The northernmost of the three eastern forests, Pystinwood marks where the Westwi
 
 Pystinwood stretches roughly 40 miles east to west and 30 miles north to south, bounded by the West Tolkarsus river to the north, the Homdrum Hills to the west, the Steppe of Aziirn to the east, and the clearing containing the settlement of Koshasya to the south. Together with Milrar Forest and Telwood to the south, it forms a woodland belt along the steppe's western edge.
 
-**The Pale Groves**: Dense stands of pystin trees, their white bark giving the forest an eerie, luminous quality even on overcast days. The undergrowth is thin—the pystins produce chemicals that inhibit competing plants—making travel through the groves surprisingly easy.
+**The Pale Groves**: Dense stands of pystin trees, their white bark giving the forest an eerie, luminous quality even on overcast days. The undergrowth is thin (the pystins produce chemicals that inhibit competing plants), making travel through the groves surprisingly easy.
 
 **The Tolkarsus Fringe**: The forest's northern edge, where it meets the West Tolkarsus river. The soil here is richer, supporting a more diverse woodland of oak, ash, and alder alongside the pystins.
 
@@ -34,11 +34,11 @@ The pystin is a medium-sized deciduous tree with distinctive white bark that pee
 
 **The Sap-Tappers**: Small, semi-nomadic communities who move through the forest following traditional harvesting routes. They're not hostile to outsiders but not particularly welcoming either—the forest provides enough for them, and more people would mean less.
 
-**Dreaming Pilgrims**: Occasional visitors seeking visions or insight come to drink fresh pystin sap in the Pale Groves. The practice has no formal structure—no temples, no priests—just individual seekers hoping the forest will show them something useful.
+**Dreaming Pilgrims**: Occasional visitors seeking visions or insight come to drink fresh pystin sap in the Pale Groves. The practice has no formal structure, no temples, no priests, just individual seekers hoping the forest will show them something useful.
 
 #### Climate
 
-Continental temperate, moderated slightly by the forest cover. The Pale Groves maintain their own microclimate—slightly cooler and more humid than the surrounding terrain—which contributes to the pystins' dominance.
+Continental temperate, moderated slightly by the forest cover. The Pale Groves maintain their own microclimate, slightly cooler and more humid than the surrounding terrain, which contributes to the pystins' dominance.
 
 #### Why It Matters
 

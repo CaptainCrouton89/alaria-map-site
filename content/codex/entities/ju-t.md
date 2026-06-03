@@ -19,7 +19,7 @@ A port city of roughly twenty thousand people positioned on Kettle Bay, where th
 
 Jüt survives by being useful to everyone.
 
-The city sits at a crossroads: Seyiki merchants bring pillar-crystals and dragonfly chitin down from the desert. Melodian traders arrive with resonant wood and rare botanicals. Lacirean caravans—making the long, careful journey through the Walking Forest and Tenekee Woods—carry spring water and Grayl-amber worth fortunes. Ships from the Western Isles bring metal, textiles, luxury goods, and everything else the land-locked interior can't produce.
+The city sits at a crossroads: Seyiki merchants bring pillar-crystals and dragonfly chitin down from the desert. Melodian traders arrive with resonant wood and rare botanicals. Lacirean caravans, making the long, careful journey through the Walking Forest and Tenekee Woods, carry spring water and Grayl-amber worth fortunes. Ships from the Western Isles bring metal, textiles, luxury goods, and everything else the land-locked interior can't produce.
 
 Jüt doesn't produce much itself. It's a city of warehouses, trading houses, hostels, and middlemen. The locals joke that Jüt's main export is convenience.
 
@@ -43,7 +43,7 @@ The cliff face is riddled with caves at waterline. Officially, these belong to t
 
 Being the only port means Jüt is everyone's target.
 
-Pirates from the Western Isles raid when they think the city is weak. Orc warbands from the interior occasionally decide that raiding is easier than trading. Desperate communities—pillar-settlements that had a bad locust season, forest villages displaced by the Walking Forest's movement—sometimes arrive not as traders but as threats.
+Pirates from the Western Isles raid when they think the city is weak. Orc warbands from the interior occasionally decide that raiding is easier than trading. Desperate communities, such as pillar-settlements that had a bad locust season or forest villages displaced by the Walking Forest's movement, sometimes arrive as threats rather than traders.
 
 Jüt's response is layered:
 

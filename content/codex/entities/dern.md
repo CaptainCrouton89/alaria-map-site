@@ -17,7 +17,7 @@ review:
   action: keep
   notes: "Dern mountain state entry well-written. Central Widebarrow peaks between Thorum and Mez, generational siege by Lyzine. Capital Dodi confirmed. Geo consistent."
 ---
-The middle child of the Widebarrow mountain states, Dern occupies the central peaks between Thorum's northern strongholds and Mez's nightmare warrens below. A kingdom defined by siege—not the dramatic kind, but the grinding, generational kind. The Lyzine have been coming up from below for centuries. The Dernish have been pushing them back down for just as long.
+The middle child of the Widebarrow mountain states, Dern occupies the central peaks between Thorum's northern strongholds and Mez's nightmare warrens below. A kingdom defined by siege, the grinding generational kind rather than the dramatic. The Lyzine have been coming up from below for centuries. The Dernish have been pushing them back down for just as long.
 
 For full political details, see the state entry.
 
@@ -31,6 +31,6 @@ For full political details, see the state entry.
 
 ### Geographic Features
 
-**Central Widebarrow Range** — Less dramatic than Thorum's Steadfast peaks but more extensive. Below the surface, the mountains are honeycombed with natural caves, ancient mines, and Lyzine-carved tunnels. Deeper still — below the deepest Dernish shafts, below the Lyzine tunnels, in geological strata that have never been mapped — the Hestrube move through living granite. The Dernish know they are down there. They have long since decided to leave them to it.
+**Central Widebarrow Range** — Less dramatic than Thorum's Steadfast peaks but more extensive. Below the surface, the mountains are honeycombed with natural caves, ancient mines, and Lyzine-carved tunnels. Deeper still, below the deepest Dernish shafts, below the Lyzine tunnels, in geological strata that have never been mapped, the Hestrube move through living granite. The Dernish know they are down there. They have long since decided to leave them to it.
 
 **Promisewood** — A forested slope on the northwest border descending toward Avalon. Essential for timber. Named for the marriage pacts it witnessed when Dern and Avalon's royal houses allied three centuries ago.

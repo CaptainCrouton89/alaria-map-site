@@ -14,11 +14,11 @@ review:
   action: keep
   notes: "Central spine of Dalizi Highlands; [378,499] central, matches map. Coherent."
 ---
-The **Jackal Mountains** form the central spine of the Dalizi Highlands, a vast wall of stone that separates the eastern ranges from the western approaches to the Dalizi Confederation. Named for the packs of dire jackals that hunt the lower slopes, the mountains are the largest single range in the highlands and the primary reason no roads cross from east to west.
+The Jackal Mountains form the central spine of the Dalizi Highlands, a vast wall of stone that separates the eastern ranges from the western approaches to the Dalizi Confederation. Named for the packs of dire jackals that hunt the lower slopes, the mountains are the largest single range in the highlands and the primary reason no roads cross from east to west.
 
 #### Geography
 
-The Jackal Mountains stretch roughly one hundred miles from the Foggy Mountains in the east to the Titan Stairs in the west, with an average width of thirty miles. The range runs roughly east-west, forming an almost continuous barrier of peaks exceeding 10,000 feet. The highest summit—unnamed on any map—reaches approximately 14,000 feet.
+The Jackal Mountains stretch roughly one hundred miles from the Foggy Mountains in the east to the Titan Stairs in the west, with an average width of thirty miles. The range runs roughly east-west, forming an almost continuous barrier of peaks exceeding 10,000 feet. The highest summit, unnamed on any map, reaches approximately 14,000 feet.
 
 The mountains are young by geological standards, their peaks still sharp and unweathered. The slopes are steep and unstable, prone to rockfall in summer and avalanche in winter. Snow covers the upper elevations year-round; glaciers occupy the highest cirques. The rock is primarily granite, dark gray and iron-hard.
 
@@ -52,7 +52,7 @@ The Dalizi don't explore the Jackal Mountains. They go around them, and they enc
 
 ##### The Truth (GM Information)
 
-The glowing city is real. It's called **Vetharak**, and it was built by the same civilization that constructed the ruins throughout the Dalizi Highlands—a pre-human culture that understood the titan sleeping beneath the Thundering Mountains and built their society around managing its dreams.
+The glowing city is real. It's called Vetharak, and it was built by the same civilization that constructed the ruins throughout the Dalizi Highlands—a pre-human culture that understood the titan sleeping beneath the Thundering Mountains and built their society around managing its dreams.
 
 Vetharak still functions because it's powered by the titan's dream-energy, channeled through leyline conduits that the builders installed. The city maintains itself: lights glow, doors open and close, mechanisms operate. But no living inhabitants remain. The original population either died, fled, or transformed into something else when their civilization collapsed.
 

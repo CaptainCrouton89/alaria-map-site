@@ -16,6 +16,7 @@ relations:
   - { rel: culture, kind: inhabitedBy, target: "race-human", note: "Human city-states; named human governance (Lord Brennan Toll, Harbor Master Theodras Vane, Admiral Kess Ironhull, founding families)" }
   - { rel: polity, kind: rivalOf, target: "2455", note: "Tarkhon covets the Phyndarr Sound toll revenue and has threatened to 'resolve the Tollgate problem,' but cannot justify the cost of taking the fortified island" }
   - { rel: polity, kind: rivalOf, target: "4310", note: "competing claims to strait control; Sheîr proposed joint administration of the corridor tolls, Tollgate refused to share" }
+  - { rel: spatial, kind: controlsPassage, target: "4294" }
 ---
 A fortified city-state occupying a strategic island at the mouth of Phyndarr Sound—the self-proclaimed "Gatekeepers of the North." Tollgate charges tolls on ships passing between the Iron Sea and the Shattered Sea, and backs the claim with enough military force to make it stick.
 

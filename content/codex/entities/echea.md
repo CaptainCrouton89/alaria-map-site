@@ -34,3 +34,7 @@ The universities compete fiercely for prestige, funding, and the best students. 
 #### Coastal Settlements
 
 Small fishing villages cling to the rocky coastline below the mountains. These communities exist mostly to feed the cities above and provide port access for visiting scholars and trade ships.
+
+#### The strait below
+
+The Iri Mountains fall straight to the water on Echea's northern side, which sets the magocracy directly above the Telphineas Strait, the only deepwater channel between the halves of the Middle Sea. Watar patrols the narrows for an anchorage fee and Bestacia litigates against it, and Echea, the one of the three with both the high ground and the war-magic to simply close the passage, declines to be drawn in. The Echi keep nothing on that shore but fishing villages, and the toll quarrel strikes them as the natural consequence of a trade league that did not want them. Camaran's veto ended Echea's interest in the Alliance's business, and the strait is the Alliance's business. The high ground sits there garrisoned by no one while two states that cannot reach it fight over the water at its foot.

@@ -13,10 +13,10 @@ review:
 relations:
   - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
 ---
-The Ethereal and Nethereal planes are two thin planes that overlay all other planes within Alaria. They are counterparts to one another—and together, they form the substrate through which all living beings are bound to their souls and shadows.
+The Ethereal and Nethereal planes are two thin planes that overlay all other planes within Alaria. They are counterparts to one another, and together they form the substrate through which all living beings are bound to their souls and shadows.
 
 ### The thread substrate
-Every living creature in Alaria possesses an astral thread and a malstaric thread, connecting their spirit to their soul and shadow respectively. These threads are not metaphors. They are literal strands of binding energy that run through the Ethereal and Nethereal planes. Astral threads pass through the Ethereal Plane, connecting spirits in the Material Plane to souls in the Astral Plane above. Malstaric threads pass through the Nethereal Plane, connecting spirits to shadows in Malstaris below.
+Every living creature in Alaria possesses an astral thread and a malstaric thread, connecting their spirit to their soul and shadow respectively. These threads are literal strands of binding energy that run through the Ethereal and Nethereal planes. Astral threads pass through the Ethereal Plane, connecting spirits in the Material Plane to souls in the Astral Plane above. Malstaric threads pass through the Nethereal Plane, connecting spirits to shadows in Malstaris below.
 
 The overlay planes are densely woven with countless threads, a vast web connecting every living being across Alaria to their astral and malstaric counterparts. This web is not static; it vibrates with the actions and experiences of the living.
 
@@ -41,9 +41,9 @@ The Nethereal also contains echoes of events, but these tend toward the obscured
 Necromancers, shadow-binders, and practitioners of death magic sever or manipulate malstaric threads, working through the Nethereal Plane. This too is Deoric. It is the same command-language Azus set over the soul-binding, turned on the malstaric strand rather than the astral one, and it exacts the same price in the worker's own life. This is why necromancy feels cold and invasive; it is literally reaching into the substrate that holds a person together and pulling at the dark threads.
 
 ### Why you cannot survive there
-No creature can sustain themselves within the Ethereal or Nethereal planes. To enter fully would be to stand inside the connective tissue that makes you *you*—like trying to exist within your own veins. Your threads would tangle, your bindings would unravel, and your spirit would come apart from its anchors.
+No creature can sustain themselves within the Ethereal or Nethereal planes. To enter fully would be to stand inside the connective tissue that makes you you, like trying to exist within your own veins. Your threads would tangle, your bindings would unravel, and your spirit would come apart from its anchors.
 
-Skilled individuals can *perceive* these planes through dreams, meditation, or magical sight, but true travel there is impossible for any being that relies on the thread-binding to live.
+Skilled individuals can perceive these planes through dreams, meditation, or magical sight, but true travel there is impossible for any being that relies on the thread-binding to live.
 
 ### The web as a whole
 The Great Web is the totality of all astral and malstaric threads running through the Ethereal and Nethereal planes, binding every living being in Alaria to Aurus and Nydus and, through those shared bindings, to one another. No mortal diviner perceives the whole of it. The strongest read local echoes and, at the limit of their craft, the loudest large-scale reverberations: a war, a plague, the death of a king. The entire structure lies beyond any living sight.

@@ -10,19 +10,19 @@ sources: ["all_sections_formatted/Ve.md#L3163"]
 relations:
   - { rel: spatial, kind: within, target: "114" }
 ---
-The burial complex of King Theoron III, last ruler of the Kingdom of Theoron, lies in the Winger Mountains—one of the few locations within the Krell Lands where the insects maintain visible interest without apparent purpose. Workers patrol the tomb's perimeter endlessly, circling but never entering.
+The burial complex of King Theoron III, last ruler of the Kingdom of Theoron, lies in the Winger Mountains, one of the few locations within the Krell Lands where the insects maintain visible interest without apparent purpose. Workers patrol the tomb's perimeter endlessly, circling but never entering.
 
 ### History
 
 The Kingdom of Theoron ruled the central Krell Lands for three centuries before the Consumption, controlling fertile lowlands between the Hardshell and Winger mountain ranges. The kingdom was known for its wealth, its magical tradition, and its royal line's obsession with immortality.
 
-King Theoron III—the kingdom's final ruler—spent the last decades of his reign constructing his tomb. He drew on the kingdom's treasury, its magical resources, and rumors say darker sources to create a burial complex unlike any in Ve. The project was still incomplete when the Krell arrived.
+King Theoron III, the kingdom's final ruler, spent the last decades of his reign constructing his tomb. He drew on the kingdom's treasury, its magical resources, and rumors say darker sources to create a burial complex unlike any in Ve. The project was still incomplete when the Krell arrived.
 
 Theoron III died during the evacuation, attempting to reach his unfinished tomb rather than fleeing west with the refugees. His body was reportedly recovered by loyalists who completed the internment according to his wishes—though how they managed this during a Krell swarm remains unexplained.
 
 ### The Complex
 
-The Tomb of Theoron occupies a natural amphitheater in the Winger Mountains, a bowl-shaped valley surrounded by steep cliffs. The entrance is carved into the valley's northern wall—a massive portal flanked by carved figures that refugee accounts describe as "guardians bound in stone."
+The Tomb of Theoron occupies a natural amphitheater in the Winger Mountains, a bowl-shaped valley surrounded by steep cliffs. The entrance is carved into the valley's northern wall, a massive portal flanked by carved figures that refugee accounts describe as "guardians bound in stone."
 
 Beyond the entrance, the complex reportedly extends deep into the mountain. Multiple chambers, descending levels, and trapped corridors protect the burial vault where Theoron III lies with his accumulated wealth and power.
 
@@ -43,16 +43,16 @@ The grimoire attracts the most scholarly interest. Pre-Consumption Theoron was k
 
 What makes the Tomb of Theoron unique: the Krell pay attention to it.
 
-Worker patrols circle the complex's perimeter in regular patterns—not the random scouting typical elsewhere, but organized circuits that continue day and night. They don't approach the entrance. They don't attempt to excavate. They simply... watch.
+Worker patrols circle the complex's perimeter in regular, organized circuits that continue day and night, unlike the random scouting typical elsewhere. They don't approach the entrance. They don't attempt to excavate. They simply... watch.
 
 This behavior has continued for as long as observers have monitored the site. The Krell show no such interest in any other ruin within their territory.
 
 Theories include:
 
-- **The tomb contains something that threatens them** — A weapon, a ward, or an entity they're afraid to wake
-- **The tomb contains something they want** — But can't access due to whatever protections Theoron installed
-- **The Krell are guarding it** — Perhaps compelled by something within, or perhaps for reasons entirely alien
-- **The behavior is coincidental** — Patrol routes that happen to circle the tomb for geographic reasons
+- The tomb contains something that threatens them: a weapon, a ward, or an entity they're afraid to wake
+- The tomb contains something they want, but can't access due to whatever protections Theoron installed
+- The Krell are guarding it, perhaps compelled by something within, or perhaps for reasons entirely alien
+- The behavior is coincidental: patrol routes that happen to circle the tomb for geographic reasons
 
 None of these theories is satisfying. The Krell don't explain themselves.
 
@@ -67,13 +67,13 @@ Successful expeditions have typically:
 3. Observed the tomb patrols from concealment to identify gaps in coverage
 4. Attempted entry during patrol transitions
 
-Most expeditions fail at step three. Those that reach step four discover that the tomb entrance is sealed—and that whatever Theoron III installed to protect his rest remains active.
+Most expeditions fail at step three. Those that reach step four discover that the tomb entrance is sealed, and that whatever Theoron III installed to protect his rest remains active.
 
 ### The Warnings
 
 Refugees who escaped the Kingdom of Theoron carried warnings about the tomb. Their descendants in Garlow's Refugee Quarter still tell the stories:
 
-*Do not wake the king. Do not take what he took. Do not speak the name he found.*
+"Do not wake the king. Do not take what he took. Do not speak the name he found."
 
 What these warnings mean is unclear. The refugees refuse to elaborate, insisting that some knowledge is better lost. Whether this reflects genuine magical danger or simply cultural trauma from the Consumption, no one can say.
 

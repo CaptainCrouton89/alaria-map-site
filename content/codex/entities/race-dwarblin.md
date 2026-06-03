@@ -17,7 +17,7 @@ The Dwarblin look like a cross between a dwarf and a goblin, and almost everyone
 
 Goblins do not breed the way dwarves do. They come up out of a brood-substrate, a kind of living spawn-bed at the heart of every goblin warren, and that substrate hums with the same accident that first made goblins out of raw magic. A dwarf trading-clan had lived for generations inside the warrens of Watar, packed in close around the brood-beds because that was where the business was, and it sat too long in that hum. When the brood-heart of their warren was struck by a Deoric working the goblins aimed at their own spawn, the resonance jumped the wrong way and caught the resident dwarves. It wrote goblin form onto them between one breath and the next: green skin, small wiry frames, the goblin knack for surviving anything. They kept their dwarven build and their beards, and they bred true. The Dwarblin call it the Greening. It bound them to the very nest-economy that made them, despised by the goblins as substrate-thieves and by dwarves as substrate-tainted, and unable to be anything now but the brokers between two markets that both wish they did not exist.
 
-They are fantastic tradesmen, serving as the bridge between markets that would otherwise never interact. While they lack magical aptitude, their craftsmanship is practical and solid. A Dwarblin-made tool may not be beautiful, but it will never break.
+They are fantastic tradesmen, the bridge between markets that would otherwise never interact. While they lack magical aptitude, their craftsmanship is practical and solid. A Dwarblin-made tool may not be beautiful, but it will never break.
 
 ### Vitals
 - **Size:** Small

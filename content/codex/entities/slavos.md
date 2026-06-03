@@ -18,6 +18,6 @@ review:
 ---
 The capital and largest settlement, built around the primary slave market. Slavos sits on the largest island's best harbor, positioned to receive raiding ships returning with captives and merchant vessels arriving to buy.
 
-The market operates daily, with major auctions weekly. The facility is well-organized, almost clinical—holding pens, inspection areas, auction blocks, and processing centers for new arrivals. The minotaurs treat their merchandise as valuable property, which means adequate food, basic medical care, and protection from damage. It's not kindness; it's business.
+The market operates daily, with major auctions weekly. The facility is well-organized, almost clinical: holding pens, inspection areas, auction blocks, and processing centers for new arrivals. The minotaurs treat their merchandise as valuable property, which means adequate food, basic medical care, and protection from damage. The care is a business calculation, nothing more.
 
 The ruling clan of Slavos holds outsized influence in Tykos politics by controlling the market. Other clans raid and capture; Slavos processes and sells. The arrangement creates dependencies that keep the peace.

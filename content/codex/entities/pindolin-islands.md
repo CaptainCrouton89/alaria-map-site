@@ -42,11 +42,11 @@ Rain is constant but rarely heavy—a perpetual drizzle that soaks everything wi
 
 The Pindolins are claimed by three dragons who mostly ignore each other's existence:
 
-**Findra, the Glassy Eyed** holds the northeastern islands, near where the Force leyline runs strongest. A blind dragon who sees through crystalline resonance spheres, perceiving motion and vibration rather than light. She's been here three centuries and considers the region her laboratory for sensory experimentation.
+Findra, the Glassy Eyed, holds the northeastern islands, near where the Force leyline runs strongest. A blind dragon who sees through crystalline resonance spheres, perceiving motion and vibration rather than light. She's been here three centuries and considers the region her laboratory for sensory experimentation.
 
-**Oboros, the Cunning** lairs in the central islands along the Water leyline. A blue-scaled dragon associated with currents, depths, and the manipulation of liquid. He's the oldest of the three, the most patient, and the most likely to bargain rather than attack—though his bargains tend to favor him significantly.
+Oboros, the Cunning, lairs in the central islands along the Water leyline. A blue-scaled dragon associated with currents, depths, and the manipulation of liquid. He's the oldest of the three, the most patient, and the most likely to bargain rather than attack—though his bargains tend to favor him significantly.
 
-**Elebria** claims the southwestern islands where the Earth and Fire leylines intersect—a region of volcanic activity, thermal vents, and lava that occasionally reaches the surface. She's a lava dragon, her scales shifting between black stone and molten orange depending on her temperature. The most territorial of the three; entering her claimed waters is effectively suicide.
+Elebria claims the southwestern islands where the Earth and Fire leylines intersect—a region of volcanic activity, thermal vents, and lava that occasionally reaches the surface. She's a lava dragon, her scales shifting between black stone and molten orange depending on her temperature. The most territorial of the three; entering her claimed waters is effectively suicide.
 
 The dragons have established an informal truce through mutual disinterest. Their territories don't overlap meaningfully, their hunting grounds are distinct, and none of them wants what the others have. This could change if circumstances shifted—a new dragon arriving, a leyline moving, or external pressure forcing cooperation or conflict.
 
@@ -54,11 +54,11 @@ The dragons have established an informal truce through mutual disinterest. Their
 
 Three elemental leylines cross the Pindolins:
 
-**The Force Leyline** enters from the Dragon's Spine mainland and runs through the northeastern islands before dissipating into the Abyssal Ocean. Effects include gravitational anomalies (objects weighing more or less than they should), kinetic storage (things that should fall staying suspended), and occasional spontaneous acceleration of loose objects.
+The Force Leyline enters from the Dragon's Spine mainland and runs through the northeastern islands before dissipating into the Abyssal Ocean. Effects include gravitational anomalies (objects weighing more or less than they should), kinetic storage (things that should fall staying suspended), and occasional spontaneous acceleration of loose objects.
 
-**The Water Leyline** runs roughly north-south through the central islands. Effects include current manipulation (water moving against wind and tide), temperature instability (freezing patches in warm water, boiling spots in cold), and the enhancement of water-based magic. Oboros has learned to ride this leyline like a highway.
+The Water Leyline runs roughly north-south through the central islands. Effects include current manipulation (water moving against wind and tide), temperature instability (freezing patches in warm water, boiling spots in cold), and the enhancement of water-based magic. Oboros has learned to ride this leyline like a highway.
 
-**The Earth-Fire Convergence** enters from the south and intensifies as the two leylines approach intersection in Elebria's territory. Effects include volcanic activity, thermal vents, occasional lava flows, and the creation of obsite—a glass-like volcanic stone that holds heat indefinitely.
+The Earth-Fire Convergence enters from the south and intensifies as the two leylines approach intersection in Elebria's territory. Effects include volcanic activity, thermal vents, occasional lava flows, and the creation of obsite—a glass-like volcanic stone that holds heat indefinitely.
 
 Where leylines cross or approach each other, effects compound unpredictably. The central Pindolins contain at least three major convergence zones, all of which are considered impassable by sane navigators.
 
@@ -68,7 +68,7 @@ The Pindolins host an ecosystem adapted to cold, fog, and magical instability:
 
 **Fog-Stalkers**: Colonial organisms that exist as distributed awareness through fog banks. They're not intelligent individually, but a sufficiently large fog-stalker colony can coordinate hunting behavior across miles of mist. Prey enters the fog; the fog notices; tendrils of denser vapor guide the prey toward the colony's digestive core. Most victims never see what kills them.
 
-**Kraken-Spawn**: The Abyssal Ocean hosts kraken-matriarchs in its deepest trenches. Their offspring—smaller, stupider, but still building-sized—drift into Pindolin waters following warm currents. A kraken-spawn can capsize a ship by accident; they can destroy one deliberately when hungry or territorial.
+**Kraken-Spawn**: The Abyssal Ocean hosts kraken-matriarchs in its deepest trenches. Their offspring, smaller and stupider but still building-sized, drift into Pindolin waters following warm currents. A kraken-spawn can capsize a ship by accident; they can destroy one deliberately when hungry or territorial.
 
 **Thermoclaws**: Crustaceans adapted to the volcanic southern islands, ranging from crab-sized to horse-sized. Their shells incorporate obsite, retaining heat from thermal vents. A large thermoclaw can crack steel with its pincers and survives being submerged in freezing water by simply radiating stored heat until the water around it boils.
 

@@ -17,7 +17,7 @@ review:
   action: keep
   notes: "Rewrote from 175-char stub: expanded Gezzerin water-scarcity culture and giant-avoidance survival into 3 paragraphs; all facts from authored blurb + parent body"
 ---
-The Hills of Gezzeri rise along the western reaches of the Sandreach Mountains as a series of broken cliffs and eroded canyon walls — not tall enough to trap moisture, but jagged enough to hide in. The Gezzerin people have made a life here, and the word is used loosely: the Hills receive almost no rainfall, springs are contested, and the nearest open water requires a full day's march across exposed terrain.
+The Hills of Gezzeri rise along the western reaches of the Sandreach Mountains as a series of broken cliffs and eroded canyon walls, not tall enough to trap moisture but jagged enough to hide in. The Gezzerin people have made a life here, and the word is used loosely: the Hills receive almost no rainfall, springs are contested, and the nearest open water requires a full day's march across exposed terrain.
 
 The Gezzerin answer to water scarcity is extraction — condensation traps set into north-facing rock faces, channels carved to route what little dew collects before sunrise, and a strict rationing culture that treats a wasted mouthful as a serious offense. Their dwellings are cut directly into the cliff faces, with narrow entrances that can be sealed from inside with fitted stone plugs. This serves two purposes: it keeps what little moisture they accumulate from evaporating, and it keeps giants out.
 

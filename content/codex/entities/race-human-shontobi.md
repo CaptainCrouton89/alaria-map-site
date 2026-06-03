@@ -15,9 +15,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Shontobi are the noble samurai of the great plains, a people who have built their entire culture around concepts of honor, inheritance, and family duty. In their society, one's position is determined not just by skill with a blade, but by the honor of one's ancestors and the careful maintenance of family obligations that stretch back generations. The Shontobi are a people of the human, bound by the honor-culture and samurai tradition of the plains, not a separate biological lineage.
+The Shontobi are the noble samurai of the great plains, a people who have built their entire culture around concepts of honor, inheritance, and family duty. In their society, one's position is determined less by skill with a blade than by the honor of one's ancestors and the careful maintenance of family obligations that stretch back generations. The Shontobi are a people of the human, bound by the honor-culture and samurai tradition of the plains, not a separate biological lineage.
 
-The nobility ride magnificent griffons into battle, their great wings casting shadows across the grasslands, while other honorable warriors mount swift horses bred for speed and endurance across the endless plains. Sacred eagles, revered as divine messengers, serve as hunting companions and symbols of prestige - to harm another's eagle is among the gravest of insults.
+The nobility ride magnificent griffons into battle, their great wings casting shadows across the grasslands, while other honorable warriors mount swift horses bred for speed and endurance across the endless plains. Sacred eagles, revered as divine messengers, are hunting companions and symbols of prestige. To harm another's eagle is among the gravest of insults.
 
 Marriages among the Shontobi are strategic affairs, carefully arranged to strengthen family alliances and preserve bloodlines. To go against one's family is the ultimate disgrace, leading to exile from the clan and the loss of one's name. They are cunning tacticians who plan their battles with the same care they use to plan their dynasties.
 

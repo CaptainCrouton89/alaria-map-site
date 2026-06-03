@@ -17,7 +17,7 @@ Elves are a race of fiercely independent, ancient, culturally rich people. With 
 
 Elves are not Gaea's work. They were made by the druids, the ancient nature-race that came into the world alongside Gaea and worked Faesong, the ambient music of Melera, rather than her Kethic. The druids never died of natural causes, but they were being killed off all the same, thinning across the millions of years until only a handful were left. Before they were gone they made successors. Around two and a half million years ago, in the span the elves themselves call the Walk of Elves, the druids shaped a people from the branches of trees, the stone and mud of riverbeds, and a measure of their own life, and made them in their own image: the pointed ears, the slender build, the long sight, the same love of growing things. Elves were skilled at whatever they turned to, and they spread fast, sharing the world with the dragons for an age.
 
-The substance they were cut from is why elves stand apart from the rest of Alaria's peoples. The flesh family of humans, beastmen, giants, and trolls was grown by Gaea through Kethic, and those lines cross freely with one another. Elves were not grown; they were crafted, from wood and stone and river-mud, and that making does not mix with flesh. Elves cannot interbreed with the flesh family. Half-elves do not exist, whatever a hopeful story claims, and the heritages that descend from the three druidic substances remain elven through and through.
+The substance they were cut from is why elves stand apart from the rest of Alaria's peoples. The flesh family of humans, beastmen, giants, and trolls was grown by Gaea through Kethic, and those lines cross freely with one another. Elves were crafted instead, from wood and stone and river-mud, and that making does not mix with flesh. Elves cannot interbreed with the flesh family. Half-elves do not exist, whatever a hopeful story claims, and the heritages that descend from the three druidic substances remain elven through and through.
 
 ### Vitals
 - **Size:** Medium
@@ -25,10 +25,10 @@ The substance they were cut from is why elves stand apart from the rest of Alari
 - **Weight:** 100-180 pounds
 
 ### Heritages
-- **Amverela** (High Elf) — Most prolific and long-living heritage, renowned across Alaria for extraordinary wisdom, skill, and building magnificent utopian cities. See [[race-elf-amverela]].
+- **Amverela** (High Elf) — Most prolific and long-living heritage, known across Alaria for extraordinary wisdom, skill, and building magnificent utopian cities. See [[race-elf-amverela]].
 - **Caerene** (Wood Elf) — Olive-skinned isolationist forest dwellers who emphasize balance, fate, and immediate justice with no second chances. See [[race-elf-caerene]].
 - **Vyko** (Astral Elf) — Void-traversing elves with deep indigo star-speckled skin; their cosmic journeys grant commanding presence and patience that frustrates shorter-lived races. See [[race-elf-vyko]].
-- **Eloweir** (Sea Elf) — Proud coastal elves renowned for poison mastery, skilled soldiers, water magic attunement, and sophisticated democratic governance. See [[race-elf-eloweir]].
+- **Eloweir** (Sea Elf) — Proud coastal elves known for poison mastery, skilled soldiers, water magic attunement, and sophisticated democratic governance. See [[race-elf-eloweir]].
 - **Teflin** (Crimson Elf) — Reddish-skinned elves of Hik cursed by Deoric magic granting agelessness but burning them with accumulated power requiring ritual bloodletting. See [[race-elf-teflin]].
 - **Kuzagt** (Bone Elf) — Tall, skull-faced elves of Bonnetaz's salt flats who maintain vast human slave camps, viewing humans as invaders to be exploited. See [[race-elf-kuzagt]].
 - **Nemo** (Lost Ones) — Ghostly descendants of Caerene who sought forest-immortality; eternally trapped as cold, bitter spirits that can never truly die or live. See [[race-elf-nemo]].
@@ -38,7 +38,7 @@ The substance they were cut from is why elves stand apart from the rest of Alari
 - **Starborn** (Star Elf) — Mountain observatory elves who maintain the stars' positions through nightly ritual, practicing cosmic neutrality to preserve universal harmony. See [[race-elf-starborn]].
 - **Dark Elves** (Shadow Elf) — Extinct dragon-rider elves of Aboyuinzu destroyed in the Dragon Purge; diluted bloodlines may persist near ancient draconic totems. See [[race-elf-dark-elves]].
 - **Ythari** (Heartwood Elf) — Each Ythari is quickened from a single tree's seed; their spirit lodges in the heartwood and they die the moment that tree dies. Solitary; no settlements, no nation. See [[race-elf-ythari]].
-- **Rakiten** (Plains Elf) — Towering bronze-skinned plains elves who communicate exclusively through intricate sign language and organize society around visual sight-bonds. See [[race-elf-rakiten]].
+- **Rakiten** (Plains Elf) — Towering bronze-skinned plains elves who communicate exclusively through elaborate sign language and organize society around visual sight-bonds. See [[race-elf-rakiten]].
 - **Xalahir** (Blood Elf) — Cursed vampiric elves who traded nature for immortal hunger; eternal wanderers who feed on populations and vanish before victims realize the truth. See [[race-elf-xalahir]].
 - **Xicrein** (Island Elf) — Dark-featured island elves of the Bynü Tribes who wage silent clan wars through honorable assassination with oyster-shell blades. See [[race-elf-xicrein]].
 - **Spindral** (Quill Elf) — Void-attuned underground elves who fled dragon Ural, bearing light-absorbing midnight quills and surfacing only to hunt and watch for their enemy. See [[race-elf-spindral]].

@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Pass through Thundering Mtns to Wanderlands; [360,491] W matches the western crossing."
 ---
-**Fool's Pass** is the only known crossing through the Thundering Mountains, a treacherous route that connects the Dalizi Highlands to the Wanderlands beyond. The name is simultaneously warning and description—only fools use this pass, but sometimes fools have no choice.
+Fool's Pass is the only known crossing through the Thundering Mountains, a treacherous route that connects the Dalizi Highlands to the Wanderlands beyond. The name is both warning and description. Only fools use this pass, but sometimes fools have no choice.
 
 #### Geography
 
@@ -39,7 +39,7 @@ The route has no water sources. Travelers must carry everything they need or mel
 
 #### Why "Fool's Pass"?
 
-The name dates to the earliest Dalizi exploration of the range. The expedition that discovered the route lost half its members to the crossing. The survivors reported that only a fool would attempt it—and only a fool would need to.
+The name dates to the earliest Dalizi exploration of the range. The expedition that discovered the route lost half its members to the crossing. The survivors reported that only a fool would attempt it, and only a fool would need to.
 
 The name stuck because it accurately describes who uses the pass:
 
@@ -63,13 +63,13 @@ Travelers who cross Fool's Pass had better have a plan for what comes next, beca
 
 Several ruined structures stand at the highland approach to Fool's Pass, apparently the remains of guard posts or waypoints. The architecture is old and unfamiliar—not Dalizi construction. Someone once maintained a presence here, controlling access to the pass.
 
-The ruins are empty now. Whatever authority once guarded the pass is long gone. The stones remain, slowly crumbling, a reminder that someone once thought this route worth protecting—or worth blocking.
+The ruins are empty now. Whatever authority once guarded the pass is long gone. The stones remain, slowly crumbling, a reminder that someone once thought this route worth protecting, or worth blocking.
 
-**GM Information:** These structures were the Vetharak civilization's primary border fortification against whatever lay north of the mountains. The builders knew the Wanderlands were dangerous—possibly they knew about the dragon, possibly about something worse—and maintained a permanent garrison here.
+**GM Information:** These structures were the Vetharak civilization's primary border fortification against whatever lay north of the mountains. The builders knew the Wanderlands were dangerous (possibly they knew about the dragon, possibly about something worse) and maintained a permanent garrison here.
 
-The garrison's purpose was not to stop travelers from leaving (though they tracked departures) but to stop things from entering. The fortifications are designed to defend against something coming *down* the pass, not up it. This implies the Vetharak civilization feared intrusion from the north more than anything in their own territory.
+The garrison's purpose was not to stop travelers from leaving (though they tracked departures) but to stop things from entering. The fortifications are designed to defend against something coming down the pass, not up it. This implies the Vetharak civilization feared intrusion from the north more than anything in their own territory.
 
-What they feared may have been the dragon's predecessor, or it may have been something else entirely—something the Dragon's Gate was built to contain. The dragon Ziru guards the Gate now; perhaps the Vetharak civilization guarded it before, and these ruins are the southern anchor of that defense.
+What they feared may have been the dragon's predecessor, or it may have been something else entirely, something the Dragon's Gate was built to contain. The dragon Ziru guards the Gate now; perhaps the Vetharak civilization guarded it before, and these ruins are the southern anchor of that defense.
 
 #### Statistics
 

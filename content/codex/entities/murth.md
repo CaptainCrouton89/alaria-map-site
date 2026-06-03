@@ -28,21 +28,21 @@ Murth occupies two mountains and the valleys between them in western Tarkhon:
 - **East**: Mountains leading toward Vogenfeld
 - **South/Southeast**: Routes toward the Kingdoms of Fire
 
-The state is relatively isolated—mountain terrain limits access, and neither city has pursued expansion. Murth wants to be left alone with its books and its trade.
+The state is relatively isolated; mountain terrain limits access, and neither city has pursued expansion. Murth wants to be left alone with its books and its trade.
 
 #### Lake Stillwater
 
-The heart of Murth—an underground lake lying beneath both mountains, fed by glacial melt and ancient aquifers. The water is unnaturally still, unnaturally clear, and unnaturally cold.
+The heart of Murth, an underground lake lying beneath both mountains, fed by glacial melt and ancient aquifers. The water is unnaturally still, unnaturally clear, and unnaturally cold.
 
-Lake Stillwater is why Murth exists. A thousand years ago, both communities dug for water and found the same lake. Rather than fight, they negotiated the **Stillwater Compact**: shared access, shared responsibility, connecting tunnels.
+Lake Stillwater is why Murth exists. A thousand years ago, both communities dug for water and found the same lake. Rather than fight, they negotiated the Stillwater Compact: shared access, shared responsibility, connecting tunnels.
 
-The lake's shores—such as they are in the underground darkness—host the **Chamber of the Compact**, where the original agreement is carved in stone. Representatives from both cities meet here for matters requiring joint decision.
+The lake's shores, such as they are in the underground darkness, host the Chamber of the Compact, where the original agreement is carved in stone. Representatives from both cities meet here for matters requiring joint decision.
 
-Some say the lake has properties beyond simple water. Rhea scholars study it; human merchants would love to bottle it. Neither has succeeded in understanding—or exploiting—whatever makes Stillwater special.
+Some say the lake has properties beyond simple water. Rhea scholars study it; human merchants would love to bottle it. Neither has succeeded in understanding, or exploiting, whatever makes Stillwater special.
 
 #### The Murthian Tunnels
 
-Miles of passages connect Eynmore and Vastilin through the mountains, with Lake Stillwater at the center. The tunnels are Murth's circulatory system—trade, communication, and transport all flow through them.
+Miles of passages connect Eynmore and Vastilin through the mountains, with Lake Stillwater at the center. The tunnels are Murth's circulatory system: trade, communication, and transport all flow through them.
 
 **Key Locations:**
 - **The Stillwater Shore**: Underground lake access, neutral ground
@@ -51,7 +51,7 @@ Miles of passages connect Eynmore and Vastilin through the mountains, with Lake 
 - **The Iron Gate**: Vastilin's tunnel entrance, heavily guarded
 - **The Breath Gate**: Eynmore's tunnel entrance, where thin air meets thick
 
-The tunnels are governed by **tunnel-wardens**—officials from both communities who maintain neutrality and ensure neither city can cut off the other. The current Chief Warden is **Sera Coldwell**, a human woman trusted by both sides (which means neither side fully trusts her).
+The tunnels are governed by tunnel-wardens, officials from both communities who maintain neutrality and ensure neither city can cut off the other. The current Chief Warden is Sera Coldwell, a human woman trusted by both sides (which means neither side fully trusts her).
 
 #### The Plains of Oblivion
 
@@ -59,7 +59,7 @@ Northwest of Murth, beyond the mountains' protection, lie cursed grasslands wher
 
 The plains creep closer to Murth some years, retreat others. No pattern has been found. The cause is unknown—perhaps ancient magic, perhaps something worse.
 
-**Satyrn Gray**, the palace of **Queen Eranes**, stands somewhere in those plains. Eranes is a half-titan of immense power who deliberately forgot her own heartbreak—and took the surrounding land with her. She's not hostile to Murth, but she's not friendly either. She barely remembers Murth exists.
+Satyrn Gray, the palace of Queen Eranes, stands somewhere in those plains. Eranes is a half-titan of immense power who deliberately forgot her own heartbreak, and took the surrounding land with her. She's not hostile to Murth, but she's not friendly either. She barely remembers Murth exists.
 
 Murth maintains watchers to track the plains' boundaries and warn if they expand. Sometimes the watchers forget to come home.
 
@@ -77,7 +77,7 @@ This frustrates Vastilin somewhat. The merchants would welcome deeper integratio
 
 **The Breath Gate**: Where Eynmore's thin air meets the tunnel's thicker atmosphere. Human visitors pause here to acclimatize before ascending. Rhea visitors pause to enjoy the last comfortable air before descending.
 
-**The Market of Whispers**: A trading post in the tunnel system where Rhea and human merchants meet to negotiate. Named for the Rhea habit of speaking softly—and for the secrets that change hands here.
+**The Market of Whispers**: A trading post in the tunnel system where Rhea and human merchants meet to negotiate. Named for the Rhea habit of speaking softly, and for the secrets that change hands here.
 
 **The Monastery of the Empty Hand**: Where Master Stonefist trains martial monks in combat techniques refined over sixty years. Occasionally accepts outside students—for a price, and a commitment.
 

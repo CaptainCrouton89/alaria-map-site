@@ -18,13 +18,13 @@ review:
 ---
 The capital of Phirexes rises from the swamp on stilts and floating platforms, a city that seems grown rather than built. Queen Phendexelas constructed it in a single impossible year after her arrival, and the architecture reflects her alien aesthetics: organic curves, living wood that still grows and must be trimmed like hedges, windows of smoky glass that seem to watch passersby. The streets are raised boardwalks connecting platform-neighborhoods, and beneath them the swamp water laps eternally at the foundations.
 
-Thirty thousand Dengar live here, the vast majority of Phirexes' population. They are not slaves—they own businesses, raise families, practice their ancestral craft of swamp alchemy. But they are not free either. The Fog Gates at each city entrance "recognize" those who have lived here long enough; attempting to leave triggers the fog-binding sickness. And every evening, without exception, they line the Queen's Walk to prostrate themselves before their savior.
+Thirty thousand Dengar live here, the vast majority of Phirexes' population. They are not slaves. They own businesses, raise families, practice their ancestral craft of swamp alchemy. But they are not free either. The Fog Gates at each city entrance "recognize" those who have lived here long enough; attempting to leave triggers the fog-binding sickness. And every evening, without exception, they line the Queen's Walk to prostrate themselves before their savior.
 
-The Dengar's cultural philosophy—"the worse it gets, the better it was"—has curdled here into something like mass Stockholm syndrome. They survived the catastrophe, so this must be good. They have homes and work, so they should be grateful. The worse life was before the queen saved them, the better life is now by comparison. This self-gaslighting is the queen's most insidious weapon; she barely needs to oppress them when their own culture does it for her.
+The Dengar's cultural philosophy, "the worse it gets, the better it was," has curdled here into something like mass Stockholm syndrome. They survived the catastrophe, so this must be good. They have homes and work, so they should be grateful. The worse life was before the queen saved them, the better life is now by comparison. This self-gaslighting is the queen's most insidious weapon; she barely needs to oppress them when their own culture does it for her.
 
 ##### The Queen's Walk
 
-A raised boardwalk of polished blackwood that circuits the city's central district. Every evening at dusk, Queen Phendexelas emerges from her palace and walks this path, her gorgon form draped in silks that hide everything but her beautiful, terrible face. The citizens line the walk, kneeling with heads bowed—to look upon her directly is death, but more than that, it would be ungrateful.
+A raised boardwalk of polished blackwood that circuits the city's central district. Every evening at dusk, Queen Phendexelas emerges from her palace and walks this path, her gorgon form draped in silks that hide everything but her beautiful, terrible face. The citizens line the walk, kneeling with heads bowed. To look upon her directly is death, but more than that, it would be ungrateful.
 
 She speaks to them as she walks, her voice carrying supernaturally to every ear. She tells them how much she loves them. How hard she works to keep them safe. How the fogs are a blessing, not a curse. By the end of her circuit, many are weeping with devotion.
 
@@ -40,12 +40,12 @@ The queen controls this district carefully. All rare ingredients must be harvest
 
 ##### The Gratitude Plaza
 
-The central square of Maurevelious, dominated by a statue of Queen Phendexelas in her most benevolent aspect—arms spread wide, face serene, as if embracing the entire city. Public thanksgivings are held here weekly, mandatory assemblies where citizens compete to express their devotion most eloquently.
+The central square of Maurevelious, dominated by a statue of Queen Phendexelas in her most benevolent aspect, arms spread wide, face serene, as if embracing the entire city. Public thanksgivings are held here weekly, mandatory assemblies where citizens compete to express their devotion most eloquently.
 
-The plaza's stones are etched with the names of the "Remembered"—Dengar who died in the catastrophe before the queen built the city. It is presented as a memorial. The refugees outside the walls know the truth: many of those names belong to people the queen killed herself, dissidents erased and rewritten as martyrs.
+The plaza's stones are etched with the names of the "Remembered," Dengar who died in the catastrophe before the queen built the city. It is presented as a memorial. The refugees outside the walls know the truth: many of those names belong to people the queen killed herself, dissidents erased and rewritten as martyrs.
 
 ##### The Fog Gates
 
-At each entrance to Maurevelious stands a gate of twisted iron and living wood, wreathed in concentrated fog. These are not merely checkpoints—they are magical constructs that sense the fog-binding in those who pass through. Citizens may come and go freely for short trips, but attempting to leave permanently triggers the gates' true purpose: they mark the would-be escapee, ensuring the fog-binding sickness strikes with full force within hours.
+At each entrance to Maurevelious stands a gate of twisted iron and living wood, wreathed in concentrated fog. These are magical constructs that sense the fog-binding in those who pass through. Citizens may come and go freely for short trips, but attempting to leave permanently triggers the gates' true purpose: they mark the would-be escapee, ensuring the fog-binding sickness strikes with full force within hours.
 
-Some have tried to destroy the gates. The fog simply flows around the damage and rebuilds them overnight. Some have tried to sneak past. The gates have no guards because they need none—they see through the fog itself.
+Some have tried to destroy the gates. The fog simply flows around the damage and rebuilds them overnight. Some have tried to sneak past. The gates have no guards because they need none; they see through the fog itself.

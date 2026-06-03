@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Saddle in southern Foggy Mountains; [397,489] E matches."
 ---
-The **Hills of the Moon Goblins** occupy a saddle within the southern Foggy Mountains, a territory claimed by one of Alaria's most reclusive and hostile goblin subraces. The hills mark the only relatively accessible terrain within the Foggy Mountains—which makes them the only place the Moon Goblins regularly encounter outsiders, always violently.
+The Hills of the Moon Goblins occupy a saddle within the southern Foggy Mountains, a territory claimed by one of Alaria's most reclusive and hostile goblin subraces. The hills mark the only relatively accessible terrain within the Foggy Mountains—which makes them the only place the Moon Goblins regularly encounter outsiders, always violently.
 
 #### Geography
 
@@ -26,7 +26,7 @@ Deception Creek rises from springs in the eastern hills, gathering water before 
 
 #### The Moon Goblins
 
-The inhabitants of these hills are a goblin subrace found nowhere else in Alaria. They're smaller than most goblins, rarely exceeding three feet in height, with pale skin that appears almost translucent in certain light. Their eyes are enormous—black pools that take up much of their faces—adapted to the perpetual dimness of their fog-shrouded home.
+The inhabitants of these hills are a goblin subrace found nowhere else in Alaria. They're smaller than most goblins, rarely exceeding three feet in height, with pale skin that appears almost translucent in certain light. Their eyes are enormous, black pools that take up much of their faces, adapted to the perpetual dimness of their fog-shrouded home.
 
 Moon Goblins hunt primarily by sound and scent. They move through fog that would blind a human as easily as clear terrain, and they can track prey by the sound of breathing from dozens of yards away. Their hearing is acute enough to detect a heartbeat in a quiet space.
 
@@ -46,7 +46,7 @@ Whether the goblins are defending territory, protecting something specific, or s
 
 #### The Deeper Questions
 
-Scholars have long debated the Moon Goblins' origins. They share some physical characteristics with other goblin subraces but differ in significant ways—their coloration, their apparent lack of speech, their extreme hostility.
+The Moon Goblins' origins have long been debated. They share some physical characteristics with other goblin subraces but differ in significant ways—their coloration, their apparent lack of speech, their extreme hostility.
 
 **GM Information:** The Moon Goblins are the descendants of a goblin tribe that was enslaved by the Vetharak civilization to work in the fog-shrouded mountains. The Vetharak used them as laborers in areas too dangerous or uncomfortable for their own people—specifically, in the high-altitude facilities where dream-energy was harvested and processed.
 

@@ -18,4 +18,4 @@ review:
 
 **Worshipped by:** Fire mages, smiths, and warrior traditions that treat fire as a living force. Jingu and Kiev are worshipped as a pair; no culture worships one without the other. (The worships edge is authored downstream on the worshipper, not here.)
 
-Jingu's aspect of flame is generative — the fire that creates and transforms. Kiev governs flame's destructive aspect. Together they hold the full domain. Separately, each would be diminished; the twin bond is theological, not merely biographical.
+Jingu's aspect of flame is generative, the fire that creates and transforms. Kiev governs flame's destructive aspect. Together they hold the full domain. Separately, each would be diminished; the twin bond is theological rather than biographical.

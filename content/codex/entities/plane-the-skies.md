@@ -12,7 +12,7 @@ relations:
   - { rel: cosmology, kind: inhabits, target: "plane-material-plane" }
   - { rel: culture, kind: inhabitedBy, target: "race-syngers" }
 ---
-The Skies are the open air above the Surfacelands, the layer that begins where the last mountain peaks give out and rises until the stars hang close. Bryn crosses them once a day. Clouds and weather keep to the lower reaches, where the wind-lanes that sky ships ride run thickest. Higher up, the air thins past what a mortal chest can draw, the blue drains out of it, and the stars come out at noon. That upper band — airless by any surface reckoning, cold without bottom — is the Syngers' true home.
+The Skies are the open air above the Surfacelands, the layer that begins where the last mountain peaks give out and rises until the stars hang close. Bryn crosses them once a day. Clouds and weather keep to the lower reaches, where the wind-lanes that sky ships ride run thickest. Higher up, the air thins past what a mortal chest can draw, the blue drains out of it, and the stars come out at noon. That upper band, airless by any surface reckoning, cold without bottom, is the Syngers' true home.
 
 To a sky-ship captain the word means the working altitudes and nothing over them: the lanes a loaded hull can hold before the sail stops biting. The country above those lanes goes unrecorded on any surface chart. The Syngers live in it.
 

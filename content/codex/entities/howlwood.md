@@ -38,4 +38,4 @@ The creatures are fiercely territorial toward each other as well. They don't for
 
 Howlwood is one of the few places in Edari where the Korel aren't the apex predator. Travelers who think "the Korel avoid it, so it must be safe" have the situation exactly backwards. The forest offers no safe passage—only a choice between leopard-folk who might let you live and giant apes who definitely won't.
 
-The forest also blocks the most direct overland route from Coquray Sound to the interior, funneling any movement around its edges—right through Korel territory.
+The forest also blocks the most direct overland route from Coquray Sound to the interior, funneling any movement around its edges—right through Korel territory. That same funnel is what makes the pack-lead Korath's quiet extraction route work at all: there is only one way across the open ground, and his pack walks it.

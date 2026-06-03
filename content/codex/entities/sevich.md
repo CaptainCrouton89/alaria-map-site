@@ -14,4 +14,4 @@ relations:
 ---
 The capital city, where the Chechik River widens into a marshy delta before joining the Deadloop drainage. Sevich sprawls along both banks, connected by three bridges. The ducal palace sits on the western bank's highest point; the Grand Temple of Communion dominates the eastern bank.
 
-The city feels old and comfortable—stone buildings weathered by centuries, streets worn smooth by generations of feet. It's also quieter than it should be. Visitors notice that people speak softly, defer quickly, avoid disagreement. The Rentar presence isn't overbearing, but it's pervasive. Even the humans seem to be waiting for guidance before acting.
+The city feels old and comfortable: stone buildings weathered by centuries, streets worn smooth by generations of feet. It's also quieter than it should be. Visitors notice that people speak softly, defer quickly, avoid disagreement. The Rentar presence isn't overbearing, but it's pervasive. Even the humans seem to be waiting for guidance before acting.

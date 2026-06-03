@@ -15,7 +15,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Hykravones, the Shattering, is the catastrophe that ended the Gaeaic Eon. It lasted a single year, 10,210 to 10,209 BSD, and in that year one returning titan undid most of what twelve million years of life had built.
+Hykravones, the Shattering, is the catastrophe that ended the Gaeaic Eon. It lasted a single year, 10,210 to 10,209 BSD — roughly 13,500 years ago — and in that year one returning titan undid most of what twelve million years of life had built. The Modern Era opens at its close.
 
 ### The Gray Prince returns
 

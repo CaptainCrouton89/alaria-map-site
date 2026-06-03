@@ -10,6 +10,7 @@ relations:
   - { rel: spatial, kind: within, target: "720" }
   - { rel: spatial, kind: borders, target: "630", note: "southern border with Joswik, currently contested" }
   - { rel: spatial, kind: borders, target: "manual-mpjrcf71-gtrw6", note: "western border with Sylke" }
+  - { rel: polity, kind: ruledBy, target: "person-alisandra-the-merciful" }
   - { rel: culture, kind: inhabitedBy, target: race-human }
 review:
   aiWritten: true
@@ -21,4 +22,4 @@ The northernmost of the three Ofrenian kingdoms, Tornia controls the island's ri
 
 Tornia's southern border with Joswik is openly contested—a line that has shifted through negotiation and skirmish over the years and now holds only because Alisandra has fortified it. To the west lies Sylke, which keeps to itself. The kingdom's eight settlements—among them Northpoint on the coast, Oakheart in the interior, Ryerton & Bexley, Corvalin, Mithras, Ylidor, and Catalina—make Tornia the most densely settled of the three kingdoms.
 
-Alisandra governs firmly. She has positioned Tornia as the island's legitimate political center, maintaining better sea connections northward to Clueanda than either rival. The contested border with Joswik is the defining pressure of her reign—Prince Edric holds the south and makes no secret of his ambitions.
+Alisandra governs hard, and she means to govern more. She has positioned Tornia as the island's legitimate political center, holds better sea connections north to Clueanda than either rival, and makes no secret that she intends to put all three kingdoms under one crown, her own. The contested border with Joswik is the defining pressure of her reign. Her brother Edric holds the south, and what reaches her from his court is a steady run of insults, withdrawn offers, and convoys that turn out to be feints, which she reads as proof he cannot be dealt with. She does not know that the version of Edric she answers is one their middle brother in Sylke has edited for her. She fortifies the line and waits for the excuse to cross it.

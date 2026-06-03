@@ -10,4 +10,4 @@ sources: ["all_sections_formatted/Clueanda.md#L6249"]
 relations:
   - { rel: spatial, kind: within, target: "1311" }
 ---
-Not mountains at all, but composed of the collosal vertabrae of a titanwurm.
+These are not mountains at all. They are the collosal vertabrae of a titanwurm.

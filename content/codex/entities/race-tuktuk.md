@@ -23,6 +23,10 @@ The volcanic forges of Tyvern produce some of the finest weapons and armor in th
 
 A turtle carries its own shelter on its back and outlasts almost anything that walks, and that endurance was the gift fixed in the Tuktuk's true name at the Birth of Man, when Gaea set them among her animal-children (see [[race-beastman]]). The hardest ground Alaria offers is the cooling volcanic rock of Tyvern, and a Tuktuk is built to last the island that made it, shell for armor and patience for the long volcanic seasons; the glass and rare metal of the lava flows arm the rest.
 
+### Gelnor
+
+Not every Tuktuk fits the fire-forged mold. Gelnor, a paragon born to fog and water rather than flame, was sent to put down a rising among his own kin and used that gift to drown the rebels in mist and pass the slaughter off as a hard year of attrition; Tyvern honors him still as a steady commander, never having learned what he did. He has spent the centuries since as a lich in self-exile on the [[shroud-isles|Shroud Isles]] far to the north, atoning where no one is making him. See [[person-gelnor]].
+
 ### Vitals
 - **Size:** Medium
 - **Height:** 4-5 feet

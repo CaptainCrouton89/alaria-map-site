@@ -8,6 +8,7 @@ weight: standard
 atmosphere: ancient
 relations:
   - { rel: history, kind: precededBy, target: "era-hykravones" }
+  - { rel: history, kind: within, target: "era-modern-era" }
 sources:
   - "history_and_lore/timelines/World Timeline.md"
 review:
@@ -26,4 +27,4 @@ Most sentient creatures did not get along with dragons, who were quickly taking 
 
 ### The World Fire: 10 BSD
 
-The age ended when a fire-paragon over-channeled the Yolus seam until it ruptured, the cataclysm that gives the World Fire its name and sets calendar zero between the BSD and SD reckonings. Its course and lasting scar are covered in the World Fire's own entry.
+The age ended when a fire-paragon over-channeled the Yolus seam until it ruptured, the cataclysm that gives the World Fire its name. The surviving calendars fixed their zero in its aftermath, the boundary between the BSD and SD reckonings. Its course and lasting scar are covered in the World Fire's own entry.

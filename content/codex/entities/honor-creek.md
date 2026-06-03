@@ -25,7 +25,7 @@ Several towns cluster along Honor Creek:
 - **Sarihalliler**: Downstream, where the terrain begins to level
 - **Kochisar**: Near where the creek approaches the main Honor River system
 
-These towns are small, dependent on forestry and the creek's water supply. Their priests maintain shrines warning visitors about the vision pools—and, some say, maintaining records of who goes looking for them.
+These towns are small, dependent on forestry and the creek's water supply. Their priests maintain shrines warning visitors about the vision pools, and perhaps maintaining records of who goes looking for them.
 
 ### Location
 

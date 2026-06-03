@@ -15,9 +15,9 @@ The Kendor are an ancient aquatic people whose grace and beauty are matched only
 
 ### The making
 
-The Kendor are beastfolk, named at the Birth of Man with all of Gaea's minor animal-children (see [[race-beastman]]). Their true name is the warm-water seahorse-person, and like every beastman kind it does not drift; a Kendor is now exactly what Gaea made it then. The warmth their bodies require was set into them at the making and cannot be unset. That is why temperate and polar waters are not merely unpleasant to a Kendor but physiologically hostile.
+The Kendor are beastfolk, named at the Birth of Man with all of Gaea's minor animal-children (see [[race-beastman]]). Their true name is the warm-water seahorse-person, and like every beastman kind it does not drift; a Kendor is now exactly what Gaea made it then. The warmth their bodies require was set into them at the making and cannot be unset. That is why temperate and polar waters are physiologically hostile to a Kendor, not merely unpleasant.
 
-What made the Kendor the people they are now was not the making but a catastrophe long after it. In distant prehistory the aquatic peoples of what is now Adron were driven from their home, the tritons fleeing north for reasons lost even to the naga who displaced them. Not every kind went with them. The seahorse-people faced a choice their own bodies had already decided: follow the exodus into the cold deep water that would kill them, or stay in the warm southern shallows they had been named for. The ones who tried to follow did not last. The ones who stayed are the Kendor. The catastrophe worked by subtraction rather than change: it cut away everything in them that was not true to the warm shallows and fixed the rest in place, and their entire range, their thermal limits, and the inward-turned court culture that grew up in the safety of the reefs all date from the staying.
+What made the Kendor the people they are now was a catastrophe long after the making, not the making itself. In distant prehistory the aquatic peoples of what is now Adron were driven from their home, the tritons fleeing north for reasons lost even to the naga who displaced them. Not every kind went with them. The seahorse-people faced a choice their own bodies had already decided: follow the exodus into the cold deep water that would kill them, or stay in the warm southern shallows they had been named for. The ones who tried to follow did not last. The ones who stayed are the Kendor. The catastrophe worked by subtraction rather than change: it cut away everything in them that was not true to the warm shallows and fixed the rest in place, and their entire range, their thermal limits, and the inward-turned court culture that grew up in the safety of the reefs all date from the staying.
 
 > The tritons say we hid while they fought. We did not hide. We stayed where we could live, and we have lived there ever since.
 > — a Pelaendor envoy, to the naga court at Adron
@@ -32,7 +32,7 @@ Kendor society revolves around elaborate courtship rituals, political maneuverin
 ### Distribution & Diaspora
 The Kendor are far more widespread than surface-dwellers realize. The three Kendrel Kingdoms of the Agreben Sea represent only the most visible concentration, the settlements that chose to engage with the surface world. Across the world's oceans, other Kendor communities exist in varying degrees of isolation.
 
-**Why the concentration in Agreben?** Several factors:
+Why the concentration in Agreben? Several factors:
 
 - **Thermal requirements**: Kendor were made for tropical waters and need warm temperatures to thrive. The Agreben Sea's shallow, sun-warmed continental shelf provides ideal conditions. Temperate and polar waters are physiologically hostile.
 - **Bfaspeen pressure**: The eel-bodied Bfaspeen broods dominate much of the world's deep ocean, forcing Kendor into defensive enclaves along continental shelves where shallow water provides natural protection.
@@ -50,7 +50,7 @@ The Kendor are far more widespread than surface-dwellers realize. The three Kend
 ### Relationship with Tritons
 The Kendor and the Tritons of Vetral share ancient origins but have diverged profoundly over millennia.
 
-**The Common Ancestry**: Both peoples trace their origins to the prehistoric aquatic civilizations that once flourished in what is now Adron. When the tritons fled Adron in distant prehistory (the reasons lost even to the naga who displaced them), not all underwater peoples went with them. The ancestors of the Kendor stayed in the warm southern shallows their bodies were named for, and the staying is what set the two peoples on separate histories (see The making, above). What has diverged since is custom and bearing, not blood; the Kendor did not become a new thing, they held to the thing they were made to be while the world around them changed.
+**The Common Ancestry**: Both peoples trace their origins to the prehistoric aquatic civilizations that once flourished in what is now Adron. When the tritons fled Adron in distant prehistory (the reasons lost even to the naga who displaced them), not all underwater peoples went with them. The ancestors of the Kendor stayed in the warm southern shallows their bodies were named for, and the staying is what set the two peoples on separate histories (see The making, above). What has diverged since is custom and bearing, not blood; the Kendor held to the thing they were made to be while the world around them changed.
 
 **Modern Relations**: Cool and distant. The two civilizations maintain formal diplomatic contact through Pelaendor intermediaries but view each other with mutual disdain:
 

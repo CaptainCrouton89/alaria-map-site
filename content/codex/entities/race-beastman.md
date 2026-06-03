@@ -25,7 +25,7 @@ Each kind of beastman is its own making, not a branch off some first beastman st
 
 Beastmen are flesh. Gaea drew them out of her own substance through Kethic, the same way she made humans, giants, and trolls, and those four lines can interbreed because their bodies recognize one another at the level of what they are made from. A human and a beastman can have children together. The druid-crafted elves, shaped from wood and stone and river-mud rather than flesh, cannot cross with any of them.
 
-The sacred three stand apart from all of this. Ulvma, Shara Bolasi, and Nagatayora were not minor animal-children but Gaea's sons, made with her full intent, and the Ulvsjael, Sharabha, and Naga who descend from them rose from a different cause entirely. A beastman is not of that line. When the histories speak of Gaea's animal-children in the small, scattered, ordinary sense, they mean the beastmen.
+The sacred three stand apart from all of this. Ulvma, Shara Bolasi, and Nagatayora were Gaea's sons, made with her full intent, and the Ulvsjael, Sharabha, and Naga who descend from them rose from a different cause entirely. A beastman is not of that line. When the histories speak of Gaea's animal-children in the small, scattered, ordinary sense, they mean the beastmen.
 
 ### Surviving the Shattering
 

@@ -16,7 +16,7 @@ review:
 ---
 Fortress ruins in the hills southwest of Spinefir Forest.
 
-Cheykiov was supposed to hold. Thick walls, strong garrison, excellent position. It fell anyway—not to Silzar assault but to betrayal. Someone opened the gates. Someone manipulated the defenders. The details are disputed; every faction blames every other faction.
+Cheykiov was supposed to hold. Thick walls, strong garrison, excellent position. It fell anyway, to betrayal rather than Silzar assault. Someone opened the gates. Someone manipulated the defenders. The details are disputed; every faction blames every other faction.
 
 Now it's ruins. The Silzar stripped what they wanted and moved on. The Gyv haven't rebuilt because no one can agree who should control it, and no one trusts anyone else's garrison.
 

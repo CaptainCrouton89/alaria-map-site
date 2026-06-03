@@ -11,11 +11,11 @@ review:
   aiWritten: false
   action: keep
 ---
-The ayblek come from Instruxofinum, which is not a distant country but a different planar stack altogether, one of the several that hang in the cosmos apart from Alaria's own. It is a place of billions of planes packed close and held all but still in time, where almost anything can be found by someone willing enough to search for it. A single ayblek was drawn out of that stack into the world by a curious traveling mage, and from that lone individual every ayblek in Pyonokraus has copied itself through their strange asexual reproduction.
+The ayblek come from Instruxofinum, a different planar stack altogether, one of the several that hang in the cosmos apart from Alaria's own. It is a place of billions of planes packed close and held all but still in time, where almost anything can be found by someone willing enough to search for it. A single ayblek was drawn out of that stack into the world by a curious traveling mage, and from that lone individual every ayblek in Pyonokraus has copied itself through their strange asexual reproduction.
 
-With their four arms constantly in motion and minds that process information at bewildering speeds, the ayblek are perpetually understimulated by the comparatively sluggish pace of mortal life. To compensate, they gravitate toward centers of chaos and activity—battlefields, bustling marketplaces, political upheavals—anywhere multiple threads of action converge. They pursue goals that seem arbitrary or nonsensical to other races, following internal logic chains that can span centuries and involve collecting specific grains of sand or counting the number of times a particular word is spoken in their presence.
+With their four arms constantly in motion and minds that process information at bewildering speeds, the ayblek are perpetually understimulated by the comparatively sluggish pace of mortal life. To compensate, they gravitate toward centers of chaos and activity: battlefields, bustling marketplaces, political upheavals, anywhere multiple threads of action converge. They pursue goals that seem arbitrary or nonsensical to other races, following internal logic chains that can span centuries and involve collecting specific grains of sand or counting the number of times a particular word is spoken in their presence.
 
-Though they understand concepts of morality intellectually, empathy remains foreign to their psychology. An ayblek might save a drowning child not from compassion, but because the child's survival factors into some incomprehensible personal objective they established decades ago.
+Though they understand concepts of morality intellectually, empathy remains foreign to their psychology. An ayblek might save a drowning child, but never out of compassion; the rescue serves some incomprehensible personal objective they established decades ago.
 
 ### The making
 

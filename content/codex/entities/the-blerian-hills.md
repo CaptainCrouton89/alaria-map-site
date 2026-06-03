@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Concise, on-theme; sits in Tundra Oblivio per coords. Keep."
 ---
-Rising from the central tundra, the Blerian Hills provide the only significant elevation change between the Eceraen range and the Whitewall. These are not mountains—the highest peaks reach perhaps 1,500 feet above the surrounding plain—but in a landscape of absolute flatness, they loom large.
+Rising from the central tundra, the Blerian Hills provide the only significant elevation change between the Eceraen range and the Whitewall. These are not mountains; the highest peaks reach perhaps 1,500 feet above the surrounding plain. But in a country of absolute flatness, they loom large.
 
 The hills are composed of ancient volcanic rock, harder than the surrounding sedimentary plain and resistant to glacial erosion. Their presence creates minor wind shadows on their southern slopes, making them one of the few places on the tundra where snow doesn't immediately scour away. This relative shelter has attracted what little life exists in the region.
 

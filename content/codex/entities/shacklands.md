@@ -19,7 +19,7 @@ review:
 ---
 ### Geography
 
-The Shacklands are not a single contiguous territory but rather a collection of southern regions united by their participation in the slave trade. The name comes from the shackles worn by enslaved dwarves—a grim legacy that defines the region's character. These scattered territories stretch across the southern reaches of Rimihuica, from the mainland jungles to distant island chains.
+The Shacklands are not a single contiguous territory but rather a collection of southern regions united by their participation in the slave trade. The name comes from the shackles worn by enslaved dwarves, a grim legacy that defines the region's character. These scattered territories stretch across the southern reaches of Rimihuica, from the mainland jungles to distant island chains.
 
 #### The Concept
 
@@ -76,120 +76,28 @@ The result is an economic zone masquerading as a region. States that have nothin
 
 ### What Makes It Interesting
 
-The Shacklands offer moral complexity that most fantasy settings avoid. This is not a simple evil empire to be defeated; it's a system with participants at every level, from the emperors who profit most to the merchants who profit enough to look away to the slaves who sometimes cooperate for survival. Heroes here face hard choices:
+The Drasnian dwarves of Pesalolo built the Shacklands' economy and carry its deepest contradiction. Three centuries of bondage have not dissolved Drasnian identity. They run when they can, and the Moon Road — the escape network that moves them through the Moon Wilds — has been running them for decades. Gorath cannot close that route without entering territory the empire has already admitted defeats it. The most dangerous frontier on the continent is, for the people it has swallowed, the only way out.
 
-- **Opposing slavery means opposing prosperity.** Gorath's economy would collapse without slave labor. What happens to the people who depend on that economy?
-- **Freeing slaves means endangering them.** Escaped slaves face the jungle, the sea, or recapture. Where do they go? Who helps them?
-- **Justice requires violence.** The system won't reform peacefully. Is revolution better than stability?
+The war-church that drives Gorathi expansion has produced the system's cruelest irony. The Iron of the Eternal March presses to erase Tamadrezan dwarf culture and supplies the legions' chaplains who bless the lash. But Krondeum, the forge daemon the Iron claims as its patron, is also the daemon the Drasnian bondspeople worship across the same anvils. Master and enslaved Drasnian bend knee to the same god and call him two different things. The Iron is fracturing from inside over whether this is a bridge or a corruption, and neither faction can charge the other with heresy without the split widening past what anyone can manage.
 
-The Shacklands are also intensely physical places—massive jungles, dangerous waters, fortress-cities rising from impossible terrain. Adventure here means facing environments as hostile as any enemy.
+The system does not yield to simple pressure. Freeing a runaway is not a revolution; the Moon Road frees hundreds, and Gorath is still Gorath. Every participant in the trade has a reason not to be the one who breaks it first.
+
+The Shacklands are also intensely physical places: massive jungles, dangerous waters, fortress-cities rising from impossible terrain.
 
 ### What Will Go Wrong
 
-The system is stable but not static. Several pressure points threaten to destabilize the Shacklands:
+The system is stable but not static, and several pressures are working against it at once.
 
-**The Moon Wilds are stirring.** Something is organizing the Vexlings, transforming scattered predators into coordinated threats. If they break through the Myublin line, Gorath faces a war on yet another front.
+The Moon Wilds are stirring. Something the Gorathi call the Argent Mother has drawn the Vexlings of the western jungle into a single coordinated hive, and the containment line on the Myublin River holds only so long as she lets it. If the hive comes east in force, Gorath fights a war on the one front it has already lost.
 
-**Emperor Veramus is aging.** He's sixty-three and has held power longer than any recent predecessor. When he dies, the succession crisis will be spectacular—and bloody.
+Emperor Veramus is sixty-three and has held the throne longer than any recent predecessor. Gorath elects its emperors from among its generals, and Veramus has no fresh victory to point to and no heir the office can pass to. When he dies, or falters, the succession will be settled the Gorathi way, between armies.
 
-**External powers are watching.** The dwarves of Trømgar object to Gorath's treatment of their Drasnian kin. The Nashua conflict drags on. Somewhere, someone is planning to disrupt the slave trade.
+The war-church is hardening the empire's cruelty into doctrine. The Iron of the Eternal March, Gorath's martial faith, presses to erase what remains of Tamadrezan dwarf culture and supplies the legions the chaplains who bless the lash. It is also fracturing from the inside, which is a danger of a different kind.
 
-**The enslaved remember.** Three centuries of slavery have not broken the Drasnian spirit. Escape networks operate despite Slavewatch. Resistance movements simmer. One day, something will ignite.
+The enslaved have not forgotten, and they have a way out. Three centuries of bondage have not broken the Drasnians, and the escape network called the Moon Road moves them through the one country Gorath will not follow them into. Beyond the region, the dwarves of Trømgar have never accepted what was done to their kin, and they are watching for the empire to stumble. The grinding war with Nashua may be the stumble.
 
-The Shacklands are a powder keg. The only question is what—or who—provides the spark.
+None of these pressures waits on the others. The danger to the Shacklands is that they arrive together.
 
 ### Moon Wilds
 
-The Moon Wilds are where Gorath's conquest ends. West of the Poison Hills, beyond the Myublin River, stretches a jungle that has defeated every attempt to tame it. The legions that march in rarely march out. The settlers who try to establish outposts are found weeks later—or never found at all. Something lives in the Moon Wilds that Gorath cannot conquer, cannot assimilate, and barely understands.
-
-The empire claims this territory on maps. The territory disagrees.
-
-#### Geography
-
-The Moon Wilds occupy Gorath's western interior, a vast stretch of jungle running from the Poison Hills to the coast. The terrain is similar to the Jungles of Titania in composition—dense canopy, tangled undergrowth, seasonal flooding—but somehow *worse*. The trees grow taller here, blocking more light. The vegetation is denser, more aggressive. And the wildlife... the wildlife is a problem.
-
-The Myublin River serves as the practical border between controlled Gorath and the Wilds. East of the Myublin, the empire maintains patrols and outposts. West of it, they maintain prayers and a healthy respect for what they cannot defeat.
-
-The jungle floor is perpetually dark, even at midday. Bioluminescent fungi and insects provide the only light in many areas, casting everything in pale blues and greens that give the region its name. When the actual moons are full, their light sometimes penetrates the canopy in scattered patches—the only times the forest floor sees natural illumination.
-
-#### The Vexlings
-
-The Moon Wilds' most dangerous inhabitants are neither animal nor humanoid in any conventional sense. The Gorathi call them **Vexlings**—a name that captures their most terrifying ability without describing what they actually are.
-
-##### Appearance
-
-Vexlings roughly resemble a grotesque fusion of goblin and spider. They stand three to four feet tall on six multi-jointed legs, with two smaller manipulator limbs near what might be called a head. Their bodies are covered in coarse, dark hair that blends perfectly with the jungle shadows. But it's the face—or what serves as one—that soldiers remember in their nightmares.
-
-Six eyes arranged in two rows of three, each eye a different size and seeming to focus independently. The eyes glow faintly in darkness, a pale silver-white that's often the first—and last—warning of a Vexling's presence. Below the eyes, mandibles frame a mouth full of needle-like teeth, constantly working even when the creature is still.
-
-They move with unsettling fluidity, equally comfortable on the ground, climbing trees, or hanging inverted from branches. They make almost no sound when they want to be silent.
-
-##### The Trance
-
-What makes Vexlings uniquely dangerous is their gaze. Meeting the eyes of a Vexling—all six of them—induces a hypnotic state that soldiers describe as "falling into silver." The victim stops moving, stops resisting, stops doing anything except staring as the Vexling approaches.
-
-The trance isn't instantaneous; it takes several seconds of eye contact to take hold. But in the dense jungle, where Vexlings can appear suddenly from any direction, those seconds are hard to find. Veterans learn to fight with eyes averted, focusing on peripheral vision, but this dramatically reduces combat effectiveness.
-
-The trance breaks when eye contact breaks—if a companion physically shoves a victim, if the Vexling looks away, or if the victim somehow finds the will to wrench their gaze aside. The latter is rare; most victims report feeling peaceful, even welcomed, as the trance deepens.
-
-Those who fall fully into the trance and aren't rescued simply... follow. The Vexlings lead them deeper into the jungle. What happens after that, no one has returned to report.
-
-##### The Blood
-
-Vexlings bleed silver-white ichor that is catastrophically corrosive. A single drop on exposed skin causes severe chemical burns. A splash can eat through leather armor in seconds. Saturating contact—falling into a pool of it, being sprayed by a dying Vexling—is typically fatal.
-
-This makes killing Vexlings almost as dangerous as fighting them. Soldiers have learned to use spears and polearms, keeping distance when striking, and to never, ever finish a Vexling with a blade at close range. The victory over a Vexling has cost more than one soldier their hands, their face, or their life.
-
-The blood remains corrosive for approximately an hour after leaving the body, then neutralizes into a harmless silvery residue. Some alchemists have tried to collect and preserve it—results have been universally disastrous.
-
-##### Behavior and Intelligence
-
-Vexlings were once thought to be animalistic—dangerous predators, but predators nonetheless, operating on instinct. Recent encounters have challenged this assessment.
-
-They now hunt in coordinated groups, with individuals taking specific roles: scouts, flankers, trance-inducers, and strikers. They set ambushes in locations soldiers must pass. They target officers and mages first. They retreat when outmatched, regroup, and attack again at a more advantageous moment.
-
-Something is organizing them. Whether one of their kind has risen to unusual intelligence, some external force is directing them, or they've always been this smart and simply chose to reveal it now—no one knows. The empire's scholars argue; the soldiers who face them don't care about the explanation, only the result.
-
-Some reports suggest the Vexlings have a language—chittering vocalizations that seem to carry meaning, repeated patterns that coordinate behavior. Other reports describe strange structures deep in the Wilds: webbed domes, tunnel systems, what might be nests or might be something more deliberate. No expedition sent to investigate these sites has returned.
-
-#### The Campaign
-
-Emperor Veramus has committed three legions to conquering the Moon Wilds over the past decade. The campaign has been, by any honest assessment, a disaster.
-
-The jungle negates Gorath's tactical advantages. Legions can't maintain formation in dense vegetation. Supply lines stretch impossibly thin. The Vexlings don't hold territory that can be conquered—they fade into the jungle, wait for the legions to establish camps, then attack at night when the trance is hardest to avoid.
-
-Casualty rates exceed thirty percent per deployment. Worse, many "casualties" aren't confirmed dead—they simply vanish, tranced and led away to unknown fates. This damages morale more than straightforward death; soldiers fear the Wilds in a way they don't fear enemy armies.
-
-Current strategy focuses on containment rather than conquest. Outposts along the Myublin maintain watch for Vexling incursions into "civilized" Gorath. Patrols respond to sightings. The deep Wilds themselves are effectively ceded.
-
-This represents an unacceptable failure by Gorathi standards—the Eternal March is supposed to advance, not stall. Veramus faces growing pressure to either achieve a breakthrough or acknowledge defeat. Neither option appeals.
-
-#### The Myublin River
-
-The Myublin winds through the Moon Wilds before crossing into Gorathi territory, eventually joining the larger river system that drains toward the coast. Along the border stretch, the empire maintains a string of watchtowers and small forts.
-
-The river itself is dangerous to navigate—rapids, submerged obstacles, and the ever-present threat of Vexling attack from the banks. Few Gorathi willingly travel the Myublin deeper into the Wilds. Those who must typically travel by night, hoping darkness and quiet passage will let them slip past unnoticed.
-
-The river serves as a practical boundary not because it's impassable—Vexlings cross it regularly—but because it provides a defensible line where the empire can concentrate forces. Fighting Vexlings in the Wilds is suicide. Fighting them on cleared ground near the river is merely dangerous.
-
-#### Mysteries
-
-The Moon Wilds hold secrets that Gorath has never uncovered:
-
-**The Source**: Where do Vexlings come from? Are they natural creatures, magical constructs, or something else entirely? Their complete absence from any other region of Alaria suggests they're native to the Wilds specifically—but why here and nowhere else?
-
-**The Purpose**: Why do Vexlings take tranced victims rather than simply killing them? Where do they go? Some theorize the victims are food; others suggest something darker. The lack of bodies supports neither theory.
-
-**The Intelligence**: What changed? Why have the Vexlings become coordinated only in recent decades? Is there a leader, a hive mind, or something directing them from outside?
-
-**The Ruins**: Deep in the Wilds, multiple expeditions have reported glimpsing structures that aren't Vexling nests—stone ruins of clearly humanoid construction, overgrown but unmistakable. Who built them? What connection do they have to the Vexlings? No one has gotten close enough to investigate and returned.
-
-**The Light**: On certain nights, observers at the Myublin outposts report seeing lights deep in the Wilds—not the bioluminescence of the jungle or the eye-glow of Vexlings, but steady lights like fires or torches. They never move. They never go out. And they're always in different places.
-
-#### For Adventurers
-
-The Moon Wilds offer something rare in Gorath: genuine mystery. The empire that has conquered so much knows almost nothing about what lives in its own western territories. Anyone who could venture into the Wilds, survive, and return with information would find grateful—and wealthy—patrons in Azantir.
-
-Of course, survival is the challenge. The Vexlings kill most who enter. The jungle claims many of the rest. And whatever lies at the heart of the Wilds—whatever explains the lights, the ruins, the sudden intelligence—may be worse than all of it combined.
-
-Heroes looking to strike at Gorath might find unlikely allies in the Wilds. The Vexlings don't distinguish between the empire's soldiers and anyone else, but they also don't pursue escaped slaves or refugees who stumble through their territory. Some whisper that the underground railroad helping slaves escape passes through the Moon Wilds—that the most dangerous route is paradoxically the safest, because even Gorath won't follow you there.
+Gorath's western frontier is the one direction the empire has stopped advancing. West of the Poison Hills, across the Myublin River, lies the Moon Wilds, a jungle the legions have never been able to hold because of what lives in it. The Vexlings, the apex predators of the Wilds, have lately stopped behaving like animals and begun behaving like an army, drawn together by the thing the Gorathi call the Argent Mother. Three legions went in to conquer the Wilds and came back broken; the empire now watches the Myublin line and cedes the rest. The grim turn is that the deadliest ground on the continent is also the safest road off it, because the Vexlings do not chase runaways and Gorath will not follow them in. The full account lives in the member entries: the Moon Wilds, the Vexlings, and the Myublin River.

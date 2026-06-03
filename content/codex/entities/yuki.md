@@ -10,17 +10,17 @@ sources: ["all_sections_formatted/Ve.md#L3375"]
 relations:
   - { rel: spatial, kind: within, target: "351" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
-  - { rel: culture, kind: inhabitedBy, target: "race-goblin-etherweaver" }
+  - { rel: culture, kind: inhabitedBy, target: "race-goblin-aether-tapper" }
 ---
 A fortified city-state in the Suki Hills, standing as the first line of defense against Krell expansion into Chimean territory. Yuki is a city of watchers, trappers, and survivors—people who've built their lives around the knowledge that the swarm could come any day.
 
-### The Etherweaver Population
+### The aether-tapper population
 
-Yuki's most distinctive feature is its goblin population. Roughly a third of the city's twelve thousand residents are etherweavers—the aether-producing goblin variant whose secretions fuel magical devices throughout Alaria. These goblins fled the Krell Lands during the Consumption, and their descendants have become integral to Yuki's survival.
+Yuki's most distinctive feature is its goblin population. Roughly a third of the city's twelve thousand residents are aether-tappers—the aether-producing goblin variant whose secretions fuel magical devices throughout Alaria. These goblins fled the Krell Lands during the Consumption, and their descendants have become integral to Yuki's survival.
 
-The etherweavers maintain the city's defenses. Their aether powers the alarm systems, the communication network, and the devastating trap arrays that ring the hills. A Krell scout cannot approach within two miles of Yuki without triggering enchanted sensors that alert the entire garrison.
+The aether-tappers maintain the city's defenses. Their aether powers the alarm systems, the communication network, and the devastating trap arrays that ring the hills. A Krell scout cannot approach within two miles of Yuki without triggering enchanted sensors that alert the entire garrison.
 
-In exchange, Yuki provides the etherweavers with something rare: respect. Most of Ve views goblins as vermin or resources to be exploited. In Yuki, they sit on the council, own property, and are addressed as citizens. This has made the city a magnet for goblin refugees from across the region.
+In exchange, Yuki provides the aether-tappers with something rare: respect. Most of Ve views goblins as vermin or resources to be exploited. In Yuki, they sit on the council, own property, and are addressed as citizens. This has made the city a magnet for goblin refugees from across the region.
 
 ### Defenses
 
@@ -36,7 +36,7 @@ Yuki's survival depends on making Krell incursions too costly to sustain. The ci
 
 Yuki survives on three industries:
 
-**Aether Production** — The etherweavers produce a steady supply of goblin aether, which Yuki exports to Chimea, Shyona, and the western city-states. The quality is high, the supply is reliable, and the prices are steep. Yuki can afford to be expensive because the alternative sources involve enslaving goblins, which many buyers find distasteful.
+**Aether Production** — The aether-tappers produce a steady supply of goblin aether, which Yuki exports to Chimea, Shyona, and the western city-states. The quality is high, the supply is reliable, and the prices are steep. Yuki can afford to be expensive because the alternative sources involve enslaving goblins, which many buyers find distasteful.
 
 **Intelligence** — Yuki knows more about the Krell Lands than any other settlement. Maps, patrol patterns, hive locations, seasonal behaviors—all of this information has value. Scholars, military planners, and treasure hunters pay well for Yuki's accumulated knowledge.
 

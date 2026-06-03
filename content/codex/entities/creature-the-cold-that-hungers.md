@@ -24,7 +24,7 @@ The Fengruk records of Vorukar's death are fragmented, damaged by the very catac
 The stonescripts don't claim Vorukar won. They claim he bought time.
 
 ### Nature
-If the Cold That Hungers exists, it is not a creature in any conventional sense. The stonescripts describe it as a living absence, not a being that generates cold but cold itself become aware and hungry. It does not attack; it consumes. Heat, life, motion, will, anything that carries energy or vitality feeds it.
+If the Cold That Hungers exists, it is not a creature in any conventional sense. The stonescripts describe it as a living absence, cold itself become aware and hungry rather than anything that merely produces cold. It does not attack; it consumes. Heat, life, motion, will, anything that carries energy or vitality feeds it.
 
 Set against the other cold-things of the Pale Peaks, it sits at the far end of a single spectrum. A frostwalker is one body whose strand-set has been compromised and overwritten by cold, a single corpse wearing the element like a borrowed skin. The Cold That Hungers is that same binding carried past any body at all: element given will, with no ordinary strand-set left beneath it to compromise. A frostwalker is cold that has taken a shape. The Cold is cold that needs no shape, and that is what makes it the extreme the others only approach.
 
@@ -41,30 +41,30 @@ What the records will not settle is which cold. They describe a hunger that drin
 None of these accounts can be verified. The Cold That Hungers, if it exists, has not manifested in any form that can be studied.
 
 ### The Frostwalker Connection
-The Fengruk believe frostwalkers are extensions of the Cold That Hungers, not servants in any organized sense but fragments of its nature wearing stolen forms. When something dies in the polar waste, the Cold fills the absence, animating the corpse with a pale reflection of its own hunger for warmth.
+The Fengruk believe frostwalkers are extensions of the Cold That Hungers, fragments of its nature wearing stolen forms rather than servants in any organized sense. When something dies in the polar waste, the Cold fills the absence, animating the corpse with a pale reflection of its own hunger for warmth.
 
-This would explain several frostwalker characteristics: their single-minded pursuit of heat, their complete lack of self-preservation, their apparent inability to communicate or negotiate. They are not creatures with instincts. They are symptoms of something larger, probes sent north to feed the greater absence they serve.
+This would explain several frostwalker characteristics: their single-minded pursuit of heat, their complete lack of self-preservation, their apparent inability to communicate or negotiate. None of this is instinct. They are symptoms of something larger, probes sent north to feed the greater absence they serve.
 
 If this theory is correct, every frostwalker that reaches a settlement and extinguishes its fires is feeding the Cold That Hungers. Every life frozen contributes to something growing stronger in the south.
 
 ### The Ice Wyrm Question
-Ice wyrms are harder to fit into the theory. They are clearly alive in ways frostwalkers are not. They eat, they grow, they avoid danger when possible. Some scholars argue they evolved naturally in the polar environment and have no connection to the Cold.
+Ice wyrms are harder to fit into the theory. They are clearly alive in ways frostwalkers are not. They eat, they grow, they avoid danger when possible. One reading holds they evolved naturally in the polar environment, with no connection to the Cold.
 
-Others point to the wyrms' ice-swimming ability, a property that seems to violate normal physics, and suggest they are a different kind of manifestation. Where frostwalkers are the Cold's hunger given form, ice wyrms might be its patience: predators that wait in the frozen dark, striking when opportunity presents, holding the Cold's presence in place without actively spreading it.
+Another points to the wyrms' ice-swimming ability, a property that seems to violate normal physics, and suggests they are a different kind of manifestation. Where frostwalkers are the Cold's hunger given form, ice wyrms might be its patience: predators that wait in the frozen dark, striking when opportunity presents, holding the Cold's presence in place without actively spreading it.
 
 The Fengruk officially take no position. What matters is that ice wyrms and frostwalkers both emerge from the Pale Peaks, both threaten Gondurak, and both must be stopped regardless of their ultimate nature.
 
 ### Dormancy
 The Cold That Hungers has not manifested directly since the Sundering. Either Vorukar's final attack destroyed it, wounded it severely enough to require millennia of recovery, or satisfied it enough that it retreated to digest what it had consumed.
 
-The Fengruk prepare for the possibility that it's merely dormant. The Frostwatch exists not just to contain frostwalkers and ice wyrms, but to watch for signs that something larger is stirring. The priests of Azanfrain maintain vigils specifically to detect changes in the Pale Peaks: temperature drops that should not happen, darkness that persists past dawn, ice that spreads against the normal patterns.
+The Fengruk prepare for the possibility that it's merely dormant. The Frostwatch exists to contain frostwalkers and ice wyrms, but its deeper charge is to watch for signs that something larger is stirring. The priests of Azanfrain maintain vigils specifically to detect changes in the Pale Peaks: temperature drops that should not happen, darkness that persists past dawn, ice that spreads against the normal patterns.
 
 They've detected nothing conclusive. Small anomalies occur occasionally, but nothing that definitively indicates the Cold is awakening. The Fengruk remain vigilant anyway. Vorukar bought time; they don't intend to waste it.
 
 ### The Bleached Ruins
 On the northern slopes of the Pale Peaks stand walls, foundations, and the broken stumps of towers, all of them sheathed in ice no summer has ever melted. The work predates Fengruk settlement by an order of magnitude, and it answers to neither Fengruk hands nor titan construction. Someone built here in the Second Eon, before the Sundering closed it, in the age when Vorukar still walked and the Cold first showed its hunger. Whatever they were making, they stopped, and the freeze took everything they left behind.
 
-That ice is the point of the place. It is not the seasonal cold of the modern peaks but the older cold, the deep-time freeze that bleached the stone white and has never once relented. The Fengruk read it as the Cold That Hungers' own mark, the line its ancient winter reached and held. Whether the builders raised these halls to serve that cold, to wall themselves against it, or to study it until it took them, the stones do not say and the records were never kept.
+That ice is the point of the place. It is the older cold, the deep-time freeze that bleached the stone white and has never once relented, nothing like the seasonal cold of the modern peaks. The Fengruk read it as the Cold That Hungers' own mark, the line its ancient winter reached and held. Whether the builders raised these halls to serve that cold, to wall themselves against it, or to study it until it took them, the stones do not say and the records were never kept.
 
 The Fengruk do not investigate. Their official position is that some knowledge is not worth the cost of acquiring it. Unofficially, the few parties that have climbed to the ruins describe intense cold, light that bends wrongly, and the steady sense of being watched. One party did not come back. The Fengruk have decided they would rather not learn the rest.
 

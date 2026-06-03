@@ -9,7 +9,7 @@ sources: ["all_sections_formatted/Greenwater_Isles.md#L494"]
 relations:
   - { rel: spatial, kind: within, target: "4402" }
 ---
-*Named for the hiss of steam*
+Named for the hiss of steam
 
 Hyhi sits on the Firespine at the point where steam vents mix with a natural spring, creating a perpetual curtain of hot mist that shrouds the village. It's the spiritual heart of the Neka—home to the largest concentration of fire-speakers and the site of the most important negotiations with fire spirits.
 
@@ -19,7 +19,7 @@ Whether this is true or not, Hyhi's fire-speakers have the highest success rate 
 
 Life in Hyhi is strange by outside standards. The mist makes visibility perpetually poor. Residents navigate by sound and heat-sense as much as sight. Conversations happen in low voices because the steam carries sound unpredictably. Fire-speakers spend hours in meditation at the bowl's edge, communing with whatever responds. The village feels dreamlike, liminal, not entirely present in the material world.
 
-Non-fire-speakers live here too—someone has to hunt, cook, maintain structures—but they tend to be quieter, more contemplative than Neka elsewhere. Long exposure to the mist changes people. Not physically, but in disposition. Hyhi natives move slowly, speak carefully, and seem to listen to things others can't hear.
+Non-fire-speakers live here too, since someone has to hunt, cook, and maintain structures, but they tend to be quieter, more contemplative than Neka elsewhere. Long exposure to the mist changes people's disposition, though not their bodies. Hyhi natives move slowly, speak carefully, and seem to listen to things others can't hear.
 
 **Hooks:**
 - Fire-speakers from Hyhi are occasionally willing to negotiate with outsiders' fire-related problems—for appropriate compensation

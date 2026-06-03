@@ -16,9 +16,9 @@ review:
 ---
 In the temperate forests of M'Svyla, the Ix'Lorett are unlike their warlike cousins in almost every way. These iguana-like Lizardfolk move with deliberate slowness, their wrinkled scales and soft spines giving them an almost ancient appearance. Yet what they lack in speed and aggression, they make up for in wisdom and an incredible regenerative ability.
 
-Ix'Lorett society centers around art, meditation, and the pursuit of inner peace. Their villages in the Crystal Mountains are adorned with intricate gemstone mosaics and painted murals that tell the stories of their people. They are philosophers and artists, spending decades perfecting a single painting or meditating on the nature of existence.
+Ix'Lorett society centers around art, meditation, and the pursuit of inner peace. Their villages in the Crystal Mountains are adorned with detailed gemstone mosaics and painted murals that tell the stories of their people. They are philosophers and artists, spending decades perfecting a single painting or meditating on the nature of existence.
 
-Their regenerative abilities are legendary. Lost limbs regrow over months, and wounds that would kill other races merely inconvenience them. This has led to a unique perspective on violence and conflict; when you can regrow from almost any injury, the urgency of combat fades. Many Ix'Lorett who become adventurers do so not for glory or wealth, but to see the world's beauty and understand its deeper meanings.
+Their regenerative abilities are legendary. Lost limbs regrow over months, and wounds that would kill other races merely inconvenience them. This has led to a unique perspective on violence and conflict; when you can regrow from almost any injury, the urgency of combat fades. Many Ix'Lorett who become adventurers do so to see the world's beauty and understand its deeper meanings, not for glory or wealth.
 
 ### The making
 

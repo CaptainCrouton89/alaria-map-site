@@ -27,7 +27,7 @@ Istokos occupies a cluster of islands in the southern Shattered Sea:
 - **South**: The Sea of Sharks and the Islands of Gold
 - **East**: Distant view of Mueras and the Rimihuica coast
 
-The islands are positioned south of the main Shattered Sea chaos, in calmer but still treacherous waters. Reefs and shoals make navigation difficult for outsiders; Chargon pilots—all commoners who can risk water exposure—guide foreign ships.
+The islands are positioned south of the main Shattered Sea chaos, in calmer but still treacherous waters. Reefs and shoals make navigation difficult for outsiders; Chargon pilots, all commoners who can risk water exposure, guide foreign ships.
 
 ### Terrain and Climate
 
@@ -45,9 +45,9 @@ Currents between islands are dangerous. The Chargon know them perfectly, but for
 
 ### The House Islands
 
-Surrounding the main island, smaller islands serve as noble house domains:
+Surrounding the main island, smaller islands are noble house domains:
 
-**Murk Isle**: Home estate of House Murk, the ruling bloodline. The island is perpetually shrouded in mist—not natural fog, but a manifestation of their Sight Beyond magic. Visitors see only what the Murk want them to see.
+**Murk Isle**: Home estate of House Murk, the ruling bloodline. The island is perpetually shrouded in mist, a manifestation of their Sight Beyond magic rather than natural fog. Visitors see only what the Murk want them to see.
 
 **Spark Reef**: House Spark's territory. The surrounding waters are dangerous—the Spark have seeded the reef with creatures that carry electrical charges. Unauthorized swimmers die.
 
@@ -86,7 +86,7 @@ The waters are deliberately unmapped. Charts show only the approved approach rou
 
 Istokos sits at the northern edge of the Sea of Sharks—those shark-infested waters that even experienced sailors avoid. The Chargon's rejection of the sea makes them uniquely willing to trade across these waters; they simply refuse to fall in.
 
-Some speculate the Chargon originally fled to these islands because the sharks would discourage anyone from following them into the water. If so, the strategy worked—and continues to work.
+The Chargon may have originally fled to these islands because the sharks would discourage anyone from following them into the water. If so, the strategy worked, and continues to work.
 
 ### What Brings People Here
 

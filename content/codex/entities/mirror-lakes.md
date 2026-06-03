@@ -14,23 +14,23 @@ A cluster of small lakes in southwestern Wycendeula, tucked into the hills where
 
 #### Geography
 
-The Mirror Lakes comprise roughly a dozen bodies of water ranging from small ponds to lakes covering a few hundred acres. They occupy a series of natural basins in the foothills, connected by streams and seepage. The surrounding terrain is mixed—rocky slopes above, boggy lowlands below, with stands of conifers providing cover from the wind.
+The Mirror Lakes comprise roughly a dozen bodies of water ranging from small ponds to lakes covering a few hundred acres. They occupy a series of natural basins in the foothills, connected by streams and seepage. The surrounding terrain is mixed, rocky slopes above, boggy lowlands below, with stands of conifers providing cover from the wind.
 
 The lakes sit at the northwestern corner of the dangerous southern region, which makes them the first water many travelers encounter when crossing from the Neurian Hills toward the interior. This has given them an outsized reputation as a waypoint, despite offering no services or settlements.
 
 #### The Stillness
 
-The Mirror Lakes are unnaturally calm. Even in strong wind, even during storms, the water barely ripples. The surface reflects with near-perfect clarity—sky, trees, and approaching figures reproduced so precisely that travelers sometimes mistake the reflection for a second group of people.
+The Mirror Lakes are unnaturally calm. Even in strong wind, even during storms, the water barely ripples. The surface reflects with near-perfect clarity: sky, trees, and approaching figures reproduced so precisely that travelers sometimes mistake the reflection for a second group of people.
 
 This stillness is not magical in any detectable sense. Scholars have tested the water, the local wind patterns, the basin geography. Nothing explains why these particular lakes should be calmer than any others. They simply are.
 
-The stillness creates practical problems. Without ripples to break the reflection, judging the water's edge becomes difficult. The transition from shore to lake is invisible in certain light. People have walked into the Mirror Lakes without realizing they'd left solid ground—awkward and cold, but rarely dangerous since the lakes are shallow.
+The stillness creates practical problems. Without ripples to break the reflection, judging the water's edge becomes difficult. The transition from shore to lake is invisible in certain light. People have walked into the Mirror Lakes without realizing they'd left solid ground, awkward and cold, but rarely dangerous since the lakes are shallow.
 
-More disturbing: the reflections are *too* accurate. Details that shouldn't be visible at a distance appear clearly in the water. Travelers have seen their own faces reflected from fifty feet away, expression perfectly legible. Some report seeing details in the reflection that they couldn't see directly—movement in the treeline behind them, figures on the far shore, things that may or may not have been there when they turned to check.
+More disturbing: the reflections are too accurate. Details that shouldn't be visible at a distance appear clearly in the water. Travelers have seen their own faces reflected from fifty feet away, expression perfectly legible. Some report seeing details in the reflection that they couldn't see directly: movement in the treeline behind them, figures on the far shore, things that may or may not have been there when they turned to check.
 
 #### What Lives Here
 
-The Mirror Lakes support normal wildlife—fish, waterfowl, the small mammals that live around any freshwater source. Nothing unusual, nothing threatening. The lakes' proximity to Eberri Ygonzi keeps major predators away; coilwights don't venture this far from dense forest, and the open terrain discourages bristle-wolves.
+The Mirror Lakes support normal wildlife: fish, waterfowl, the small mammals that live around any freshwater source. Nothing unusual, nothing threatening. The lakes' proximity to Eberri Ygonzi keeps major predators away; coilwights don't venture this far from dense forest, and the open terrain discourages bristle-wolves.
 
 This makes the Mirror Lakes one of the few relatively safe water sources in the region. Travelers crossing the southern wilds often stop here specifically because it's not trying to kill them.
 
@@ -43,7 +43,7 @@ The locals have developed superstitions about the lakes:
 - Don't camp directly on the shore (the stillness affects sleep)
 - Don't fish after dark (the water sees better in darkness than you do)
 
-Whether these superstitions have basis in actual experience or are simply the accumulation of unease is unclear. The Mirror Lakes aren't *dangerous*, exactly. They're just... watched. That's how people describe it. Not malevolently. Just attention, from something that shouldn't be paying attention.
+Whether these superstitions have basis in actual experience or are simply the accumulation of unease is unclear. The Mirror Lakes aren't dangerous, exactly. They're just... watched. That's how people describe it. Not malevolently. Just attention, from something that shouldn't be paying attention.
 
 #### Hooks
 

@@ -24,7 +24,7 @@ The cliffs are lower than Syquindonos—rarely exceeding 300 feet—but what the
 
 ### The Honeycomb
 
-The Shondromos cliffs are famous for their caves—not a few scattered openings but thousands of them, penetrating deep into the rock, connecting in ways no one has fully mapped.
+The Shondromos cliffs are famous for their caves, thousands of them, penetrating deep into the rock and connecting in ways no one has fully mapped.
 
 **Cave Characteristics:**
 
@@ -55,7 +55,7 @@ Persistent rumors claim something else lives in the deeper caves—creatures tha
 
 ### Kettle Bay
 
-The cliffs partially enclose **Kettle Bay**—a body of water that would be an excellent harbor if it weren't surrounded by the honeycomb.
+The cliffs partially enclose Kettle Bay—a body of water that would be an excellent harbor if it weren't surrounded by the honeycomb.
 
 The bay is calm, sheltered from storms, with good anchorage. It's also riddled with cave openings at waterline, any of which might contain smugglers, cultists, or worse. Ships anchoring in Kettle Bay post guards constantly.
 

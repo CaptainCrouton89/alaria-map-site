@@ -14,7 +14,7 @@ The transitional highlands between the forests and the lakes—a band of rolling
 
 #### Geography
 
-The Endari Hills stretch roughly sixty miles east to west and thirty miles north to south, rising gradually from the forest floor and dropping into the marshy lowlands around the lakes. The terrain is open compared to Eberri Ygonzi—scrub forest, rock outcrops, grassy slopes with occasional stands of wind-bent conifers.
+The Endari Hills stretch roughly sixty miles east to west and thirty miles north to south, rising gradually from the forest floor and dropping into the marshy lowlands around the lakes. The terrain is open compared to Eberri Ygonzi: scrub forest, rock outcrops, grassy slopes with occasional stands of wind-bent conifers.
 
 The hills offer the best overland travel route in the region. Moving east-west through Wycendeula's southern reaches, travelers can either cross Eberri Ygonzi (coilwights), Kama Sa'malina (gilthrain), or the Endari Hills (relatively nothing). Most choose the hills.
 
@@ -28,7 +28,7 @@ The hills support the kind of fauna you'd expect—deer, rabbits, ground-nesting
 
 The notable absence: nothing from Eberri Ygonzi or Kama Sa'malina. Coilwights don't leave the forest cover. Gilthrain can't survive far from water. The Pallid stick to the Pale Death and its immediate approaches. The Endari Hills exist in a gap between territories, too exposed for forest hunters and too dry for lake predators.
 
-**Bristle-wolf packs** sometimes range into the hills from Eberri Ygonzi, hunting in the open terrain. They're the main non-environmental threat travelers face—smart enough to avoid large groups, patient enough to follow smaller ones for days.
+Bristle-wolf packs sometimes range into the hills from Eberri Ygonzi, hunting in the open terrain. They're the main non-environmental threat travelers face—smart enough to avoid large groups, patient enough to follow smaller ones for days.
 
 **The Burned Stones**
 
@@ -49,8 +49,8 @@ The Endari Hills are the safest route through the region, but "safest" is relati
 
 #### Hooks
 
-- **Something's changed at the Burned Stones.** A trapper reports that the monoliths have moved—not much, maybe a few feet each, but they're now facing inward when they used to face outward. No one has seen them move. No one can explain how stones weighing tons could shift without leaving marks. But someone's paying to investigate.
+- Something's changed at the Burned Stones. A trapper reports that the monoliths have moved—not much, maybe a few feet each, but they're now facing inward when they used to face outward. No one has seen them move. No one can explain how stones weighing tons could shift without leaving marks. But someone's paying to investigate.
 
-- **Bristle-wolves are massing.** Multiple packs have been seen traveling together through the Endari Hills—unprecedented behavior for a territorial species. Something is either driving them from Eberri Ygonzi or drawing them toward Kama Sa'malina. Either way, the hills are becoming more dangerous, and the reason matters.
+- Bristle-wolves are massing. Multiple packs have been seen traveling together through the Endari Hills—unprecedented behavior for a territorial species. Something is either driving them from Eberri Ygonzi or drawing them toward Kama Sa'malina. Either way, the hills are becoming more dangerous, and the reason matters.
 
-- **The safe route isn't.** Travelers have gone missing in the Endari Hills—not in the forest, not in the lakes, but in the theoretically safe buffer zone. No bodies have been found. No signs of predator attack. People are simply vanishing, and the survivors are too few to provide useful information.
+- The safe route isn't. Travelers have gone missing in the Endari Hills—not in the forest, not in the lakes, but in the theoretically safe buffer zone. No bodies have been found. No signs of predator attack. People are simply vanishing, and the survivors are too few to provide useful information.

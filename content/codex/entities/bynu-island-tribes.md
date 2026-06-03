@@ -33,7 +33,7 @@ The border between "Bynü waters" and "safe waters" is not marked on any chart. 
 
 Approaching the Bynü Islands, ships notice the light changing. The sun seems to fade. Shadows lengthen. By the time you're among the outer islands, it's permanent dusk—not quite night, not quite day, an eternal half-light that never changes.
 
-The twilight boundary isn't a wall—it's a gradient. The transition takes roughly an hour of sailing. Once you're deep in Bynü territory, the sun is a dim glow on the horizon that never rises higher. Stars are visible but muted. Navigation by celestial observation becomes unreliable.
+The twilight boundary is a gradient. The transition takes roughly an hour of sailing. Once you're deep in Bynü territory, the sun is a dim glow on the horizon that never rises higher. Stars are visible but muted. Navigation by celestial observation becomes unreliable.
 
 This phenomenon appears to be magical, but its source is unknown. Theories include:
 - Ancient elven enchantment

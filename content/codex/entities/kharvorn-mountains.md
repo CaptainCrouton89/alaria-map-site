@@ -33,7 +33,7 @@ The Kharvorn Mountains are a massive diagonal range that defines the heart of Cl
 
 #### Climate Barrier
 
-The Kharvorn acts as a critical climate boundary. North of the range lies perpetual winter—the frozen steppes of the Celedrim Plains. South of the range, the climate warms dramatically, supporting the agricultural lands and trading cities of the Middle Sea coast. The peaks are white-capped with heavy snowfall, while the foothills transition into the brown and green of the lower lands.
+The Kharvorn is a hard climate boundary. North of the range lies perpetual winter, the frozen steppes of the Celedrim Plains. South of the range, the climate warms dramatically, supporting the agricultural lands and trading cities of the Middle Sea coast. The peaks are white-capped with heavy snowfall, while the foothills transition into the brown and green of the lower lands.
 
 #### Sub-Ranges
 
@@ -51,7 +51,7 @@ The Kharvorn comprises numerous distinct mountain ranges along its length, from 
 
 ### Political Climate
 
-The Kharvorn's high passes and interior valleys host Ikriel — the frost-transformed pixie predators who haunt cold environments across the world. They do not hold territory; they move through it, hunting travelers and feeding on whatever warmth they find. No range of the Kharvorn is entirely free of them, and the passes draw them because the passes draw prey.
+The Kharvorn's high passes and interior valleys host Ikriel — the frost-transformed pixie predators who haunt cold environments across the world. They hold no territory, moving through it, hunting travelers and feeding on whatever warmth they find. No range of the Kharvorn is entirely free of them, and the passes draw them because the passes draw prey.
 
 The northern sub-ranges have changed hands within living memory. Two centuries ago the brother-dragons Rothogomos and Tepheranos came down on the dwarven kingdom of Argysis and broke it, and the southern basin of Anarak fell to dragon rule in the same generation. That fall pushed a wave of dwarven refugees east into Hephake and left the upper Kharvorn split between two dragons who have not moved against each other since.
 
@@ -71,9 +71,9 @@ A sub-range of the Kharvorn Mountains, positioned north of the giant-infested ba
 
 ##### Nedgar's Castle
 
-Deep within the Egül Mountains stands the ruins of Nedgar's Castle—a collapsed fortress of impossible architecture. Nedgar was a reclusive hermit mage, famous throughout the realm for his paragon attunement to stone. He built a castle that defied the laws of physics and geology, with towers that twisted in impossible angles and walls that seemed to float without support.
+Deep within the Egül Mountains stands the ruins of Nedgar's Castle, a collapsed fortress of impossible architecture. Nedgar was a reclusive hermit mage, famous throughout the realm for his paragon attunement to stone. He built a castle that defied the laws of physics and geology, with towers that twisted in impossible angles and walls that seemed to float without support.
 
-When Nedgar died, the castle collapsed—as if his will alone had held the structure together. Now the ruins are inhabited by animated stone beings: golems, statues, and fragments of architecture that aimlessly walk the halls, endlessly performing tasks for a master who no longer exists.
+When Nedgar died, the castle collapsed, as if his will alone had held the structure together. Now the ruins are inhabited by animated stone beings: golems, statues, and fragments of architecture that aimlessly walk the halls, endlessly performing tasks for a master who no longer exists.
 
 The animated stone guardians will not permit anyone who lacks stone attunement to enter the ruins. Those who try are crushed by falling masonry or torn apart by stone hands. However, for those rare geomancers with stone attunement, the ruins are accessible—and within lie multiple earth-stones, crystals of concentrated geomantic power that Nedgar collected during his lifetime.
 
@@ -81,7 +81,7 @@ The animated stone guardians will not permit anyone who lacks stone attunement t
 
 Northwest of Ta Minn lies the Desert of One Million Shards—a vast expanse of shattered glass stretching as far as the eye can see. The desert's surface glitters under the sun, beautiful and deadly in equal measure. Walking across it is treacherous, as the sharp glass edges can slice through boots and flesh alike.
 
-At the center of the desert lies a massive crater containing a huge lake. In the middle of that lake rests Ulm—a colossal meteorite that struck in ancient times, creating both the crater and the lake. The impact also melted and scattered the surrounding rock into the endless field of glass shards that now defines the region.
+At the center of the desert lies a massive crater containing a huge lake. In the middle of that lake rests Ulm, a colossal meteorite that struck in ancient times, creating both the crater and the lake. The impact also melted and scattered the surrounding rock into the endless field of glass shards that now defines the region.
 
 ### Blue Shale Peaks
 
@@ -101,11 +101,11 @@ The Grey Mountains are mid-sized by Kharvorn standards—not as dramatic as the 
 
 #### The Mnurvlyon
 
-The Grey Mountains' most notable inhabitants are the **Mnurvlyon**—a people born of ancient unions between mountain giants and Kharvorn dwarves. They stand eight to ten feet tall, broader and more heavily built than either parent race, with the durability of both.
+The Grey Mountains' most notable inhabitants are the Mnurvlyon, a people born of ancient unions between mountain giants and Kharvorn dwarves. They stand eight to ten feet tall, broader and more heavily built than either parent race, with the durability of both.
 
 The Mnurvlyon live in scattered steadings throughout the Grey Mountains, neither fully accepted by giants nor dwarves. They are taciturn, isolationist, and deeply suspicious of outsiders. Their settlements are built into mountainsides, part giant hall and part dwarven hold, sized for their unusual frames.
 
-They mine, they forge, they keep to themselves. Trade with lowlanders is minimal and conducted at arm's length—literally, through window-slots in their steading walls. They have no interest in Hephakean politics, Myornan intrigues, or the broader conflicts of the world. They want only to be left alone.
+They mine, they forge, they keep to themselves. Trade with lowlanders is minimal and conducted at arm's length, literally, through window-slots in their steading walls. They have no interest in Hephakean politics, Myornan intrigues, or the broader conflicts of the world. They want only to be left alone.
 
 This wish is not always granted. Both Hephake and Myorna have attempted to bring the Mnurvlyon into their spheres of influence. Both have failed. The half-giant-dwarves are too few to be worth conquering and too stubborn to be worth negotiating with.
 
@@ -113,7 +113,7 @@ This wish is not always granted. Both Hephake and Myorna have attempted to bring
 
 The Grey Mountains are home to enormous cave bears—fourteen feet at the shoulder, territorial, and utterly unafraid of anything. The Mnurvlyon have reached an understanding with the bears over generations: certain valleys belong to the bears, certain valleys to the Mnurvlyon, and the boundaries are respected by both sides.
 
-Outsiders who wander into bear territory rarely survive long enough to understand their mistake. The bears are not malicious—they are simply apex predators who do not distinguish between a lost traveler and a meal.
+Outsiders who wander into bear territory rarely survive long enough to understand their mistake. The bears are not malicious, simply apex predators who do not distinguish between a lost traveler and a meal.
 
 #### The Howling
 

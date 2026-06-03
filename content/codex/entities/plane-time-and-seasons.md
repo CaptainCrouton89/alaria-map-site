@@ -11,7 +11,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The sun passes around the center strip of the sky every day, all year. Alaria has no axial tilt. The poles are cold because Bryn's band of warmth never nears them — not because of seasonal geometry, but because no prayer-coalition has ever held the sun that far from the equatorial belt for long.
+The sun passes around the center strip of the sky every day, all year. Alaria has no axial tilt. The poles are cold because Bryn's band of warmth never nears them. Seasonal geometry has nothing to do with it; no prayer-coalition has ever held the sun that far from the equatorial belt for long.
 
 Two moons — Auris and Nyxara — pass over at various times throughout their cycles. A third moon once existed but was lost; its absence is remembered in the name "Killing Moon," given to the catastrophic destabilization periods that occur every several thousand years.
 
@@ -21,19 +21,27 @@ Stars are viewports for the gods. Daemons can look down through them upon their 
 
 ### The calendar
 
-Moon cycles: Auris has an 11-day cycle that marks the week, beginning at new moon and reaching full moon mid-week. Nyxara has a 23-day cycle, meaning roughly once every year there is one double full moon (Brightnight) and one double new moon (Hollownight) — both important holidays.
+Moon cycles: Auris has an 11-day cycle that marks the week, beginning at new moon and reaching full moon mid-week. Nyxara has a 23-day cycle. Because 11 and 23 share no common factor, the two faces coincide only every 253 days, a little less than once a civil year: both full (Brightnight) or both new (Hollownight), the two falling about half a cycle apart. Both are important holidays.
 
 The civil year: 200 days, split into eight 25-day quarters. This is not physics. The 200-day year is the product of the Solar Accord, a political treaty among the major prayer-coalitions that partitioned Bryn's annual path into a standardized cycle. Before the Accord, seasons lasted as long as the prevailing coalition could hold the sun on a given trail — sometimes ninety days, sometimes forty, depending on the strength of the singers and whether their monasteries survived the season. The civil year begins on the date the Accord designated as new year. That date is a political convention, not an astronomical one; there are no solstices on a world with no axial tilt.
 
-The Great Cycle: when lunar alignments coincide with the calendar's new year, they signal the beginning of a new age. A full Great Cycle spans 25,300 years (~14,000 Earth years). Smaller ages occur every 11, 23, and 253 years when lunar alignments fall on significant dates.
+The Great Cycle: the slow drift of Aurus and Nydus toward and away from the Material boundary turns a wheel 25,300 years long (~14,000 Earth years), and the lunar alignments mark its key positions. When an alignment coincides with the calendar's new year, it signals the beginning of a new age. Smaller ages turn every 11, 23, and 253 years, when lunar alignments fall on significant dates.
 
-Great Cycle position: the wheel's dial is read from 0 to 25,300 and back down again — a cyclical position, not a running historical count. F indicates the ascending half of the Great Cycle; B indicates the descending half. At year 0, Hollownight falls on new year's day. At year 25,300, Brightnight falls on new year. Each marks the beginning of a new age.
+Great Cycle position: the wheel's dial is read from 0 to 25,300 and back down again — a cyclical position, not a running historical count. F indicates the ascending half of the Great Cycle; B indicates the descending half. At position 0, Hollownight falls on new year's day. At position 25,300, Brightnight falls on new year. Each marks the beginning of a new age. The dial is read, never used to date events — that work belongs to SD/BSD alone.
+
+### The eight quarters
+
+The Accord's year turns through eight named quarters, four warm and four cool, tracing Bryn's standardized path from the year's warm opening down into the cold and back up. The warm quarters are Kindling, Greenreach, Highsun, and Goldreap; the cool are Greysky, Lowlight, Deepcold, and Stillturn. Kindling opens the year as the warmth returns and planting begins. Highsun is the peak. Goldreap is the harvest, the warmth already ebbing out of it. Then Greysky brings the first cold as Bryn is drawn off the belt, Lowlight deepens it, Deepcold is the trough, and Stillturn is where the cold breaks and the sun starts back toward Kindling. The names describe the agreed civil season, not a guarantee. A coalition that defects can leave Highsun cold or hold Goldreap warm a quarter past its turn.
+
+Four solar holidays fall on the cardinal turns. Newlight is the first day of Kindling and of the year — the warmth's return, which is also the Accord's new year. The Crown is the heart of Highsun, midsummer, the warmth at its strongest. The Last Sheaf closes Goldreap in its final week, the harvest in. The Hearthhold sits at the heart of Deepcold, midwinter, and is kept hardest of the four: cheer held against the cold and the dark, lamps in every window, the year at its lowest and the singers straining to turn Bryn back. Farmers and commonfolk keep these; the magic-centered cultures keep the lunar holidays instead, though most households mark both.
+
+A full civil date names the weekday, the day of the quarter, and the year — Marketday, the 14th of Highsun, 3376 SD. The week runs on Auris and the quarter runs on the sun, so the two cycles drift against each other and a given weekday falls two or three times within one quarter; the day-count fixes which. The Time Puzzle is dated to Fireday, the 9th of Lowlight, 312 SD, and the war that closed the Dark Ages is recorded ending on Patrons' Day, the 2nd of Stillturn, 231 SD. The campaign present is conventionally reckoned at the turn into Greenreach, 3376 SD.
 
 ### Reckoning and eras
 
-SD/BSD is the calendar for history. "Seventh Dawn" marks the current age; the present is 3376 SD. The reckoning counts forward from the World Fire (approximately 10 BSD), which functions as the epoch. BSD counts backward from that same threshold.
+SD/BSD is the calendar for history. "Seventh Dawn" marks the current age; the present is 3376 SD. The reckoning counts forward from calendar zero (0 SD), the epoch the surviving calendars fixed just after the World Fire of approximately 10 BSD. BSD counts backward from that same threshold.
 
-The Great Cycle is not a historical timeline. It marks where the world currently sits on the 25,300-year wheel of lunar drift and alignment — a cyclical position, not a running year-count. Observatories use F/B notation to record that position (F for the ascending half of the wheel, B for the descending), but this describes a place on the dial, not a point in history. Two eras separated by 25,300 years would share the same Great Cycle position. Dates are always SD/BSD.
+The Great Cycle is not a historical timeline. It marks where the world currently sits on the 25,300-year wheel of Aurus and Nydus's drift, and the lunar alignment that drift produces — a cyclical position, not a running year-count. Observatories use F/B notation to record that position (F for the ascending half of the wheel, B for the descending), but this describes a place on the dial, not a point in history. Two eras separated by 25,300 years would share the same Great Cycle position. Dates are always SD/BSD.
 
 ### Seasons and the Accord
 
@@ -51,7 +59,7 @@ The moons aligning represents the cycle of magic; the calendar's turn represents
 
 Lunar cultures: moon elves and other peoples who center life around magic generally celebrate lunar holidays — every 253 days on Brightnight, the monthly rhythms of Nyxara, and the weekly tide of Auris.
 
-Solar cultures: seasons are more celebrated by commonfolk, less attached to magic and more connected to nature. Major celebrations fall on the first day of spring, the Accord's new year, the last week of fall, and the opposite seasonal turn. Winter celebrations are especially important — cheerfulness held against the cold and dark.
+Solar cultures: seasons are more celebrated by commonfolk, less attached to magic and more connected to nature. The four cardinal celebrations are Newlight at the year's warm opening, the Crown at midsummer, the Last Sheaf at harvest's close, and the Hearthhold at midwinter. The Hearthhold is kept hardest — cheer held against the cold and dark.
 
 Both sets of holidays are observed by most cultures, though the emphasis varies.
 

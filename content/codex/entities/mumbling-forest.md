@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L2147"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
 ---
-The Mumbling Forest dominates the southwestern coast of Tythikerys, a dense woodland that stretches from Bluesong Bay to the southern reaches of the region. It is named for the constant low sound that pervades it—not quite voices, not quite wind, but something in between that never stops.
+The Mumbling Forest dominates the southwestern coast of Tythikerys, a dense woodland that stretches from Bluesong Bay to the southern reaches of the region. It is named for the constant low sound that pervades it, something between voices and wind that never stops.
 
 #### Geography
 
@@ -20,9 +20,9 @@ The coast where the forest meets Bluesong Bay is rocky and difficult to navigate
 
 #### The Sound
 
-The "mumbling" that gives the forest its name is audible from the forest's edge and grows louder within. It sounds like distant conversation—multiple voices speaking simultaneously in no language anyone has identified. The sound comes from no particular direction; it simply exists throughout the forest, part of the ambient environment.
+The "mumbling" that gives the forest its name is audible from the forest's edge and grows louder within. It sounds like distant conversation, multiple voices speaking simultaneously in no language anyone has identified. The sound comes from no particular direction; it simply exists throughout the forest, part of the ambient environment.
 
-Some who have spent time in the forest report that the mumbling occasionally seems to form words—phrases in their native tongue, names, warnings. Whether this is a property of the sound or a product of minds trying to find meaning in noise is unknown.
+Some who have spent time in the forest report that the mumbling occasionally seems to form words: phrases in their native tongue, names, warnings. Whether this is a property of the sound or a product of minds trying to find meaning in noise is unknown.
 
 The sound does not cease at night. Some say it grows louder.
 
@@ -41,7 +41,7 @@ Whatever lives in the Mumbling Forest has never been clearly documented.
 - Spirits or ghosts from some ancient tragedy
 - A form of plant life that has achieved collective consciousness
 - Something from another plane, bleeding through
-- Nothing at all—the forest is simply strange, and strangeness is its own category
+- Nothing at all: the forest is simply strange, and strangeness is its own category
 
 #### Relationship with the Tytheri
 
@@ -49,7 +49,7 @@ The Tytheri blood orcs and the Mumbling Forest have an unspoken arrangement: the
 
 This arrangement has held for as long as anyone remembers. Orc camps stay well clear of the forest's edge. Hunting parties that pursue prey into the trees turn back. Even Ichor-maddened raiders, desperate for violence, find reasons to seek it elsewhere.
 
-Some scholars theorize the forest's presence is why the Tytheri never developed maritime ambitions—the coast is blocked by something they instinctively avoid.
+The forest's presence may be why the Tytheri never developed maritime ambitions; the coast is blocked by something they instinctively avoid.
 
 #### Approach
 

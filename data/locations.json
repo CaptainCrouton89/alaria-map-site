@@ -31,6 +31,7 @@
       "1806",
       "manual-mphbsu90-fz7jf",
       "1754",
+      "person-istor-xxvi",
       "race-elf-dark-elves",
       "3151",
       "1395",
@@ -41,11 +42,13 @@
       "manual-mphbt2hf-hd923",
       "1544",
       "2259",
+      "person-lamenrae",
       "2443",
       "1390",
       "1988",
       "2430",
       "magic-faesong",
+      "person-taoinor",
       "race-dwarf-grendel",
       "race-human-vaelish",
       "1729",
@@ -59,6 +62,7 @@
       "race-halfling-wispen",
       "race-kendor",
       "1951",
+      "411",
       "race-giant",
       "race-human",
       "race-satyr",
@@ -99,6 +103,7 @@
       "1036",
       "390",
       "1311",
+      "nagayeshi",
       "race-mnurvlyon",
       "2453",
       "2582",
@@ -153,9 +158,11 @@
       "2460",
       "2455",
       "4165",
+      "event-dragon-rider-era",
       "event-solar-accord",
       "creature-nagatayora",
       "1036",
+      "nagayeshi",
       "2453",
       "396",
       "2582",
@@ -165,6 +172,7 @@
       "895",
       "477",
       "creature-dragons",
+      "creature-eyatora",
       "529",
       "720",
       "816",
@@ -175,7 +183,8 @@
       "race-dwarf-uline",
       "864",
       "884",
-      "person-bryn"
+      "person-bryn",
+      "race-naga"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -220,13 +229,13 @@
       "1359",
       "1376",
       "manual-pherezi-imnuttut",
+      "shroud-isles",
       "1352",
       "1248",
       "1357",
       "1386",
       "1371",
       "1373",
-      "manual-mpifts0q-rkqps",
       "1375",
       "1382",
       "1381",
@@ -235,6 +244,7 @@
       "manual-mpghf87j-5ry42",
       "manual-mpghfkq4-res9f",
       "1377",
+      "person-gelnor",
       "race-tuktuk",
       "race-giant",
       "1384"
@@ -244,7 +254,7 @@
     "atmosphere": "civilization",
     "blurb": "The Northern Isles are a broad, fragmented archipelago occupying the northeastern waters of Clueanda, scattered across the Ocean of Azeros.",
     "parentName": "Clueanda",
-    "containsCount": 22,
+    "containsCount": 23,
     "borders": [
       {
         "id": "1214",
@@ -294,6 +304,7 @@
       "3274",
       "2494",
       "person-shara-bolasi",
+      "vortek-river",
       "4369",
       "732",
       "2561",
@@ -311,10 +322,12 @@
       "430",
       "1388",
       "388",
+      "creature-vexlings",
       "3037",
       "2881",
       "2890",
       "2857",
+      "person-belmonte",
       "3275",
       "3087",
       "race-dwarf-drasnian",
@@ -322,10 +335,12 @@
       "race-neferati",
       "race-sharabha",
       "race-ulvsjael",
+      "3189",
       "2701",
       "2771",
       "2555",
       "720",
+      "person-veramus",
       "2974",
       "3341",
       "2620",
@@ -442,6 +457,7 @@
       "race-craven",
       "race-nyolci",
       "3604",
+      "411",
       "creature-titan",
       "3761",
       "race-giant",
@@ -608,13 +624,16 @@
       "2442",
       "2358",
       "2388",
+      "person-istor-xxvi",
       "2379",
       "2395",
       "2390",
       "2410",
       "1401",
+      "person-lamenrae",
       "2443",
       "2430",
+      "person-taoinor",
       "creature-ghosts",
       "creature-wights",
       "2420"
@@ -629,7 +648,7 @@
     "atmosphere": "ancient",
     "blurb": "The Crimson Coast earns its name honestly.",
     "parentName": "Aboyinzu",
-    "containsCount": 6
+    "containsCount": 8
   },
   {
     "id": "1913",
@@ -1325,7 +1344,7 @@
     "atmosphere": "trade",
     "blurb": "The temperate coastal belt of trade city-states ringing the Middle Sea south of the Kharvorn Mountains, the civilized core of Clueanda, united by no crown.",
     "parentName": "Clueanda",
-    "containsCount": 18
+    "containsCount": 19
   },
   {
     "id": "manual-mph53on6-mirms",
@@ -1438,6 +1457,7 @@
       "creature-shananae",
       "1339",
       "plane-material-plane",
+      "event-the-grinding",
       "1340",
       "creature-atowatowa",
       "1343",
@@ -1466,12 +1486,34 @@
     ],
     "zoomLevel": 1,
     "parentId": null,
-    "relatedIds": [],
+    "relatedIds": [
+      "3014",
+      "creature-nagatayora",
+      "749",
+      "event-dragon-rider-era",
+      "creature-hykravones",
+      "390",
+      "nagayeshi",
+      "creature-dragons",
+      "race-dwarf-verucan",
+      "411",
+      "creature-titan",
+      "747",
+      "race-naga"
+    ],
     "loreFile": "Clueanda.md",
     "tags": [
       "poi"
     ],
-    "atmosphere": "nature"
+    "atmosphere": "nature",
+    "blurb": "A standing memory-storm northeast of the Emerald Coast, the dragon-father's last breath made weather; it scrubs the mind of any who enter, save Naga.",
+    "containsCount": 1,
+    "borders": [
+      {
+        "id": "3014",
+        "name": "Emerald Coast"
+      }
+    ]
   },
   {
     "id": "3275",
@@ -1489,12 +1531,20 @@
       "3168",
       "3305",
       "3340",
+      "faction-the-moon-road",
       "3290",
       "1520",
       "3158",
+      "manual-mphcqwrl-01eaj",
+      "3306",
+      "creature-agtakkeri",
+      "creature-vexlings",
       "3337",
       "3189",
       "3178",
+      "person-corin",
+      "person-vasco",
+      "race-dwarf",
       "race-human",
       "3299",
       "3278"
@@ -1527,7 +1577,8 @@
       "1355",
       "1354",
       "1358",
-      "manual-mpghf87j-5ry42"
+      "manual-mpghf87j-5ry42",
+      "person-gelnor"
     ],
     "tags": [
       "region"
@@ -1777,28 +1828,32 @@
     "relatedIds": [
       "2453",
       "race-dwarf-drasnian",
+      "faction-iron-of-the-eternal-march",
       "manual-mphcf46l-3ua62",
       "3196",
       "2912",
       "3168",
       "3166",
       "3305",
+      "faction-the-moon-road",
       "3274",
+      "event-the-grinding",
       "3288",
       "manual-mphcqwrl-01eaj",
-      "3306",
+      "creature-vexlings",
+      "daemon-krondeum",
       "3275",
       "3087",
       "3337",
-      "4145",
       "3189",
+      "person-veramus",
       "3226",
       "2974",
       "3178",
       "3206",
       "2921",
-      "race-goblin",
       "3229",
+      "race-dwarf",
       "3231"
     ],
     "loreFile": "Rimihuica.md",
@@ -1829,11 +1884,16 @@
       "race-human-shyona",
       "race-human-shontobi",
       "184",
+      "person-masakane-higumori",
+      "person-norikane-sazagawa",
       "358",
       "60",
+      "faction-goldwatch",
       "340",
       "manual-mph50w4k-9845v",
+      "race-halfling-nameless",
       "381",
+      "event-the-grinding",
       "244",
       "manual-mph5jxin-tpcsu",
       "373",
@@ -1843,6 +1903,7 @@
       "manual-mph4qcyn-cvaug",
       "46",
       "178",
+      "203",
       "manual-mph5h5t3-531bf",
       "manual-mph5i5e4-yr0em",
       "manual-mph5hauq-0ts2e",
@@ -1855,7 +1916,8 @@
       "manual-mph5hyqq-objlt",
       "manual-mph5j5tz-sg8vd",
       "manual-mph5ju5m-54vgn",
-      "race-koren-korel"
+      "race-koren-korel",
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -1892,9 +1954,12 @@
       "2400",
       "2378",
       "2442",
+      "person-istor-xxvi",
       "2379",
+      "person-lamenrae",
       "2443",
       "2430",
+      "person-taoinor",
       "2420",
       "race-elf-istori",
       "race-human"
@@ -2547,21 +2612,30 @@
       "race-naga-megelren",
       "race-kendor-pelaendor",
       "person-mariseni",
+      "398",
+      "3178",
       "era-reign-of-dragons",
       "679",
       "585",
       "764",
+      "2455",
       "event-dragon-rider-era",
       "creature-hykravones",
       "creature-nagatayora",
       "404",
+      "3725",
       "390",
       "416",
+      "nagayeshi",
       "plane-malstaris",
       "421",
+      "719",
       "creature-dragons",
+      "creature-eyatora",
       "556",
       "482",
+      "3206",
+      "magic-kethic",
       "412",
       "creature-titan",
       "race-dwarf",
@@ -2778,15 +2852,22 @@
       "1",
       "368",
       "race-human-temptari",
+      "person-maurolin",
       "3",
+      "faction-solum-impervium",
       "334",
+      "faction-the-unburied",
       "23",
       "189",
       "298",
+      "3048",
       "165",
       "268",
+      "person-doremin",
       "322",
       "71",
+      "person-tamari",
+      "daemon-azak",
       "92"
     ],
     "loreFile": "Ve.md",
@@ -2960,8 +3041,14 @@
     "relatedIds": [
       "1",
       "race-halfling-fieri",
+      "event-three-repulsions",
+      "person-hollin-emberling",
       "53",
+      "72",
+      "faction-last-lamp",
+      "person-toben-ashling",
       "manual-mph5fmss-zyrmy",
+      "creature-suki-jungle",
       "366",
       "3066",
       "race-gnome-bloodlings",
@@ -2969,7 +3056,11 @@
       "manual-mph4urf8-c3ise",
       "254",
       "2453",
+      "274",
+      "303",
+      "ruins-candelum",
       "manual-mph4tcjt-4wsqf",
+      "person-orenna",
       "race-dwarf-aureum",
       "manual-mph5fi43-tkms5",
       "race-gnome"
@@ -2984,7 +3075,7 @@
     "atmosphere": "civilization",
     "blurb": "A hungry empire sprawling across southwestern Ve—its jungles stretch from the Blood Mountains to the Gulf of Chimea, its mines burrow into conquered Aureum territory,…",
     "parentName": "Ve",
-    "containsCount": 26
+    "containsCount": 27
   },
   {
     "id": "1864",
@@ -3008,11 +3099,14 @@
       "1520",
       "1978",
       "1754",
+      "390",
       "1962",
       "2236",
       "1388",
       "1988",
-      "1944"
+      "1944",
+      "creature-shades",
+      "411"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -3300,6 +3394,7 @@
       "373",
       "130",
       "193",
+      "person-korath",
       "race-koren"
     ],
     "loreFile": "Ve.md",
@@ -3354,6 +3449,7 @@
       "3056",
       "558",
       "3126",
+      "vortek-river",
       "650",
       "680",
       "390",
@@ -3384,7 +3480,7 @@
     "atmosphere": "nature",
     "blurb": "A stateless jungle coastline along Rimihuica's eastern seaboard—no overarching authority, just scattered harbor settlements, sub-nations, and slowly building catastrophe.",
     "parentName": "Rimihuica",
-    "containsCount": 5,
+    "containsCount": 6,
     "borders": [
       {
         "id": "2870",
@@ -3538,17 +3634,24 @@
       "2921",
       "3151",
       "race-elf-gamori",
+      "person-veramus",
+      "3206",
+      "faction-iron-of-the-eternal-march",
       "3196",
       "3168",
       "3200",
       "3163",
       "3167",
+      "3305",
       "4165",
       "3288",
       "manual-mphcqwrl-01eaj",
       "race-lizardfolk-ixvasyla",
       "2453",
+      "creature-vexlings",
       "3275",
+      "3189",
+      "person-drauso",
       "race-human"
     ],
     "loreFile": "Rimihuica.md",
@@ -3833,6 +3936,7 @@
       "manual-mphaxqlz-w1u3a",
       "manual-mphqokew-o6eev",
       "3229",
+      "411",
       "manual-mphbs83f-3dmnk",
       "3231",
       "race-human-kuru",
@@ -3900,11 +4004,14 @@
       "601",
       "717",
       "559",
+      "786",
       "2453",
       "manual-mphbt2hf-hd923",
       "630",
       "398",
-      "manual-mpjrcf71-gtrw6"
+      "person-renato",
+      "manual-mpjrcf71-gtrw6",
+      "person-edric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -3912,7 +4019,7 @@
       "geography"
     ],
     "atmosphere": "civilization",
-    "blurb": "Ofrenia is the dominant island of the inner Middle Sea(/codex/390), positioned at the crossing of north–south sea(/codex/manual-mphbt2hf-hd923) lanes where the Clueandan coast gives way to the open passage toward Rimihuica(/codex/2453)…",
+    "blurb": "The largest island of the inner Middle Sea, a strategic crossing held by three sibling-kingdoms locked in a barely-managed feud.",
     "parentName": "Middle Sea",
     "containsCount": 7
   },
@@ -4212,11 +4319,15 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "person-halwen",
+      "person-orwin",
+      "person-pelwin",
       "daemon-talressses",
       "race-halfling-shailin",
       "3",
       "329",
       "108",
+      "faction-the-concordance",
       "179",
       "144",
       "317",
@@ -4415,7 +4526,24 @@
     "relatedIds": [
       "3275",
       "3276",
-      "3305"
+      "3305",
+      "3178",
+      "person-torven-vorekan",
+      "person-sigvar-dnyhak",
+      "event-the-refusal",
+      "3306",
+      "creature-agtakkeri",
+      "person-kishuntar",
+      "person-ixchanil",
+      "person-tamboxal",
+      "race-dwarf-drasnian",
+      "person-achtomo",
+      "2974",
+      "manual-mphem9k4-osaxc",
+      "manual-mphdwy3e-jc5a0",
+      "manual-mphe45uj-12xw4",
+      "2977",
+      "person-helmo"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -4424,7 +4552,7 @@
       "shacklands"
     ],
     "atmosphere": "civilization",
-    "blurb": "See Pesalolo for geographic details and Tamadrez (state) for political details.",
+    "blurb": "The nominally independent north of Pesalolo: a scatter of creole harbor villages that buy their freedom from Gorath in coin, in silence, and in bodies.",
     "parentName": "Pesalolo",
     "containsCount": 73,
     "borders": [
@@ -5905,9 +6033,12 @@
       "event-the-camaran-blight",
       "race-human",
       "905",
+      "person-renaro-tovellin",
       "390",
       "manual-mph6njar-srqmu",
       "magic-deoric",
+      "681",
+      "race-gnome-ohblex",
       "412",
       "411",
       "494"
@@ -6443,6 +6574,7 @@
       "1",
       "race-dwarf-dern",
       "race-dwarf-hestrube",
+      "event-the-grinding",
       "298",
       "18",
       "338",
@@ -6703,9 +6835,11 @@
       "race-gnome-echi",
       "faction-aldriktch-trade-alliance",
       "event-the-camaran-blight",
+      "463",
       "497",
       "person-doravin-selmari",
       "390",
+      "457",
       "477",
       "magic-deoric"
     ],
@@ -6826,7 +6960,7 @@
     "atmosphere": "civilization",
     "blurb": "A state in the northwest tip of the Dragon's Spine Mountains, populated by the Nydor.",
     "parentName": "Dragon's Spine Coast",
-    "containsCount": 6,
+    "containsCount": 5,
     "borders": [
       {
         "id": "1988",
@@ -7012,8 +7146,11 @@
       "person-corwen-hostling",
       "390",
       "race-halfling",
+      "daemon-foedros",
+      "race-elf-sivakr",
       "race-goblin",
       "manual-mphr471a-m34fc",
+      "manual-mph6neco-ualoy",
       "race-dwarf",
       "884"
     ],
@@ -8101,10 +8238,10 @@
     "parentId": "3014",
     "relatedIds": [
       "3014",
+      "race-halfling-dengar",
       "3106",
       "3093",
-      "3087",
-      "race-halfling-dengar"
+      "3087"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -8734,14 +8871,22 @@
     "parentId": "2368",
     "relatedIds": [
       "2368",
+      "person-lamenrae",
       "race-elf-istori",
       "2201",
+      "era-lost-ages",
       "2442",
       "2358",
+      "person-istor-xxvi",
       "2379",
       "2395",
       "2390",
-      "2430"
+      "1401",
+      "daemon-ystaeria",
+      "2430",
+      "person-aelrein",
+      "person-taoinor",
+      "person-amrela"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -8751,7 +8896,7 @@
       "istori"
     ],
     "atmosphere": "civilization",
-    "blurb": "The eastern successor to the unified Winter Elf kingdom, Istora is ruled by Queen Lamenrae—daughter of the murdered Istor XXVI and the first woman to…",
+    "blurb": "The eastern half of the broken Winter Elf kingdom, ruled by Queen Lamenrae, the first woman to claim the elven throne.",
     "parentName": "Crimson Coast",
     "containsCount": 8
   },
@@ -8806,6 +8951,7 @@
       "398",
       "396",
       "manual-mpjrcf71-gtrw6",
+      "person-edric",
       "race-human",
       "race-dwarf-drasnian",
       "633",
@@ -8818,11 +8964,13 @@
       "manual-mphcasqx-92khw",
       "manual-mph6f363-t2qv2",
       "manual-mphcalsb-yz07p",
+      "399",
       "manual-mphcbb5t-z0vm2",
       "manual-mph6ez5s-w2wfv",
       "manual-mphcahw3-0ox67",
       "manual-mphcaw66-zgnro",
       "631",
+      "person-renato",
       "manual-mphcbdlh-il5f7"
     ],
     "loreFile": "Clueanda.md",
@@ -8957,6 +9105,9 @@
       "race-gnome-ezuri",
       "race-elnir",
       "2912",
+      "3200",
+      "manual-mphcqwrl-01eaj",
+      "2921",
       "race-skaag"
     ],
     "loreFile": "Rimihuica.md",
@@ -9321,12 +9472,17 @@
     "relatedIds": [
       "179",
       "race-halfling-nameless",
+      "person-masakane-higumori",
+      "faction-goldwatch",
       "158",
+      "244",
+      "event-the-refusal",
       "race-halfling",
       "race-human-shontobi",
       "148",
       "322",
-      "338"
+      "338",
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -9392,13 +9548,17 @@
     "parentId": "2368",
     "relatedIds": [
       "2368",
+      "person-taoinor",
       "race-elf-istori",
+      "2420",
       "2378",
       "2442",
       "2382",
+      "person-istor-xxvi",
       "1401",
+      "daemon-ystaeria",
+      "person-lamenrae",
       "2443",
-      "2420",
       "race-human"
     ],
     "loreFile": "Aboyinzu.md",
@@ -9409,7 +9569,7 @@
       "istori"
     ],
     "atmosphere": "civilization",
-    "blurb": "The western remnant of the once-unified Winter Elf kingdom, Klevnaf claims legitimacy through Prince Taoinor—uncle to the murdered King Istor XXVI.",
+    "blurb": "The western remnant of the once-unified Winter Elf kingdom, claiming the throne through Prince Taoinor, uncle to the murdered King Istor XXVI.",
     "parentName": "Crimson Coast",
     "containsCount": 6
   },
@@ -9493,6 +9653,7 @@
       "wilderness-twaan-forests",
       "981",
       "person-hermelia",
+      "magic-aether",
       "race-goblin",
       "creature-twaan",
       "494",
@@ -9828,12 +9989,15 @@
       "race-faeja",
       "race-goblin-darkling",
       "manual-mphbsmjd-2lbk0",
+      "manual-mphcqwrl-01eaj",
       "magic-languages",
       "3254",
       "creature-gillykin",
       "3189",
+      "person-veramus",
       "3255",
       "faction-druids",
+      "2921",
       "manual-mphqoxh1-jg43e",
       "manual-mphqpe6f-25e2g",
       "race-human",
@@ -10130,7 +10294,14 @@
     "zoomLevel": 3,
     "parentId": "1",
     "relatedIds": [
-      "1"
+      "1",
+      "faction-goldwatch",
+      "race-halfling-nameless",
+      "47",
+      "343",
+      "203",
+      "338",
+      "race-krell"
     ],
     "loreFile": "Ve.md",
     "tags": [
@@ -10138,7 +10309,7 @@
       "geography"
     ],
     "atmosphere": "water",
-    "blurb": "A sound in Ve.",
+    "blurb": "The brackish tidal sound where Shyona's farmland gives out and the Krell jungle begins; the Tazumori Line holds its northern shore.",
     "parentName": "Ve",
     "containsCount": 2
   },
@@ -10460,10 +10631,27 @@
     "zoomLevel": 3,
     "parentId": "3178",
     "relatedIds": [
-      "3178"
+      "3178",
+      "creature-vexlings",
+      "3196",
+      "faction-the-moon-road",
+      "3274",
+      "3288",
+      "race-dwarf-drasnian",
+      "3189",
+      "person-veramus",
+      "person-drauso",
+      "person-olivar"
     ],
-    "tags": [],
+    "tags": [
+      "jungle",
+      "gorath",
+      "shacklands",
+      "dangerous",
+      "frontier"
+    ],
     "atmosphere": "nature",
+    "blurb": "The jungle on Gorath's western edge that the empire has never held, home to the Vexlings and the one reliable road off the continent.",
     "parentName": "Gorath"
   },
   {
@@ -10749,6 +10937,35 @@
         "name": "Plains of Oblivion"
       }
     ]
+  },
+  {
+    "id": "nagayeshi",
+    "name": "Nagayeshi",
+    "type": "wilderness",
+    "coordinates": [
+      309,
+      220
+    ],
+    "zoomLevel": 3,
+    "parentId": "719",
+    "relatedIds": [
+      "719",
+      "creature-eyatora",
+      "era-reign-of-dragons",
+      "event-dragon-rider-era",
+      "creature-nagatayora",
+      "390",
+      "421",
+      "creature-dragons",
+      "race-naga-nagashi",
+      "411",
+      "race-naga"
+    ],
+    "loreFile": "Clueanda.md",
+    "tags": [],
+    "atmosphere": "nature",
+    "blurb": "The volcanic island at the eye of Oblivion, hatch-ground of dragons since before the Naga; only the keeper Eyatora decides who leaves with one.",
+    "parentName": "Oblivion"
   },
   {
     "id": "2921",
@@ -11275,6 +11492,7 @@
       "creature-pfustias",
       "person-phendexelas-the-beautiful",
       "race-halfling-dengar",
+      "3056",
       "2985",
       "2968",
       "3093",
@@ -11295,6 +11513,10 @@
       {
         "id": "2974",
         "name": "Trømgar"
+      },
+      {
+        "id": "3056",
+        "name": "Gulf of Tears"
       }
     ]
   },
@@ -12315,10 +12537,10 @@
       "4165",
       "race-human-bledreon",
       "race-human-drachma",
+      "2573",
       "4318",
       "2460",
       "4166",
-      "2573",
       "4209",
       "4294",
       "2455",
@@ -12595,9 +12817,18 @@
     "relatedIds": [
       "3275",
       "3168",
+      "3340",
+      "faction-the-moon-road",
+      "1520",
+      "3158",
+      "3306",
+      "creature-agtakkeri",
       "race-dwarf-drasnian",
       "3189",
-      "3178"
+      "3178",
+      "person-corin",
+      "person-vasco",
+      "race-dwarf"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -12606,7 +12837,7 @@
       "shacklands"
     ],
     "atmosphere": "water",
-    "blurb": "See Pesalolo for full details.",
+    "blurb": "The occupied southern shore of Pesalolo, where Gorath has run its port-to-port slave-extraction circuit for three centuries.",
     "parentName": "Pesalolo"
   },
   {
@@ -12936,9 +13167,11 @@
       "720",
       "398",
       "630",
+      "person-renato",
       "race-human",
       "786",
-      "791"
+      "399",
+      "person-edric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -12969,16 +13202,19 @@
     "parentId": "2368",
     "relatedIds": [
       "2368",
+      "person-halvard",
       "race-human",
       "2400",
-      "2439",
       "2440",
+      "2441",
       "2406",
+      "2378",
       "2380",
-      "2388",
+      "brattholt",
       "2410",
       "2430",
       "2381",
+      "creature-wights",
       "2420"
     ],
     "loreFile": "Aboyinzu.md",
@@ -12988,7 +13224,7 @@
       "human"
     ],
     "atmosphere": "civilization",
-    "blurb": "The largest state on the Crimson Coast by territory, Tangiern is a human kingdom that has carved civilization from the vast Fragenstor Mielthøn forest over…",
+    "blurb": "A human kingdom of the Void coast, jarl-ruled and forest-backed, whose people give their dead to the open ocean and never to the ground.",
     "parentName": "Crimson Coast",
     "containsCount": 12
   },
@@ -13624,6 +13860,7 @@
       "720",
       "630",
       "manual-mpjrcf71-gtrw6",
+      "person-alisandra-the-merciful",
       "race-human",
       "837",
       "555",
@@ -13634,7 +13871,8 @@
       "840",
       "830",
       "722",
-      "838"
+      "838",
+      "person-edric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -13731,15 +13969,24 @@
       "3087",
       "3014",
       "race-dwarf-stromgodden",
+      "3178",
       "3103",
       "2985",
       "2968",
       "3102",
+      "person-grondar-kaldmar",
+      "person-brynja-vornmar",
+      "3305",
+      "faction-the-moon-road",
+      "person-sigvar-dnyhak",
+      "manual-mphcqwrl-01eaj",
       "race-lizardfolk",
       "race-lizardfolk-ixvasyla",
       "453",
+      "daemon-gromnuul",
       "race-dwarf-drasnian",
-      "3178",
+      "3337",
+      "person-veramus",
       "2977"
     ],
     "loreFile": "Rimihuica.md",
@@ -13963,9 +14210,11 @@
       "faction-aldriktch-trade-alliance",
       "event-aldriktch-founding",
       "race-dwarf-uline",
+      "person-drazvik-strugmar",
       "390",
       "477",
-      "race-dwarf"
+      "race-dwarf",
+      "884"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -14296,11 +14545,18 @@
       "9000",
       "faction-aldriktch-trade-alliance",
       "person-drazvik-strugmar",
+      "864",
       "event-aldriktch-founding",
       "race-dwarblin",
       "463",
       "390",
-      "race-gnome-goshwen"
+      "388",
+      "460",
+      "race-gnome-goshwen",
+      "887",
+      "710",
+      "race-dwarf-uline",
+      "race-dwarf"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -15357,10 +15613,14 @@
       "3178",
       "race-human",
       "race-skaag",
+      "faction-iron-of-the-eternal-march",
       "3168",
       "3259",
       "3151",
-      "3337"
+      "3337",
+      "person-esmeraz",
+      "person-veramus",
+      "person-ozimar"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -16820,10 +17080,28 @@
     "zoomLevel": 4,
     "parentId": "71",
     "relatedIds": [
-      "71"
+      "71",
+      "race-halfling-fieri",
+      "event-three-repulsions",
+      "person-hollin-emberling",
+      "53",
+      "manual-mph5fmss-zyrmy",
+      "3066",
+      "race-gnome-bloodlings",
+      "254",
+      "2453",
+      "274",
+      "303",
+      "race-dwarf-aureum"
     ],
-    "tags": [],
+    "tags": [
+      "capital",
+      "city",
+      "chimea",
+      "fieri"
+    ],
     "atmosphere": "civilization",
+    "blurb": "The Fieri empire's marble capital on the southern plains, built above ground to be seen: a display city run by a people who would rather be underground.",
     "parentName": "Chimea"
   },
   {
@@ -16956,10 +17234,16 @@
     "zoomLevel": 4,
     "parentId": "1311",
     "relatedIds": [
-      "1311"
+      "1311",
+      "race-velthari",
+      "453",
+      "1343",
+      "race-elf-starborn",
+      "creature-titan"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "A walled watch-tower town in the Nysanna foothills, home of the Velthari star-accountants; outsiders know it as the City of Stars.",
     "parentName": "Northlands"
   },
   {
@@ -17735,11 +18019,21 @@
       "3259",
       "4165",
       "390",
+      "manual-mphcqwrl-01eaj",
+      "person-belmonte",
       "3275",
       "race-dwarf-drasnian",
       "3337",
       "3189",
+      "person-esmeraz",
+      "person-veramus",
       "3178",
+      "3206",
+      "2921",
+      "person-drauso",
+      "person-lazaro",
+      "person-idaro",
+      "person-nuvia",
       "race-human"
     ],
     "loreFile": "Rimihuica.md",
@@ -18263,7 +18557,7 @@
     "parentId": "3087",
     "relatedIds": [
       "3087",
-      "magic-languages",
+      "3098",
       "race-halfling-dengar"
     ],
     "loreFile": "Rimihuica.md",
@@ -18846,6 +19140,7 @@
       "1579",
       "race-elf-kryaaji",
       "1590",
+      "faction-order-of-bryn",
       "1722",
       "1720",
       "race-goblin-aciabro",
@@ -19417,8 +19712,7 @@
       "2443",
       "2406",
       "2368",
-      "2380",
-      "race-human"
+      "2380"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -19958,6 +20252,7 @@
       "race-human",
       "109",
       "104",
+      "faction-goldwatch",
       "158",
       "373",
       "255",
@@ -20011,6 +20306,7 @@
       "108",
       "109",
       "104",
+      "faction-goldwatch",
       "373",
       "255",
       "203",
@@ -20814,6 +21110,7 @@
       "108",
       "109",
       "87",
+      "faction-goldwatch",
       "241",
       "158",
       "203",
@@ -21090,6 +21387,7 @@
       "creature-wind-singers",
       "131",
       "606",
+      "person-korath",
       "race-giant",
       "race-koren-korel"
     ],
@@ -22620,7 +22918,19 @@
     "parentId": "2974",
     "relatedIds": [
       "2974",
-      "race-dwarf-stromgodden"
+      "race-dwarf-stromgodden",
+      "person-grondar-kaldmar",
+      "person-brynja-vornmar",
+      "faction-the-moon-road",
+      "person-sigvar-dnyhak",
+      "manual-mphcqwrl-01eaj",
+      "race-lizardfolk-ixvasyla",
+      "daemon-gromnuul",
+      "race-dwarf-drasnian",
+      "3337",
+      "person-veramus",
+      "3178",
+      "2921"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
@@ -24018,15 +24328,17 @@
       "322",
       "daemon-talressses",
       "race-halfling-shailin",
+      "faction-the-concordance",
       "144",
       "327",
       "71",
+      "person-halwen",
       "338"
     ],
     "loreFile": "Ve.md",
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "Sestros's whitewashed capital on Nuin Bay—royal palace, primary temple to Talresses, and the continent's foremost market for Sestran silk.",
+    "blurb": "Sestros's whitewashed capital on Nuin Bay: palace-temple of the Spoken Throne, archive of the prophecy-journals, and the foremost market for Sestran silk.",
     "parentName": "Sestros"
   },
   {
@@ -24274,7 +24586,12 @@
       "person-king-samaryn",
       "race-elf-sivakr",
       "event-sivakr-emergence",
-      "715"
+      "713",
+      "715",
+      "711",
+      "daemon-xalvaakr",
+      "manual-mphr471a-m34fc",
+      "manual-mph6neco-ualoy"
     ],
     "loreFile": "Clueanda.md",
     "tags": [
@@ -24335,15 +24652,18 @@
     "parentId": "3178",
     "relatedIds": [
       "3178",
-      "manual-mphcqwrl-01eaj"
+      "manual-mphcqwrl-01eaj",
+      "creature-vexlings"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
       "river",
-      "geography"
+      "gorath",
+      "shacklands",
+      "frontier"
     ],
     "atmosphere": "water",
-    "blurb": "A river in the Moon Wilds, Gorath.",
+    "blurb": "The river that marks the edge of the jungle nobody holds: Gorath's defensible western line against the Moon Wilds, and the limit of the empire's reach.",
     "parentName": "Gorath"
   },
   {
@@ -24723,6 +25043,7 @@
     "parentId": "3087",
     "relatedIds": [
       "3087",
+      "creature-pfustias",
       "3086",
       "race-halfling-dengar"
     ],
@@ -24806,7 +25127,8 @@
     "parentId": "630",
     "relatedIds": [
       "630",
-      "race-human"
+      "race-human",
+      "person-edric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -24851,6 +25173,7 @@
       "creature-ice-wyrms",
       "creature-the-cold-that-hungers",
       "2332",
+      "era-modern-era",
       "manual-mph5o478-ilww3",
       "453",
       "creature-dragons",
@@ -25100,6 +25423,7 @@
       "71",
       "315",
       "race-lizardfolk-ixmeglyakuk",
+      "event-three-repulsions",
       "282",
       "114",
       "72",
@@ -25107,6 +25431,7 @@
       "96",
       "303",
       "creature-dragons",
+      "manual-mph4tcjt-4wsqf",
       "338",
       "61",
       "493"
@@ -25311,15 +25636,23 @@
     "zoomLevel": 4,
     "parentId": "3178",
     "relatedIds": [
-      "3178"
+      "3178",
+      "3196",
+      "3274",
+      "manual-mphcqwrl-01eaj",
+      "3189",
+      "person-drauso"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
       "hills",
-      "geography"
+      "gorath",
+      "shacklands",
+      "alchemy",
+      "frontier"
     ],
     "atmosphere": "nature",
-    "blurb": "Hills in Gorath.",
+    "blurb": "The toxic hill country on Gorath's western threshold, where alchemists harvest venoms worth dying for and the settled empire gives way to the Moon Wilds.",
     "parentName": "Gorath"
   },
   {
@@ -25360,9 +25693,12 @@
       551
     ],
     "zoomLevel": 4,
-    "parentId": null,
+    "parentId": "2368",
     "relatedIds": [
-      "2368"
+      "2368",
+      "2441",
+      "1520",
+      "creature-wights"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -25370,7 +25706,8 @@
       "geography"
     ],
     "atmosphere": "water",
-    "blurb": "A lake in the Crimson Coast with a dark history."
+    "blurb": "A cluster of dark lakes in the northwestern Crimson Coast, fed by the River of Wights, where the still water tastes of grief.",
+    "parentName": "Crimson Coast"
   },
   {
     "id": "753",
@@ -25532,6 +25869,7 @@
     "parentId": "274",
     "relatedIds": [
       "274",
+      "event-three-repulsions",
       "282",
       "280",
       "114",
@@ -25984,8 +26322,11 @@
     "relatedIds": [
       "2368",
       "2440",
+      "person-istor-xxvi",
       "plane-malstaris",
+      "person-lamenrae",
       "2430",
+      "person-taoinor",
       "creature-wights",
       "2420",
       "magic-deoric"
@@ -27915,9 +28256,11 @@
       558
     ],
     "zoomLevel": 4,
-    "parentId": null,
+    "parentId": "2368",
     "relatedIds": [
-      "2368"
+      "2368",
+      "2430",
+      "2420"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -27925,7 +28268,18 @@
       "geography"
     ],
     "atmosphere": "nature",
-    "blurb": "Hills in the Crimson Coast."
+    "blurb": "The contested spine between Klevnaf and Istora: a depopulated no-man's-land that belongs to neither kingdom and is claimed by both.",
+    "parentName": "Crimson Coast",
+    "borders": [
+      {
+        "id": "2430",
+        "name": "Klevnaf"
+      },
+      {
+        "id": "2420",
+        "name": "Istora"
+      }
+    ]
   },
   {
     "id": "351",
@@ -28099,7 +28453,8 @@
     "relatedIds": [
       "2430",
       "race-elf-istori",
-      "2378"
+      "2378",
+      "person-taoinor"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -28127,7 +28482,7 @@
     "loreFile": "Rimihuica.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "The only freshwater river in Phirexes, flowing from the Cloud Mountains in the south through Old One's Wood and the Misty Marshes before emptying into…",
+    "blurb": "Phirexes's only freshwater river; it runs too fast for the fog to bind, which makes its banks the refugees' lifeline.",
     "parentName": "Phirexes"
   },
   {
@@ -28420,7 +28775,9 @@
     "relatedIds": [
       "18",
       "race-human-temptari",
+      "faction-solum-impervium",
       "189",
+      "person-maurolin",
       "338"
     ],
     "loreFile": "Ve.md",
@@ -28548,16 +28905,27 @@
       162
     ],
     "zoomLevel": 4,
-    "parentId": null,
+    "parentId": "9000",
     "relatedIds": [
+      "9000",
+      "497",
+      "manual-mph6k1qp-ttk0j",
       "390",
       "457",
-      "884"
+      "460",
+      "race-gnome-goshwen",
+      "887",
+      "885",
+      "494",
+      "race-gnome",
+      "884",
+      "race-gnome-echi"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "South of the mountains, this strait is a crucial trade chokepoint connecting different parts of the Middle Sea."
+    "blurb": "The one deepwater channel between the halves of the Middle Sea, claimed by three states and commanded by none.",
+    "parentName": "Middle Sea Lands"
   },
   {
     "id": "913",
@@ -29751,7 +30119,8 @@
     "parentId": "2420",
     "relatedIds": [
       "2420",
-      "2201"
+      "2201",
+      "race-elf-istori"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -29759,7 +30128,7 @@
       "geography"
     ],
     "atmosphere": "water",
-    "blurb": "A lake in the Dragon's Spine Coast.",
+    "blurb": "A cold mountain lake on Istora's eastern boundary, which the Istori call the edge of their world.",
     "parentName": "Istora"
   },
   {
@@ -29980,10 +30349,10 @@
       "race-human",
       "2455",
       "4310",
+      "4294",
       "4201",
       "4166",
       "2573",
-      "4294",
       "390",
       "2574",
       "388",
@@ -30369,6 +30738,7 @@
       "race-elf-istori",
       "2379",
       "2395",
+      "person-lamenrae",
       "2430"
     ],
     "loreFile": "Aboyinzu.md",
@@ -30925,6 +31295,29 @@
     "atmosphere": "nature",
     "blurb": "The southern mountain barrier of Rakite—a lower, wider range than Vokas Enrisikna, forming the boundary between the Rakiten plains and the territories beyond.",
     "parentName": "Rakite"
+  },
+  {
+    "id": "vortek-river",
+    "name": "Vortek River",
+    "type": "water",
+    "coordinates": [
+      311,
+      270
+    ],
+    "zoomLevel": 4,
+    "parentId": "3014",
+    "relatedIds": [
+      "3014",
+      "3056",
+      "3066",
+      "71",
+      "3146"
+    ],
+    "loreFile": "Rimihuica.md",
+    "tags": [],
+    "atmosphere": "water",
+    "blurb": "The Emerald Coast's main trade river, running east from the interior highlands to the sea at Garum; broken by one cataract that taxes everything.",
+    "parentName": "Emerald Coast"
   },
   {
     "id": "3885",
@@ -31830,7 +32223,7 @@
     "relatedIds": [
       "351",
       "race-human",
-      "race-goblin-etherweaver",
+      "race-goblin-aether-tapper",
       "383",
       "211",
       "71",
@@ -34061,10 +34454,14 @@
     "zoomLevel": 5,
     "parentId": "405",
     "relatedIds": [
-      "405"
+      "405",
+      "plane-bank-of-infindior",
+      "404",
+      "411"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "The material-world door to the Bank of Infindior, the time-stilled vault where the great houses keep what must never be reached.",
     "parentName": "Kyorda"
   },
   {
@@ -35399,6 +35796,32 @@
     "atmosphere": "civilization",
     "blurb": "Twin towns on the eastern edge of Eloweir territory, near where the forest gives way to plains.",
     "parentName": "Eloesi"
+  },
+  {
+    "id": "brattholt",
+    "name": "Brattholt",
+    "type": "town",
+    "coordinates": [
+      323,
+      560
+    ],
+    "zoomLevel": 5,
+    "parentId": "2443",
+    "relatedIds": [
+      "2443",
+      "race-human",
+      "2400",
+      "2378"
+    ],
+    "tags": [
+      "town",
+      "tangiern",
+      "crimson-coast",
+      "human"
+    ],
+    "atmosphere": "civilization",
+    "blurb": "A forest-edge holding up the Rabbit's headwaters whose ruling family buries its dead in the Fragenstor on purpose, against the faith of the ebb.",
+    "parentName": "Tangiern"
   },
   {
     "id": "manual-mph6mrq8-sia1a",
@@ -37051,7 +37474,8 @@
       "race-human",
       "399",
       "388",
-      "630"
+      "630",
+      "person-edric"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -40003,6 +40427,7 @@
       "3178",
       "2912",
       "3259",
+      "person-veramus",
       "2921",
       "race-giant"
     ],
@@ -40650,29 +41075,6 @@
     "parentName": "Ubrik"
   },
   {
-    "id": "2399",
-    "name": "Feycreek",
-    "type": "water",
-    "coordinates": [
-      296,
-      547
-    ],
-    "zoomLevel": 5,
-    "parentId": "2236",
-    "relatedIds": [
-      "2236",
-      "2368"
-    ],
-    "loreFile": "Aboyinzu.md",
-    "tags": [
-      "river",
-      "geography"
-    ],
-    "atmosphere": "water",
-    "blurb": "A creek in the Crimson Coast.",
-    "parentName": "Emblydium"
-  },
-  {
     "id": "2398",
     "name": "Feycreek",
     "type": "wilderness",
@@ -41106,6 +41508,7 @@
     "parentId": "2568",
     "relatedIds": [
       "2568",
+      "event-the-severance",
       "2565",
       "magic-languages",
       "2574",
@@ -43525,13 +43928,28 @@
       "3014",
       "3066",
       "manual-mpjrcf71-vystr",
-      "71"
+      "3068",
+      "race-kendor-cendoriln",
+      "race-kendor-pelaendor",
+      "3137",
+      "race-kendor",
+      "3146"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [],
-    "atmosphere": "civilization",
-    "blurb": "A notorious stretch of jungle between New Chimea and Vystrilik.",
-    "parentName": "Emerald Coast"
+    "atmosphere": "dangerous",
+    "blurb": "The overland crystal road from New Chimea's coast to Vystrilik's passes: the richest haul on the Emerald Coast, and the deadliest.",
+    "parentName": "Emerald Coast",
+    "borders": [
+      {
+        "id": "3066",
+        "name": "New Chimea"
+      },
+      {
+        "id": "manual-mpjrcf71-vystr",
+        "name": "Vystrilik"
+      }
+    ]
   },
   {
     "id": "manual-mpheq4nd-zjggk",
@@ -43705,7 +44123,8 @@
     "relatedIds": [
       "2443",
       "2400",
-      "2368"
+      "2368",
+      "2410"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [
@@ -43715,7 +44134,8 @@
     ],
     "atmosphere": "ancient",
     "blurb": "An ancient woodland in the northwestern Crimson Coast, smaller but far older than the neighboring Fragenstor Mielthøn.",
-    "parentName": "Tangiern"
+    "parentName": "Tangiern",
+    "containsCount": 1
   },
   {
     "id": "2410",
@@ -43726,15 +44146,20 @@
       552
     ],
     "zoomLevel": 5,
-    "parentId": "2443",
+    "parentId": "2406",
     "relatedIds": [
-      "2443"
+      "2406",
+      "2368",
+      "faction-drevhald",
+      "creature-true-name",
+      "2443",
+      "creature-titan"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
-    "atmosphere": "civilization",
-    "blurb": "The ruins of Hildaneir lie within the forest, perhaps a day's travel from the edge for those who can find the way.",
-    "parentName": "Tangiern"
+    "atmosphere": "cursed",
+    "blurb": "A spiral of cold black stone in Hilda's Forest, older than the elves. It was built to bind something, and the binding is failing.",
+    "parentName": "Hilda's Forest"
   },
   {
     "id": "2017",
@@ -44183,7 +44608,9 @@
     "parentId": "2368",
     "relatedIds": [
       "2368",
-      "2406"
+      "2441",
+      "2406",
+      "creature-wights"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
@@ -48456,7 +48883,11 @@
     "zoomLevel": 5,
     "parentId": "884",
     "relatedIds": [
-      "884"
+      "884",
+      "463",
+      "person-drazvik-strugmar",
+      "457",
+      "460"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -50663,12 +51094,13 @@
     "parentId": "2430",
     "relatedIds": [
       "2430",
-      "2368"
+      "2442",
+      "person-istor-xxvi"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "The most infamous waterway in the Crimson Coast.",
+    "blurb": "The most infamous waterway in the Crimson Coast, named for one murdered king and saturated by the death of another.",
     "parentName": "Klevnaf"
   },
   {
@@ -53484,7 +53916,10 @@
     "parentId": "457",
     "relatedIds": [
       "457",
-      "390"
+      "463",
+      "manual-mph6k1qp-ttk0j",
+      "390",
+      "884"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -58249,14 +58684,19 @@
       "3276",
       "3176",
       "3168",
+      "person-kassander-volso",
       "3305",
       "1520",
       "creature-agtakkeri",
-      "3275",
       "race-dwarf-drasnian",
       "3337",
       "3189",
-      "3178"
+      "person-veramus",
+      "3178",
+      "person-corin",
+      "person-helmo",
+      "person-renzo",
+      "person-vasco"
     ],
     "loreFile": "Rimihuica.md",
     "tags": [
@@ -58865,7 +59305,7 @@
     "loreFile": "Aboyinzu.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "Istora's lifeline.",
+    "blurb": "Istora's lifeline river, clear-watered and lined with settlements, which the kingdom reads as proof the dead favor its claim.",
     "parentName": "Istora"
   },
   {
@@ -61057,6 +61497,7 @@
     "relatedIds": [
       "494",
       "race-goblin-coghead",
+      "magic-aether",
       "race-gnome-echi"
     ],
     "loreFile": "Clueanda.md",
@@ -65725,13 +66166,14 @@
       "2379",
       "1301",
       "1401",
+      "person-lamenrae",
       "2430",
       "race-elf-istori"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "Istora's sacred forest, a dense evergreen woodland along the Sova Chyda's middle reaches.",
+    "blurb": "Istora's sacred evergreen forest, where the Istori say their ancestors wait between lives and where Queen Lamenrae had herself crowned.",
     "parentName": "Istora"
   },
   {

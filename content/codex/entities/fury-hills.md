@@ -10,13 +10,13 @@ sources: ["all_sections_formatted/Aboyinzu.md#L1542"]
 relations:
   - { rel: spatial, kind: within, target: "1606" }
 ---
-The Fury Hills are a range of rugged highlands in southeastern Kadroka, forming part of the border zone between Kadrokan territory and Tythikerys. They are named for the sudden, violent weather that sweeps through them—and for the battles that have been fought among their ridges.
+The Fury Hills are a range of rugged highlands in southeastern Kadroka, forming part of the border zone between Kadrokan territory and Tythikerys. They are named for the sudden, violent weather that sweeps through them, and for the battles that have been fought among their ridges.
 
 #### Geography
 
 The hills rise from the savanna in the north and extend southward toward the Deadjack Forest and the approaches to the Agony Stones. The terrain is rocky and broken, with deep ravines, isolated mesas, and sparse vegetation that offers little cover or sustenance.
 
-The highest points reach perhaps 2,000 feet above the surrounding plain—not mountains, but high enough to channel weather and create defensible positions.
+The highest points reach perhaps 2,000 feet above the surrounding plain, well short of mountains but high enough to channel weather and create defensible positions.
 
 #### The Weather
 
@@ -26,17 +26,17 @@ Local wisdom holds that the hills are touched by air leylines, though no formal 
 
 #### Strategic Significance
 
-The Fury Hills are contested territory—too rough for Kadrokan settlement, too exposed for Tytheri camps, but important to both sides.
+The Fury Hills are contested territory: too rough for Kadrokan settlement, too exposed for Tytheri camps, but important to both sides.
 
 **For Kadroka:** The hills provide early warning of orc movements from the south. Patrol routes cross the northern ridges, and watchtowers on the highest points can see deep into Tythikerys.
 
 **For Tythikerys:** The hills offer covered approach routes for raiders seeking to bypass Kadrokan defenses. War parties that know the ravines can move undetected until they emerge onto the savanna.
 
-Skirmishes in the Fury Hills are common. Neither side commits major forces—the terrain is too unpredictable—but small-unit actions occur throughout the year.
+Skirmishes in the Fury Hills are common. Neither side commits major forces, because the terrain is too unpredictable, but small-unit actions occur throughout the year.
 
 #### The Deadjack Approach
 
-The southern Fury Hills transition into the Deadjack Forest, which in turn borders the approaches to the Agony Stones. This makes the hills one of the few overland routes for anyone attempting to reach the Stones from Kadrokan territory—a dangerous path through contested ground, storm-wracked heights, and haunted forest.
+The southern Fury Hills transition into the Deadjack Forest, which in turn borders the approaches to the Agony Stones. This makes the hills one of the few overland routes for anyone attempting to reach the Stones from Kadrokan territory, a dangerous path through contested ground, storm-wracked heights, and haunted forest.
 
 Few attempt it. Fewer succeed.
 

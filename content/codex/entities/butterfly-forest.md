@@ -16,7 +16,7 @@ The butterflies are beautiful. The forest is not safe.
 
 #### The Canopy
 
-The Butterfly Forest is old-growth broadleaf, dominated by massive pale-barked trees the orcs call *veleth*—"ghost wood." The veleth grow two hundred feet tall or more, their crowns interlocking to form a continuous canopy that filters the sun into a dim green twilight. Little undergrowth survives in the perpetual shade; the forest floor is open, carpeted with decades of fallen leaves.
+The Butterfly Forest is old-growth broadleaf, dominated by massive pale-barked trees the orcs call veleth, "ghost wood." The veleth grow two hundred feet tall or more, their crowns interlocking to form a continuous canopy that filters the sun into a dim green twilight. Little undergrowth survives in the perpetual shade; the forest floor is open, carpeted with decades of fallen leaves.
 
 The butterflies are everywhere. Every color, every pattern, every size from thumbnail to handspan. They gather in clouds around certain trees, drift in lazy spirals through clearings, land on anything that holds still. The orcs say each butterfly carries a single memory from someone who died in the forest. They might be speaking metaphorically. They might not.
 
@@ -34,7 +34,7 @@ It doesn't happen every night. It doesn't happen to everyone. But it happens oft
 
 #### The Veleth Trees
 
-The ghost-barked veleth are the heart of the ecosystem. Their leaves feed caterpillars that become butterflies. Their sap draws insects that the butterflies drink. Their roots go deep—deeper than they should, given the soil—and in places the roots have surfaced, forming natural arches and chambers between the trees.
+The ghost-barked veleth are the heart of the ecosystem. Their leaves feed caterpillars that become butterflies. Their sap draws insects that the butterflies drink. Their roots go deep, deeper than they should given the soil, and in places the roots have surfaced, forming natural arches and chambers between the trees.
 
 Cutting a veleth is forbidden among the Jeh Bli, though they harvest fallen timber readily enough. The taboo is practical, not religious: when a veleth is cut, the butterflies in that grove become agitated. They swarm the cutter. And then, according to the orcs, the cutter walks into the forest and doesn't walk out.
 
@@ -46,4 +46,4 @@ Most hunting parties stay near the forest's edges, within a day's walk of open g
 
 At the forest's heart, according to orc hunters who've glimpsed it from distant rises, there's a clearing. The veleth circle it but don't enter. The clearing is full of butterflies—a solid mass of them, piled and drifting and layered on top of each other. What's beneath them, if anything, no one has seen.
 
-The orcs call it *Kel-Vethris*: "the place where memory gathers." They don't go there. They strongly recommend no one else go there either.
+The orcs call it Kel-Vethris: "the place where memory gathers." They don't go there. They strongly recommend no one else go there either.

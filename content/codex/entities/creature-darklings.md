@@ -12,7 +12,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Pitch-black goblins with an affinity for darkness that borders on the supernatural. The Darklings of Lethos are one of the peninsula's three native peoples, and perhaps the most unsettling to outsiders—silent hunters who move through shadows as easily as fish move through water.
+Pitch-black goblins with an affinity for darkness that borders on the supernatural. The Darklings of Lethos are one of the peninsula's three native peoples, and perhaps the most unsettling to outsiders, silent hunters who move through shadows as easily as fish move through water.
 
 ### Appearance
 Darklings stand three to four feet tall, slight and wiry, with skin so deeply black it seems to absorb light rather than reflect it. Their eyes are large and dark-adapted, gleaming with reflected light in a way that makes them visible even when the rest of their body is not. Their movements are unnaturally quiet, and they have learned to still their breathing until it makes no sound at all.
@@ -22,11 +22,11 @@ In the darkness they command, Darklings are effectively invisible—even their e
 ### The Darkness
 The Darklings' defining trait is their relationship with darkness itself.
 
-All Darklings possess an innate magical attunement to shadow and absence of light. This is not learned magic—it is part of what they are. A Darkling can call darkness, thicken it, shape it. The shadows around a Darkling are not passive; they move with intent, obscuring and concealing.
+All Darklings possess an innate magical attunement to shadow and absence of light. It is part of what they are, born in every Darkling rather than taught. A Darkling can call darkness, thicken it, shape it. The shadows around a Darkling move with intent, obscuring and concealing.
 
-More significantly, Darkling darkness cannot be pierced by ordinary means. Normal light—torches, lanterns, even daylight filtered through canopy—dims and fails against it. Only magical light can penetrate, and even that is muted, weakened. Within their darkness, Darklings see perfectly. Outsiders see nothing.
+More significantly, Darkling darkness cannot be pierced by ordinary means. Normal light (torches, lanterns, even daylight filtered through canopy) dims and fails against it. Only magical light can penetrate, and even that is muted, weakened. Within their darkness, Darklings see perfectly. Outsiders see nothing.
 
-This ability has made them invaluable to Lethos. When the druids performed the Binding three centuries ago, it was the Darklings who provided the shadow-component of the ritual—the darkness that helps trap and contain the Gorathi dead. The supernatural gloom that blankets Lethos, even at noon, is partly their doing. The darkness the Darklings command is Vulus, the element worked as a substance; the power that actually holds the Gorathi dead is the shade-energy of Malstaris, the death-plane, and the two are confused only because they share a word.
+This ability has made them invaluable to Lethos. When the druids performed the Binding three centuries ago, it was the Darklings who provided the shadow-component of the ritual, the darkness that helps trap and contain the Gorathi dead. The supernatural gloom that blankets Lethos, even at noon, is partly their doing. The darkness the Darklings command is Vulus, the element worked as a substance; the power that actually holds the Gorathi dead is the shade-energy of Malstaris, the death-plane, and the two are confused only because they share a word.
 
 For all that the shadow is part of what they are, it follows none of them past death. A killed Darkling dies the ordinary mortal death: each strand goes where it is owed, the soul up to the Astral, the shadow down to Malstaris, the spirit to Celestia for as long as the name is still spoken, and the Vulus affinity ends with the body and leaves nothing behind in the dark.
 
@@ -51,14 +51,14 @@ The phrase "will fuck you up in the dark" is apparently how the Darklings themse
 ### Relations with Others
 **Faeja**: Respectful coexistence. The Faeja are the majority population of Lethos, and the Darklings work alongside them to maintain the Binding. They do not socialize extensively, but neither do they conflict. Each people has their role; each respects the other's contribution.
 
-**Rootborn**: Wary tolerance. The Darklings remember what the Rootborn's ancestors were—Gorathi occupiers. But three centuries have passed, and the Rootborn have proven their commitment to Lethos by remaining and guarding Qlyp Augo. The Darklings accept them as fellow inhabitants, if not quite as kin.
+**Rootborn**: Wary tolerance. The Darklings remember what the Rootborn's ancestors were, Gorathi occupiers. But three centuries have passed, and the Rootborn have proven their commitment to Lethos by remaining and guarding Qlyp Augo. The Darklings accept them as fellow inhabitants, if not quite as kin.
 
 **Druids**: Deep respect. The druids designed the Binding; the Darklings helped power it. There is an old partnership here, predating the occupation, and the Darklings still defer to the druids of Erua on matters relating to the ritual.
 
 **Outsiders**: Suspicion. Darklings do not trust those who come from outside Lethos. They have seen what outsiders do—occupy, exploit, destroy. The darkness they command is as much defense as heritage.
 
 ### The Druids Among Them
-*The druids also live here, pocketed away in hermit cottages.*
+"The druids also live here, pocketed away in hermit cottages."
 
 The original Darklings entry mentions druids living in Lethos, and this remains true. The druids are not Darklings—they are something older, the forefathers of elves according to some accounts. They have longer ears, paler skin, and are slowly dying out as a people. But their nature magic is far stronger than that of their elven descendants, and it was this power that made the Binding possible.
 
@@ -67,10 +67,10 @@ The druids live in isolated cottages throughout Lethos, but their main concentra
 If the Darklings are the darkness of Lethos, the druids are its roots.
 
 ### Player Encounters
-**The Unseen Watchers** — The party realizes they're being followed. Not attacked, not threatened—just watched. Darkling scouts are evaluating whether these outsiders are a threat. If the party behaves respectfully and moves through Lethos without causing harm, the watchers will eventually disappear. If not...
+**The Unseen Watchers** — The party realizes they're being followed. Not attacked, not threatened, just watched. Darkling scouts are evaluating whether these outsiders are a threat. If the party behaves respectfully and moves through Lethos without causing harm, the watchers will eventually disappear. If not...
 
-**Trade at Altimarloch** — A Darkling trader offers rare herbs and poisons at Altimarloch. They speak little, bargain hard, and seem to know more about the party than they should. If treated fairly, they might share a warning about the paths ahead. If insulted, they simply leave—and the party finds the jungle harder to navigate afterward.
+**Trade at Altimarloch** — A Darkling trader offers rare herbs and poisons at Altimarloch. They speak little, bargain hard, and seem to know more about the party than they should. If treated fairly, they might share a warning about the paths ahead. If insulted, they simply leave, and the party finds the jungle harder to navigate afterward.
 
-**Ohoka's Hunters** — Something has entered Lethos that threatens the Binding. The Darklings of Ohoka need help—not because they can't handle the threat, but because handling it will draw them away from their ritual duties. They're willing to pay well for capable outsiders. They are not willing to explain why this threat matters so much.
+**Ohoka's Hunters** — Something has entered Lethos that threatens the Binding. The Darklings of Ohoka need help. They could handle the threat themselves, but doing so would pull them away from their ritual duties. They're willing to pay well for capable outsiders. They are not willing to explain why this threat matters so much.
 
-**The Darkness Speaks** — A party member with darkness-related magic finds that their abilities work differently in Lethos. The darkness here is thicker, more responsive—and something in it seems to recognize them. The Darklings might have answers, if they're willing to ask.
+**The Darkness Speaks** — A party member with darkness-related magic finds that their abilities work differently in Lethos. The darkness here is thicker, more responsive, and something in it seems to recognize them. The Darklings might have answers, if they're willing to ask.

@@ -64,3 +64,6 @@ tmp-*.json
 
 # Cloudflare Wrangler local state cache
 .wrangler/
+
+# transient codex build lock (multi-session build serialization)
+.codex-build.lock/

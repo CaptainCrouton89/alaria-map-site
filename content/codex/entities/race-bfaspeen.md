@@ -13,7 +13,7 @@ review:
 ---
 The Bfaspeen are horrid, aquatic monstrosities that plague the Bejeweled Sea. With the lower body of a powerful eel and a torso dominated by mandibles and bulbous eyes, they are the stuff of sailors' nightmares. They live in strict matriarchal broods, where the males are subservient hunters who drag prey back to the deep lairs to be consumed.
 
-They have a pathological lust for gold and shiny objects, often attacking ships not just for food, but to sink them and loot the wreckage. Bfaspeen are cruel and intelligent, capable of coordinating complex raids on merchant vessels. Their underwater hoards glitter with centuries of accumulated treasure, jealously guarded by the brood mothers.
+They have a pathological lust for gold and shiny objects, and often attack ships for plunder as much as for food, sinking them to loot the wreckage. Bfaspeen are cruel and intelligent, capable of coordinating complex raids on merchant vessels. Their underwater hoards glitter with centuries of accumulated treasure, jealously guarded by the brood mothers.
 
 ### The making
 

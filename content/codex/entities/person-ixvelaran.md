@@ -11,4 +11,4 @@ review:
   aiWritten: true
   action: keep
 ---
-Ixvelaran was a lizardfolk linguist writing in the Great Expansion who produced the foundational analysis of the Ix- naming-prefix tradition — demonstrating that it is not merely phonemic convention but a structural clan-identity marker with traceable pre-Lost-Ages roots. His reconstruction of the lizardfolk proto-language from place names and subrace identifiers is the starting point for any serious treatment of lizardfolk linguistic history.
+Ixvelaran was a lizardfolk linguist writing in the Great Expansion who produced the foundational analysis of the Ix- naming-prefix tradition — demonstrating that it is a structural clan-identity marker with traceable pre-Lost-Ages roots rather than a phonemic convention. His reconstruction of the lizardfolk proto-language from place names and subrace identifiers is the starting point for any serious treatment of lizardfolk linguistic history.

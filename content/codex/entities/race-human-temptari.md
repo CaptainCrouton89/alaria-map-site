@@ -18,6 +18,8 @@ The Temptari are a deeply spiritual people who have mastered the art of reading 
 
 Temptari settlements can be found in the high mountain passes and valleys where the seasons are most pronounced. They are renowned for their prophets, weather-readers, and the legendary timemasters who can glimpse moments yet to come.
 
+The greatest of those timemasters rules the lowland theocracy of Avalon. Maurolin, the Grand Imperial Ecclesiarch, has read the futures of an entire nation from his throne at Tarolin for generations, kept young by a sphere of slowed time of his own making. He is the proof of what the Temptari gift can become when it is given a country to practice on, and a warning about the same thing.
+
 #### Aspects
 - Time flows differently for me
 - The seasons speak to those who listen

@@ -9,13 +9,13 @@ sources: ["all_sections_formatted/Aboyinzu.md#L4357"]
 relations:
   - { rel: spatial, kind: within, target: "1865" }
 ---
-The **Chull Lands** occupy a relatively low basin in the western Dalizi Highlands, a pocket of broken terrain surrounded by mountain walls on three sides. The region takes its name from the chulls—large, aggressive crustaceans that infest the wetlands and caves throughout the area. The Chull Lands are the closest thing to accessible terrain in the highland interior, which means they're merely very dangerous rather than impassable.
+The Chull Lands occupy a relatively low basin in the western Dalizi Highlands, a pocket of broken terrain surrounded by mountain walls on three sides. The region takes its name from the chulls—large, aggressive crustaceans that infest the wetlands and caves throughout the area. The Chull Lands are the closest thing to accessible terrain in the highland interior, which means they're merely very dangerous rather than impassable.
 
 #### Geography
 
 The Chull Lands form an irregular basin roughly thirty miles east to west and twenty miles north to south, wedged between the Titan Stairs to the west, the Thundering Mountains to the north, and the Jackal Mountains to the east. The southern boundary is less defined, transitioning into the Hills of False Rubies and the northern approaches to the Cerulean Crests.
 
-Elevations range from 3,000 feet in the basin floor to 5,000 feet where the terrain rises toward the surrounding mountains. The landscape is a mix of marshland, rocky outcrops, cave-riddled limestone formations, and scattered patches of stunted forest. Water is abundant—too abundant—with numerous springs, seeps, and small streams that keep much of the basin perpetually wet.
+Elevations range from 3,000 feet in the basin floor to 5,000 feet where the terrain rises toward the surrounding mountains. The landscape is a mix of marshland, rocky outcrops, cave-riddled limestone formations, and scattered patches of stunted forest. Water is abundant, too abundant, with numerous springs, seeps, and small streams that keep much of the basin perpetually wet.
 
 The Rivoleta River drains the eastern portion of the basin, flowing south toward the Cerulean Crests. Several smaller streams join it from the mountains, creating a network of waterways that the chulls have claimed as their own.
 
@@ -25,7 +25,7 @@ Chulls are freshwater crustaceans roughly the size of large dogs, with hard-shel
 
 ##### Physical Description
 
-An adult chull measures three to four feet long, not counting the claws. The shell is dark gray-green, providing excellent camouflage in the muddy terrain. The claws are disproportionately large—the major claw can be a foot across—and powerful enough to sever limbs or crush armor. The creatures move with unsettling speed despite their bulk.
+An adult chull measures three to four feet long, not counting the claws. The shell is dark gray-green, providing excellent camouflage in the muddy terrain. The claws are disproportionately large; the major claw can be a foot across, and they are powerful enough to sever limbs or crush armor. The creatures move with unsettling speed despite their bulk.
 
 ##### Behavior
 
@@ -43,11 +43,11 @@ Crossing the Chull Lands is the most practical route between the Titan Stairs an
 
 The standard route runs east from the Titan Stairs' Third Step, skirting the wettest areas along slightly higher ground, before descending toward the Rivoleta River and continuing into the hills beyond. The journey takes three to four days for a careful party. The key precautions:
 
-- **Travel by day.** Chulls are less active in sunlight, though not entirely dormant.
-- **Avoid water.** The streams and pools are chull territory. Cross quickly when you must.
-- **Watch for dens.** Chull burrows look like muddy holes; stepping near one invites attack.
-- **Camp high.** Sleep on rocky outcrops above the waterline. Chulls don't climb well.
-- **Don't linger.** The longer you're in the Chull Lands, the more likely you are to encounter something.
+- Travel by day. Chulls are less active in sunlight, though not entirely dormant.
+- Avoid water. The streams and pools are chull territory. Cross quickly when you must.
+- Watch for dens. Chull burrows look like muddy holes; stepping near one invites attack.
+- Camp high. Sleep on rocky outcrops above the waterline. Chulls don't climb well.
+- Don't linger. The longer you're in the Chull Lands, the more likely you are to encounter something.
 
 #### Harvesting
 

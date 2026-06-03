@@ -29,6 +29,8 @@ The Starborn conduct nightly rituals to guide wayward stars back to their proper
 
 The best known of the Starborn is Koras, sole tender of the sun, who broke the order's strict neutrality to serve the sun's awakened spirit, Bryn. Koras's five-hundred-year fight to reignite the corrupted solar core, the Sunless Vigil, is the order's own duty carried to its furthest extreme.
 
+A second case runs the other way, and the order treats it as the graver one. Ysolveth, a tender the order has begun to watch, has for some years been easing two titan-glass stars toward a convergence above the Northland city the Velthari call Ilthenvar, working from within the orbs as any tender does but toward an end the order never sanctioned. The Velthari there chart the two stars' drift to the day and read it as nature; they do not know a hand is behind it. Where Koras broke neutrality to serve the light he tended, Ysolveth breaks it to move stars toward a purpose of Ysolveth's own, and by the order's reckoning that is the worse violation.
+
 #### Aspects
 - The stars must maintain their course
 - Cosmic neutrality preserves balance

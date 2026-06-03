@@ -18,7 +18,7 @@ review:
   action: keep
   notes: "Ruined capital of Old Tolaria; Apparatus of Severance origin anchors the region. Wave-2: reconciled with old-tolaria.md (732); time-catastrophe wired to the Time cluster via attunedTo→magic-time (the Apparatus tore the Izzus seam, a second instance of the Torn Hour). Sevrai/Hourbound NOT relocated here — their Izzus breach is the Stillness in the Forest of Statues (race-sevrai.md, locked); Elderran is a distinct third Izzus surface. Style pass: sentence-case headings, boldface removed, em-dashes cut, Adventure Hooks reframed as prose. Geography matches center pin [242,256]; capital is now ruins (no capitalOf edge — polity is dead)."
 ---
-Elderran was the capital of Old Tolaria and is the epicenter of one of the worst magical disasters in Alarian history. What remains is not simply a ruin. It is an unraveling that has not finished, a place where time, the elements, and the nature of magic itself were torn apart and left bleeding centuries ago and bleeding still.
+Elderran was the capital of Old Tolaria and is the epicenter of one of the worst magical disasters in Alarian history. What remains is an unraveling that has not finished. Time, the elements, and the nature of magic itself were torn apart here centuries ago, and they are bleeding still.
 
 #### The Apparatus of Severance
 

@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L1852"]
 relations:
   - { rel: spatial, kind: within, target: "1606" }
 ---
-Lonesome Lake is a small, isolated body of water in northern Kadroka, notable for having no visible inlet or outlet. The lake simply exists—a still pool amid the savanna that locals have avoided for as long as anyone can remember.
+Lonesome Lake is a small, isolated body of water in northern Kadroka, notable for having no visible inlet or outlet. The lake simply exists, a still pool amid the savanna that locals have avoided for as long as anyone can remember.
 
 #### Geography
 
@@ -20,7 +20,7 @@ The lake sits in a shallow depression approximately 2 miles across, surrounded b
 
 Hydrologically, Lonesome Lake should not exist. Lakes without inlets evaporate. Lakes without outlets stagnate, grow brackish, or overflow. Lonesome Lake does none of these things.
 
-The water is fresh, clear, and cold—colder than it should be given the climate. The surface is unnaturally still; even on windy days, the lake barely ripples. Fish swim in its depths, though no one knows how they got there or what they eat.
+The water is fresh, clear, and cold, colder than it should be given the climate. The surface is unnaturally still; even on windy days, the lake barely ripples. Fish swim in its depths, though no one knows how they got there or what they eat.
 
 Several theories attempt to explain the lake:
 - **Underground springs**: The most mundane explanation, though no one has located the water source
@@ -34,7 +34,7 @@ None have been proven. The lake keeps its secrets.
 
 "Lonesome" refers both to the lake's isolation and to the feeling people report when near it.
 
-Visitors describe an inexplicable sense of melancholy—not fear, not danger, just profound sadness. Animals avoid the shore. Travelers who camp nearby report dreams of vast, empty spaces. The sensation fades within a few miles, but few choose to return.
+Visitors describe an inexplicable sense of melancholy, not fear, not danger, just profound sadness. Animals avoid the shore. Travelers who camp nearby report dreams of vast, empty spaces. The sensation fades within a few miles, but few choose to return.
 
 Whether this is a property of the lake itself or a psychological response to its uncanny stillness is unclear.
 

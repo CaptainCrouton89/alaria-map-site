@@ -49,9 +49,9 @@ Cold maritime conditions prevail. Winters are long and bitter, with snow lingeri
 
 The Crimson Coast exists in a state of cold war that periodically turns hot.
 
-**The Succession Crisis**: When Istor XXVI was murdered, his daughter Lamenrae accused her uncle Taoinor of the crime and refused him the throne. Taoinor's supporters—primarily those in the western territories—rejected her authority. The kingdom split along Murder Creek, with each faction claiming to be the true continuation of the Winter Elf realm.
+**The Succession Crisis**: When Istor XXVI was murdered, his daughter Lamenrae accused her father's uncle Taoinor of the crime and refused him the throne. Taoinor's supporters—primarily those in the western territories—rejected her authority. The kingdom split along Murder Creek, with each faction claiming to be the true continuation of the Winter Elf realm.
 
-**Tangiern's Position**: The human kingdom watches the elven civil war with calculated interest. They've historically paid tribute to the unified elven crown; now both Klevnaf and Istora demand that tribute, and Tangiern pays neither. This cannot last. Whichever elven faction wins will turn its attention west—and Tangiern's King Halvard knows it.
+**Tangiern's Position**: The human kingdom on the western coast pays the elven war very little mind. An old forest-passage toll to the unified crown lapsed when the crown broke, and neither Klevnaf nor Istora has the reach to press a successor to it; Tangiern garrisons the Suftos frontier against raiders and otherwise looks the other way. The Tangier are a seafaring people, and their real concern is the Void at their backs, not the elves dying over a throne in the east.
 
 **The Suftos Buffer**: The hills between Klevnaf and Istora have become a depopulated no-man's-land. Villages were evacuated or destroyed in the first years of the split. Now it's patrol territory—elven rangers from both sides hunting each other through the rocks and scrub.
 
@@ -61,7 +61,7 @@ The Crimson Coast exists in a state of cold war that periodically turns hot.
 
 **Cursed Geography**: Murder Creek, the Pools of Tragedy, the River of Wights—the land itself remembers violence. This creates supernatural hazards alongside political ones. Drinking from the wrong stream might show you visions of an ancient assassination.
 
-**The Third Player**: Tangiern has survived by staying out of elven politics. But with the succession crisis dragging on, they're being forced to choose sides—or make a bid for regional dominance themselves.
+**The Third Player**: Tangiern has survived by simply not caring who wins. The kingdom faces seaward, toward the Void and its trade, and treats the eastern war as a border nuisance to be garrisoned rather than a contest to be won. Both elven factions would like Tangier steel or Tangier grain; neither can compel it.
 
 **Ancient Secrets**: Hilda's Forest and the ruins of Hildaneir predate even the Winter Elves. The Fragenstor Mielthøn hides things that remember when this land had different masters.
 
@@ -69,7 +69,7 @@ The Crimson Coast exists in a state of cold war that periodically turns hot.
 
 **Escalation**: The cold war is heating up. Border skirmishes are becoming more frequent. One major incident—an assassination, a massacre, a perceived betrayal—could trigger open warfare.
 
-**Tangiern's Choice**: King Halvard can't stay neutral forever. When he picks a side, the other elven faction will consider it an act of war. And if he tries to play both sides, eventually both will realize it.
+**The Frontier Hardens**: The Suftos garrison is a standing expense Halvard would rather not carry, and the longer the elven war grinds on, the more raiders and deserters spill west into Tangier ground. A bad season on that frontier could drag the seaward kingdom into a war it has no interest in fighting.
 
 **The Curse Spreads**: Murder Creek's waters are spreading their influence. Wells near the creek are going dark. People are having visions they shouldn't have. Something is using the old curse for new purposes.
 
@@ -109,52 +109,4 @@ A silver-barked forest in Klevnaf, sacred to the Winter Elves. The trees here ar
 
 #### Hildaneir
 
-Ruins within Hilda's Forest, marked on maps but rarely visited. The structures predate elven settlement—their architecture matches nothing else in the region. Some scholars believe Hildaneir was a temple; others think it was a prison. The Winter Elves have legends about something being "kept" here before their arrival. Whatever it was, it's gone now. Probably.
-
-### Hildaneir
-
-Ruins within Hilda's Forest, marked on maps but rarely visited. The structures predate elven settlement—their architecture matches nothing else in the region. Some scholars believe Hildaneir was a temple; others think it was a prison. The Winter Elves have legends about something being "kept" here before their arrival. Whatever it was, it's gone now.
-
-Probably.
-
-#### The Ruins
-
-Hildaneir consists of several stone structures arranged in a pattern that becomes clear only from above—a spiral, or possibly a coil, with a central building surrounded by progressively smaller outlying structures. The architecture is unlike anything else in Alaria: no right angles, no straight walls, everything curved and flowing.
-
-The stone itself is unusual—a dark material that doesn't match local geology, cold to the touch even in summer, and marked with symbols that no one has successfully translated. The symbols aren't decorative; they're too deliberately placed, too consistently spaced. They mean something. What they mean is unknown.
-
-#### History (What Little Is Known)
-
-The ruins predate the Winter Elves' arrival on the Crimson Coast—at minimum several thousand years old, possibly far older. Elven records mention Hildaneir with unusual caution, describing it as a "place of keeping" without specifying what was kept.
-
-**Hilda herself** appears in Tangier legends as a wanderer who lived in the forest before humans arrived—possibly a fey entity, possibly something stranger. The ruins bear her name, but the connection is unclear. Did she build them? Guard them? Escape from them?
-
-The elves left Hildaneir alone. They controlled the rest of the Crimson Coast but established no settlements in Hilda's Forest, built no roads through it, conducted no logging or hunting within its bounds. This was unusual enough that historians have noted it—a forest untouched by a civilization that touched everything else.
-
-#### Current State
-
-Hildaneir has been explored perhaps a dozen times in recorded history. Each expedition has produced different findings:
-
-- A 3rd century SD party found the central building sealed and the outlying structures empty
-- A 27th century SD expedition found the central building open but couldn't enter—the interior was "wrong" in ways they couldn't describe
-- The most recent expedition (early 34th century SD) found evidence of recent activity—cleared paths, disturbed dust—despite no one admitting to having visited
-
-The ruins are generally considered dangerous without being specifically threatening. No expedition has been attacked; several have simply... failed, their members returning confused, their notes incomplete, their memories uncertain.
-
-#### What The Symbols Say
-
-Multiple scholars have attempted to translate the Hildaneir symbols. Their conclusions are contradictory:
-
-- **Binding formulae** for containing something powerful
-- **Warning text** describing what happens to trespassers
-- **Instructions** for operating the site as some kind of device
-- **Names**—hundreds of them, listed in spiral patterns that mirror the building arrangement
-
-The truth may include all of these. Or none of them. The symbols resist magical analysis; divination directed at them produces headaches and nosebleeds rather than information.
-
-#### Adventure Hooks
-
-- The ruins have become active—lights visible at night, sounds audible from the forest edge. Someone or something is using Hildaneir for the first time in millennia.
-- A scholar believes she's cracked the symbol translation and needs protection while she confirms her theory on-site.
-- An expedition went in three weeks ago and hasn't returned. Their employer wants to know what happened—and wants whatever they found.
-- Something has begun speaking to those who camp near the ruins, offering knowledge in exchange for... something.
+A spiral of cold black stone in Hilda's Forest, older than the elves and built of a dark material that matches no local geology. It was raised to bind something, and the binding is failing now that the one who kept its vigil has been forgotten. The Winter Elves left it alone even when they ruled the whole coast. See Hildaneir.

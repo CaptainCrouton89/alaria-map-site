@@ -21,7 +21,7 @@ The mountains are riddled with cave systems, many of them lined with crystal for
 
 #### The Crystal Mines
 
-Mining operations dot the eastern slopes, extracting quartz and rarer mineral formations for trade. The work is dangerous—not from magic, but from the mountains themselves. Crystal formations are brittle and unpredictable. Miners have been buried by sudden collapses, blinded by light concentrated through crystal lenses, or simply lost in the labyrinthine cave networks. The Ix'Lorett of M'Svyla prize certain resonant crystals for their craft, and a steady trade flows between the mining settlements and the forest villages below.
+Mining operations dot the eastern slopes, extracting quartz and rarer mineral formations for trade. The work is dangerous, and the danger is the mountains themselves rather than magic. Crystal formations are brittle and unpredictable. Miners have been buried by sudden collapses, blinded by light concentrated through crystal lenses, or simply lost in the labyrinthine cave networks. The Ix'Lorett of M'Svyla prize certain resonant crystals for their craft, and a steady trade flows between the mining settlements and the forest villages below.
 
 The most valuable deposits lie deeper, in chambers where the crystal formations have grown for millennia undisturbed. Expeditions into the deep mines return with specimens worth fortunes—or don't return at all.
 
@@ -37,7 +37,7 @@ They are losing. Slowly, year by year, pass by pass. The undead do not tire, do 
 
 #### The Northern Threat
 
-The Crystal Mountains are all that stands between Chaal Nazzerox and the living south. Xynoth's undead legions mass in the Prowling Hills and along the mountain's northern approaches, testing defenses, probing for weakness. The terrain favors the defenders—narrow passes, steep approaches, positions that can be held by few against many—but terrain only delays the inevitable when your enemy never stops coming.
+The Crystal Mountains are all that stands between Chaal Nazzerox and the living south. Xynoth's undead legions mass in the Prowling Hills and along the mountain's northern approaches, testing defenses, probing for weakness. The terrain favors the defenders, with narrow passes, steep approaches, and positions that can be held by few against many, but terrain only delays the inevitable when your enemy never stops coming.
 
 Why Xynoth hasn't committed his full strength remains unclear. Perhaps the cost isn't worth the gain. Perhaps something in the mountains gives him pause. Perhaps he's simply patient, content to grind down the defenders over decades rather than spend his armies in costly assaults. The lich king's motives are not human motives, and those who try to predict him rarely survive their miscalculations.
 

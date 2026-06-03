@@ -24,7 +24,7 @@ bannerHeight: 360
 ---
 ### Geography
 
-The Giant Lands occupy the central region of Upoceax—a hilly territory surrounded by mountains on multiple sides. As the name suggests, this is a land primarily inhabited by giants, who have made the rolling hills and valleys their home.
+The Giant Lands occupy the central region of Upoceax, a hilly territory surrounded by mountains on multiple sides. As the name suggests, this is a land primarily inhabited by giants, who have made the rolling hills and valleys their home.
 
 #### Boundaries and Position
 
@@ -35,7 +35,7 @@ The Giant Lands occupy the central region of Upoceax—a hilly territory surroun
 
 #### Terrain
 
-The Giant Lands are characterized by hilly terrain—not as dramatic as the surrounding mountain ranges, but elevated and varied. The landscape provides ample territory for the giant populations to hunt, settle, and maintain their way of life.
+The Giant Lands are characterized by hilly terrain, less dramatic than the surrounding mountain ranges but elevated and varied. The landscape provides ample territory for the giant populations to hunt, settle, and maintain their way of life.
 
 #### Inhabitants
 
@@ -47,4 +47,4 @@ Giant helmet and battleaxe, likely used by the titans, that have never sunk into
 
 #### Forges of Phlethageros
 
-Cyclops forges where 6 Cyclops rule together as joint owners, each specializing in a different skill. A huge mountain wall with magma flowing out—the Cyclops can wade straight through it unharmed. They can craft some of the best weapons in the world.
+Cyclops forges where 6 Cyclops rule together as joint owners, each specializing in a different skill. A huge mountain wall with magma flowing out. The Cyclops can wade straight through it unharmed. They can craft some of the best weapons in the world.

@@ -8,6 +8,7 @@ zoomLevel: 4
 sources: ["all_sections_formatted/Rimihuica.md#L5367"]
 relations:
   - { rel: spatial, kind: within, target: "3087" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-pfustias" }
 ---
 The southeastern corner of Phirexes, a remote marshland where the queen's control is weakest. Technically within her borders, Ogzwad has become a kind of neutral territory since the dragon Pfustias claimed it as her domain.
 

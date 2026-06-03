@@ -17,6 +17,7 @@ relations:
   - { rel: spatial, kind: borders, target: "457", note: "south (map-confirmed; Erasnus prose omits it)" }
   - { rel: polity, kind: memberOf, target: "faction-aldriktch-trade-alliance" }
   - { rel: polity, kind: ruledBy, target: "person-merrin-wendling", note: "head of the Erasnus merchant council" }
+  - { rel: polity, kind: rivalOf, target: "710", note: "the failed Tiira-attested Adnar grain bond, now a charter case before the Alliance court" }
   - { rel: history, kind: participatedIn, target: "event-aldriktch-founding", note: "a founding member of the charter" }
   - { rel: culture, kind: inhabitedBy, target: "race-halfling-belenstrope" }
   - { rel: spatial, kind: within, target: "9000" }
@@ -37,7 +38,15 @@ That is why Erasnus has spent the last decade as the Alliance's most anxious mem
 
 #### Adnar
 
-Major city in the south, positioned for trade with Ubrik and the southeastern routes. It is now the first stop for the refugees the silvertongue crisis has pushed out of the dwarf country, and its warehouses are fuller of people than of goods.
+The country's grain port, in the south, positioned for trade with Ubrik and the southeastern routes. The silvertongue crisis has made it the first stop for the refugees pushed out of the dwarf country, and its warehouses now hold more people than grain. Feeding them has turned every grain contract Adnar signs into something the council watches closely, which is how one failed delivery became the case that may decide whether the Alliance holds.
+
+#### The bond before the court
+
+A Myornic factor stood surety for a season's grain bound for Adnar, the bond sealed under a Tiira-warrant, which is the Sivakr state's own form of attestation. The grain never arrived. When the Adnar buyers moved to recover against the bond, they found its recorded terms were not the terms they remembered shaking on, and anyone who deals with the Sivakr learns to fear that gap, because the silver elves negotiate by editing what the other party remembers having agreed. Erasnus is arguing the bond was memory-modified at signing and is therefore void. Myorna answers that a Tiira-attested bond is the agreement, and binds as written.
+
+The charter has no answer ready, so the question has gone to the Alliance court that sits at Aldriktch, on Watari soil: does a Sivakr-notarized contract hold among members. Watar is in no hurry to convene it. Control of the venue is leverage, and Watar has its own quarrels to press, so the hearing keeps slipping while Adnar's warehouses stay empty. The case has even split Erasnus's own contract-hall notaries, the keepers of the Foedros rite, some of whom refuse on religious grounds to argue a real seal void.
+
+For Merrin Wendling the case is a trap with no good wall to it. Press the claim that the bond is void and win, and the Alliance has ruled that no Sivakr signature is worth the wax, which drives Myorna's silver and likely Myorna itself out of the pact. Decline to press it and eat the loss, and she has shown five suspicious courts that the charter can be gamed by anyone willing to rewrite a signer's memory at the table. Either ruling cracks the pact her nation lives on. She would far rather see the thing settled quietly out of court, and that is the one outcome neither Myorna's pride nor Watar's interest will let her have.
 
 #### Trade Roads
 

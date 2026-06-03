@@ -10,4 +10,4 @@ sources: ["all_sections_formatted/Clueanda.md#L6395"]
 relations:
   - { rel: spatial, kind: within, target: "1327" }
 ---
-Not mountains at all, but composed of the collosal vertabrae of a titanwurm. This was the first of the titanwurm mountains to be discovered.
+These are not mountains at all. They are the collosal vertabrae of a titanwurm, the first of the titanwurm mountains to be discovered.

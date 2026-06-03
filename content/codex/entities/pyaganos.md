@@ -21,25 +21,25 @@ A green dragon who has ruled the Phriorys hills and northwestern Dygon Beastland
 
 Pyaganos is slightly smaller than his sister—his wingspan reaches perhaps one hundred eighty feet, his body closer to one hundred fifty from snout to tail. But he carries himself as if he were the largest creature in existence, and in the open grasslands of Phriorys, he usually is.
 
-His scales are **bright green**, almost emerald, lacking the darker mottling that helps Draphilir blend into shadows. Pyaganos doesn't want to blend in. His coloring catches light beautifully, especially at dawn and dusk when the Phriorys hills turn golden and the dragon's scales seem to glow against them. He maintains his appearance carefully—grooming, removing damaged scales, ensuring his hide always gleams.
+His scales are bright green, almost emerald, lacking the darker mottling that helps Draphilir blend into shadows. Pyaganos doesn't want to blend in. His coloring catches light beautifully, especially at dawn and dusk when the Phriorys hills turn golden and the dragon's scales seem to glow against them. He maintains his appearance carefully—grooming, removing damaged scales, ensuring his hide always gleams.
 
-A ridge of **prominent spines** runs from his skull to his tail-tip, each one ivory-white and sharp enough to pierce armor. The spines serve no practical purpose that scholars have identified; they appear to be purely decorative, a display of draconic magnificence that Pyaganos cultivates deliberately.
+A ridge of prominent spines runs from his skull to his tail-tip, each one ivory-white and sharp enough to pierce armor. The spines serve no practical purpose that scholars have identified; they appear to be purely decorative, a display of draconic magnificence that Pyaganos cultivates deliberately.
 
-His eyes are **amber**, bright and intelligent, and they miss nothing. Pyaganos watches everything in his territory with the patient attention of a predator who knows he has all the time in the world.
+His eyes are amber, bright and intelligent, and they miss nothing. Pyaganos watches everything in his territory with the patient attention of a predator who knows he has all the time in the world.
 
 ### Character
 
-Pyaganos is **vain** beyond any rational measure. He considers himself the most magnificent creature in existence—a belief that centuries of unchallenged dominance have only reinforced. He preens. He poses. He arranges his kills and his hoard for maximum aesthetic impact. The Ix'Meglyakuk call him *Thyrak-Mor*, "the Beautiful Terror," and he takes the name as his due.
+Pyaganos is vain beyond any rational measure. He considers himself the most magnificent creature in existence—a belief that centuries of unchallenged dominance have only reinforced. He preens. He poses. He arranges his kills and his hoard for maximum aesthetic impact. The Ix'Meglyakuk call him Thyrak-Mor, "the Beautiful Terror," and he takes the name as his due.
 
-He is **cruel** in a casual, almost playful way. The seasonal hunts that terrorize Phriorys are not about food—Pyaganos could eat his fill anytime he wished. They're entertainment. He enjoys the chase, the fear, the moment when prey realizes it cannot escape. He prolongs kills for amusement and sometimes releases victims just to hunt them again.
+He is cruel in a casual, almost playful way. The seasonal hunts that terrorize Phriorys are not about food—Pyaganos could eat his fill anytime he wished. They're entertainment. He enjoys the chase, the fear, the moment when prey realizes it cannot escape. He prolongs kills for amusement and sometimes releases victims just to hunt them again.
 
-He is **theatrical** in all things. Pyaganos could conduct his business privately, but he chooses not to. Tribute collections happen in the open. Punishments are public spectacles. Even his roosting—visible on hilltops across Phriorys—is a performance, a constant reminder that the dragon is watching.
+He is theatrical in all things. Pyaganos could conduct his business privately, but he chooses not to. Tribute collections happen in the open. Punishments are public spectacles. Even his roosting, visible on hilltops across Phriorys, is a performance, a constant reminder that the dragon is watching.
 
-He **hates** his sister Draphilir with a passion that matches hers for him. But where Draphilir's hatred is cold and patient, Pyaganos's burns hot. He wants to destroy her *now*, to burn Blyss to ash and scatter her bones. Only the memory of their last war—and the scars he still carries—keeps him in check.
+He hates his sister Draphilir with a passion that matches hers for him. But where Draphilir's hatred is cold and patient, Pyaganos's burns hot. He wants to destroy her now, to burn Blyss to ash and scatter her bones. Only the memory of their last war, and the scars he still carries, keeps him in check.
 
 ### The Breath
 
-Pyaganos's breath weapon is **fire**, but not ordinary dragonfire. His flames burn green-tinged, leaving ash that remains faintly luminescent for weeks. Areas he's burned extensively—like the Burned Valley—retain a permanent glow visible on dark nights, a reminder of his power.
+Pyaganos's breath weapon is fire, but not ordinary dragonfire. His flames burn green-tinged, leaving ash that remains faintly luminescent for weeks. Areas he's burned extensively, like the Burned Valley, retain a permanent glow visible on dark nights, a reminder of his power.
 
 **Precision Control:** Unlike many fire-breathing dragons, Pyaganos has developed extraordinary control over his breath. He can torch a single target while leaving everything around it untouched, or he can blanket square miles in flame. He uses this control for effect—burning intricate patterns into hillsides, incinerating tribute that displeases him one piece at a time.
 
@@ -47,13 +47,13 @@ Pyaganos's breath weapon is **fire**, but not ordinary dragonfire. His flames bu
 
 ### The Lair
 
-Pyaganos's lair occupies **Thyrak-Vor**, a limestone hill in central Phriorys. Unlike Draphilir's hidden sinkhole, Thyrak-Vor is visible for miles—a bare-stone prominence rising three hundred feet above the grassland, its caves open and accessible to anyone who dares approach.
+Pyaganos's lair occupies Thyrak-Vor, a limestone hill in central Phriorys. Unlike Draphilir's hidden sinkhole, Thyrak-Vor is visible for miles—a bare-stone prominence rising three hundred feet above the grassland, its caves open and accessible to anyone who dares approach.
 
 **The Summit:** Pyaganos spends more time on the hilltop than in the caves below. He rests there openly, surveying his domain, making himself visible to everyone within sight. The summit serves as his throne room, his audience chamber, and his stage.
 
 **The Trophy Caves:** The upper caves display Pyaganos's most treasured kills—skulls and bones arranged with artistic care, each specimen positioned for maximum impact. The collection includes megafauna, rival dragons, unfortunate humanoids, and several creatures that don't match any known species. Pyaganos conducts tours for visitors he wishes to impress or intimidate.
 
-**The Deep Hoard:** Below the trophy galleries, flooded chambers contain eight centuries of accumulated wealth. Pyaganos guards this hoard jealously but knows exactly where every piece is. He can describe specific items' locations, histories, and the circumstances of their acquisition. The hoard is not just wealth—it's a record of his reign.
+**The Deep Hoard:** Below the trophy galleries, flooded chambers contain eight centuries of accumulated wealth. Pyaganos guards this hoard jealously but knows exactly where every piece is. He can describe specific items' locations, histories, and the circumstances of their acquisition. The hoard is more than wealth; it is a record of his reign.
 
 ### Relationships
 
@@ -61,7 +61,7 @@ Pyaganos's lair occupies **Thyrak-Vor**, a limestone hill in central Phriorys. U
 
 **The Favored Tribes:** Pyaganos has elevated three Ix'Meglyakuk tribes to favored status—the Thyrak-Uli, the Kesh-Morru, and the Vorrikan. He protects them from threats, grants them hunting rights in prime territory, and uses them as instruments of his will. In exchange, they provide whatever he demands without question. The relationship is transactional but stable.
 
-**Chimea:** Pyaganos finds Chimean attention flattering. He allows traders and observers into his territory because their presence confirms his magnificence—here are representatives of a great nation, come to witness the power of Pyaganos. He would never admit it, but their admiration feeds his vanity.
+**Chimea:** Pyaganos finds Chimean attention flattering. He allows traders and observers into his territory because their presence confirms his magnificence—here are representatives of a great nation, come to witness the power of Pyaganos. He would never admit it, but their admiration feeds his vanity. Three times that nation has sent legions rather than observers, and three times he has repelled them and released enough survivors to guarantee a fourth attempt; see the Three Repulsions.
 
 **Other Dragons:** Pyaganos considers himself exceptional among dragonkind. He views other dragons with casual contempt—rivals to be defeated, inferiors to be ignored, or potential threats to be monitored. He's had no contact with dragons outside Ve for centuries and assumes none are his equal.
 

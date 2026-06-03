@@ -36,7 +36,7 @@ The caverns exist because the crystals carved them. As formations grew, they dis
 
 The crystals pulse with visible force energy, casting the caverns in shifting blue-white light. Their glow intensifies with size and age—the smallest formations emit a steady luminescence, while the largest ancient crystals flare and dim in slow rhythms, their stored energy ebbing and flowing with the leyline's pulses.
 
-Each crystal contains what scholars call "frozen intent"—not just raw force magic, but force magic shaped by purpose. The crystals don't simply store kinetic energy; they store *directed* kinetic energy. When a crystal shatters, the released force doesn't explode randomly. It executes.
+Each crystal contains what scholars call "frozen intent": force magic shaped by purpose. The crystals store directed kinetic energy. When a crystal shatters, the released force doesn't explode randomly. It executes.
 
 A crystal that formed while absorbing the force of an underwater current might release that force as a horizontal blast when broken. One that grew during an earthquake might discharge its energy downward, into the stone. The oldest and largest crystals have absorbed so many different forces over so many centuries that their release patterns become unpredictable—multiple vectors of destruction firing simultaneously in different directions.
 
@@ -46,7 +46,7 @@ Relatively safe. Never actually safe.
 
 #### The Harvest
 
-New Chimea controls the primary approaches to the Crystal Caverns and has built an industry around their exploitation. Crystal divers are trained from youth—typically Kendor citizens or humans with magical water-breathing—and spend years learning to read formations before they're permitted to harvest.
+New Chimea controls the primary approaches to the Crystal Caverns and has built an industry around their exploitation. Crystal divers are trained from youth, typically Kendor citizens or humans with magical water-breathing, and spend years learning to read formations before they're permitted to harvest.
 
 The standard technique involves specialized chisels that separate crystals from the cavern walls without triggering their stored energy. This requires precise angles, specific rhythms of impact, and an intuitive understanding of the crystal's internal structure. A successful harvest produces intact crystals that can be transported to the surface, where mages and artificers use them in a variety of applications.
 

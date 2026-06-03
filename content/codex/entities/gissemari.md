@@ -33,19 +33,19 @@ Gissemari occupies the southern-central portion of the Neferati peninsula:
 - **Southwest**: Wadiyah
 - **East and West**: Coastline and the Sea of Merchants
 
-The terrain is more varied here than in the other kingdoms—volcanic highlands, fertile valleys, and a coastline of hidden coves and artist retreats.
+The terrain is more varied here than in the other kingdoms: volcanic highlands, fertile valleys, and a coastline of hidden coves and artist retreats.
 
 #### The Flame of the Forge
 
-Gissemari's Eternal Flame burns in the **Great Forge of Gissemari**—not a temple but a working smithy, the largest and oldest in the world. Master craftsmen have created legendary works here for millennia, their creations heated in fire that has burned since before mortal hands shaped metal. The Forge is at once sacred site, school, and living museum: priest-smiths who tend the flame see no distinction between craft and worship. Items forged here bear its sigil—three flames intertwined—a mark worth more than the materials themselves.
+Gissemari's Eternal Flame burns in the **Great Forge of Gissemari**, a working smithy rather than a temple, the largest and oldest in the world. Master craftsmen have created legendary works here for millennia, their creations heated in fire that has burned since before mortal hands shaped metal. The Forge is at once sacred site, school, and living museum: priest-smiths who tend the flame see no distinction between craft and worship. Items forged here bear its sigil, three flames intertwined, a mark worth more than the materials themselves.
 
 #### Terrain and Climate
 
-Moderate by Neferati standards—hot but with reliable rainfall from ocean moisture. The volcanic soil is exceptionally fertile, supporting agriculture that feeds the kingdom's artisan population. The landscape is beautiful: dramatic volcanic peaks, lush valleys, and a coastline that artists have painted for generations.
+Moderate by Neferati standards, hot but with reliable rainfall from ocean moisture. The volcanic soil is exceptionally fertile, supporting agriculture that feeds the kingdom's artisan population. The landscape is beautiful: dramatic volcanic peaks, lush valleys, and a coastline that artists have painted for generations.
 
 #### Ruler
 
-The nominal ruler is **Queen Ishari**, seven years old and already showing artistic talent. Her father **Prince-Consort Vhelan**—an accomplished sculptor in his own right—rules as regent. Vhelan is utterly disinterested in politics and governs because someone must. On the Council of Four Flames he votes whichever way ends the meeting fastest, making him an unlikely but effective mediator between the other monarchs' stronger positions.
+The nominal ruler is **Queen Ishari**, seven years old and already showing artistic talent. Her father **Prince-Consort Vhelan**, an accomplished sculptor in his own right, rules as regent. Vhelan is utterly disinterested in politics and governs because someone must. On the Council of Four Flames he votes whichever way ends the meeting fastest, making him an unlikely but effective mediator between the other monarchs' stronger positions.
 
 #### The Artisan Guilds
 
@@ -61,7 +61,7 @@ Gissemari maintains the smallest military of the four kingdoms, relying on its n
 
 #### The Art Market
 
-Gissemari doesn't trade in volume—it trades in excellence. Forge-marked works command extraordinary prices across Alaria, and the wealthy of every nation, Tarkhon's nobility included, depend on Gissemari for status symbols. In a sense, Gissemari already owns part of Tarkhetan—the part that cares about beautiful things.
+Gissemari trades in excellence, not volume. Forge-marked works command extraordinary prices across Alaria, and the wealthy of every nation, Tarkhon's nobility included, depend on Gissemari for status symbols. In a sense, Gissemari already owns part of Tarkhetan, the part that cares about beautiful things.
 
 #### Relationship with Other Kingdoms
 
@@ -71,4 +71,4 @@ Gissemari doesn't trade in volume—it trades in excellence. Forge-marked works 
 
 **With Wadiyah**: Uneasy. Queen Khalira has little patience for art that doesn't serve political ends.
 
-**With Tarkhon**: Complicated by commerce. Gissemari sells to anyone who can pay. Some Neferati find this distasteful; Gissemari artists argue their works carry Neferati culture into the enemy's homes—a conquest of aesthetic rather than arms.
+**With Tarkhon**: Complicated by commerce. Gissemari sells to anyone who can pay. Some Neferati find this distasteful; Gissemari artists argue their works carry Neferati culture into the enemy's homes, a conquest of aesthetic rather than arms.

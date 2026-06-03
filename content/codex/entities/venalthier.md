@@ -22,7 +22,7 @@ review:
 ---
 ### Geography
 
-Venalthier is the frozen polar region occupying the extreme southwest of Upoceax. This is a land of white cliffs, glacial ice, and bitter cold—a world apart from the forests and plains of the main continent. Roughly 1,100 miles east to west and 650 miles north to south, Venalthier is larger than many nations yet supports fewer than a thousand permanent residents.
+Venalthier is the frozen polar region occupying the extreme southwest of Upoceax. This is a land of white cliffs, glacial ice, and bitter cold, a world apart from the forests and plains of the main continent. Roughly 1,100 miles east to west and 650 miles north to south, Venalthier is larger than many nations yet supports fewer than a thousand permanent residents.
 
 #### Boundaries and Position
 
@@ -46,13 +46,13 @@ Venalthier is the frozen polar region occupying the extreme southwest of Upoceax
 
 **Pale Death**: The central-eastern plain of featureless white, notorious for claiming travelers. Its eastern edge meets the impossible boundary of Eyendra forest, where polar conditions end and living boreal forest begins instantly.
 
-**Ekri Towers**: Twin black spires of unknown origin rising from the ice between Morelous and Selengreyb—the only structures in Venalthier's interior.
+**Ekri Towers**: Twin black spires of unknown origin rising from the ice between Morelous and Selengreyb, the only structures in Venalthier's interior.
 
 ##### Southern Plateaus
 
 **Selengreyb Plateau**: The elevated heart of Venalthier at 5,000-6,000 feet, source of the katabatic winds that scour the interior. Contains a mysterious central depression with anomalous properties.
 
-**West Selengreyb**: The brutal transition slope where plateau winds accelerate to maximum velocity—the most dangerous leg of east-west travel.
+**West Selengreyb**: The brutal transition slope where plateau winds accelerate to maximum velocity, the most dangerous leg of east-west travel.
 
 **Akratian Plateau**: The southernmost landmass, extending toward the polar ice cap. Gateway to the unreached southern pole, known for the phenomenon of singing ice.
 
@@ -74,11 +74,11 @@ Venalthier experiences polar conditions year-round:
 
 Venalthier has no nations, no governments, no territorial claims. The only organized presence is the Nabuhe dwarf clan in East Whitewall, who control the Frostfire mines and thereby control access to the only reliable heat source in the region.
 
-The Nabuhe don't rule Venalthier—they simply survive it better than anyone else. Their monopoly on Frostfire gives them power without requiring them to exercise it; anyone who wants to live in Venalthier needs Frostfire, and the Nabuhe set the terms.
+The Nabuhe don't rule Venalthier; they simply survive it better than anyone else. Their monopoly on Frostfire gives them power without requiring them to exercise it; anyone who wants to live in Venalthier needs Frostfire, and the Nabuhe set the terms.
 
 Beyond the Nabuhe territory, Venalthier is lawless in the truest sense. No authorities, no enforcement, no structure. Survival is the only law, and the ice enforces it impartially.
 
-What draws the rare outsider here is what the ice preserves: the dead titan beneath The Face whose body yields Frostfire, the black Ekri Towers of unknown make, and the buried things the interior plains have swallowed. Each is detailed in its own entry. The constant is that nothing in Venalthier is harvested cheaply — the cold takes its price first.
+What draws the rare outsider here is what the ice preserves: the dead titan beneath The Face whose body yields Frostfire, the black Ekri Towers of unknown make, and the buried things the interior plains have swallowed. Each is detailed in its own entry. The constant is that nothing in Venalthier is harvested cheaply, and the cold takes its price first.
 
-Ikriel colonies persist throughout the interior plains. The frost pixies — settlement-less, flesh-eating winter loners found wherever cold environments eliminate competition — reach their highest concentrations here, drawn by the same absence of governance that frustrates everyone else. They are not the most dangerous thing in Venalthier, but they are among the most reliably present.
+Ikriel colonies persist throughout the interior plains. The frost pixies, settlement-less, flesh-eating winter loners found wherever cold environments eliminate competition, reach their highest concentrations here, drawn by the same absence of governance that frustrates everyone else. They are among the most reliably present of Venalthier's dangers, if not the most dangerous.
 

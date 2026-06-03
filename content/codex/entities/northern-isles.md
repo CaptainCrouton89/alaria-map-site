@@ -64,7 +64,7 @@ A chain of smaller, heavily glaciated islands stretching across the northern arc
 The Northern Isles have no unified government and few permanent settlements. Power here is measured in individual might, not political organization:
 
 - **Bzulakar** dominates the central archipelago through sheer magical supremacy. No one challenges him; no one could.
-- **Gelnor** controls the Foggy Isles through ancient compact and fog-shrouded isolation
+- **Gelnor** keeps the Shroud Isles fog-bound and himself with them, a self-exile atoning for a crime he buried centuries ago
 - **Pherezi Imnuttut** is essentially lawless—whatever creatures inhabit Giantfell and the Hills of Insanity answer to no authority
 - **Aknimchuk's** small trading settlement operates on frontier justice and mutual necessity
 
@@ -91,11 +91,11 @@ For adventurers, the Northern Isles offer treasures and dangers found nowhere el
 - A new power arrives in the isles, challenging Bzulakar's dominion
 - The creatures of Giantfell begin migrating south toward inhabited lands
 
-#### Foggy Isles
+#### The Shroud Isles
 
-The most densely foggy islands in this half of the world. Home to an old Tuktuk named Gelnor who is paragon attuned to fog and water. Lives here eternally to atone for his sins (he's a lich, immortal).
+The most densely fog-bound islands in this half of the world, named for the shroud of mist that never lifts from them. The fog is not weather. It is held in place by [[person-gelnor]], an old Tuktuk paragon of fog and water who has lived here in self-exile for centuries. He is a lich, and he does not leave. See [[shroud-isles]] for the islands themselves.
 
-On shore are giant hermit crabs that eat the algae off the rocks.
+Giant hermit crabs work the shoreline, grazing algae off the rocks.
 
 #### Potalaptuk
 

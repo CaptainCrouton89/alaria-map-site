@@ -7,7 +7,7 @@ tags: ["history", "era"]
 weight: standard
 atmosphere: dangerous
 relations:
-  - { rel: history, kind: occurredDuring, target: "era-seventh-dawn" }
+  - { rel: history, kind: within, target: "era-seventh-dawn" }
 sources:
   - "history_and_lore/timelines/World Timeline.md"
 review:

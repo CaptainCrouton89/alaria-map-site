@@ -1,0 +1,26 @@
+---
+id: "event-the-grinding"
+name: "The Grinding"
+entityType: event
+blurb: "The Krell advance north through the old kingdoms of southeastern Ve, and the fall of Velkoron around 3150 SD that put the jungle directly on Shyona's southern border."
+tags: ["event"]
+relations:
+  - { rel: history, kind: occurredDuring, target: "era-seventh-dawn" }
+  - { rel: history, kind: caused, target: "338", note: "ground the buffer kingdoms to nothing and left the Krell jungle pressing on Shyona's southern farmland; the one frontier Shyona has had to wall" }
+---
+The Krell came out of the deep jungle of southeastern Ve near three centuries ago, and what they did to the old kingdoms there is a thing Shyona watched from the far end of, kingdom by kingdom, for the better part of a hundred years. The Shyonans call the whole long advance the Grinding, because that is what it looked like from the north. It was less a war than a slow pressure that never stopped and never hurried, taking a realm a season at a time and leaving nothing behind to bargain with.
+
+The refugees told it the same way every time. First the scouts, then a season where the ground itself seemed to be made ready by something patient, then the swarm. Where the swarm passed, the walls were left standing and the fields were stripped to bare soil and the people were simply gone. There was no occupier to sue for terms and no border to fortify, only a line that was a little farther north each year. Nobody who carried that account out of the south could say where the Krell had come from or what they wanted, and Shyona has never learned. It only learned that they did not stop.
+
+Between the swarm and Shyona's own lowland stood Velkoron, the last and largest of the old southeastern kingdoms, a walled realm with a standing army and a king who held longer than any of his neighbors had. For a generation Velkoron was the buffer, and Shyona treated it as one: a useful distance, somebody else's wall. When Velkoron's envoys came north asking for soldiers, the council did what the council does. It deliberated. It weighed which houses should send how many and whether the threat was truly Shyona's to answer, and while it weighed, the grain caravans that had always come up from Velkoron came thinner, and then came as refugees, and then stopped. Velkoron fell around 3150 SD. After that the Krell jungle touched Shyona directly, along the lowland gap above Meadow Sound, and the buffer the council had been so careful never to spend its own tenants defending was simply gone.
+
+Velkoron is why the south does not trust the council to act in time. The lords of Shyona's southernmost province watched the last buffer disappear while their own confederation debated the cost of helping it, and the lesson their heirs took from it is the whole of southern politics now: that a frontier left to the council's deliberation is a frontier that falls. It is the grievance under Lord Norikane Sazagawa's decision, generations later, to stop asking the council at all and hire the Goldwatch to hold the wall himself. The Krell have not pushed north in force since Velkoron fell. The south does not believe that means they have stopped.
+
+<!-- author-notes -->
+NAMES: "The Grinding" (event) and "Velkoron" (the last fallen buffer kingdom) coined; grep -rli collision-check clean for both (substring matches for "grinding" are common-word prose; "Velkoron" returns zero; slug event-the-grinding free). "The Grinding" reused from prior dead writer's chosen name, re-verified. Velkoron built as a sibling to the canonical fallen southeastern kingdoms in krell-lands.md (Theoron, Valifax, the Jaipon Confederacy) — same lost-kingdoms register, distinct opener; flagged provisional. Named as a human kingdom; no king-name coined (kept to "a king" to limit coinage).
+
+KRELL CONSTRAINT honored: authored strictly from the OUTSIDE — only what Shyona and the southeastern kingdoms experienced. The scouts → prepared-ground → swarm pattern, walls-left/fields-stripped/people-gone, the ~3100 SD emergence, and "no one knows where they came from or what they want / haven't pushed in force since" are all existing krell-lands.md (id 211) canon, restated as Shyonan experience, NOT new Krell-internal facts. No edge to krell-lands or race-krell (cross-link by prose only, per brief). No Krell motive, hive, or queen invented.
+
+DATING: Krell emergence ~3100 SD and "consumed over three centuries" are krell-lands.md canon (present is 3376 SD). Velkoron's fall placed ~3150 SD — within the "two generations to fall" window krell-lands.md gives for the kingdoms nearest the emergence, and consistent with shyona.md's "better part of three centuries the Krell have ground north" (the grind began ~3100; the buffer's fall ~226 years ago is the climax within it, not the start).
+
+EDGES: caused → 338 carries the required two-way link into shyona.md (prose backlink added there naming Velkoron + the Grinding). The Sazagawa connection in the final paragraph is PROSE-ONLY both directions (a one-line backlink added in person-norikane-sazagawa.md): no edge, because present-day Sazagawa did not participate in a ~226-year-old event — the relationship is inherited grievance, which entity-relations.md directs to prose rather than a forced edge kind.

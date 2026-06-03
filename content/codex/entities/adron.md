@@ -16,6 +16,8 @@ relations:
   - { rel: culture, kind: inhabitedBy, target: "race-naga-megelren" }
   - { rel: culture, kind: inhabitedBy, target: "race-kendor-pelaendor" }
   - { rel: polity, kind: ruledBy, target: "person-mariseni" }
+  - { rel: economy, kind: skyRouteTo, target: "398" }
+  - { rel: economy, kind: skyRouteTo, target: "3178" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -24,7 +26,7 @@ review:
 bannerPosition: "50% 6.9%"
 bannerHeight: 360
 ---
-Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges. For most of the early Seventh Dawn its Nagashi rode bonded war-dragons and warded the eastern sea from the air, the long age the rest of the coast named the Wyrmward. That age ended at the Severing, when the dragon-bonds were cut in a single night, and Adron now trades on banking, shipbuilding, and the red gold mined from its peaks. The climate is Mediterranean: warm coastlines, temperate forests in the valleys, snow-capped mountains along the horizon.
+Adron is the easternmost state on the Middle Sea, a proud Naga kingdom set between mountain ranges. For most of the early Seventh Dawn its Nagashi rode bonded war-dragons and warded the eastern sea from the air, the long age the rest of the coast named the Wyrmward. The riders won their mounts across the sea at Nagayeshi, the hatch-ground at the eye of Oblivion, where Nagatayora's eldest living child Eyatora chose who would bond a dragon and who would sail home empty. That age ended at the Severing, when the dragon-bonds were cut in a single night, and Adron now trades on banking, shipbuilding, and the red gold mined from its peaks. The climate is Mediterranean: warm coastlines, temperate forests in the valleys, snow-capped mountains along the horizon.
 
 Three major ley lines cross Adron: water through the capital, time running southwest to northeast across the north, and dark through the center. Their intersections produce an unusually high number of elementally attuned Naga. The dark line carries the worst name of the three. The order that severed the dragon-bonds kept to it, and Nagashi who work darkness magic are watched in Adron, because of where that magic reaches on its far side: Malstaris, the gray plane that gathers the shadows of the dead.
 
@@ -33,6 +35,8 @@ Every Naga traces its blood to Nagatayora, the dragon-father, eldest son of Gaea
 The Nagashi are Adron's people: the ruling houses and banks, the thinned-out heirs of the rider caste. The houses govern as a body from Adrak, and the foremost of them just now answers to Mariseni. The Megélren are here too, far fewer and far quieter. Adron tells itself they are traitor's blood cast out long ago, the story it hangs on the old Megélren Exile. The obsidian form answers to no such tidy history; it surfaces unbidden in any Naga line, in houses that never went near the Exile. What keeps the Megélren in Adron is the shadow economy, which has always found work for operatives who ask nothing and are owed nothing.
 
 Adron's place in the Middle Sea is the bank and the shipyard. The red gold of its mountains and the depth of its counting-houses make Adrak the coast's lender of choice, and a fair share of the hulls that carry Camaran's manufactures and the eastern harvests around the rim are Adron-built and Adron-financed. The kingdom sits at the far eastern end of the arc, distant from the Tarkhon narrows, and pays the strait toll on its own exports with the same resentment as everyone else. But the distance from the chokepoint is what lets it play financier to the states that sit nearer the throat of it. When a Middle Sea war needs funding, the loan is usually written in Adrak.
+
+The bank's reach is the coin itself. The Royal Adrak Bank mints and underwrites the Aldriktch standard, the iron-reckoned coinage the whole Middle Sea and the Tarkhon Empire keep their books in, and it publishes the cross-rate that ties that northern reckoning to the weighed silver of the southern trade. No other house is heavy enough to make a rate hold, so a Free Isles mark and a Kyagos scar of silver are both priced, in the end, against a number set in Adrak. The red gold of the eastern peaks is the kingdom's luxury metal, too valuable and too Kethic-turning to spend, but the ranges give up something rarer still. Red platinum surfaces in trace amounts beside the gold, a hundred times scarcer and a different metal entirely, and the Adron houses hold nearly all of it. They strike it into the Crimson Crown, the standard's highest face, a coin that exists more as a sealed bullion-trophy than as money and changes hands at the scale of kingdoms.
 
 #### Mountain Ranges
 
@@ -58,3 +62,5 @@ Darkness-magic → Malstaris flip-side (AD10): named lightly in the leyline para
 Megélren framing: the body gives the racialized "traitor's blood" line AS the myth Adron tells itself, then denies it (the obsidian form surfaces unbidden in any line). This respects locked race canon (race-naga-megelren.md: "There was no such band"). The Megélren Exile (event-the-megelren-exile) was a political faction's expulsion, not a blood's; do NOT let any future edit correlate obsidian scale with the exiles.
 
 Crown/houses reconciliation: adrak.md says "seat of the monarchy"; this body frames the crown as nominal, held by whichever banking house stands first (presently Mariseni's). No contradiction — the houses rule, the crown is ceremonial. adrak.md left untouched (light-touch; already strong).
+
+Currency wiring (currency-worker pass): added the Royal Adrak Bank as mint/underwriter of the Aldriktch iron standard and rate-setter for the southern weighed-silver standard, per docs/worldbuilding/systems/currency.md. RED PLATINUM is a NEW material introduced by the locked currency spec (decisions.md §Currency: "Crimson Crown = red PLATINUM, rarer, above Crown. NOT the same as red gold"). It is reconciled as a DISTINCT element from red gold (magic-red-gold.md, Adron-mined): red gold turns Kethic, red platinum does not — that difference is the canonical counterfeit-test. Do not let any future edit conflate the two or give red platinum red gold's Kethic-turning property. No edges added here (currency worker reports a wishlist; orchestrator applies the serialized currency+economy edge pass). Existing produces → magic-red-gold edge untouched.

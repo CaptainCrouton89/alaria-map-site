@@ -11,15 +11,15 @@ relations:
   - { rel: spatial, kind: within, target: "2201" }
   - { rel: culture, kind: inhabitedBy, target: "race-dwarf-fengruk" }
 ---
-A harsh range of peaks in the eastern Dragon's Spine, rising between the Hills of Sarrow to the north and the Pale Peaks to the south. The Bellowing Mountains are perpetually cold—snow blankets the upper slopes year-round, and the valleys rarely see temperatures above freezing even in summer. This is Gondurak, homeland of the Fengruk dwarves and site of the three great forges.
+A harsh range of peaks in the eastern Dragon's Spine, rising between the Hills of Sarrow to the north and the Pale Peaks to the south. The Bellowing Mountains are perpetually cold. Snow blankets the upper slopes year-round, and the valleys rarely see temperatures above freezing even in summer. This is Gondurak, homeland of the Fengruk dwarves and site of the three great forges.
 
 #### The Sound
 
-The mountains earned their name from the noise they make. On still days, a deep rhythmic rumbling echoes through the valleys—not thunder, not earthquakes, but the collective hammering of the Fengruk forges reverberating through the stone. The titans built these mountains hollow, riddling them with forge-chambers and ventilation shafts that carry sound for miles. When the forges are at full operation, the entire range seems to breathe with each hammer stroke.
+The mountains earned their name from the noise they make. On still days, a deep rhythmic rumbling echoes through the valleys. The sound is the collective hammering of the Fengruk forges reverberating through the stone, easily mistaken for thunder or an earthquake. The titans built these mountains hollow, riddling them with forge-chambers and ventilation shafts that carry sound for miles. When the forges are at full operation, the entire range seems to breathe with each hammer stroke.
 
-The effect is disorienting for first-time visitors. The sound comes from everywhere and nowhere, rising and falling in patterns that seem almost musical. Fengruk children learn the rhythms—they can identify which forge is operating, how many smiths are working, sometimes even what they're making, all from the quality of the echoes.
+The effect is disorienting for first-time visitors. The sound comes from everywhere and nowhere, rising and falling in patterns that seem almost musical. Fengruk children learn the rhythms. They can identify which forge is operating, how many smiths are working, sometimes even what they're making, all from the quality of the echoes.
 
-During the rare periods when all three forges fall silent simultaneously—for holy days or emergencies—the quiet is described as oppressive. The mountains feel wrong without their voice.
+During the rare periods when all three forges fall silent simultaneously, for holy days or emergencies, the quiet is described as oppressive. The mountains feel wrong without their voice.
 
 #### Geography
 
@@ -55,10 +55,10 @@ No maintained route leads south toward the Pale Peaks. The Fengruk have delibera
 
 The fortress of Azanfrain sits at the southern edge of Fengruk territory, built into a spur of rock overlooking the northern Shrapnel Strait. From here, watchers monitor the ice conditions, track creature movements on the Pale Peaks slopes, and coordinate responses when frostwalkers or ice wyrms attempt to migrate north.
 
-Azanfrain is not a comfortable posting. The garrison rotates every six months—longer deployments tend to produce psychological effects the Fengruk euphemistically call "ice-sight." But the work is necessary. Without Azanfrain, threats from the peaks would reach the forge cities unchallenged.
+Azanfrain is not a comfortable posting. The garrison rotates every six months. Longer deployments tend to produce psychological effects the Fengruk euphemistically call "ice-sight." But the work is necessary. Without Azanfrain, threats from the peaks would reach the forge cities unchallenged.
 
 #### What Lies Beneath
 
-The titan-era tunnel systems extend far deeper than the Fengruk currently occupy. The forges themselves are relatively shallow—built for titan convenience rather than dwarven preference—but shafts descend into darkness that no one has fully explored. The Fengruk have sealed most of these lower passages, not from fear of what might be down there, but from respect for whatever the titans were keeping separate from the working levels.
+The titan-era tunnel systems extend far deeper than the Fengruk currently occupy. The forges themselves are relatively shallow—built for titan convenience rather than dwarven preference, but shafts descend into darkness that no one has fully explored. The Fengruk have sealed most of these lower passages, not from fear of what might be down there, but from respect for whatever the titans were keeping separate from the working levels.
 
-Occasionally, sounds rise from the sealed depths. Not forge-sounds—something else. The Fengruk don't discuss this publicly. The mountains bellow, they say. That's all.
+Occasionally, sounds rise from the sealed depths, and they are not the sounds of forges. The Fengruk don't discuss this publicly. The mountains bellow, they say. That's all.

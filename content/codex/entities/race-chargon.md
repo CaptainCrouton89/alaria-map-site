@@ -11,9 +11,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Chargon are an enigmatic people whose eel-like heads and serpentine grace mask hearts filled with unexpected kindness. Despite their unsettling appearance—smooth, elongated skulls with large eyes and mouths full of needle-sharp teeth—they are among the most courteous and genuinely caring folk one might encounter. Their mysterious nature stems not from malice, but from a deep cultural appreciation for subtlety and the hidden currents that flow beneath surface interactions.
+The Chargon are an enigmatic people whose eel-like heads and serpentine grace mask hearts filled with unexpected kindness. Despite their unsettling appearance (smooth, elongated skulls with large eyes and mouths full of needle-sharp teeth), they are among the most courteous and genuinely caring folk one might encounter. Their mysterious nature comes from a deep cultural appreciation for subtlety and the hidden currents that flow beneath surface interactions.
 
-Masters of stealth and misdirection, the Chargon can slip through shadows and squeeze through impossibly tight spaces with fluid ease. Yet they use these abilities primarily to help others, appearing unexpectedly to offer aid to travelers in need or to resolve conflicts through subtle intervention. Their philosophy emphasizes moving through the world like water—adapting to obstacles rather than confronting them directly.
+Masters of stealth and misdirection, the Chargon can slip through shadows and squeeze through impossibly tight spaces with fluid ease. Yet they use these abilities primarily to help others, appearing unexpectedly to offer aid to travelers in need or to resolve conflicts through subtle intervention. Their philosophy emphasizes moving through the world like water, adapting to obstacles rather than confronting them directly.
 
 Chargon communities are often built in coastal caves or riverside settlements where they can easily access both land and water. They serve as intermediaries between different cultures, their natural talent for reading emotional undercurrents making them exceptional mediators and counselors.
 

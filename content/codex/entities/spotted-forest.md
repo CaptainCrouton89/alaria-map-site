@@ -39,7 +39,7 @@ The Spotted Forest hosts creatures adapted to island-hopping between wet and dry
 
 #### The Spotted Ones
 
-For generations, the Spotted Forest has served as a contact zone between the Husakas scorpion riders and the Chule herders of the savanna. Trade, negotiation, and inevitable romance have produced a mixed community: the Spotted Ones, who belong fully to neither culture.
+For generations, the Spotted Forest has been a contact zone between the Husakas scorpion riders and the Chule herders of the savanna. Trade, negotiation, and inevitable romance have produced a mixed community: the Spotted Ones, who belong fully to neither culture.
 
 They number perhaps two thousand, scattered across the larger oases in extended family groups. Their lifestyle blends both parent cultures:
 - They raise small herds of savanna cattle adapted to oasis life
@@ -65,7 +65,7 @@ The forest's primary value is its position: the last water before the desert, th
 - Metal goods from southern smiths
 - News from the jungles and coast
 
-The largest oasis cluster, **Merkatta**, hosts a permanent trading post that swells during the cool season when travel is easiest. Merkatta's pool is large enough to water a small caravan, and the surrounding trees have been supplemented with planted gardens and semi-permanent structures.
+The largest oasis cluster, Merkatta, hosts a permanent trading post that swells during the cool season when travel is easiest. Merkatta's pool is large enough to water a small caravan, and the surrounding trees have been supplemented with planted gardens and semi-permanent structures.
 
 #### Tensions
 
@@ -77,7 +77,7 @@ Everyone wants the Spotted Forest; no one can hold it.
 
 **Spotted Ones' position** — They pay lip service to whoever's currently demanding it, play both sides against each other when they can, and focus on making themselves too useful to eliminate. They're the translators, the guides, the marriage brokers, the neutral ground. Remove them, and trade gets much harder for everyone.
 
-**Periodic violence** — Every few decades, someone decides to force the issue. A Husakas clan pushes too hard for tribute; a Chule chief brings warriors instead of cattle. The fighting never lasts long—the forest is too scattered to hold, the prizes too small to die for—but it disrupts trade and leaves grudges that fester for generations.
+**Periodic violence** — Every few decades, someone decides to force the issue. A Husakas clan pushes too hard for tribute; a Chule chief brings warriors instead of cattle. The fighting never lasts long; the forest is too scattered to hold, the prizes too small to die for. But it disrupts trade and leaves grudges that fester for generations.
 
 Currently, tensions are elevated. A new Chule chief named Ombaka has been making noises about "reclaiming" the forest, and two Husakas clans have responded by increasing their presence at the western oases. The Spotted Ones are doing what they always do: staying friendly with everyone, hiding their valuables, and preparing to flee if necessary.
 
@@ -87,7 +87,7 @@ The largest oasis cluster and primary trading hub. Features:
 - A spring-fed pool covering nearly an acre
 - The Trading Shade—a massive tree where deals are struck
 - Semi-permanent structures including warehouses and a surprisingly good tavern
-- A Spotted One elder named Kessemi who serves as informal arbitrator
+- A Spotted One elder named Kessemi who acts as informal arbitrator
 
 ##### The Painter's Pools
 

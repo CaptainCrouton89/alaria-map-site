@@ -2,13 +2,14 @@
 id: "2420"
 name: "Istora"
 entityType: region
-blurb: "The eastern successor to the unified Winter Elf kingdom, Istora is ruled by Queen Lamenrae—daughter of the murdered Istor XXVI and the first woman to…"
+blurb: "The eastern half of the broken Winter Elf kingdom, ruled by Queen Lamenrae, the first woman to claim the elven throne."
 coordinates: [344, 563]
 zoomLevel: 3
 tags: ["state", "nation", "winter-elf", "istori"]
 sources: ["all_sections_formatted/Aboyinzu.md#L8613"]
 relations:
   - { rel: spatial, kind: within, target: "2368" }
+  - { rel: polity, kind: ruledBy, target: "person-lamenrae" }
   - { rel: culture, kind: inhabitedBy, target: "race-elf-istori" }
 review:
   aiWritten: true
@@ -16,65 +17,83 @@ review:
   action: keep
   notes: "Istora as eastern Winter Elf successor state is well-developed. Queen Lamenrae/succession crisis conflict is specific and compelling. Geographic anchoring to Sova Chyda river solid. Economy and politics sections have concrete hooks."
 ---
-The eastern successor to the unified Winter Elf kingdom, Istora is ruled by Queen Lamenrae—daughter of the murdered Istor XXVI and the first woman to claim the elven throne. Her realm follows the Sova Chyda river from the Suftos Hills to the sea, with the sacred Winterwood as its spiritual heart. The Istori were once known for regal calm; the succession crisis has made them something harder.
+Istora is the eastern half of the Winter Elf kingdom that broke in two when Istor XXVI was murdered. Queen Lamenrae rules it, daughter of the dead king and the first woman ever to hold the elven throne. Her realm follows the Sova Chyda from springs in the Suftos Hills down to the Void, with the dark forest of Winterwood at its center and the voices of the ancestors at the center of that. The Istori were once known for a kind of regal patience. The war has worn it off them.
 
 #### Geography
 
-Istora occupies the eastern portion of the Crimson Coast, bounded by the contested Suftos Hills to the west, the Dragon's Spine Coast to the east, and the Void to the south. The kingdom is defined by the Sova Chyda river system—settlements cluster along its banks, and the sacred Winterwood straddles its middle reaches.
-
-**Key Features:**
-- **Sova Chyda River**: Clean water and the kingdom's lifeline
-- **Winterwood**: Sacred evergreen forest, home to ancestral spirits
-- **Suftos Hills (eastern slopes)**: Contested borderland with Klevnaf
-- **Hag Hills (southern reaches)**: Wild highlands on the Dragon's Spine border
-- **Thraken Lake**: Mountain lake marking the eastern boundary
+Istora holds the eastern Crimson Coast. The contested Suftos Hills wall it off from Klevnaf to the west, Thraken Lake marks where its highlands give out toward the Dragon's Spine Coast in the east, and the Void closes it to the south. Almost everything that matters here sits on water. Settlements line the Sova Chyda, the sacred Winterwood straddles its middle reaches, and the southern uplands climb into the Hag Hills along the Dragon's Spine border. There is little flat ground and less of it is safe, so the river does the work of a road and a wall both.
 
 #### Economy
 
-Istora's economy is better positioned than Klevnaf's, though "better" is relative during wartime. The Sova Chyda provides irrigation for limited agriculture, the Winterwood offers sustainable timber, and the eastern trade routes to the Dragon's Spine Coast remain open.
+Istora is better placed than Klevnaf, though wartime makes "better" a thin word. The Sova Chyda waters what farmland the valley allows, and the eastern trade roads toward the Dragon's Spine Coast have stayed open while the western ones closed. Fishing feeds the coast, and Istori preserving methods keep a summer catch edible through the long winters.
 
-The kingdom exports carved woodwork—Istori craftsmen are renowned for their detailed work with Winterwood timber—and imports food, metal goods, and weapons. The war has made these imports more expensive, but they still flow.
-
-Fishing provides protein; the Sova Chyda and the coastal waters support significant catches. The elves have developed preservation techniques that allow fish to last through the long winters.
+The export that keeps the treasury solvent, and divides the realm, is Winterwood timber. Istori carvers have always worked the dark evergreen wood, but Lamenrae has turned a craft into a trade, selling worked and raw timber down the coast and buying back food, steel, and the weapons her own smiths cannot supply fast enough. The imports are what let Istora field a slightly larger army than its rival. The timber is what some of her own people cannot forgive her for selling.
 
 #### Politics
 
-**Queen Lamenrae** is the first woman to rule the Winter Elves—a break with tradition that her supporters call necessary evolution and her opponents call unforgivable deviation. She's young for an elf (perhaps two centuries), sharp-minded, and angry. Her father was murdered, her uncle stole half her kingdom, and tradition demands she be grateful for what remains.
+Lamenrae is young for an elf, perhaps two centuries, sharp and angry in roughly equal measure. Her father was killed, her father's uncle Taoinor seized the western half of the kingdom in the aftermath, and tradition expects her to be grateful for the half she kept. She is not.
 
-Her court is divided differently than Taoinor's:
+Her court divides over what the war is for. One side treats the succession crisis as a chance to remake an elven society they had long found stifling, and backs the queen's reforms as proof that the old rules can be broken without the sky coming down. The hawks want one thing only, Taoinor beaten and the kingdom made whole, and tolerate the reforms as a way to pay for it. A quieter set believe the war cannot be won at all, and are uneasy about saying so. Lamenrae speaks the language of the reformers and spends her nights on the work of the hawks. Her advisors worry that a queen this fixed on her uncle is not governing so much as waiting.
 
-- **Progressives**: Those who see the succession crisis as an opportunity to reform elven society
-- **Revanchists**: Those focused entirely on defeating Klevnaf and reunifying the kingdom
-- **Pragmatists**: Those who want to stabilize what they have before worrying about what they've lost
-
-Lamenrae herself is a revanchist wrapped in progressive rhetoric. She speaks of reform but spends most of her energy on the war effort. Her advisors worry she's so focused on vengeance that she's neglecting governance.
-
-**The Accusation**: Lamenrae believes absolutely that Taoinor murdered her father. She has witnesses—servants who saw Taoinor near the king's chambers that night, a cupbearer who noticed something strange about the wine. But none of it is conclusive, and Taoinor's supporters dismiss the witnesses as bought or coerced. The truth may never be established to everyone's satisfaction. Lamenrae has moved past caring about proving her case; she just wants Taoinor dead.
+She believes, and says, that Taoinor murdered her father. The case against him was assembled by her senior counselor Amrela: servants who put him near the king's chambers that night, a cupbearer who swears the wine smelled wrong. None of it would convict him, and his people call the witnesses bought. Lamenrae has stopped trying to prove anything. She wants Taoinor dead, and proof has become beside the point.
 
 #### Culture
 
-Istora represents the reformist wing of Winter Elf society—by necessity if not conviction. A queen requires new theology; new alliances require new customs; survival requires adaptation. The elves here have begun questioning traditions that Klevnaf holds sacred.
+Istora is the reformist half of Winter Elf society, more by necessity than by conviction. A queen needs a theology that allows a queen, and a besieged realm needs customs it can afford. So the Istori have begun to question things Klevnaf still holds fixed.
 
-The Winterwood remains central to their spirituality, but Istori interpretation has shifted. Where Klevnaf sees the ancestral voices as commands to be obeyed, Istora increasingly treats them as guidance to be considered. The dead advise; the living decide. This theological innovation horrifies Klevnaf's traditionalists.
+The Winterwood is still the center of their faith, but the Istori have changed what they think the dead are telling them. Where Klevnaf hears the ancestral voices in the Whitewood as commands, Istora has come to treat them as counsel. The dead advise; the living decide. To Klevnaf's traditionalists this is close to blasphemy. To most Istori it is simply what two centuries of outliving their ancestors' certainties taught them.
 
-Foxes and snowy owls still serve as companions—this tradition crosses factional lines—but Istora has begun training hawks and wolves as well. Practical needs override ancestral preferences.
+The harder split runs through the forge-temples of Ystaeria, the cold-glass patron the Istori keep on both sides of the war. Ystaeria's doctrine holds that cold exists to preserve, and her priests argue, civilly and without end, over what that means for the things cold makes. The Industrialists say a thing is best preserved in as many careful hands as can be found, which is as good a theology of export as Lamenrae could ask for. The Traditionalists say sacred work belongs with those who know how to keep it, and should never pass to outsiders who do not.
 
-The Istori have "become much nastier" since the split, as outsiders describe it. Centuries of regal calm have given way to siege mentality. Strangers are suspected; questions are threats; mercy is weakness. A people who once prided themselves on composure now pride themselves on survival.
+Most of Istora's forge-priests have made their peace with the queen. Aelrein has not. She keeps the forge-temple of Ystaeria at Tuur, which makes her the senior Traditionalist voice in the eastern kingdom, and she has carried the old argument past ice-glass into the Winterwood itself. The ancestors wait in that wood between their lives, she holds, and its timber is their flesh while they wait. To sell it down the coast to lowlanders who will burn it for a season's heat is to scatter the dead among people who cannot keep them. She does not call Lamenrae faithless, and she grants that the Industrialists read the same scripture in good conscience. That restraint is what gives her weight. A zealot the court could dismiss. Aelrein it has to answer.
+
+> Count the carts going west and you are counting the dead going with them. The queen prays over every one. I do not doubt her prayers. I doubt her arithmetic.
+> — Aelrein, forge-priest of Ystaeria at Tuur
+
+The old companion traditions cross the war untouched. Foxes and snowy owls still carry messages between elves who would kill each other on sight, and now and then between factions, when no one is watching them closely enough. Hawks and wolves are newer, trained since the split for harder work than the old companions were ever asked to do.
+
+Outsiders say the Istori have turned nasty since the kingdom broke. They are not wrong. Centuries of composure have set into something warier and meaner: strangers are taken for spies until they prove otherwise, and an open question can read as a threat. A people who once prided themselves on patience now pride themselves on outlasting.
 
 #### Military
 
-Istora fields roughly 1,000 trained soldiers—slightly larger than Klevnaf's force, reflecting their larger population and better supply situation. Their strength lies in discipline and equipment: the Bejakørn training grounds produce skilled warriors, and the eastern trade routes keep weapons and armor flowing.
+Istora fields something near a thousand trained soldiers, a little larger than Klevnaf's force, which its greater population and steadier supply can just about sustain. Its strength is equipment and drill. The open eastern roads keep weapons and armor coming, and the muster grounds outside Tuur turn out disciplined ranks.
 
-Their weakness is terrain. Attacking across the Suftos Hills means advancing uphill into prepared defenses. The war has settled into stalemate because neither side can project force effectively into the other's territory.
+The weakness is the ground. To reach Klevnaf, Istora's soldiers have to climb west into the Suftos Hills and into defenses prepared to meet them. Neither kingdom can push hard into the other's country, so the war has set into a stalemate that bleeds both slowly rather than ending either.
 
 ##### The Palace of Seasons
 
-Tuur's royal complex, built over centuries to house the Winter Elf monarchy during summer months. Four wings correspond to the quarters of the year, each with distinct architecture and gardens. The Winter Wing was never completed—construction halted when the split occurred, and the scaffolding still stands, a monument to interrupted ambition.
+Lamenrae's seat at Tuur, raised over centuries to house the monarchy through the summer months while the court wintered in what is now Klevnaf-held country. Four wings answer to the four quarters of the year, each with its own stone and its own gardens. The Winter Wing was never finished. Work stopped the year the kingdom split, and the scaffolding still stands against it, weathering, a half-built monument to the season the realm lost.
 
 ##### The Coronation Grove
 
-A clearing in Winterwood where Lamenrae was crowned, breaking tradition that demanded the ceremony occur in the ancestral capital (now in Klevnaf). The grove has become a pilgrimage site for Istora's loyalists—they come to see where their queen claimed power in defiance of those who would deny her.
+A clearing in the Winterwood where Lamenrae had herself crowned, breaking the custom that demanded the rite take place in the ancestral capital that Klevnaf now holds. Her loyalists keep it as a pilgrimage site, a place to stand where their queen took power without anyone's leave. What the grove is, and why her choosing it galled the traditionalists, the Winterwood keeps.
 
 ##### The Shrine of Reflections
 
-A temple along the Sova Chyda where elves come to contemplate the river's clear waters. The shrine predates the split and was traditionally used for meditation and prophecy. Since the war began, its priests have reported darker visions—death, fire, a figure in the mist who might be Ghy or might be Istor XXVI or might be someone yet to die.
+A temple on the bank of the Sova Chyda where elves come to sit with the river's clear water and let it still them. It predates the split, and its tradition of meditation and prophecy is old enough that Velorin the mythographer is said to have studied here before the Lost Ages closed over her. Since the war began, its priests report darker water. They describe death and fire, and a figure standing in the mist who might be Ghy, or might be Istor XXVI, or might be someone not yet dead.
+
+<!-- author-notes -->
+Killer of Istor XXVI (Fork D, GM-knowable, never public): Istor was killed by Lamenrae's own faction, by
+the hand of her senior counselor Amrela (person-amrela), to stop Istor naming Taoinor his heir and breaking
+the matrilineal precedent Lamenrae embodies. Taoinor is innocent of the murder and guilty only of seizing
+the western half of the kingdom afterward. Lamenrae does not know Amrela did it; her public certainty about
+Taoinor is genuine self-deception. The full hidden truth is encoded identically on person-lamenrae,
+person-amrela, person-taoinor, person-istor-xxvi, and murder-creek. Public body here keeps the killer open
+and Amrela's role limited to "assembled the case" (deniable). Do not reveal in public prose.
+
+Ghy / Istor XXVI (Fork A): two distinct murdered kings. Ghy is an ancient pre-Istor Winter Elf king killed
+on Murder Creek over a thousand years ago; Istor XXVI is the recent regicide. The Shrine of Reflections line
+naming both is correct under Fork A, not a naming error.
+
+Fork E (Ystaeria schism cuts across the war): Istora is politically reformist (Lamenrae's export policy is
+Industrialist-aligned), but the Ystaeria Traditionalist forge-priest Aelrein (person-aelrein) is inside it,
+opposing the Winterwood-timber export as the sale of the ancestors. Dispute is civil-but-bitter; neither side
+accuses the other of irreligion, per daemon-ystaeria.md. Aelrein's distinctive move is extending Ystaeria's
+cold-preservation doctrine from ice-glass to the ancestral Winterwood.
+
+Bejakørn correction: the prior draft put an "Bejakørn training grounds" inside Istora's military; Bejakørn
+(bejak-rn-town.md) is a Tangier town, not an Istori site. Replaced with the muster grounds at Tuur.
+
+Edges authored on this file: ruledBy person-lamenrae (reverse surfaces her rulership; she authors none).
+inhabitedBy race-elf-istori and within 2368 kept. Amrela named in prose only (memberOf 2420 already on her
+entity); no kinship edge kind exists for the Lamenrae/Taoinor/Istor relations, kept in prose.

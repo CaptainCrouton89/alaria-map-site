@@ -24,6 +24,51 @@ const ENTITIES = path.join(REPO, 'content/codex/entities');
 const DATA = path.join(REPO, 'data');
 const PUBLIC = path.join(REPO, 'public');
 
+// --- Build lock -----------------------------------------------------------
+// This build does unguarded writeFileSync to 5 outputs with no transactional
+// safety; two concurrent builds corrupt them. With multiple sisyphus sessions
+// sharing this working dir, serialize builds with an atomic mkdir lock
+// (portable — macOS has no flock). A crashed build leaves a stale lock that
+// the next build steals after LOCK_STALE_MS.
+const LOCK_DIR = path.join(REPO, '.codex-build.lock');
+const LOCK_STALE_MS = 5 * 60 * 1000; // no legitimate build runs this long
+const LOCK_WAIT_MS = 10 * 60 * 1000; // max wait for a peer build to finish
+function sleepSync(ms: number): void {
+  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
+}
+function acquireBuildLock(): void {
+  const start = Date.now();
+  for (;;) {
+    try {
+      fs.mkdirSync(LOCK_DIR);
+      fs.writeFileSync(path.join(LOCK_DIR, 'pid'), String(process.pid));
+      return;
+    } catch (e: any) {
+      if (e.code !== 'EEXIST') throw e;
+      let ageMs = Infinity;
+      try { ageMs = Date.now() - fs.statSync(LOCK_DIR).mtimeMs; } catch {}
+      if (ageMs > LOCK_STALE_MS) {
+        console.warn(`[build] stealing stale build lock (age ${Math.round(ageMs / 1000)}s)`);
+        try { fs.rmSync(LOCK_DIR, { recursive: true, force: true }); } catch {}
+        continue;
+      }
+      if (Date.now() - start > LOCK_WAIT_MS) {
+        throw new Error(`[build] timed out waiting for build lock at ${LOCK_DIR}; remove it if no build is running`);
+      }
+      console.warn('[build] another build holds the lock; waiting…');
+      sleepSync(500);
+    }
+  }
+}
+function releaseBuildLock(): void {
+  try { fs.rmSync(LOCK_DIR, { recursive: true, force: true }); } catch {}
+}
+process.on('exit', releaseBuildLock);
+process.on('SIGINT', () => { releaseBuildLock(); process.exit(130); });
+process.on('SIGTERM', () => { releaseBuildLock(); process.exit(143); });
+acquireBuildLock();
+// --------------------------------------------------------------------------
+
 interface Relation { rel: string; kind: string; target: string; when?: string; note?: string }
 interface Entity {
   id: string;

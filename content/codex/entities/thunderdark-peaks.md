@@ -15,17 +15,17 @@ review:
   action: keep
   notes: "Mountain range forming Trømgar's spine, home of the Strømgodden; coherent with region. Map [320,297] central. On-theme."
 ---
-A rugged mountain range in the eastern Inner Rim, home to the Strømgodden dwarves of Trømgar. The peaks are named for the violent thunderstorms that gather around them with eerie regularity—lightning flashes illuminate the dark granite ridges, and thunder echoes through the valleys like the war-drums of ancient gods.
+A rugged mountain range in the eastern Inner Rim, home to the Strømgodden dwarves of Trømgar. The peaks are named for the violent thunderstorms that gather around them with eerie regularity. Lightning flashes illuminate the dark granite ridges, and thunder echoes through the valleys like the war-drums of ancient gods.
 
 #### Character
 
-The Thunderdark Peaks are not Alaria's highest mountains, but they're among the most defensible. Sharp granite ridges, narrow passes, and deep gorges create natural chokepoints that channel any invading force into killing grounds. The Strømgodden have fortified these positions over generations, making the range essentially impregnable.
+The Thunderdark Peaks rank among Alaria's most defensible mountains, though not its highest. Sharp granite ridges, narrow passes, and deep gorges create natural chokepoints that channel any invading force into killing grounds. The Strømgodden have fortified these positions over generations, making the range essentially impregnable.
 
 The peaks are rich in iron, copper, and the rare alloys that the Strømgodden use in their famous spiked armor. Mining operations have honeycombed the mountains, creating an extensive tunnel network that connects the fortress-cities underground and provides alternate routes when surface travel is blocked.
 
 #### The Storms
 
-The storms that give the range its name are both natural and something more. The peaks' elevation and position create atmospheric conditions that generate thunderstorms with unusual frequency—but the Strømgodden believe the gods of war send these storms as blessing and test.
+The storms that give the range its name are both natural and something more. The peaks' elevation and position create atmospheric conditions that generate thunderstorms with unusual frequency, but the Strømgodden believe the gods of war send these storms as blessing and test.
 
 Lightning strikes are common. The dwarves have learned to work with this, positioning metal structures to attract strikes toward defensive positions and away from settlements. Some Strømgodden warriors, called Storm-Riders, specifically train to fight during thunderstorms, using the chaos and lightning as tactical advantages.
 

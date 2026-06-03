@@ -53,14 +53,39 @@ grep -rl "Serisa" content/codex/entities/   # find the file
 ## "Where is X?" is a fixed sequence
 
 1. Resolve the `id` (above).
-2. `map near --id <id>` — neighbors with distance + bearing.
-3. `map shot --id <id>` — wide (`--radius ~35`) for context; tight (`--radius 6-10`, default
+2. `map near --id <id>` — neighbors with distance (miles) + bearing.
+3. `map dist --from <id> --to <id>` — exact straight-line miles to a *specific* place (one-to-many with
+   repeated `--to`). Use this whenever you're about to name a number, not just the ranked neighbor list.
+4. `map shot --id <id>` — wide (`--radius ~35`) for context; tight (`--radius 6-10`, default
    `--enhance saturate`) to actually read the thin national border line.
-4. Reconcile the renders against the body's geography claims AND the container/sibling edges before
+5. Reconcile the renders against the body's geography claims AND the container/sibling edges before
    asserting anything.
 
 **Settlement proximity ≠ containment.** The nearest pins are often across water in a different
 region — look at the landmass on the map, not the distance ranking.
+
+## Measure distance before any claim that depends on it
+
+Map scale is fixed — **5 miles per hex (20 pin units)** — and coordinates already live in that one grid,
+so distance is *zoom-independent*: `map near` and `map dist` return **miles** you never adjust for tile
+zoom. Because the number is cheap and exact, eyeballing it is never acceptable.
+
+Run `map dist --from <id> --to <id>` (or read `miles` off `map near`) **before** you write any sentence
+whose truth depends on how far apart two places are. This covers more than "X is N miles from Y":
+
+- **Proximity / reachability** — "a day's ride," "a hard week's march," "within raiding range," "too far
+  to resupply," "neighboring," "remote." A mounted day is ~30–40 mi, a foot-march day ~15–20 mi — convert
+  the measured miles, don't assert the adjective blind.
+- **People *from* a place** — "merchants from the coast," "refugees who fled north to Y," "a pilgrimage
+  to Z": measure origin→destination first; a plausible-sounding journey is often implausibly long.
+- **Spatial edges** — `borders`, `separatedBy`, `liesOn`, `controlsPassage`, `skyRouteTo`, `tradesWith`:
+  bordering pins should sit within a few miles of each other; a trade or sky route spanning hundreds of
+  miles needs that distance to read as deliberate, not sloppy.
+- **Polity reach** — a capital governing, or an empire taxing, a place a hundred miles past its nearest
+  neighbor is a claim the map may refuse. Check it.
+
+Straight-line miles ignore terrain, water, and roads, so treat the figure as a *lower bound* on travel —
+pair it with `map shot` when water or mountains sit between the two pins.
 
 ## Water-body containment lives in the per-type water rule
 

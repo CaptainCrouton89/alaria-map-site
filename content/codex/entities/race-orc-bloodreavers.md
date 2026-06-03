@@ -15,9 +15,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Bloodreavers are a people of the orc, not a separate biological lineage — their distinction is the ancient blood-tattooing tradition of Bloodwood, not any divergence from orcish kind. The Bloodreavers inhabit Bloodwood and practice the ancient art of blood tattooing, using blood treated with preservative tree sap to mark their skin. All their clothing, armor, and weapons are stained with blood—not from cruelty, but from deep respect, as they believe blood imbues items with the aspects of its source.
+The Bloodreavers are a people of the orc rather than a separate biological lineage. Their distinction is the ancient blood-tattooing tradition of Bloodwood, a cultural practice rather than any divergence from orcish kind. The Bloodreavers inhabit Bloodwood and practice the ancient art of blood tattooing, using blood treated with preservative tree sap to mark their skin. All their clothing, armor, and weapons are stained with blood, an act of deep respect rather than cruelty, since they believe blood imbues items with the aspects of its source.
 
-Despite their terrifying appearance, they are actually protective and loyal, though generally quiet and reserved. They are frequently misunderstood by other races who see only the blood and miss the honor beneath.
+Despite their terrifying appearance, they are protective and loyal, though generally quiet and reserved. They are frequently misunderstood by other races who see only the blood and miss the honor beneath.
 
 #### Aspects
 - Marked by honored blood

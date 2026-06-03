@@ -13,6 +13,7 @@ relations:
   - { rel: polity, kind: ruledBy, target: "person-selron-ii" }
   - { rel: culture, kind: inhabitedBy, target: "race-human" }
   - { rel: culture, kind: inhabitedBy, target: "race-neferati" }
+  - { rel: spatial, kind: controlsPassage, target: "2460" }
 review:
   aiWritten: false
   action: keep

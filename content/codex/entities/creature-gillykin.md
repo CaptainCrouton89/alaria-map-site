@@ -10,7 +10,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Rootborn are not born. They are made—or rather, they were made, three centuries ago, when their ancestors chose transformation over death.
+The Rootborn were made, three centuries ago, when their ancestors chose transformation over death.
 
 During the Night of Roots in 452 PR, when the Binding consumed the Gorathi provincial capital of Qlyp Augo, a few hundred survivors emerged from the ruins changed. They had accepted the jungle's terms. The Rootborn are their descendants.
 
@@ -24,16 +24,16 @@ Most distinctive are their hands. The fingers are slightly webbed, and the nails
 ### The Acceptance
 The Rootborn do not speak of what happened during the Night of Roots, but fragments have emerged over centuries of reluctant contact with the other peoples of Lethos.
 
-Their ancestors were given a choice. As the Binding consumed Qlyp Augo—as roots burst through floors and the screaming started—something offered them an alternative. They could join the dead, their souls woven into the jungle forever. Or they could *become* part of the jungle in a different way. Give up something of themselves, accept something in return, and live.
+Their ancestors were given a choice. As the Binding consumed Qlyp Augo—as roots burst through floors and the screaming started—something offered them an alternative. They could join the dead, their souls woven into the jungle forever. Or they could become part of the jungle in a different way. Give up something of themselves, accept something in return, and live.
 
-What they gave up is unclear. The Rootborn have no magic, none at all—neither the darkness attunement of the Darklings nor the nature harmony of the Faeja. They cannot hear the druids' songs or feel the Binding's weave. Some scholars theorize they traded their connection to the spiritual world entirely, becoming purely physical creatures in exchange for survival.
+What they gave up is unclear. The Rootborn have no magic, none at all, neither the darkness attunement of the Darklings nor the nature harmony of the Faeja. They cannot hear the druids' songs or feel the Binding's weave. Perhaps they traded their connection to the spiritual world entirely, becoming purely physical creatures in exchange for survival.
 
-What they accepted is also unclear. They are not undead, not cursed, not possessed. But they are not quite human either. They do not age as other races do—their oldest members are indistinguishable from their youngest adults. They do not dream. They do not cry. And they remember things they shouldn't: fragments of the occupation, details of the Night of Roots, names of ancestors they never met.
+What they accepted is also unclear. They are not undead, not cursed, not possessed. But they are not quite human either. They do not age as other races do; their oldest members are indistinguishable from their youngest adults. They do not dream. They do not cry. And they remember things they shouldn't: fragments of the occupation, details of the Night of Roots, names of ancestors they never met.
 
 ### Society
 The Rootborn number perhaps three hundred, living exclusively in the ruins of Qlyp Augo. They have no formal government—decisions seem to emerge from consensus, communicated through methods the other peoples of Lethos don't understand. Outsiders have never witnessed a Rootborn argument, a Rootborn celebration, or a Rootborn funeral. It's not clear they have any of these things.
 
-They attend the Vigil at Xyrionn when summoned, sending a single representative who votes silently and leaves as soon as the meeting ends. Their votes follow some internal logic—they have opposed proposals that seemed beneficial and supported proposals that seemed dangerous—but explanations are never offered.
+They attend the Vigil at Xyrionn when summoned, sending a single representative who votes silently and leaves as soon as the meeting ends. Their votes follow some internal logic—they have opposed proposals that seemed beneficial and supported proposals that seemed dangerous, but explanations are never offered.
 
 Among themselves, the Rootborn are fishers, gardeners, and watchers. They harvest the flooded streets of Qlyp Augo for fish, crabs, and the strange edible fungi that grow on the submerged walls. They tend gardens on the upper floors of the towers, growing plants no one else recognizes. And they watch. Always watching—the waters, the jungle, the ruins themselves.
 

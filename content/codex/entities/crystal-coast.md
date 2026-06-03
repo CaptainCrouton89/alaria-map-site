@@ -15,7 +15,7 @@ review:
   action: keep
   notes: "Trimmed Wildlife, Access and Use, Nabuhe and the Coast, and For Travelers sections; condensed marine ecosystem and Nabuhe use into single closing paragraph; kept Geography and The Crystals."
 ---
-The northwestern shoreline of Venalthier, where the Scepter Mountains descend into the Dismar Deep. The Crystal Coast takes its name from the ice formations that develop along its cliffs—intricate crystalline structures that catch the polar light and scatter it into rainbow fragments visible for miles.
+The northwestern shoreline of Venalthier, where the Scepter Mountains descend into the Dismar Deep. The Crystal Coast takes its name from the ice formations that develop along its cliffs—crystalline structures that catch the polar light and scatter it into rainbow fragments visible for miles.
 
 #### Geography
 
@@ -33,7 +33,7 @@ The coast's namesake formations grow wherever spray and mist meet the cold rock:
 
 **Optics**: The crystal structure refracts light with unusual efficiency. On clear days, the coast becomes a display of prismatic color—rainbow fans spreading from each major formation, overlapping and blending into effects that seem almost magical. Some observers have described seeing colors that don't exist in normal rainbows.
 
-**Sound**: Wind passing through the crystal lattices produces tones—not the singing of the southern ice, but clear, bell-like notes that ring across the water. Sailors approaching the coast often hear it before they see it, a chiming that carries for miles in calm conditions.
+**Sound**: Wind passing through the crystal lattices produces tones, clear bell-like notes that ring across the water rather than the singing of the southern ice. Sailors approaching the coast often hear it before they see it, a chiming that carries for miles in calm conditions.
 
 **Fragility**: The crystals are structurally delicate. Heavy storms break them apart, scattering ice fragments into the sea. They regrow within weeks, never quite the same, as though the coast is constantly reinventing its appearance.
 

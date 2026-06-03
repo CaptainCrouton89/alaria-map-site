@@ -45,7 +45,7 @@ Sequestria, rendered Siquestrya in the older local tongue, is the savannah and w
 
 The Giant Lands fill the hilly interior ringed by the Sandreach and Kelder Mountains, home to giant populations and the Güli mountain giants. Its best-known feature is the Cyclops Forges of Phlethageros, where six cyclopes work metal as fine as any in the world.
 
-The Free Isles are the merchant archipelago off the western coast, four city-states each held by one of the patron families under the Blood Pact: the Valdrossi, the Gattorini, the Torvachi, and the Marrovini. Quarrels are settled in the arena. The cities are rich and lethal, and officially abolitionist in a way the practice does not bear out.
+The Free Isles are the merchant archipelago off the western coast, four city-states each held by one of the patron families under the Blood Pact: the Valdrossi, the Gattorini, the Torvachi, and the Marrovini. Quarrels are settled in the arena. The cities are rich and lethal, and officially abolitionist in a way the practice does not bear out. Their silver is weighed by the chest: each family casts and stamps its own silver marks to the southern standard, and a Kokotintin moneychanger bites every one, priced against the cross-rate the distant Adron banks publish.
 
 Wycendeula is the continent's vast southern reach. The haunted Eyendra forest fills the southeast, where the ancient Riin civilization merged with the land two thousand years ago and the forest has remembered them ever since. Satyr herds roam the open plains, and the Eceraen Mountains wall off Venalthier to the south. At Eyendra's heart lie the forbidden waters of Kama Sa'malina. The region alone is larger than most nations on the continent.
 

@@ -38,4 +38,4 @@ Almost no one lives in the Homdrum Hills permanently. The land supports grazing 
 
 #### Why It Matters
 
-The Homdrum Hills matter primarily as an obstacle—not a dangerous one, but a tedious one. Crossing them adds days to any journey and offers nothing in return. Traders calculate whether to go around (longer but with reliable waystations) or through (shorter but with no support if something goes wrong). Most choose around.
+The Homdrum Hills matter primarily as an obstacle, a tedious one rather than a dangerous one. Crossing them adds days to any journey and offers nothing in return. Traders calculate whether to go around (longer but with reliable waystations) or through (shorter but with no support if something goes wrong). Most choose around.

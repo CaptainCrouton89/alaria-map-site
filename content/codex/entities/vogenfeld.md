@@ -20,7 +20,7 @@ review:
   action: keep
   notes: "Trimmed Council-of-Thanes NPC bios (Gorveth/Brunhild/Keldris), 'three possible futures' speculation, rhetorical filler, redundant Tunnel Networks/Patrols/Orcish Threat/What Lies Beneath sections. Kept core geography, three settlements with populations, Vogenfeld Pact, tribute-decline tension."
 ---
-The northern shield of Tarkhon—three Uline dwarf settlements in the Wurmspine Mountains between the empire and the orcish hordes of Hedroscobb. For centuries, the dwarves have held the passes. For decades now, they've wondered why they bother.
+The northern shield of Tarkhon: three Uline dwarf settlements in the Wurmspine Mountains between the empire and the orcish hordes of Hedroscobb. For centuries, the dwarves have held the passes. For decades now, they've wondered why they bother.
 
 #### Position and Borders
 
@@ -34,9 +34,9 @@ The passes through these mountains are the only practical route for armies movin
 
 #### Terrain and Climate
 
-The surface is harsh alpine terrain—jagged peaks, narrow passes, treacherous in winter. Snow lies on the highest peaks year-round.
+The surface is harsh alpine terrain: jagged peaks, narrow passes, treacherous in winter. Snow lies on the highest peaks year-round.
 
-The dwarves don't live on the surface. They live *in* the mountains, in vast tunnel complexes carved over millennia, ventilated by the elaborate chain-operated air systems that give Uline dwarves their nickname.
+The dwarves don't live on the surface. They live in the mountains, in vast tunnel complexes carved over millennia, ventilated by the elaborate chain-operated air systems that give Uline dwarves their nickname.
 
 #### The Three Settlements
 
@@ -44,7 +44,7 @@ The dwarves don't live on the surface. They live *in* the mountains, in vast tun
 
 **Kaisa** — Central (~4,000). Kaisa's tunnels extend furthest north, with secret passages emerging in the Wildwood itself, allowing scouts to observe orc movements without exposure. Kaisa produces Vogenfeld's best scouts and most aggressive warriors.
 
-**Glashof** — Eastern (~3,000). Controls the eastern approaches where the Vogenfeld range meets the Wurn Mountains. Glashof maintains uneasy contact with the Stone Men—not allies, but neighboring mountain peoples who understand each other.
+**Glashof** — Eastern (~3,000). Controls the eastern approaches where the Vogenfeld range meets the Wurn Mountains. Glashof maintains uneasy contact with the Stone Men, neighboring mountain peoples who understand one another without being allies.
 
 #### The Vogenfeld Pact
 

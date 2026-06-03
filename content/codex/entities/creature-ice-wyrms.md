@@ -51,7 +51,7 @@ Azanfrain's defenses against ice wyrms differ from their frostwalker protocols.
 
 **Detection stakes** are driven into the ice at regular intervals around the fortress. The stakes carry vibration upward, and a wyrm passing nearby sets them humming audibly. The system gives early warning but little precision; you know something is coming, not where exactly.
 
-**Harpoon emplacements** line the fortress walls, loaded with barbed projectiles meant to anchor in wyrm-hide. The goal is not to kill the wyrm, which takes more sustained damage than harpoons can deliver, but to pin it above the surface long enough for concentrated fire. An immobilized wyrm can be destroyed. A submerged one cannot.
+**Harpoon emplacements** line the fortress walls, loaded with barbed projectiles meant to anchor in wyrm-hide. The goal is to pin it above the surface long enough for concentrated fire; killing it outright takes more sustained damage than harpoons can deliver. An immobilized wyrm can be destroyed. A submerged one cannot.
 
 **Bait stations** stand at a safe distance from the fortress, platforms that generate deliberate vibration to draw wyrms away from defended ground. The stations are automated and expendable; when a wyrm surfaces to attack one, observers mark its location and route.
 

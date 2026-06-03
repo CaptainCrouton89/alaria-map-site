@@ -21,6 +21,8 @@ The Silzar are nomadic ogres who have mastered the art of mounted warfare on mas
 
 The Silzar value their weapons above all else, treating them as sacred objects passed down through generations. A Silzar's cannon has a name, a history, and is considered an extension of the warrior's soul. To lose one's weapon to an enemy is a shame that can only be cleansed by reclaiming it or dying in the attempt.
 
+The reverence has a hard cause beneath it. The Silzar cannot make their own powder; the secret of it belongs to the seafaring Gruynmar dwarves alone, and what reaches the plains comes dear and in small lots. A cannon is fired sparingly, never wasted, and a piece lost to an enemy may never be replaced. The Silzar are not a second gunpowder people but the rare landward customers of the only one there is.
+
 #### Aspects
 - Mobile artillery
 - Code of the plains

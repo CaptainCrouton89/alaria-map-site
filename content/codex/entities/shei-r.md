@@ -11,6 +11,7 @@ relations:
   - { rel: spatial, kind: within, target: "4165" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-bledreon" }
   - { rel: culture, kind: inhabitedBy, target: "race-human-drachma" }
+  - { rel: spatial, kind: controlsPassage, target: "2573" }
 review:
   aiWritten: true
   archetype: ai-ok

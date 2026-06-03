@@ -10,11 +10,11 @@ sources: ["all_sections_formatted/Upoceax.md#L1876"]
 relations:
   - { rel: spatial, kind: within, target: "3484" }
 ---
-The meeting ground of the elven confederation. Laeroth Esori sits within Amholia Greras, at a site where lines drawn from the centers of all three kingdoms would intersect. Trails from Jien Asari, Ishla'Anore, and Thillesari converge here—roughly equidistant from each capital, though Thillesari's mountain location makes its trail somewhat shorter.
+The meeting ground of the elven confederation. Laeroth Esori sits within Amholia Greras, at a site where lines drawn from the centers of all three kingdoms would intersect. Trails from Jien Asari, Ishla'Anore, and Thillesari converge here, roughly equidistant from each capital, though Thillesari's mountain location makes its trail somewhat shorter.
 
 #### The Site
 
-Laeroth Esori is a clearing in the forest, perhaps half a mile across. At its center stand the original treaty stones—massive carved monoliths bearing the terms of the Three Kingdoms Treaty in Old Elvish. Surrounding structures have been added over the millennia: meeting halls, guest quarters, archives. All are built to elven standards of permanence.
+Laeroth Esori is a clearing in the forest, perhaps half a mile across. At its center stand the original treaty stones, massive carved monoliths bearing the terms of the Three Kingdoms Treaty in Old Elvish. Surrounding structures have been added over the millennia: meeting halls, guest quarters, archives. All are built to elven standards of permanence.
 
 The clearing is always temperate regardless of season. No biting insects. No dangerous animals. The forest stops at the clearing's edge as if held back by an invisible wall.
 
@@ -22,11 +22,11 @@ The clearing is always temperate regardless of season. No biting insects. No dan
 
 Over 4,000 years, every major elven enchanter has added something to Laeroth Esori. The site is now layered with magic like geological strata. Some documented effects:
 
-**Truth-Binding**: Deliberate lies cause physical discomfort—not painful enough to serve as a reliable lie detector, but enough that skilled negotiators notice when someone is dissembling.
+**Truth-Binding**: Deliberate lies cause physical discomfort, not painful enough to be a reliable lie detector, but enough that skilled negotiators notice when someone is dissembling.
 
 **Memory Preservation**: Anything spoken within the clearing is recorded in the treaty stones. Touch certain monoliths and you can hear echoes of debates from centuries past. Agreements made here cannot be "misremembered."
 
-**Violence Dampening**: Weapons feel heavier. Anger fades faster than it should. It's not impossible to fight—but it's difficult to start a fight, and harder still to maintain the will to continue.
+**Violence Dampening**: Weapons feel heavier. Anger fades faster than it should. It's not impossible to fight, but it's difficult to start a fight, and harder still to maintain the will to continue.
 
 **Weather Control**: Rain doesn't fall within the clearing. Wind dies at the edge. Meetings are never cancelled for storms.
 
@@ -44,7 +44,7 @@ This is why confederation disputes, however heated, never escalate to war. The t
 
 #### Confederation Meetings
 
-Representatives gather at Laeroth Esori when major decisions must be made. Each kingdom sends four representatives—two men, two women—following ancient protocol. Meetings can last days or weeks depending on the matter at hand.
+Representatives gather at Laeroth Esori when major decisions must be made. Each kingdom sends four representatives, two men and two women, following ancient protocol. Meetings can last days or weeks depending on the matter at hand.
 
 The one-kingdom-one-voice principle means all three must agree on any binding decision. This frustrates Lenora, which has the largest population and feels entitled to more influence. Illron and Deo Esari remind them that population wasn't the basis for the original agreement.
 

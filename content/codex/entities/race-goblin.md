@@ -29,7 +29,7 @@ This is why a goblin lineage never simply dwindles away. It cannot afford to. Op
 ### Heritages
 - **Scalawag** — Mischievous, communal goblins born into enormous broods; fiercely loyal to their lineage and devoted to vibrant culture and absurd pursuits. See [[race-goblin-scalawag]].
 - **Etherweaver** — Reserved goblins born with an attunement to non-basic elements; form smaller broods with stronger individual identity than their Scalawag cousins. See [[race-goblin-etherweaver]].
-- **Coghead** — Flesh-and-machinery goblins of Kobuk who integrate mechanical augmentations directly into their bodies, holding deep contempt for gnomish tinkering. See [[race-goblin-coghead]].
+- **Coghead** — Goblins of Kobuk who graft aether-fed augmentations into their own flesh, a surviving fragment of a lost craft, holding gnomish tinkering in contempt. See [[race-goblin-coghead]].
 - **Darkling** — Pitch-black shadow goblins of Lethos who subsist on rodents and bats, wielding impenetrable darkness that only they can see through. See [[race-goblin-darkling]].
 - **Rudding** — Vengeful, justice-driven goblins of the Copper Hills who practice Deoric enchantment, ride domesticated Desert Mammoths, and prize copper above all. See [[race-goblin-rudding]].
 - **Blitzling** — Electric goblins of the hills south of the Dunes of Kunagi who accumulate and discharge devastating bursts of static electricity. See [[race-goblin-blitzling]].
@@ -37,7 +37,7 @@ This is why a goblin lineage never simply dwindles away. It cannot afford to. Op
 - **Spine Goblin** — Goblins afflicted with a leprosy-like disease that drives bones through their skin; they weaponize the deformity by binding spikes to exposed bone. See [[race-goblin-spine-goblin]].
 - **Wydling** (Icelings) — Pale blue frost goblins of the frozen north; patient nomadic hunters who track prey across the tundra in small family packs. See [[race-goblin-wydling]].
 - **Stravlar** — Fire-attuned goblin scholars whose embossed tattoos record family history in living ink; skin scarring is considered a tragedy greater than death. See [[race-goblin-stravlar]].
-- **Aciabro** — Blood-powered cyborg goblins who replace limbs and organs with machines fueled by vital essence, driven by an obsessive need for self-modification. See [[race-goblin-aciabro]].
+- **Aciabro** — Goblins whose handmagic-cut augmentations run on their own blood, a surviving fragment of a lost craft, bound to a ruinous need to remake themselves. See [[race-goblin-aciabro]].
 - **Xibli** — Blue-skinned aquatic goblins of the islands around Melrox living semi-aquatic lives in intertidal zones as freedom-loving hedonists. See [[race-goblin-xibli]].
 
 <!-- mechanics -->
@@ -62,13 +62,13 @@ Choose and gain two attunements from the following list:
 
 ### Coghead — Tinkerer
 **Passive ability.**
-Through tinkering and contraption building, you have found a way to improve on your body's natural features. Choose one of the following modifications:
+Through the grafting craft your hold keeps secret, you bear an aether-fed augmentation cut into your own body. It is a relic of a lost art, not something the world at large can build or replace. Choose one of the following augmentations:
 
-- **Spectacles:** Multi-lens glasses with infrared vision (90 feet), light inversion, and telescopic capabilities (10x magnification).
-- **Rocket Boots:** Aether-powered boots that increase move speed by 10 feet and allow jumping 10 feet with 50-foot glide speed.
-- **Multi-tool:** Replaced arm containing circular saw, knives, pliers, wrenches, torch, and lock picks. Grants advantage on tool-related skill checks.
+- **Aether-lens eyes:** Grafted multi-lens eyes that see heat in darkness (90 feet), invert light, and draw distant things close (10x magnification).
+- **Aether-thrust boots:** Aether-fed boots that increase move speed by 10 feet and allow jumping 10 feet with 50-foot glide speed.
+- **Graft-tool arm:** An arm remade into a cutting-and-working tool — saw-edge, blades, pliers, torch, and picks. Grants advantage on tool-related skill checks.
 
-You may spend 4 XP to gain additional modifications from this list.
+You may spend 4 XP to gain additional augmentations from this list.
 
 ### Darkling — Umbral Mastery
 **Passive ability.**
@@ -104,7 +104,7 @@ Your tattoos and training give you an eidetic memory for text, symbols, and hist
 
 ### Aciabro — Sanguine Engine
 **Passive ability.**
-Your mechanical augmentations are powered by your own life force. As an action, you may spend up to 10 HP to supercharge your systems. For each 2 HP spent, choose one benefit that lasts until the end of your next turn:
+Your grafted augmentations are powered by your own life force. As an action, you may spend up to 10 HP to supercharge your grafts. For each 2 HP spent, choose one benefit that lasts until the end of your next turn:
 
 - Increase your movement speed by 10 feet
 - Gain +1 to attack rolls
@@ -113,7 +113,7 @@ Your mechanical augmentations are powered by your own life force. As an action, 
 
 ### Aciabro — Jerry-Rigged Anatomy
 **Major ability.**
-You can quickly repair or modify your mechanical parts in the field. As an action, you may regain HP equal to your heart die roll, or immediately remove the slowed condition from yourself.
+You can quickly repair or modify your grafts in the field. As an action, you may regain HP equal to your heart die roll, or immediately remove the slowed condition from yourself.
 
 ### Xibli — Amphibious
 **Passive ability.**

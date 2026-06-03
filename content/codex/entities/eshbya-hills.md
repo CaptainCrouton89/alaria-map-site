@@ -20,11 +20,11 @@ The Eshbya Hills lie west of the main Kelder range, in the transitional zone bet
 
 The southern harvesting disaster struck the Eshbya Hills hardest. The villages of Novranas, Salenial, and Myrth all had to be evacuated when workers began showing symptoms: wasting sickness, skin discoloration, children born wrong.
 
-The specific cause remains sealed in priesthood archives. What's known publicly is that certain titan remains in this region were contaminated—not with anything so simple as disease, but with something that spread through contact and persisted across generations.
+The specific cause remains sealed in priesthood archives. What's known publicly is that certain titan remains in this region were contaminated with something worse than disease: it spread through contact and persisted across generations.
 
 #### Current State
 
-The villages still stand. The priesthood maintains warning markers at every approach. The contamination may have faded after two centuries—or it may be waiting. No one has been willing to test it.
+The villages still stand. The priesthood maintains warning markers at every approach. The contamination may have faded after two centuries, or it may be waiting. No one has been willing to test it.
 
 Occasionally, desperate treasure-hunters or scholars petition the priesthood for permission to explore the ruins. They are refused. The priesthood's position is that the abandoned lands remain closed until someone develops a reliable way to detect and neutralize the contamination. No such method exists.
 

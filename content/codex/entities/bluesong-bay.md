@@ -10,7 +10,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L973"]
 relations:
   - { rel: spatial, kind: within, target: "1475" }
 ---
-Bluesong Bay is a large inlet on the western coast of Central Aboyinzu, notable primarily for who *doesn't* use it. Despite being the natural maritime gateway for the Kadroka region, the bay's coastline is controlled entirely by the Tytheri blood orcs, who have no interest in sea trade and actively prevent anyone else from establishing ports.
+Bluesong Bay is a large inlet on the western coast of Central Aboyinzu, notable primarily for who doesn't use it. Despite being the natural maritime gateway for the Kadroka region, the bay's coastline is controlled entirely by the Tytheri blood orcs, who have no interest in sea trade and actively prevent anyone else from establishing ports.
 
 #### Geography
 
@@ -24,7 +24,7 @@ The bay extends roughly 80 miles inland from the Untouched Sea, with a width of 
 
 #### The Name
 
-Sailors from distant ports who have entered the bay report an unusual acoustic phenomenon: the water seems to carry sound in strange ways, producing a low, melodic resonance that some describe as singing. The effect is subtle—easy to dismiss as wind or waves—but persistent enough that multiple independent accounts describe it.
+Sailors from distant ports who have entered the bay report an unusual acoustic phenomenon: the water seems to carry sound in strange ways, producing a low, melodic resonance that some describe as singing. The effect is subtle, easy to dismiss as wind or waves, but persistent enough that multiple independent accounts describe it.
 
 Whether this is a natural property of the bay's shape and currents, an effect of the nearby Mumbling Forest, or something else entirely remains unknown. The Tytheri, who avoid the water, have no explanation.
 
@@ -35,7 +35,7 @@ Bluesong Bay should be one of the most valuable maritime assets in southwestern 
 - River access deep into the interior via the Royko
 - Proximity to the productive Kadrokan savanna
 
-Instead, it sits empty. The Tytheri have no naval tradition and no interest in developing one. They control the coast purely to deny it to Kadroka—a strategy that has worked for centuries.
+Instead, it sits empty. The Tytheri have no naval tradition and no interest in developing one. They control the coast purely to deny it to Kadroka, a strategy that has worked for centuries.
 
 #### Kadrokan Frustration
 
@@ -43,7 +43,7 @@ Every generation, some Kadrokan leader proposes seizing a foothold on the bay. E
 
 1. **No Navy**: Kadroka has no maritime tradition and would need to build a fleet from scratch, using materials hauled over the Ramakemizi Mountains.
 
-2. **Supply Lines**: Any coastal settlement would need to be supplied through Tytheri territory—or by sea, requiring the fleet that doesn't exist.
+2. **Supply Lines**: Any coastal settlement would need to be supplied through Tytheri territory, or by sea, requiring the fleet that doesn't exist.
 
 3. **The Dragon Can't Help**: Melekas cannot fly to provide air support for a coastal operation. Kadrokan forces would face the orcs without their greatest asset.
 
@@ -51,7 +51,7 @@ The bay remains tantalizing and unreachable, a constant reminder of what the Tyt
 
 #### What Lives There
 
-The bay itself supports typical coastal marine life—fish, crustaceans, seabirds. The waters are clean and productive.
+The bay itself supports typical coastal marine life: fish, crustaceans, seabirds. The waters are clean and productive.
 
 More unusual reports include:
 - Large shapes moving in the deeper portions of the bay, never clearly seen
@@ -64,6 +64,6 @@ Whether these are real phenomena, tricks of the "singing" water, or sailor's tal
 
 For those arriving from the Untouched Sea, Bluesong Bay presents a deceptively welcoming appearance: calm waters, a protected anchorage, apparent emptiness. The dangers are not immediately visible.
 
-Ships that land are unlikely to be attacked at the waterline—the Tytheri avoid the coast itself—but any party moving inland will quickly encounter orc patrols. The orcs may not use the sea, but they watch it, and strangers are not welcome.
+Ships that land are unlikely to be attacked at the waterline, since the Tytheri avoid the coast itself, but any party moving inland will quickly encounter orc patrols. The orcs may not use the sea, but they watch it, and strangers are not welcome.
 
 The Mumbling Forest shore is technically safer from orcs but presents its own uncertainties. The forest does not welcome visitors.

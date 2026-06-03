@@ -15,7 +15,7 @@ The cause was a Xaphkiel. In the era when the shadow-born angels and their light
 
 ### Koras alone
 
-The struggle did not kill the core. It corrupted it. The celestial glass clouded and cracked along a single seam, and the light guttered down to a dim ember that gave neither true day nor honest dark. The Starborn keep watch over the stars in their nightly thousands, but the sun has only ever had one tender, and Koras would not leave it. No other Starborn could survive the heat of the core even diminished, and none was permitted near it. For five centuries Koras worked the seam alone, drawing the corruption out of the glass a thread at a time and feeding the ember back toward fire.
+The struggle corrupted the core rather than killing it. The celestial glass clouded and cracked along a single seam, and the light guttered down to a dim ember that gave neither true day nor honest dark. The Starborn keep watch over the stars in their nightly thousands, but the sun has only ever had one tender, and Koras would not leave it. No other Starborn could survive the heat of the core even diminished, and none was permitted near it. For five centuries Koras worked the seam alone, drawing the corruption out of the glass a thread at a time and feeding the ember back toward fire.
 
 > The core at the depth of the Vigil: a sphere of celestial glass the size of a small moon, gone the color of bruised pewter, a single black seam running pole to pole and weeping cold light. A lone figure braced against it, hands pressed flat to the glass, the heat that should have killed any living thing pouring through and around without touching them. No sound but the slow tick of the glass re-knitting itself, one thread at a time.
 

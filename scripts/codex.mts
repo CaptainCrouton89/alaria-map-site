@@ -16,6 +16,12 @@ const ENTITIES = path.join(REPO, 'content/codex/entities');
 const TILES = 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/tiles';
 const TILE = 256;
 const CACHE = '/tmp/alaria-tiles';
+// Map scale (fixed): coordinates are pin units on the zoom-0 pixel grid. 20 units = 1 hex = 5 miles.
+// Distances live entirely in this grid, so they are zoom-INDEPENDENT — tile zoom only changes render
+// resolution, never the coordinate spacing. Never adjust a measured distance for zoom.
+const PIXELS_PER_HEX = 20;
+const MILES_PER_HEX = 5;
+const MILES_PER_PIXEL = MILES_PER_HEX / PIXELS_PER_HEX; // 0.25 mi per pin unit
 const ARCHETYPES = ['stub', 'ai-ok', 'geo-wrong', 'inflated'];
 const ACTIONS = ['keep', 'trim', 'rewrite', 'stub', 'fix-geo'];
 
@@ -27,6 +33,7 @@ const rest = argv.slice(ci);
 const wantHelp = rest.includes('-h') || rest.includes('--help');
 const flag = (n: string): string | undefined => { const j = rest.indexOf('--' + n); return j >= 0 ? rest[j + 1] : undefined; };
 const has = (n: string): boolean => rest.includes('--' + n);
+const flagsAll = (n: string): string[] => { const out: string[] = []; for (let j = 0; j < rest.length - 1; j++) if (rest[j] === '--' + n) out.push(rest[j + 1]); return out; };
 
 const emit = (o: unknown) => process.stdout.write(JSON.stringify(o, null, 2) + '\n');
 const fail = (error: string, message: string, extra: Record<string, unknown> = {}): never => { emit({ error, message, ...extra }); process.exit(1); };
@@ -53,6 +60,13 @@ const withinTarget = (d: Record<string, unknown>): string | null => {
   const w = rels.find((r) => r.kind === 'within');
   return w && w.target !== undefined ? String(w.target) : null;
 };
+// Distance helpers — straight-line gap in miles via the fixed scale, plus a compass bearing.
+const COMPASS = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
+const bearingDir = (from: [number, number], to: [number, number]): string => {
+  const deg = (Math.atan2(to[0] - from[0], -(to[1] - from[1])) * 180) / Math.PI;
+  return COMPASS[Math.round(((deg + 360) % 360) / 45) % 8];
+};
+const milesBetween = (a: [number, number], b: [number, number]): number => +(Math.hypot(a[0] - b[0], a[1] - b[1]) * MILES_PER_PIXEL).toFixed(1);
 
 // ===================================================================== HELP TEXT
 const ROOT_HELP = `
@@ -74,10 +88,13 @@ Branches
 `;
 const MAP_HELP = `
 codex map — read-only spatial queries over pin coordinates. No mutation.
+Scale: 5 miles per hex (20 pin units). Distances are reported in MILES and are zoom-independent — never
+adjust for tile zoom.
 
 Leaves
-  shot   render a region image with labeled pins | use when you must SEE terrain/coast/rivers around a place
-  near   nearest pins with distance + bearing    | use when you need exact adjacency to author within/borders
+  shot   render a region image with labeled pins   | use when you must SEE terrain/coast/rivers around a place
+  near   nearest pins by distance (miles) + bearing | use when you need exact adjacency to author within/borders
+  dist   distance in miles between two places        | use BEFORE any claim about how far/near/reachable two places are
 `;
 const EDGE_HELP = `
 codex edge — author or remove relationship edges in entity frontmatter (minimal-diff text edits).
@@ -349,31 +366,79 @@ Effects
 function mapNear() {
   if (wantHelp) help(`
 codex map near — nearest pins to an entity, by coordinate distance. Read-only.
-Image space: +x=east, +y=south; north is -y.
+Image space: +x=east, +y=south; north is -y. Distances are in MILES (map scale 5 miles/hex) and are
+zoom-independent.
 
 Input
   --id <id>      the entity to query from; required
-  --radius <u>   return all pins within this many units (overrides --limit)
+  --radius <mi>  return all pins within this many MILES (overrides --limit)
   --limit <k>    return the k nearest; default 15
 
 Output (JSON)
-  { self:{id,name,type,coordinates,zoomLevel}, neighbors:[{id,name,type,dist,dir,zoomLevel}] }
-  neighbors sorted by dist ascending; dir is one of N NE E SE S SW W NW.
+  { self:{id,name,type,coordinates,zoomLevel}, neighbors:[{id,name,type,miles,dir,zoomLevel}] }
+  neighbors sorted by miles ascending; dir is one of N NE E SE S SW W NW.
+  For an exact A->B measurement (and one-to-many) use \`codex map dist\`.
 `);
   const id = req('id');
   const self = byId().get(id);
   if (!self) fail('not_found', `no entity with id ${id}`, { field: 'id', next: 'List candidates with `codex report list`.' });
   const sc = coordsOf(self!.data);
   if (!sc) fail('no_coordinates', `entity ${id} has no coordinates`, { field: 'id' });
-  const COMPASS = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
   let near = all().map((e) => ({ e, c: coordsOf(e.data) })).filter((x) => x.c && String(x.e.data.id) !== id).map(({ e, c }) => {
-    const deg = (Math.atan2(c![0] - sc![0], -(c![1] - sc![1])) * 180) / Math.PI;
-    return { id: String(e.data.id), name: e.data.name, type: e.data.entityType, dist: +Math.hypot(c![0] - sc![0], c![1] - sc![1]).toFixed(1), dir: COMPASS[Math.round(((deg + 360) % 360) / 45) % 8], zoomLevel: e.data.zoomLevel };
-  }).sort((a, b) => a.dist - b.dist);
+    return { id: String(e.data.id), name: e.data.name, type: e.data.entityType, miles: milesBetween(sc!, c!), dir: bearingDir(sc!, c!), zoomLevel: e.data.zoomLevel };
+  }).sort((a, b) => a.miles - b.miles);
   const radius = flag('radius');
-  if (radius !== undefined) near = near.filter((p) => p.dist <= Number(radius));
+  if (radius !== undefined) near = near.filter((p) => p.miles <= Number(radius));
   else { const k = flag('limit') === undefined ? 15 : Number(flag('limit')); near = near.slice(0, k); }
   emit({ self: { id, name: self!.data.name, type: self!.data.entityType, coordinates: sc, zoomLevel: self!.data.zoomLevel }, neighbors: near });
+}
+
+function mapDist() {
+  if (wantHelp) help(`
+codex map dist — straight-line distance between two places, in MILES. Read-only.
+
+Distance is computed on the canonical zoom-0 pixel grid the coordinates live on, so it is
+zoom-INDEPENDENT — tile zoom changes only render resolution, never the spacing. Never adjust for zoom.
+Map scale is fixed at 5 miles per hex (20 pin units). The result is a flat straight-line gap that ignores
+terrain, water, and roads — treat it as a lower bound on real travel distance, not a road/sail distance.
+
+Input
+  --from <id>         origin entity id (numeric frontmatter id)
+  --from-coord <x,y>  origin as raw pin coordinates; use instead of --from
+  --to <id>           destination entity id; repeatable (--to A --to B) for one-to-many
+  --to-coord <x,y>    destination as raw pin coordinates; repeatable; combines with --to
+  Provide exactly one origin and at least one destination.
+
+Output (JSON)
+  { from:{id?,name?,coordinates}, results:[{id?,name?,coordinates,miles,dir}] }
+  results sorted by distance ascending. dir is the compass bearing origin->target
+  (N NE E SE S SW W NW; image space +x=east, +y=south).
+`);
+  const idx = byId();
+  const parseCoord = (s: string, field: string): [number, number] => {
+    const parts = s.split(',').map(Number);
+    if (parts.length !== 2 || parts.some(Number.isNaN)) fail('bad_value', `--${field} must be x,y numbers`, { field, received: s });
+    return parts as [number, number];
+  };
+  const resolve = (rid: string, field: string): { id: string; name: string; coordinates: [number, number] } => {
+    const e = idx.get(rid);
+    if (!e) fail('not_found', `no entity with id ${rid}`, { field, received: rid, next: 'List candidates with `codex report list`, or read the id from the entity filename.' });
+    const c = coordsOf(e!.data);
+    if (!c) fail('no_coordinates', `entity ${rid} has no coordinates`, { field, received: rid });
+    return { id: rid, name: e!.data.name as string, coordinates: c! };
+  };
+  const fromId = flag('from'), fromCoordRaw = flag('from-coord');
+  let from: { id?: string; name?: string; coordinates: [number, number] };
+  if (fromId !== undefined) from = resolve(fromId, 'from');
+  else if (fromCoordRaw !== undefined) from = { coordinates: parseCoord(fromCoordRaw, 'from-coord') };
+  else fail('missing_flag', 'provide --from <id> or --from-coord <x,y>', { field: 'from', next: 'Pass exactly one origin.' });
+  const targets: { id?: string; name?: string; coordinates: [number, number] }[] = [];
+  for (const tid of flagsAll('to')) targets.push(resolve(tid, 'to'));
+  for (const tc of flagsAll('to-coord')) targets.push({ coordinates: parseCoord(tc, 'to-coord') });
+  if (targets.length === 0) fail('missing_flag', 'provide at least one --to <id> or --to-coord <x,y>', { field: 'to', next: 'Pass one or more destinations.' });
+  const fc = from!.coordinates;
+  const results = targets.map((t) => ({ ...t, miles: milesBetween(fc, t.coordinates), dir: bearingDir(fc, t.coordinates) })).sort((a, b) => a.miles - b.miles);
+  emit({ from: from!, results });
 }
 
 function edgeAdd() {
@@ -968,6 +1033,7 @@ const route = cmd.join(' ');
     case 'report': help(REPORT_HELP);
     case 'map shot': return mapShot();
     case 'map near': return mapNear();
+    case 'map dist': return mapDist();
     case 'edge add': return edgeAdd();
     case 'edge rm': return edgeRm();
     case 'review set': return reviewSet();

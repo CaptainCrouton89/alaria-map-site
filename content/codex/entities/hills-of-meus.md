@@ -9,7 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L5065"]
 relations:
   - { rel: spatial, kind: within, target: "1865" }
 ---
-The **Hills of Meus** are a transitional zone between the Cerulean Crests and the central Dalizi Highlands, a region of rolling terrain that provides the easiest walking in an otherwise difficult landscape. The hills are named for Meus, a legendary Dalizi prospector whose fate became a cautionary tale about highland wealth.
+The Hills of Meus are a transitional zone between the Cerulean Crests and the central Dalizi Highlands, a region of rolling terrain that provides the easiest walking in an otherwise difficult landscape. The hills are named for Meus, a legendary Dalizi prospector whose fate became a cautionary tale about highland wealth.
 
 #### Geography
 
@@ -21,7 +21,7 @@ The vegetation is primarily grass and low shrubs, with occasional stands of pine
 
 #### The Legend of Meus
 
-According to Dalizi tradition, Meus was a prospector from the lowland state of Kagoro who explored the Cerulean Crests three centuries ago. He allegedly found a deposit of pure copper—not ore requiring smelting, but native copper in sheets and nuggets, easily extracted and immensely valuable.
+According to Dalizi tradition, Meus was a prospector from the lowland state of Kagoro who explored the Cerulean Crests three centuries ago. He allegedly found a deposit of pure copper, not ore requiring smelting but native copper in sheets and nuggets, easily extracted and immensely valuable.
 
 Meus returned to the lowlands with samples and organized an expedition to exploit his find. The expedition entered the hills that now bear his name and was never seen again. Subsequent searches found no trace of Meus, his party, or the copper deposit.
 
@@ -36,7 +36,7 @@ The legend has inspired centuries of prospectors to search the Hills of Meus and
 
 **GM Information:** Meus was real, and he did find a copper deposit—but it wasn't natural copper. He stumbled upon one of the Vetharak civilization's abandoned mining sites, where they had extracted copper for their dream-channeling infrastructure. The "sheets and nuggets" he found were refined copper left behind when the site was abandoned.
 
-The site is real and still exists, buried under centuries of sediment in a narrow canyon in the eastern Cerulean Crests. What Meus didn't realize—and what killed his expedition—is that the site is also a dream-node, and the refined copper is saturated with the titan's dream-energy. Extended exposure causes vivid hallucinations, disorientation, and eventually a waking dream-state from which victims don't return. Meus and his expedition are still there, in a sense—their bodies died of exposure while their minds wandered the titan's dreams.
+The site is real and still exists, buried under centuries of sediment in a narrow canyon in the eastern Cerulean Crests. What Meus didn't realize, and what killed his expedition, is that the site is also a dream-node, and the refined copper is saturated with the titan's dream-energy. Extended exposure causes vivid hallucinations, disorientation, and eventually a waking dream-state from which victims don't return. Meus and his expedition are still there, in a sense—their bodies died of exposure while their minds wandered the titan's dreams.
 
 **Plot hook:** Finding the Meus deposit would give access to dream-touched copper, which could be valuable for certain magical applications—or could be used to deliberately enter the titan's dream-space. The deposit is also evidence of the Vetharak civilization's presence, potentially leading to Vetharak proper.
 
@@ -49,7 +49,7 @@ The Hills of Meus are technically unclaimed, like most of the Dalizi Highlands. 
 - **Prospectors** — Optimists still searching for Meus's copper
 - **Hunters** — The hills support modest game populations
 
-The lack of major hazards makes the Hills of Meus a relative haven. There are no chulls (too dry), no Moon Goblins (too far from the Foggy Mountains), and no ogres (too distant from the Troyan range). Dire jackals range through occasionally, and the usual highland hazards—weather, terrain, isolation—apply, but the hills are safer than most highland areas.
+The lack of major hazards makes the Hills of Meus a relative haven. There are no chulls (too dry), no Moon Goblins (too far from the Foggy Mountains), and no ogres (too distant from the Troyan range). Dire jackals range through occasionally, and the usual highland hazards (weather, terrain, isolation) apply, but the hills are safer than most highland areas.
 
 #### Strategic Value
 

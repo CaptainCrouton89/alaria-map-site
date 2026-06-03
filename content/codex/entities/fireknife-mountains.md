@@ -14,7 +14,7 @@ Part of the greater Wurmspine range, the Fireknife is a volcanic segment along t
 
 #### Geography
 
-The Fireknife range rises sharply from the rolling farmland of Kerwin, its peaks jagged and asymmetrical—the result of volcanic activity that has never fully ceased. The mountains smoke constantly, venting sulfurous gases from countless fissures. At night, the peaks sometimes glow red where magma approaches the surface.
+The Fireknife range rises sharply from the rolling farmland of Kerwin, its peaks jagged and asymmetrical, the result of volcanic activity that has never fully ceased. The mountains smoke constantly, venting sulfurous gases from countless fissures. At night, the peaks sometimes glow red where magma approaches the surface.
 
 The range is not as tall as some mountain chains, but what it lacks in height it makes up for in hostility. The rock is unstable, prone to sudden collapses and rockslides. Hot springs bubble in unexpected places, sometimes scalding and sometimes merely warm. Paths that were safe last month may be impassable now.
 
@@ -48,4 +48,4 @@ No roads cross the Fireknife. Anyone who needs to reach the lands beyond goes ar
 
 #### Relationship to Other Volcanic Ranges
 
-The Fireknife is sometimes confused with the Fleimrut Mountains to the south, which share some volcanic characteristics. However, the Fleimrut is fed by an unstable Yolus leyline and has experienced recent catastrophic eruptions (the Fleimrut Awakening). The Fireknife has no known leyline connection and maintains a more consistent—if still dangerous—level of activity.
+The Fireknife is sometimes confused with the Fleimrut Mountains to the south, which share some volcanic characteristics. However, the Fleimrut is fed by an unstable Yolus leyline and has experienced recent catastrophic eruptions (the Fleimrut Awakening). The Fireknife has no known leyline connection and maintains a more consistent, if still dangerous, level of activity.

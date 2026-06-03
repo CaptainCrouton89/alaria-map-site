@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Haunted promontory, ties to Marrovini/Awobiso + Tower Yprazi. Coord SW near Awobiso, consistent. Keep."
 ---
-Southwest of Awobiso, visible from the highest terraces, the Hills of the Damned rise from the sea—a barren promontory where nothing grows and the soil itself seems wrong. The hills earned their name centuries ago, when a Marrovini patrón attempted to bind a powerful spirit to serve as a guardian, similar to Yibiye's Gates. The binding failed catastrophically.
+Southwest of Awobiso, visible from the highest terraces, the Hills of the Damned rise from the sea—a barren promontory where nothing grows and the soil itself seems wrong. The hills earned their name centuries ago, when a Marrovini patrón attempted to bind a powerful spirit as a guardian, similar to Yibiye's Gates. The binding failed catastrophically.
 
 Now the hills are haunted—genuinely, undeniably haunted. Spirits move through the rocks, wailing sounds carry across the water on still nights, and anyone who stays too long begins to hear voices offering terrible bargains. The Marrovini maintain a cordon of guard posts around the hills, not to protect them, but to keep what's inside from getting out.
 

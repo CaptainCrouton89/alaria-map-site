@@ -16,7 +16,7 @@ A broad, slow-moving river marking the western boundary of Echem Yiakraxes, the 
 
 For caravans, pilgrims, and anyone else who needs to transit the northwestern Deadloop region without crossing Terrogone territory, the Tasqh Evikkris is the only option. The river runs roughly north-south, fed by highland tributaries in the Anna P'Sue region and eventually emptying into the Deadloop's western reaches.
 
-Traffic stays close to the water. Flat-bottomed barges carry goods and passengers, poled along by crews who know the river's moods intimately. Portage points at rapids and shallows see small communities—not quite towns, more like permanent camps—where travelers can resupply, hire guards, or wait for safer conditions.
+Traffic stays close to the water. Flat-bottomed barges carry goods and passengers, poled along by crews who know the river's moods intimately. Portage points at rapids and shallows see small communities, not quite towns, more like permanent camps, where travelers can resupply, hire guards, or wait for safer conditions.
 
 The crossing from the river's western bank to anywhere east of Echem Yiakraxes requires either a very long detour south or a very dangerous shortcut through Terrogone hunting grounds. Most choose the detour.
 
@@ -37,7 +37,7 @@ Whatever the reason, the effect is consistent. The Tasqh Evikkris flows through 
 
 Murky brown water, fifty to eighty yards wide in most stretches, deepening to thirty feet in the main channel. The current looks gentle from shore but pulls hard once you're in it. The banks are muddy, thick with reeds and low scrub—the only significant vegetation in this part of Echem Yiakraxes.
 
-Wildlife congregates here in stark contrast to the barren plains. Wading birds, small mammals, fish visible in the shallows when the sun hits right. Crocodilian predators (called *krisev* locally) patrol the deeper stretches; they're dangerous but predictable, and the barge crews know how to avoid them.
+Wildlife congregates here in stark contrast to the barren plains. Wading birds, small mammals, fish visible in the shallows when the sun hits right. Crocodilian predators (called krisev locally) patrol the deeper stretches; they're dangerous but predictable, and the barge crews know how to avoid them.
 
 The smell is mud and green growth—shocking after days in the dry savanna. Sound carries differently near the water; voices and splashes echo off the far bank. At night, the river produces a low, constant susurration that locals claim is the water spirit breathing.
 

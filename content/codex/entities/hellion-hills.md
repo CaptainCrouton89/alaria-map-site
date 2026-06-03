@@ -20,7 +20,7 @@ The Hellion Hills stretch roughly twenty miles east to west, forming a natural b
 
 The terrain is brutal: sharp volcanic rock, unstable slopes, sudden fissures that vent superheated steam without warning. The fire ley line keeps the ground temperature elevated year-round—snow never settles here, even in the deepest winter. In summer, the hills become genuinely dangerous; heatstroke claims unprepared travelers before the terrain does.
 
-Scattered throughout are remnants of old volcanic activity: obsidian flows, collapsed lava tubes, and hot springs that range from pleasantly warm to instantly fatal. The hills don't actively erupt—the fire ley line keeps the energy diffuse rather than explosive—but they smolder constantly, and new vents open without warning.
+Scattered throughout are remnants of old volcanic activity: obsidian flows, collapsed lava tubes, and hot springs that range from pleasantly warm to instantly fatal. The hills don't actively erupt; the fire ley line keeps the energy diffuse rather than explosive. But they smolder constantly, and new vents open without warning.
 
 #### Inhabitants
 

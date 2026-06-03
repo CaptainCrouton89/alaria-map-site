@@ -20,8 +20,8 @@ The bay is heavily patrolled. Roulean naval vessels run regular circuits, and pr
 
 #### Sunbeam Prison
 
-Visible from anywhere on the bay—a shimmering pillar of light rising from the waves. The Sunbeam Prison floats where light and force leylines intersect in the Roule Channel, a marvel of magical engineering and a warning to anyone who might challenge Roulean authority.
+Visible from anywhere on the bay, a shimmering pillar of light rising from the waves. The Sunbeam Prison floats where light and force leylines intersect in the Roule Channel, a marvel of magical engineering and a warning to anyone who might challenge Roulean authority.
 
-The prison is not made of stone or iron, but of beams of solidified light bound together by force magic. These sunbeams create a perfect cage—impenetrable, unbreakable, and impossible to approach without authorization. The prison requires constant magical maintenance to sustain the leyline convergence, employing a permanent staff of mages who rotate monthly to avoid burnout.
+The prison is made of beams of solidified light bound together by force magic, not stone or iron. These sunbeams create a perfect cage, impenetrable, unbreakable, and impossible to approach without authorization. The prison requires constant magical maintenance to sustain the leyline convergence, employing a permanent staff of mages who rotate monthly to avoid burnout.
 
-Inmates include pirates, political prisoners, and those the Honey Lords want forgotten. Sentences are measured in decades. Escape is theoretically impossible—the light-walls burn flesh, and the waters below are patrolled by bound water elementals. The prison is Roule's most visible display of power and its most closely guarded secret. What happens inside is not discussed.
+Inmates include pirates, political prisoners, and those the Honey Lords want forgotten. Sentences are measured in decades. Escape is theoretically impossible: the light-walls burn flesh, and the waters below are patrolled by bound water elementals. The prison is Roule's most visible display of power and its most closely guarded secret. What happens inside is not discussed.

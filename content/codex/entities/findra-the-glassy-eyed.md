@@ -19,9 +19,9 @@ A Force dragon who lairs in the northeastern Pindolin Islands, on the small isla
 
 #### The Blinding
 
-Findra doesn't discuss what happened. The few survivors of her encounters who've tried to ask received only silence—and then death, when they pressed further.
+Findra doesn't discuss what happened. The few survivors of her encounters who've tried to ask received only silence, and then death when they pressed further.
 
-What scholars have pieced together: she fought something in the deep water between the Pindolins and the Abyssal shelf. Something that targeted her eyes specifically. She won—probably—but crawled onto her current island blind, bleeding, and furious.
+What scholars have pieced together: she fought something in the deep water between the Pindolins and the Abyssal shelf. Something that targeted her eyes specifically. She won, probably, but crawled onto her current island blind, bleeding, and furious.
 
 She should have died. Dragons don't recover well from sensory loss; their hunting, their magic, their entire predatory existence depends on perception. A blind dragon is a dead dragon.
 
@@ -35,25 +35,25 @@ The first attempts failed. The second attempts failed worse. She destroyed miles
 
 The eyes she eventually created aren't eyes at all. They're resonance spheres—fist-sized orbs of Force-crystallized glass that sit in her empty sockets and vibrate in response to motion. Every footfall within two miles registers. Every heartbeat. Every breath. The rhythm of waves, the settling of stone, the minute tremors of a mouse crossing rock a thousand feet below.
 
-She doesn't see. She *feels* the world move.
+She doesn't see. She feels the world move.
 
 #### What She Perceives
 
 Findra's senses are simultaneously more and less than sight:
 
-**More**: She cannot be surprised. Hidden creatures register by their heartbeats. Invisible beings still displace air. Illusions have no weight, no vibration—she ignores them entirely. In absolute darkness, in fog thick as clay, in the blinding light of noon, her perception remains unchanged.
+**More**: She cannot be surprised. Hidden creatures register by their heartbeats. Invisible beings still displace air. Illusions have no weight, no vibration; she ignores them entirely. In absolute darkness, in fog thick as clay, in the blinding light of noon, her perception remains unchanged.
 
-**Less**: She has no color. No fine detail. No reading. The world comes to her as a constant wash of kinetic information—shapes defined by movement, structures revealed by the vibrations they carry. Beautiful things and ugly things feel the same. She hasn't seen a sunset in three hundred years.
+**Less**: She has no color. No fine detail. No reading. The world comes to her as a constant wash of kinetic information: shapes defined by movement, structures revealed by the vibrations they carry. Beautiful things and ugly things feel the same. She hasn't seen a sunset in three hundred years.
 
-The tradeoff has made her strange. Other dragons hoard gold for its gleam; Findra hoards *movement*. Her lair contains clockwork mechanisms salvaged from ships, pendulums that never stop swinging, waterfalls she's diverted through caverns just to feel the constant vibration. She keeps prisoners sometimes—not for torture, but because living things move in ways that dead things don't, and she finds the rhythm of heartbeats soothing.
+The tradeoff has made her strange. Other dragons hoard gold for its gleam; Findra hoards movement. Her lair contains clockwork mechanisms salvaged from ships, pendulums that never stop swinging, waterfalls she's diverted through caverns just to feel the constant vibration. She keeps prisoners sometimes. Torture isn't the point; living things move in ways that dead things don't, and she finds the rhythm of heartbeats soothing.
 
 #### The Obsession
 
 Findra wants more eyes.
 
-Her current pair works. But she's convinced better crystalline formations exist—purer Force-attuned glass, more sensitive resonance structures. She's particularly interested in the Shattering Stones of Emblydium (the Nydor won't trade with her), the Chime Crystals of the Triton deep cities (too far, too wet), and persistent rumors of a titan-era construct somewhere in the Dragon's Spine that could perceive through solid stone.
+Her current pair works. But she's convinced better crystalline formations exist: purer Force-attuned glass, more sensitive resonance structures. She's particularly interested in the Shattering Stones of Emblydium (the Nydor won't trade with her), the Chime Crystals of the Triton deep cities (too far, too wet), and persistent rumors of a titan-era construct somewhere in the Dragon's Spine that could perceive through solid stone.
 
-She sends servants—rarely willing ones—to investigate these leads. Most don't return. The ones who do bring fragments, samples, sometimes just descriptions. She evaluates each with obsessive attention, compares them to her current eyes, and usually finds them wanting.
+She sends servants, rarely willing ones, to investigate these leads. Most don't return. The ones who do bring fragments, samples, sometimes just descriptions. She evaluates each with obsessive attention, compares them to her current eyes, and usually finds them wanting.
 
 The servants who bring genuinely promising samples are rewarded. The ones who waste her time are killed. The ones who try to steal her current eyes are killed slowly.
 
@@ -63,7 +63,7 @@ Findra hunts by stillness.
 
 She settles onto a rocky prominence and goes completely motionless—no breath, no heartbeat that she doesn't suppress, nothing but the slow cooling of stone. Then she waits. Her perception extends outward, feeling for anything that moves: ships passing through the strait, creatures crawling on distant beaches, the vibration patterns of schools of fish.
 
-When she identifies prey worth taking, she moves in a single explosive motion—stone to sky to strike in seconds. Victims report (the few who survived initial contact) that she appeared from nowhere, from *nothing*, a shape they'd mistaken for a rock formation suddenly revealing itself as death.
+When she identifies prey worth taking, she moves in a single explosive motion—stone to sky to strike in seconds. Victims report (the few who survived initial contact) that she appeared from nowhere, from nothing, a shape they'd mistaken for a rock formation suddenly revealing itself as death.
 
 She prefers prey that struggles. The vibrations of panic are more interesting than the stillness of acceptance.
 
@@ -87,7 +87,7 @@ Findra can be bargained with, but the terms are narrow:
 
 **She won't trade**: Her current eyes, obviously. Information about what blinded her. Access to her lair for "research purposes."
 
-**Approach carefully**: She knows you're coming before you know you're there. Attempting stealth is pointless and insults her intelligence. Attempting overwhelming force is suicide—she's been fighting for eight hundred years and hasn't lost since the blinding. Your best approach is visible, respectful, and bearing gifts.
+**Approach carefully**: She knows you're coming before you know you're there. Attempting stealth is pointless and insults her intelligence. Attempting overwhelming force is suicide; she's been fighting for eight hundred years and hasn't lost since the blinding. Your best approach is visible, respectful, and bearing gifts.
 
 **The eyes are a weakness**: If someone destroyed or stole her resonance spheres, she'd be blind again. Truly blind. She knows this. She has killed fourteen people who she believed were thinking about it too seriously. Whether she could create new eyes is unknown—she did it once, but she's older now, and the leyline composition has shifted.
 

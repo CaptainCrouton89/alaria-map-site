@@ -16,6 +16,6 @@ relations:
 ---
 The western arm of the Gulf of Norag curves around a jungle cape topped by Demonwatch—a darkstone palace visible from miles out to sea. Sailors call this inlet Demortik Bay, a corruption of "demon-tide bay," and avoid it religiously.
 
-The waters here are unnaturally still. Fish avoid the bay. Even sharks turn away at its mouth. Local Naruaghin believe the demons confined to Demonwatch have poisoned the water with their presence—not literally toxic, but spiritually tainted. Whether true or superstition, vessels that anchor in Demortik Bay report crew nightmares, equipment failures, and occasionally crew members who walk into the water and don't return.
+The waters here are unnaturally still. Fish avoid the bay. Even sharks turn away at its mouth. Local Naruaghin believe the demons confined to Demonwatch have poisoned the water with their presence, tainting it spiritually if not literally. Whether true or superstition, vessels that anchor in Demortik Bay report crew nightmares, equipment failures, and occasionally crew members who walk into the water and don't return.
 
 The bay would make an excellent harbor if anyone were foolish enough to use it.

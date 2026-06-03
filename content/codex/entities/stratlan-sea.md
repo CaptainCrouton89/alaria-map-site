@@ -53,7 +53,7 @@ Scholars and sailors have many theories about the Stratlan Sea:
 
 Near the Western Isles, the Stratlan is normal ocean—deep, cold, relatively lifeless compared to the teeming Shattered Sea. Further out:
 
-**Depth**: The Stratlan is deep. Ships taking soundings have played out thousands of feet of line without touching bottom. Some scholars believe there is no bottom—the sea extends downward indefinitely.
+**Depth**: The Stratlan is deep. Ships taking soundings have played out thousands of feet of line without touching bottom. There may be no bottom at all; the sea seems to extend downward indefinitely.
 
 **Currents**: Near the islands, currents flow predictably. Further out, they become erratic, sometimes reversing without explanation or carrying ships in circles.
 
@@ -89,4 +89,4 @@ Whether this is optical phenomenon, magical effect, or proximity to whatever end
 
 ### What Brings People Here
 
-Nothing should. The Stratlan Sea is empty, dangerous, and ultimately fatal to those who venture too deep. It exists as a boundary—the edge beyond which the world offers nothing but mystery and death.
+Nothing should. The Stratlan Sea is empty, dangerous, and ultimately fatal to those who venture too deep. It is a boundary, the edge beyond which the world offers nothing but mystery and death.

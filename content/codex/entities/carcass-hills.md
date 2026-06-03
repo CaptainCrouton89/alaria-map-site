@@ -33,7 +33,7 @@ The name has three sources, and all are accurate:
 
 **The Fossils**: The rock is dense with fossilized remains. Bones of unfamiliar creatures protrude from cliffsides and erode out of hillsides after heavy rains. Some are recognizable—giant elk, massive bears, creatures that still exist in smaller forms. Others are not. Collectors prize the fossils, though reaching them requires passing through ulvsjael territory.
 
-**The Dead**: Something terrible happened here, long ago. The hills are layered with mass graves—not natural accumulations, but deliberate burials. Whoever they were, they numbered in the tens of thousands. The bones are human, or close to it, and they've been there for millennia.
+**The Dead**: Something terrible happened here, long ago. The hills are layered with mass graves, deliberate burials rather than natural accumulations. Whoever they were, they numbered in the tens of thousands. The bones are human, or close to it, and they've been there for millennia.
 
 #### The Ulvsjael and the Hills
 

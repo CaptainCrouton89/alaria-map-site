@@ -12,10 +12,10 @@ review:
 ---
 A Water dragon who collects debts the way other dragons collect gold.
 
-Oboros controls the central Pindolin Islands, moving through the Water leyline like a current himself. He's the oldest dragon in the archipelago, the most patient, and the most likely to talk before killing—though talking to Oboros has its own dangers. He never lies. He never needs to. He chooses his words with precision that would impress a Deoric practitioner, and by the time you realize what you've agreed to, it's far too late.
+Oboros controls the central Pindolin Islands, moving through the Water leyline like a current himself. He's the oldest dragon in the archipelago, the most patient, and the most likely to talk before killing, though talking to Oboros has its own dangers. He never lies. He never needs to. He chooses his words with precision that would impress a Deoric practitioner, and by the time you realize what you've agreed to, it's far too late.
 
 ### The Collector
-What Oboros accumulates is *obligation*. Favors owed. Services promised. Binding agreements etched into his memory and, he claims, into the leyline itself.
+What Oboros accumulates is obligation. Favors owed. Services promised. Binding agreements etched into his memory and, he claims, into the leyline itself.
 
 Over five centuries, he's bargained with sailors, merchants, pirates, mages, minor nobles, and at least three other dragons. He's traded safe passage for future considerations. He's provided information in exchange for unnamed services. He's rescued drowning crews who then owed him everything.
 
@@ -24,11 +24,11 @@ Most debtors are dead now, their obligations discharged or expired. But some are
 The grandson of a man Oboros saved in 2847 SD might wake to find a blue-scaled head surfacing beside his ship, politely requesting the assistance that was promised.
 
 ### Appearance
-Oboros is blue in the way deep water is blue—not bright azure but the dark, cold blue of oceanic depth. His scales are smooth and close-fitted, offering no purchase for barnacles despite centuries in salt water. His eyes are luminous, self-illuminating, visible from hundreds of feet away in murk.
+Oboros is blue in the way deep water is blue, not bright azure but the dark, cold blue of oceanic depth. His scales are smooth and close-fitted, offering no purchase for barnacles despite centuries in salt water. His eyes are luminous, self-illuminating, visible from hundreds of feet away in murk.
 
-He's large, though smaller than he was. Water dragons don't age the way others do—they don't weaken, but they condense. Oboros at five hundred years is denser than Oboros at two hundred, each scale packed with compressed vitality. He looks merely huge. He feels like a depth charge waiting to detonate.
+He's large, though smaller than he was. Water dragons don't age the way others do. They don't weaken, but they condense. Oboros at five hundred years is denser than Oboros at two hundred, each scale packed with compressed vitality. He looks merely huge. He feels like a depth charge waiting to detonate.
 
-When he moves through water, he doesn't displace it—he becomes part of its flow, accelerating along the leyline at speeds that shouldn't be possible. When he surfaces, water doesn't fall from him so much as reluctantly release him.
+When he moves through water, he doesn't displace it. He becomes part of its flow, accelerating along the leyline at speeds that shouldn't be possible. When he surfaces, water doesn't fall from him so much as reluctantly release him.
 
 ### The Cunning
 Oboros earned his epithet through centuries of demonstrated intelligence:
@@ -40,7 +40,7 @@ Oboros earned his epithet through centuries of demonstrated intelligence:
 **The Information Network**: Oboros maintains contacts among sailors, fishermen, and smugglers throughout the Dragon's Spine Coast. He trades trivial favors for news, assembling a picture of mainland affairs that most rulers would envy. He knows events sometimes before they happen.
 
 ### The Lair
-A flooded volcanic caldera in the central Pindolins—a perfect circle of sheer cliffs surrounding a deep, dark lake connected to the ocean through underwater tunnels. The Water leyline runs through its heart.
+A flooded volcanic caldera in the central Pindolins, a perfect circle of sheer cliffs surrounding a deep, dark lake connected to the ocean through underwater tunnels. The Water leyline runs through its heart.
 
 The lake looks empty from above. It isn't.
 
@@ -62,7 +62,7 @@ The problem is the terms.
 **The trap**: Oboros phrases requests as options, terms as suggestions. He never demands. He presents alternatives that all lead to the outcome he wanted. Negotiating feels collaborative until you realize you've agreed to exactly what he intended.
 
 ### Combat
-Oboros avoids direct combat—not because he can't win, but because it's wasteful and unpredictable.
+Oboros avoids direct combat, not because he can't win but because it's wasteful and unpredictable.
 
 When unavoidable:
 
@@ -70,7 +70,7 @@ When unavoidable:
 
 **Depth advantage**: He drags opponents down. Water pressure does his killing.
 
-**The leyline**: Near convergences, his power amplifies dramatically. Ships have simply *vanished*—compressed into wreckage, crews dissolved into sea.
+**The leyline**: Near convergences, his power amplifies dramatically. Ships have simply vanished, compressed into wreckage, crews dissolved into sea.
 
 **Escape**: His current paths allow exit faster than any pursuit. He's never needed to flee. The option exists.
 
@@ -87,10 +87,10 @@ Five centuries in the Pindolins and centuries before that elsewhere:
 This information is available. For a price. The price is always reasonable at first.
 
 ### Hooks
-- **The Debt Called In**: Someone the party cares about owes Oboros a favor from decades ago—or their ancestor did. The dragon has surfaced to collect. The terms of the original agreement were vague enough to demand almost anything.
+- **The Debt Called In**: Someone the party cares about owes Oboros a favor from decades ago, or their ancestor did. The dragon has surfaced to collect. The terms of the original agreement were vague enough to demand almost anything.
 
-- **The Treaty Breach**: Vetral claims Oboros has violated their agreement. Triton forces are mobilizing. Oboros insists he's done nothing wrong—technically true, but tritons don't care about technicalities. War would destabilize the entire region.
+- **The Treaty Breach**: Vetral claims Oboros has violated their agreement. Triton forces are mobilizing. Oboros insists he's done nothing wrong, technically true, but tritons don't care about technicalities. War would destabilize the entire region.
 
-- **The Information Broker**: Oboros knows something critical—the location of a sunken artifact, the truth about a historical mystery, the plans of a major power. He'll share it. The price is a favor, details unspecified, to be collected at his discretion.
+- **The Information Broker**: Oboros knows something critical: the location of a sunken artifact, the truth about a historical mystery, the plans of a major power. He'll share it. The price is a favor, details unspecified, to be collected at his discretion.
 
-- **The Succession**: Rumors suggest Oboros is preparing for something—gathering specific debts, moving assets, making arrangements. Dragons don't die of old age, but they do plan. What is he preparing for?
+- **The Succession**: Rumors suggest Oboros is preparing for something: gathering specific debts, moving assets, making arrangements. Dragons don't die of old age, but they do plan. What is he preparing for?

@@ -49,6 +49,10 @@ The Korel are not a unified people. Each pack operates independently, sometimes 
 
 See Koren for details on the Korel.
 
+### The one passage
+
+The rule that outsiders do not cross Edari has exactly one living exception, and it is not a road. In the southern reaches, where the savannah breaks against the Shepherds' Stones, a pack-lead named Korath has for three years walked a single Nameless mercenary through the interior and back. There is no track to find and nothing built to mark it; the safe passage is wherever Korath's pack happens to be walking, and it exists only because he profits from it. The other packs hunt him for it. None of this softens the general rule. For anyone without Korath's protection, the interior remains exactly as lethal as it has always been, and Korath protects precisely one man.
+
 ### Why It Matters
 
 Edari is effectively impassable overland. Anyone traveling between Sestros and the northern coast must either:

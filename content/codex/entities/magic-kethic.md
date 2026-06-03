@@ -8,7 +8,7 @@ review:
   aiWritten: false
   action: keep
 ---
-Kethic is the fourth of Alaria's fundamental magic sources. Where Faesong is Melera's ambient emotion heard from without, Kethic is the caster's own emotion turned outward — structured, focused, and routed through the Elemental Planes by way of the leylines that connect them to the material world. The distinction matters: Faesong is heard. Kethic is directed.
+Kethic is the fourth of Alaria's fundamental magic sources. Where Faesong is Melera's ambient emotion heard from without, Kethic is the caster's own emotion turned outward, structured, focused, and routed through the Elemental Planes by way of the leylines that connect them to the material world. The distinction matters: Faesong is heard. Kethic is directed.
 
 ### How it works
 

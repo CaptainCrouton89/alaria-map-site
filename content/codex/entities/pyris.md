@@ -17,7 +17,7 @@ review:
   action: keep
   notes: "Detailed, coherent, on-theme (Pyrisi human-dwarf folk, cursed Fort Tenze, secondary chokepoint). Geo matches map: island SW of strait at [109,210]. DUPLICATE of 'Pyris Island' (2562) — same island, same coords; recommend reconciliation (merge 2562 into 2568)."
 ---
-A moderate-sized island southwest of the Tarkhon Strait, part of Nektuna's territory. Home to the Pyrisi—a hardy, independent folk who want nothing more than to be left alone—and the cursed ruins of Fort Tenze.
+A moderate-sized island southwest of the Tarkhon Strait, part of Nektuna's territory. Home to the Pyrisi, a hardy, independent folk who want nothing more than to be left alone, and the cursed ruins of Fort Tenze.
 
 #### Geography
 
@@ -33,17 +33,17 @@ The Pyrisi are primarily farmers and fishers. They grow olives and grapes, catch
 
 They have little interest in mainland politics. When Tarkhetan's intrigues spill over, the Pyrisi wait for it to pass. When asked their opinion on the succession, they shrug. When pressed about the Neferati legacy, they change the subject.
 
-This isn't ignorance—it's survival. The Pyrisi have learned that attracting attention rarely ends well for islanders.
+It looks like ignorance, but it is survival. The Pyrisi have learned that attracting attention rarely ends well for islanders.
 
 #### Settlements
 
-**Pyris Town** is the largest settlement, located on the northern coast. Perhaps 3,000 people live here—merchants, craftsmen, and the administrators who handle the island's relationship with Tarkhetan. The town has a modest harbor, a small market, and a temple to the Evertorch (rarely attended).
+Pyris Town is the largest settlement, located on the northern coast. Perhaps 3,000 people live here—merchants, craftsmen, and the administrators who handle the island's relationship with Tarkhetan. The town has a modest harbor, a small market, and a temple to the Evertorch (rarely attended).
 
-Several **villages** dot the interior and southern coast, home to farming families who've worked the same land for generations. These communities are insular, intermarried, and suspicious of outsiders—including visitors from Pyris Town.
+Several villages dot the interior and southern coast, home to farming families who've worked the same land for generations. These communities are insular, intermarried, and suspicious of outsiders—including visitors from Pyris Town.
 
 #### Fort Tenze
 
-On the island's eastern coast stand the ruins of **Fort Tenze**, once a vital fortress guarding the western approaches to the strait.
+On the island's eastern coast stand the ruins of Fort Tenze, once a vital fortress guarding the western approaches to the strait.
 
 Fort Tenze has been abandoned for three centuries, ever since the Severance—the civil war that ended Neferati rule. The garrison sided with the losing faction. When the victors came to take the fortress, something went wrong. The place burned with unnatural fire and has been cursed ever since.
 
@@ -59,7 +59,7 @@ The fortress's absence creates a gap in Tarkhon's defenses. Smugglers exploit it
 
 #### Relationship with Tarkhetan
 
-Pyris is technically part of Nektuna, governed from Tarkhetan. In practice, the island largely governs itself. A minor noble holds the title of Governor of Pyris—usually someone being quietly exiled from court politics—and the Pyrisi ignore them as much as possible.
+Pyris is technically part of Nektuna, governed from Tarkhetan. In practice, the island largely governs itself. A minor noble holds the title of Governor of Pyris, usually someone being quietly exiled from court politics, and the Pyrisi ignore them as much as possible.
 
 The island pays taxes, provides sailors, and hosts the cursed ruins of a fortress nobody wants to rebuild. In exchange, Tarkhetan mostly leaves them alone.
 

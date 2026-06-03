@@ -10,17 +10,17 @@ sources: ["all_sections_formatted/Rimihuica.md#L3123"]
 relations:
   - { rel: spatial, kind: within, target: "2620" }
 ---
-A broad, shallow bay on Westrim's southwestern coast, providing Atriik's only maritime access. The bay takes its name from the shark populations that patrol its waters—a hazard for swimmers and small boats, but manageable for proper vessels.
+A broad, shallow bay on Westrim's southwestern coast, providing Atriik's only maritime access. The bay takes its name from the shark populations that patrol its waters, a hazard for swimmers and small boats but manageable for proper vessels.
 
 #### Character
 
-Shark Bay is protected water, sheltered from the open ocean's worst weather by headlands and offshore islands. The depth is modest—large ships must anchor in the outer bay and transfer cargo to shallow-draft vessels for the final approach to shore. This has shaped the bay's economy: local pilots who know the channels are essential, and the Kendor sea-folk of Watalina have built their influence on that expertise.
+Shark Bay is protected water, sheltered from the open ocean's worst weather by headlands and offshore islands. The depth is modest: large ships must anchor in the outer bay and transfer cargo to shallow-draft vessels for the final approach to shore. This has shaped the bay's economy: local pilots who know the channels are essential, and the Kendor sea-folk of Watalina have built their influence on that expertise.
 
 The water is warm, clear, and productive. Fishing villages dot the eastern shore where Sprenwood meets the coast. Shark Bay's catches supply protein to Atriik's interior settlements, traded upriver in exchange for forest products and goods from the desert caravans.
 
 #### Watalina
 
-The Kendor settlement of Watalina occupies a cluster of partially-submerged structures and floating platforms in the bay's southern reaches. The Kendor are a sea-dwelling people—not fully aquatic, but more comfortable in water than on land. Watalina serves as their trading interface with the land-based nations of Atriik.
+The Kendor settlement of Watalina occupies a cluster of partially-submerged structures and floating platforms in the bay's southern reaches. The Kendor are a sea-dwelling people, not fully aquatic but more comfortable in water than on land. Watalina serves as their trading interface with the land-based nations of Atriik.
 
 Watalina controls:
 - **Pilotage**: No ship enters or leaves the bay without a Kendor pilot, by longstanding agreement
@@ -28,7 +28,7 @@ Watalina controls:
 - **Offshore fishing**: The deeper waters beyond the bay are Kendor territory
 - **Pearl cultivation**: The bay's mollusk beds produce modest but consistent pearl harvests
 
-The Kendor remain neutral in Atriik's internal politics. They trade with all four city-states equally and refuse to take sides in disputes. This neutrality is enforced by their ability to simply withdraw from trade—and no one in Atriik wants to lose access to the sea.
+The Kendor remain neutral in Atriik's internal politics. They trade with all four city-states equally and refuse to take sides in disputes. This neutrality is enforced by their ability to simply withdraw from trade, and no one in Atriik wants to lose access to the sea.
 
 #### Notable Features
 

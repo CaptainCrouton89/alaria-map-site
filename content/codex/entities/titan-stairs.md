@@ -9,7 +9,7 @@ sources: ["all_sections_formatted/Aboyinzu.md#L6277"]
 relations:
   - { rel: spatial, kind: within, target: "1865" }
 ---
-The **Titan Stairs** are the western gateway to the Dalizi Highlands, a dramatic stepped formation where the land rises from the lowland Dalizi Confederation toward the mountain wall in a series of massive terraces. Each "step" is a plateau tens of miles across, separated by cliffs and escarpments that must be climbed or circumvented. The name refers to the scale—the formation looks like stairs built for beings far larger than humans.
+The Titan Stairs are the western gateway to the Dalizi Highlands, a dramatic stepped formation where the land rises from the lowland Dalizi Confederation toward the mountain wall in a series of massive terraces. Each "step" is a plateau tens of miles across, separated by cliffs and escarpments that must be climbed or circumvented. The name refers to the scale: the formation looks like stairs built for beings far larger than humans.
 
 #### Geography
 
@@ -38,7 +38,7 @@ The Dalizi themselves offer no traditional explanation. The stairs have always b
 
 Traveling up the Titan Stairs is the primary route into the western Dalizi Highlands. Each escarpment requires a half-day's climb on the established paths, more if conditions are poor or the traveler is burdened. The entire ascent from the lowlands to the Fourth Step takes two to three days.
 
-The paths are not maintained in any formal sense, but they're well-worn from centuries of use. The most dangerous sections have rope handholds installed by unknown hands—some ancient, some relatively recent. Falls are possible but rare for those who pay attention.
+The paths are not maintained in any formal sense, but they're well-worn from centuries of use. The most dangerous sections have rope handholds installed by unknown hands, some ancient, some relatively recent. Falls are possible but rare for those who pay attention.
 
 Descending is faster but requires more care. The temptation to hurry has killed climbers who rushed switchbacks or trusted their footing on loose stone.
 
@@ -48,19 +48,19 @@ The Second and Third Steps connect to the Chull Lands through relatively gentle 
 
 ##### Giant's Rest
 
-A flat area on the Third Step where a massive stone slab—roughly fifty feet long and twenty feet wide—lies at an angle that resembles a reclining figure. Legend claims this is where a titan stopped to rest during the stairs' construction and was turned to stone. The stone shows no tool marks or carved features; it's just a slab that happens to look somewhat humanoid from certain angles.
+A flat area on the Third Step where a massive stone slab, roughly fifty feet long and twenty feet wide, lies at an angle that resembles a reclining figure. Legend claims this is where a titan stopped to rest during the stairs' construction and was turned to stone. The stone shows no tool marks or carved features; it's just a slab that happens to look somewhat humanoid from certain angles.
 
 ##### The Watchtowers
 
 Ruined structures on the Fourth Step, positioned to overlook both the Chull Lands and the approaches to Fool's Pass. Three towers survive as partial walls; foundations suggest at least two more once existed. The architecture is unfamiliar, the age uncertain. Someone wanted to watch the western highlands, once.
 
-**GM Information:** These towers were built by the Vetharak civilization to monitor traffic through the Titan Stairs—specifically, to watch for anything emerging from Fool's Pass. The builders knew the dragon (or the dragon's predecessor) controlled the northern side and maintained these posts as early warning stations. The towers were staffed until the civilization's collapse; they've stood empty for millennia since.
+**GM Information:** These towers were built by the Vetharak civilization to monitor traffic through the Titan Stairs, specifically to watch for anything emerging from Fool's Pass. The builders knew the dragon (or the dragon's predecessor) controlled the northern side and maintained these posts as early warning stations. The towers were staffed until the civilization's collapse; they've stood empty for millennia since.
 
 ##### The Counting Stones
 
 A series of carved marks on the escarpment between the First and Second Steps, apparently counting something. The marks number over two thousand and continue up the cliff face higher than any casual reach. Their meaning is unknown; their age is estimated at several centuries minimum.
 
-**GM Information:** The marks count heartbeats—specifically, the titan's heartbeats. The Vetharak civilization developed methods to detect the titan's century-slow pulse and carved a mark for each beat, using the count to predict dream-cycles and plan their rituals accordingly. The marks continue above human reach because the carvers used scaffolding or magic; the project was eventually abandoned when the correlation between heartbeats and dream-intensity proved unreliable. There are 2,347 marks, representing approximately 234,700 years of monitoring.
+**GM Information:** The marks count heartbeats, specifically the titan's heartbeats. The Vetharak civilization developed methods to detect the titan's century-slow pulse and carved a mark for each beat, using the count to predict dream-cycles and plan their rituals accordingly. The marks continue above human reach because the carvers used scaffolding or magic; the project was eventually abandoned when the correlation between heartbeats and dream-intensity proved unreliable. There are 2,347 marks, representing approximately 234,700 years of monitoring.
 
 #### Related Locations
 

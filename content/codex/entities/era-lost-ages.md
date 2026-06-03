@@ -2,7 +2,7 @@
 id: "era-lost-ages"
 name: "The Lost Ages"
 entityType: era
-blurb: "30,000–10,209 years ago. The Laughing Plague destroys Craggus' legacy; dwarves are born; a succession of calamities reduces Alaria to ruins."
+blurb: "30,000–10,209 BSD. The Laughing Plague destroys Craggus' legacy; dwarves are born; a succession of calamities reduces Alaria to ruins."
 tags: ["history", "era"]
 weight: standard
 atmosphere: ancient
@@ -15,11 +15,13 @@ review:
   aiWritten: false
   action: keep
 ---
-Less is known about the Lost Ages than any comparable span of time, as the period was marked by years of hardship and despair. It spans 30,000–10,209 years ago, beginning with the Laughing Plague that ended Craggus' reign and closing at the threshold of Hykravones the Shattering.
+Less is known about the Lost Ages than any comparable span of time, as the period was marked by years of hardship and despair. It spans 30,000–10,209 BSD, beginning with the Laughing Plague that ended Craggus' reign and closing at the threshold of Hykravones the Shattering. The Lost Ages are where the civil record begins: the round years-ago figures of the deep prehistory give way here to the dated BSD reckoning, which runs unbroken to the present.
+
+Whatever Craggus' age had relearned of the lost aetherial craft, and whatever the empires after him rebuilt upon it, was burned, poisoned, and at last forgotten across these millennia. This is the span over which the older world's recovered heights were lost for good, and it is why the world that followed never climbed back to the level whose ruins still litter the ground.
 
 ### The Laughing Plague: 30,000–28,800 BSD
 
-The Laughing Plague was a brutal disease from the plane of Glyssen. How it arrived on Alaria remains unknown. It drove all those exposed into a fevering, maniacal madness that incited them to horrible acts of violence — all while uncontrollably laughing. It spread through prolonged exposure to the laughter and brought nearly all of Alaria to bloodthirsty insanity. For 1,200 years, the Alarian population dwindled as people went into isolation and trade and progress stopped. Entire cities lay barren, their citizens dead at each others' hands. Most written history was lost, and technology regressed to a primitive state.
+The Laughing Plague was a brutal disease from the plane of Glyssen. How it arrived on Alaria remains unknown. It drove all those exposed into a fevering, maniacal madness that incited them to horrible acts of violence — all while uncontrollably laughing. It spread through prolonged exposure to the laughter and brought nearly all of Alaria to bloodthirsty insanity. For 1,200 years, the Alarian population dwindled as people went into isolation and trade and progress stopped. Entire cities lay barren, their citizens dead at each others' hands. Most written history was lost, and technology regressed to a primitive state, the aetherial works of Craggus' recovery among the first things to go.
 
 A few among the population held a natural resistance to the plague. Although immune to its violence-inciting effects, the disease stunted growth and permanently changed those who survived it. These survivors became known as **dwarves**, and entire communities of the immune formed — many of them underground. It is rumored that the Laughing Plague still circulates deep underground Alaria, among the Kackles, held at bay by the Uline dwarves.
 
@@ -55,3 +57,5 @@ The dynasties, weakened by the Killing Moon, turned on each other in a final con
 
 <!-- author-notes -->
 RESOLVED cycle-013: Blight of Arcanus = Ezz-substrate contamination. A catastrophe (probably the contemporaneous shadowrift) poisoned the Ezz; the three Ezz-based sources (Kethic, Faesong, Psywinds) turned lethal; Deoric was differently affected (still life-cost, not instant-kill) and its practitioners may be the rare survivors. "Aetherial foundations" = Kethic, the mage-kings' failed taxonomy name. The cause going unrecorded is canon (Oblivion Years) — do NOT invent a contamination mechanism beyond "a catastrophe poisoned the Ezz."
+
+LOST HIGH-WATER MARK (technology): the Lost Ages are the canonical reason technology is capped in the present. The older world's aetherial (Kethic) industrial heights — briefly relearned in the Age of Craggus and rebuilt by later empires — were burned (Laughing Plague), poisoned (Blight of Arcanus), and forgotten (Oblivion Years). The surviving advanced pockets (aether sky-industry, Gruynmar gunpowder, Ohblex/Camaran clockwork, Aciabro/Coghead fleshcraft, Techgnome relics) are fragments of that loss, each fenced behind a scarce monopoly input. See docs/worldbuilding/systems/technology.md.

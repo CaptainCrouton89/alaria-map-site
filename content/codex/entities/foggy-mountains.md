@@ -14,7 +14,7 @@ review:
   action: keep
   notes: "Eastern anchor of highland mountain wall; [397,485] E matches; barrier to Shipwreck Coast."
 ---
-The **Foggy Mountains** form the eastern anchor of the Dalizi Highlands' mountain wall, a range perpetually shrouded in mist that has never been fully explored. Rising to over 12,000 feet at their highest peaks, the mountains mark an absolute barrier between the Dalizi Confederation and the Shipwreck Coast—and hide secrets within their fog-wrapped valleys that few have survived to describe.
+The Foggy Mountains form the eastern anchor of the Dalizi Highlands' mountain wall, a range perpetually shrouded in mist that has never been fully explored. Rising to over 12,000 feet at their highest peaks, the mountains mark an absolute barrier between the Dalizi Confederation and the Shipwreck Coast, and hide secrets within their fog-wrapped valleys that few have survived to describe.
 
 #### Geography
 
@@ -34,7 +34,7 @@ What's known of the interior comes from the handful of survivors and from accoun
 
 - **Hidden valleys** where the fog parts to reveal lush meadows, only to close in again and refuse to reveal the same valley twice
 - **Ruins** of worked stone in styles that match no known culture, covered in carvings that hurt to look at directly
-- **Sounds** that echo through the fog—voices, music, screaming—with no discernible source
+- **Sounds** that echo through the fog with no discernible source: voices, music, screaming
 - **Something large** that moves through the upper peaks, glimpsed only as shadows in the mist
 
 **GM Information:** The Foggy Mountains were the heart of the Vetharak civilization's dream-harvesting operation. The interior is riddled with their facilities—refineries, storage vaults, ritual sites, and the infrastructure that channeled dream-energy throughout the highlands.
@@ -44,9 +44,9 @@ The phenomena explorers report are all side effects of this abandoned infrastruc
 - **The hidden valleys** are real places, but they exist partially in the titan's dream-space. Their locations shift based on dream-currents, making them impossible to find consistently. The lush meadows are sustained by residual dream-energy that promotes growth.
 - **The ruins** are Vetharak facilities. The carvings "hurt to look at" because they're designed to interface with the dream-space—looking at them engages parts of the mind that shouldn't be activated while awake.
 - **The sounds** are dream-echoes, moments from the titan's dreams bleeding into the physical world. The voices are the titan's half-formed thoughts; the music is something it remembers from before it slept; the screaming may be the trapped consciousness of Vetharak citizens who didn't escape the collapse.
-- **The something large** is a dream-construct—a manifestation of the titan's sleeping awareness, given temporary physical form by the concentrated dream-energy. It's not truly alive, but it can interact with the physical world. It may be hostile, curious, or simply confused.
+- **The something large** is a dream-construct, a manifestation of the titan's sleeping awareness, given temporary physical form by the concentrated dream-energy. It's not truly alive, but it can interact with the physical world. It may be hostile, curious, or simply confused.
 
-**The Fog Itself:** The perpetual fog isn't natural weather—it's a byproduct of the dream-energy concentration, manifesting as persistent moisture because the titan associates sleep with darkness and obscured vision. The fog is, in a sense, the titan's closed eyelids projected onto reality.
+**The Fog Itself:** The perpetual fog is not natural weather but a byproduct of the dream-energy concentration. It lingers as persistent moisture because the titan associates sleep with darkness and obscured vision. The fog is, in a sense, the titan's closed eyelids projected onto reality.
 
 #### Hills of the Moon Goblins
 
@@ -64,7 +64,7 @@ A waterway that rises in the Hills of the Moon Goblins and flows southeast towar
 
 ##### The Fog Line
 
-An altitude—roughly 2,500 feet on the eastern slopes—above which fog coverage becomes nearly constant. Below the fog line, the mountains are merely difficult. Above it, they're actively hostile.
+An altitude, roughly 2,500 feet on the eastern slopes, above which fog coverage becomes nearly constant. Below the fog line, the mountains are merely difficult. Above it, they're actively hostile.
 
 #### Related Locations
 

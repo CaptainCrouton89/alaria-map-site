@@ -10,4 +10,4 @@ sources: ["all_sections_formatted/Clueanda.md#L2846"]
 relations:
   - { rel: spatial, kind: within, target: "9000" }
 ---
-Water magically evaporates here—not just because it is hot. It won't last more than a day, and it can't be created magically.
+Water magically evaporates here, and the heat alone doesn't account for it. It won't last more than a day, and it can't be created magically.

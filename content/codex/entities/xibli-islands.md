@@ -18,7 +18,7 @@ review:
   action: keep
   notes: "Gift-economy archipelago, coherent & on-theme. Geography matches map: W of Aikon Tidal Islands (4175), N open water, E toward mainland/Tarkhon coast. Lengthy with padded Military/Festival sections but internally consistent specific worldbuilding, not generic filler. Could trim length but content keeps."
 ---
-A scattered archipelago east of the Aikon Tidal Islands, where the inhabitants have built their entire culture around competitive gift-giving. The Xibli don't trade—they give, and the giving creates debts that shape every relationship.
+A scattered archipelago east of the Aikon Tidal Islands, where the inhabitants have built their entire culture around competitive gift-giving. The Xibli don't trade; they give, and the giving creates debts that shape every relationship.
 
 ### Position
 
@@ -28,25 +28,25 @@ The Xibli Islands occupy waters between the Aikon Tidal Islands and the Sea of M
 - **South**: Sheîr's northern reaches
 - **North**: Open water toward Phyndarr Sound
 
-The islands are stable ground compared to their tidal neighbors—volcanic remnants with good harbors and reliable land.
+The islands are stable ground compared to their tidal neighbors, volcanic remnants with good harbors and reliable land.
 
 ### The Gift Economy
 
 The Xibli don't buy or sell. They give.
 
-This sounds generous until you understand how it works. Every gift creates a debt. Every debt must be repaid—with a greater gift. Failing to repay is social death. Repaying inadequately is humiliation. Repaying extravagantly establishes dominance.
+This sounds generous until you understand how it works. Every gift creates a debt. Every debt must be repaid, with a greater gift. Failing to repay is social death. Repaying inadequately is humiliation. Repaying extravagantly establishes dominance.
 
 **The Rules:**
 - Accepting a gift creates obligation to give something greater in return
-- The timing of repayment matters—too fast suggests eagerness, too slow suggests weakness
+- The timing of repayment matters: too fast suggests eagerness, too slow suggests weakness
 - The nature of the return gift must show understanding of what the giver values
 - Refusing a gift is possible but creates different obligations
 
-This system means the Xibli are constantly exchanging goods, services, and favors in an elaborate dance of competitive generosity. The wealthiest Xibli aren't those who have the most—they're those who've given the most and are owed the most in return.
+This system means the Xibli are constantly exchanging goods, services, and favors in an elaborate dance of competitive generosity. The wealthiest Xibli aren't those who have the most; they're those who've given the most and are owed the most in return.
 
 ### How Outsiders Fit In
 
-Foreign merchants find the Xibli baffling. You can't just buy what you want—you have to enter the gift system.
+Foreign merchants find the Xibli baffling. You can't just buy what you want. You have to enter the gift system.
 
 **The Typical Pattern:**
 1. A merchant arrives wanting to acquire something
@@ -68,7 +68,7 @@ The Xibli Islands comprise perhaps fifteen significant islands and many smaller 
 
 **Maker's Rest**: Where craftspeople produce the goods that flow through the gift economy. Artisans here are valued not for selling their work but for their ability to create worthy gifts.
 
-**The Debtor's Refuge**: A small island where people who've failed in the gift system can live without obligation—but also without status. Social exile.
+**The Debtor's Refuge**: A small island where people who've failed in the gift system can live without obligation, but also without status. Social exile.
 
 ### The Festival of Obligations
 
@@ -76,19 +76,19 @@ Once each year, the Xibli hold a massive gathering where accumulated debts are s
 
 The Festival can make or break families. A brilliant series of gifts can elevate a minor house to prominence. A failed obligation can destroy generations of accumulated status.
 
-Outsiders are invited—which means outsiders are obligated. Attending the Festival without understanding the gift system is extremely dangerous to one's social standing.
+Outsiders are invited, which means outsiders are obligated. Attending the Festival without understanding the gift system is extremely dangerous to one's social standing.
 
 ### Military Implications
 
 The Xibli don't have a military in the conventional sense. They have obligations.
 
-When threatened, families call on those who owe them. These debts might be repaid in warriors, ships, supplies, or shelter. A family with extensive gift-networks can raise substantial forces—not an army they command, but allies fulfilling obligations.
+When threatened, families call on those who owe them. These debts might be repaid in warriors, ships, supplies, or shelter. A family with extensive gift-networks can raise substantial forces, not an army they command but allies fulfilling obligations.
 
 This makes Xibli politics complicated. Attacking one family might trigger obligations across the archipelago. Or it might not, if that family has failed to maintain their gift relationships.
 
 ### What Brings People Here
 
-- **Unique Goods**: Xibli craftspeople produce items specifically designed to be impressive gifts—beautiful, valuable, memorable
+- **Unique Goods**: Xibli craftspeople produce items specifically designed to be impressive gifts, beautiful, valuable, memorable
 - **Alliances**: Entering the gift system creates relationships that can be called upon later
 - **Status**: Successfully navigating Xibli gift-culture earns respect across the Western Isles
-- **Challenge**: Some merchants treat the Xibli as a game to master—can they profit within the gift system?
+- **Challenge**: Some merchants treat the Xibli as a game to master: can they profit within the gift system?

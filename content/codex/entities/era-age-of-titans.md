@@ -7,7 +7,7 @@ tags: ["history", "era", "ancient"]
 weight: standard
 atmosphere: ancient
 relations:
-  - { rel: history, kind: precededBy, target: "era-early-times" }
+  - { rel: history, kind: within, target: "era-early-times" }
 sources:
   - "history_and_lore/timelines/World Timeline.md"
 review:
@@ -18,15 +18,15 @@ The Age of Titans spans 23.5–12 million years ago, beginning with Alaria's for
 
 ### Titan-Gods and Titans
 
-The first beings in Alaria were Nydus, Aurus, and Celest — three titan-gods, siblings and genuine individuated beings, the fundamental forces of the planar stack given conscious form. The distinction between titan-gods and titans is critical. The titan-gods were not merely powerful beings but cosmic forces made personal. Over the Age, Aurus and Nydus shed that personhood: each dissolved his individuated self into the force he embodied until he simply was the plane, Aurus the source of all souls and Nydus the source of all shadows, neither keeping a self that could choose or speak. Celest alone did not diffuse. Rather than becoming a plane, she became the dormant core of one, pouring her selfhood into the seed of Celestia and sealing it there, asleep. As cosmic forces, none of the three can truly be destroyed, only transformed.
+The first beings in Alaria were Nydus, Aurus, and Celest — three titan-gods, siblings and genuine individuated beings, the fundamental forces of the planar stack given conscious form. The distinction between titan-gods and titans is critical. The titan-gods were cosmic forces made personal. Over the Age, Aurus and Nydus shed that personhood: each dissolved his individuated self into the force he embodied until he simply was the plane, Aurus the source of all souls and Nydus the source of all shadows, neither keeping a self that could choose or speak. Celest alone did not diffuse. Rather than becoming a plane, she became the dormant core of one, pouring her selfhood into the seed of Celestia and sealing it there, asleep. As cosmic forces, none of the three can truly be destroyed, only transformed.
 
-After them came Lyzaria, the first daughter, and with her the first true titan was born. **Titans** are descendants of the titan-gods — immensely powerful, capable of creating life and reshaping reality through Deoric, but ultimately mortal in ways their progenitors were not.
+After them came Lyzaria, the first daughter, and with her the first true titan was born. Titans are descendants of the titan-gods — immensely powerful, capable of creating life and reshaping reality through Deoric, but ultimately mortal in ways their progenitors were not.
 
 ### The Lyzaria Era: 23.5–18 million years ago
 
 Titans populated all three planes. Their most epic civilizations rose in the depths of the Astral Sea and deep in the caves of Malstaris. Titan consciousness was powered by pure Deoric structure — they had will without feeling, purpose without passion, for Alaria had no Ezz during this age. The nine Elemental Planes already lay adjacent to the world, part of the same Azus-ordered architecture, but nothing could reach them. With no Ezz there was no emotion to spend and no Kethic to shape the crossing, so the elemental stack stayed sealed until Gaea found the leyline bridge after the Rift.
 
-Lyzaria was obsessed with endings. She chose to die — the first titan to willingly end her own existence. When she did, her soul rose to the Astral Plane and her shadow sank to Malstaris, carving the two original channels every later death flows through. Her soul spread across the Astral Sea and became the foundational substrate that later souls settle into — scholars call this presence the Dreaming of Lyzaria. Her shadow became the first and most ancient of the Shadow Lords: the First Dark. At this moment mortality had two strands only; a third would not exist until Ezz reshaped the world.
+Lyzaria was obsessed with endings. She chose to die — the first titan to willingly end her own existence. When she did, her soul rose to the Astral Plane and her shadow sank to Malstaris, carving the two original channels every later death flows through. Her soul spread across the Astral Sea and became the foundational substrate that later souls settle into, a presence called the Dreaming of Lyzaria. Her shadow became the first and most ancient of the Shadow Lords: the First Dark. At this moment mortality had two strands only; a third would not exist until Ezz reshaped the world.
 
 Celest, youngest of the titan-gods, sacrificed herself by pouring her essence into a pocket dimension — the protected seed of Celestia. Her transformation differed from her brothers': she did not diffuse but went dormant, a sleeping selfhood sealed in the seed's core. For 11.5 million years the seed stayed small and hidden, sheltering no one, for nothing had yet died to enter it.
 

@@ -24,7 +24,7 @@ review:
   action: keep
   notes: "Human republic south of Kharvorn Mtns; coord matches. Coherent."
 ---
-A human republic south of the Kharvorn Mountains, known for its manufacturing economy, anti-magic laws, and rigid bureaucracy. Camaran produces non-magical goods for export across the Middle Sea: tools, textiles, clockwork, precision instruments. The population is industrious, educated, and deeply suspicious of Deoric magic.
+A human republic south of the Kharvorn Mountains, known for its manufacturing economy, anti-magic laws, and rigid bureaucracy. Camaran produces non-magical goods for export across the Middle Sea: tools, textiles, clockwork, precision instruments. All of it is hand-built in guild workshops, in the small runs such work allows; the republic has no manufactory and no way to make two of anything quickly, and its clockwork, the finest of human make, still falls a tier short of the gem-cut precision the Ohblex of Mkinti keep secret. The population is industrious, educated, and deeply suspicious of Deoric magic.
 
 #### The magic ban
 
@@ -33,6 +33,10 @@ That suspicion is not old caution. It dates to the Camaran Blight, around 3340 S
 Member of the Aldriktch Trade Alliance, though increasingly isolationist since the Blight. Camaran cast the veto that kept the gnomish magocracy of Echea out of the pact, and the Alliance is strained by the republic's inward turn.
 
 On the water, Camaran is the coast's workshop. Its tools and clockwork reach every harbor on the Middle Sea, west as far as the glass-kilns of Kazül, where precision instruments trade for desert glass and neither side pretends to warmth. Much of that cargo never sails on Camaran's own account: the hulls are built and financed out of Adron, the banking kingdom at the eastern end of the arc, whose counting-houses in Adrak own a fair share of the bottoms that carry Camaran's manufactures around the rim. The anti-magic statutes complicate that trade more than they halt it. A Camaran cargo travels with papers swearing no Deoric working ever touched it, and the inland states that lean on magic in their own workshops find the documents by turns insulting and unavoidable, since no one else on the coast turns out instruments half so fine. Isolation since the Blight has thinned Camaran's alliances. Its customers have stayed regardless.
+
+#### The cost of the ban
+
+The statutes draw no line between life-spending Deoric and the elemental schools that spend none, and the law keeps that line erased by force. To say in any official forum that some magic is harmless is itself the career-ending offense, whatever the clerks privately know. The generation now rising through the magistracy learned the Blight as history rather than memory, and some of them have begun to press the point that their elders will not say aloud. The clearest of these arguments is a petition filed by a junior magistrate named Renaro Tovellin, which has lain unanswered on Selmari's desk for eight months. The careful clerks have stopped reading that silence as indecision. The republic remembers what became of Padrin Olveri, who made the same case more softly years ago and now keeps a notary's bench in a river town, struck from the rolls. In Camaran the ban is not enforced only against magicians. It is enforced, hardest of all, against the people who can prove it is incoherent.
 
 #### Foothills and Farmland
 

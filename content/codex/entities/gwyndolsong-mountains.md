@@ -10,6 +10,6 @@ sources: ["all_sections_formatted/Clueanda.md#L6241"]
 relations:
   - { rel: spatial, kind: within, target: "1311" }
 ---
-Not mountains at all, but composed of the collosal vertabrae of a titanwurm. 
+What look like mountains are the colossal vertebrae of a titanwurm. 
 
 Gwndolmere the Great discovered an infamous Gaeic melody here.

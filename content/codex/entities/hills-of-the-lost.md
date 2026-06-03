@@ -14,6 +14,6 @@ review:
   action: keep
   notes: "Stub expanded: rounded hills at W margin near Northlands; named for navigation difficulty (no landmarks, wind sounds identical); Zwaeron colored-stone marking practice as grounding detail."
 ---
-A low range of rounded hills occupying the far western margin of the Celedrim Plains, where the steppe begins to blur toward the Northlands. The Hills of the Lost are named for the number of travellers who have entered them and failed to emerge on the expected side—not from any supernatural cause, but because the hills offer no landmarks and the winds that funnel between their rounded ridges sound identical from every direction.
+A low range of rounded hills occupying the far western margin of the Celedrim Plains, where the steppe begins to blur toward the Northlands. The Hills of the Lost are named for the number of travellers who have entered them and failed to emerge on the expected side, not from any supernatural cause but because the hills offer no landmarks and the winds that funnel between their rounded ridges sound identical from every direction.
 
 The Zwaeron know to mark their routes through here with colored stones before each crossing, replacing them when they find the previous season's markers buried by drift. Attempting the hills without a guide in winter is considered foolhardy even by Celedrim standards.

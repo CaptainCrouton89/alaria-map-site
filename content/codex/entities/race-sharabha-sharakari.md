@@ -14,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Sharakari are a people of the sharabha, not a separate biological lineage — a protector philosophy built on the Pride Circle and the measure of honor by allies saved, not on any divergence from sharabha kind. The Sharakari embody Shara Bolasi's role as protector and leader. These Sharabha have developed their transformation to emphasize defending their pride rather than destroying enemies. In Sharakari communities, the measure of a warrior is not how many foes they've slain, but how many allies they've saved.
+The Sharakari are a people of the sharabha, a protector philosophy built on the Pride Circle and the measure of honor by allies saved. The Sharakari embody Shara Bolasi's role as protector and leader. These Sharabha have developed their transformation to emphasize defending their pride rather than destroying enemies. In Sharakari communities, a warrior is measured by how many allies they've saved rather than how many foes they've slain.
 
 Sharakari society revolves around the concept of the "Pride Circle" - concentric rings of loyalty starting with immediate family, extending to clan, community, and finally to all honorable beings. They train from childhood in formations designed to protect the vulnerable, and their transformation reflects this philosophy. A Sharakari who allows harm to come to those under their protection while they still draw breath is considered to have failed their most sacred duty.
 

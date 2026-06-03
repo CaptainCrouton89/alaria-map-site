@@ -22,7 +22,7 @@ The marsh is fed primarily by mountain runoff, with water levels fluctuating dra
 
 Snakemarsh hosts the highest concentration of serpent species in Ve. Dozens of varieties inhabit the waters, from finger-length swimmers to constrictors capable of taking down jungle cats. The marsh's namesakes dominate every ecological niche, competing with each other rather than with the Krell.
 
-The largest species—locals call them "marsh lords"—reach lengths of thirty feet or more. These ambush predators lie motionless in the murk for days, then strike with explosive speed when prey ventures within range. They're a significant threat to humans, but their presence helps explain why the Krell don't enter the marsh in force.
+The largest species, which locals call "marsh lords," reach lengths of thirty feet or more. These ambush predators lie motionless in the murk for days, then strike with explosive speed when prey ventures within range. They're a significant threat to humans, but their presence helps explain why the Krell don't enter the marsh in force.
 
 Several serpent species are venomous. Some are edible. A few are both. The marsh-dwellers have learned which are which through generations of painful trial and error.
 

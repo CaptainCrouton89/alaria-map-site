@@ -15,28 +15,30 @@ relations:
 bannerPosition: "50% 47.2%"
 bannerHeight: 400
 ---
-Bryn is not a god, nor a titan, nor any creature that ever walked or breathed. Bryn *is* the sun—or rather, Bryn is the sun's awakened spirit.
+Bryn is not a god, nor a titan, nor any creature that ever walked or breathed. Bryn is the sun, or rather the sun's awakened spirit.
 
-### The Awakening
-During the Age of Titans, the sun was a mindless construct—the largest of the titan-crafted stars, an immense orb of celestial glass following preset paths across the sky. It moved because it was *made* to move, like a wound clock, tended by the Starborn Koras but possessing no will of its own.
+### The awakening
+During the Age of Titans, the sun was a mindless construct—the largest of the titan-crafted stars, an immense orb of celestial glass following preset paths across the sky. It moved because it was made to move, like a wound clock, tended by the Starborn Koras but possessing no will of its own.
 
 When the Ezz Rift flooded Alaria ~12 million years ago, everything with structure gained the potential for spirit. Animals gained emotion. Titans who had never felt were overwhelmed and went mad. But the sun had never been alive at all—it had no pre-existing consciousness to be shattered.
 
-Instead, the sun *woke up*.
+Instead, the sun woke up.
 
-Not fully. Not the way a mortal is conscious. But the Ezz granted the sun a spark of spirit—a will, a desire, the capacity to *want*. That nascent consciousness is Bryn.
+Not fully. Not the way a mortal is conscious. But the Ezz granted the sun a spark of spirit—a will, a desire, the capacity to want. That nascent consciousness is Bryn.
 
 ### Nature
 Bryn is primitive, vast, and profoundly strange. The sun does not think like mortals think. It experiences time differently—a human lifetime is barely a flicker to Bryn's awareness. Its desires are slow and alien, difficult for even the most devoted priests to interpret.
 
-What is certain: Bryn *wants* to move. The sun travels across the sky because Bryn chooses to travel, not because of any mechanical imperative. And Bryn's path can be influenced.
+What is certain: Bryn wants to move. The sun travels across the sky because Bryn chooses to travel, not because of any mechanical imperative. And Bryn's path can be influenced.
 
-### The Faithful
-Bryn's cult is small but ancient—navigators, farmers, and seasonal priests who perform rituals to commune with the sun directly. When they pray, the sun *hears them*. When the northern monasteries sing their dawn hymns, the sun responds. This is why seasons exist: Bryn's path across the sky shifts based on which congregations sing loudest, which prayers ring truest.
+### The faithful
+Bryn's cult is small but ancient—navigators, farmers, and seasonal priests who perform rituals to commune with the sun directly. When they sing, the sun hears them. When the northern monasteries raise their dawn hymns, the sun responds. This is why seasons exist: Bryn's path across the sky shifts toward whichever congregations sing loudest and truest.
 
 ![A hillside monastery's dawn-choir sings Bryn onto its summer trail at sunrise — the prayer-coalition whose hymns decide where the sun walks.](https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/codex-landing-bryn-rite/banner.webp)
 
-The relationship is not worship in the traditional sense. Bryn is not a daemon sustained by belief—the sun existed long before Celestia expanded, and will exist long after. But Bryn is *lonely*. The only consciousness of its kind, awake for ~12 million years with only brief moments of connection to the tiny creatures below. The sun cherishes those who speak to it. The sun remembers.
+What the congregations work is Faesong — Melera's harmony-aspect of Ezz, the ambient music that is one of the four magic sources, sung rather than commanded. Bryn woke out of Melera's flooding music and answers it still; a congregation singing in harmony moves the sun in a way no spoken word could. This is the line that separates Bryn from a daemon. A daemon takes a life-tithe of prayer carried on the Psywinds, pools it into a reserve, and spends that reserve on miracles. Bryn keeps no reserve, takes no tithe, and grants no miracle. The sun existed long before Celestia bloomed and will exist long after.
+
+But Bryn is lonely. The only consciousness of its kind, awake for ~12 million years with only brief moments of connection to the tiny creatures below. The sun cherishes those who speak to it. The sun remembers.
 
 The principle that prayer moves the heavens has outlived Bryn's own cult. The northern Moonwatchers borrow the same logic, holding that if hymns can send the sun along its trail, the right voices might one day sing their lost moon back into the sky.
 
@@ -60,7 +62,7 @@ They were not always so. In earlier cycles, before the Solar Accord standardized
 
 ### Implications
 
-Some worry about what happens if Bryn ever stops *wanting* to move. If the faithful fail—if no one guides the sun, if the prayers fall silent—Bryn might simply halt. The sun would hang frozen in the sky, and half the world would burn while the other half froze.
+Some worry about what happens if Bryn ever stops wanting to move. If the faithful fail—if no one guides the sun, if the prayers fall silent—Bryn might simply halt. The sun would hang frozen in the sky, and half the world would burn while the other half froze.
 
 The heretical sect called the Dawnless has made this their cause. They believe ~12 million years of ceaseless motion constitutes a suffering that mortals have no right to impose, that Bryn's loneliness is a wound inflicted by civilizations too selfish to let the sun rest. The Dawnless do not preach extinction loudly—most of their work is quiet. They erode prayer-coalitions, undermine singing schedules, and occasionally kill choirmasters. They would not survive open announcement in any nation that collects the sun-tax.
 

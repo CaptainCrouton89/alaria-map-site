@@ -17,7 +17,7 @@ review:
 
 **Worshipped by:** The Frialve. Every canopy district answers to a caller whose voice is dedicated to him at the rite of investiture; a Frialve who has been chosen as caller and refused the role has refused the daemon, and is not asked again. (The worships edge is authored downstream on the worshipper, not here.)
 
-His name is itself a carrying call — the shr- cluster opens, the z-interior projects, the -vi terminal closes cleanly. A whispered name is not a Frialve name; it is an outsider's mistake. He is not a daemon of speech but of reach: of the call that finds its listener, of the answer that does not get lost between branches. A Frialve who shouts and is not answered counts the silence as Shrazvi's judgment, and goes home to consider what they did wrong.
+His name is itself a carrying call: the shr- cluster opens, the z-interior projects, the -vi terminal closes cleanly. A whispered name is an outsider's mistake, not a Frialve's. He is a daemon of reach, not speech: of the call that finds its listener, of the answer that does not get lost between branches. A Frialve who shouts and is not answered counts the silence as Shrazvi's judgment, and goes home to consider what they did wrong.
 
 <!-- author-notes -->
 Naming provisional: frialve sheet sparse (Frialve race name + Bygos Shemazari polity). Cluster opener Shr-, z-interior, short -vi terminal honored per recipe. Refine when sheet pool grows.

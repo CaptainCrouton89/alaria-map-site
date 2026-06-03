@@ -2,7 +2,7 @@
 id: "era-gaeaic-eon"
 name: "The Gaeaic Eon"
 entityType: era
-blurb: "The second eon. 12M–~10,209 years ago. Ezz floods Alaria; Celestia blooms; Gaea is born; life and the druids reshape the world."
+blurb: "The second eon. 12M–~13,500 years ago. Ezz floods Alaria; Celestia blooms; Gaea is born; life and the druids reshape the world."
 tags: ["history", "era", "ancient"]
 weight: major
 atmosphere: ancient
@@ -14,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Gaeaic Eon is the second eon of Alaria's history, spanning from the Ezz Rift approximately 12 million years ago through Hykravones the Shattering (~10,209 years ago). It is named for Gaea, the Earth Mother, whose birth defined the age.
+The Gaeaic Eon is the second eon of Alaria's history, spanning from the Ezz Rift approximately 12 million years ago through Hykravones the Shattering (~13,500 years ago, 10,209 BSD). It is named for Gaea, the Earth Mother, whose birth defined the age.
 
 ### The Blooming of Celestia: 12 million years ago
 

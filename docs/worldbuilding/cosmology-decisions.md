@@ -596,3 +596,49 @@ and T5 (Deoric transmission, §9) are both closed; nothing in the "do not author
   (resolved the war-before-first-daemon contradiction). `event-world-timeline.md`.
 - ✅ Celestia = mirror flip-side reached sideways across the edge; Phlethageros = physical
   underside reached downward. `plane-celestia.md`.
+
+---
+
+## Calendar & timekeeping subsystem pass (2026-06-03)
+
+Coherence pass on the calendar/seasons cluster. Touched: `systems/calendar.md`, `systems/seasons.md`,
+`plane-time-and-seasons.md`, `plane-stars-suns-and-moons.md`, `person-bryn.md`, `event-world-timeline.md`,
+`era-seventh-dawn.md`, `era-gaeaic-eon.md`, `era-lost-ages.md`, `era-hykravones.md`, `era-age-of-titans.md`,
+`era-great-expansion.md`, `era-dark-ages.md`, and new `era-modern-era.md`.
+
+### Calendar model corrected (was teaching the retracted model)
+`systems/calendar.md` (and the invariants Calendar row) still taught the SD↔F/B conversion that §5 retracted.
+Rewritten: SD/BSD is the **sole** civil calendar; the Great Cycle (its halves marked F and B, 25,300 yr) is a
+**cyclical astronomical position** (Aurus/Nydus drift + the lunar alignment it produces), observed and never used
+to date events — no year zero, no conversion offset. Now = 3376 SD; World Fire ≈ 10 BSD = calendar zero. The exact
+corrected text for the invariants **Calendar** and **Seasons** rows is in the subsystem final report for the
+orchestrator to apply (`world-systems-invariants.md` was not edited, per instruction).
+
+### Deep-time double-count resolved (years-ago vs BSD)
+The two scales were double-counted at the Shattering (written ~10,209 ya, but 10,209 BSD ≈ 13,585 ya). **Adopted
+convention:** deep-prehistory eras (Titans → Age of Craggus) stay in approximate years-ago; the civil BSD/SD record
+runs from the Lost Ages onward; convert BSD→years-ago by adding the 3,376 yr of the Seventh Dawn. The Shattering is
+placed **~13,500 years ago = 10,209 BSD**. The Lost Ages span is now expressed in BSD (30,000–10,209 BSD) to match
+its own sub-periods; those sub-period BSD dates are referenced in 25+ files and were NOT shifted. ✅ RATIFIED by user 2026-06-03: the
+~13,500-ya (= 10,209 BSD) re-dating of the Shattering is locked canon.
+
+### Eon structure / Modern Era
+Created `era-modern-era.md` (the third eon). Hykravones (the Shattering) stays **within the Gaeaic Eon** as its
+terminal catastrophe (mirrors World Fire within the Great Expansion); the Modern Era opens at its close. Edges:
+`era-great-expansion` + `era-seventh-dawn` → within `era-modern-era`; `era-age-of-titans` → within `era-early-times`
+(was precededBy); `era-dark-ages` → within `era-seventh-dawn` (was occurredDuring); `era-modern-era` precededBy
+`era-hykravones`. Linter: errors 0.
+
+### Bryn-singing source = Faesong — ✅ RATIFIED (user, 2026-06-03)
+CANON CALL: the magic by which congregations sing Bryn onto a north/south trail is **Faesong** (Melera's
+harmony-aspect of Ezz — congregational music the awakened sun hears and answers), NOT daemon prayer. Daemon prayer
+is a Psywinds-borne life-tithe that pools into a daemon's reserve R; Bryn is not a daemon, keeps no reserve, takes
+no tithe, grants no miracle. Consistent with the four-source magic invariant (Faesong is one of the four) and with
+the Moonwatchers' "not a fifth source" note. Reflected in `systems/seasons.md` and `person-bryn.md`. RATIFIED by user 2026-06-03 — locked canon.
+
+### Killing Moon answer recorded
+The lost third moon was a real titan-crafted celestial-glass body (sibling to Auris/Nyxara and the sun), the
+stabilizing keystone of the lunar/solar resonance; shattered around the Ezz Rift (12 Mya); genuine shards survive
+(Desert of One Million Shards, Morgnor's Cradle, Ural's void-dark). Its loss is why the Aurus/Nydus drift now reaches
+Killing-Moon instability. It is NOT Celest's body (would contradict §10 — Celest sealed in Celestia's core). Answer
+recorded in `plane-stars-suns-and-moons.md` author-notes; the in-world theories are kept as cult beliefs, not truth.
