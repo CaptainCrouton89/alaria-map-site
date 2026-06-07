@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Audit proximity/neighbor claims in entity prose against actual map coordinates.
 
-Distance model (matches `alaria-codex map dist`): 5 miles per hex, 20 pin units per hex
-=> 0.25 miles per pin unit. Image space: +x = East, +y = South.
+Distance model (matches `alaria-codex map dist`): 1 hex = 5 miles, hex grid = 1.125 pin units per hex
+=> ~4.44 miles per pin unit. Image space: +x = East, +y = South.
 """
 import os, re, glob, json, math, sys
 
 ENT_DIR = "content/codex/entities"
-MILES_PER_UNIT = 0.25
+MILES_PER_UNIT = 5 / 1.125  # ~4.44 mi/pin-unit (hex grid 1.125 units across, legend 1 hex = 5 mi)
 
 def parse(path):
     txt = open(path, encoding="utf-8").read()
@@ -177,7 +177,7 @@ def line(f):
 
 md = []
 md.append("# Proximity Audit — prose claims vs map coordinates\n")
-md.append(f"Scanned **{scanned}** coordinate-bearing entities. Distance model: 0.25 mi/pin-unit "
+md.append(f"Scanned **{scanned}** coordinate-bearing entities. Distance model: ~4.44 mi/pin-unit "
           f"(5 mi/hex), straight-line = lower bound on real travel.\n")
 md.append(f"- **{len(high)} HIGH-confidence** flags (both endpoints are point locations — town/city/poi/ruins/fortress, zoom≥3).\n"
           f"- **{len(low)} LOW-confidence** flags (one endpoint is a region/sea/wilderness — centroid distance is unreliable; review manually).\n"

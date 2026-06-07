@@ -36,7 +36,7 @@ Once a year, on the longest night, the shamans paddle across to the northern sho
 
 A single island rises from the lake's center, a spire of volcanic rock about two hundred feet across, covered in dense vegetation that shouldn't survive at this altitude. The orcs call it Ghural-Kro, "the eye's pupil," and they don't land there.
 
-From shore, the island looks unremarkable: trees, scrub, the occasional bird circling above. But boats that approach too closely find the water resisting them, not current, not wind, just a sense of pushing back that gets stronger the closer they get. Swimmers report the same thing, and worse: the feeling of something watching them from below, of vast attention turning their direction.
+From shore, the island looks unremarkable: trees, scrub, the occasional bird circling above. But boats that approach too closely find the water resisting them with neither current nor wind, just a sense of pushing back that gets stronger the closer they get. Swimmers report the same thing, and worse: the feeling of something watching them from below, of vast attention turning their direction.
 
 The shamans say Ghural-Kro is where the lake thinks. This is not meant as metaphor.
 

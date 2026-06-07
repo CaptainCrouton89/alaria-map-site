@@ -16,7 +16,7 @@ review:
   action: keep
   notes: "Coherent on-theme capital-of-commerce body. Matches map: largest central island, Valdrossi seat. No geo conflict."
 ---
-The jewel of the Free Isles and the wealthiest city in southern Alaria. Kokotintin is a sprawling metropolis of canals, marble palaces, and blood-soaked arenas where fortunes change hands faster than the tides. It is the seat of the Valdrossi family—the most powerful of the Five Families—and the undisputed commercial capital of the archipelago.
+The jewel of the Free Isles and the wealthiest city in southern Alaria. Kokotintin is a sprawling metropolis of canals, marble palaces, and blood-soaked arenas where fortunes change hands faster than the tides. It is the seat of the Valdrossi family—the most powerful of the four families—and the undisputed commercial capital of the archipelago.
 
 #### The City
 
@@ -32,7 +32,7 @@ The *Arena Valdrossi*—commonly called the Grand Coliseum—is the largest glad
 
 The arena floor can be flooded for naval recreations, fitted with obstacles for hunt scenarios, or stripped bare for formal combat. Beneath the floor, a warren of cells, training rooms, and beast pens houses the fighters and creatures waiting their turn. The tunnels connect to the canal system—bodies go out, fresh fighters come in.
 
-**Red, the Screaming Blade** fights here most often, though she appears at other arenas for special events. Her matches always sell out. Betting on her fights moves more gold than some merchant fleets.
+**Red, the Screaming Blade** fights here most often, though she appears at other arenas for special events. Her matches always sell out. Betting on her fights moves more silver than some merchant fleets.
 
 #### The Valdrossi Family
 
@@ -43,6 +43,8 @@ The Valdrossi have ruled Kokotintin for four generations, and they intend to rul
 The Valdrossi maintain relationships with every major trading power in the region—Gorath, Bonnetaz, Tarkhon, even cautious exchanges with Kyagos through intermediaries. They're pragmatic about profit and utterly ruthless about threats. The other families resent their dominance but fear a direct challenge.
 
 #### Economy
+
+Money in Kokotintin is weight, not coin. The southern trade runs on the mark — a standard weight of fine silver — and Kokotintin is where the south comes to learn what a given mark is actually worth. The Valdrossi mint stamps the family's silver to the benchmark, but the stamp settles nothing by itself; the work that makes this the assay hub of the Isles happens at the changing-tables, where a moneychanger bites each mark, weighs it, and tests the metal before a single dealing clears. A Gattorini mark off a Mpehi galley gets the same handling a Valdrossi one does. What the city skims, it skims in weighed silver, priced against the cross-rate the distant Adron banks publish, with cut silver for anything smaller than a mark.
 
 Everything passes through Kokotintin. Silks from Ve, metals from the Shacklands, spices from the Greenwater Isles, manufactured goods from Tarkhon, mercenaries from anywhere with hungry swords. The city takes a cut of every transaction through tariffs, docking fees, warehouse rentals, and protection payments.
 
@@ -69,3 +71,8 @@ Kokotintin's guilds—the Merchant Consortium, the Longshoremen's Brotherhood, t
 - Debts are enforceable. Don't borrow what you can't repay.
 - Refugees are "welcome" but expected to work. Ask about terms *before* accepting help.
 - Don Emilio is always listening. Even when he's not.
+
+<!-- author-notes -->
+Valdrossi is the city's own family and mint; Gattorini appears only as a mention (their page is carried inside mpehi.md). Do not author standalone pages for either.
+
+Reframe done: the Economy section now denominates in the weighed-silver mark (canon source: currency.md §The southern reckoning), and the one literal "gold" currency line in the Coliseum section was changed to silver. Colloquial wealth phrasing elsewhere ("fortunes change hands") left untouched.

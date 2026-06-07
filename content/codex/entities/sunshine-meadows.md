@@ -57,10 +57,4 @@ The treasure is substantial. Bturi accumulated wealth the way other mages accumu
 
 #### Spire of Ascension
 
-The strangest of the four sites, a giant pinnacle rising from an ornate base, constructed of materials that resist identification. The Spire was not built by any known civilization, and its purpose is singular: it offers an exit from the Alarian planar stack entirely.
-
-Reaching the Spire's apex requires two things: a hefty sacrifice of blood and treasure, and knowledge of your own true name. Meet both conditions, and the Spire opens, a doorway to somewhere outside the fourteen planes, outside the three suns' influence, outside everything that constitutes normal reality. No one knows where the doorway leads. Few who enter have returned.
-
-Those who have returned are... different. They speak of spaces without direction, of entities that exist across multiple dimensions simultaneously, of time moving in patterns that human minds weren't designed to process. They're usually institutionalized shortly after sharing these observations.
-
-The other families are aware of the Spire and deeply concerned about it. Access to an exit from the planar stack could be exploited in ways they can't predict or counter. Someone with resources and interest has been making inquiries, and it is not the Valdrossi or any known power. The Valdrossi have quietly increased security around the Spire's approaches. They're not sure what they're guarding against.
+The strangest of the four sites: a pale, unweathering pinnacle on an ornate base, built of nothing anyone can identify, whose apex opens a door out of the Alarian planar stack to whoever can pay its price in blood and treasure and speak their own true name. Those who reach its threshold and turn back are usually confined for the rest of their lives. The Valdrossi control its approaches and have lately tripled the watch, uneasy about an outsider's inquiries that are not the Valdrossi's and not any power the families can name. Red, the champion of the coliseums, is the one fighter known to have climbed to the door and come back carrying something. The full account, and what it cost her, lives in the Spire of Ascension's own entry.

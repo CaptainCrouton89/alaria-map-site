@@ -69,7 +69,7 @@ Whatever the explanation, the Krell presence makes approaching Jaipon dangerous.
 
 Multiple expeditions have attempted to reach Jaipon over the past two centuries. Most failed in Krell territory before reaching the city. A handful reached the walls. None have returned with confirmed entry.
 
-The most recent serious attempt, roughly thirty years ago, involved a well-funded Chimean expedition that crossed Blisterswamp with specialized equipment. They reached the western walls and found what appeared to be a breach—a section where the stonework had partially collapsed. Radio contact (via aether communication devices) continued for two days after they entered.
+The most recent serious attempt, roughly thirty years ago, involved a well-funded Chimean expedition that crossed Blisterswamp with specialized equipment. They reached the western walls and found what appeared to be a breach—a section where the stonework had partially collapsed. Radio contact (via Aether communication devices) continued for two days after they entered.
 
 Then silence. No survivors. No bodies. No explanation.
 

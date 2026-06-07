@@ -9,6 +9,7 @@ tags: ["forest", "magical", "faesong", "old-tolaria"]
 sources: ["all_sections_formatted/Rimihuica.md#L3783"]
 relations:
   - { rel: spatial, kind: within, target: "732" }
+  - { rel: origin, kind: createdBy, target: "artifact-apparatus-of-severance", note: "born of the Apparatus's backfire when it tried to cage the Faesong" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -19,13 +20,13 @@ A forest in Old Tolaria that should not exist. The Faewoods were not grown—the
 
 #### Origin
 
-When the Tolarian mage-kings activated their Apparatus, one of its functions was to compress and contain the Faesong—the ambient magical resonance that connects the material world to the fae realms. They intended to cage it, control it, harvest it at will.
+When the Tolarian mage-kings activated their Apparatus, one of its functions was to compress and contain the Faesong—the emotion-and-harmony face of Ezz, Melera's imprisoned song still leaking through the world. They intended to cage it, control it, harvest it at will.
 
 The Faesong did not cooperate.
 
 The compressed energy exploded outward from Elderran in a wave of raw creative force. Where it landed with greatest intensity, forests erupted from bare ground in minutes. Trees that should take centuries to mature burst fully-formed from the soil. Underbrush tangled into being. Animals—or things that looked like animals—appeared from nothing.
 
-The Faewoods are not natural growth. They are concentrated Faesong given physical form, frozen at the moment of creation but still humming with the magic that made them.
+The Faewoods are not natural growth. They are loosed Faesong that condensed into forest, frozen at the moment of creation but still humming with the song that made them.
 
 #### Nature
 
@@ -33,15 +34,15 @@ Walking in the Faewoods is disorienting. The forest feels too dense, too alive, 
 
 The trees grow too fast. Cut one down, and saplings will sprout from the stump within hours. Clear a path, and it will be overgrown by morning. The forest actively resists being tamed, not through malevolence but through sheer fecundity—it simply grows faster than anything can be removed.
 
-The boundary between the material world and the fae realms is paper-thin here. Travelers sometimes glimpse things that shouldn't be visible—fae creatures watching from just beyond perception, paths that lead to places that don't exist on any map, clearings that weren't there yesterday and won't be there tomorrow. Some who enter the Faewoods emerge somewhere else entirely. Some don't emerge at all.
+There is no other world bleeding through here, no door to anywhere—the wrongness is that the Faesong never stopped condensing. Where the song pools thick enough it gathers itself into a being, and nowhere in Alaria does it pool thicker than the ground the blast left saturated. The fae of the Faewoods are not visitors from a realm of their own; they are the song of this exact soil made flesh, formed faster than anywhere else and never quite finished. Travelers glimpse them watching from just past the edge of sight, find clearings that condensed overnight and will thin back into undergrowth by morning, walk paths the forest grew to lead them nowhere. Some who enter emerge changed. Some don't emerge at all.
 
 #### Inhabitants
 
 The Faewoods have attracted beings drawn to concentrated Faesong:
 
-**Fae creatures** of all types consider the woods neutral territory—a place where the rules of their realm bleed into the material world. They are more visible here, more active, more willing to interact with mortals (for good or ill).
+**Fae** lie thicker on this ground than anywhere in Old Tolaria—not gathered here from somewhere else but made here, condensed straight out of the loosed song. They are more present than fae elsewhere: more solid, more active, more willing to treat with mortals (for good or ill), because the song that makes them never runs thin in these woods.
 
-**Refugees** from Elderran's fall fled into the growing forest and never left. Their descendants have adapted to the Faewoods, becoming strange and fae-touched themselves. They do not welcome outsiders.
+**Refugees** from Elderran's fall fled into the growing forest and never left. They are the one thing here the song did not make—flesh, not condensed Faesong—and the ceaseless condensation has been slowly rewriting them. Their descendants are neither fully what they were nor fae, caught partway across, and the true fae of the woods neither claim them nor drive them out. They do not welcome outsiders.
 
 **Hermits, madmen, and seekers** come to the Faewoods looking for fae bargains, magical power, or escape from the world. Most find only death. A few find what they're looking for, which is often worse.
 
@@ -55,7 +56,7 @@ See: Sakatia
 
 - **Fae Bargain**: Someone made a deal in the Faewoods and now regrets it. Breaking fae contracts is possible but dangerous—and the fae who made the deal won't appreciate interference.
 
-- **The Growing**: The Faewoods have begun expanding again for the first time in centuries. Something has changed—perhaps connected to Elderran, perhaps something else entirely. Villages on the forest's edge are being swallowed.
+- **The Growing**: The Faewoods have begun expanding again for the first time in centuries. Something has changed—perhaps the Apparatus's grip is slipping, perhaps the loosed song here has begun to sour the way the old reservoirs elsewhere have. Villages on the forest's edge are being swallowed, and the new growth feels wrong even by Faewoods standards.
 
 - **Lost Tolarian Knowledge**: The mage-kings maintained research outposts throughout their territory. One was in the Faewoods, containing notes on the Apparatus's design. Finding it means navigating a forest that doesn't want to be navigated.
 

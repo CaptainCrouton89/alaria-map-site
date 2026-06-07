@@ -45,7 +45,7 @@ Elebria is not complicated.
 
 She wants to be left alone. She wants her territory respected. She wants heat, stone, fire, and the absence of things that aren't those. Other dragons tolerate visitors, make deals, engage in politics. Elebria considers such behavior exhausting and pointless.
 
-Her response to intrusion is immediate and violent. Ships that enter her waters without invitation, and invitations are never given, are destroyed. Not warned, not threatened, not given opportunity to explain. She surfaces beneath them and melts through their hulls, or she breathes fire from a distance, or she simply heats the water around them until it boils. The method varies; the outcome doesn't.
+Her response to intrusion is immediate and violent. Ships that enter her waters without invitation, and invitations are never given, are destroyed before they can be warned, threatened, or given any chance to explain. She surfaces beneath them and melts through their hulls, or she breathes fire from a distance, or she simply heats the water around them until it boils. The method varies; the outcome doesn't.
 
 This isn't cruelty. Elebria doesn't enjoy killing particularly. It's efficiency. Dead intruders don't come back. Survivors might. Survivors might tell others. Others might think the territory is open to negotiation.
 

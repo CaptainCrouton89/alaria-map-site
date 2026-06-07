@@ -9,6 +9,7 @@ tags: ["forest", "geography", "free-isles", "xabraedia"]
 sources: ["all_sections_formatted/Upoceax.md#L3497"]
 relations:
   - { rel: spatial, kind: within, target: "3781" }
+  - { rel: culture, kind: inhabitedBy, target: "creature-issoroth", note: "the forest is its body, grown from local matter" }
 review:
   aiWritten: true
   archetype: ai-ok
@@ -33,12 +34,14 @@ The closer one travels to Starfall, the more intense the effects become. Trees n
 
 #### Spread
 
-The Veluminante has been growing for centuries, slowly expanding its borders as Starfall's influence seeps outward. The purple tinge that marks affected vegetation creeps a few hundred feet further each decade. The Morglewood to the north appears to be a barrier, whether natural or constructed, but the western shore has no such protection. Old maps show the treeline significantly closer to Starfall than current observations indicate.
+The Veluminante has been growing for centuries, expanding its borders as Starfall's influence pushes outward. The purple tinge that marks affected vegetation creeps further west and south each decade. The Morglewood to the north is a barrier, deliberately maintained, and so far it has held; the western shore has no such protection and is losing ground. Old maps do not show the treeline closer to Starfall than it is now. They show it further away. The forest has advanced over every line ever drawn to mark its edge.
 
-The other Free Isles families have noticed. They've begun quiet discussions about what happens when the Veluminante reaches Hik's walls, or spreads to the harbor, or begins affecting the waters of The Spout. The Velathi insist the spread is slowing, that equilibrium is approaching. The Velathi also have purple-tinged blood and shadows that move independently. Their reassurances are not entirely comforting.
+The other Free Isles families have noticed. They've begun quiet discussions about what happens when the Veluminante reaches Hik's walls, or spreads to the harbor, or begins affecting the waters of The Spout. The Velathi insist the spread is slowing, that equilibrium is approaching. This is not what the maps say, and it is not what the Velathi believe in private. It is what frightened people tell other frightened people so that no one panics first. The reassurance is terror management. The forest is not a forest, the spread is not slowing, and the family that knows this best is the one repeating that it is fine.
 
 #### What Lives Here
 
 The Velathi harvest materials from the Veluminante that exist nowhere else: luminescent fungi for alchemical purposes, crystallized sap with unusual magical properties, specimens of adapted wildlife for study. They trade these goods through Hik's harbor, commanding premium prices from desperate scholars and adventurous merchants.
 
-Something else lives in the deeper forest, near Starfall itself. The Velathi don't discuss it. They simply don't travel to certain areas, and they become very quiet when outsiders ask why. The few expeditions that have ignored these boundaries and returned at all brought back fragmented accounts of structures that weren't built by human hands, patterns in the light that suggested intelligence, and a profound sense of being watched by something that existed partially outside normal perception.
+Something else lives in the deeper forest, near Starfall itself. The Velathi don't discuss it. They simply don't travel to certain areas, and they become very quiet when outsiders ask why. The few expeditions that have ignored these boundaries and returned at all brought back fragmented accounts of patterns in the light that suggested intelligence, and a profound sense of being watched by something that existed partially outside normal perception.
+
+The thing the expeditions sensed is Issoroth, and the forest does not merely contain it. The forest is its body. What spreads west is not a treeline following a pool; it is a slow animal deciding where its own edges are, and rebuilding a mind out of every traveler who lingers long enough to be useful tissue. The Velathi who manage it are not its keepers. They are the part of it that still passes for people. One of them, a generations-deep family elder named Myrela Velathi, is the reason the spread is as slow as it is, sabotaging the reassembly from somewhere inside it; whether she is winning, or is the most convincing thing it has grown, no one in Hik will say, because no one in Hik is sure.

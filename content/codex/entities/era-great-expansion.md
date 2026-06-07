@@ -23,7 +23,7 @@ A 145-year period of severe cold that tested the early recovery of civilization.
 
 ### The Return of Dragons: 8,104 BSD
 
-Most sentient creatures did not get along with dragons, who were quickly taking over. This led to a great deal of fiery and bloody conflict as the rebuilt peoples of Alaria struggled to coexist with the dragons returning to prominence.
+Most sentient creatures did not get along with dragons, who were quickly taking over. This led to a great deal of fiery and bloody conflict as the rebuilt peoples of Alaria struggled to coexist with the dragons returning to prominence. Where the returnees came from, and why their re-emergence turned so bloody, has its own account in the Return of Dragons.
 
 ### The World Fire: 10 BSD
 

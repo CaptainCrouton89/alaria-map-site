@@ -4,22 +4,23 @@ name: "Faeja"
 entityType: race
 entityCategory: race
 tags: ["playable"]
-blurb: "The Faeja are perhaps the most elusive of all Alaria's races, small jungle dwellers whose bodies are covered in fine, iridescent tendrils that can shift…"
+blurb: "Condensed Faesong of the Lethos jungle worn in a small body; iridescent jungle-dwellers each bound to one current of the world's feeling, which they tend and guard to the death."
+relations:
+  - { rel: cosmology, kind: attunedTo, target: "magic-faesong", note: "the Faeja ARE condensed Faesong — the emotion-half of Ezz thickened into a body" }
+  - { rel: culture, kind: originatedIn, target: "3250", note: "thickened into being in the deep jungle of Lethos" }
 sources:
   - "races/Faeja.md"
 review:
   aiWritten: false
   action: keep
 ---
-The Faeja are perhaps the most elusive of all Alaria's races, small jungle dwellers whose bodies are covered in fine, iridescent tendrils that can shift color and texture to match their surroundings perfectly. These delicate beings appear almost fairy-like, with large eyes that reflect light like jewels and voices that sound like wind through leaves.
+The Faeja are condensed Faesong — the emotion-half of the Ezz worn in a small body. Where that feeling-current runs strongest it can thicken past mere sensing into something that acts, and in the deep jungle of Lethos it thickened into the Faeja. They are not a fairy-people come down from anywhere; there is no country they are from. Each Faeja is the song of one stretch of living jungle, given a body and a will of its own.
 
-Living in small villages deep within the jungles of Lethos, the Faeja have developed a culture entirely integrated with their environment. They communicate with jungle spirits, cultivate medicinal plants unknown to others, and can navigate the dangerous jungle with ease. Their magic-infused hair-like tendrils allow them to become virtually invisible, contorting their bodies and hardening their fur into shapes that perfectly mimic surrounding foliage.
+They are small, and easy to mistake for something they are not. Fine iridescent tendrils cover them, shifting colour and texture to match whatever surrounds them; their eyes catch the light like cut stone and their voices carry like wind moving through leaves. An outsider who glimpses one takes it for a faerie — one of the luminous things that descend in Faesummer — and is wrong twice, for a faerie is an Astral guest that merely hears the song, while a Faeja *is* the song, made of the jungle it guards.
 
-Despite their gentle appearance, the Faeja are fierce protectors of their jungle homes. They have mastered the use of natural poisons, can call upon jungle predators for aid, and know every secret path through their territories. Those who threaten their lands often simply vanish, leaving no trace of what befell them.
+Where the pixies wander wherever the world's feeling pools and read it as it comes, each Faeja stays bound to one stretch of jungle and the single current that runs through it. Tending that current is the whole of what they are. They keep the green growing where the feeling runs clean and turn lethal on anything that would foul it, which is why intruders in Faeja country so often simply stop being found.
 
-### The making
-
-The Faeja are condensed Faesong, the emotion-half of the Ezz worn in a small body. Where that feeling-current runs strongest it can thicken past mere sensing into something that acts, and in the deep jungle of Lethos it thickened into the Faeja. Where the [[race-pixie]] wander wherever the world's feeling pools and read it as it comes, each Faeja stays bound to one stretch of living jungle and the single current that runs through it. Tending that current is the whole of what they are: they keep the green growing where the feeling is clean and turn lethal on anything that would foul it, which is why intruders in Faeja country so often simply stop being found.
+Living in small villages threaded through the floods of Lethos, the Faeja have built a way of life with no seam between themselves and the jungle. They cultivate medicines no outsider can name, know every secret path through the standing water, and harden their tendrils into the shapes of the surrounding foliage until they cannot be seen at all. Gentle to look at and merciless in defence, they keep natural poisons, call the jungle's own predators to their aid, and let those who come to take the green disappear quietly into it.
 
 ### Aspects
 - The jungle speaks to those who listen

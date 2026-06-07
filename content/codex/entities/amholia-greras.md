@@ -9,13 +9,14 @@ tags: ["forest", "fae", "sacred"]
 sources: ["all_sections_formatted/Upoceax.md#L1160"]
 relations:
   - { rel: spatial, kind: within, target: "3476" }
+  - { rel: cosmology, kind: attunedTo, target: "magic-faesong" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
   notes: "Coherent fae-forest writeup. Geography consistent with map: central forest at [41,441] between Lenora (N/W), Illron (S), Deo Esari (E). On-theme with confederation lore."
 ---
-The central forest of the Farlands, positioned between all three elven kingdoms. Amholia Greras is fae territory—has been for longer than the elves have records. Unlike Iyaklomori Grera to the south, where no settlement is permitted, Amholia Greras allows elves to pass through and even to gather at designated sites. Non-elves are another matter entirely.
+The central forest of the Farlands, positioned between all three elven kingdoms. Amholia Greras is the thickest uncut Faesong reservoir in the world — the song of Melera, leaking since the Ezz Rift, pooled here deep enough that it condenses into the fae themselves. It is fae territory not by conquest but by composition: the forest and the things that guard it are the same current wearing different shapes. Unlike Iyaklomori Grera to the south, where no settlement is permitted at all, Amholia Greras allows elves to pass through and to gather at designated sites. Non-elves are another matter entirely.
 
 #### Geography
 
@@ -25,17 +26,17 @@ Trails lead from each of the three elven capitals to Laeroth Esori, the confeder
 
 #### The Fae Presence
 
-All variety of fae creatures dwell within Amholia Greras. Some are merely mischievous; others are genuinely dangerous. The forest operates on fae logic: hospitality is sacred, rudeness is punished, and outsiders who don't understand the rules suffer for their ignorance.
+The fae of Amholia Greras are not visitors from a country of their own — there is no such country. They are condensed Faesong, the song made local flesh, each one of the exact patch of living world where the music gathered: pixies and their courts, faeja, the water- and grove-fae of the springs. They are made of emotion, and their courts rank by emotional resonance, by a logic no outsider can hear — how much of the song is condensed in you is your standing. Where the current runs clean they tend it and guard the place without mercy; what would foul it they turn lethal on. This is not mischief dressed up as menace. It is a forest defending the thing it is made of.
 
-Elves are considered guests of a sort—tolerated, even protected, so long as they follow the ancient protocols. They stay on the trails. They don't take what isn't offered. They don't linger longer than necessary.
+Elves are tolerated guests, even protected, so long as they keep the ancient protocols: stay on the trails, take nothing unoffered, do not linger. They are permitted not because the fae are generous but because elf and fae do not want the same thing — the elf wants land and timber, the fae want only the current to keep running, and the queen claims the song, not the trees.
 
-Non-elves have no such protection. Travelers who enter Amholia Greras uninvited are fair game for the forest's inhabitants. Some are merely tormented—led in circles, frightened by illusions, robbed of food and gear. Others are never seen again. The fae don't explain their criteria.
+Non-elves have no such protection. Travelers who enter uninvited are turned in circles, unsettled by what moves at the edge of sight, and stripped of gear; those who press deeper toward the heart stop being found. The fae do not explain their criteria, because to them there is nothing to explain — what belongs to the song is kept, what would foul it is unmade.
 
 #### Enera Savaci
 
-At the forest's heart, 70 miles from any settlement through trackless woods, lies Enera Savaci—seat of the fae court and home to the queen of the forest. No trails lead there. The elves do not visit.
+At the forest's heart, 70 miles from any settlement through trackless woods, lies Enera Savaci — seat of the fae court and the place where the reservoir runs deepest of all. There the song has condensed into the queen of the forest, the apex and oldest of the fae: the densest single drop the leaking song has ever made. She rules the fae of both Amholia Greras and Iyaklomori Grera, has never met an elf directly, and speaks only through lesser fae who carry her word. No trails lead there. The elves do not visit.
 
-What the fae do in their court, what the queen wants, what her relationship is with the elven confederation—these are questions the elves have learned not to ask. The arrangement works. The elves don't pry.
+What the queen wants the elves have learned not to ask — though her stake is plain enough once named: she wants the song to go on leaking exactly as it does, neither caged nor freed, because that suspension is what lets the fae exist at all. Enera Savaci has its own entry.
 
 #### Laeroth Esori
 

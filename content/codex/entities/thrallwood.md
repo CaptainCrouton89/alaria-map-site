@@ -11,7 +11,7 @@ relations:
 ---
 The western slopes of the Phalkrene Mountains drain into Thrallwood—a swamp-forest that stretches to Shamerei Bay. The trees here grow from standing water, their roots tangled into vast platforms of rotting vegetation. Mist rises perpetually from the warm, stagnant pools.
 
-Something old claims Thrallwood. Not a god, not a spirit—something from the same age as the titan whose skull became Pyonokraus. Perhaps it served that titan once. Perhaps it was the titan's enemy. Whatever it was, it bound this place to its will, and that binding has outlasted the binder.
+Something old claims Thrallwood, something from the same age as the titan whose skull became Pyonokraus. It is neither god nor spirit. Perhaps it served that titan once. Perhaps it was the titan's enemy. Whatever it was, it bound this place to its will, and that binding has outlasted the binder.
 
 Every creature in Thrallwood serves. The beasts move in patterns too regular to be natural, patrolling routes they've walked for centuries. Birds call at precise intervals. Insects swarm in geometric formations. Even the plants seem to reach toward intruders with coordinated purpose.
 

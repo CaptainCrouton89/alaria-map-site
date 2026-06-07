@@ -6,11 +6,13 @@ blurb: "A rust-orange Force dragon who has hunted the same quarry for over four 
 tags: ["dragon", "force", "dragons-spine-coast", "leyline"]
 sources:
   - "bestiary/dragons/Kanzekill.md"
+relations:
+  - { rel: history, kind: participatedIn, target: "event-return-of-dragons" }
 review:
   aiWritten: false
   action: keep
 ---
-A rust-orange Force dragon who has hunted the same quarry for over four centuries. Kanzekill lairs in the southern Dragon's Spine mountains, near the village that bears a corruption of her name, and spends her existence searching for Mountainveil—a hidden fortress she cannot find, built by survivors of a kingdom she destroyed.
+A rust-orange Force dragon who has hunted the same quarry for over four centuries. Kanzekill lairs in the southern Dragon's Spine mountains, near the village that bears a corruption of her name, and spends her existence searching for Mountainveil—a hidden fortress she cannot find, built by survivors of a kingdom she destroyed. Kanzekill is old enough to have come out of the Return of Dragons, the long re-emergence that scattered her kind back across Alaria after the Shattering.
 
 ### The Obsession
 Kanzekill doesn't rule her territory. She doesn't demand tribute or terrorize villages for sport. She barely notices the surface kingdoms anymore. Her entire existence has narrowed to a single purpose: finding Mountainveil.

@@ -24,7 +24,7 @@ The terrain is dense boreal forest, old growth that has never been cut, canopy t
 
 The Riin built settlements throughout what is now Eyendra, and many of those settlements stood near the Wer Azenzi lakes. When the Riin merged with the forest, their presence didn't distribute evenly. It concentrated in certain places. The lakes are among the densest concentrations.
 
-This means the Riin are more present at Wer Azenzi than elsewhere in Eyendra. Not conscious. Not communicating. Just... there, in a way that can be felt. Standing at the shore of a Wer Azenzi lake produces a sensation of proximity, not being alone, even when you are. The feeling intensifies near certain lakes and at certain times, following patterns no one has successfully mapped.
+This means the Riin are more present at Wer Azenzi than elsewhere in Eyendra. They aren't conscious or communicating, just there, in a way that can be felt. Standing at the shore of a Wer Azenzi lake produces a sensation of proximity, not being alone, even when you are. The feeling intensifies near certain lakes and at certain times, following patterns no one has successfully mapped.
 
 #### What the Lakes Do
 
@@ -40,9 +40,9 @@ The lakes exhibit phenomena consistent with Riin presence but distinct from anyt
 
 Wer Azenzi is dangerous in ways different from Kama Sa'malina's predators or Trauma Lake's psychological assault.
 
-The danger is absorption. People who spend too much time at Wer Azenzi begin to lose themselves. Not dramatically. No sudden transformations or violent deaths. The change is gradual. Interests shift. Preferences change. Memories blur. The victim begins to feel less like themselves and more like... something else. Something older. Something distributed.
+The danger is absorption. People who spend too much time at Wer Azenzi begin to lose themselves. No sudden transformations or violent deaths. The change is gradual. Interests shift. Preferences change. Memories blur. The victim begins to feel less like themselves and more like... something else. Something older. Something distributed.
 
-Extreme cases result in people walking into the lakes and not coming out. Not drowning, just walking in, going under, and being gone. What happens to them is unknown. Possibly they complete a process the Riin began. Possibly they simply die. The dragon doesn't permit investigation.
+Extreme cases result in people walking into the lakes and not coming out. They don't drown; they walk in, go under, and are gone. What happens to them is unknown. Possibly they complete a process the Riin began. Possibly they simply die. The dragon doesn't permit investigation.
 
 #### The Dragon's Rules
 

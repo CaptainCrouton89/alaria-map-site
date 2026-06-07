@@ -67,3 +67,7 @@ tmp-*.json
 
 # transient codex build lock (multi-session build serialization)
 .codex-build.lock/
+
+# Python bytecode (codex audit scripts)
+__pycache__/
+*.pyc

@@ -16,12 +16,15 @@ const ENTITIES = path.join(REPO, 'content/codex/entities');
 const TILES = 'https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/tiles';
 const TILE = 256;
 const CACHE = '/tmp/alaria-tiles';
-// Map scale (fixed): coordinates are pin units on the zoom-0 pixel grid. 20 units = 1 hex = 5 miles.
+// Map scale (fixed): coordinates are pin units on the zoom-0 pixel grid. The on-map hex grid measures
+// 1.125 pin units across (zoom 4: 18px/16; zoom 5: 36px/32) and the legend cartouche reads "1 Hex = 5
+// Miles", so 1.125 units = 1 hex = 5 miles => ~4.44 miles per pin unit. (Previously mis-set to 20
+// units/hex => 0.25 mi/unit, ~18x too small, which made cross-continental gaps read as tens of miles.)
 // Distances live entirely in this grid, so they are zoom-INDEPENDENT — tile zoom only changes render
 // resolution, never the coordinate spacing. Never adjust a measured distance for zoom.
-const PIXELS_PER_HEX = 20;
-const MILES_PER_HEX = 5;
-const MILES_PER_PIXEL = MILES_PER_HEX / PIXELS_PER_HEX; // 0.25 mi per pin unit
+const PIXELS_PER_HEX = 1.125; // measured hex-grid pitch in pin units (zoom 4: 18px/16, zoom 5: 36px/32)
+const MILES_PER_HEX = 5;       // map legend cartouche: "1 Hex = 5 Miles"
+const MILES_PER_PIXEL = MILES_PER_HEX / PIXELS_PER_HEX; // ~4.44 mi per pin unit
 const ARCHETYPES = ['stub', 'ai-ok', 'geo-wrong', 'inflated'];
 const ACTIONS = ['keep', 'trim', 'rewrite', 'stub', 'fix-geo'];
 
@@ -88,7 +91,7 @@ Branches
 `;
 const MAP_HELP = `
 codex map — read-only spatial queries over pin coordinates. No mutation.
-Scale: 5 miles per hex (20 pin units). Distances are reported in MILES and are zoom-independent — never
+Scale: ~4.44 miles per pin unit (map legend: 1 hex = 5 miles; the hex grid is 1.125 pin units across). Distances are reported in MILES and are zoom-independent — never
 adjust for tile zoom.
 
 Leaves
@@ -366,7 +369,7 @@ Effects
 function mapNear() {
   if (wantHelp) help(`
 codex map near — nearest pins to an entity, by coordinate distance. Read-only.
-Image space: +x=east, +y=south; north is -y. Distances are in MILES (map scale 5 miles/hex) and are
+Image space: +x=east, +y=south; north is -y. Distances are in MILES (~4.44 mi per pin unit; 1 hex = 5 miles) and are
 zoom-independent.
 
 Input
@@ -399,7 +402,7 @@ codex map dist — straight-line distance between two places, in MILES. Read-onl
 
 Distance is computed on the canonical zoom-0 pixel grid the coordinates live on, so it is
 zoom-INDEPENDENT — tile zoom changes only render resolution, never the spacing. Never adjust for zoom.
-Map scale is fixed at 5 miles per hex (20 pin units). The result is a flat straight-line gap that ignores
+Map scale is fixed at ~4.44 miles per pin unit (1 hex = 5 miles; the hex grid is 1.125 pin units across). The result is a flat straight-line gap that ignores
 terrain, water, and roads — treat it as a lower bound on real travel distance, not a road/sail distance.
 
 Input

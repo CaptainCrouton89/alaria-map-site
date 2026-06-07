@@ -47,7 +47,7 @@ Beneath Kobuk's surface lies the Coghead civilization: a network of tunnels, cha
 
 The Warrens are divided into functional districts:
 
-The forges are where the surviving craft is kept alive: aether drawn from the air and fixed, grafts cut and fitted into flesh, star-metal worked, and the relics of the lost age kept in repair. They run constantly, powered by geothermal vents tapped from the Wurmspine's volcanic roots. The heat from the Hellion Hills to the north provides additional energy.
+The forges are where the surviving craft is kept alive: Aether drawn from the air and fixed, grafts cut and fitted into flesh, star-metal worked, and the relics of the lost age kept in repair. They run constantly, powered by geothermal vents tapped from the Wurmspine's volcanic roots. The heat from the Hellion Hills to the north provides additional energy.
 
 **The Sanctums**: Living quarters, organized by extended family groups. Space is tight but efficiently used—the Cogheads have had generations to optimize underground living.
 

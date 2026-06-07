@@ -31,7 +31,7 @@ Garlow's economy centers on several major production facilities:
 
 **The Trapwright's Hall** — Where the deadliest defensive devices are designed and assembled. The guild that operates this facility guards its techniques jealously—trap designs are Garlow's most valuable intellectual property.
 
-**The Aether Refineries** — Joint operations with Yuki's etherweavers, processing raw goblin aether into usable forms. The refineries produce everything from lamp fuel to enchantment catalysts.
+**The Aether Refineries** — Joint operations with Yuki's aether-tappers, processing raw goblin Aether into usable forms. The refineries produce everything from lamp fuel to enchantment catalysts.
 
 ### Governance
 

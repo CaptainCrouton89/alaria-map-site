@@ -19,7 +19,7 @@ The Kilbyurn Mountains form the western boundary of Wycendeula—a massive, snow
 
 #### The Empty Mountains
 
-No one lives in the Kilbyurn Mountains. Not hermits, not bandits, not even the satyrs who have claimed every other corner of Wycendeula. The dwarves of Balduahr know better than to try. Expeditions from Balduahr in centuries past attempted to establish mining outposts; none survived longer than a season. The Kilbyurns lack leyline activity, which rules out magical corruption—what they have instead is a concentration of apex predators and territorial megafauna that has never been successfully culled.
+No one lives in the Kilbyurn Mountains. Hermits and bandits stay away, and even the satyrs, who have claimed every other corner of Wycendeula, keep their distance. The dwarves of Balduahr know better than to try. Expeditions from Balduahr in centuries past attempted to establish mining outposts; none survived longer than a season. The Kilbyurns lack leyline activity, which rules out magical corruption—what they have instead is a concentration of apex predators and territorial megafauna that has never been successfully culled.
 
 #### Rivers and Headwaters
 

@@ -14,7 +14,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Cogheads are a people of the goblin, not a separate lineage. They are the goblins of one hold in Kobuk who carry a grafting craft no one else holds, cutting aether-fed augmentations into their own flesh. The work is not bolted-on machinery. It is handmagic, brass and ground lens set into living tissue by a working fed on the aether that hangs in the air, and the craft itself is a surviving fragment of a lost age, a scrap of that age's bodywork come down their line and no one else's.
+The Cogheads are a people of the goblin, not a separate lineage. They are the goblins of one hold in Kobuk who carry a grafting craft no one else holds, cutting aether-fed augmentations into their own flesh. The work is not bolted-on machinery. It is handmagic, brass and ground lens set into living tissue by a working fed on the Aether that hangs in the air, and the craft itself is a surviving fragment of a lost age, a scrap of that age's bodywork come down their line and no one else's.
 
 The hold sits inside the shell of that loss. The Kobuk goblins drove their warrens into a vast hollowed-out work left from the older age, a structure no living hand could raise again and none can fully read. They did not build it; they moved into it the way a later people settles a ruin. The grafting they keep is of a piece with the relic they live inside, and they read it as the pyre-and-pact carried into the skin, Shak Shak's vow made permanent in flesh. But they cut that vow into bodies that never agreed to carry it, and the wider goblin world calls the reading corrupted. The hold calls it the only honest one.
 

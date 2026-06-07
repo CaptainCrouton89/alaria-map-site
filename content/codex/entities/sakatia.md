@@ -8,7 +8,7 @@ zoomLevel: 5
 tags: ["ruins", "village", "faewoods", "old-tolaria"]
 sources: ["all_sections_formatted/Rimihuica.md#L4318"]
 relations:
-  - { rel: spatial, kind: within, target: "732" }
+  - { rel: spatial, kind: within, target: "2890" }
 review:
   aiWritten: true
   archetype: ai-ok

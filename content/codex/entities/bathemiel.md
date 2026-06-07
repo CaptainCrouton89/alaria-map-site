@@ -1,23 +1,23 @@
 ---
 id: "3763"
-name: "Bathemiel"
+name: "The Chained Caverns"
 entityType: poi
-blurb: "The dragon came to these islands in the Second Eon, when the world was younger and the Free Isles were uninhabited rock."
+blurb: "The pre-human caverns beneath Mpehi where the dragon Bathemiel lies in self-forged chains, tended by the Gattorini."
+aliases: ["Bathemiel's Caverns", "Bathemiel"]
 coordinates: [205, 415]
 zoomLevel: 5
 sources: ["all_sections_formatted/Upoceax.md#L3395"]
 relations:
   - { rel: spatial, kind: within, target: "3725" }
+  - { rel: possession, kind: guards, target: "creature-bathemiel" }
 review:
   aiWritten: true
   archetype: ai-ok
   action: keep
-  notes: "Chained dragon beneath Mpehi; on-theme, drives Gattorini gold gift. POI coord at cluster center. Keep."
+  notes: "Split-by-role: this is the SITE (chained caverns). The dragon's nature lives in creature-bathemiel. Coord/id keep the map pin; do not change."
 ---
-The dragon came to these islands in the Second Eon, when the world was younger and the Free Isles were uninhabited rock. No one knows why Bathemiel chose to stay, or what wounded it so badly that it needed to sleep. When humans arrived, they found the dragon already chained—great bonds of dull gray metal that resist all attempts at identification, anchored to the cavern walls by mechanisms no one has been able to understand.
+Beneath Mpehi, older than the city and older than the people who raised it, a system of caverns runs down through the volcanic rock to a depth no quarry ever reached by accident. The deepest of them holds the dragon Bathemiel, wound in chains it forged for itself. The reasons are the dragon's own and live in its entry; what the site is, simply, is the one prison in the Free Isles the Blood Pact has nothing to say about.
 
-The first Gattorini patrón made a deal. The exact terms are lost, recorded only in a sealed vault that subsequent patróns have been unable (or unwilling) to open. What remains is the gift: the ruling patrón of Mpehi can transform any non-living matter they touch into pure gold. The effect is permanent and irreversible.
+The Gattorini palazzo, the Golden Seat, stands directly over the primary cavern, and the family's first duty — older than their gold and older than their name — is to keep the chains sound and the way down sealed. The entrances are warded to kill. Permission to descend is never given, not even to Gattorini blood. Near the cavern mouth sits a vault holding the original terms of the bargain the first patrón struck, sealed in a way no later patrón has been able to open.
 
-The gift has made the Gattorini unimaginably wealthy—but it has costs. Every patrón eventually goes mad, convinced that gold is spreading through their own flesh. Several have died clawing at their skin, certain they were transforming. Others have become paranoid about touch, refusing to remove their gloves even in private. The current patrón, **Donna Serephina Gattorini**, wears golden gauntlets at all times and has not touched another living being in fifteen years.
-
-Bathemiel occasionally speaks through dreams. The messages are cryptic, unsettling, and never helpful. The dragon seems to be waiting for something. The Gattorini have learned not to ask what.
+The warmth that climbs through Mpehi's streets on still nights rises from here.

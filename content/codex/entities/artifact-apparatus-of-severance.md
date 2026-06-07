@@ -13,7 +13,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Apparatus of Severance is the machine the Tolarian mage-kings built to take magic apart. People who have heard the name secondhand imagine it as the city of Elderran itself, a whole ruin somehow rigged into one device. That is wrong, and the distinction matters to anyone who means to reach it. The Apparatus is a single structure at the dead center of the capital. Elderran was built around it. Everything the region suffers, the slowed time worst of all, radiates outward from that one engine, and the engine is still where it has always been, doing what it was made to do.
+The Apparatus of Severance is the machine the Tolarian mage-kings built to take magic apart. People who have heard the name secondhand imagine it as the city of Elderran itself, a whole ruin somehow rigged into one device. That is wrong, and the distinction matters to anyone who means to reach it. The Apparatus is a single structure at the dead center of the capital. Elderran was built around it. Everything the region suffers, the slowed time worst of all, radiates outward from that one engine, and the engine is still where it has always been, doing what it was made to do. The Faewoods are its other great wound: the severance meant to cage the Faesong tore it loose instead, and where the freed song pooled thickest it has never since stopped condensing into fae.
 
 ### The engine
 

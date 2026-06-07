@@ -11,6 +11,7 @@ review:
   action: keep
 relations:
   - { rel: history, kind: participatedIn, target: "era-lost-ages", note: "the Ezz substrate was the contaminated layer behind the Blight of Arcanus" }
+  - { rel: cosmology, kind: sourceOf, target: "magic-faesong", note: "Faesong is the emotion/harmony-face of Ezz, as Psywinds is its thought-face" }
 ---
 The universal substrate. Contains equal parts of Azus and Melera—thought and emotion at balance. Ezz is not a plane but the medium the planes hang within; Psywinds (its thought-face) and Faesong (its emotion-face) are forces within Ezz, not places. It should not be confused with Dynus, the elemental plane of physical force—Ezz is force of mind, the other force of matter.
 

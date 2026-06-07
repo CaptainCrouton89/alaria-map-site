@@ -24,7 +24,7 @@ The butterflies are everywhere. Every color, every pattern, every size from thum
 
 The Jeh Bli orcs enter the forest to hunt and gather, but they don't stay overnight. When asked why, they point to the butterflies and change the subject.
 
-The forest provides abundantly—deer, boar, edible fungi, medicinal plants, timber—but no one has ever built a permanent camp beneath the veleth. Not the orcs. Not the elves, in all their centuries here. Not whoever came before.
+The forest provides abundantly—deer, boar, edible fungi, medicinal plants, timber—but no one has ever built a permanent camp beneath the veleth. The orcs never did, nor the elves in all their centuries here, nor whoever came before them.
 
 The reason becomes clear to anyone who spends a night under the canopy. The butterflies don't sleep. After dark, they glow—faintly, softly, each one a drifting point of pale light. And they watch. Thousands of them, gathering around sleeping figures, landing on closed eyelids, brushing against lips. Those who wake find the butterflies scattering, innocent as sunlight.
 

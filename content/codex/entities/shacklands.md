@@ -74,6 +74,12 @@ The Shacklands lack unified governance—they're defined by participation in sla
 
 The result is an economic zone masquerading as a region. States that have nothing else in common share the taint of slavery—and the wealth it generates.
 
+### The Coin of the Trade
+
+For a region built on one commerce, the Shacklands strike no money of their own. The markets settle in weighed silver, the same southern mark Kyagos and the Free Isles keep their scales for: fine metal assayed by weight, with no face that counts and no mint standing behind it. Gorath pays its legions in marks. The slavers who sell along the Slaver's Coast settle in marks. A Drasnian dragged onto the block at Azantir is priced in a weight of silver and bought with one.
+
+Not all of that silver belongs to the men spending it. Belmonte, who keeps the oldest banking house in Azantir, lends to Gorath by the chestful, advances secured against ground the legions have not taken yet. A campaign that wins repays its bond out of the bodies it hauls back. One that stalls leaves a hole only the next campaign can fill. The creditor who holds the empire's debt needs the war to keep paying, which is the same as needing it never to end.
+
 ### What Makes It Interesting
 
 The Drasnian dwarves of Pesalolo built the Shacklands' economy and carry its deepest contradiction. Three centuries of bondage have not dissolved Drasnian identity. They run when they can, and the Moon Road — the escape network that moves them through the Moon Wilds — has been running them for decades. Gorath cannot close that route without entering territory the empire has already admitted defeats it. The most dangerous frontier on the continent is, for the people it has swallowed, the only way out.
@@ -101,3 +107,8 @@ None of these pressures waits on the others. The danger to the Shacklands is tha
 ### Moon Wilds
 
 Gorath's western frontier is the one direction the empire has stopped advancing. West of the Poison Hills, across the Myublin River, lies the Moon Wilds, a jungle the legions have never been able to hold because of what lives in it. The Vexlings, the apex predators of the Wilds, have lately stopped behaving like animals and begun behaving like an army, drawn together by the thing the Gorathi call the Argent Mother. Three legions went in to conquer the Wilds and came back broken; the empire now watches the Myublin line and cedes the rest. The grim turn is that the deadliest ground on the continent is also the safest road off it, because the Vexlings do not chase runaways and Gorath will not follow them in. The full account lives in the member entries: the Moon Wilds, the Vexlings, and the Myublin River.
+
+<!-- author-notes -->
+Belmonte is surfaced as a mention only — no standalone page authored here; his page already exists (id person-belmonte) and the canon source is currency.md §The credit layer.
+
+The war-financing tie (Belmonte lends to Gorath by the chestful) is carried in prose only — no economy kind fits a creditor→debtor relationship, and his political alignment is already edged via person-belmonte allyOf → person-esmeraz.

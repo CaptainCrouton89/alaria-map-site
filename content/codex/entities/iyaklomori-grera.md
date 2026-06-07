@@ -9,9 +9,10 @@ tags: ["forest", "fae", "sacred", "illron"]
 sources: ["all_sections_formatted/Upoceax.md#L1632"]
 relations:
   - { rel: spatial, kind: within, target: "3529" }
+  - { rel: polity, kind: ruledBy, target: "3515", note: "the queen of the forest, seated at Enera Savaci, rules the fae of Iyaklomori under the treaty" }
   - { rel: culture, kind: inhabitedBy, target: "race-elf-ythari" }
 ---
-The great forest at the heart of Illron. Unlike Elorshianod in Lenora, which is settled and worked, Iyaklomori Grera has no elven settlements. It belongs to the fae under a treaty older than the elven confederation itself. The Illronese are not the forest's only elven presence — they are simply the most visible one.
+The great forest at the heart of Illron. Unlike Elorshianod in Lenora, which is settled and worked, Iyaklomori Grera has no elven settlements. It belongs to the fae under a treaty older than the elven confederation itself, and the fae who hold it answer to the queen of the forest, seated far to the north at Enera Savaci in Amholia Greras. The Illronese are not the forest's only elven presence — they are simply the most visible one.
 
 #### Geography
 
@@ -21,7 +22,7 @@ The forest is bounded by the Ocean of Elorinia to the west, the Poscuni Gretanu 
 
 #### The Fae Treaty
 
-The Illronese have a treaty with the fae court. The terms are simple:
+The Illronese have a treaty with the fae court — but it is not a peace between equals. It is the queen's license to tenants: the terms under which she permits non-fae to live within her reservoir without disrupting the current the fae are made of. The terms are simple:
 
 1. Elves may travel on two designated routes: the river-road along Kilgre Venora (connecting Ishla'Anore to A'valenor), and the diagonal trail from Hassera to E'lethelas
 2. Elves may not settle, build, or clear any part of the forest
@@ -29,6 +30,12 @@ The Illronese have a treaty with the fae court. The terms are simple:
 4. In exchange, the fae leave the coastal settlements and eastern edge alone
 
 The treaty predates the Three Kingdoms Treaty by at least a millennium. When the confederation was formed, Illron's representatives insisted that their prior obligations be acknowledged. Lenora and Deo Esari agreed—the forest wasn't theirs anyway.
+
+#### What the Treaty Displaced
+
+Before it was the elves' license, Iyaklomori was a temple. The forest was Vaerivra's: the trackless-forest daemon arose among the Caerene who ranged this canopy, and her rite is the forest left free and unmarked — no sovereign, no boundary, no permission asked of anyone. The fae treaty is the precise negation of that rite. To accept a sovereign's prohibitions over the trackless forest — which two routes may be walked, what may never be taken — denies the very thing Vaerivra's rite makes the forest be.
+
+So when the treaty bound Iyaklomori under the queen's terms, the Caerene refused to live under them. They withdrew to the Green Wilds, and their patron followed the people rather than the ground. Iyaklomori became, in Caerene reckoning, a temple emptied of its rite. The queen's claim on the song had displaced a daemon's claim on the conduct of the forest, and the song won the ground. The Ythari who walk it now live under the treaty and never knew Vaerivra's name.
 
 #### Enforcement
 
@@ -38,7 +45,7 @@ Travelers on the legal routes report being watched constantly. Movement in perip
 
 Those who stray from the paths, or who take something, or who linger too long, mostly are never seen again. The few who return are changed—silent, hollow, wrong in ways that are hard to articulate. They live out their remaining years but never speak of what happened.
 
-The Illronese don't ask questions. They stay on the paths. They keep moving. They've learned.
+The Illronese don't ask questions. They stay on the paths. They keep moving. They've learned. The treaty's one famous breach — a king who built in the forbidden deep and pushed toward the heart — is remembered at Kilren's Palace, and it ended the way every such breach ends: his soldiers were never found, and the king himself came back hollow.
 
 #### The Ythari
 

@@ -49,7 +49,7 @@ Civilization begins south of the Vokas Pendl mountains. Here, three elven politi
 
 **Deo Esari**: The mountain kingdom, occupying the Kelder range. Governed by the Titanic Priesthood, keepers of the titan bones buried throughout the peaks. Source of ~95% of the world's titan bone—material so sacred it never leaves the confederation except through defectors. The southern harvesting grounds were abandoned 200 years ago after a contamination disaster.
 
-A fourth elven group, **Rakite**, occupies the plains east of the Kelder Mountains. They follow the buffalo herds, practice a gift-economy distinct from the settled kingdoms, and do not participate in the confederation. Trade with Rakite is formal but friendly.
+A fourth elven group, **Rakite**, occupies the plains northwest of the Kelder Mountains. They follow the buffalo herds, practice a gift-economy distinct from the settled kingdoms, and do not participate in the confederation. Trade with Rakite is formal but friendly.
 
 #### Key Geographic Features
 
@@ -57,7 +57,7 @@ A fourth elven group, **Rakite**, occupies the plains east of the Kelder Mountai
 - **Elorshianod**: Coastal forest of Lenora, settled and worked for timber and river-town life
 - **Iyaklomori Grera**: Sacred forest of Illron, fae territory, no elven settlement permitted
 - **Amholia Greras**: Central forest between all three kingdoms, home to the fae court at Enera Savaci
-- **Drakwald Forest**: Northern forest of Lenora, bordering the wilderness
+- **Drakwald Forest**: Western forest of the Rakite plains, where the grass stops at the treeline and nothing that enters returns
 
 **Mountains**:
 - **Vokas Pendl**: Northern spur, source of the Kilgre Kevi

@@ -4,7 +4,7 @@ name: "Ikriel"
 entityType: race
 entityCategory: culture
 tags: ["playable"]
-blurb: "Pixies who worship winter as cosmic entropy; emotionally vampiric manipulators who drain warmth from their victims to feed a cold-hunger they take on by devotion."
+blurb: "Pixies who take up the worship of Kryviel, daemon of winter-as-entropy; their devotion rimes their wings with frost and turns them to feeding on the emotional warmth they were made to tend."
 aliases: ["Icehearts"]
 relations:
   - { rel: culture, kind: subraceOf, target: "race-pixie" }
@@ -15,9 +15,9 @@ review:
   aiWritten: false
   action: keep
 ---
-The Ikriel are a winter-worship culture of the pixie. A pixie is not born an Iceheart. One becomes an Iceheart by taking up the worship of winter, and the frost and the hunger that mark the devout are things a pixie acquires across their own life, never traits carried in the blood. An Iceheart's children are born ordinary pixies. They become Ikriel only if they too take up the worship.
+The Ikriel are a winter-worship culture of the pixie. Like every pixie, an Iceheart began as condensed Faesong — the emotion-half of the world gathered into a small body, made to feel the current it rose from and to tend it. The Ikriel are what that becomes when it turns against itself. A pixie is not born an Iceheart. One becomes an Iceheart by taking up the worship of Kryviel, and the frost and the hunger that mark the devout are things a pixie acquires across their own life, never traits carried in the blood. An Iceheart's children are born ordinary pixies. They become Ikriel only if they too take up the worship.
 
-What the Ikriel worship is winter itself, not as a season but as a cosmic force of entropy and hunger. As a worshipper's devotion deepens, it begins to show in the body. The wings rime over with frost-crystal, and a constant cold settles into them and leeches warmth from everything nearby. The longer and harder a single Iceheart worships, the deeper that cold bites; an old and devout one carries far more of it than a pixie freshly come to winter. The hunger is not only physical. Icehearts feed on emotional warmth, leaving their victims hollow and cold inside.
+What the Ikriel worship is Kryviel, the daemon of winter-as-entropy — not the cold of a season but the cold that hollows, that takes warmth out of a thing and leaves it emptied rather than merely frozen. As a worshipper's devotion deepens, it begins to show in the body. The wings rime over with frost-crystal, and a constant cold settles into them and leeches warmth from everything nearby. The longer and harder a single Iceheart worships, the deeper that cold bites; an old and devout one carries far more of it than a pixie freshly come to winter. The hunger is not only physical. Icehearts feed on emotional warmth, leaving their victims hollow and cold inside.
 
 Icehearts are master manipulators who view other creatures as sources of sustenance. They excel at gaining trust through false vulnerability or promises of aid, only to drain their victims when defenses are lowered. To an Iceheart, every relationship is ultimately transactional. They will feed; the only open question is when.
 

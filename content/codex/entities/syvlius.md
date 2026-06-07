@@ -26,7 +26,7 @@ That infrastructure is gone. The trade tower's wreckage blocks what used to be t
 
 ###### Current State
 
-Syvlius is controlled by Drasnians and gangs. Not a government, not even a coalition—just a chaotic patchwork of factions occupying different districts, controlling different resources, fighting each other as often as any external threat.
+Syvlius is controlled by Drasnians and gangs, not by anything that resembles a government. It is a chaotic patchwork of factions occupying different districts, controlling different resources, fighting each other as often as any external threat.
 
 The heroes who led the revolution—Xe, Alice, Bryce, Woof, Bordrick, and Snuffles—have moved on. They lit the fire and left others to deal with the aftermath. Some Drasnians curse them for it; others consider them liberators regardless of what came next.
 

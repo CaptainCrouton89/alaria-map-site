@@ -48,6 +48,12 @@ Representatives gather at Laeroth Esori when major decisions must be made. Each 
 
 The one-kingdom-one-voice principle means all three must agree on any binding decision. This frustrates Lenora, which has the largest population and feels entitled to more influence. Illron and Deo Esari remind them that population wasn't the basis for the original agreement.
 
+#### The session the stones are waiting for
+
+A Landsmeet delegation out of Lenora is coming to demand that its four-thousand-year confederation contribution be reopened, and it will not come on that errand alone. Behind the renegotiation sit two harder matters: a drafted proposal for Lenora to secede outright and buy titan bone direct from Deo Esari, and a formal challenge to the lifelong exile of the Grieving. Lenora wants all three argued under the stones, because a thing conceded at Laeroth Esori cannot afterward be unsaid, and a vote witnessed here cannot be quietly walked back at home.
+
+The site's protection has an edge its makers never designed for. The stones make a lie uncomfortable and hold every word spoken in the clearing against the day it is recalled. They do nothing about a bargain struck somewhere else and merely performed here. Myrelin Aelvanor, who carries the secession draft, means to reach the clearing with a faction of the Titanic Priesthood already quietly willing to sell Lenora titan bone outside confederation terms — so that what the stones witness as an open first proposal is in truth a thing half-agreed in advance, in a place that has no stones in it. Truth-binding catches the lie. It was never built to catch the arrangement that makes the lie unnecessary, and no one has yet stood in the clearing and discovered the difference the hard way.
+
 #### Getting There
 
 The trails to Laeroth Esori are well-maintained but not public roads. Travel is by permission only—representatives carry tokens of authorization that the fae of Amholia Greras recognize. Unauthorized travelers on these trails may find them less safe than they appear.

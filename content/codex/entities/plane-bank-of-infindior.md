@@ -5,6 +5,9 @@ entityType: plane
 banner: "https://pub-2f7d72a936214040b067e1f9ffc82e63.r2.dev/images/plane-bank-of-infindior/banner.webp"
 blurb: "Bank where time doesn't pass, but anything is immediately accessible."
 tags: ["poi"]
+relations:
+  - { rel: possession, kind: guards, target: "magic-red-platinum", note: "the few Crimson Crowns of red platinum are vaulted here, outside time and reach" }
+  - { rel: possession, kind: guards, target: "magic-titan-blood-bones", note: "the great houses keep their titan-bone reserves of last resort in the time-frozen vault" }
 sources:
   - "cosmology_and_religion/alarian_planar_stack/planes/Bank_of_Infindior.md"
 review:
@@ -25,4 +28,4 @@ Origin (GM-knowable, withheld from public prose): the stillness is an Izzus time
 
 Stack-safety: deliberately framed as a bounded pocket reached through one material-world door, NOT a layer of the six-plane stack and NOT a seventh true plane, to avoid contradicting world-systems-invariants.md (Planes row) and planar-stack.md. entityType stays `plane` per the existing review-kept frontmatter; the prose denies it is a stack-layer.
 
-Currency role (currency-worker pass): positioned as the reserve-custody / supra-secure vault of the credit layer in docs/worldbuilding/systems/currency.md — holds titan-bone reserves (the reserve of last resort) and the Crimson Crowns (red platinum), and the freeze mechanic is named as a financial weapon. No edges added here; currency worker reports a wishlist for the orchestrator's serialized pass. The map pin is the separate POI entity bank-of-infindior.md (id manual-mphbxx52-8k3hb), within Kyorda (405).
+Currency role (currency-worker pass): positioned as the reserve-custody / supra-secure vault of the credit layer in docs/worldbuilding/systems/currency.md — holds titan-bone reserves (the reserve of last resort) and the Crimson Crowns (red platinum), and the freeze mechanic is named as a financial weapon. The possession/guards edges to magic-titan-blood-bones and magic-red-platinum are authored in this file's frontmatter. The map pin is the separate POI entity bank-of-infindior.md (id manual-mphbxx52-8k3hb), within Kyorda (405).

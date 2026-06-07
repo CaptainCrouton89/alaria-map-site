@@ -66,7 +66,7 @@ region — look at the landmass on the map, not the distance ranking.
 
 ## Measure distance before any claim that depends on it
 
-Map scale is fixed — **5 miles per hex (20 pin units)** — and coordinates already live in that one grid,
+Map scale is fixed — **~4.44 miles per pin unit** (the on-map hex grid is 1.125 pin units across and the legend reads "1 hex = 5 miles") — and coordinates already live in that one grid,
 so distance is *zoom-independent*: `map near` and `map dist` return **miles** you never adjust for tile
 zoom. Because the number is cheap and exact, eyeballing it is never acceptable.
 

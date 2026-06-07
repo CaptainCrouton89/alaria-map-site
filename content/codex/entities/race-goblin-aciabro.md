@@ -13,7 +13,7 @@ review:
   aiWritten: false
   action: keep
 ---
-The Aciabro are an offshoot of goblin-kind, kin to the Cogheads and shaped by the same lost craft, but turned to a darker fuel. Where a Coghead's grafts run on aether drawn from the air, the Aciabro feed theirs on the blood already moving through the body. The augmentations are not bolted-on machinery. They are handmagic-cut into living flesh, brass and gut set into the body by a working that spends life the way all Deoric does, and a body so remade is formidable and never far from collapse, because every part it adds is one more mouth on the same blood.
+The Aciabro are an offshoot of goblin-kind, kin to the Cogheads and shaped by the same lost craft, but turned to a darker fuel. Where a Coghead's grafts run on Aether drawn from the air, the Aciabro feed theirs on the blood already moving through the body. The augmentations are not bolted-on machinery. They are handmagic-cut into living flesh, brass and gut set into the body by a working that spends life the way all Deoric does, and a body so remade is formidable and never far from collapse, because every part it adds is one more mouth on the same blood.
 
 They keep to secluded workshops thick with the smell of oil and hot copper, and there are never many of them. What they hold is not a craft anyone could learn from them. It is the remnant of an older and greater one, a fragment of the lost age's bodywork that came down their line and no one else's. They are driven to extend it, to cut and fit and bleed into the next addition, and they hold unaltered flesh in contempt as weak and wasteful. The drive has no natural stopping point.
 

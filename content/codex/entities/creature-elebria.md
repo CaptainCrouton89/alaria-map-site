@@ -17,7 +17,7 @@ A lava dragon who claims the volcanic southwestern Pindolin Islands, Elebria is 
 ### The Isolation
 Most dragons want *something* from the world. Gold, worship, territory, recognition, revenge. Elebria wants to be left alone with a totality that borders on pathology.
 
-Her response to intrusion is immediate and absolute. Ships that enter her waters are destroyed without warning, negotiation, or opportunity to explain. Not threatened, not driven off—destroyed. She surfaces beneath them and melts through their hulls, or she breathes from a distance, or she simply heats the water until it boils. The method varies. The outcome doesn't.
+Her response to intrusion is immediate and absolute. Ships that enter her waters are destroyed without warning, negotiation, or opportunity to explain. She doesn't threaten them or drive them off; she destroys them. She surfaces beneath them and melts through their hulls, or she breathes from a distance, or she simply heats the water until it boils. The method varies. The outcome doesn't.
 
 This isn't cruelty. Elebria doesn't enjoy killing particularly. It's efficiency. Dead intruders don't come back. Survivors might. Survivors might tell others. Others might think her territory is open to discussion.
 

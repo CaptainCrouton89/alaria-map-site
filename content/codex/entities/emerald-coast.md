@@ -26,7 +26,7 @@ The Emerald Coast occupies the eastern seaboard of Rimihuica, a verdant strip of
 
 - **North**: Begins south of Ofrenia (the island in the Middle Sea), with Micah Inlet marking the northern coast and Swampdeep beyond
 - **West**: The Myjornis Mountains and western highlands separate the coast from the United Free Nations of the interior
-- **South**: Extends to Phirexes (a misty swamp) and borders Kyagos (the mountainous southeastern peninsula) via the Cloud Mountains
+- **South**: Extends to Phirexes (a misty swamp), with the Cloud Mountains forming the southern boundary; beyond them the Sea of Seven Snakes opens toward the island of Kyagos
 - **East**: Faces the Gulf of Tears and the open ocean beyond; the permanent storm Oblivion churns offshore to the northeast
 
 #### Major Mountain Ranges

@@ -18,7 +18,7 @@ review:
   action: keep
   notes: "Walking Forest: coherent, on-theme (migrating forest, Grayls, ley lines). Geography matches map: south of Tenekee Woods, in core Westwilds. Note: Lacire/Ierya sit inside it (containment for reconciliation)."
 ---
-A vast woodland south of the Tenekee Woods and east of the Everwood, the Walking Forest is named for its most unsettling quality: it moves. Not quickly, and not in ways visible to the eye, but over seasons and years, the forest migrates. Entire groves relocate. Landmarks shift. Paths that existed last decade are now dense woodland, and clearings appear where none existed before.
+A vast woodland south of the Tenekee Woods and east of the Everwood, the Walking Forest is named for its most unsettling quality: it moves. Over seasons and years, the forest migrates, too slowly for the eye to catch. Entire groves relocate. Landmarks shift. Paths that existed last decade are now dense woodland, and clearings appear where none existed before.
 
 Cartographers have learned not to bother mapping it.
 

@@ -19,4 +19,4 @@ A planar stack consists of a series of planes, clumped together, sometimes in a 
 The cosmos contains several major planar stacks, of which Alaria is the primary focus of this almanac. Other major stacks include Epyphiozath and Instruxofinum.
 
 ### Other Known Stacks
-Beyond the major stacks, there are other known planar stacks that have been visited or observed: Glyssen, Klokas, and Narglon.
+Beyond the major stacks, there are other known planar stacks that have been visited or observed: Glyssen, Klokas, Narglon, and Lanthornia, the neighbour whose eruption rained Aether and Lanthornium down onto Alaria.

@@ -11,6 +11,7 @@ sources: ["all_sections_formatted/Clueanda.md#L142"]
 relations:
   - { rel: spatial, kind: within, target: "9000" }
   - { rel: economy, kind: produces, target: "magic-red-gold" }
+  - { rel: economy, kind: produces, target: "magic-red-platinum", note: "the eastern ranges yield red platinum in trace amounts beside the gold; the Adron houses hold nearly all of it and strike it into the Crimson Crown" }
   - { rel: economy, kind: tradesWith, target: "477", note: "Adron builds and finances the hulls that carry Camaran's manufactures around the rim" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-nagashi" }
   - { rel: culture, kind: inhabitedBy, target: "race-naga-megelren" }
@@ -63,4 +64,4 @@ Megélren framing: the body gives the racialized "traitor's blood" line AS the m
 
 Crown/houses reconciliation: adrak.md says "seat of the monarchy"; this body frames the crown as nominal, held by whichever banking house stands first (presently Mariseni's). No contradiction — the houses rule, the crown is ceremonial. adrak.md left untouched (light-touch; already strong).
 
-Currency wiring (currency-worker pass): added the Royal Adrak Bank as mint/underwriter of the Aldriktch iron standard and rate-setter for the southern weighed-silver standard, per docs/worldbuilding/systems/currency.md. RED PLATINUM is a NEW material introduced by the locked currency spec (decisions.md §Currency: "Crimson Crown = red PLATINUM, rarer, above Crown. NOT the same as red gold"). It is reconciled as a DISTINCT element from red gold (magic-red-gold.md, Adron-mined): red gold turns Kethic, red platinum does not — that difference is the canonical counterfeit-test. Do not let any future edit conflate the two or give red platinum red gold's Kethic-turning property. No edges added here (currency worker reports a wishlist; orchestrator applies the serialized currency+economy edge pass). Existing produces → magic-red-gold edge untouched.
+Currency wiring (currency-worker pass): added the Royal Adrak Bank as mint/underwriter of the Aldriktch iron standard and rate-setter for the southern weighed-silver standard, per docs/worldbuilding/systems/currency.md. RED PLATINUM is a NEW material introduced by the locked currency spec (decisions.md §Currency: "Crimson Crown = red PLATINUM, rarer, above Crown. NOT the same as red gold"). It is reconciled as a DISTINCT element from red gold (magic-red-gold.md, Adron-mined): red gold turns Kethic, red platinum does not — that difference is the canonical counterfeit-test. Do not let any future edit conflate the two or give red platinum red gold's Kethic-turning property. The economy/produces → magic-red-platinum edge is authored in this file's frontmatter alongside the existing produces → magic-red-gold.

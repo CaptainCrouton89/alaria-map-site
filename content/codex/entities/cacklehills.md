@@ -14,7 +14,7 @@ The Cacklehills rise east of the Elephant Groves, a stretch of broken, rocky ter
 
 #### The Hyena Problem
 
-The hills are home to an unusually large hyena population—packs that have grown bold over generations, learning that the terrain favors them and that most travelers would rather flee than fight. They're not magical, not cursed, just extremely successful predators who've claimed this territory as their own.
+The hills are home to an unusually large hyena population—packs that have grown bold over generations, learning that the terrain favors them and that most travelers would rather flee than fight. They aren't magical or cursed, just extremely successful predators who've claimed this territory as their own.
 
 The hyenas hunt in coordinated packs, using the rocky terrain to funnel prey into ambushes. They're smart enough to avoid the Elephant Groves (the spirit there doesn't tolerate them) and smart enough to recognize when a target is too dangerous. But anything that looks weak, slow, or alone is fair game.
 

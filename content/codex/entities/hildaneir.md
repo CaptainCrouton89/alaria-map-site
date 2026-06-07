@@ -23,7 +23,7 @@ Something was bound at the center of the spiral, long before the elves walked so
 
 ### Hilda's vigil
 
-That someone was Hilda the Wanderer, whose name the forest still carries. Whatever else the legends make of her, her work at Hildaneir was vigil. She kept the binding while she lived, and the binding held while she kept it. Then she was forgotten. Not killed, not driven off; only let go out of memory, until no one came to the center of the spiral anymore. And the working began to fail.
+That someone was Hilda the Wanderer, whose name the forest still carries. Whatever else the legends make of her, her work at Hildaneir was vigil. She kept the binding while she lived, and the binding held while she kept it. Then she was forgotten. No one killed her or drove her off; she was simply let go out of memory, until no one came to the center of the spiral anymore. And the working began to fail.
 
 A binding cut in titan-script does not break the moment its keeper is gone. It frays. The formulae weather like any other inscription, slowly, and with no one to renew them the slow is enough. Whatever Hildaneir was built to hold is no longer fully held. It is loose in its cell, or leaking out of it, and it has been getting freer for a long time.
 

@@ -4,6 +4,8 @@ name: "Aether"
 entityType: magic
 blurb: "Aether is the primary meta-fluid energy source of Lanthornia, a nearby planar stack; not native to Alaria, it powers sky ships."
 tags: ["material"]
+relations:
+  - { rel: culture, kind: originatedIn, target: "plane-lanthornia", note: "native to the Lanthornia stack; an eruption deposited it across Alaria, where it hangs inert until tapped" }
 sources:
   - "magic_and_knowledge/materials/Aether.md"
 review:

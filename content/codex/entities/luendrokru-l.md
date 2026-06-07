@@ -23,7 +23,7 @@ Luendrokrül is old in the way that makes travelers uneasy. The canopy closes ov
 
 The trees here grow differently than in M'Svyla. Trunks twist, branches reach at odd angles, root systems surface and dive in patterns that suggest the trees are moving, slowly and invisibly, over years. Clearings that existed last season aren't there anymore. Paths close behind travelers. The forest rearranges itself, and no one knows if it's deliberate or just how forests are when left alone long enough.
 
-People who spend too long in Luendrokrül come out changed. Not cursed, not possessed, just different. Quieter. They struggle to explain what they saw or didn't see, what they felt. Most don't go back. The few who do tend to go deeper each time, staying longer, until eventually they don't come out at all.
+People who spend too long in Luendrokrül come out changed. They aren't cursed or possessed, just different. Quieter. They struggle to explain what they saw or didn't see, what they felt. Most don't go back. The few who do tend to go deeper each time, staying longer, until eventually they don't come out at all.
 
 #### The Ruins
 

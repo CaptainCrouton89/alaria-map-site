@@ -25,7 +25,7 @@ The Stones exhibit properties that should be impossible for rock:
 
 **Movement**: The tubes creep. The movement is imperceptible to the eye, inches per year at most, but they are not static. They are reaching. Toward what, no one knows.
 
-**The Weeping**: Dark fluid seeps from cracks and fissures throughout the Stones. Not blood, not oil, but something in between. The Tytheri call it Thryg-Myr, the Agony Ichor.
+**The Weeping**: Dark fluid seeps from cracks and fissures throughout the Stones, something between blood and oil. The Tytheri call it Thryg-Myr, the Agony Ichor.
 
 #### The Agony Ichor
 

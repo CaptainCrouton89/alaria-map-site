@@ -14,7 +14,7 @@ A large crescent bay along the southern Innerrim coast where the fish are alread
 
 #### The Dead Catch
 
-Fishermen learned centuries ago not to work Raric Bay. Nets come up full, the waters abundant, but every fish is already dead. Not killed by the net, not suffocated on the way up. Dead before capture. The flesh is fresh, unspoiled, perfectly edible. But the eyes are clouded, the gills still, the hearts stopped. Dissection shows no cause of death.
+Fishermen learned centuries ago not to work Raric Bay. Nets come up full, the waters abundant, but every fish is already dead. The net didn't kill them, and they didn't suffocate on the way up; they were dead before capture. The flesh is fresh, unspoiled, perfectly edible. But the eyes are clouded, the gills still, the hearts stopped. Dissection shows no cause of death.
 
 Fish swimming into the bay are alive. Fish caught in the bay are dead. The transition happens somewhere between, at a depth of roughly sixty feet. Divers who've crossed that threshold report nothing unusual: no temperature change, no pressure difference, no visible boundary. But everything below that line is corpse.
 
@@ -24,7 +24,7 @@ The dead fish still swim. Their bodies move with the currents, fins adjusting, m
 
 Below sixty feet, Raric Bay becomes something else.
 
-The seafloor at the bay's center, roughly ninety feet down, is covered in bones. Not fish bones. The bones of everything that has ever died in or near the bay: fish, birds, seals, dolphins, the occasional whale. And human bones. Thousands of human skeletons, accumulated over millennia, all facing the same direction. Southwest. Toward something beyond the bay's mouth that no chart has ever shown.
+The seafloor at the bay's center, roughly ninety feet down, is covered in bones. The bones of everything that has ever died in or near the bay: fish, birds, seals, dolphins, the occasional whale. And human bones. Thousands of human skeletons, accumulated over millennia, all facing the same direction. Southwest. Toward something beyond the bay's mouth that no chart has ever shown.
 
 The bones don't decay. A skeleton from the bay's first recorded drowning, over two thousand years ago, was recovered last century by a mage using telekinesis. The bones were pristine, white as fresh-cleaned ivory, with no sign of age or degradation.
 
@@ -38,7 +38,7 @@ Twelve attempts have been made to establish permanent settlements on Raric Bay's
 
 **Year two**: Livestock begin dying. No disease, no predation: animals simply stop living. Found in the morning, eyes open, bodies unmarked. Always facing southwest.
 
-**Year three**: The children stop speaking. Not traumatized, not ill: they simply have nothing to say. They spend hours staring at the bay. When asked what they see, they smile.
+**Year three**: The children stop speaking. They aren't traumatized or ill; they simply have nothing to say. They spend hours staring at the bay. When asked what they see, they smile.
 
 **Year four**: Settlers leave. Those who remain past year four do not leave. Their bones join the others on the seafloor.
 
@@ -64,7 +64,7 @@ Approximately forty miles southwest of Raric Bay's mouth, buried beneath three h
 
 When Lyzaria died 23.5 million years ago, the first death in creation, her passing established the system: soul to Astraeva, shadow to Malstaris. Every death since has followed that template. But the Unfallen predates Lyzaria. It comes from the primordial era, before Azus built the Planar Stack, before the titans were born, before positive and negative energy had names. When it ended, there was no Astraeva to receive a soul, no Malstaris to receive a shadow, no Celestia to hold a spirit. There was only Ezz, undifferentiated chaos, and Ezz does not recognize endings.
 
-The entity has no name in any living language. Scholars who have pieced together fragments from pre-titan texts call it the Unfallen, not because it cannot fall but because it fell before the concept of "fallen" had been established. Its death created a template that doesn't match the current system. Soul, shadow, and spirit never separated. They remain fused in a state the planar machinery cannot process: not alive, not properly dead, simply persisting in primordial stasis.
+The entity has no name in any living language. Scholars who have pieced together fragments from pre-titan texts call it the Unfallen, not because it cannot fall but because it fell before the concept of "fallen" had been established. Its death created a template that doesn't match the current system. Soul, shadow, and spirit never separated. They remain fused in a state the planar machinery cannot process: neither alive nor properly dead, persisting in primordial stasis.
 
 The Unfallen's body is vast. Estimates based on the spread of its influence suggest a mass comparable to a small mountain range. It resembles nothing living: a tangle of geometric shapes that don't quite connect properly, angles that hurt to perceive, surfaces that reflect things that aren't there. Divers who have seen fragments of it protruding from the sediment describe it as "a skeleton of mathematics" or "frozen screaming" or simply refuse to describe it at all.
 

@@ -49,7 +49,7 @@ The currents are a few miles wide, enough for ships to maneuver but tight enough
 Ships on a current travel roughly ten miles per hour. With a favorable tailwind (sails still work at altitude), speed increases modestly; headwinds slow progress. Travel times are predictable enough for scheduled trade, but weather variance means arrivals are approximate.
 
 ### Changing Currents
-Where the great currents overlap, ships can transfer between routes. This requires leaving the stable flow of one current and crossing the dead zone to catch another. Without the current's pull, a ship burns expensive aether to motor through the gap.
+Where the great currents overlap, ships can transfer between routes. This requires leaving the stable flow of one current and crossing the dead zone to catch another. Without the current's pull, a ship burns expensive Aether to motor through the gap.
 
 These convergence points are the most valuable locations in the sky trade. The cities beneath them, particularly those near the Middle Sea, benefit enormously from the traffic passing overhead.
 
@@ -63,7 +63,7 @@ Each stone has an equilibrium point, an altitude where its natural buoyancy bala
 Astral stones that reach the surface are incredibly valuable. Some lodge in the ground upon impact; others drift through the skies until netted. Either way, extracting and securing one is a massive capital investment, the foundation of the entire sky trade.
 
 ### Ship Construction
-A sky ship is, at its core, a traditional sailing vessel suspended from an astral stone by chains. The ship hangs below the stone, which provides lift; the ship's sails and aether engines provide lateral movement and altitude control.
+A sky ship is, at its core, a traditional sailing vessel suspended from an astral stone by chains. The ship hangs below the stone, which provides lift; the ship's sails and Aether engines provide lateral movement and altitude control.
 
 The critical component is the chain. Regular metal cannot maintain a connection between astral matter and material construction; the chain would phase through the stone or the ship. Sky ship chains are forged from astral steel: an alloy of iron and astral filings.
 
@@ -71,17 +71,17 @@ Astral filings are ground from small, unusable astral stones, fragments too smal
 
 If a ship's chains are cut, the stone continues drifting on its current while the ship plummets. The stone might be recovered eventually, or might drift forever. This makes chain-cutting the ultimate threat in sky piracy.
 
-### Aether Engines
+### Aether engines
 The astral currents provide movement across the sky, but ships need propulsion for three critical operations: transferring between currents, maneuvering for docking, and maintaining altitude during station-keeping.
 
-Aether engines provide this propulsion. Aether, an exotic meta-fluid that arrived in Alaria from the planar stack Lanthornia, exists invisibly throughout the atmosphere; it is not native to the world and not one of the four sources of Alarian magic. Sensing and extracting it is an exotic working, not a chemistry that could be taught from a manual, and the only creatures who can do it commercially are the aether-tappers, who harvest raw aether and fix it with water into usable fuel.
+Aether engines provide this propulsion. Aether, an exotic meta-fluid that arrived in Alaria from the planar stack Lanthornia, exists invisibly throughout the atmosphere; it is not native to the world and not one of the four sources of Alarian magic. Sensing and extracting it is an exotic working, not a chemistry that could be taught from a manual, and the only creatures who can do it commercially are the aether-tappers, who harvest raw Aether and fix it with water into usable fuel.
 
-The engine mechanism involves lanthornium, an uncommon gray-blue stone that requires expensive purification. When purified lanthornium vibrates at a specific frequency and contacts processed aether, the aether rapidly expands and discharges as it slips back toward the insubstantial, driving pistons or turning propellers. Well-designed engines use self-striking mechanisms: the initial strike causes vibrations that trigger subsequent strikes, creating a sustained power cycle similar to a steam engine. What the cycle burns is the release of an off-world substance, not a combustion that any foundry could copy or scale.
+The engine mechanism involves Lanthornium, an uncommon gray-blue stone that requires expensive purification. When purified Lanthornium vibrates at a specific frequency and contacts processed Aether, the Aether rapidly expands and discharges as it slips back toward the insubstantial, driving pistons or turning propellers. Well-designed engines use self-striking mechanisms: the initial strike causes vibrations that trigger subsequent strikes, creating a sustained power cycle similar to a steam engine. What the cycle burns is the release of an off-world substance, not a combustion that any foundry could copy or scale.
 
-Aether is expensive. A ship on the currents uses little, just minor course corrections. But burning aether to motor between currents, hold position during combat, or chase down another vessel consumes fuel rapidly. This cost shapes sky trade economics: only the wealthiest merchants can afford to deviate from the currents, and pirates who burn aether to catch prey must ensure their prize is worth the fuel.
+Aether is expensive. A ship on the currents uses little, just minor course corrections. But burning Aether to motor between currents, hold position during combat, or chase down another vessel consumes fuel rapidly. This cost shapes sky trade economics: only the wealthiest merchants can afford to deviate from the currents, and pirates who burn Aether to catch prey must ensure their prize is worth the fuel.
 
 #### Aether-tappers
-The extraction of aether from the atmosphere requires creatures sensitive to its presence. Aether-tappers possess this sensitivity, an adaptation that developed after Lanthornia's eruption deposited aether across Alaria. They pull raw aether from the air using methods that resemble both breathing and weaving, then process it with water into the liquid fuel that powers engines.
+The extraction of Aether from the atmosphere requires creatures sensitive to its presence. Aether-tappers possess this sensitivity, an adaptation that developed after Lanthornia's eruption deposited Aether across Alaria. They pull raw Aether from the air using methods that resemble both breathing and weaving, then process it with water into the liquid fuel that powers engines.
 
 Aether-tapper clans operate wherever the sky trade reaches, but the largest concentrations cluster around major docking hubs. Prices vary by location: isolated towers pay premiums, while competitive markets near convergence points offer better rates. The goblins guard their extraction techniques jealously; attempts to replicate the process without goblin involvement have consistently failed.
 
@@ -95,7 +95,7 @@ The currents' stable altitude helps with mountain ranges; the current rises over
 ---
 
 ### Docking Towers
-Sky ships cannot simply land. Their astral stones want to rise to equilibrium; bringing a ship to ground level requires burning aether to motor downward, then holding position against the stone's buoyancy.
+Sky ships cannot simply land. Their astral stones want to rise to equilibrium; bringing a ship to ground level requires burning Aether to motor downward, then holding position against the stone's buoyancy.
 
 Docking towers solve this problem. These structures, typically 100 to 200 feet tall, allow ships to approach at a lower altitude and tie off rather than fighting their way to ground level. The ship moors to the tower's platform, exchanges cargo and passengers, then releases and floats back to cruising altitude.
 
@@ -122,7 +122,7 @@ The sky trade concentrates wealth in specific locations:
 ---
 
 ### Sky Piracy
-Piracy in the skies differs fundamentally from its ocean equivalent. On water, a faster ship can run; in the air, everyone moves at the same speed (the current's). Escape requires burning aether to motor off-current, an expensive gamble that pirates can match if they're willing to spend the fuel.
+Piracy in the skies differs fundamentally from its ocean equivalent. On water, a faster ship can run; in the air, everyone moves at the same speed (the current's). Escape requires burning Aether to motor off-current, an expensive gamble that pirates can match if they're willing to spend the fuel.
 
 This creates a different calculation. Pirates don't chase; they ambush. Convergence points and docking approaches are the danger zones. Ships transferring between currents or descending to dock are vulnerable; ships cruising mid-current with no reason to slow are nearly impossible to intercept.
 
@@ -135,9 +135,9 @@ Dropping fire from the sky is devastatingly effective. Armies with no counter to
 
 But military sky operations face constraints:
 
-You cannot hold position for free. A ship on-current keeps moving; staying over a single location requires burning aether to motor against the flow. Extended bombardment campaigns consume vast quantities of expensive fuel.
+You cannot hold position for free. A ship on-current keeps moving; staying over a single location requires burning Aether to motor against the flow. Extended bombardment campaigns consume vast quantities of expensive fuel.
 
-You cannot be everywhere. The currents go where they go. Regions away from the major routes are nearly impossible to threaten by air; the aether cost of reaching them and returning is prohibitive.
+You cannot be everywhere. The currents go where they go. Regions away from the major routes are nearly impossible to threaten by air; the Aether cost of reaching them and returning is prohibitive.
 
 Ground forces cannot support you. Coordination between sky units and surface armies requires precise timing; the ship cannot wait overhead while ground forces maneuver.
 
@@ -148,7 +148,7 @@ Despite these limitations, every major power maintains some sky capability. Even
 ### Capital Investment
 An astral stone of adequate size to lift a trading vessel represents a fortune. Most are owned by established merchant houses, state navies, or trade guilds rather than individual captains. A captain who owns their own stone has either inherited it, been extraordinarily lucky, or pulled off something worth asking about quietly.
 
-The ship itself costs comparable to a large ocean-going vessel, substantial but manageable for a successful merchant. The chains (astral steel, custom-fitted) add considerably. The aether engine (lanthornium, complex mechanisms, specialized knowledge) adds more. Ongoing aether costs depend on route and operations.
+The ship itself costs comparable to a large ocean-going vessel, substantial but manageable for a successful merchant. The chains (astral steel, custom-fitted) add considerably. The Aether engine (Lanthornium, complex mechanisms, specialized knowledge) adds more. Ongoing Aether costs depend on route and operations.
 
 Total investment for a modest trading vessel runs roughly three times the cost of an equivalent ocean ship. Returns are proportionally higher: sky trade reaches markets that would take months to reach by surface, and carries cargo across terrain that would be impassable otherwise.
 
@@ -164,14 +164,14 @@ The sky trade's value lies in what it makes possible:
 **Slave transport.** This is the trade's ugly truth. Sky ships carry slaves faster, in larger numbers, and with less risk of interdiction than any surface method. Gorath and Kyagos built their sky fleets on slave money; the two industries are inseparable.
 
 ### Who Cannot Participate
-Regions away from the currents are excluded from the sky trade. Reaching them requires burning aether for the entire journey, and for the return trip, if you want to come back. The Western Isles, much of the far south, and interior regions away from current paths rely on traditional surface transport.
+Regions away from the currents are excluded from the sky trade. Reaching them requires burning Aether for the entire journey, and for the return trip, if you want to come back. The Western Isles, much of the far south, and interior regions away from current paths rely on traditional surface transport.
 
 This creates economic stratification. Nations under the currents have access to faster, more efficient trade networks; nations outside them compete at a disadvantage. The divide shapes Alarian geopolitics as fundamentally as access to ocean ports shapes surface trade.
 
 ---
 
 ### Sky Sailors
-The crews of sky ships come from mixed backgrounds. Some are trained in dedicated guilds that teach astral navigation, aether engine maintenance, and the peculiarities of high-altitude sailing. Others are ocean sailors who crossed over, learning sky work as an extension of their existing skills.
+The crews of sky ships come from mixed backgrounds. Some are trained in dedicated guilds that teach astral navigation, Aether engine maintenance, and the peculiarities of high-altitude sailing. Others are ocean sailors who crossed over, learning sky work as an extension of their existing skills.
 
 The work is different from ocean sailing in key ways. The rigging serves a similar purpose (catching wind), but altitude effects and thinner air change the feel of the sails. Collision risk is constant; someone is always watching for other ships, and fog triggers heightened alert. The stone and chains require inspection (failure is catastrophic), and engine maintenance demands specialized knowledge.
 
@@ -180,7 +180,7 @@ Sky crews develop their own traditions, superstitions, and slang. They tend to v
 ### Navigational Intuition
 The best sky captains develop a sense for the current, an awareness that verges on the supernatural. Souls passing through the Astral Sea are slightly influenced by the same currents the ships ride; captains who can feel this influence navigate more precisely, sense current boundaries before crossing them, and predict weather that surface-dwellers cannot anticipate.
 
-This skill cannot be taught directly. It develops over years of high-altitude sailing, and not all captains achieve it. Those who do command premium wages; their ships arrive on schedule, avoid collisions, and make current transfers with minimal aether expenditure.
+This skill cannot be taught directly. It develops over years of high-altitude sailing, and not all captains achieve it. Those who do command premium wages; their ships arrive on schedule, avoid collisions, and make current transfers with minimal Aether expenditure.
 
 ### Cultural Attitudes
 The peoples of Alaria view the sky trade variously:

@@ -18,7 +18,7 @@ A fortified city-state in the Suki Hills, standing as the first line of defense 
 
 Yuki's most distinctive feature is its goblin population. Roughly a third of the city's twelve thousand residents are aether-tappers—the aether-producing goblin variant whose secretions fuel magical devices throughout Alaria. These goblins fled the Krell Lands during the Consumption, and their descendants have become integral to Yuki's survival.
 
-The aether-tappers maintain the city's defenses. Their aether powers the alarm systems, the communication network, and the devastating trap arrays that ring the hills. A Krell scout cannot approach within two miles of Yuki without triggering enchanted sensors that alert the entire garrison.
+The aether-tappers maintain the city's defenses. Their Aether powers the alarm systems, the communication network, and the devastating trap arrays that ring the hills. A Krell scout cannot approach within two miles of Yuki without triggering enchanted sensors that alert the entire garrison.
 
 In exchange, Yuki provides the aether-tappers with something rare: respect. Most of Ve views goblins as vermin or resources to be exploited. In Yuki, they sit on the council, own property, and are addressed as citizens. This has made the city a magnet for goblin refugees from across the region.
 
@@ -36,7 +36,7 @@ Yuki's survival depends on making Krell incursions too costly to sustain. The ci
 
 Yuki survives on three industries:
 
-**Aether Production** — The aether-tappers produce a steady supply of goblin aether, which Yuki exports to Chimea, Shyona, and the western city-states. The quality is high, the supply is reliable, and the prices are steep. Yuki can afford to be expensive because the alternative sources involve enslaving goblins, which many buyers find distasteful.
+**Aether Production** — The aether-tappers produce a steady supply of goblin Aether, which Yuki exports to Chimea, Shyona, and the western city-states. The quality is high, the supply is reliable, and the prices are steep. Yuki can afford to be expensive because the alternative sources involve enslaving goblins, which many buyers find distasteful.
 
 **Intelligence** — Yuki knows more about the Krell Lands than any other settlement. Maps, patrol patterns, hive locations, seasonal behaviors—all of this information has value. Scholars, military planners, and treasure hunters pay well for Yuki's accumulated knowledge.
 

@@ -34,7 +34,7 @@ None have been proven. The lake keeps its secrets.
 
 "Lonesome" refers both to the lake's isolation and to the feeling people report when near it.
 
-Visitors describe an inexplicable sense of melancholy, not fear, not danger, just profound sadness. Animals avoid the shore. Travelers who camp nearby report dreams of vast, empty spaces. The sensation fades within a few miles, but few choose to return.
+Visitors describe an inexplicable sense of melancholy, a profound sadness rather than fear or danger. Animals avoid the shore. Travelers who camp nearby report dreams of vast, empty spaces. The sensation fades within a few miles, but few choose to return.
 
 Whether this is a property of the lake itself or a psychological response to its uncanny stillness is unclear.
 

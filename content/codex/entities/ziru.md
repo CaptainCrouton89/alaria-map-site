@@ -9,7 +9,6 @@ tags: ["dragon", "creature"]
 sources: ["all_sections_formatted/Aboyinzu.md#L3496"]
 relations:
   - { rel: spatial, kind: within, target: "1776" }
+  - { rel: history, kind: participatedIn, target: "event-return-of-dragons" }
 ---
-A dragon dwelling in the Dragonsong region.
-
-TODO
+A dragon dwelling in the Dragonsong region. Like the other wild dragons of the present age, Ziru came out of the Return of Dragons, the long re-emergence that scattered dragonkind back across Alaria after the Shattering.

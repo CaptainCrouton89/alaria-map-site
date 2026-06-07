@@ -91,7 +91,7 @@ See: Elderran
 
 #### Gnarwood Forest
 
-A forest in the northern reaches of Old Tolaria, one of the few regions relatively unaffected by the Apparatus's backlash. The Gnarwood's trees are ancient and twisted, growing in strange spirals that some scholars attribute to mild magical contamination predating the fall. Small communities of woodcutters and hunters eke out a living here, carefully avoiding the more unstable areas to the south.
+A forest in the northern reaches of Old Tolaria, one of the few regions relatively unaffected by the Apparatus's backlash. The Gnarwood's trees are ancient and twisted, growing in strange spirals—the mark of a mild magical contamination that predates the fall and never touched the deeper structure of the wood. Small communities of woodcutters and hunters eke out a living here, carefully avoiding the more unstable areas to the south.
 
 #### Lodrian Hills
 
@@ -99,7 +99,7 @@ Rolling hills in the western portion of Old Tolaria, now largely depopulated. Th
 
 #### Grailwood Forest
 
-A smaller forest south of the Gnarwood, notable for the quality of its timber before the fall. Now the Grailwood is strange—trees grow in geometric patterns, undergrowth arranges itself in spirals, and animals behave with uncanny coordination. Scholars believe the Apparatus's effects created some form of collective consciousness in the forest, though whether this makes the Grailwood dangerous or merely unsettling is debated.
+A smaller forest south of the Gnarwood, notable for the quality of its timber before the fall. Now the Grailwood is strange—trees grow in geometric patterns, undergrowth arranges itself in spirals, and animals behave with uncanny coordination. The Apparatus's backlash knitted the forest into some form of collective consciousness; the trees, undergrowth, and animals act as one slow mind. Whether that mind is dangerous or merely unsettling, no one who has gone in to test it has come back to settle the question.
 
 #### Elaphant Groves
 
@@ -107,7 +107,7 @@ Once famous orchards that supplied fruit to the Tolarian elite. The groves still
 
 #### Faewoods
 
-The most dramatic result of the Apparatus's activation. When the mage-kings attempted to cage the Faesong, it exploded outward and created a forest in minutes. The Faewoods are concentrated fae energy given physical form—beautiful, deadly, and utterly unnatural. The boundary between the material world and the fae realms is dangerously thin throughout the forest.
+The most dramatic result of the Apparatus's activation. When the mage-kings attempted to cage the Faesong, it exploded outward and created a forest in minutes. The Faewoods are loosed Faesong condensed into forest—beautiful, deadly, and utterly unnatural. The song pools so thick here that it never stopped condensing into fae; they are made on this ground, not bleeding in from anywhere else.
 
 See: Faewoods
 

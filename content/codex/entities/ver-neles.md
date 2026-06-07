@@ -2,7 +2,7 @@
 id: "3608"
 name: "Ver Neles"
 entityType: water
-blurb: "The contested eastern river, draining Kro Shiik and meandering southeast through Roule colonial territory to the sea."
+blurb: "The contested eastern river, draining Kro Shiik and meandering northeast through Roule colonial territory to the sea."
 coordinates: [57, 401]
 zoomLevel: 5
 sources: ["all_sections_formatted/Upoceax.md#L2204", "all_sections_formatted/Upoceax.md#L2459"]
@@ -14,13 +14,13 @@ review:
   action: keep
   notes: "Ver Neles eastern river of Rakite. Merged from duplicate Ves Neles (3643, same coords [57,401]). Ves body folded in; Ves entity deleted."
 ---
-The eastern river, draining Kro Shiik and flowing southeast to the sea. "Neles" means "lazy" in Rakiten; the river meanders across the coastal plains, its course shifting year to year as floods cut new channels.
+The eastern river, draining Kro Shiik and flowing northeast to the sea. "Neles" means "lazy" in Rakiten; the river meanders across the coastal plains, its course shifting year to year as floods cut new channels.
 
 #### Source and Course
 
 Ver Neles drains Kro Shiik from its eastern end, carrying the gathered waters of central Rakite toward the coast. The river begins wide and slow, meandering through Tyror Weklis—the southern grasslands that serve as winter territory for the buffalo herds.
 
-The course runs roughly east-southeast, cutting through increasingly contested ground. Twenty years ago, this was empty prairie visited only by Rakiten hunting parties following the herds. Now the river passes within sight of halfling farms, its waters diverted into irrigation channels that feed foreign crops.
+The course runs roughly east-northeast, cutting through increasingly contested ground. Twenty years ago, this was empty prairie visited only by Rakiten hunting parties following the herds. Now the river passes within sight of halfling farms, its waters diverted into irrigation channels that feed foreign crops.
 
 #### The Colonial Stretch
 

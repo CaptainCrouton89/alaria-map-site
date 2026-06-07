@@ -38,7 +38,17 @@ The Marrovini are shipwrights, smugglers, and paranoid geniuses. They trust no o
 
 **Don Jacopo Marrovini**, the current patrón, is a weathered man who spent thirty years at sea before taking the family seat. He still thinks like a captain—quick decisions, harsh discipline, no tolerance for failure. His paranoia is legendary; he changes sleeping chambers nightly, employs three food tasters, and hasn't left the city in twelve years.
 
+The paranoia is earned. For all twelve of those years someone has been trying to kill him — by blade, by poison, by a stair that gave way and a fire that started inside a sealed room — and he has survived each attempt without once learning who is behind it. He changes chambers because the last patrón to sleep in a fixed bed did not wake. He can name neither the enemy nor an heir, and of those two failures the second may cost the Free Isles far more than the first.
+
 The Marrovini maintain the Free Isles' most extensive smuggling network. Goods that can't pass through legitimate channels—weapons for rebels, substances for addicts, people who need to disappear—move through Marrovini hands. The other families know about it. They use it too often to object.
+
+#### The Succession
+
+The Marrovini make a patrón the way they make every binding decision: in full council, every member of the bloodline present in one room, no proxy and no absentee. The rule is old, and it is the reason the family has never been split by a forged will or a deathbed claim. It is also a noose. To convene the council, Jacopo would have to gather every Marrovini who might want him dead into one chamber on one night — the single thing twelve years of caution have taught him never to do. So he does not convene it. So there is no named heir.
+
+If he dies unratified, the western approach loses the hand that screens every ship entering the Free Isles, and it loses it with no one entitled to take hold. The Valdrossi, the Gattorini, and whoever is left standing inside the Marrovini will all reach for the chokepoint in the same season. The Blood Pact has no arena bout for an empty chair.
+
+Not everyone in the family accepts the arithmetic. Caterina Marrovini, Jacopo's niece, has run the smuggling network in his name for six years, and she argues openly that the unanimity rule is a relic that will get them all killed: that a patrón can be made by the people who actually hold the docks rather than by a council that can never safely meet. She has begun signing manifests with an authority no one granted her, and the wharf bosses have begun honoring them. Half the bloodline calls her the family's only realistic future. The other half notes that the person arguing hardest to skip the council is exactly the person an assassin would need the council skipped, and that the attempts on Jacopo began the year before she came of age and have never once been aimed at her. Both halves are right. Neither can prove the part that matters, and Jacopo, who trusts no one, will not rule on it.
 
 #### The Arena
 
@@ -61,3 +71,8 @@ Legitimate tariffs from the western approach provide steady income, but the real
 - Do not ask about the Hills of the Damned. Do not approach the Hills of the Damned. Do not acknowledge the Hills of the Damned exist if you can help it.
 - Commissioning a ship takes time. The craftsmen don't rush, and the Marrovini don't pressure them.
 - The Pit of Vengeance is not entertainment. Tourists who treat it as such sometimes end up participating.
+
+<!-- author-notes -->
+GM-true answer to who has been trying to kill Don Jacopo (per the lore-style-guide "mysteries must have answers" rule): there is no single assassin, which is exactly why he has never identified one. The twelve years are two overlapping campaigns. The first (roughly years 1–6) was external — a rival house probing whether the western chokepoint could be taken if its gatekeeper fell; it stopped once the cost outran the prize. The second (years 6 to now) is internal — the faction behind Caterina, which wants the full-council rule broken and has concluded a living Jacopo will never permit it. Caterina has not personally ordered a death; the faction acts in her interest without her hand on it, which is why neither Jacopo nor Caterina herself can settle whether she is the family's salvation or its knife. The lore-complication (set-a-rule-then-invert: the unanimity rule vs. Caterina the patrón-in-fact) is left unresolved in-text by design. A party that investigates can uncover the two-campaign structure and the internal faction; that is the payoff.
+
+Caterina Marrovini and Don Jacopo are MENTIONS carried here only — do not author standalone person pages for either (same pattern as the other patrón mentions, per Free Isles cluster canon).

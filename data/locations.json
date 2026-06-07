@@ -405,11 +405,13 @@
     "parentId": null,
     "relatedIds": [
       "creature-griffin",
+      "faction-kro-shiik-convocation",
       "3793",
       "3952",
       "3540",
       "3548",
       "3544",
+      "1327",
       "3942",
       "4106",
       "3984",
@@ -430,7 +432,7 @@
       "manual-mph54u1t-vr51s",
       "4085",
       "3902",
-      "3763",
+      "creature-bathemiel",
       "creature-true-name",
       "3498",
       "race-swuigrach",
@@ -849,6 +851,7 @@
       "race-orc-xiivrach",
       "race-elf-rakiten",
       "race-elf-laeren",
+      "faction-titanic-priesthood",
       "3576",
       "3489",
       "3540",
@@ -910,7 +913,7 @@
     "atmosphere": "ancient",
     "blurb": "The Farlands occupy the western coastal region of Upoceax—a vast stretch of land running nearly 600 miles from north to south.",
     "parentName": "Upoceax",
-    "containsCount": 19,
+    "containsCount": 20,
     "borders": [
       {
         "id": "3342",
@@ -957,13 +960,16 @@
       "manual-mph554wn-4xcym",
       "manual-mph54zf6-5jd0s",
       "3750",
+      "390",
       "manual-mph54u1t-vr51s",
       "3151",
-      "3763",
+      "creature-bathemiel",
       "manual-mph55nw0-sjl00",
       "3733",
       "3206",
       "3786",
+      "412",
+      "411",
       "3761"
     ],
     "loreFile": "Upoceax.md",
@@ -971,7 +977,7 @@
     "atmosphere": "civilization",
     "blurb": "A western Upoceax archipelago of four wealthy trading city-states, each ruled by one of the great merchant families under the Blood Pact.",
     "parentName": "Upoceax",
-    "containsCount": 16,
+    "containsCount": 14,
     "borders": [
       {
         "id": "3781",
@@ -1839,9 +1845,11 @@
       "3274",
       "event-the-grinding",
       "3288",
+      "3725",
       "manual-mphcqwrl-01eaj",
       "creature-vexlings",
       "daemon-krondeum",
+      "person-belmonte",
       "3275",
       "3087",
       "3337",
@@ -2607,6 +2615,7 @@
     "relatedIds": [
       "9000",
       "magic-red-gold",
+      "magic-red-platinum",
       "477",
       "race-naga-nagashi",
       "race-naga-megelren",
@@ -2614,6 +2623,7 @@
       "person-mariseni",
       "398",
       "3178",
+      "event-return-of-dragons",
       "era-reign-of-dragons",
       "679",
       "585",
@@ -4060,7 +4070,7 @@
     "atmosphere": "ancient",
     "blurb": "What remains of Alaria's magical heartland after the Tolarian mage-kings switched on the Apparatus of Severance at Elderran and tore the region apart.",
     "parentName": "Innerrim",
-    "containsCount": 29
+    "containsCount": 28
   },
   {
     "id": "3346",
@@ -5218,14 +5228,17 @@
     "parentId": "3476",
     "relatedIds": [
       "3476",
+      "magic-faesong",
       "3540",
       "3614",
       "3567",
       "3515",
       "manual-mpihlpxh-7wo54",
       "manual-mpihd01b-de09w",
+      "creature-pixies",
       "3529",
-      "3573"
+      "3573",
+      "race-faeja"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -6530,8 +6543,10 @@
     "parentId": "3476",
     "relatedIds": [
       "3476",
+      "faction-titanic-priesthood",
       "magic-titan-blood-bones",
       "race-elf-amverela",
+      "event-titan-contamination",
       "3576",
       "3548",
       "3554",
@@ -6539,13 +6554,18 @@
       "3620",
       "3521",
       "3494",
+      "3844",
       "manual-mpihd8yj-lbsoq",
       "manual-mpihd01b-de09w",
       "manual-mpihid7t-w8b6i",
       "manual-mpihi6y6-yupjp",
       "manual-mpihchh6-uf7kf",
       "manual-mpihd5cm-1f5fw",
-      "creature-titan"
+      "3529",
+      "3573",
+      "magic-deoric",
+      "creature-titan",
+      "race-giant"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -8567,18 +8587,32 @@
     "parentId": "3476",
     "relatedIds": [
       "3476",
+      "3498",
       "race-elf-amverela",
       "3540",
+      "person-myrelin-aelvanor",
       "3544",
       "3484",
+      "3514",
+      "3539",
       "manual-mpihbxzh-y7eq6",
+      "3567",
+      "3515",
       "manual-mpihag8q-6jotp",
+      "2676",
       "manual-mpihbb0n-ijttw",
       "manual-mpihakwm-37rkb",
       "manual-mpihbrht-312f0",
       "3902",
       "manual-mpihbdvh-xue3f",
+      "daemon-vaerivra",
       "manual-mpihb6u5-600t7",
+      "magic-faesong",
+      "3603",
+      "race-elf-caerene",
+      "3573",
+      "race-elf-laeren",
+      "race-elf-ythari",
       "creature-titan"
     ],
     "loreFile": "Upoceax.md",
@@ -8590,7 +8624,7 @@
       "fae"
     ],
     "atmosphere": "civilization",
-    "blurb": "The southernmost and most traditional of the three elven kingdoms.",
+    "blurb": "The southernmost and most traditional of the three elven kingdoms; nearly all of it is the fae's under an ancient treaty the elves keep absolutely.",
     "parentName": "Farlands",
     "containsCount": 13
   },
@@ -8912,16 +8946,21 @@
     "parentId": "3529",
     "relatedIds": [
       "3529",
+      "3515",
       "race-elf-ythari",
       "3543",
+      "3544",
       "3484",
       "manual-mpihbxzh-y7eq6",
       "manual-mpihag8q-6jotp",
+      "2676",
       "manual-mpihakwm-37rkb",
       "manual-mpihbrht-312f0",
       "manual-mpihbdvh-xue3f",
       "3498",
+      "daemon-vaerivra",
       "manual-mpihb6u5-600t7",
+      "race-elf-caerene",
       "3573"
     ],
     "loreFile": "Upoceax.md",
@@ -9405,15 +9444,23 @@
     "zoomLevel": 3,
     "parentId": "3498",
     "relatedIds": [
-      "3498"
+      "3498",
+      "faction-titanic-priesthood",
+      "event-titan-contamination",
+      "3576",
+      "3476",
+      "3341",
+      "magic-deoric",
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
       "mountains",
-      "geography"
+      "geography",
+      "titans"
     ],
     "atmosphere": "nature",
-    "blurb": "Mountains within Deo Esari.",
+    "blurb": "The bracket-shaped range along the eastern Farlands, a titan graveyard whose buried bones are the source of most of the world's titan bone.",
     "parentName": "Deo Esari"
   },
   {
@@ -9933,14 +9980,18 @@
       "race-elf-amverela",
       "3540",
       "3548",
+      "person-myrelin-aelvanor",
       "3502",
       "manual-mpihcb8f-39d5v",
       "3614",
+      "3567",
       "3532",
       "manual-mpihmqzr-swwmh",
       "manual-mpihl3cq-7b6vq",
       "manual-mpihlpxh-7wo54",
-      "manual-mpihkv1d-htg8h"
+      "creature-true-name",
+      "manual-mpihkv1d-htg8h",
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -10879,6 +10930,7 @@
       "1475",
       "1503",
       "1738",
+      "magic-faesong",
       "race-orc-tytheri",
       "creature-ghosts",
       "creature-orcs"
@@ -11067,6 +11119,7 @@
       "2455",
       "race-craven",
       "2467",
+      "faction-firemage-corps",
       "nation-kingdoms-of-fire",
       "2488",
       "2565",
@@ -11837,17 +11890,39 @@
       "3573",
       "3498",
       "event-campaign-roule-invades",
-      "race-elf-rakiten"
+      "race-elf-rakiten",
+      "faction-kro-shiik-convocation",
+      "3548",
+      "3502",
+      "3653",
+      "3525",
+      "4375",
+      "3632",
+      "3657",
+      "3606",
+      "3608",
+      "water-kro-shiik",
+      "daemon-vaeloten",
+      "manual-mpii11ug-g92kn",
+      "race-halfling",
+      "manual-mpii16li-ifz3i",
+      "3607",
+      "3529",
+      "4442",
+      "4423"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
       "state",
-      "nation"
+      "nation",
+      "elven",
+      "plains",
+      "rakite"
     ],
     "atmosphere": "civilization",
-    "blurb": "A state in the Farlands.",
+    "blurb": "The grass-sea northwest of the Kelder Mountains, home to the sign-speaking Rakiten, who follow the buffalo and hold every river sacred from source to sea.",
     "parentName": "Farlands",
-    "containsCount": 19,
+    "containsCount": 18,
     "borders": [
       {
         "id": "3573",
@@ -14849,7 +14924,12 @@
       "3341",
       "3776",
       "3756",
-      "manual-mph55nw0-sjl00"
+      "430",
+      "manual-mph55nw0-sjl00",
+      "creature-issoroth",
+      "3785",
+      "plane-glyssen",
+      "race-elf-teflin"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -15139,6 +15219,8 @@
     "parentId": "411",
     "relatedIds": [
       "411",
+      "390",
+      "person-mariseni",
       "creature-dragons"
     ],
     "loreFile": "Clueanda.md",
@@ -15617,6 +15699,7 @@
       "3168",
       "3259",
       "3151",
+      "person-belmonte",
       "3337",
       "person-esmeraz",
       "person-veramus",
@@ -18249,7 +18332,6 @@
       "3632",
       "3657",
       "race-elf-rakiten",
-      "3573",
       "4423"
     ],
     "loreFile": "Upoceax.md",
@@ -18260,7 +18342,7 @@
       "dangerous"
     ],
     "atmosphere": "nature",
-    "blurb": "A dense woodland in the southwestern corner of Rakite, where the Tyror Weklis plains meet the Vokas Pendi foothills.",
+    "blurb": "A silent woodland in Rakite's southwestern corner; the herds will not cross its treeline, and the Rakiten, who name it weklis-void, will not enter.",
     "parentName": "Rakite"
   },
   {
@@ -19355,7 +19437,8 @@
     ],
     "atmosphere": "nature",
     "blurb": "A forest in Old Tolaria that should not exist.",
-    "parentName": "Old Tolaria"
+    "parentName": "Old Tolaria",
+    "containsCount": 1
   },
   {
     "id": "1559",
@@ -20985,6 +21068,7 @@
       "3725",
       "magic-languages",
       "manual-mph55nw0-sjl00",
+      "creature-issoroth",
       "3785",
       "plane-glyssen"
     ],
@@ -21759,12 +21843,15 @@
       380
     ],
     "zoomLevel": 4,
-    "parentId": "3604",
+    "parentId": "3476",
     "relatedIds": [
-      "3604",
+      "3476",
       "race-orc-xiivrach",
+      "3459",
       "3558",
-      "3476"
+      "magic-deoric",
+      "creature-titan",
+      "creature-orcs"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -21775,7 +21862,7 @@
     ],
     "atmosphere": "civilization",
     "blurb": "A Xi'ivrach orc city-state on the shores of Lake Kro Nymos, in the remote northern Farlands.",
-    "parentName": "Rakite"
+    "parentName": "Farlands"
   },
   {
     "id": "manual-mpgcvbcl-azsw8",
@@ -22505,7 +22592,9 @@
       "3151",
       "3341",
       "3178",
-      "3206"
+      "3206",
+      "411",
+      "3761"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -22592,6 +22681,11 @@
     "parentId": "3604",
     "relatedIds": [
       "3604",
+      "faction-kro-shiik-convocation",
+      "person-wendel-corvos",
+      "430",
+      "3608",
+      "daemon-vaeloten",
       "race-elf-rakiten",
       "3607",
       "4423"
@@ -22716,8 +22810,11 @@
       "manual-mphbxx52-8k3hb",
       "manual-mphbyq97-ygwqy",
       "404",
+      "390",
       "race-human-tikhaya",
       "manual-mphbybgg-dm1kn",
+      "411",
+      "creature-titan",
       "race-giant"
     ],
     "loreFile": "Clueanda.md",
@@ -24300,7 +24397,6 @@
       "3725",
       "creature-bathemiel",
       "3750",
-      "3763",
       "race-human"
     ],
     "loreFile": "Upoceax.md",
@@ -29102,14 +29198,18 @@
     "parentId": "411",
     "relatedIds": [
       "411",
+      "creature-chavux",
+      "414",
+      "415",
       "creature-dragons",
       "race-naga-nagashi",
-      "482"
+      "482",
+      "race-naga"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
     "atmosphere": "civilization",
-    "blurb": "A collection of islands off the southwest coast.",
+    "blurb": "An island chain off Adron's southwest coast whose strait is the hunting ground of the wild dragon Chavux.",
     "parentName": "Adron",
     "containsCount": 3
   },
@@ -31155,12 +31255,12 @@
     "parentId": "3781",
     "relatedIds": [
       "3781",
+      "creature-issoroth",
       "3725",
       "3756",
       "manual-mph55nw0-sjl00",
       "3785",
-      "plane-glyssen",
-      "race-human"
+      "plane-glyssen"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -32659,10 +32759,12 @@
     "zoomLevel": 5,
     "parentId": "529",
     "relatedIds": [
-      "529"
+      "529",
+      "864"
     ],
     "tags": [],
     "atmosphere": "civilization",
+    "blurb": "Erasnus's southern grain port, swollen with refugees from the silvertongue plague; its failed grain bond is now the case that may break the Alliance.",
     "parentName": "Erasnus"
   },
   {
@@ -34572,27 +34674,6 @@
     "tags": [],
     "atmosphere": "civilization",
     "parentName": "Chechol"
-  },
-  {
-    "id": "3763",
-    "name": "Bathemiel",
-    "type": "poi",
-    "coordinates": [
-      205,
-      415
-    ],
-    "zoomLevel": 5,
-    "parentId": "3725",
-    "relatedIds": [
-      "3725",
-      "creature-bathemiel",
-      "3761"
-    ],
-    "loreFile": "Upoceax.md",
-    "tags": [],
-    "atmosphere": "civilization",
-    "blurb": "The dragon came to these islands in the Second Eon, when the world was younger and the Free Isles were uninhabited rock.",
-    "parentName": "Free Isles"
   },
   {
     "id": "manual-mphb4nb1-kfnv5",
@@ -37030,6 +37111,7 @@
     "parentId": "3498",
     "relatedIds": [
       "3498",
+      "faction-titanic-priesthood",
       "3576"
     ],
     "loreFile": "Upoceax.md",
@@ -39896,8 +39978,16 @@
     "parentId": "3484",
     "relatedIds": [
       "3484",
+      "magic-faesong",
+      "faction-tolarian-mage-kings",
       "3540",
-      "3532"
+      "3544",
+      "2683",
+      "3532",
+      "2881",
+      "2890",
+      "4145",
+      "faction-druids"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -39906,7 +39996,7 @@
       "sacred"
     ],
     "atmosphere": "civilization",
-    "blurb": "The heart of Amholia Greras.",
+    "blurb": "The fae court's seat at the heart of Amholia Greras, where Faesong pools thickest and condenses into the unnamed queen of the forest.",
     "parentName": "Amholia Greras"
   },
   {
@@ -40523,6 +40613,7 @@
       "2555",
       "person-pembling",
       "person-vaznik",
+      "faction-firemage-corps",
       "era-seventh-dawn",
       "nation-kingdoms-of-fire",
       "event-the-severance",
@@ -43231,7 +43322,10 @@
     "parentId": "411",
     "relatedIds": [
       "411",
-      "482"
+      "416",
+      "414",
+      "482",
+      "race-naga"
     ],
     "loreFile": "Clueanda.md",
     "tags": [],
@@ -46990,13 +47084,18 @@
     "parentId": "3529",
     "relatedIds": [
       "3529",
+      "3540",
+      "3567",
       "manual-mpihakwm-37rkb",
+      "3498",
+      "magic-deoric",
+      "race-elf-laeren",
       "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [],
     "atmosphere": "ancient",
-    "blurb": "At the forest's center, on the banks of the Ver Ta'Eres, stands the ruins of Kilren's Palace.",
+    "blurb": "The fortress King Kilren raised in the fae's forbidden wood; his ten thousand vanished overnight, and he came home a crown with no one inside.",
     "parentName": "Illron"
   },
   {
@@ -47807,11 +47906,14 @@
     "parentId": "3484",
     "relatedIds": [
       "3484",
+      "faction-titanic-priesthood",
+      "person-myrelin-aelvanor",
       "manual-mpihlpxh-7wo54",
       "manual-mpihd01b-de09w",
       "3498",
       "3529",
-      "3573"
+      "3573",
+      "creature-titan"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
@@ -49585,8 +49687,9 @@
     "parentId": "2676",
     "relatedIds": [
       "2676",
-      "2843",
       "2679",
+      "3484",
+      "2843",
       "magic-languages",
       "race-naruaghin",
       "magic-faesong",
@@ -50577,6 +50680,7 @@
     "relatedIds": [
       "3781",
       "manual-mph55twc-xk1lw",
+      "creature-issoroth",
       "3785"
     ],
     "loreFile": "Upoceax.md",
@@ -56377,12 +56481,12 @@
       260
     ],
     "zoomLevel": 5,
-    "parentId": "732",
+    "parentId": "2890",
     "relatedIds": [
-      "732",
-      "artifact-apparatus-of-severance",
-      "2881",
       "2890",
+      "artifact-apparatus-of-severance",
+      "732",
+      "2881",
       "magic-faesong"
     ],
     "loreFile": "Rimihuica.md",
@@ -56394,7 +56498,7 @@
     ],
     "atmosphere": "ancient",
     "blurb": "A ruined village of Old Tolaria, swallowed by the Faewoods when the forest erupted from nothing.",
-    "parentName": "Old Tolaria"
+    "parentName": "Faewoods"
   },
   {
     "id": "1366",
@@ -59401,19 +59505,20 @@
       429
     ],
     "zoomLevel": 5,
-    "parentId": "3725",
+    "parentId": "3768",
     "relatedIds": [
+      "3768",
       "3725",
-      "creature-true-name",
-      "race-giant"
+      "3750",
+      "creature-true-name"
     ],
     "loreFile": "Upoceax.md",
     "tags": [
       "poi"
     ],
     "atmosphere": "ancient",
-    "blurb": "A giant pinnacle on a massive, ornate base.",
-    "parentName": "Free Isles"
+    "blurb": "A pale, unweathering pinnacle in Sunshine Meadows whose apex opens a door out of the Alarian planar stack — for a price few survive paying.",
+    "parentName": "Sunshine Meadows"
   },
   {
     "id": "4042",
@@ -59483,6 +59588,9 @@
     "parentId": "3781",
     "relatedIds": [
       "3781",
+      "creature-issoroth",
+      "3776",
+      "430",
       "plane-glyssen"
     ],
     "loreFile": "Upoceax.md",
@@ -59928,7 +60036,6 @@
       "creature-true-name",
       "magic-languages",
       "daemon-solas",
-      "race-giant",
       "race-human"
     ],
     "loreFile": "Upoceax.md",
@@ -59940,7 +60047,8 @@
     ],
     "atmosphere": "dangerous",
     "blurb": "Cursed meadowy hills on the southern islands of the Free Isles, where the sun burns brighter than it should and the creatures have learned to…",
-    "parentName": "Free Isles"
+    "parentName": "Free Isles",
+    "containsCount": 1
   },
   {
     "id": "manual-mphr0pbd-iclx9",
@@ -59971,6 +60079,7 @@
     "parentId": "manual-mpjrcf71-enapy",
     "relatedIds": [
       "manual-mpjrcf71-enapy",
+      "2683",
       "2620"
     ],
     "loreFile": "Rimihuica.md",
@@ -61138,6 +61247,27 @@
     "parentName": "Wycendeula"
   },
   {
+    "id": "3763",
+    "name": "The Chained Caverns",
+    "type": "poi",
+    "coordinates": [
+      205,
+      415
+    ],
+    "zoomLevel": 5,
+    "parentId": "3725",
+    "relatedIds": [
+      "3725",
+      "creature-bathemiel",
+      "3761"
+    ],
+    "loreFile": "Upoceax.md",
+    "tags": [],
+    "atmosphere": "civilization",
+    "blurb": "The pre-human caverns beneath Mpehi where the dragon Bathemiel lies in self-forged chains, tended by the Gattorini.",
+    "parentName": "Free Isles"
+  },
+  {
     "id": "281",
     "name": "The Chimean Approach",
     "type": "poi",
@@ -61454,6 +61584,7 @@
     "parentId": "3725",
     "relatedIds": [
       "3725",
+      "manual-mph554wn-4xcym",
       "3733",
       "3786"
     ],
@@ -61461,7 +61592,8 @@
     "tags": [],
     "atmosphere": "nature",
     "blurb": "Southwest of Awobiso, visible from the highest terraces, the Hills of the Damned rise from the sea—a barren promontory where nothing grows and the soil…",
-    "parentName": "Free Isles"
+    "parentName": "Free Isles",
+    "containsCount": 1
   },
   {
     "id": "4034",
@@ -62296,9 +62428,9 @@
     "parentId": "1",
     "relatedIds": [
       "1",
+      "magic-faesong",
       "245",
       "224",
-      "magic-faesong",
       "creature-pixies"
     ],
     "loreFile": "Ve.md",
@@ -63464,13 +63596,17 @@
       421
     ],
     "zoomLevel": 5,
-    "parentId": "3725",
+    "parentId": "3737",
     "relatedIds": [
-      "3725"
+      "3737",
+      "3733",
+      "3786",
+      "race-human"
     ],
     "tags": [],
     "atmosphere": "civilization",
-    "parentName": "Free Isles"
+    "blurb": "A sealed black spire at the heart of the Hills of the Damned, prison of a thing whose name the Marrovini will not speak aloud.",
+    "parentName": "The Hills of the Damned"
   },
   {
     "id": "658",
@@ -65269,7 +65405,7 @@
     "loreFile": "Upoceax.md",
     "tags": [],
     "atmosphere": "water",
-    "blurb": "The contested eastern river, draining Kro Shiik and meandering southeast through Roule colonial territory to the sea.",
+    "blurb": "The contested eastern river, draining Kro Shiik and meandering northeast through Roule colonial territory to the sea.",
     "parentName": "Rakite"
   },
   {
@@ -67275,7 +67411,9 @@
     "zoomLevel": 5,
     "parentId": "1776",
     "relatedIds": [
-      "1776"
+      "1776",
+      "event-return-of-dragons",
+      "creature-dragons"
     ],
     "loreFile": "Aboyinzu.md",
     "tags": [

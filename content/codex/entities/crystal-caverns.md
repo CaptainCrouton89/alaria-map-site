@@ -50,7 +50,7 @@ New Chimea controls the primary approaches to the Crystal Caverns and has built 
 
 The standard technique involves specialized chisels that separate crystals from the cavern walls without triggering their stored energy. This requires precise angles, specific rhythms of impact, and an intuitive understanding of the crystal's internal structure. A successful harvest produces intact crystals that can be transported to the surface, where mages and artificers use them in a variety of applications.
 
-Force crystals power siege weapons that strike with impossible momentum. They enable barriers that repel physical attacks. They're used in the construction of astral ships, providing emergency acceleration when conventional aether engines fail. A single large crystal can be worth more than a merchant vessel.
+Force crystals power siege weapons that strike with impossible momentum. They enable barriers that repel physical attacks. They're used in the construction of astral ships, providing emergency acceleration when conventional Aether engines fail. A single large crystal can be worth more than a merchant vessel.
 
 The failure rate among harvesters is approximately one in fifty. The caverns add new bodies regularly.
 

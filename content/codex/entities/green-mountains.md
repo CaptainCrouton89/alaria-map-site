@@ -24,7 +24,7 @@ The smell is distinctive: wet stone, moss, and something faintly sulfurous from 
 
 #### Trolls
 
-The Green Mountains are infested. Not everywhere, not constantly, but persistently. Troll warrens honeycomb the deeper cave systems, and every few years a new clan pushes into territory closer to the lowlands.
+The Green Mountains are infested. The infestation is persistent, if not everywhere or constant. Troll warrens honeycomb the deeper cave systems, and every few years a new clan pushes into territory closer to the lowlands.
 
 The trolls here are the common variety: large, regenerating, not clever but cunning enough. They raid for food, preferring livestock but taking halflings when they can. A troll can carry off two sheep or one adult Windorf. They hunt at night, in bad weather, when visibility favors their darkvision.
 

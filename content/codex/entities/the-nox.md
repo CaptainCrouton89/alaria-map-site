@@ -16,7 +16,7 @@ No one knows how The Nox came to be. It isn't a leyline effect; that has been ch
 
 #### The Darkness
 
-The Nox is dark. Not dim, not shadowed, but dark. The canopy doesn't explain it; other forests have equally thick canopy and still admit light. In The Nox, light sources fail. Torches burn but don't illuminate. Magical light flickers and dies. Even in clearings where sky should be visible, the darkness presses in.
+The Nox is dark. The darkness runs deeper than dimness or shadow. The canopy doesn't explain it; other forests have equally thick canopy and still admit light. In The Nox, light sources fail. Torches burn but don't illuminate. Magical light flickers and dies. Even in clearings where sky should be visible, the darkness presses in.
 
 The darkness isn't empty. It moves. It pools in places like water, flows around obstacles, rises and falls with a rhythm no one has mapped to any cycle. Travelers who've survived The Nox report that the darkness seemed to follow them: thickening when they tried to move quickly, thinning when they stood still, always pressing at the edges of whatever light they could maintain.
 
@@ -38,7 +38,7 @@ Hollow hounds don't eat prey. They drag victims into the deepest dark and leave 
 
 **The Stalking**
 
-The Stalking is an event, not a creature. Those who enter The Nox alone sometimes become aware that something is following them. Not a hollow hound, not any visible predator, just presence. Footsteps that echo their own. Breathing that doesn't match theirs. The certainty that if they turn around, something will be there.
+The Stalking is an event, not a creature. Those who enter The Nox alone sometimes become aware that something is following them. It is never a hollow hound or any visible predator, only a presence. Footsteps that echo their own. Breathing that doesn't match theirs. The certainty that if they turn around, something will be there.
 
 The Stalking never attacks. It doesn't need to. Victims fleeing The Stalking stumble into hollow hounds, fall from ravines, or simply run until the darkness takes them. The Stalking is patient. It can follow for days. No one has survived long enough to discover what happens if you stop running.
 

@@ -2,7 +2,7 @@
 id: "3502"
 name: "Drakwald Forest"
 entityType: wilderness
-blurb: "A dense woodland in the southwestern corner of Rakite, where the Tyror Weklis plains meet the Vokas Pendi foothills."
+blurb: "A silent woodland in Rakite's southwestern corner; the herds will not cross its treeline, and the Rakiten, who name it weklis-void, will not enter."
 coordinates: [35, 403]
 zoomLevel: 4
 tags: ["forest", "geography", "rakite", "dangerous"]
@@ -15,52 +15,41 @@ review:
   action: keep
   notes: "Drakwald Forest SW corner of Rakite between Tyror Weklis & Vokas Pendi; consistent with map coords [35,403]. Atmospheric, on-theme. Keep."
 ---
-A dense woodland in the southwestern corner of Rakite, where the Tyror Weklis plains meet the Vokas Pendi foothills. The Rakiten don't enter it. They don't talk about why.
+A dense, silent woodland in the southwestern corner of Rakite, where the Tyror Weklis grasslands meet the foothills of the Vokas Pendi. The Rakiten do not enter it, and they do not explain why.
 
-#### Character
+The trees themselves are nothing strange: oak, ash, and hornbeam, the same stock that grows in copses across the plains. What is wrong is how they grow. Too close, their branches laced shut overhead so that no sky shows through. The undergrowth knots past walking. And the wood is silent — not quiet, silent. The plains carry sound for miles, wind and the far rumble of the herds; the Drakwald takes all of it. Past the treeline the world goes mute, the way a heavy snowfall mutes a valley, except there is no snow and no reason for it.
 
-The Drakwald is wrong in ways that are hard to articulate. The trees are ordinary enough, oak and ash and hornbeam, the same species that grow in scattered copses across the plains. But they grow too close together, their branches interlocking overhead to block the sky. The undergrowth is too thick, too tangled, too resistant to passage.
+The Rakiten have a word for ground like this. Weklis-void: a sleeping emptiness, a hole where something was and is not. Most places they name so are small, a spring gone dry or a meadow where a herd died and the grass never came back right. The Drakwald is the largest weklis-void anyone knows of, and the only one walled in living trees. It is older than any Rakiten memory of why.
 
-And it's quiet. The plains are full of sound: wind in the grass, bird calls, the distant rumble of herds. The Drakwald swallows noise. Step under those trees and the world goes silent, as if someone had stuffed cotton in your ears.
+### The boundary
 
-The Rakiten have a word for places like this: weklis-void, "sleeping emptiness." Locations where something used to be and isn't anymore, leaving a hole in the world. The Drakwald feels like a hole.
+The forest edge is a line, not a margin. Grass grows to the treeline and stops — no scattered saplings, no slow thickening of scrub, just plains and then forest, as though the border had been drawn and the wood had agreed to keep it. Buffalo will not cross it. Horses balk and turn for home, and the dogs go with them. Even the insects fall away: the grasshoppers and beetles thick in the open grass grow sparse within a bowshot of the trees.
 
-#### The Boundary
+The Rakiten keep their distance because the wood keeps a count. Their oral histories hold one story told many ways, and it has only one ending. A hunter follows wounded game past the treeline and does not come out. Not killed in the forest. Not found dead. The trail simply ends where the grass ends, as though he had stepped off the edge of the world.
 
-The forest edge is remarkably sharp. Grass grows right up to the treeline, then stops. There's no transition zone, no scattered saplings, no gradual thickening, just plains and then forest, as if someone had drawn a line.
+### Inside
 
-Buffalo won't cross that line. Horses balk and refuse. Dogs whine and pull toward home. Even insects seem reluctant; the grasshoppers and beetles that fill the plains become sparse within a hundred yards of the trees.
+No account describes the interior, because no one who has seen it has come back to give one. From the edge the floor reads ordinary for fifty feet or so, leaf litter and a scatter of pale mushrooms, before the undergrowth closes the view. The light is wrong even at midday, the shade too deep for the canopy that casts it.
 
-The Rakiten respect these warnings. Their oral tradition includes half-remembered stories of hunters who followed wounded game into the Drakwald and never emerged. Not died in the forest. Never emerged. Their trails simply ended at the treeline, as if they'd stepped into another world.
+Scouts who watch the treeline speak of movement among the trunks: nothing with a shape they can name, there when seen sidelong and gone when faced. One claimed he heard voices. No words, only the rise and fall of speech, a cadence patient and very old, too faint and too strange to follow. He would not be pressed on it, and he died that winter in a hunting accident. The elders marked the timing and said nothing of it aloud.
 
-Some elders say the forest is a door to somewhere else. Others say it's a trap that looks like a door. No one suggests finding out which is true.
+### What it is
 
-#### What's Inside
+The Rakiten reading is the plain one. The wood is weklis-void, a place emptied of something that was once in it, and what remains is the hole, still occupied. What was taken, and by whom, the prohibition long ago reframed from lost knowledge into forbidden knowledge. The effect is the same either way: no one goes to look.
 
-Unknown. The Rakiten prohibition against entering has held for generations, and outsiders who stumble across the Drakwald rarely care enough to explore.
+The Lenoran elves who have heard of it call this superstition. A forest is a forest; the Rakiten are a grassland people who mistrust trees because they have never lived among them. The objection is tidy and has one flaw, which the Lenorans grant when pressed — no Lenoran has gone to the Drakwald to settle it.
 
-From the edge, the forest floor is visible for perhaps fifty feet before the undergrowth blocks the view. It looks normal: leaf litter, fallen branches, the occasional mushroom cluster. But the light is wrong. Even on bright days, the interior is dim, the shadows too deep for the canopy overhead.
+That gap is the danger. The taboo that has kept the Drakwald sealed is a Rakiten taboo, and it binds only the Rakiten. Lenoran traders cross the Vokas Pendi every summer and hold no such law. Neither do the Roule colonists on the coast, nor whatever surveyor eventually decides a stand of uncut hardwood is timber going to waste. The Rakiten elders have weighed warning the outsiders and chosen against it. If others mean to learn what answers when the Drakwald is entered, the elders would rather they learn it without Rakiten help.
 
-Rakiten scouts have reported seeing movement in those shadows. Nothing with a recognizable shape, no animal they could name, just motion at the edge of perception, there when you look away and gone when you look back.
+<!-- author-notes -->
+GM-knowable cause (deliberately withheld from the public body, per the lore-style-guide "mysteries must have answers" rule — the ambiguity above is licensed because the cause is recorded here):
 
-One scout claimed he heard voices. No words he could make out, just the rhythm of speech, rising and falling, too faint to understand. He refused to say more, and he died that winter in an unrelated hunting accident. The elders noted the timing but drew no conclusions.
+The Drakwald is a pre-elven remnant, NOT fae. The same lost civilization that left the roofless complexes, square foundations, and carved channels in the Sunset Mountains (entity 3459; see farlands.md's Sunset Mountains entry — "a roofless complex no expedition has explored and returned from," and the Jeh Bli name keth-vorai, "stone that remembers") also seeded the Drakwald. These builders predate the elven kingdoms of the Farlands and vanished roughly 10,000 years ago. When they went, something they had made or left behind survived and retreated into the wood. It is not hostile and it is not comprehensible. The "voices" the scout heard are it trying to speak a language ten thousand years dead. It responds to being entered — those who cross the treeline are the stimulus, which is why hunters who follow game in are never seen again. The Rakiten taboo is, functionally, the only thing containing it, and it holds only because the Rakiten keep it.
 
-#### Theories
+Why weklis-void is the truest in-world reading: the Rakiten name is correct in substance. Something was here and is not, and what remains is the hole it left, still occupied. They have lost the why, not the what. The Lenoran-superstition view is the grounded inversion (set-a-rule-then-invert) and is wrong, but no one has paid to find out, so it stands.
 
-**The Rakiten View**: The Drakwald is weklis-void, a wound in the world where something was removed. What was removed, and by whom, is forbidden knowledge, or more likely lost knowledge that the prohibition has reframed as forbidden.
+§3 / fae discipline (for future authors): the Drakwald is explicitly NOT fae and must never be conflated with Iyaklomori Grera, the Faewoods, or the Queen's reservoirs. Its emptiness is the OPPOSITE of a Faesong reservoir's thick living song — a place where "something was and is not," not a place where the song pooled thick enough to condense. Do not import "fae realm/plane" language here.
 
-**The Lenoran View**: The few elven scholars who've heard of the Drakwald dismiss it as superstition. Forests are forests. The Rakiten are primitive grassland dwellers who fear trees because they're unfamiliar. (No Lenoran has visited the Drakwald to confirm this assessment.)
+Sunset Mountains graph edge: a directed origin edge Drakwald -> Sunset Mountains (3459) would record the shared-builders link, but the codex Infobox renders edge kinds publicly, so successorOf/ruinsOf would spoil the deliberate ambiguity. Left unauthored pending orchestrator decision; raised in the final report.
 
-**The Concerning View**: The Drakwald occupies the borderland between Rakite and Lenora, between the plains and the mountains, between the leyline of Light and the leyline of something else. It might be a natural boundary phenomenon, a place where magical currents cancel each other out. It might be something that's supposed to stay in the forest, and the wrongness is what keeps it contained.
-
-#### Why It Matters Now
-
-The Roule colonists have been burning grassland. So far, they've stayed on the eastern peninsula, far from the Drakwald. But if they keep expanding westward, if they decide the forest is just timber waiting to be harvested, they might cut those trees.
-
-The Rakiten elders have considered warning them. They've decided against it. If the halflings are foolish enough to enter the Drakwald, perhaps the problem will solve itself.
-
-This might be wisdom. It might be cowardice. It might be the Rakiten's cultural aversion to confrontation preventing them from doing the right thing.
-
-Or it might be that the Drakwald is just a forest, and generations of Rakiten have been afraid of their own shadows.
-
-There's one way to find out. No one's volunteering.
+Containment note: this file plus rakite.md, vokas-pendi.md, and tyror-weklis.md all place the Drakwald in Rakite (within 3604). farlands.md previously mislabeled it "Northern forest of Lenora"; corrected at the boundary to "Western forest of the Rakite plains."

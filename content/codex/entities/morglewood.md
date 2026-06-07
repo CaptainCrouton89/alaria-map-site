@@ -28,7 +28,7 @@ The Velathi maintain that Morglwood is proof not everything about Xabraedia is c
 
 #### The Barrier Theory
 
-According to local legend, Morglewood was planted deliberately by the first Velathi settlers—or by someone even older—to contain Starfall's spread. The roots were woven with protective bindings, the soil treated with neutralizing agents, the trees selected specifically for their resistance to extraplanar contamination. The forest itself serves as a living wall against the purple tide.
+According to local legend, Morglewood was planted deliberately by the first Velathi settlers—or by someone even older—to contain Starfall's spread. The roots were woven with protective bindings, the soil treated with neutralizing agents, the trees selected specifically for their resistance to extraplanar contamination. The forest itself is a living wall against the purple tide.
 
 Evidence for this theory includes:
 - The unnaturally sharp boundary between Morglewood and the Veluminante
@@ -37,6 +37,8 @@ Evidence for this theory includes:
 - The forest's stubborn resistance to the Veluminante's expansion despite centuries of proximity
 
 The Velathi neither confirm nor deny the barrier theory. They simply ensure Morglewood is maintained—harvesting selectively, replanting where trees fall, and quietly removing anything that shows signs of purple influence.
+
+What the theory leaves out is the urgency. Morglewood is not a monument to an old victory. It is a dam, and it is being pushed against, constantly, by the thing the Velathi call Issoroth—the something reassembling itself out of the Veluminante to the south. The sharp boundary is sharp because it is the front line, held by labor that never stops. The crews who replant and cull are not tending a forest. They are bailing. Every season they walk the southern edge and burn back what has turned, and every season there is a little more of it to burn, and the line they hold is not quite the line they held before.
 
 #### Resources
 
@@ -48,4 +50,4 @@ The contrast between the two forests makes Morglewood valuable in ways beyond re
 
 Beyond Morglewood, Xabraedia's northern coast faces the Bay of Merchants—ordinary water, ordinary shores, theoretically accessible to anyone. In practice, the Velathi control access through Hik's harbor and discourage independent landings. They claim it's for visitors' protection; the forest can be confusing, and the route to Hik requires guidance. The real reason is less clear.
 
-The northern coast shows no signs of Starfall's influence. This might mean the barrier worked. It might also mean the influence is spreading in a different direction. The Velathi watch the coast carefully and don't explain why.
+The northern coast shows no signs of Starfall's influence. This is not because the barrier won. It is because Issoroth is not pushing north; the dam at Morglewood holds precisely because the thing it dams chose, long ago, to grow west and south toward the open water instead, where nothing stands in the way. The Velathi watch the coast anyway. They are not watching for an arrival from the sea. They are watching the treeline behind them, to see how much closer it is than last year, and they don't explain that to anyone who asks.

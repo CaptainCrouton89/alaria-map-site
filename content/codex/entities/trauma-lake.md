@@ -24,7 +24,7 @@ The lake has no visible inlet or outlet. Water levels remain constant regardless
 
 People who spend time near Trauma Lake experience their worst memories.
 
-Not hallucinations. Not visions. The actual memories, forced to the surface with perfect clarity. Every detail preserved, every emotion fresh. Childhood terrors. Losses. Betrayals. The things you've spent years learning to live with come back as if they happened yesterday.
+The lake doesn't produce hallucinations or visions; it forces the actual memories to the surface with perfect clarity. Every detail preserved, every emotion fresh. Childhood terrors. Losses. Betrayals. The things you've spent years learning to live with come back as if they happened yesterday.
 
 Proximity to the water intensifies the effect. Standing on the shore produces discomfort: intrusive thoughts, unwanted recollections. Touching the water triggers full immersion in a specific traumatic memory. Swimming in it, rare given the lake's reputation, causes victims to relive trauma after trauma until they drown or are pulled out.
 

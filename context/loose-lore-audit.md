@@ -2,6 +2,8 @@
 
 Read-only audit. Maps the entity-level gap the systems run (`docs/worldbuilding/systems/currency.md`, `economy.md`, `technology.md` + the currency/tech spec) deliberately deferred. Nothing here is authored or edited — this is a prioritized, sized build list for the CTO to decide against.
 
+> EXECUTED 2026-06-05 — the build list below was authored by 8 parallel `writer` nodes + a central integration pass. See the EXECUTION LOG at the bottom of this file. Build OK (3890 entities), lint errors:0.
+
 Doctrine bound (`docs/worldbuilding/lore-style-guide.md`): the corpus deliberately keeps ~65–80% of named referents as stubs/mentions. A referent earns a page only when it is load-bearing — multiple entities lean on it, a system doc points ownership *at* it, or a reader following a doc would expect a page and find a hole. This audit separates LOAD-BEARING gaps (Sections A/B) from things that should correctly stay un-built (Section C). Where a "gap" is actually a doctrine-correct stub, it says so.
 
 Method: existence resolved by filename glob + `^name:` field grep + full-body `grep -ril` across all 3,885 entity files; depth/adequacy and canon-fact harvest done by 4 parallel read-only explore children (southern-cities, banking-cluster, missing-harvest, tech-p3). Reference counts = "entity files mentioning the term," a load-bearing proxy.
@@ -149,3 +151,32 @@ These live correctly inside the systems docs or as self-glossing mentions. Liste
 ## CORRECTION TO THE ORCHESTRATOR'S KNOWN-MISSING LIST
 
 `titan-bone` is **not** page-less. `magic-titan-blood-bones.md` exists (name "Titan Blood & Bones"), referenced by 18–22 files. The real item is a DEEPEN (the financial reserve role is the clean gap — see B1), not a CREATE. The other four orchestrator-flagged items confirm as genuine MISSING: red-platinum (A1), Aldrichold (A4), and Lanthornium (A2, the catalyst stone — its parent stack Lanthornia is the related A3). The fourth, aetherium, should stay a mention (C13), not be authored.
+
+---
+
+## EXECUTION LOG (2026-06-05)
+
+8 parallel `writer` nodes (disjoint file sets) authored the build list; the orchestrator applied all edges + index inserts centrally, then ran ONE build + lint.
+
+AUTHORED — 5 new entities:
+- `magic-red-platinum` (A1) — red platinum + the Crimson Crown; honors the LOCKED does-not-turn-Kethic counterfeit-test inversion.
+- `magic-lanthornium` (A2) — the gray-blue catalyst stone the aether engine runs on.
+- `plane-lanthornia` (A3) — the foreign stack; also added to `plane-the-cosmos` "Other Known Stacks", and `magic-aether` re-pointed `originatedIn` it.
+- `faction-tarkhon-grain-exchange` (A4) — the Aldrichold grain monopsony; opening sharply differentiated from Aldriktch/Adrak/Adron.
+- `faction-firemage-corps` (A5) — the Yolus-seam war-order; military-not-commercial, un-relocatable, dated ~2776 SD, with the conscription lever.
+
+DEEPENED — 8 files:
+- `magic-titan-blood-bones` (B1) — new "The reserve of last resort" section; bone/blood split + the money-vs-magic competition hook.
+- `free-isles`, `shacklands`, `kokotintin` (B2/B4/B5) — the southern weighed-silver MARK mechanic, in each entity's own context.
+- `magic-sky-stone` (B3) — "The lift of the sky trade" (capital-concentration lever; lift vs propulsion kept distinct).
+- `adrak`, `azantir`, `kyorda` (B6/B7/B8) — banking-cluster container summaries; the Bank of Infindior framing in `kyorda` reconciled to the time-frozen custody vault.
+- `faction-aldriktch-trade-alliance` (B9) — assessed, left unchanged (already adequate; no dangling ref).
+
+EDGES applied centrally (6 files; one-direction-only; `danglingTargets:0`, `bothEndsDirected:0`): adron `produces`→red-platinum; bank-of-infindior `guards`→red-platinum + titan-bone; magic-aether & magic-lanthornium `originatedIn`→plane-lanthornia; grain-exchange `memberOf`→Tarkhon, `tradesWith`→Enymu, `participatedIn`→Grain Compact; firemage-corps `memberOf`→Tarkhon, `attunedTo`→magic-fire. Wishlist edges with no clean edge-kind (sky-stone "lift", person→city seats, "lends-to" financing) correctly left prose-only.
+
+NOT DONE (doctrine-correct):
+- A6 (dangling `currency.md` refs) — ALREADY RESOLVED: the surviving systems-doc references all sit inside stripped `<!-- author-notes -->` blocks (adron, bank-of-infindior, plane-bank-of-infindior, era-lost-ages), not player-facing body. No cleanup needed.
+- `overview-factions.md` — deliberately NOT edited (curated thematic essay, "never a roll-call"; both new factions are reachable via edges + search; a Firemage-Corps insert would force a rule-of-three).
+- Section C left as stubs/mentions as designed; Aetherium (C13) not authored (resolves to `magic-kethic`); both P3 markets stay deferred.
+
+GATE: `node scripts/build-codex.mts` → 3890 entities, all outputs written. `node scripts/codex.mts report lint` → errors:0 (6 error-checks all 0; warnings at tracked baseline).

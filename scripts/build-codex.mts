@@ -344,9 +344,28 @@ function autolinkBody(rawBody: string, ownId: string): string {
   return segs.map((s) => s.text).join('');
 }
 
+// ---- wikilink pass: resolve [[id]] / [[id|display]] to real codex links BEFORE auto-linking ----
+// Authors write `[[race-beastman]]` (id only) or `[[shroud-isles|Shroud Isles]]` (id|display).
+// Emit the exact link form the auto-linker produces ([text](/codex/<id>)) using the entity's
+// display name as text (or the authored `|display` when given), resolving the id against `byId`.
+// Run this BEFORE autolinkBody so the emitted standard links are opaque to the auto-linker (no
+// double-linking, and no link injected inside the brackets). Unresolvable ids warn + fall back
+// to plain text (brackets stripped), mirroring the build's existing dangling-target warn style.
+const WIKILINK_RE = /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g;
+function resolveWikilinks(body: string, ownId: string): string {
+  return body.replace(WIKILINK_RE, (_full, id: string, display?: string) => {
+    const t = byId.get(id.trim());
+    if (!t) {
+      console.warn(`[build] unresolved wikilink [[${id.trim()}]] in entity ${ownId}`);
+      return (display ?? id).trim();
+    }
+    return `[${(display ?? t.name).trim()}](/codex/${t.id})`;
+  });
+}
+
 for (const e of entities) {
-  if (e.body) e.body = autolinkBody(e.body, e.id);
-  if (e.mechanics) e.mechanics = autolinkBody(e.mechanics, e.id);
+  if (e.body) e.body = autolinkBody(resolveWikilinks(e.body, e.id), e.id);
+  if (e.mechanics) e.mechanics = autolinkBody(resolveWikilinks(e.mechanics, e.id), e.id);
 }
 
 // ---- containment children + reverse (incoming) typed edges ----

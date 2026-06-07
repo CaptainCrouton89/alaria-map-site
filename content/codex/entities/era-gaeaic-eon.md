@@ -34,6 +34,6 @@ Intelligent life was absent except for the druids.
 
 ### The Druids: 12 million years ago
 
-Along with Gaea came the druids — an ancient race so in touch with nature that they were believed to be incarnations of the wilderness itself. They built small villages wherever there was life, tending the land and working powerful magic. Their magic is neither Kethic nor Deoric but something older and stranger: **Faesong**, the ambient music of Melera herself. The druids hear and harmonize with the melody running through all creation — a true mixture of both primordial sources.
+Along with Gaea came the druids — an ancient race so in touch with nature that they were believed to be incarnations of the wilderness itself. They built small villages wherever there was life, tending the land and working powerful magic. Their magic is neither Kethic nor Deoric but something older and stranger: **Faesong**, the emotion-and-harmony face of Ezz — Melera's imprisoned song, still leaking into the world since the Rift tore it open. It is no blend of the other sources but a current of its own: the druids hear the melody running under all creation and harmonize with it, yet no druid commands it. They attune; they do not own.
 
 Although the druids never die of natural causes, they have slowly been killed off over time, such that only a few reside in Alaria today.

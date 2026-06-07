@@ -50,6 +50,17 @@ The vast majority of titan bones come from Deo Esari, a mountain kingdom built a
 
 This monopoly is weakening because the supply is finite, not because of competition. Abandoned quarries dot the hills where veins have run dry. Prices climb year by year.
 
+Not all of the closed ground was worked out. The harvest is held by the Titanic Priesthood, the order that governs Deo Esari, and much of the kingdom's southern country stands sealed behind warning markers, poisoned rather than exhausted, after a contamination two centuries ago whose cause the priesthood buried. That ground will never reopen, which tightens an already failing supply. The Southern Wasting carries the account.
+
+### The reserve of last resort
+The blood gets spent; the bone does not. Titan blood is hydrated and worked into a tattoo, gone the instant it is used, while titan bone has neither decayed nor weathered across the millions of years since the titans fell. That imperishability is what made bone, and bone alone, the reserve of last resort, and the whole financial layer of the developed core is weighed against it.
+
+It does not tarnish, and no house can mint more of it. A store of value that cannot be inflated and cannot be counterfeited is the only one that holds when every coin in the room is suspect, which is precisely the moment the largest debts come due. The great houses settle their largest balances against bone and back their heaviest loans against it too.
+
+Adron's biggest paper rests on bone. The southern war-creditors of Azantir lend instead against ground their empire has not yet taken, so the continent's two great debts sit on opposite footings: a reserve that cannot be made, against a conquest that may never come. The reserves themselves are rarely seen and almost never moved. The great houses lodge their bone in the Bank of Infindior, where time does not pass, so a deposit neither ages nor can be reached by any hand but the depositor's.
+
+The supply is fixed and held overwhelmingly by Deo Esari, nineteen parts in twenty, shrinking as the old veins run dry; how it is mined and hoarded belongs to the markets, but the floor under all credit gets a little smaller every year. That sets the money against the magic. Every ounce of bone sealed in a vault as reserve is an ounce that will never be ground to paste and worked into a hand. Handmagic and the banking houses draw on the same finite stock, and the houses win, because a great house can outbid a tattooist without feeling the price.
+
 ### The black market
 Desperation breeds grim commerce. Every handmagic tattoo contains titan blood or bone, which means every handmagic user carries valuable material in their skin.
 

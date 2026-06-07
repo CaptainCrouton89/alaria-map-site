@@ -73,7 +73,7 @@ The western slopes drop into the foothills above the Minas River. The eastern fa
 
 #### The Refuge
 
-The Cowardly Mountains earned their name, or perhaps always had it, because things flee here. Not just animals seeking territory. People. Creatures. Things that needed to disappear.
+The Cowardly Mountains earned their name, or perhaps always had it, because things flee here. Animals seeking territory, but also people. Creatures. Things that needed to disappear.
 
 Refugees from Chaal Nazzerox's expansion found their way here generations ago, the living who escaped before Xynoth's conquest was complete. Their descendants still inhabit hidden valleys, speaking old Terrenian dialects and practicing customs that died everywhere else. They don't welcome outsiders, but they don't attack them either. They've learned that staying hidden is safer than staying hostile.
 
@@ -89,7 +89,7 @@ No census exists of who or what lives in the Cowardly Mountains. The terrain mak
 
 **The Unaffiliated**: A catchall term for everyone else—bandits, hermits, exiles, and stranger things. No organization, no common cause, just people and creatures who needed to be somewhere no one would look. Mostly avoid each other as much as they avoid outsiders.
 
-**The Listeners**: A name used by the Old Terrenians for something else in the mountains. Not human, not quite animal, seen only at the edges of vision. They don't attack, don't communicate, don't seem to want anything. They just watch. The Old Terrenians leave offerings at certain stones and don't speak of them to outsiders.
+**The Listeners**: A name used by the Old Terrenians for something else in the mountains, neither human nor quite animal, seen only at the edges of vision. They don't attack, don't communicate, don't seem to want anything. They just watch. The Old Terrenians leave offerings at certain stones and don't speak of them to outsiders.
 
 #### Why "Cowardly"
 
